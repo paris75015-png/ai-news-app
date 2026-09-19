@@ -79,7 +79,6 @@ async function fetchRss(source) {
       outlet: source.name,
       sourceId: source.id,
       region: source.region,
-      fetchBody: source.fetchBody !== false,
       pubDate: toIso(text(item.pubDate) || text(item['dc:date']) || text(item.published) || text(item.updated)),
     };
   });

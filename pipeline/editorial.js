@@ -4,7 +4,7 @@
  * 内容を変えたら EDITORIAL_VERSION を上げる（生成データに記録され、いつの基準で作ったか追跡できる）。
  */
 
-export const EDITORIAL_VERSION = 6;
+export const EDITORIAL_VERSION = 7;
 
 // 無料枠で混雑（503/429）したら次のモデルに切り替える。
 // 採点は1日1回なので最上位モデルから。要約は回数が多いので、回数上限の緩いモデルから使う。
@@ -21,7 +21,8 @@ export const TEMPERATURE = 0.2; // 実行ごとの採点・書きぶりのぶれ
 export const COLLECT = {
   maxAgeHours: 96,        // これより古い記事は候補にしない
   maxPerSource: 8,        // 1ソースあたりの候補上限（新しい順）
-  maxPublished: 30,       // 1日に掲載する件数（候補が足りない日は少なくなる）
+  maxPublished: 30,       // 1日に掲載する件数
+  selectionBuffer: 12,    // 本文が取れない記事を差し替えるため、多めに選んでおく件数
   minScore: 40,           // これ未満の記事は掲載しない
   perCategoryMin: 3,      // 各カテゴリーから最低この件数は載せる（候補があれば）
   perCategoryMax: 8,      // 1カテゴリーの上限（特定の分野だけで紙面が埋まらないように）
@@ -29,12 +30,16 @@ export const COLLECT = {
   summaryTimeLimitMin: 20, // 要約はこの時間で打ち切り、できた分だけで公開する
 };
 
-/** カテゴリー（アプリ上部のタブ）。id は英字、label は表示名 */
+/**
+ * カテゴリー。id は英字、label は表示名。
+ * parent があるものは親カテゴリーの一部門（画面では親のタブの中の小分類として表示）。
+ * 掲載枠（perCategoryMin / Max）は小分類ごとに確保するので、金融が経済ニュースに埋もれない。
+ */
 export const CATEGORIES = [
   { id: 'ai', label: 'AI', desc: 'AIモデル・AIサービス・AI企業の動向' },
   { id: 'it', label: 'IT', desc: 'ソフトウェア開発・ネットサービス・セキュリティ・デバイス・通信（AIが主題のものは除く）' },
   { id: 'economy', label: '経済', desc: '企業業績・産業・景気・物価・雇用・貿易・財政や税制' },
-  { id: 'finance', label: '金融', desc: '中央銀行（日銀・FRBなど）の金融政策と金利、為替（円安・円高・介入）、株式市場、債券、銀行、投資、暗号資産' },
+  { id: 'finance', label: '金融', parent: 'economy', desc: '中央銀行（日銀・FRBなど）の金融政策と金利、為替（円安・円高・介入）、株式市場、債券、銀行、投資、暗号資産' },
   { id: 'science', label: '科学', desc: '研究成果・医療・宇宙・環境・エネルギー技術' },
   { id: 'society', label: '社会・政策', desc: '規制・法律・政治・国際情勢・社会問題' },
 ];

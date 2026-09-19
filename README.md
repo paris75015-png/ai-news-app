@@ -6,7 +6,7 @@
 
 ```
 毎日 16:43（GitHub Actions。AI の無料枠が空いている米国の深夜）
-  → 21の取得元から記事候補を収集（pipeline/sources.js）
+  → 19の取得元から記事候補を収集（pipeline/sources.js。本文を最後まで取得できる媒体のみ）
   → Gemini 1回で全候補を順位付け・採点・日本語見出し・カテゴリー・重複判定（pipeline/editorial.js の基準）
   → カテゴリーの偏りを抑えて30件を選び、本文を取得して要約（Gemini が混雑したら Groq の GPT-OSS で予備要約）
   → public/data/news.json に保存 → GitHub Pages で公開

@@ -55,7 +55,8 @@ function filterArticles() {
   let list = state.isBookmarkMode ? state.bookmarks : state.articles;
 
   if (state.currentCategory !== 'all') {
-    list = list.filter(a => a.category === state.currentCategory);
+    const ids = categoryIds(state.currentCategory);
+    list = list.filter(a => ids.includes(a.category));
   }
   if (state.currentRegion !== 'all') {
     list = list.filter(a => a.region === state.currentRegion);
@@ -68,6 +69,12 @@ function filterArticles() {
   }
 
   state.filteredArticles = list;
+}
+
+/** タブの値から、表示するカテゴリーIDの一覧を得る（親を選んだら小分類も含める） */
+function categoryIds(value) {
+  if (value.endsWith(':self')) return [value.replace(/:self$/, '')];
+  return [value, ...state.categories.filter(c => c.parent === value).map(c => c.id)];
 }
 
 function findArticle(id) {
@@ -177,7 +184,7 @@ function toggleBookmark(id) {
 
 function attachEventListeners() {
   // Category Tabs
-  document.querySelectorAll('.cat-pill').forEach(pill => {
+  document.querySelectorAll('.cat-pill, .subcat-pill').forEach(pill => {
     pill.addEventListener('click', (e) => {
       state.currentCategory = e.currentTarget.getAttribute('data-category');
       filterArticles();

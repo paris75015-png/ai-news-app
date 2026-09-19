@@ -44,12 +44,21 @@ async function main() {
   if (candidates.length === 0) throw new Error('候補がありません');
 
   const scored = dryRun ? fakeScores(candidates) : await scoreCandidates(candidates);
-  const selected = selectBalanced(scored);
+  // 本文が取れない記事を差し替えられるよう、多めに選んでから本文を取得する
+  const ranked = scored
+    .filter(a => !a.duplicateOf)
+    .sort((a, b) => b.score - a.score || a.order - b.order);
+  const shortlist = selectBalanced(ranked, COLLECT.maxPublished + COLLECT.selectionBuffer);
+  await attachBodies(shortlist);
+  if (!dryRun) await substituteFromDuplicates(shortlist, scored);
+
+  // 本文が取れた記事だけで、カテゴリーの配分をやり直して最終決定する
+  const selected = selectBalanced(shortlist.filter(a => a.bodyAvailable), COLLECT.maxPublished);
+  const dropped = shortlist.filter(a => !a.bodyAvailable).length;
   const perCategory = CATEGORIES.map(c => `${c.label}${selected.filter(a => a.category === c.id).length}`).join(' ');
-  console.log(`[build] 掲載 ${selected.length}件（${perCategory}）`);
+  console.log(`[build] 掲載 ${selected.length}件（${perCategory}）／本文が取れず不採用 ${dropped}件`);
   if (selected.length === 0) throw new Error('掲載できる記事がありません');
 
-  await attachBodies(selected);
   if (dryRun) selected.forEach(a => (a.summary = `（dry-run）${a.snippet}`));
   else {
     await summarize(selected);
@@ -137,14 +146,10 @@ async function scoreList(candidates) {
 }
 
 /**
- * 掲載記事を選ぶ。まず各カテゴリーの上位を最低件数ずつ確保し、残りを重要度順に埋める。
- * 1カテゴリーの上限も設け、特定の分野だけで紙面が埋まらないようにする。
+ * 重要度順の記事から limit 件を選ぶ。まず各カテゴリー（小分類ごと）の上位を最低件数ずつ確保し、
+ * 残りを重要度順に埋める。1カテゴリーの上限も設け、特定の分野だけで紙面が埋まらないようにする。
  */
-function selectBalanced(scored) {
-  const ranked = scored
-    .filter(a => !a.duplicateOf)
-    .sort((a, b) => b.score - a.score || a.order - b.order);
-
+function selectBalanced(ranked, limit) {
   const picked = new Set();
   const count = {};
   const take = a => {
@@ -153,7 +158,7 @@ function selectBalanced(scored) {
   };
   const fill = (minScore, maxPerCategory) => {
     for (const a of ranked) {
-      if (picked.size >= COLLECT.maxPublished) return;
+      if (picked.size >= limit) return;
       if (!picked.has(a) && a.score >= minScore && (count[a.category] || 0) < maxPerCategory) take(a);
     }
   };
@@ -172,15 +177,33 @@ function selectBalanced(scored) {
   return ranked.filter(a => picked.has(a));
 }
 
+/**
+ * 本文が取れなかった記事は、同じ出来事を報じた別の媒体の記事（採点時に重複と判定されたもの）に差し替える。
+ * 点数・カテゴリーはそのまま引き継ぐ。
+ */
+async function substituteFromDuplicates(shortlist, scored) {
+  for (const a of shortlist.filter(x => !x.bodyAvailable)) {
+    const alternatives = scored.filter(d => d.duplicateOf === a.id);
+    for (const d of alternatives) {
+      const body = d.bodyHtml ? { text: htmlFragmentToText(d.bodyHtml) || null } : await fetchArticleBody(d.url);
+      if (!body.text) continue;
+      console.log(`[body] 差し替え: ${a.outlet} → ${d.outlet}（${d.title.slice(0, 40)}）`);
+      Object.assign(a, {
+        id: d.id, url: d.url, title: d.title, snippet: d.snippet, outlet: d.outlet, region: d.region,
+        sourceId: d.sourceId, discussionUrl: d.discussionUrl, body: body.text, bodyAvailable: true,
+      });
+      break;
+    }
+  }
+}
+
 async function attachBodies(articles) {
   const queue = [...articles];
   const worker = async () => {
     for (let a; (a = queue.shift()); ) {
       const body = a.bodyHtml
         ? { text: htmlFragmentToText(a.bodyHtml) || null }
-        : a.fetchBody === false
-          ? { text: null, reason: 'skipped' }
-          : await fetchArticleBody(a.url);
+        : await fetchArticleBody(a.url);
       a.body = body.text;
       a.bodyAvailable = Boolean(body.text);
       if (!a.bodyAvailable) console.log(`[body] 取得不可 (${body.reason}): ${a.url}`);
