@@ -12,7 +12,7 @@ import { collectCandidates } from './collect.js';
 import { fetchArticleBody, htmlFragmentToText } from './fetchArticle.js';
 import { initGemini, generateJson, usedModels } from './gemini.js';
 import {
-  COLLECT, EDITORIAL_VERSION, CATEGORIES, tierOf,
+  COLLECT, EDITORIAL_VERSION, CATEGORIES, tierOfRank,
   SCORING_PROMPT, SCORING_SCHEMA, SUMMARY_PROMPT, SUMMARY_SCHEMA,
 } from './editorial.js';
 
@@ -55,7 +55,7 @@ async function main() {
     editorialVersion: EDITORIAL_VERSION,
     models: dryRun ? ['dry-run'] : [...usedModels],
     categories: CATEGORIES,
-    articles: selected.map(a => ({
+    articles: selected.map((a, rank) => ({
       id: a.id,
       url: a.url,
       headline: a.headline,
@@ -64,7 +64,7 @@ async function main() {
       region: a.region,
       category: a.category,
       score: a.score,
-      tier: tierOf(a.score),
+      tier: tierOfRank(rank),
       pubDate: a.pubDate,
       summary: a.summary || null,
       bodyAvailable: a.bodyAvailable,

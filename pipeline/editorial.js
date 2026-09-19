@@ -4,7 +4,7 @@
  * 内容を変えたら EDITORIAL_VERSION を上げる（生成データに記録され、いつの基準で作ったか追跡できる）。
  */
 
-export const EDITORIAL_VERSION = 1;
+export const EDITORIAL_VERSION = 2;
 
 // 無料枠で混雑（503/429）したら次のモデルに切り替える。先頭ほど高性能
 export const MODELS = ['gemini-3.8-flash', 'gemini-3.5-flash', 'gemini-3.5-flash-lite'];
@@ -31,16 +31,26 @@ export const CATEGORIES = [
   { id: 'policy', label: '社会・規制' },
 ];
 
-/** 重要度の段階（点数から決まる）。紙面の大きさに対応する */
+/**
+ * 重要度の段階。紙面の1面のように、その日の順位で枠の数を決める（count は件数、null は残り全部）。
+ * 点数だけで分けると同じような点数が並んだ日に強弱が付かないため。
+ */
 export const TIERS = [
-  { id: 'must', label: '必読', min: 85 },
-  { id: 'should', label: '読むべき', min: 70 },
-  { id: 'interest', label: '興味があれば', min: 55 },
-  { id: 'spare', label: '時間があれば', min: 0 },
+  { id: 'must', label: '必読', count: 3 },
+  { id: 'should', label: '読むべき', count: 7 },
+  { id: 'interest', label: '興味があれば', count: 10 },
+  { id: 'spare', label: '時間があれば', count: null },
 ];
 
-export function tierOf(score) {
-  return TIERS.find(t => score >= t.min).id;
+/** 点数の高い順に並んだ記事の順位（0始まり）から段階を決める */
+export function tierOfRank(rank) {
+  let limit = 0;
+  for (const t of TIERS) {
+    if (t.count == null) return t.id;
+    limit += t.count;
+    if (rank < limit) return t.id;
+  }
+  return TIERS[TIERS.length - 1].id;
 }
 
 /** 採点基準（1回の呼び出しで全候補に適用するので、記事間の相対評価が揃う） */
@@ -61,6 +71,8 @@ export const SCORING_PROMPT = `あなたは日本のテック系ニュースメ�
 - 55〜74：関心のある分野なら読む価値がある
 - 40〜54：時間があれば読む程度
 - 0〜39：宣伝色が強い、内容が薄い、セール情報、求人、同じ話題の重複など
+
+候補同士の重要度の差がわかるよう、点数には幅を持たせる。多くの記事に同じ点数を付けない。
 
 同じ出来事を複数の媒体が報じている場合は、最も詳しい・一次情報に近い1件だけを通常どおり採点し、残りは duplicateOf にその記事の id を入れ、スコアを 0 にする。
 
