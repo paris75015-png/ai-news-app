@@ -19,6 +19,7 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 25  # 何かで止まっても25分で打ち切る
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}

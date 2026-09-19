@@ -10,9 +10,9 @@ import path from 'node:path';
 import { SOURCES } from './sources.js';
 import { collectCandidates } from './collect.js';
 import { fetchArticleBody, htmlFragmentToText } from './fetchArticle.js';
-import { initGemini, generateJson } from './gemini.js';
+import { initGemini, generateJson, usedModels } from './gemini.js';
 import {
-  COLLECT, EDITORIAL_VERSION, MODEL, CATEGORIES, tierOf,
+  COLLECT, EDITORIAL_VERSION, CATEGORIES, tierOf,
   SCORING_PROMPT, SCORING_SCHEMA, SUMMARY_PROMPT, SUMMARY_SCHEMA,
 } from './editorial.js';
 
@@ -53,7 +53,7 @@ async function main() {
   const output = {
     generatedAt: now.toISOString(),
     editorialVersion: EDITORIAL_VERSION,
-    model: dryRun ? 'dry-run' : MODEL,
+    models: dryRun ? ['dry-run'] : [...usedModels],
     categories: CATEGORIES,
     articles: selected.map(a => ({
       id: a.id,
@@ -124,7 +124,12 @@ async function attachBodies(articles) {
 }
 
 async function summarize(articles) {
+  const deadline = Date.now() + COLLECT.summaryTimeLimitMin * 60 * 1000;
   for (let i = 0; i < articles.length; i += SUMMARY_BATCH) {
+    if (Date.now() > deadline) {
+      console.warn(`[summary] 時間切れのため残り${articles.length - i}件は要約なしで掲載`);
+      break;
+    }
     const batch = articles.slice(i, i + SUMMARY_BATCH);
     const payload = batch.map(a => ({
       id: a.id,

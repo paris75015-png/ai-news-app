@@ -6,7 +6,8 @@
 
 export const EDITORIAL_VERSION = 1;
 
-export const MODEL = 'gemini-3.8-flash';
+// 無料枠で混雑（503/429）したら次のモデルに切り替える。先頭ほど高性能
+export const MODELS = ['gemini-3.8-flash', 'gemini-3.5-flash', 'gemini-3.5-flash-lite'];
 export const TEMPERATURE = 0.2; // 実行ごとの採点・書きぶりのぶれを抑える
 
 /** 収集条件 */
@@ -16,6 +17,7 @@ export const COLLECT = {
   maxPublished: 30,       // 1日に掲載する最大件数
   minScore: 40,           // これ未満の記事は掲載しない
   seenRetentionDays: 14,  // 一度掲載した記事を再掲しない期間
+  summaryTimeLimitMin: 15, // 要約はこの時間で打ち切り、できた分だけで公開する
 };
 
 /** カテゴリー（アプリ上部のタブ）。id は英字、label は表示名 */

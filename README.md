@@ -14,7 +14,7 @@
 
 | 変えたいこと | 編集するファイル |
 |---|---|
-| 採点基準・要約の書き方・カテゴリー・掲載件数・モデル | `pipeline/editorial.js` |
+| 採点基準・要約の書き方・カテゴリー・掲載件数・使用モデル | `pipeline/editorial.js` |
 | 取得元サイト | `pipeline/sources.js` |
 | 実行時刻 | `.github/workflows/daily-news.yml` の `cron`（UTC表記。5:30 JST = `30 20 * * *`） |
 
