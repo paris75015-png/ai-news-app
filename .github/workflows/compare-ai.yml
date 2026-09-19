@@ -1,0 +1,30 @@
+name: 要約AIの比較（手動・公開ページには影響なし）
+
+on:
+  workflow_dispatch:
+    inputs:
+      count:
+        description: '比較する記事数'
+        default: '6'
+      gemini_models:
+        description: '比較する Gemini のモデル（カンマ区切り）'
+        default: 'gemini-3.5-flash-lite'
+
+permissions:
+  contents: read
+
+jobs:
+  compare:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: node pipeline/compare.mjs "${{ inputs.count }}" "${{ inputs.gemini_models }}"
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
