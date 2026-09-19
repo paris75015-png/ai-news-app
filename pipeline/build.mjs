@@ -14,7 +14,7 @@ import { initGemini, generateJson, usedModels } from './gemini.js';
 import { initGroq, groqAvailable, groqJson, groqUsed, GROQ_BODY_CHARS } from './groq.js';
 import {
   COLLECT, EDITORIAL_VERSION, CATEGORIES, tierOfRank,
-  SCORING_MODELS, SUMMARY_MODELS, FALLBACK_MODEL,
+  SCORING_MODELS, SUMMARY_MODELS, FALLBACK_MODEL, GROQ_TOP_ARTICLES,
   SCORING_PROMPT, SCORING_SCHEMA, SUMMARY_PROMPT, SUMMARY_SCHEMA, HEADLINE_PROMPT, HEADLINE_SCHEMA,
 } from './editorial.js';
 
@@ -32,7 +32,7 @@ async function main() {
     if (!process.env.GEMINI_API_KEY) throw new Error('GEMINI_API_KEY が設定されていません');
     initGemini(process.env.GEMINI_API_KEY);
     initGroq(process.env.GROQ_API_KEY);
-    console.log(`[build] 予備AI（Groq）: ${groqAvailable() ? '有効' : '未設定'}`);
+    console.log(`[build] Groq: ${groqAvailable() ? '有効' : '未設定（Gemini のみで要約）'}`);
   }
 
   const seen = readJson(SEEN_FILE, {});
@@ -76,6 +76,7 @@ async function main() {
       summary: a.summary || null,
       bodyAvailable: a.bodyAvailable,
       discussionUrl: a.discussionUrl || null,
+      summarizedBy: a.summarizedBy || null,
     })),
   };
 
@@ -178,16 +179,34 @@ async function attachBodies(articles) {
   await Promise.all(Array.from({ length: 5 }, worker));
 }
 
+/**
+ * 要約：重要度上位の記事は Groq（情報量が多い）、残りは Gemini が同時に担当する。
+ * どちらかで失敗した記事は、もう一方で要約し直す。
+ */
 async function summarize(articles) {
   const deadline = Date.now() + COLLECT.summaryTimeLimitMin * 60 * 1000;
-  const failed = [];
+  const useGroq = groqAvailable();
+  const groqPart = useGroq ? articles.slice(0, GROQ_TOP_ARTICLES) : [];
+  const geminiPart = useGroq ? articles.slice(GROQ_TOP_ARTICLES) : articles;
 
+  await Promise.all([summarizeWithGroq(groqPart, deadline), summarizeWithGemini(geminiPart, deadline)]);
+
+  // 取りこぼしを、もう一方のAIで補う
+  const leftover = articles.filter(a => !a.summary);
+  if (leftover.length) {
+    console.log(`[summary] 取りこぼし ${leftover.length}件を補完`);
+    await summarizeWithGemini(leftover.filter(a => groqPart.includes(a)), deadline);
+    await summarizeWithGroq(articles.filter(a => !a.summary), deadline);
+  }
+
+  const missing = articles.filter(a => !a.summary).length;
+  if (missing) console.warn(`[summary] 要約なしで掲載: ${missing}件`);
+}
+
+async function summarizeWithGemini(articles, deadline) {
   for (let i = 0; i < articles.length; i += SUMMARY_BATCH) {
+    if (Date.now() > deadline) return;
     const batch = articles.slice(i, i + SUMMARY_BATCH);
-    if (Date.now() > deadline) {
-      failed.push(...batch);
-      continue;
-    }
     try {
       const result = await generateJson({
         models: SUMMARY_MODELS,
@@ -195,24 +214,21 @@ async function summarize(articles) {
         prompt: summaryPrompt(batch, BODY_CHARS_FOR_SUMMARY),
         schema: SUMMARY_SCHEMA,
       });
-      applySummaries(batch, result);
-      console.log(`[summary] ${Math.min(i + SUMMARY_BATCH, articles.length)}/${articles.length}`);
+      applySummaries(batch, result, 'gemini');
+      console.log(`[gemini] 要約 ${batch.filter(a => a.summary).length}/${batch.length}件`);
     } catch (e) {
-      console.error(`[summary] Gemini で要約できず (${e.status || e.message}): ${batch.length}件`);
+      console.error(`[gemini] 要約できず (${e.status || e.message}): ${batch.length}件`);
     }
-    failed.push(...batch.filter(a => !a.summary));
   }
+}
 
-  // Gemini で要約できなかった記事は、予備AI（Groq）で1件ずつ要約する
-  for (const a of failed) {
-    if (!groqAvailable() || Date.now() > deadline) break;
+async function summarizeWithGroq(articles, deadline) {
+  for (const a of articles) {
+    if (!groqAvailable() || Date.now() > deadline) return;
     const result = await groqJson({ system: SUMMARY_PROMPT, prompt: summaryPrompt([a], GROQ_BODY_CHARS), schema: SUMMARY_SCHEMA });
-    if (result) applySummaries([a], result);
-    console.log(`[summary] 予備AIで要約: ${a.summary ? '成功' : '失敗'} ${a.id}`);
+    if (result) applySummaries([a], result, 'groq');
+    console.log(`[groq] 要約 ${a.summary ? '成功' : '失敗'} ${a.id}`);
   }
-
-  const missing = articles.filter(a => !a.summary).length;
-  if (missing) console.warn(`[summary] 要約なしで掲載: ${missing}件`);
 }
 
 function summaryPrompt(batch, bodyChars) {
@@ -226,14 +242,17 @@ function summaryPrompt(batch, bodyChars) {
   return `記事（${payload.length}件）:\n${JSON.stringify(payload)}`;
 }
 
-function applySummaries(batch, result) {
+function applySummaries(batch, result, by) {
   for (const r of result?.items || []) {
     const a = batch.find(x => x.id === r.id);
     if (!a) continue;
     const paragraphs = (Array.isArray(r.paragraphs) ? r.paragraphs : [r.summary || ''])
       .map(p => String(p).trim())
       .filter(Boolean);
-    if (paragraphs.length) a.summary = paragraphs.join('\n\n');
+    if (paragraphs.length) {
+      a.summary = paragraphs.join('\n\n');
+      a.summarizedBy = by;
+    }
     if (r.headline?.trim()) a.headline = r.headline.trim();
   }
 }
