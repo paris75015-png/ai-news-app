@@ -142,10 +142,26 @@ function renderApp() {
   attachEventListeners();
 }
 
+// 記事を開くときに履歴を1つ積む。スマホの「戻る」操作（スワイプ）でも一覧に戻れるようにするため
+function openModal(article) {
+  state.activeModalArticle = article;
+  history.pushState({ modal: article.id }, '');
+  renderApp();
+  document.querySelector('.modal-content')?.scrollTo(0, 0);
+}
+
 function closeModal() {
+  if (history.state?.modal) history.back(); // popstate で閉じる
+  else hideModal();
+}
+
+function hideModal() {
+  if (!state.activeModalArticle) return;
   state.activeModalArticle = null;
   renderApp();
 }
+
+window.addEventListener('popstate', hideModal);
 
 function toggleBookmark(id) {
   const article = findArticle(id);
@@ -153,7 +169,9 @@ function toggleBookmark(id) {
   const added = StorageService.toggleBookmark(article);
   state.bookmarks = StorageService.getBookmarks();
   filterArticles();
+  const modalScroll = document.querySelector('.modal-content')?.scrollTop;
   renderApp();
+  if (modalScroll != null) document.querySelector('.modal-content')?.scrollTo(0, modalScroll);
   showToast(added ? '🔖 保存しました' : '保存から削除しました');
 }
 
@@ -164,6 +182,7 @@ function attachEventListeners() {
       state.currentCategory = e.currentTarget.getAttribute('data-category');
       filterArticles();
       renderApp();
+      window.scrollTo({ top: 0 });
     });
   });
 
@@ -212,10 +231,7 @@ function attachEventListeners() {
   document.querySelectorAll('.open-modal-btn').forEach(card => {
     const open = () => {
       const found = findArticle(card.getAttribute('data-article-id'));
-      if (found) {
-        state.activeModalArticle = found;
-        renderApp();
-      }
+      if (found) openModal(found);
     };
     card.addEventListener('click', open);
     card.addEventListener('keydown', (e) => {
@@ -224,6 +240,7 @@ function attachEventListeners() {
   });
 
   document.getElementById('close-modal-btn')?.addEventListener('click', closeModal);
+  document.getElementById('close-modal-bottom-btn')?.addEventListener('click', closeModal);
   const modalBackdrop = document.getElementById('article-modal');
   modalBackdrop?.addEventListener('click', (e) => {
     if (e.target === modalBackdrop) closeModal();

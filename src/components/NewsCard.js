@@ -8,11 +8,11 @@
  * カード全体がクリック対象（要約モーダルを開く）
  */
 
-import { escapeHtml, formatDate } from '../utils.js';
+import { escapeHtml, formatDate, splitParagraphs } from '../utils.js';
 
 export function renderNewsCard(article, isBookmarked, categoryLabel) {
   const id = escapeHtml(article.id);
-  const lead = article.summary ? escapeHtml(article.summary.split(/\n\s*\n/)[0]) : '';
+  const lead = article.summary ? escapeHtml(splitParagraphs(article.summary)[0] || '') : '';
   const showLead = (article.tier === 'must' || article.tier === 'should') && lead;
 
   return `

@@ -1,9 +1,9 @@
 /**
  * ArticleModal Component
- * 日本語見出し・元の見出し・媒体・日時・重要度・要約本文・元記事リンクを表示する
+ * 上部（✕）と下部（閉じる・元記事）を固定表示し、読み終えた位置からすぐ閉じられるようにする。
  */
 
-import { escapeHtml, formatDate } from '../utils.js';
+import { escapeHtml, formatDate, splitParagraphs } from '../utils.js';
 import { TIERS } from '../article.js';
 import { renderScore } from './NewsCard.js';
 
@@ -16,37 +16,38 @@ export function renderArticleModal(article, isBookmarked, categoryLabel) {
   return `
     <div class="modal-backdrop active" id="article-modal">
       <div class="modal-content" role="dialog" aria-modal="true" aria-labelledby="modal-title">
-        <div class="modal-header">
-          <div>
-            <div class="card-meta" style="margin-bottom:10px;">
-              ${renderScore(article)}
-              ${tierLabel ? `<span class="tier-label tier-label-${article.tier}">${tierLabel}</span>` : ''}
-              ${categoryLabel ? `<span class="card-category">${escapeHtml(categoryLabel)}</span>` : ''}
-            </div>
-            <h2 class="modal-title" id="modal-title">${escapeHtml(article.headline)}</h2>
-            ${showOriginal ? `<p class="modal-original-title">${escapeHtml(article.originalTitle)}</p>` : ''}
-            <div class="card-source" style="margin-top:8px;">
-              ${escapeHtml(article.outlet)} ・ ${formatDate(article.pubDate)}
-            </div>
+        <div class="modal-topbar">
+          <div class="card-meta">
+            ${renderScore(article)}
+            ${tierLabel ? `<span class="tier-label tier-label-${article.tier}">${tierLabel}</span>` : ''}
+            ${categoryLabel ? `<span class="card-category">${escapeHtml(categoryLabel)}</span>` : ''}
           </div>
           <button class="modal-close-btn" id="close-modal-btn" aria-label="閉じる">
             <i data-lucide="x" style="width:20px;height:20px;"></i>
           </button>
         </div>
 
-        <div>${renderSummary(article)}</div>
+        <div class="modal-body">
+          <h2 class="modal-title" id="modal-title">${escapeHtml(article.headline)}</h2>
+          ${showOriginal ? `<p class="modal-original-title">${escapeHtml(article.originalTitle)}</p>` : ''}
+          <div class="card-source">${escapeHtml(article.outlet)} ・ ${formatDate(article.pubDate)}</div>
+          ${renderSummary(article)}
+        </div>
 
         <div class="modal-actions">
+          <button class="action-btn btn-ghost" id="close-modal-bottom-btn">
+            <i data-lucide="x"></i>
+            <span>閉じる</span>
+          </button>
           <button
             class="action-btn btn-ghost modal-bookmark-btn ${isBookmarked ? 'btn-amber' : ''}"
             data-article-id="${escapeHtml(article.id)}"
+            aria-label="${isBookmarked ? '保存済み' : '保存する'}"
           >
             <i data-lucide="bookmark"></i>
-            <span>${isBookmarked ? '保存済み' : '保存する'}</span>
           </button>
-
-          <a href="${escapeHtml(article.url)}" target="_blank" rel="noopener noreferrer" class="action-btn btn-primary" style="text-decoration:none;">
-            <span>元の記事を読む</span>
+          <a href="${escapeHtml(article.url)}" target="_blank" rel="noopener noreferrer" class="action-btn btn-primary modal-source-link">
+            <span>元の記事</span>
             <i data-lucide="external-link"></i>
           </a>
         </div>
@@ -67,10 +68,7 @@ function renderSummary(article) {
        </div>`
     : '';
 
-  const paragraphs = article.summary
-    .split(/\n\s*\n/)
-    .map(p => p.trim())
-    .filter(Boolean)
+  const paragraphs = splitParagraphs(article.summary)
     .map(p => `<p class="modal-paragraph">${escapeHtml(p).replace(/\n/g, '<br>')}</p>`)
     .join('');
 

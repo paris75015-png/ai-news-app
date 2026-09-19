@@ -5,7 +5,7 @@
  */
 
 import { GoogleGenAI, ApiError } from '@google/genai';
-import { MODELS, TEMPERATURE } from './editorial.js';
+import { TEMPERATURE } from './editorial.js';
 
 const MIN_INTERVAL_MS = 8000; // 無料枠の毎分リクエスト上限に余裕を持たせる
 
@@ -19,11 +19,12 @@ export function initGemini(apiKey) {
 }
 
 /**
+ * @param {string[]} models 試す順のモデル一覧
  * @returns {Promise<any>} スキーマに沿ってパースされた JSON
  */
-export async function generateJson({ system, prompt, schema }) {
+export async function generateJson({ models, system, prompt, schema }) {
   let lastError = new Error('使えるモデルがありません（すべて回数上限）');
-  for (const model of MODELS.filter(m => !exhaustedModels.has(m))) {
+  for (const model of models.filter(m => !exhaustedModels.has(m))) {
     const wait = lastCallAt + MIN_INTERVAL_MS - Date.now();
     if (wait > 0) await sleep(wait);
     lastCallAt = Date.now();

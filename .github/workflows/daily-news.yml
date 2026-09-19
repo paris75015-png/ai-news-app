@@ -1,8 +1,10 @@
-name: 毎朝のニュース更新
+name: 毎日のニュース更新
 
 on:
   schedule:
-    - cron: '30 20 * * *'  # 毎朝 5:30（日本時間）。GitHub 側の混雑で数十分遅れることがある
+    # 毎日 16:43（日本時間）= 米国の深夜。AI の無料枠が比較的空いている時間帯。
+    # 正時・30分ちょうどは GitHub 側も混むので、半端な分にしている。数十分遅れることがある
+    - cron: '43 7 * * *'
   workflow_dispatch:        # Actions 画面から手動で実行できる
   push:
     branches: [main]        # コードを更新したときは、ニュース処理なしで公開ページだけ作り直す
@@ -19,7 +21,7 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 25  # 何かで止まっても25分で打ち切る
+    timeout-minutes: 30  # 何かで止まっても30分で打ち切る
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -38,6 +40,7 @@ jobs:
         run: npm run news
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}  # 任意（予備の要約AI）
 
       - name: 生成データをリポジトリに保存
         if: github.event_name != 'push'

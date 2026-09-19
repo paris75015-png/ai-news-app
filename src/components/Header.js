@@ -1,6 +1,9 @@
 /**
  * Header Component
+ * 画面上部に固定表示される。カテゴリーのタブもここに置き、スクロールしても常に切り替えられるようにする。
  */
+
+import { escapeHtml } from '../utils.js';
 
 export function renderHeader(state) {
   const updated = state.generatedAt
@@ -31,6 +34,20 @@ export function renderHeader(state) {
           </button>
         </div>
       </div>
+      <nav class="category-nav" aria-label="カテゴリー">${renderCategoryTabs(state)}</nav>
     </header>
   `;
+}
+
+function renderCategoryTabs(state) {
+  const counts = {};
+  for (const a of state.isBookmarkMode ? state.bookmarks : state.articles) {
+    counts[a.category] = (counts[a.category] || 0) + 1;
+  }
+  const total = Object.values(counts).reduce((n, c) => n + c, 0);
+  return [{ id: 'all', label: 'すべて' }, ...state.categories].map(c => `
+    <button class="cat-pill ${state.currentCategory === c.id ? 'active' : ''}" data-category="${escapeHtml(c.id)}">
+      ${escapeHtml(c.label)}<span class="cat-count">${c.id === 'all' ? total : counts[c.id] || 0}</span>
+    </button>
+  `).join('');
 }
