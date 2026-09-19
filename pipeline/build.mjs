@@ -142,7 +142,7 @@ async function scoreList(candidates) {
  */
 function selectBalanced(scored) {
   const ranked = scored
-    .filter(a => !a.duplicateOf && a.score >= COLLECT.minScore)
+    .filter(a => !a.duplicateOf)
     .sort((a, b) => b.score - a.score || a.order - b.order);
 
   const picked = new Set();
@@ -151,15 +151,25 @@ function selectBalanced(scored) {
     picked.add(a);
     count[a.category] = (count[a.category] || 0) + 1;
   };
+  const fill = (minScore, maxPerCategory) => {
+    for (const a of ranked) {
+      if (picked.size >= COLLECT.maxPublished) return;
+      if (!picked.has(a) && a.score >= minScore && (count[a.category] || 0) < maxPerCategory) take(a);
+    }
+  };
 
+  // 1) 各カテゴリーの上位を最低件数ずつ（点数が低めでも、その分野の最上位なら載せる）
   for (const c of CATEGORIES) {
-    ranked.filter(a => a.category === c.id).slice(0, COLLECT.perCategoryMin).forEach(take);
+    ranked.filter(a => a.category === c.id && a.score >= COLLECT.minScore - 15)
+      .slice(0, COLLECT.perCategoryMin).forEach(take);
   }
-  for (const a of ranked) {
-    if (picked.size >= COLLECT.maxPublished) break;
-    if (!picked.has(a) && (count[a.category] || 0) < COLLECT.perCategoryMax) take(a);
-  }
-  return ranked.filter(a => picked.has(a)).slice(0, COLLECT.maxPublished);
+  // 2) 残りを重要度順に、カテゴリー上限を守って埋める
+  fill(COLLECT.minScore, COLLECT.perCategoryMax);
+  // 3) それでも件数が足りない日は、上限と点数の条件を緩めて30件前後にそろえる
+  fill(COLLECT.minScore, Infinity);
+  fill(COLLECT.minScore - 15, Infinity);
+
+  return ranked.filter(a => picked.has(a));
 }
 
 async function attachBodies(articles) {
