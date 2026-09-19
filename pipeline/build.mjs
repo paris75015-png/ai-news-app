@@ -15,7 +15,7 @@ import { initGroq, groqAvailable, groqJson, groqUsed, GROQ_BODY_CHARS } from './
 import {
   COLLECT, EDITORIAL_VERSION, CATEGORIES, tierOfRank,
   SCORING_MODELS, SUMMARY_MODELS, FALLBACK_MODEL,
-  SCORING_PROMPT, SCORING_SCHEMA, SUMMARY_PROMPT, SUMMARY_SCHEMA,
+  SCORING_PROMPT, SCORING_SCHEMA, SUMMARY_PROMPT, SUMMARY_SCHEMA, HEADLINE_PROMPT, HEADLINE_SCHEMA,
 } from './editorial.js';
 
 const ROOT = path.resolve(import.meta.dirname, '..');
@@ -51,7 +51,10 @@ async function main() {
 
   await attachBodies(selected);
   if (dryRun) selected.forEach(a => (a.summary = `（dry-run）${a.snippet}`));
-  else await summarize(selected);
+  else {
+    await summarize(selected);
+    await fillHeadlines(selected);
+  }
 
   const now = new Date();
   const output = {
@@ -62,7 +65,7 @@ async function main() {
     articles: selected.map((a, rank) => ({
       id: a.id,
       url: a.url,
-      headline: a.headline,
+      headline: a.headline || a.title,
       originalTitle: a.title,
       outlet: a.outlet,
       region: a.region,
@@ -111,7 +114,6 @@ async function scoreCandidates(candidates) {
       const r = byId.get(c.id);
       return {
         ...c,
-        headline: r.headline.trim() || c.title,
         score: Math.max(0, Math.min(100, Math.round(r.score))),
         category: validCategories.has(r.category) ? r.category : 'business',
         duplicateOf: r.duplicateOf && byId.has(r.duplicateOf) && r.duplicateOf !== c.id ? r.duplicateOf : null,
@@ -227,10 +229,32 @@ function summaryPrompt(batch, bodyChars) {
 function applySummaries(batch, result) {
   for (const r of result?.items || []) {
     const a = batch.find(x => x.id === r.id);
+    if (!a) continue;
     const paragraphs = (Array.isArray(r.paragraphs) ? r.paragraphs : [r.summary || ''])
       .map(p => String(p).trim())
       .filter(Boolean);
-    if (a && paragraphs.length) a.summary = paragraphs.join('\n\n');
+    if (paragraphs.length) a.summary = paragraphs.join('\n\n');
+    if (r.headline?.trim()) a.headline = r.headline.trim();
+  }
+}
+
+/** 要約できず見出しも無い記事は、見出しだけまとめて日本語化する（英語の見出しのまま載せないため） */
+async function fillHeadlines(articles) {
+  const missing = articles.filter(a => !a.headline);
+  if (missing.length === 0) return;
+  try {
+    const result = await generateJson({
+      models: SUMMARY_MODELS,
+      system: HEADLINE_PROMPT,
+      prompt: JSON.stringify(missing.map(a => ({ id: a.id, title: a.title, snippet: a.snippet }))),
+      schema: HEADLINE_SCHEMA,
+    });
+    for (const r of result.items || []) {
+      const a = missing.find(x => x.id === r.id);
+      if (a && r.headline?.trim()) a.headline = r.headline.trim();
+    }
+  } catch (e) {
+    console.warn(`[headline] 見出しの日本語化に失敗 (${e.status || e.message})。元の見出しで掲載`);
   }
 }
 

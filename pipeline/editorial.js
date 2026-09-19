@@ -4,7 +4,7 @@
  * 内容を変えたら EDITORIAL_VERSION を上げる（生成データに記録され、いつの基準で作ったか追跡できる）。
  */
 
-export const EDITORIAL_VERSION = 3;
+export const EDITORIAL_VERSION = 4;
 
 // 無料枠で混雑（503/429）したら次のモデルに切り替える。
 // 採点は1日1回なので最上位モデルから。要約は回数が多いので、回数上限の緩いモデルから使う。
@@ -17,7 +17,7 @@ export const TEMPERATURE = 0.2; // 実行ごとの採点・書きぶりのぶれ
 /** 収集条件 */
 export const COLLECT = {
   maxAgeHours: 96,        // これより古い記事は候補にしない
-  maxPerSource: 10,       // 1ソースあたりの候補上限（新しい順）
+  maxPerSource: 8,        // 1ソースあたりの候補上限（新しい順）
   maxPublished: 30,       // 1日に掲載する件数（候補が足りない日は少なくなる）
   minScore: 40,           // これ未満の記事は掲載しない
   perCategoryMin: 3,      // 各カテゴリーから最低この件数は載せる（候補があれば）
@@ -61,7 +61,7 @@ export function tierOfRank(rank) {
 /** 採点基準（1回の呼び出しで全候補を順位付けするので、記事間の相対評価が揃う） */
 export const SCORING_PROMPT = `あなたは日本の総合ニュースメディア（テクノロジー・経済・金融）のデスク（編集責任者）です。
 読者は、テクノロジーと経済に関心のある日本の社会人で、毎朝限られた時間でニュースを読みます。
-与えられた記事候補すべてについて、重要度の順位を決め、日本語見出し・重要度スコア・カテゴリーを付けてください。
+与えられた記事候補すべてについて、重要度の順位を決め、重要度スコアとカテゴリーを付けてください。
 
 # 重要度の判断基準
 「この読者が今日読むべき度合い」を次の観点で判断する。
@@ -82,11 +82,6 @@ export const SCORING_PROMPT = `あなたは日本の総合ニュースメディ�
 
 同じ出来事を複数の媒体が報じている場合は、最も詳しい・一次情報に近い1件だけを通常どおり扱い、残りは duplicateOf にその記事の id を入れ、スコアを 0 にして末尾に並べる。
 
-# 日本語見出し
-- 記事の内容が一目でわかる、30〜45字程度の日本語の見出し。
-- 元の見出しが日本語でも、内容が伝わりにくければ書き直してよい。
-- 誇張・煽り・感嘆符を使わない。主語（誰が）と何をしたかを入れる。
-
 # カテゴリー
 次のいずれか1つの id を選ぶ。
 ${CATEGORIES.map(c => `- ${c.id}（${c.label}）：${c.desc}`).join('\n')}`;
@@ -100,12 +95,11 @@ export const SCORING_SCHEMA = {
         type: 'object',
         properties: {
           id: { type: 'string' },
-          headline: { type: 'string' },
           score: { type: 'integer' },
           category: { type: 'string', enum: CATEGORIES.map(c => c.id) },
           duplicateOf: { type: 'string', description: '重複でなければ空文字' },
         },
-        required: ['id', 'headline', 'score', 'category', 'duplicateOf'],
+        required: ['id', 'score', 'category', 'duplicateOf'],
       },
     },
   },
@@ -113,9 +107,14 @@ export const SCORING_SCHEMA = {
 };
 
 /** 要約の書き方 */
-export const SUMMARY_PROMPT = `あなたは技術ニュースを日本語で要約する編集者です。与えられた記事ごとに、読者が元記事を読まなくても要点を正確に把握できる要約を書きます。
+export const SUMMARY_PROMPT = `あなたはニュースを日本語で要約する編集者です。与えられた記事ごとに、日本語の見出しと、読者が元記事を読まなくても要点を正確に把握できる要約を書きます。
 
-# 書き方
+# 見出し（headline）
+- 記事の内容が一目でわかる、30〜45字程度の日本語の見出し。
+- 本文に書かれた事実（数値・方向・主語）と必ず一致させる。上げ／下げ、増加／減少などを取り違えない。
+- 誇張・煽り・感嘆符を使わない。主語（誰が）と何をしたかを入れる。
+
+# 要約の書き方
 - 日本語の文章で、2〜4段落。1段落は2〜4文。paragraphs の配列に1段落ずつ入れる。
 - 文体は常体（「〜である」「〜した」）で統一する。
 - 見出し、箇条書き、Markdown記法は使わない。
@@ -137,9 +136,29 @@ export const SUMMARY_SCHEMA = {
         type: 'object',
         properties: {
           id: { type: 'string' },
+          headline: { type: 'string' },
           paragraphs: { type: 'array', items: { type: 'string' } },
         },
-        required: ['id', 'paragraphs'],
+        required: ['id', 'headline', 'paragraphs'],
+      },
+    },
+  },
+  required: ['items'],
+};
+
+/** 要約を作れなかった記事の見出しだけを日本語にする（タイトルと概要から） */
+export const HEADLINE_PROMPT = `与えられた記事ごとに、タイトルと概要から、内容が一目でわかる30〜45字程度の日本語の見出しを作る。
+書かれている事実だけを使い、推測で補わない。誇張・煽り・感嘆符を使わない。`;
+
+export const HEADLINE_SCHEMA = {
+  type: 'object',
+  properties: {
+    items: {
+      type: 'array',
+      items: {
+        type: 'object',
+        properties: { id: { type: 'string' }, headline: { type: 'string' } },
+        required: ['id', 'headline'],
       },
     },
   },
