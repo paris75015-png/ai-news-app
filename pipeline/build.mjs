@@ -63,6 +63,7 @@ async function main() {
   else {
     await summarize(selected);
     await fillHeadlines(selected);
+    await verifyHeadlines(selected);
   }
 
   const now = new Date();
@@ -288,6 +289,50 @@ function applySummaries(batch, result, by) {
     }
     if (r.headline?.trim()) a.headline = r.headline.trim();
   }
+}
+
+/**
+ * 見出しの固有名詞（カタカナ語・英字語）が、要約本文か元の見出しに出てくるかを機械的に確かめる。
+ * 出てこない語がある見出しは取り違えの疑いがあるので、要約本文から作り直す。
+ * それでも合わなければ、要約の最初の一文を見出しにする。
+ */
+async function verifyHeadlines(articles) {
+  const suspicious = articles.filter(a => a.summary && unsupportedTerms(a).length);
+  if (suspicious.length === 0) return;
+  for (const a of suspicious) console.warn(`[headline] 要確認「${a.headline}」: ${unsupportedTerms(a).join('、')} が本文に無い`);
+
+  try {
+    const result = await generateJson({
+      models: SUMMARY_MODELS,
+      system: `${HEADLINE_PROMPT}\n要約（summary）に書かれている固有名詞・数値だけを使う。`,
+      prompt: JSON.stringify(suspicious.map(a => ({ id: a.id, title: a.title, summary: a.summary }))),
+      schema: HEADLINE_SCHEMA,
+    });
+    for (const r of result.items || []) {
+      const a = suspicious.find(x => x.id === r.id);
+      if (a && r.headline?.trim()) a.headline = r.headline.trim();
+    }
+  } catch (e) {
+    console.warn(`[headline] 作り直しに失敗 (${e.status || e.message})`);
+  }
+
+  for (const a of suspicious) {
+    if (unsupportedTerms(a).length === 0) continue;
+    const first = a.summary.split(/(?<=。)/)[0];
+    a.headline = first.length > 60 ? `${first.slice(0, 58)}…` : first.replace(/。$/, '');
+    console.warn(`[headline] 要約の冒頭を見出しに使用: ${a.id}`);
+  }
+}
+
+function unsupportedTerms(a) {
+  const reference = `${a.summary || ''} ${a.title || ''}`.toLowerCase();
+  const katakana = (a.headline.match(/[ァ-ヶー]{5,}/g) || [])  // システム・サーバーのような一般的な短い語は対象外
+    // 「プライバシーリスク」のような複合語は、4文字のまとまりがどこかに出てくれば可とする
+    .filter(t => ![...Array(t.length - 3).keys()].some(k => reference.includes(t.slice(k, k + 4))));
+  const latin = (a.headline.match(/[A-Za-z][A-Za-z0-9.&'-]{2,}/g) || [])
+    .filter(t => !/^[A-Z0-9]{2,4}$/.test(t)) // ATC などの短い略語は対象外
+    .filter(t => !reference.includes(t.toLowerCase()));
+  return [...katakana, ...latin];
 }
 
 /** 要約できず見出しも無い記事は、見出しだけまとめて日本語化する（英語の見出しのまま載せないため） */
