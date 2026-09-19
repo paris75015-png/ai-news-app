@@ -22,7 +22,7 @@ export function initGemini(apiKey) {
  * @param {string[]} models 試す順のモデル一覧
  * @returns {Promise<any>} スキーマに沿ってパースされた JSON
  */
-export async function generateJson({ models, system, prompt, schema }) {
+export async function generateJson({ models, system, prompt, schema, maxOutputTokens = 32768 }) {
   let lastError = new Error('使えるモデルがありません（すべて回数上限）');
   for (const model of models.filter(m => !exhaustedModels.has(m))) {
     const wait = lastCallAt + MIN_INTERVAL_MS - Date.now();
@@ -36,6 +36,7 @@ export async function generateJson({ models, system, prompt, schema }) {
         config: {
           systemInstruction: system,
           temperature: TEMPERATURE,
+          maxOutputTokens, // 既定値のままだと全候補の採点が途中で切れることがある
           responseMimeType: 'application/json',
           responseJsonSchema: schema,
         },

@@ -36,8 +36,10 @@ async function main() {
   }
 
   const seen = readJson(SEEN_FILE, {});
+  const today = jstDate(new Date());
   const all = await collectCandidates(SOURCES);
-  const candidates = all.filter(c => !seen[c.id]);
+  // 前日までに掲載した記事は除く（同じ日の再実行では、今日の記事を消さないよう除外しない）
+  const candidates = all.filter(c => !seen[c.id] || jstDate(new Date(seen[c.id])) === today);
   console.log(`[build] 候補 ${all.length}件（うち既出 ${all.length - candidates.length}件を除外）`);
   if (candidates.length === 0) throw new Error('候補がありません');
 
@@ -85,18 +87,23 @@ async function main() {
 
 /** 全候補を1回の呼び出しで採点する（同じ基準で相対評価させ、重複も判定させるため） */
 async function scoreCandidates(candidates) {
-  const list = candidates.map(c => ({
-    id: c.id, title: c.title, outlet: c.outlet, region: c.region, snippet: c.snippet,
-  }));
-  const result = await generateJson({
-    models: SCORING_MODELS,
-    system: SCORING_PROMPT,
-    prompt: `記事候補（${list.length}件）:\n${list.map(x => JSON.stringify(x)).join('\n')}`,
-    schema: SCORING_SCHEMA,
-  });
+  const items = await scoreList(candidates);
+  console.log(`[score] ${items.length}/${candidates.length}件の採点が返った`);
+
+  // 採点が返らなかった候補があれば、その分だけもう一度採点する（混雑時の軽量モデルは途中で出力を打ち切ることがある）
+  const returned = new Set(items.map(r => r.id));
+  const missing = candidates.filter(c => !returned.has(c.id));
+  if (missing.length > candidates.length * 0.1) {
+    const more = await scoreList(missing).catch(e => {
+      console.warn(`[score] 追加採点に失敗 (${e.status || e.message})`);
+      return [];
+    });
+    console.log(`[score] 追加採点 ${more.length}/${missing.length}件`);
+    items.push(...more);
+  }
 
   // order はモデルが付けた順位（items の並び順）。同点のときの並びに使う
-  const byId = new Map(result.items.map((r, order) => [r.id, { ...r, order }]));
+  const byId = new Map(items.map((r, order) => [r.id, { ...r, order }]));
   const validCategories = new Set(CATEGORIES.map(c => c.id));
   return candidates
     .filter(c => byId.has(c.id))
@@ -111,6 +118,19 @@ async function scoreCandidates(candidates) {
         order: r.order,
       };
     });
+}
+
+async function scoreList(candidates) {
+  const list = candidates.map(c => ({
+    id: c.id, title: c.title, outlet: c.outlet, region: c.region, snippet: c.snippet,
+  }));
+  const result = await generateJson({
+    models: SCORING_MODELS,
+    system: SCORING_PROMPT,
+    prompt: `記事候補（${list.length}件）:\n${list.map(x => JSON.stringify(x)).join('\n')}`,
+    schema: SCORING_SCHEMA,
+  });
+  return result.items || [];
 }
 
 /**
