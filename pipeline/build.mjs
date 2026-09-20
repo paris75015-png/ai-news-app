@@ -297,9 +297,9 @@ function applySummaries(batch, result, by) {
  * それでも合わなければ、要約の最初の一文を見出しにする。
  */
 async function verifyHeadlines(articles) {
-  const suspicious = articles.filter(a => a.summary && unsupportedTerms(a).length);
+  const suspicious = articles.filter(a => a.summary && headlineIssues(a).length);
   if (suspicious.length === 0) return;
-  for (const a of suspicious) console.warn(`[headline] 要確認「${a.headline}」: ${unsupportedTerms(a).join('、')} が本文に無い`);
+  for (const a of suspicious) console.warn(`[headline] 要確認「${a.headline}」: ${headlineIssues(a).join('、')}`);
 
   try {
     const result = await generateJson({
@@ -317,11 +317,23 @@ async function verifyHeadlines(articles) {
   }
 
   for (const a of suspicious) {
-    if (unsupportedTerms(a).length === 0) continue;
+    if (headlineIssues(a).length === 0) continue;
     const first = a.summary.split(/(?<=。)/)[0];
     a.headline = first.length > 60 ? `${first.slice(0, 58)}…` : first.replace(/。$/, '');
     console.warn(`[headline] 要約の冒頭を見出しに使用: ${a.id}`);
   }
+}
+
+/** 見出しの疑わしい点を挙げる（空なら問題なし） */
+function headlineIssues(a) {
+  const issues = unsupportedTerms(a);
+  // 本文に former / 前・元 が無いのに「前大統領」「元CEO」などと書いていないか
+  const exPosition = a.headline.match(/[前元](大統領|首相|社長|会長|CEO|長官|知事|委員長|議長)/);
+  const reference = `${a.summary || ''} ${a.body || ''} ${a.title || ''}`.toLowerCase();
+  if (exPosition && !/former|ex-|前職|退任|辞任|元[^\s]{0,4}(だった|である)/.test(reference)) {
+    issues.push(`${exPosition[0]}（本文に前職の記載なし）`);
+  }
+  return issues;
 }
 
 function unsupportedTerms(a) {
