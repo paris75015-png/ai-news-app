@@ -1,5 +1,8 @@
 /**
- * 毎日の処理：ニュースを集め、Gemini で見出し・採点・分類・要約をして public/data/news.json に保存する
+ * AI日報の毎日の処理：ニュースを集め、Gemini で見出し・採点・分類・要約をして public/data/ai.json に保存する
+ *
+ * 守備範囲は AI・IT・科学技術。経済・政治・国際情勢は国内深掘り／国際深掘りが担当する。
+ * 3系統の関係は editorial/README.md にある。
  *
  *   npm run news            … 本番（.env または環境変数の GEMINI_API_KEY が必要。GROQ_API_KEY は任意の予備）
  *   npm run news -- --dry-run … AI を呼ばずに流れだけ確認（見出し・要約は仮のもの）
@@ -26,6 +29,37 @@ const BODY_CHARS_FOR_SUMMARY = 12000;
 
 const dryRun = process.argv.includes('--dry-run');
 
+/**
+ * 先に走った深掘り2系統の当日分を読み、そこで扱われた話題を取り出す。
+ * AI日報は3系統のうち最後に走るので、ここに出ている出来事は落とす（editorial/README.md の実行順）。
+ * ファイルが無い・日付が違う場合は空で返す（深掘りが動かなかった日でも AI日報は動く）。
+ */
+function readEarlierStreams(today) {
+  const headlines = [];
+  const urls = new Set();
+  for (const file of ['domestic.json', 'intl.json']) {
+    const data = readJson(path.join(OUT_DIR, file), null);
+    if (!data || data.date !== today) continue;
+    for (const a of data.articles || []) {
+      if (a.headline) headlines.push(a.headline);
+      if (a.url) urls.add(normalizeUrl(a.url));
+      for (const src of a.sources || []) if (src.url) urls.add(normalizeUrl(src.url));
+    }
+    console.log(`[build] ${file} の ${(data.articles || []).length}件を除外対象として読み込み`);
+  }
+  return { headlines, urls };
+}
+
+/** 比較用に URL を正規化する（末尾スラッシュ・クエリ・スキームの違いを吸収） */
+function normalizeUrl(u) {
+  try {
+    const x = new URL(u);
+    return (x.hostname.replace(/^www\./, '') + x.pathname.replace(/\/$/, '')).toLowerCase();
+  } catch {
+    return String(u).toLowerCase();
+  }
+}
+
 async function main() {
   if (fs.existsSync(path.join(ROOT, '.env'))) process.loadEnvFile(path.join(ROOT, '.env'));
   if (!dryRun) {
@@ -39,11 +73,17 @@ async function main() {
   const today = jstDate(new Date());
   const all = await collectCandidates(SOURCES);
   // 前日までに掲載した記事は除く（同じ日の再実行では、今日の記事を消さないよう除外しない）
-  const candidates = all.filter(c => !seen[c.id] || jstDate(new Date(seen[c.id])) === today);
-  console.log(`[build] 候補 ${all.length}件（うち既出 ${all.length - candidates.length}件を除外）`);
+  const earlier = readEarlierStreams(today);
+  const excludedNote = earlier.headlines.length
+    ? [{ topic: `深掘り2系統が当日に扱った${earlier.headlines.length}件`, reason: '実行順により先発の系統を優先' }]
+    : [];
+  const notSeen = all.filter(c => !seen[c.id] || jstDate(new Date(seen[c.id])) === today);
+  // 深掘り2系統が同じ記事を既に扱っていれば落とす（URL 一致ぶんはここで確実に消える）
+  const candidates = notSeen.filter(c => !earlier.urls.has(normalizeUrl(c.url)));
+  console.log(`[build] 候補 ${all.length}件（既出 ${all.length - notSeen.length}件、深掘りと重複 ${notSeen.length - candidates.length}件を除外）`);
   if (candidates.length === 0) throw new Error('候補がありません');
 
-  const scored = dryRun ? fakeScores(candidates) : await scoreCandidates(candidates);
+  const scored = dryRun ? fakeScores(candidates) : await scoreCandidates(candidates, earlier.headlines);
   // 本文が取れない記事を差し替えられるよう、多めに選んでから本文を取得する
   const ranked = scored
     .filter(a => !a.duplicateOf)
@@ -67,13 +107,20 @@ async function main() {
   }
 
   const now = new Date();
+  const model = dryRun ? 'dry-run' : [...usedModels, ...(groqUsed ? [FALLBACK_MODEL] : [])].join(' / ');
   const output = {
+    date: jstDate(now),
+    stream: 'ai',
+    title: 'AI日報',
     generatedAt: now.toISOString(),
+    model,
     editorialVersion: EDITORIAL_VERSION,
-    models: dryRun ? ['dry-run'] : [...usedModels, ...(groqUsed ? [FALLBACK_MODEL] : [])],
     categories: CATEGORIES,
     articles: selected.map((a, rank) => ({
       id: a.id,
+      stream: 'ai',
+      depth: 'brief',
+      section: a.category,
       url: a.url,
       headline: a.headline || a.title,
       originalTitle: a.title,
@@ -83,32 +130,50 @@ async function main() {
       score: a.score,
       tier: tierOfRank(rank),
       pubDate: a.pubDate,
+      body: null,
       summary: a.summary || null,
+      sources: [{
+        outlet: a.outlet,
+        url: a.url,
+        date: (a.pubDate || '').slice(0, 10),
+        access: a.bodyAvailable ? 'body' : 'headline',
+        via: null,
+        note: null,
+      }],
+      continuity: null,
       bodyAvailable: a.bodyAvailable,
       discussionUrl: a.discussionUrl || null,
       summarizedBy: a.summarizedBy || null,
     })),
+    essays: [],
+    productionNote: {
+      reachedOutlets: [...new Set(selected.map(a => a.outlet))],
+      unreachedOutlets: [],
+      excluded: excludedNote,
+      counts: { deep: 0, brief: selected.length, essays: 0, chars: selected.reduce((n, a) => n + (a.summary || '').replace(/\s/g, '').length, 0) },
+      text: `候補${all.length}件から${selected.length}件を掲載。本文が取れず不採用${dropped}件。`,
+    },
   };
 
-  writeJson(path.join(OUT_DIR, 'news.json'), output);
+  writeJson(path.join(OUT_DIR, 'ai.json'), output);
   if (!dryRun) {
-    writeJson(path.join(OUT_DIR, 'archive', `${jstDate(now)}.json`), output);
+    writeJson(path.join(OUT_DIR, 'archive', `${jstDate(now)}-ai.json`), output);
     for (const a of selected) seen[a.id] = now.toISOString();
     writeJson(SEEN_FILE, pruneSeen(seen, now));
   }
-  console.log(`[build] 完了: ${path.relative(ROOT, path.join(OUT_DIR, 'news.json'))}`);
+  console.log(`[build] 完了: ${path.relative(ROOT, path.join(OUT_DIR, 'ai.json'))}`);
 }
 
 /** 全候補を1回の呼び出しで採点する（同じ基準で相対評価させ、重複も判定させるため） */
-async function scoreCandidates(candidates) {
-  const items = await scoreList(candidates);
+async function scoreCandidates(candidates, earlierHeadlines = []) {
+  const items = await scoreList(candidates, earlierHeadlines);
   console.log(`[score] ${items.length}/${candidates.length}件の採点が返った`);
 
   // 採点が返らなかった候補があれば、その分だけもう一度採点する（混雑時の軽量モデルは途中で出力を打ち切ることがある）
   const returned = new Set(items.map(r => r.id));
   const missing = candidates.filter(c => !returned.has(c.id));
   if (missing.length > candidates.length * 0.1) {
-    const more = await scoreList(missing).catch(e => {
+    const more = await scoreList(missing, earlierHeadlines).catch(e => {
       console.warn(`[score] 追加採点に失敗 (${e.status || e.message})`);
       return [];
     });
@@ -126,20 +191,26 @@ async function scoreCandidates(candidates) {
       return {
         ...c,
         score: Math.max(0, Math.min(100, Math.round(r.score))),
-        category: validCategories.has(r.category) ? r.category : 'business',
+        category: validCategories.has(r.category) ? r.category : 'it',
         duplicateOf: r.duplicateOf && byId.has(r.duplicateOf) && r.duplicateOf !== c.id ? r.duplicateOf : null,
         order: r.order,
       };
     });
 }
 
-async function scoreList(candidates) {
+async function scoreList(candidates, earlierHeadlines = []) {
   const list = candidates.map(c => ({
     id: c.id, title: c.title, outlet: c.outlet, region: c.region, snippet: c.snippet,
   }));
+  // 同じ日の深掘り2系統が既に扱った話題は、URL が違っても落とす
+  const exclusion = earlierHeadlines.length
+    ? `\n\n# 本日すでに別の紙面で扱った出来事（${earlierHeadlines.length}件）\n`
+      + `次の見出しと同じ出来事を報じた候補は、記事のURLが違っていても score を 0 にして末尾に並べてください。\n`
+      + earlierHeadlines.map(h => `- ${h}`).join('\n')
+    : '';
   const result = await generateJson({
     models: SCORING_MODELS,
-    system: SCORING_PROMPT,
+    system: SCORING_PROMPT + exclusion,
     prompt: `記事候補（${list.length}件）:\n${list.map(x => JSON.stringify(x)).join('\n')}`,
     schema: SCORING_SCHEMA,
   });

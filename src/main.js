@@ -4,29 +4,44 @@ import {
 } from 'lucide';
 import { NewsFetcherService } from './services/newsFetcher.js';
 import { StorageService } from './services/storage.js';
-import { TIERS } from './article.js';
+import { STREAMS, SECTIONS, TIERS, sectionLabel } from './article.js';
 import { renderHeader } from './components/Header.js';
 import { renderFilterBar } from './components/FilterBar.js';
 import { renderNewsCard } from './components/NewsCard.js';
 import { renderArticleModal } from './components/ArticleModal.js';
+import { escapeHtml, splitParagraphs } from './utils.js';
 
 // 使用するアイコンだけを読み込む（全アイコンを含めるとバンドルが大きくなるため）
 const icons = { AlertTriangle, Bookmark, ExternalLink, Inbox, Newspaper, RotateCw, Search, X };
 
-// Application State
+const LAST_STREAM_KEY = 'lastStream';
+
 const state = {
-  articles: [],
-  categories: [],
-  generatedAt: null,
+  // 系統ごとの当日分。読めなかった系統は null
+  editions: Object.fromEntries(STREAMS.map(s => [s.id, null])),
   filteredArticles: [],
   bookmarks: StorageService.getBookmarks(),
-  currentCategory: 'all',
-  currentRegion: 'all',
+  currentStream: readLastStream(),
+  currentSection: 'all',
+  currentDepth: 'all',
   searchQuery: '',
   isBookmarkMode: false,
   activeModalArticle: null,
   isLoading: true
 };
+
+/** 前回見ていた系統を覚えておく（読めないときは先頭の系統） */
+function readLastStream() {
+  try {
+    const v = localStorage.getItem(LAST_STREAM_KEY);
+    if (STREAMS.some(s => s.id === v)) return v;
+  } catch { /* プライベートモード等では使わない */ }
+  return STREAMS[0].id;
+}
+
+function saveLastStream(id) {
+  try { localStorage.setItem(LAST_STREAM_KEY, id); } catch { /* 保存できなくても動作に影響しない */ }
+}
 
 async function initApp() {
   renderApp();
@@ -38,10 +53,15 @@ async function loadNews() {
   renderApp();
 
   try {
-    const data = await NewsFetcherService.fetchNews();
-    state.articles = data.articles;
-    state.categories = data.categories;
-    state.generatedAt = data.generatedAt;
+    state.editions = await NewsFetcherService.fetchAll();
+    // 選んでいる系統が本日無ければ、中身のある系統に寄せる
+    if (!state.editions[state.currentStream]) {
+      const available = STREAMS.find(s => state.editions[s.id]);
+      if (available) state.currentStream = available.id;
+    }
+    if (STREAMS.every(s => !state.editions[s.id])) {
+      showToast('⚠️ ニュースを読み込めませんでした。時間をおいて再試行してください。');
+    }
   } catch (error) {
     console.error('Failed to load news:', error);
     showToast('⚠️ ニュースを読み込めませんでした。時間をおいて再試行してください。');
@@ -51,57 +71,91 @@ async function loadNews() {
   renderApp();
 }
 
-function filterArticles() {
-  let list = state.isBookmarkMode ? state.bookmarks : state.articles;
+function currentArticles() {
+  return state.editions[state.currentStream]?.articles ?? [];
+}
 
-  if (state.currentCategory !== 'all') {
-    const ids = categoryIds(state.currentCategory);
-    list = list.filter(a => ids.includes(a.category));
-  }
-  if (state.currentRegion !== 'all') {
-    list = list.filter(a => a.region === state.currentRegion);
+function filterArticles() {
+  let list = state.isBookmarkMode ? state.bookmarks : currentArticles();
+
+  if (!state.isBookmarkMode) {
+    if (state.currentSection !== 'all') list = list.filter(a => a.section === state.currentSection);
+    if (state.currentDepth !== 'all') list = list.filter(a => a.depth === state.currentDepth);
   }
   if (state.searchQuery.trim()) {
     const q = state.searchQuery.toLowerCase();
-    list = list.filter(a =>
-      [a.headline, a.originalTitle, a.outlet, a.summary || ''].some(s => s.toLowerCase().includes(q))
-    );
+    list = list.filter(a => searchableText(a).toLowerCase().includes(q));
   }
 
   state.filteredArticles = list;
 }
 
-/** タブの値から、表示するカテゴリーIDの一覧を得る（親を選んだら小分類も含める） */
-function categoryIds(value) {
-  if (value.endsWith(':self')) return [value.replace(/:self$/, '')];
-  return [value, ...state.categories.filter(c => c.parent === value).map(c => c.id)];
+/** 検索対象。深掘りは body の各節も含める */
+function searchableText(a) {
+  const body = (a.body || []).map(s => s.text).join(' ');
+  return [a.headline, a.originalTitle, a.outlet, a.summary || '', body].join(' ');
 }
 
 function findArticle(id) {
-  return state.articles.find(a => a.id === id) || state.bookmarks.find(a => a.id === id);
+  for (const s of STREAMS) {
+    const found = state.editions[s.id]?.articles.find(a => a.id === id);
+    if (found) return found;
+  }
+  return state.bookmarks.find(a => a.id === id);
 }
 
-function categoryLabel(id) {
-  return state.categories.find(c => c.id === id)?.label || '';
+function labelOf(article) {
+  return sectionLabel(article.stream, article.section);
 }
 
-/** 重要度の段階ごとにまとめ、紙面のように大きい順に並べる */
+/**
+ * 深掘り2系統はセクション順に、AI日報は重要度の段階順に並べる。
+ * 保存した記事の一覧は系統が混ざるので、単純に1列にする。
+ */
 function renderSections() {
-  return TIERS.map(tier => {
-    const items = state.filteredArticles
-      .filter(a => a.tier === tier.id)
-      .sort((a, b) => (b.score ?? 0) - (a.score ?? 0));
-    if (items.length === 0) return '';
-    const cards = items
-      .map(a => renderNewsCard(a, StorageService.isBookmarked(a.id), categoryLabel(a.category)))
-      .join('');
-    return `
-      <section class="tier-section">
-        <h2 class="tier-heading tier-heading-${tier.id}">${tier.label}<span class="tier-count">${items.length}</span></h2>
-        <div class="news-grid grid-${tier.id}">${cards}</div>
-      </section>
-    `;
-  }).join('');
+  if (state.isBookmarkMode) return renderGroup('保存した記事', state.filteredArticles);
+
+  const groups = state.currentStream === 'ai'
+    ? TIERS.map(t => [t.label, state.filteredArticles.filter(a => a.tier === t.id), t.id])
+    : (SECTIONS[state.currentStream] || []).map(s => [s.label, state.filteredArticles.filter(a => a.section === s.id), s.id]);
+
+  const body = groups.map(([label, items, id]) => renderGroup(label, items, id)).join('');
+  return body + renderEssays();
+}
+
+function renderGroup(label, items, id = 'spare') {
+  if (items.length === 0) return '';
+  const sorted = [...items].sort((a, b) => (b.score ?? 0) - (a.score ?? 0));
+  const cards = sorted
+    .map(a => renderNewsCard(a, StorageService.isBookmarked(a.id), labelOf(a)))
+    .join('');
+  return `
+    <section class="tier-section">
+      <h2 class="tier-heading tier-heading-${escapeHtml(id)}">${escapeHtml(label)}<span class="tier-count">${items.length}</span></h2>
+      <div class="news-grid grid-${escapeHtml(id)}">${cards}</div>
+    </section>
+  `;
+}
+
+/** 今日の教養。絞り込みや検索をしているときは出さない（紙面の付録という位置づけのため） */
+function renderEssays() {
+  const essays = state.editions[state.currentStream]?.essays ?? [];
+  const filtering = state.currentSection !== 'all' || state.currentDepth !== 'all' || state.searchQuery.trim();
+  if (essays.length === 0 || filtering) return '';
+
+  const items = essays.map(e => `
+    <article class="essay-card">
+      <h3 class="essay-title">${escapeHtml(e.title)}</h3>
+      ${splitParagraphs(e.text).map(p => `<p class="modal-paragraph">${escapeHtml(p)}</p>`).join('')}
+    </article>
+  `).join('');
+
+  return `
+    <section class="tier-section">
+      <h2 class="tier-heading tier-heading-essay">今日の教養<span class="tier-count">${essays.length}</span></h2>
+      <div class="essay-grid">${items}</div>
+    </section>
+  `;
 }
 
 function renderApp() {
@@ -122,8 +176,8 @@ function renderApp() {
     contentHtml = `
       <div class="empty-state">
         <i data-lucide="inbox" style="width: 48px; height: 48px; opacity: 0.5; margin-bottom: 12px;"></i>
-        <h3>該当するニュースが見つかりません</h3>
-        <p>${state.isBookmarkMode ? '保存した記事はまだありません。' : '条件を変更するか、別のキーワードで検索してください。'}</p>
+        <h3>${emptyTitle()}</h3>
+        <p>${emptyHint()}</p>
       </div>
     `;
   } else {
@@ -140,13 +194,28 @@ function renderApp() {
 
   if (state.activeModalArticle) {
     const a = state.activeModalArticle;
-    modalRoot.innerHTML = renderArticleModal(a, StorageService.isBookmarked(a.id), categoryLabel(a.category));
+    modalRoot.innerHTML = renderArticleModal(a, StorageService.isBookmarked(a.id), labelOf(a));
   } else {
     modalRoot.innerHTML = '';
   }
 
   createIcons({ icons });
   attachEventListeners();
+}
+
+function emptyTitle() {
+  if (state.isBookmarkMode) return '保存した記事はまだありません';
+  if (!state.editions[state.currentStream]) return '本日分はまだありません';
+  return '該当するニュースが見つかりません';
+}
+
+function emptyHint() {
+  if (state.isBookmarkMode) return '記事の🔖から保存できます。';
+  if (!state.editions[state.currentStream]) {
+    const title = STREAMS.find(s => s.id === state.currentStream)?.title || '';
+    return `${title}は平日のみ更新します。他の系統のタブに切り替えてみてください。`;
+  }
+  return '条件を変更するか、別のキーワードで検索してください。';
 }
 
 // 記事を開くときに履歴を1つ積む。スマホの「戻る」操作（スワイプ）でも一覧に戻れるようにするため
@@ -183,26 +252,41 @@ function toggleBookmark(id) {
 }
 
 function attachEventListeners() {
-  // Category Tabs
-  document.querySelectorAll('.cat-pill, .subcat-pill').forEach(pill => {
+  // 系統のタブ
+  document.querySelectorAll('.stream-pill').forEach(pill => {
     pill.addEventListener('click', (e) => {
-      state.currentCategory = e.currentTarget.getAttribute('data-category');
+      const id = e.currentTarget.getAttribute('data-stream');
+      if (id === state.currentStream) return;
+      state.currentStream = id;
+      state.currentSection = 'all';
+      state.currentDepth = 'all';
+      state.isBookmarkMode = false;
+      saveLastStream(id);
       filterArticles();
       renderApp();
       window.scrollTo({ top: 0 });
     });
   });
 
-  // Region Toggle
-  document.querySelectorAll('.region-btn').forEach(btn => {
+  // セクションのタブ
+  document.querySelectorAll('.cat-pill').forEach(pill => {
+    pill.addEventListener('click', (e) => {
+      state.currentSection = e.currentTarget.getAttribute('data-section');
+      filterArticles();
+      renderApp();
+      window.scrollTo({ top: 0 });
+    });
+  });
+
+  // 深掘り／短信の切り替え
+  document.querySelectorAll('.depth-btn').forEach(btn => {
     btn.addEventListener('click', (e) => {
-      state.currentRegion = e.currentTarget.getAttribute('data-region');
+      state.currentDepth = e.currentTarget.getAttribute('data-depth');
       filterArticles();
       renderApp();
     });
   });
 
-  // Search Input
   const searchInput = document.getElementById('search-input');
   if (searchInput) {
     searchInput.addEventListener('input', (e) => {
@@ -226,15 +310,15 @@ function attachEventListeners() {
 
   document.getElementById('logo-btn')?.addEventListener('click', (e) => {
     e.preventDefault();
-    state.currentCategory = 'all';
-    state.currentRegion = 'all';
+    state.currentSection = 'all';
+    state.currentDepth = 'all';
     state.searchQuery = '';
     state.isBookmarkMode = false;
     filterArticles();
     renderApp();
   });
 
-  // Card Click → 要約モーダルを開く
+  // カードのクリック → 本文モーダルを開く
   document.querySelectorAll('.open-modal-btn').forEach(card => {
     const open = () => {
       const found = findArticle(card.getAttribute('data-article-id'));

@@ -1,19 +1,26 @@
 /**
- * News Fetcher Service
- * 毎朝の処理で生成された public/data/news.json を読み込む。
+ * 3系統（国内深掘り・国際深掘り・AI日報）の当日分を読み込む。
+ *
+ *   public/data/domestic.json … 国内深掘り（クラウドの定期実行が書く）
+ *   public/data/intl.json     … 国際深掘り（同上）
+ *   public/data/ai.json       … AI日報（GitHub Actions が書く）
+ *
+ * どれか1つが無くても他は表示する（深掘りが動かなかった日でも AI日報は読める）。
  */
 
-import { normalizeArticle } from '../article.js';
+import { STREAMS, normalizeEdition } from '../article.js';
 
 export const NewsFetcherService = {
-  async fetchNews() {
-    const res = await fetch('./data/news.json', { cache: 'no-store' });
-    if (!res.ok) throw new Error(`news.json: ${res.status}`);
-    const data = await res.json();
-    return {
-      generatedAt: data.generatedAt,
-      categories: data.categories || [],
-      articles: data.articles.map(normalizeArticle),
-    };
+  async fetchAll() {
+    const results = await Promise.all(STREAMS.map(async s => {
+      try {
+        const res = await fetch(`./data/${s.file}`, { cache: 'no-store' });
+        if (!res.ok) return [s.id, null];
+        return [s.id, normalizeEdition(await res.json(), s.id)];
+      } catch {
+        return [s.id, null];
+      }
+    }));
+    return Object.fromEntries(results);
   },
 };

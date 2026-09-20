@@ -1,14 +1,18 @@
 /**
  * Header Component
- * 画面上部に固定表示される。カテゴリーのタブもここに置き、スクロールしても常に切り替えられるようにする。
+ * 画面上部に固定表示される。系統のタブ（国内深掘り／国際深掘り／AI日報）と、
+ * その中の絞り込みタブをここに置き、スクロールしても常に切り替えられるようにする。
  */
 
 import { escapeHtml } from '../utils.js';
+import { STREAMS, SECTIONS, DEPTHS } from '../article.js';
 
 export function renderHeader(state) {
-  const updated = state.generatedAt
-    ? new Date(state.generatedAt).toLocaleString('ja-JP', { month: 'numeric', day: 'numeric', hour: '2-digit', minute: '2-digit' })
+  const edition = state.editions[state.currentStream];
+  const updated = edition?.generatedAt
+    ? new Date(edition.generatedAt).toLocaleString('ja-JP', { month: 'numeric', day: 'numeric', hour: '2-digit', minute: '2-digit' })
     : '';
+  const title = STREAMS.find(s => s.id === state.currentStream)?.title || 'ニュース';
 
   return `
     <header class="app-header">
@@ -18,8 +22,8 @@ export function renderHeader(state) {
             <i data-lucide="newspaper"></i>
           </div>
           <div class="logo-text-group">
-            <span class="logo-title">AI News</span>
-            <span class="logo-subtitle">${updated ? `${updated} 更新` : '毎朝更新・テックニュースを日本語で'}</span>
+            <span class="logo-title">${escapeHtml(title)}</span>
+            <span class="logo-subtitle">${updated ? `${updated} 更新` : '平日更新'}</span>
           </div>
         </a>
 
@@ -34,44 +38,46 @@ export function renderHeader(state) {
           </button>
         </div>
       </div>
-      <nav class="category-nav" aria-label="カテゴリー">${renderCategoryTabs(state)}</nav>
+      <nav class="stream-nav" aria-label="系統">${renderStreamTabs(state)}</nav>
+      ${state.isBookmarkMode ? '' : `<nav class="category-nav" aria-label="絞り込み">${renderSectionTabs(state)}</nav>`}
     </header>
   `;
 }
 
-/**
- * カテゴリーのタブ。親カテゴリー（経済など）だけをタブにし、選択中の親に小分類（金融など）があれば下に並べる。
- * state.currentCategory の値：'all' / 親の id（小分類も含めて表示）/ '<id>:self'（親だけ）/ 小分類の id
- */
-function renderCategoryTabs(state) {
-  const list = state.isBookmarkMode ? state.bookmarks : state.articles;
-  const countOf = ids => list.filter(a => ids.includes(a.category)).length;
-  const tops = state.categories.filter(c => !c.parent);
-  const childrenOf = id => state.categories.filter(c => c.parent === id);
-  const activeTop = tops.find(t => t.id === state.currentCategory.replace(/:self$/, '') ||
-    childrenOf(t.id).some(c => c.id === state.currentCategory));
-
-  const tabs = [{ id: 'all', label: 'すべて' }, ...tops].map(c => {
-    const ids = c.id === 'all' ? null : [c.id, ...childrenOf(c.id).map(x => x.id)];
-    const active = c.id === 'all' ? state.currentCategory === 'all' : activeTop?.id === c.id;
+/** 系統のタブ。3系統はスコアの尺度が違うため、必ずどれか1つだけを表示する */
+function renderStreamTabs(state) {
+  return `<div class="stream-tabs">${STREAMS.map(s => {
+    const n = state.editions[s.id]?.articles.length ?? 0;
+    const missing = state.editions[s.id] == null;
     return `
-      <button class="cat-pill ${active ? 'active' : ''}" data-category="${escapeHtml(c.id)}">
-        ${escapeHtml(c.label)}<span class="cat-count">${ids ? countOf(ids) : list.length}</span>
+      <button class="stream-pill ${state.currentStream === s.id ? 'active' : ''} ${missing ? 'missing' : ''}"
+              data-stream="${escapeHtml(s.id)}"
+              ${missing ? 'title="本日分はまだありません"' : ''}>
+        ${escapeHtml(s.title)}<span class="cat-count">${missing ? '—' : n}</span>
       </button>`;
-  }).join('');
+  }).join('')}</div>`;
+}
 
-  const children = activeTop ? childrenOf(activeTop.id) : [];
-  const subs = children.length === 0 ? '' : `
-    <div class="subcat-nav">
-      ${[
-        { id: activeTop.id, label: 'すべて', ids: [activeTop.id, ...children.map(c => c.id)] },
-        { id: `${activeTop.id}:self`, label: `${activeTop.label}全般`, ids: [activeTop.id] },
-        ...children.map(c => ({ id: c.id, label: c.label, ids: [c.id] })),
-      ].map(c => `
-        <button class="subcat-pill ${state.currentCategory === c.id ? 'active' : ''}" data-category="${escapeHtml(c.id)}">
-          ${escapeHtml(c.label)}<span class="cat-count">${countOf(c.ids)}</span>
-        </button>`).join('')}
+/** セクションのタブと、深掘り／短信の切り替え */
+function renderSectionTabs(state) {
+  const list = state.editions[state.currentStream]?.articles ?? [];
+  const sections = (SECTIONS[state.currentStream] || []).filter(sec => list.some(a => a.section === sec.id));
+  const countOf = id => list.filter(a => a.section === id).length;
+
+  const tabs = [{ id: 'all', label: 'すべて' }, ...sections].map(c => `
+    <button class="cat-pill ${state.currentSection === c.id ? 'active' : ''}" data-section="${escapeHtml(c.id)}">
+      ${escapeHtml(c.label)}<span class="cat-count">${c.id === 'all' ? list.length : countOf(c.id)}</span>
+    </button>`).join('');
+
+  // AI日報は全件が短信なので、深掘り／短信の切り替えは出さない
+  const hasDeep = list.some(a => a.depth === 'deep');
+  const depth = !hasDeep ? '' : `
+    <div class="depth-toggle">
+      ${DEPTHS.map(d => {
+        const n = d.id === 'all' ? list.length : list.filter(a => a.depth === d.id).length;
+        return `<button class="depth-btn ${state.currentDepth === d.id ? 'active' : ''}" data-depth="${d.id}">${d.label}<span class="cat-count">${n}</span></button>`;
+      }).join('')}
     </div>`;
 
-  return `<div class="category-tabs">${tabs}</div>${subs}`;
+  return `<div class="category-tabs">${tabs}</div>${depth}`;
 }

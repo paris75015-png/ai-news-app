@@ -1,10 +1,12 @@
-name: 毎日のニュース更新
+name: AI日報の更新
 
 on:
   schedule:
-    # 毎日 16:43（日本時間）= 米国の深夜。AI の無料枠が比較的空いている時間帯。
+    # 平日 16:43（日本時間）= 米国の深夜。AI の無料枠が比較的空いている時間帯。
     # 正時・30分ちょうどは GitHub 側も混むので、半端な分にしている。数十分遅れることがある
-    - cron: '43 7 * * *'
+    # 07:43 UTC + 9時間 = 同じ日の 16:43 JST。曜日も UTC と JST で一致するため 1-5 でよい
+    # 深掘り2系統（07:00 / 07:30 JST）も平日のみ。3系統で揃えている
+    - cron: '43 7 * * 1-5'
   workflow_dispatch:        # Actions 画面から手動で実行できる
   push:
     branches: [main]        # コードを更新したときは、ニュース処理なしで公開ページだけ作り直す
@@ -35,7 +37,7 @@ jobs:
 
       - run: npm ci
 
-      - name: ニュースを集めて採点・要約
+      - name: AI日報を集めて採点・要約
         if: github.event_name != 'push'
         run: npm run news
         env:
@@ -48,7 +50,9 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add public/data data
-          git diff --cached --quiet || git commit -m "ニュース更新 $(TZ=Asia/Tokyo date +%F)"
+          git diff --cached --quiet || git commit -m "AI日報 $(TZ=Asia/Tokyo date +%F)"
+          # 同じ日の朝に深掘り2系統が push しているので、取り込んでから送る
+          git pull --rebase
           git push
 
       - run: npm run build

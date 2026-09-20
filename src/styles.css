@@ -113,31 +113,42 @@ body {
 }
 .category-tabs::-webkit-scrollbar { display: none; }
 
-.subcat-nav {
+.stream-nav {
+  max-width: 1280px;
+  margin: 12px auto 0;
+  padding: 0 16px;
+}
+
+/* 系統のタブ。3系統はスコアの尺度が違うので、必ずどれか1つだけを大きく示す */
+.stream-tabs {
   display: flex;
   gap: 6px;
-  margin-top: 8px;
-  overflow-x: auto;
-  scrollbar-width: none;
+  padding: 3px;
+  border-radius: var(--radius-full);
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid var(--border-color);
 }
-.subcat-nav::-webkit-scrollbar { display: none; }
 
-.subcat-pill {
+.stream-pill {
+  flex: 1;
   white-space: nowrap;
-  padding: 4px 12px;
+  padding: 8px 12px;
+  border: none;
   border-radius: var(--radius-full);
   background: transparent;
-  border: 1px solid var(--border-color);
   color: var(--text-muted);
-  font-size: 0.78rem;
-  cursor: pointer;
-}
-.subcat-pill.active {
-  border-color: var(--accent-primary);
-  color: #c7d2fe;
-  background: rgba(99, 102, 241, 0.15);
+  font-family: var(--font-heading);
+  font-size: 0.85rem;
   font-weight: 600;
+  cursor: pointer;
+  transition: background 0.2s ease, color 0.2s ease;
 }
+.stream-pill:hover { color: var(--text-main); }
+.stream-pill.active {
+  background: var(--accent-primary);
+  color: #ffffff;
+}
+.stream-pill.missing { opacity: 0.45; }
 
 .header-content {
   max-width: 1280px;
@@ -172,6 +183,7 @@ body {
 .logo-text-group {
   display: flex;
   flex-direction: column;
+  min-width: 0;
 }
 
 .logo-title {
@@ -179,6 +191,8 @@ body {
   font-size: 1.25rem;
   font-weight: 800;
   letter-spacing: -0.02em;
+  /* 系統名（国内深掘り等）が狭い画面で途中改行しないようにする */
+  white-space: nowrap;
   background: var(--gradient-brand);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -299,14 +313,15 @@ body {
   font-weight: 600;
 }
 
-.region-toggle {
+.depth-toggle {
   display: inline-flex;
   padding: 3px;
   border-radius: var(--radius-full);
   background: rgba(255, 255, 255, 0.04);
   border: 1px solid var(--border-color);
+  margin-top: 8px;
 }
-.region-btn {
+.depth-btn {
   padding: 5px 14px;
   border: none;
   border-radius: var(--radius-full);
@@ -315,7 +330,7 @@ body {
   font-size: 0.8rem;
   cursor: pointer;
 }
-.region-btn.active { background: rgba(255, 255, 255, 0.12); color: var(--text-main); font-weight: 600; }
+.depth-btn.active { background: rgba(255, 255, 255, 0.12); color: var(--text-main); font-weight: 600; }
 
 /* Search Bar */
 .search-wrapper {
@@ -366,8 +381,13 @@ body {
   margin-bottom: 16px;
   border-bottom: 1px solid var(--border-color);
 }
-.tier-heading-must { color: #fda4af; border-bottom-color: rgba(244, 63, 94, 0.4); font-size: 1.1rem; }
-.tier-heading-should { color: #fcd34d; }
+.tier-heading-must,
+.tier-heading-new,
+.tier-heading-unseen { color: #fda4af; border-bottom-color: rgba(244, 63, 94, 0.4); font-size: 1.1rem; }
+.tier-heading-should,
+.tier-heading-ongoing,
+.tier-heading-structural { color: #fcd34d; }
+.tier-heading-essay { color: #a5b4fc; }
 .tier-count {
   font-size: 0.75rem;
   font-weight: 600;
@@ -379,6 +399,11 @@ body {
 .grid-should { grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); }
 .grid-interest { grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 12px; }
 .grid-spare { grid-template-columns: 1fr; gap: 0; }
+/* 深掘りのセクション（国内・国際）。1件の情報量が多いので幅を広く取る */
+.grid-new, .grid-unseen { grid-template-columns: repeat(auto-fill, minmax(420px, 1fr)); gap: 20px; }
+.grid-ongoing, .grid-structural { grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); }
+.grid-science, .grid-world, .grid-world-on-japan, .grid-brief { grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 12px; }
+.essay-grid { display: grid; gap: 16px; grid-template-columns: repeat(auto-fill, minmax(380px, 1fr)); }
 
 /* News Card */
 .news-card {
@@ -765,7 +790,7 @@ body {
   .news-grid {
     grid-template-columns: 1fr;
   }
-  .region-toggle {
+  .depth-toggle {
     align-self: flex-start;
   }
   .search-wrapper {
@@ -802,4 +827,62 @@ body {
     flex-direction: column;
     align-items: stretch;
   }
+}
+
+/* 深掘り／短信の別 */
+.depth-badge {
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  color: #c7d2fe;
+  background: rgba(99, 102, 241, 0.18);
+  border: 1px solid rgba(99, 102, 241, 0.4);
+  padding: 2px 8px;
+  border-radius: var(--radius-full);
+}
+.card-deep { border-left: 2px solid rgba(99, 102, 241, 0.5); }
+
+/* 継続ストーリーの注記 */
+.continuity-note {
+  font-size: 0.78rem;
+  color: var(--text-dim);
+  margin-top: 6px;
+}
+
+/* 深掘りの本文。節のラベルを見出しにする */
+.body-section { margin-bottom: 22px; }
+.body-label {
+  font-family: var(--font-heading);
+  font-size: 0.82rem;
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  color: var(--text-muted);
+  margin-bottom: 8px;
+}
+
+/* 出典。どの媒体を本文まで読んだのかが確度の目安になる */
+.sources-section {
+  margin-top: 28px;
+  padding-top: 16px;
+  border-top: 1px solid var(--border-color);
+}
+.source-list { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 8px; }
+.source-item { font-size: 0.82rem; color: var(--text-muted); }
+.source-item a { color: #c7d2fe; text-decoration: none; }
+.source-item a:hover { text-decoration: underline; }
+.source-meta { display: block; font-size: 0.72rem; color: var(--text-dim); margin-top: 2px; }
+
+/* 今日の教養 */
+.essay-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-lg);
+  padding: 20px 22px;
+}
+.essay-title {
+  font-family: var(--font-heading);
+  font-size: 1rem;
+  font-weight: 700;
+  margin-bottom: 12px;
+  color: #c7d2fe;
 }
