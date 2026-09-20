@@ -10,7 +10,7 @@ import path from 'node:path';
 import { SOURCES } from './sources.js';
 import { collectCandidates } from './collect.js';
 import { fetchArticleBody, htmlFragmentToText } from './fetchArticle.js';
-import { initGemini, generateJson, usedModels } from './gemini.js';
+import { initGemini, generateJson, usedModels, lastUsedModel } from './gemini.js';
 import { initGroq, groqAvailable, groqJson, groqUsed, GROQ_BODY_CHARS } from './groq.js';
 import {
   COLLECT, EDITORIAL_VERSION, CATEGORIES, tierOfRank,
@@ -248,7 +248,7 @@ async function summarizeWithGemini(articles, deadline) {
         prompt: summaryPrompt(batch, BODY_CHARS_FOR_SUMMARY),
         schema: SUMMARY_SCHEMA,
       });
-      applySummaries(batch, result, 'gemini');
+      applySummaries(batch, result, lastUsedModel());
       console.log(`[gemini] 要約 ${batch.filter(a => a.summary).length}/${batch.length}件`);
     } catch (e) {
       console.error(`[gemini] 要約できず (${e.status || e.message}): ${batch.length}件`);
@@ -260,7 +260,7 @@ async function summarizeWithGroq(articles, deadline) {
   for (const a of articles) {
     if (!groqAvailable() || Date.now() > deadline) return;
     const result = await groqJson({ system: SUMMARY_PROMPT, prompt: summaryPrompt([a], GROQ_BODY_CHARS), schema: SUMMARY_SCHEMA });
-    if (result) applySummaries([a], result, 'groq');
+    if (result) applySummaries([a], result, FALLBACK_MODEL);
     console.log(`[groq] 要約 ${a.summary ? '成功' : '失敗'} ${a.id}`);
   }
 }

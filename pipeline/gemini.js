@@ -12,6 +12,11 @@ const MIN_INTERVAL_MS = 8000; // 無料枠の毎分リクエスト上限に余�
 let client = null;
 let lastCallAt = 0;
 export const usedModels = new Set();
+let lastModel = null;
+/** 直前の呼び出しで実際に使われたモデル名 */
+export function lastUsedModel() {
+  return lastModel;
+}
 const exhaustedModels = new Set();
 
 export function initGemini(apiKey) {
@@ -43,6 +48,7 @@ export async function generateJson({ models, system, prompt, schema, maxOutputTo
       });
       const json = JSON.parse(res.text);
       usedModels.add(model);
+      lastModel = model;
       return json;
     } catch (e) {
       lastError = e;

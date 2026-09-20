@@ -72,5 +72,17 @@ function renderSummary(article) {
     .map(p => `<p class="modal-paragraph">${escapeHtml(p).replace(/\n/g, '<br>')}</p>`)
     .join('');
 
-  return `${notice}<div class="summary-text">${paragraphs}</div>`;
+  const by = article.summarizedBy
+    ? `<p class="summary-credit">要約: ${escapeHtml(modelLabel(article.summarizedBy))}</p>`
+    : '';
+
+  return `${notice}<div class="summary-text">${paragraphs}</div>${by}`;
+}
+
+/** モデル名を読みやすい表記にする */
+function modelLabel(model) {
+  if (model.startsWith('openai/')) return `${model.replace('openai/', 'OpenAI ')}（Groq）`;
+  if (model.startsWith('gemini-')) return `Google ${model.replace('gemini-', 'Gemini ')}`;
+  if (model === 'gemini' || model === 'groq') return model === 'gemini' ? 'Google Gemini' : 'OpenAI GPT-OSS（Groq）';
+  return model;
 }

@@ -660,6 +660,13 @@ body {
   gap: 10px;
 }
 
+.summary-credit {
+  margin-top: 16px;
+  font-size: 0.75rem;
+  color: var(--text-dim);
+  text-align: right;
+}
+
 .summary-notice {
   display: flex;
   align-items: flex-start;

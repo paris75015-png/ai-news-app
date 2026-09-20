@@ -17,6 +17,7 @@
  * @property {string|null} summary   日本語要約（段落は空行区切り）
  * @property {boolean} bodyAvailable 元記事の本文を読んで要約したか
  * @property {string|null} discussionUrl  HN の議論ページなど
+ * @property {string|null} summarizedBy  要約したモデル名
  */
 
 export const TIERS = [
@@ -41,5 +42,6 @@ export function normalizeArticle(item) {
     summary: item.summary || null,
     bodyAvailable: item.bodyAvailable !== false,
     discussionUrl: item.discussionUrl || item.meta?.discussionUrl || null,
+    summarizedBy: item.summarizedBy || null,
   };
 }
