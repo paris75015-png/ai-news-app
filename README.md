@@ -28,12 +28,17 @@
 6. （任意）予備の要約AIとして、https://console.groq.com/keys で発行したキーを `GROQ_API_KEY` として同様に登録する
 7. 表示された URL（`https://<ユーザー名>.github.io/<リポジトリ名>/`）をスマホで開き、ホーム画面に追加する
 
+## 読み方
+
+- スマホ・Mac とも https://paris75015-png.github.io/ai-news-app/ を開く（`AIニュース起動.command` をダブルクリックしても同じページが開く）
+- 中身はクラウド側で毎日更新されるので、Mac の電源が入っていなくても更新される
+
 ## 手元で試す
 
 ```bash
 npm run news -- --dry-run   # AIを呼ばずに収集〜保存の流れだけ確認（見出し・点数は仮）
 npm run news                # 本番と同じ処理（.env に GEMINI_API_KEY が必要）
-npm run dev                 # http://localhost:5173 で表示
+npm run dev                 # http://localhost:5173 で表示（`開発用サーバー起動.command` でも可）
 ```
 
 ## 注意
