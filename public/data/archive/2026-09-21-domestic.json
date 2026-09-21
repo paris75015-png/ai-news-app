@@ -1,0 +1,430 @@
+{
+  "date": "2026-09-21",
+  "stream": "domestic",
+  "title": "国内深掘り",
+  "generatedAt": "2026-09-21T07:10:00+09:00",
+  "model": "claude-sonnet-5",
+  "editorialVersion": 1,
+  "articles": [
+    {
+      "id": "domestic-20260921-boj-yen",
+      "stream": "domestic",
+      "depth": "deep",
+      "section": "new",
+      "headline": "日銀利上げに2人反対、円は158円台",
+      "originalTitle": "日銀1.25%への利上げ決定、物価上振れリスク抑制 2人が反対票",
+      "outlet": "日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUB182840Y6A910C2000000/",
+      "region": "domestic",
+      "category": null,
+      "score": 82,
+      "tier": "must",
+      "pubDate": "2026-09-21T09:00:00+09:00",
+      "body": [
+        {
+          "label": "概要兼背景",
+          "text": "日銀は18日、政策金利を0.25%引き上げ1.25%程度とした。1995年以来、約30年ぶりの高さである。利上げは6月以来3か月ぶりで、従来の半年間隔から前倒しした形になる。採決は賛成7反対2だった。反対した審議委員2人のうち1人は、物価上昇率が2%を下回る点を理由に据え置きを主張した。もう1人は、物価・景気情勢に大きな変化がないとして時期尚早と述べた。総務省が19日発表した8月の全国消費者物価指数は、生鮮食品を除く指数が前年比1.7%上昇した。全体の指数も1.9%上がった。日銀は物価が上振れするリスクを、利上げの主な根拠に挙げていた。植田総裁は会見で、連続利上げの可能性を排除しないと述べた。一方で、急な引き締めが銀行融資や資産市場に及ぼす影響には慎重な姿勢もにじませた。利上げ発表を受け、日経平均は同日1.7%高まで上げた。株高とは対照的に、円は逆に下落した。18日のロンドン市場では1ドル=157円台まで売られた。通常は利上げで通貨が買われやすいが、今回は逆の値動きになった。19日未明には政府・日銀がレートチェックを実施し、円が一時1円超上昇して156円台後半まで戻す場面もあった。"
+        },
+        {
+          "label": "今後の影響",
+          "text": "21日の東京市場では円が再び158円台後半まで下落し、投機筋の間で円買い介入への警戒がくすぶっている。反対票の存在で市場は利上げペースの鈍化を意識し始めた。5連休で取引が薄くなる地合いも重なり、当面は円安圧力が続きやすい。"
+        }
+      ],
+      "summary": null,
+      "sources": [
+        { "outlet": "日本経済新聞", "url": "https://www.nikkei.com/article/DGXZQOUB182840Y6A910C2000000/", "date": "2026-09-18", "access": "excerpt", "via": null, "note": "利上げ幅、採決7対2、反対理由" },
+        { "outlet": "NHK", "url": "https://news.web.nhk/newsweb/na/nd-20260918de51120", "date": "2026-09-18", "access": "excerpt", "via": null, "note": "利上げ後に円安進行、植田総裁発言" },
+        { "outlet": "日本経済新聞", "url": "https://www.nikkei.com/article/DGXZQOCD18C0S0Y6A910C2000000/", "date": "2026-09-19", "access": "excerpt", "via": null, "note": "レートチェック実施、円が一時156円台後半に上昇" },
+        { "outlet": "時事通信", "url": "https://sp.m.jiji.com/article/show/3850148", "date": "2026-09-21", "access": "excerpt", "via": null, "note": "21日午後5時時点で1ドル158円82銭" },
+        { "outlet": "総務省", "url": "https://www.nippon.com/ja/news/kd1473463030757212635/", "date": "2026-09-19", "access": "excerpt", "via": "nippon.com(時事通信配信)", "note": "8月全国CPI、生鮮食品除くコア指数+1.7%" },
+        { "outlet": "CNBC", "url": "https://www.cnbc.com/2026/09/18/japan-rate-hike-stocks-rise-bond-yields-yen-fall.html", "date": "2026-09-18", "access": "excerpt", "via": null, "note": "日経平均+1.7%・円安という具体数値、逆行安の指摘" }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-sonnet-5"
+    },
+    {
+      "id": "domestic-20260921-takaichi-un",
+      "stream": "domestic",
+      "depth": "deep",
+      "section": "new",
+      "headline": "高市首相、台風下で訪米へ出発",
+      "originalTitle": "高市首相、ICC言及焦点 21日訪米、国連初演説へ",
+      "outlet": "時事通信",
+      "url": "https://news.yahoo.co.jp/articles/8dffe15a4a044215cff1990f73b99b96bbbef469",
+      "region": "domestic",
+      "category": null,
+      "score": 76,
+      "tier": "should",
+      "pubDate": "2026-09-21T20:00:00+09:00",
+      "body": [
+        {
+          "label": "概要兼背景",
+          "text": "高市早苗首相は21日夜、国連総会出席のため米ニューヨークへ出発した。台風25号の接近を受け、羽田空港の出発時刻を当初予定より4時間遅らせた。現地時間22日に、就任後初めてとなる一般討論演説に臨む予定である。同日にはトランプ米大統領との会談も調整されている。米国が国際刑事裁判所(ICC)の赤根智子所長に制裁を科す中、日本がどう発信するかが焦点になっている。超党派の議員連盟は今月、首相に演説でのICC支持表明を要請していた。要請には、米国への制裁撤回要求や、来年分の分担金を前倒しで拠出する案も含まれていた。政府関係者によると、首相は国連中心の多国間主義への支持を改めて表明する方針である。中東情勢やウクライナ、安保理を含む国連改革への貢献姿勢も打ち出す考えだという。トランプ氏との会談では、日本が対米投資として掲げる5500億ドル規模の枠組みが主要な話題になる見通しである。この枠組みでは、政府系金融機関が半導体や医薬品など9分野で出資や融資保証を担う仕組みになっている。会談は、木曜にワシントンで予定されるトランプ氏と中国の習近平国家主席との首脳会談を前に行われる。高市氏が国連総会の一般討論演説に立つのは、女性として日本の首相に就いて以来、今回が初めてとなる。"
+        },
+        {
+          "label": "今後の影響",
+          "text": "演説でのICCへの言及内容次第で、日本の対米・対欧姿勢が国際的に注目される。会談は対中首脳会談の直前に行われるため、対米投資や関税を巡るやり取りは、米国の対中姿勢を占う材料としても見られやすい。"
+        }
+      ],
+      "summary": null,
+      "sources": [
+        { "outlet": "時事通信", "url": "https://news.yahoo.co.jp/articles/8dffe15a4a044215cff1990f73b99b96bbbef469", "date": "2026-09-20", "access": "excerpt", "via": "Yahoo!ニュース", "note": "21日訪米、ICC焦点という位置づけ" },
+        { "outlet": "NHK", "url": "https://news.web.nhk/newsweb/na/nd-20260921de51630", "date": "2026-09-21", "access": "excerpt", "via": null, "note": "台風25号の影響で出発を4時間遅らせた" },
+        { "outlet": "東京新聞", "url": "https://www.tokyo-np.co.jp/article/515655", "date": "2026-09-15", "access": "excerpt", "via": null, "note": "超党派議連がICC支持表明を要請" },
+        { "outlet": "時事通信", "url": "https://www.nippon.com/ja/news/yjj2026091400935/", "date": "2026-09-14", "access": "excerpt", "via": "nippon.com", "note": "要請7項目、分担金前倒し拠出案" },
+        { "outlet": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-09-18/trump-to-meet-japan-s-takaichi-on-un-sidelines-next-week", "date": "2026-09-18", "access": "excerpt", "via": null, "note": "トランプ氏との会談設定、5500億ドル投資への言及" }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-sonnet-5"
+    },
+    {
+      "id": "domestic-20260921-rice-buyback",
+      "stream": "domestic",
+      "depth": "deep",
+      "section": "new",
+      "headline": "農相、備蓄米の早期買い戻し方針",
+      "originalTitle": "農相、備蓄米早期に追加買い戻し「需給調整ではない」",
+      "outlet": "共同通信",
+      "url": "https://news.infoseek.co.jp/article/kyodo_1474293002478305297/",
+      "region": "domestic",
+      "category": null,
+      "score": 74,
+      "tier": "should",
+      "pubDate": "2026-09-20T15:00:00+09:00",
+      "body": [
+        {
+          "label": "概要兼背景",
+          "text": "簗和生農相は20日、2025年に放出した政府備蓄米について、早期に追加で買い戻す方針を改めて示した。理由として食料安全保障上の必要を挙げた。農林水産省は18日、21万トン分の買い戻し手続きをすでに進めている。備蓄量は、2024年夏の「令和のコメ騒動」時の放出により32万トンまで減っている。適正水準とされる100万トンを大きく下回る。簗氏は17日の内閣改造で農相に就任したばかりである。就任会見では、前任の鈴木憲和氏の路線を引き継ぐ考えを示していた。一方、市場ではコメ余りが鮮明になっている。農水省は18日、全国約1000店のスーパーで9月7~13日に売れたコメ5kgの平均価格が2971円だったと発表した。前週より32円安く、2000円台になるのは2024年9月以来、約2年ぶりである。下落は5週連続となる。簗氏は買い戻しについて、「需給が緩和している部分に一定程度影響するが、直接コントロールするためのものではない」と述べた。銘柄米の平均価格は35円安の2988円、ブレンド米などは34円安の2866円で、いずれも2000円台に落ちた。今年1月時点の平均価格は4416円と、現在の1.5倍近い水準だった。"
+        },
+        {
+          "label": "今後の影響",
+          "text": "価格が下がる一方で備蓄を積み増すという、相反する動きが同時に進んでいる。農水省の対応が農家と消費者のどちらを向いているかが、今後さらに問われやすくなる。21日付の食品専門紙も同方針を伝えており、就任間もない農相の路線として関心が続いている。備蓄が適正水準に届くまでの買い戻しの規模とペースは、来年以降のコメ政策の方向性を左右する。"
+        }
+      ],
+      "summary": null,
+      "sources": [
+        { "outlet": "共同通信", "url": "https://news.infoseek.co.jp/article/kyodo_1474293002478305297/", "date": "2026-09-20", "access": "excerpt", "via": "Infoseekニュース", "note": "備蓄米早期買い戻し方針、「需給調整ではない」との説明" },
+        { "outlet": "共同通信", "url": "https://www.chunichi.co.jp/article/1313983", "date": "2026-09-20", "access": "excerpt", "via": "中日新聞Web", "note": "買い戻しの経緯確認" },
+        { "outlet": "農林水産省", "url": "https://www.maff.go.jp/j/press-conf/260918.html", "date": "2026-09-18", "access": "excerpt", "via": null, "note": "簗農相就任会見、前任路線の継承姿勢" },
+        { "outlet": "共同通信", "url": "https://news.yahoo.co.jp/articles/29508fd7cde7cf4711515981b31bd32d931146b6", "date": "2026-09-18", "access": "excerpt", "via": "Yahoo!ニュース", "note": "コメ5kg平均2971円、2年ぶり2000円台という背景データ" },
+        { "outlet": "食品新聞", "url": "https://news.yahoo.co.jp/articles/e5bcdf8bc9e38cbc79330782532068554cba58e7", "date": "2026-09-21", "access": "excerpt", "via": "Yahoo!ニュース", "note": "21日付でも同方針を確認・継続報道" }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-sonnet-5"
+    },
+    {
+      "id": "domestic-20260921-extra-diet-tax",
+      "stream": "domestic",
+      "depth": "deep",
+      "section": "ongoing",
+      "headline": "臨時国会10月5日召集へ、消費税減税法案",
+      "originalTitle": "臨時国会、10月5日召集 政府、与党に伝達",
+      "outlet": "時事通信",
+      "url": "https://www.jiji.com/jc/article?k=2026091800485&g=pol",
+      "region": "domestic",
+      "category": null,
+      "score": 80,
+      "tier": "must",
+      "pubDate": "2026-09-18T15:00:00+09:00",
+      "body": [
+        {
+          "label": "本日の動き",
+          "text": "政府は18日、臨時国会を10月5日に召集する方針を与党に伝えた。会期は69日間とし、12月12日までとする方向で最終調整している。焦点の一つが、15日の臨時閣議で大綱を決定した飲食料品の消費税減税である。2027年4月から2年間、税率を8%から1%に引き下げる内容である。完全な非課税、いわゆるゼロ税率も検討されたが、レジ改修に10~12か月かかるため見送った。代わりに、1%相当分を中低所得の就業者に「就業者負担軽減支援金」として支給し、実質的な負担ゼロをめざす。1989年の消費税導入以来、税率が下がるのは今回が初めてとなる。財務省の試算では、追加減税の規模は年間およそ6500億円になる。政府は臨時国会にこの関連法案を提出し、成立を目指す方針である。日本経済新聞によると、政府はこの臨時国会に消費税減税を含む政府提出法案21本を提出する予定である。衆院議員定数を1割削減する法案や、エネルギー確保、外国人政策関連の法案も含まれる。所得税の課税最低限を178万円へ引き上げる措置は既に決着している。"
+        },
+        {
+          "label": "今後の影響",
+          "text": "法案が今国会で成立するかが、物価高対策の実行力を占う最初の試金石になる。軽減税率導入時には、レジ対応の混乱が過去にあった。本格実施は2年後だが、中小事業者への周知や支援が課題として残る。定数削減を含む21本もの法案を69日間の会期でどこまで処理できるかも焦点になる。野党の対応次第では、審議の進み方や成立時期がずれ込む可能性もある。"
+        }
+      ],
+      "summary": null,
+      "sources": [
+        { "outlet": "時事通信", "url": "https://www.jiji.com/jc/article?k=2026091800485&g=pol", "date": "2026-09-18", "access": "excerpt", "via": null, "note": "臨時国会10月5日召集の方針、会期69日間" },
+        { "outlet": "時事通信", "url": "https://www.niigata-nippo.co.jp/articles/-/905297", "date": "2026-09-18", "access": "excerpt", "via": "新潟日報", "note": "会期末12月12日という調整状況" },
+        { "outlet": "財務省", "url": "https://www.mof.go.jp/tax_policy/20260915shouhizei.html", "date": "2026-09-15", "access": "excerpt", "via": null, "note": "消費税率1%への引き下げ大綱、1989年以来初の引き下げ" },
+        { "outlet": "日本経済新聞", "url": "https://www.nikkei.com/article/DGXZQOUA18BAD0Y6A910C2000000/", "date": "2026-09-19", "access": "excerpt", "via": null, "note": "臨時国会への政府提出法案21本、定数削減・エネルギー・外国人政策を含む" }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-sonnet-5"
+    },
+    {
+      "id": "domestic-20260921-woj-yen",
+      "stream": "domestic",
+      "depth": "deep",
+      "section": "world-on-japan",
+      "headline": "円は連休で脆弱、米メディアが指摘",
+      "originalTitle": "Yen Is Vulnerable With Japan on Holiday After BOJ Disappoints",
+      "outlet": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-20/yen-is-vulnerable-with-japan-on-holiday-after-boj-disappoints",
+      "region": "overseas",
+      "category": null,
+      "score": 66,
+      "tier": "interest",
+      "pubDate": "2026-09-20T12:00:00+09:00",
+      "body": [
+        {
+          "label": "概要",
+          "text": "米ブルームバーグは20日、日銀の利上げ後もなお円が上値を追えない状況を報じた。記事は、市場が今後の利上げペースについて日銀からより明確な指針を得られなかったことに落胆したと伝えた。連休で取引が薄くなる週明けは、円が一段と荒い値動きにさらされやすいとも指摘した。米国の利下げ観測と日銀の利上げ観測がせめぎ合う中、記事は円相場の先行きを見通しにくいと結論づけている。"
+        },
+        {
+          "label": "国内報道との差",
+          "text": "国内報道は主に、審議委員2人の反対理由やレートチェックの実施を、起きた事実として淡々と報じた。一方で同記事は、連休で薄商いとなる市場で円が「脆弱」になっているという、投資家目線の評価を前面に出している。利上げをすれば通貨が買われるという教科書的な反応とは逆に、円が下落し続けている。同記事はこの逆行安の異例さを強調しており、この点も国内報道にはあまり見られない切り口である。"
+        }
+      ],
+      "summary": null,
+      "sources": [
+        { "outlet": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-09-20/yen-is-vulnerable-with-japan-on-holiday-after-boj-disappoints", "date": "2026-09-20", "access": "excerpt", "via": null, "note": "円が連休中に脆弱、利上げ指針への失望という論調" },
+        { "outlet": "CNBC", "url": "https://www.cnbc.com/2026/09/18/japan-rate-hike-stocks-rise-bond-yields-yen-fall.html", "date": "2026-09-18", "access": "excerpt", "via": null, "note": "教科書的反応と逆の値動きという評価の裏付け" }
+      ],
+      "continuity": null,
+      "bodyAvailable": false,
+      "discussionUrl": null,
+      "summarizedBy": "claude-sonnet-5"
+    },
+    {
+      "id": "domestic-20260921-woj-trump",
+      "stream": "domestic",
+      "depth": "deep",
+      "section": "world-on-japan",
+      "headline": "トランプ氏、対中首脳会談前に高市氏と",
+      "originalTitle": "Trump to Meet Japan's Takaichi on UN Sidelines Next Week",
+      "outlet": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-18/trump-to-meet-japan-s-takaichi-on-un-sidelines-next-week",
+      "region": "overseas",
+      "category": null,
+      "score": 68,
+      "tier": "interest",
+      "pubDate": "2026-09-18T09:00:00+09:00",
+      "body": [
+        {
+          "label": "概要",
+          "text": "米ブルームバーグは18日、トランプ大統領が国連総会の場で高市首相と会談すると報じた。記事は、7月末に日米が協調して円買い介入に踏み切って以来、両首脳が初めて対面する機会だと位置づけている。この協調介入は1998年以来、日米が共同で実施した初めての為替介入だった。"
+        },
+        {
+          "label": "国内報道との差",
+          "text": "国内報道は会談の焦点を、ICC問題や日本の対米投資5500億ドルの扱いに置いている。同記事は会談そのものを、トランプ氏が中国の習近平国家主席と会う直前の地ならしという文脈で描いている。トランプ氏は当時、この介入を日本への友好の証しだと説明していた。この経緯を会談の背景に据える書き方は、国内報道にはあまり見られない視点である。"
+        }
+      ],
+      "summary": null,
+      "sources": [
+        { "outlet": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-09-18/trump-to-meet-japan-s-takaichi-on-un-sidelines-next-week", "date": "2026-09-18", "access": "excerpt", "via": null, "note": "介入後初の対面という位置づけ、対中サミット前の文脈" },
+        { "outlet": "Al Jazeera", "url": "https://www.aljazeera.com/economy/2026/8/3/japan-and-us-confirm-rare-joint-intervention-to-prop-up-yen", "date": "2026-08-03", "access": "excerpt", "via": null, "note": "7月末の日米協調円買い介入、1998年以来という事実確認" }
+      ],
+      "continuity": null,
+      "bodyAvailable": false,
+      "discussionUrl": null,
+      "summarizedBy": "claude-sonnet-5"
+    },
+    {
+      "id": "domestic-20260921-typhoon25",
+      "stream": "domestic",
+      "depth": "brief",
+      "section": "ongoing",
+      "headline": "台風25号、伊豆諸島に特別警報",
+      "originalTitle": "【気象予報士解説】台風25号 大雨や暴風 今後の見通しは？",
+      "outlet": "NHK",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260921de51523",
+      "region": "domestic",
+      "category": null,
+      "score": 71,
+      "tier": "should",
+      "pubDate": "2026-09-21T14:00:00+09:00",
+      "body": null,
+      "summary": "大型で強い台風25号が21日、八丈島付近を北東へ進んだ。中心気圧は960ヘクトパスカル、最大風速は毎秒40メートルである。気象庁は伊豆大島に土砂災害の特別警報を発表した。JR東日本は関東の広い範囲で計画運休を実施し、久留里線は終日、青梅線の一部区間も午後から運転を取りやめた。高市首相は台風の影響で、国連総会出席に向けた出発を4時間遅らせた。台風は22日に温帯低気圧に変わる見込みである。",
+      "sources": [
+        { "outlet": "気象庁", "url": "https://www.okinawatimes.co.jp/articles/-/1928570", "date": "2026-09-21", "access": "excerpt", "via": "沖縄タイムス", "note": "台風の位置・中心気圧・最大風速、特別警報の発表" },
+        { "outlet": "NHK", "url": "https://news.web.nhk/newsweb/na/nd-20260921de51523", "date": "2026-09-21", "access": "excerpt", "via": null, "note": "暴風・大雨の見通し" },
+        { "outlet": "JR東日本", "url": "https://raillab.jp/news/article/35472", "date": "2026-09-20", "access": "excerpt", "via": "レイルラボ", "note": "計画運休の対象区間" },
+        { "outlet": "NHK", "url": "https://news.web.nhk/newsweb/na/nd-20260921de51630", "date": "2026-09-21", "access": "excerpt", "via": null, "note": "首相の出発が4時間遅れたこと" }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-sonnet-5"
+    },
+    {
+      "id": "domestic-20260921-min-wage",
+      "stream": "domestic",
+      "depth": "brief",
+      "section": "brief",
+      "headline": "最低賃金、全国平均1177円に",
+      "originalTitle": "最低賃金の全国平均1177円に 過去2番目の上げ幅 12月上旬までに順次発効へ",
+      "outlet": "日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUA026ED0S6A900C2000000/",
+      "region": "domestic",
+      "category": null,
+      "score": 65,
+      "tier": "should",
+      "pubDate": "2026-09-04T09:00:00+09:00",
+      "body": null,
+      "summary": "2026年度の最低賃金は全国加重平均で1177円となり、現行の1121円から56円上がる。上げ幅は1978年度の目安制度導入以来、過去2番目の大きさである。最高は東京都の1280円、最低は宮崎県の1085円で、その差は195円だった。新たな金額は10月1日から順次発効し、15都道府県が10月1日に、最も遅い沖縄県は12月2日に切り替わる。",
+      "sources": [
+        { "outlet": "日本経済新聞", "url": "https://www.nikkei.com/article/DGXZQOUA026ED0S6A900C2000000/", "date": "2026-09-04", "access": "excerpt", "via": null, "note": "全国加重平均1177円、過去2番目の上げ幅" },
+        { "outlet": "テレビ瀬戸内海放送(KSB)", "url": "https://news.ksb.co.jp/ann/article/16861620", "date": "2026-09-04", "access": "excerpt", "via": null, "note": "12月上旬までの順次発効という日程" }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-sonnet-5"
+    },
+    {
+      "id": "domestic-20260921-106wall",
+      "stream": "domestic",
+      "depth": "brief",
+      "section": "brief",
+      "headline": "「106万円の壁」10月に撤廃",
+      "originalTitle": "【2026年10月】「106万円の壁」が撤廃。厚生年金の加入要件や特例措置の対象年収を解説",
+      "outlet": "厚生労働省",
+      "url": "https://news.livedoor.com/topics/detail/32360848/",
+      "region": "domestic",
+      "category": null,
+      "score": 64,
+      "tier": "interest",
+      "pubDate": "2026-09-18T10:00:00+09:00",
+      "body": null,
+      "summary": "パート従業員らが厚生年金への加入を避けるために意識してきた「106万円の壁」が10月に撤廃される。月収8.8万円以上という賃金要件がなくなり、週20時間以上働けば年収にかかわらず加入対象になる。新たに約200万人が厚生年金に加入する見通しである。年金制度改革関連法に基づく措置で、企業規模要件の段階的な縮小も来年度以降続く。厚生年金に加入する女性は既に1756万人に増えており、今回の改正でさらに拡大する見通しである。",
+      "sources": [
+        { "outlet": "厚生労働省", "url": "https://news.livedoor.com/topics/detail/32360848/", "date": "2026-09-18", "access": "excerpt", "via": "ライブドアニュース", "note": "賃金要件撤廃の内容、対象拡大の規模" },
+        { "outlet": "LIMO", "url": "https://limo.media/articles/-/134377", "date": "2026-09-01", "access": "excerpt", "via": null, "note": "厚生年金加入女性1756万人という現状値" }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-sonnet-5"
+    },
+    {
+      "id": "domestic-20260921-disaster-agency",
+      "stream": "domestic",
+      "depth": "brief",
+      "section": "brief",
+      "headline": "防災庁、11月1日発足へ",
+      "originalTitle": "防災庁 2026年秋に発足へ",
+      "outlet": "内閣官房",
+      "url": "https://imasaranews.com/government/96/",
+      "region": "domestic",
+      "category": null,
+      "score": 61,
+      "tier": "interest",
+      "pubDate": "2026-03-06T10:00:00+09:00",
+      "body": null,
+      "summary": "政府は内閣直属の新組織「防災庁」を11月1日に発足させる方針である。長は首相が務め、実務を統括する専任の防災大臣を新たに置く。職員定員は現行の内閣府防災担当(220人)のおよそ1.6倍にあたる352人とする方向である。台風25号への対応が続く中、次の大規模災害に備える司令塔組織の始動が近づいている。政府は前政権の方針を引き継ぐ形で発足を目指す考えを示している。",
+      "sources": [
+        { "outlet": "公明党", "url": "https://www.komei.or.jp/km/taniguchi-mutsuo-kariya/2026/02/26/%E9%98%B2%E7%81%BD%E5%BA%81%E3%81%8C2026%E5%B9%B4%E7%A7%8B%E3%81%AB%E7%99%BA%E8%B6%B3%E3%81%B8/", "date": "2026-02-26", "access": "excerpt", "via": null, "note": "2026年秋発足という政府方針" },
+        { "outlet": "内閣官房", "url": "https://imasaranews.com/government/96/", "date": "2026-03-06", "access": "excerpt", "via": "いまさら聞けない自治体ニュース", "note": "11月1日発足、防災大臣新設、定員352人" }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-sonnet-5"
+    },
+    {
+      "id": "domestic-20260921-nssmc-slovakia",
+      "stream": "domestic",
+      "depth": "brief",
+      "section": "brief",
+      "headline": "日本製鉄、スロバキアに1600億円投資",
+      "originalTitle": "日本製鉄、スロバキア新電炉に1600億円 USスチール拠点使い欧州開拓",
+      "outlet": "日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUC162O60W6A910C2000000/",
+      "region": "domestic",
+      "category": null,
+      "score": 63,
+      "tier": "interest",
+      "pubDate": "2026-09-16T09:00:00+09:00",
+      "body": null,
+      "summary": "日本製鉄は16日、東欧スロバキアのコシツェ製鉄所に約9億ユーロ(約1600億円)を投資すると発表した。脱炭素を進める電気炉と、酸素プラントの新設に充てる。電気炉は2030年、酸素プラントは2029年の稼働開始を見込む。スロバキア政府とも合意し、EUの基金から総額3.5億ユーロの補助金を受け取る。同社が2025年に買収した米USスチールの拠点を活用し、欧州事業の開拓も進める狙いである。",
+      "sources": [
+        { "outlet": "日本経済新聞", "url": "https://www.nikkei.com/article/DGXZQOUC162O60W6A910C2000000/", "date": "2026-09-16", "access": "excerpt", "via": null, "note": "コシツェ製鉄所への投資、1600億円規模" },
+        { "outlet": "時事通信", "url": "https://news.yahoo.co.jp/articles/595f7ccee241ff97e5bbfd08ee0525eb3e47f65a", "date": "2026-09-16", "access": "excerpt", "via": "Yahoo!ニュース", "note": "投資額9億ユーロ、電炉・酸素プラントの稼働時期" }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-sonnet-5"
+    },
+    {
+      "id": "domestic-20260921-household-assets",
+      "stream": "domestic",
+      "depth": "brief",
+      "section": "brief",
+      "headline": "個人金融資産、6月末に過去最高",
+      "originalTitle": "個人金融資産、２５１９兆円＝６月末、株価高騰で過去最高―日銀",
+      "outlet": "日本銀行",
+      "url": "https://www.jiji.com/jc/article?k=2026091700287&g=eco",
+      "region": "domestic",
+      "category": null,
+      "score": 62,
+      "tier": "interest",
+      "pubDate": "2026-09-17T14:00:00+09:00",
+      "body": null,
+      "summary": "日銀が17日発表した資金循環統計によると、6月末時点の個人金融資産は2519兆円となり、過去最高を更新した。前年比11.0%増で、日経平均が6月に7万円を初めて突破した株高が主因である。内訳は株式が47.0%増の486兆円、投資信託が36.8%増の193兆円で、いずれも過去最高だった。現金・預金も0.5%増の1132兆円だった。一方、家計の負債も住宅ローンの増加を映し、前年比4.1%増の過去最高416兆円になった。",
+      "sources": [
+        { "outlet": "日本銀行", "url": "https://www.jiji.com/jc/article?k=2026091700287&g=eco", "date": "2026-09-17", "access": "excerpt", "via": null, "note": "2519兆円、前年比11.0%増、内訳の増加率" },
+        { "outlet": "日本銀行", "url": "https://news.yahoo.co.jp/articles/0a104e3a7a8e9d9156ce51bdd9a9f718f08f45e4", "date": "2026-09-17", "access": "excerpt", "via": "Yahoo!ニュース(時事通信配信)", "note": "家計負債416兆円という数値" }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-sonnet-5"
+    },
+    {
+      "id": "domestic-20260921-elderly-population",
+      "stream": "domestic",
+      "depth": "brief",
+      "section": "brief",
+      "headline": "高齢者人口、2年ぶり増の3624万人",
+      "originalTitle": "高齢者人口2年ぶり増の3624万人、働く人は最多943万人 総務省推計",
+      "outlet": "総務省",
+      "url": "https://www.nikkei.com/article/DGXZQOUA1578H0V10C26A9000000/",
+      "region": "domestic",
+      "category": null,
+      "score": 60,
+      "tier": "interest",
+      "pubDate": "2026-09-20T09:00:00+09:00",
+      "body": null,
+      "summary": "総務省は20日、9月15日時点の65歳以上人口が3624万人になったとの推計を発表した。前年より20万人増え、2年ぶりの増加である。総人口に占める割合は29.6%で過去最高となった。人口4000万人以上の39カ国で比較すると、この割合は日本が世界一である。65歳以上で働く人は2025年に943万人となり、22年連続で増加し過去最多を更新した。高齢者の4人に1人が働いている計算になる。",
+      "sources": [
+        { "outlet": "総務省", "url": "https://www.nikkei.com/article/DGXZQOUA1578H0V10C26A9000000/", "date": "2026-09-20", "access": "excerpt", "via": "日本経済新聞", "note": "3624万人、前年比20万人増、就業者943万人" },
+        { "outlet": "総務省", "url": "https://www.nippon.com/ja/news/kd1474314842233635209/", "date": "2026-09-20", "access": "excerpt", "via": "nippon.com(時事通信配信)", "note": "総人口比29.6%、39カ国中で日本が最高という国際比較" }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-sonnet-5"
+    }
+  ],
+  "essays": [
+    {
+      "id": "domestic-20260921-essay-gaisankin",
+      "title": "「概算金」はまだ本当の米価ではない",
+      "text": "コメの値段には「概算金」と「店頭価格」という、性質の異なる2つの数字がある。\n\n概算金はJAが収穫期に生産者へ渡す仮払い額であり、最終的な精算はコメが売れた後にまとめて行われる。今のスーパー価格の下落が、来年の概算金にそのまま跳ね返るとは限らない産地もある。\n\n現在の需給緩和を支えているのは、1995年の食糧管理制度廃止で生まれた政府備蓄米制度である。制度はもともと不作に備えた放出用だったが、近年は価格高騰の抑制という別の役割も担うようになった。\n\nかつての食糧管理制度は、国が生産から価格まで一括して統制する仕組みだった。廃止後も、政府は備蓄という形で市場に間接的に関与し続けている。\n\n放出量や時期をどこまで政府が判断するかは、コメ農政の一貫した論点であり続けている。",
+      "relatedArticleIds": ["domestic-20260921-rice-buyback"]
+    },
+    {
+      "id": "domestic-20260921-essay-icc",
+      "title": "ICCを支える資金と、米国不在という構図",
+      "text": "国際刑事裁判所(ICC)は加盟123か国の分担金で運営される。日本は分担率が最も高く、全体のおよそ15%を担ってきた。\n\n一方、米国は創設時からICCに加盟していない。自国軍人が訴追対象になりうるとの懸念からで、2020年にも当時のトランプ政権が検察局長らを制裁した前例がある。\n\n今回の制裁は、日本人所長を対象とする点で異例である。最大の資金拠出国でありながら非加盟国でもない日本は、加盟国の中でも独特の立場に置かれている。\n\n「法の支配」を掲げてきた日本が、同盟国と国際機関のどちらを優先するかが問われている。",
+      "relatedArticleIds": ["domestic-20260921-takaichi-un"]
+    }
+  ],
+  "productionNote": {
+    "reachedOutlets": ["NHK", "日本経済新聞", "読売新聞", "共同通信", "時事通信", "毎日新聞"],
+    "unreachedOutlets": ["朝日新聞", "産経新聞"],
+    "excluded": [
+      { "topic": "改造内閣6閣僚のNHK日曜討論出演(9/20)", "reason": "指示書の内容(9/18既報)の反復にとどまり、本日分の差分を言語化できなかったため不採用とした" },
+      { "topic": "高市改造内閣の支持率世論調査(読売、9/17-18実施)", "reason": "調査実施日が3日以上前のため、単独の新展開としては不採用" },
+      { "topic": "みんなで大家さん集団訴訟の拡大", "reason": "9/20の旧形式アーカイブで既報。本日分の新たな差分を確認できなかったため不採用" },
+      { "topic": "AI・IT関連の政治経済ニュース(半導体補助金の一般動向など)", "reason": "本日新たな制度・政策上の展開を確認できず、AI日報の守備範囲との重複を避けるため見送った" },
+      { "topic": "共同通信世論調査「内閣支持率55.8%、最低更新」", "reason": "検索結果の要約が調査日を9月20-21日としていたが、原記事を確認したところ実際の調査日は6月20-21日だった。当日性を偽って採用することを避けるため不採用とした" }
+    ],
+    "counts": { "deep": 6, "brief": 7, "essays": 2, "chars": 4536 },
+    "text": "2026-09-21が国内深掘りの実質的な初回発行(専用アーカイブは今回が最初のため、continuity.previousScoreの突き合わせ対象なし)。public/data/archive/2026-09-19.json・2026-09-20.json(旧・統合形式)と本日分のpublic/data/intl.jsonを読み、既出話題(日銀利上げとメガバンク預金金利、レアアース・関税の一般動向など)は除外した。基本8媒体のうちNHK・日本経済新聞・読売新聞・共同通信・時事通信・毎日新聞の6媒体に(本文またはexcerptで)到達し、下限の5媒体を満たした。朝日・産経は今回到達できず。共同通信・時事通信配信の記事は東京新聞・新潟日報・中日新聞Web・nippon.com等の転載先で内容を確認した。「臨時国会10月5日召集・消費税減税法案」は9/15-19の一連の決定に基づく記事で、本日単独の新展開はないが、専用アーカイブが存在しない初回発行という空白の大きさを踏まえ、直近1週間で最も重要な政治経済ニュースとして継続枠に採用した(国内深掘り.md「空白が長い場合は今もっとも重要なものを優先する」との規定に基づく判断)。9月21日は敬老の日の祝日で東京市場・官公庁とも休止しており、「今日の新展開」に値する新規発表が乏しかった。世論調査の候補(共同通信の内閣支持率55.8%など)は調査実施日が6月20-21日であることを確認し、日付の取り違えを避けるため不採用とした。この結果、新展開の深掘りは3件(目標4〜6件)にとどまった。台風25号の対応が続く中、継続の短信も台風関連の1件にとどまり、目標の2〜4件をやや下回った。海外メディアのBloomberg記事2本はWeb検索の抜粋確認のみで、accessはいずれもexcerptとした。個人金融資産(6月末・日銀資金循環統計)と高齢者人口推計(9/20発表・敬老の日にちなむ総務省の定例統計)は公表からやや日が経っているが、市場・社会テーマとの関連が強く、公表日を明記した短信として採用した。本文合計字数は目標(5,000〜7,000字)にやや届かなかったが、祝日で材料が薄い中、記事を膨らませて総量を合わせることはせず件数を絞った結果である。"
+  }
+}
