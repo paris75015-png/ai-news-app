@@ -4,7 +4,7 @@
  * 内容を変えたら EDITORIAL_VERSION を上げる（生成データに記録され、いつの基準で作ったか追跡できる）。
  */
 
-export const EDITORIAL_VERSION = 9;
+export const EDITORIAL_VERSION = 10;
 
 // 無料枠で混雑（503/429）したら次のモデルに切り替える。
 // 採点は1日1回なので最上位モデルから。要約は回数が多いので、回数上限の緩いモデルから使う。
@@ -16,6 +16,23 @@ export const SUMMARY_MODELS = ['gemini-3.5-flash', 'gemini-3.5-flash-lite', 'gem
 export const FALLBACK_MODEL = 'openai/gpt-oss-120b';
 export const GROQ_TOP_ARTICLES = 10; // 必読＋読むべき
 export const TEMPERATURE = 0.2; // 実行ごとの採点・書きぶりのぶれを抑える
+
+/**
+ * 既知の誤訳。要約と見出しの両方に、出力後へ機械的に適用する。
+ *
+ * SUMMARY_PROMPT でも禁止しているが、モデルが従わないことがある。
+ * 特に Groq の GPT-OSS は指示を無視することがあり、2026-09-21 に「AIシザー」が公開紙面に出た。
+ * 見出しと要約の突き合わせ（verifyHeadlines）は、同じ誤りが両方に入っていると検出できない。
+ * だから指示文とは別に、ここで直す。
+ *
+ * from は正規表現。新しい誤りを見つけたらここに足す。
+ */
+export const MISTRANSLATIONS = [
+  { from: /AIシザー/g, to: 'AI担当責任者', note: 'AI czar の音写訳' },
+];
+
+/** 音写訳が疑われる語。自動では直さず、ログに出して次の追加候補にする */
+export const TRANSLITERATION_WARNINGS = [/[ァ-ヶ]{2,}シザー/g, /[ァ-ヶ]{2,}ホークス/g];
 
 /** 収集条件 */
 export const COLLECT = {

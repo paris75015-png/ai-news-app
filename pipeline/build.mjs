@@ -19,6 +19,7 @@ import {
   COLLECT, EDITORIAL_VERSION, CATEGORIES, tierOfRank,
   SCORING_MODELS, SUMMARY_MODELS, FALLBACK_MODEL, GROQ_TOP_ARTICLES,
   SCORING_PROMPT, SCORING_SCHEMA, SUMMARY_PROMPT, SUMMARY_SCHEMA, HEADLINE_PROMPT, HEADLINE_SCHEMA,
+  MISTRANSLATIONS, TRANSLITERATION_WARNINGS,
 } from './editorial.js';
 
 const ROOT = path.resolve(import.meta.dirname, '..');
@@ -103,6 +104,7 @@ async function main() {
   else {
     await summarize(selected);
     await fillHeadlines(selected);
+    fixMistranslations(selected);
     await verifyHeadlines(selected);
   }
 
@@ -367,6 +369,32 @@ function applySummaries(batch, result, by) {
  * 出てこない語がある見出しは取り違えの疑いがあるので、要約本文から作り直す。
  * それでも合わなければ、要約の最初の一文を見出しにする。
  */
+/**
+ * 既知の誤訳を直す。見出しと要約の突き合わせでは、同じ誤りが両方に入っていると検出できないため、
+ * 指示文とは別に出力側でも機械的に直す（editorial.js の MISTRANSLATIONS）。
+ */
+function fixMistranslations(articles) {
+  let fixed = 0;
+  for (const a of articles) {
+    for (const { from, to, note } of MISTRANSLATIONS) {
+      for (const field of ['headline', 'summary']) {
+        if (!a[field]) continue;
+        const before = a[field];
+        a[field] = before.replace(from, to);
+        if (a[field] !== before) {
+          console.warn(`[fix] ${a.id} の${field}を修正（${note}）: ${to}`);
+          fixed++;
+        }
+      }
+    }
+    for (const re of TRANSLITERATION_WARNINGS) {
+      const hit = `${a.headline || ''} ${a.summary || ''}`.match(re);
+      if (hit) console.warn(`[fix] 音写訳の疑い（未修正）: ${a.id} 「${hit[0]}」— editorial.js の MISTRANSLATIONS に追加を検討`);
+    }
+  }
+  if (fixed) console.log(`[fix] 既知の誤訳を${fixed}か所直した`);
+}
+
 async function verifyHeadlines(articles) {
   const suspicious = articles.filter(a => a.summary && headlineIssues(a).length);
   if (suspicious.length === 0) return;
