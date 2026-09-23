@@ -35,3 +35,12 @@ export function splitParagraphs(text) {
   }
   return paragraphs.filter(Boolean);
 }
+
+/** 紙面の日付を「9月22日（火）」の形にする。'YYYY-MM-DD' を受け取る */
+export function formatEditionDate(date) {
+  const m = /^(\d{4})-(\d{2})-(\d{2})$/.exec(date || '');
+  if (!m) return date || '';
+  const d = new Date(Number(m[1]), Number(m[2]) - 1, Number(m[3]));
+  const week = ['日', '月', '火', '水', '木', '金', '土'][d.getDay()];
+  return `${Number(m[2])}月${Number(m[3])}日（${week}）`;
+}

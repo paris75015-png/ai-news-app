@@ -7,7 +7,9 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "news": "node pipeline/build.mjs"
+    "news": "node pipeline/build.mjs",
+    "prebuild": "node pipeline/archiveIndex.mjs",
+    "predev": "node pipeline/archiveIndex.mjs"
   },
   "dependencies": {
     "@google/genai": "^2.23.0",

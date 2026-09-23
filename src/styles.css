@@ -886,3 +886,48 @@ body {
   margin-bottom: 12px;
   color: #c7d2fe;
 }
+
+/* 日付の移動（前日・前々日と見比べるための操作） */
+.date-nav {
+  display: inline-flex;
+  align-items: center;
+  gap: 2px;
+  padding: 3px;
+  border-radius: var(--radius-full);
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid var(--border-color);
+}
+.date-btn {
+  display: inline-flex;
+  align-items: center;
+  padding: 5px 10px;
+  border: none;
+  border-radius: var(--radius-full);
+  background: transparent;
+  color: var(--text-muted);
+  font-size: 0.8rem;
+  cursor: pointer;
+}
+.date-btn:hover:not(:disabled) { background: rgba(255, 255, 255, 0.1); color: var(--text-main); }
+.date-btn:disabled { opacity: 0.3; cursor: default; }
+.date-label {
+  padding: 0 8px;
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: var(--text-main);
+  white-space: nowrap;
+}
+/* 過去の紙面を見ているときだけ出す。今どこを見ているか分からなくならないように */
+.date-past {
+  margin-left: 6px;
+  font-size: 0.68rem;
+  font-weight: 700;
+  color: #fcd34d;
+  border: 1px solid rgba(252, 211, 77, 0.4);
+  border-radius: var(--radius-full);
+  padding: 1px 7px;
+}
+.date-latest { color: #c7d2fe; font-weight: 600; }
+
+/* 制作記録の補足 */
+.note-hint { color: var(--text-dim); font-size: 0.82rem; }

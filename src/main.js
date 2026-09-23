@@ -1,6 +1,6 @@
 import {
-  createIcons, AlertTriangle, Bookmark, ExternalLink,
-  Inbox, Newspaper, RotateCw, Search, X
+  createIcons, AlertTriangle, Bookmark, ChevronLeft, ChevronRight, ClipboardList,
+  ExternalLink, Inbox, Newspaper, RotateCw, Search, X
 } from 'lucide';
 import { NewsFetcherService } from './services/newsFetcher.js';
 import { StorageService } from './services/storage.js';
@@ -9,10 +9,14 @@ import { renderHeader } from './components/Header.js';
 import { renderFilterBar } from './components/FilterBar.js';
 import { renderNewsCard } from './components/NewsCard.js';
 import { renderArticleModal } from './components/ArticleModal.js';
+import { renderProductionNote } from './components/ProductionNote.js';
 import { escapeHtml, splitParagraphs } from './utils.js';
 
 // 使用するアイコンだけを読み込む（全アイコンを含めるとバンドルが大きくなるため）
-const icons = { AlertTriangle, Bookmark, ExternalLink, Inbox, Newspaper, RotateCw, Search, X };
+const icons = {
+  AlertTriangle, Bookmark, ChevronLeft, ChevronRight, ClipboardList,
+  ExternalLink, Inbox, Newspaper, RotateCw, Search, X,
+};
 
 const LAST_STREAM_KEY = 'lastStream';
 
@@ -27,6 +31,9 @@ const state = {
   searchQuery: '',
   isBookmarkMode: false,
   activeModalArticle: null,
+  showProductionNote: false,
+  currentDate: null,        // null なら当日分。'YYYY-MM-DD' なら過去分
+  archiveDates: [],         // 読める日付（新しい順）
   isLoading: true
 };
 
@@ -48,19 +55,24 @@ async function initApp() {
   await loadNews();
 }
 
-async function loadNews() {
+/** 当日分または過去分を読み込む。date が null なら当日分 */
+async function loadNews(date = state.currentDate) {
   state.isLoading = true;
   renderApp();
 
   try {
-    state.editions = await NewsFetcherService.fetchAll();
+    state.archiveDates = await NewsFetcherService.fetchArchiveIndex();
+    state.editions = date
+      ? await NewsFetcherService.fetchArchive(date)
+      : await NewsFetcherService.fetchLatest();
+    state.currentDate = date;
     // 選んでいる系統が本日無ければ、中身のある系統に寄せる
     if (!state.editions[state.currentStream]) {
       const available = STREAMS.find(s => state.editions[s.id]);
       if (available) state.currentStream = available.id;
     }
     if (STREAMS.every(s => !state.editions[s.id])) {
-      showToast('⚠️ ニュースを読み込めませんでした。時間をおいて再試行してください。');
+      showToast(date ? `⚠️ ${date} の紙面は読み込めませんでした。` : '⚠️ ニュースを読み込めませんでした。時間をおいて再試行してください。');
     }
   } catch (error) {
     console.error('Failed to load news:', error);
@@ -195,6 +207,9 @@ function renderApp() {
   if (state.activeModalArticle) {
     const a = state.activeModalArticle;
     modalRoot.innerHTML = renderArticleModal(a, StorageService.isBookmarked(a.id), labelOf(a));
+  } else if (state.showProductionNote) {
+    const stream = STREAMS.find(s => s.id === state.currentStream);
+    modalRoot.innerHTML = renderProductionNote(state.editions[state.currentStream], stream?.title || '');
   } else {
     modalRoot.innerHTML = '';
   }
@@ -287,6 +302,28 @@ function attachEventListeners() {
     });
   });
 
+  // 日付の移動
+  document.querySelectorAll('.date-btn').forEach(btn => {
+    btn.addEventListener('click', (e) => {
+      const v = e.currentTarget.getAttribute('data-date');
+      if (!v) return;
+      loadNews(v === 'latest' ? null : v);
+      window.scrollTo({ top: 0 });
+    });
+  });
+
+  // 制作記録
+  document.getElementById('production-note-btn')?.addEventListener('click', () => {
+    state.showProductionNote = true;
+    renderApp();
+  });
+  const closeNote = () => { state.showProductionNote = false; renderApp(); };
+  document.getElementById('close-note-btn')?.addEventListener('click', closeNote);
+  document.getElementById('close-note-bottom-btn')?.addEventListener('click', closeNote);
+  document.getElementById('production-note-modal')?.addEventListener('click', (e) => {
+    if (e.target.id === 'production-note-modal') closeNote();
+  });
+
   const searchInput = document.getElementById('search-input');
   if (searchInput) {
     searchInput.addEventListener('input', (e) => {
@@ -346,7 +383,9 @@ function attachEventListeners() {
 }
 
 document.addEventListener('keydown', (e) => {
-  if (e.key === 'Escape' && state.activeModalArticle) closeModal();
+  if (e.key !== 'Escape') return;
+  if (state.activeModalArticle) closeModal();
+  else if (state.showProductionNote) { state.showProductionNote = false; renderApp(); }
 });
 
 function showToast(message) {
