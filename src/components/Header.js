@@ -12,6 +12,9 @@ export function renderHeader(state) {
   const updated = edition?.generatedAt
     ? new Date(edition.generatedAt).toLocaleString('ja-JP', { month: 'numeric', day: 'numeric', hour: '2-digit', minute: '2-digit' })
     : '';
+  // 紙面の日付が、いま表示している日付より古いとき（その系統だけ当日分が出ていない）
+  const shownDate = state.currentDate || state.archiveDates?.[0]?.date || null;
+  const stale = edition?.date && shownDate && edition.date < shownDate ? edition.date : null;
   const title = STREAMS.find(s => s.id === state.currentStream)?.title || 'ニュース';
 
   return `
@@ -23,7 +26,7 @@ export function renderHeader(state) {
           </div>
           <div class="logo-text-group">
             <span class="logo-title">${escapeHtml(title)}</span>
-            <span class="logo-subtitle">${updated ? `${updated} 更新` : '平日更新'}</span>
+            <span class="logo-subtitle">${stale ? `<span style="color:#f59e0b">${escapeHtml(stale.slice(5).replace('-', '/'))} の紙面（本日分は未更新）</span>` : updated ? `${updated} 更新` : '平日更新'}</span>
           </div>
         </a>
 
