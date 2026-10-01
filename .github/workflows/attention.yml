@@ -1,0 +1,40 @@
+name: 世界の注目度
+
+on:
+  schedule:
+    # 平日 06:20（日本時間）。Sonnet の深掘り（07:30）より前に、資料を用意しておく
+    # 21:20 UTC + 9時間 = 翌日 06:20 JST。UTC では日〜木に当たる
+    - cron: '20 21 * * 0-4'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: attention
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: node pipeline/attention/fetch.mjs
+      - run: node pipeline/attention/rank.mjs
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      - run: node pipeline/attention/dossier.mjs
+      - name: 結果をリポジトリに保存
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/data/attention data/attention/stories.json data/dossiers
+          git diff --cached --quiet || git commit -m "世界の注目度 $(TZ=Asia/Tokyo date +%F)"
+          git pull --rebase
+          git push
