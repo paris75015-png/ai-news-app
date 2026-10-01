@@ -35,9 +35,11 @@ const picked = latest.ranking
   .filter(r => {
     const s = registry.stories[r.id];
     if (!s || s.dossier) return false;
-    if (r.daysSeen < 2 || r.daysSeen > 3) return false;
+    const days = Object.keys(s.days).length;   // 台帳の記録日数（画面用の順位表ではなく台帳を正とする）
+    const peak = Math.max(...Object.values(s.days).map(d => d.worldScore));
+    if (days < 2 || days > 3) return false;
     if (Number(r.worldCoverage.split('/')[0]) < 3) return false;
-    return rankOf[r.id] <= 12 || r.worldScore >= 0.4 * r.peak;
+    return rankOf[r.id] <= 12 || r.worldScore >= 0.4 * peak;
   })
   .slice(0, MAX_PER_DAY);
 
@@ -82,8 +84,8 @@ for (const r of picked) {
     title: s.title,
     date,
     firstSeen: s.firstSeen,
-    daysSeen: r.daysSeen,
-    history: r.history,                       // 日付 → 海外の注目度
+    daysSeen: Object.keys(s.days).length,
+    history: Object.fromEntries(Object.entries(s.days).map(([d, v]) => [d, v.worldScore])),                       // 日付 → 海外の注目度
     coverage: { world: r.worldCoverage, jp: r.jpCoverage },
     japan: !!s.japan,
     sources: [...sources, ...headlineOnly],
