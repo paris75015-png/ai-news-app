@@ -109,6 +109,7 @@ export const SECTIONS = {
     { id: 'brief', label: '短信' },
   ],
   intl: [
+    { id: 'followup', label: '続く話題の深掘り' },
     { id: 'unseen', label: '日本では見えにくい論点' },
     { id: 'structural', label: '構造的トレンドの進展' },
     { id: 'science', label: 'サイエンス&知の最前線' },
