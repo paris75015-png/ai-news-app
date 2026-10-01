@@ -1,0 +1,1496 @@
+{
+ "date": "2026-10-01",
+ "generatedAt": "2026-10-01T13:00:20.686Z",
+ "measured": {
+  "world": 18,
+  "jp": 5
+ },
+ "unreachable": [],
+ "ranking": [
+  {
+   "id": "s-20261001-02",
+   "title": "イスラエル行き機でパイロット同士が衝突",
+   "firstSeen": "2026-10-01",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-01": 54
+   },
+   "peak": 54,
+   "worldScore": 54,
+   "worldCoverage": "15/18",
+   "jpScore": 10,
+   "jpCoverage": "1/5",
+   "gap": 44,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.97,
+     "title": "Too early to say if Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says",
+     "url": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.71,
+     "title": "Australian couple on plane diverted after flydubai pilot’s alleged attack on co-pilot",
+     "url": "https://www.theguardian.com/world/2026/oct/01/australian-couple-on-flydubai-plane-to-israel-ntwnfb",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "How was the Flydubai pilot who attacked his co-pilot cleared to fly?",
+     "url": "https://www.aljazeera.com/news/2026/10/1/how-was-the-flydubai-pilot-who-attacked-his-co-pilot-cleared-to-fly?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 1,
+     "title": "Live Updates: Investigators Seek Motive in FlyDubai Attack",
+     "url": "https://www.nytimes.com/live/2026/10/01/world/flydubai-flight-israel-plane-pilots",
+     "via": null
+    },
+    {
+     "id": "dw",
+     "name": "Deutsche Welle",
+     "region": "world",
+     "weight": 0.5,
+     "title": "UAE launches flydubai hijacking and terrorism investigation",
+     "url": "https://www.dw.com/en/uae-launches-flydubai-hijacking-and-terrorism-investigation/a-79497746?maca=en-rss-en-world-4025-rdf",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Israel's Netanyahu says co-pilot tried to crash Tel Aviv-bound plane",
+     "url": "https://www.france24.com/en/tv-shows/press-review/20261001-israel-s-netanyahu-says-co-pilot-tried-to-crash-tel-aviv-bound-plane",
+     "via": null
+    },
+    {
+     "id": "npr",
+     "name": "NPR",
+     "region": "world",
+     "weight": 1,
+     "title": "Passengers recount chaos on Tel Aviv flight. And, FBI probes employee-data hack",
+     "url": "https://www.npr.org/2026/10/01/g-s1-145879/up-first-newsletter-tel-aviv-flight-passengers-fbi-employee-data-hack",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Investigators probe why co-pilot stabbed captain of flyDubai flight to Israel",
+     "url": "https://www.scmp.com/news/world/middle-east/article/3369475/investigators-probe-why-co-pilot-stabbed-captain-flydubai-flight-israel?utm_source=rss_feed",
+     "via": null
+    },
+    {
+     "id": "abc-au",
+     "name": "ABC Australia",
+     "region": "world",
+     "weight": 1,
+     "title": "Netanyahu claims flydubai pilot underwent 'radical indoctrination'",
+     "url": "https://www.abc.net.au/news/2026-10-01/netanyahu-claims-flydubai-co-pilot-indoctrinated/107218136",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Netanyahu says it&#039;s too early to determine motive in cockpit stabbing",
+     "url": "https://www.cbsnews.com/news/netanyahu-too-early-to-determine-motive-flydubai-cockpit-stabbing/",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Netanyahu says flydubai co-pilot underwent Islamist radical indoctrination",
+     "url": "https://www.straitstimes.com/world/middle-east/netanyahu-says-flydubai-co-pilot-underwent-islamist-radical-indoctrination",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Israel vows to get to root of flydubai attack, no motive yet determined - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQT1RDU0l3eU5nTnBlVmRsYkpBYTdSTEVRRE1WRk1qbVZYT0MxVzVMSWJMbHk3OElRU1M5RHlGXzV6UWFSdVJiU0cydV9qMlZvSE9mV0ZCcEZSVzJyVGx4X2x2SFJYTUw4N2lialRSOFoxSElUSHVMQ3RHZHZBamNQU21WdWJhbmJHUG9mXzFPbGpfbDRkUzBMYlVOODBPMUc1TTZzSHJYc0d5ME5Ud1NGQjR3d0xSUzdz?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "What to know about the terrifying FlyDubai flight attack en route for Israel - AP News",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOTlDVnRPM016ZnBHZEIyRk9FVHpVSDlFYmNHRWxnUndFNzNmMnMtdUFCSlBSQmdNRWluYjlYUTVScVMyWHZPUUdRYjkxajREZkFIRVhfUVlmOVVlMURUNmRZbjhIdzRNVnNhTkVOeWYyWTVkSjhtZU00cFdkeHdVel8zZWxfR0ljM2tYeHREUmt0b0cteFJ4RkhmUVBJdkJCZ0JKLWEzRWNJYXIwckxn?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "A Bloody Stabbing, Then Screams: The Fight to Save FlyDubai 1073 - Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTXBaSkw2bl90b080T0lPTFpzRDdhTFhDU0g1YWtQMUJRNGoxWktLcDlKVWRrem1yS0FzLUY0X1BPZ2p2by1xV1BYU1V4YWpHeXVaOWFuakJ3cDVHWE9uRFZfV2UwU0o2VnNuVXgzT0c0aTQ2a0RudzBNZkdKZzNieUhnaWFQRzRGT1FTSzNDVXVMVUg3TnBCWEswbFFLVlhIRkhPVDIzMDBpNUZzSzRVQVpCZw?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Flydubai scare revives Israel’s hijacking trauma - ft.com",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMi1xNVRHdWhGdWlLUWRPYmFMeGNGTk93S0N2YjIwS1NwZzhUdmRFQVZhb012VVZBbUEwYnFPMXp3cGhOekVQRGc5OE9ScnJvNEJscVVNSDBobkZjaTJtTV94MERETERGY0ItUzhGcDBLVzVscDlMWmlHODBuUUN0RzlZVkw?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "イスラエル行き旅客機急降下、乗客が握った操縦かん 緊迫の機内再現 - 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BVDRBeC1TM05oeVVsV01LUEpraF95VDNOc2xaMlc2VXM5clhIaEM0ckZLQmhFREdwUWYwdHU1T0o1WmpfNDZ1OHJuR0htRGVYcFZuOE1OQl9wYm53am9oM3k2ODJfZ3RteW5pTw?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261001-03",
+   "title": "ロシア、ウクライナへの攻撃を強化",
+   "firstSeen": "2026-10-01",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-01": 26
+   },
+   "peak": 26,
+   "worldScore": 26,
+   "worldCoverage": "8/18",
+   "jpScore": 0,
+   "jpCoverage": "0/5",
+   "gap": 26,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.91,
+     "title": "Rosenberg: Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
+     "url": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.56,
+     "title": "Ukraine persists with Russian oil refinery strikes, defying Trump on fuel price warnings",
+     "url": "https://www.theguardian.com/world/2026/oct/01/ukraine-russian-oil-refinery-strikes-defying-trump-fuel-price-warnings",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Russia launches major attack on Ukraine’s energy grid, causing power cuts",
+     "url": "https://www.france24.com/en/europe/20261001-russia-launches-major-attack-on-ukraine-energy-grid-causing-power-cuts",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Several regions of Ukraine hit by power cuts after Russian strikes, grid operator says",
+     "url": "https://www.euronews.com/2026/10/01/several-regions-of-ukraine-hit-by-power-cuts-after-russian-strikes-grid-operator-says",
+     "via": null
+    },
+    {
+     "id": "npr",
+     "name": "NPR",
+     "region": "world",
+     "weight": 0.69,
+     "title": "How Ukrainians are coping with new, more deadly Russian attacks",
+     "url": "https://www.npr.org/2026/09/30/nx-s1-5984948/how-ukrainians-are-coping-with-new-more-deadly-russian-attacks",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Ukraine scrambles as Russia’s jet drones breach Kyiv’s defences",
+     "url": "https://www.scmp.com/news/world/europe/article/3369434/ukraine-scrambles-russias-jet-drones-breach-kyivs-defences?utm_source=rss_feed",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Russia is stockpiling weapons to intensify attacks on Ukraine, analysts say",
+     "url": "https://www.cbsnews.com/news/russia-stockpiles-weapons-winter-attacks-ukraine/",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Russian drone strikes Kyiv school, pupils escape unhurt",
+     "url": "https://www.straitstimes.com/world/europe/russian-drone-smashes-into-kyiv-school-no-injuries-officials-say",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261001-08",
+   "title": "米英軍がイラクから撤退",
+   "firstSeen": "2026-10-01",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-01": 16
+   },
+   "peak": 16,
+   "worldScore": 16,
+   "worldCoverage": "5/18",
+   "jpScore": 0,
+   "jpCoverage": "0/5",
+   "gap": 16,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.56,
+     "title": "Last UK and US troops leave Iraq as anti-Islamic State mission ends",
+     "url": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.77,
+     "title": "After Two Decades, U.S. Forces Leave Iraq to an Uncertain Future",
+     "url": "https://www.nytimes.com/2026/09/30/world/middleeast/iraq-us-forces.html",
+     "via": null
+    },
+    {
+     "id": "npr",
+     "name": "NPR",
+     "region": "world",
+     "weight": 0.53,
+     "title": "U.S. forces exit Iraq amid Iran war. And, SCOTUS revives Trump deportation policy",
+     "url": "https://www.npr.org/2026/09/30/g-s1-145604/up-first-newsletter-iraq-us-troops-scotus-deportations-trump-ai",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Iran calls U.S. Iraq withdrawal a victory that should extend to entire region",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-us-negotiations-strait-of-hormuz-oil/",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump hails the US military’s exit from Iraq after 12-year mission against Islamic State - AP News",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVVd3ZE1qU3YyRlhnTjBFTlVSX0taT0p1MDFpQVNBNVJTSzY5U3pkVkpNVTdmMU5qLWZrMGsxLUdROFFURmFxRzFjME5fWWhhVlZGcTFZRnExRkFhcFNaeXNRYmhkQ3h4NnU3Q09mSUlteG8wZ1dVRlpQME0xQk1jcUlqeU5XMkpVdWNyaW1jN1VRNG84VExtV0NQUkJsd2ZNRUFPdmd0WFM?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261001-15",
+   "title": "ブラジル大統領選、オンラインギャンブルが争点",
+   "firstSeen": "2026-10-01",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-01": 16
+   },
+   "peak": 16,
+   "worldScore": 16,
+   "worldCoverage": "4/18",
+   "jpScore": 0,
+   "jpCoverage": "0/5",
+   "gap": 16,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.91,
+     "title": "One Issue Hanging Over Brazil’s Presidential Election: Online Gambling and Record-High Debts",
+     "url": "https://www.nytimes.com/2026/10/01/world/americas/brazil-gambling-debts-elections.html",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Brazil elections: Can Lula’s anti-poverty record win over voters?",
+     "url": "https://www.france24.com/en/video/20261001-brazil-elections-can-lula-s-anti-poverty-record-win-over-voters",
+     "via": null
+    },
+    {
+     "id": "npr",
+     "name": "NPR",
+     "region": "world",
+     "weight": 0.92,
+     "title": "Picanha, prices and politics: What Brazil's favorite steak says about the election",
+     "url": "https://www.npr.org/2026/10/01/nx-s1-5986079/picanha-election-brazil-economy",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Brazil vote approaches with Lula and Bolsonaro polling in close race",
+     "url": "https://www.straitstimes.com/world/brazil-vote-approaches-with-lula-and-bolsonaro-polling-in-close-race",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261001-16",
+   "title": "フランスで学生デモ激化、数百人逮捕",
+   "firstSeen": "2026-10-01",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-01": 15
+   },
+   "peak": 15,
+   "worldScore": 15,
+   "worldCoverage": "5/18",
+   "jpScore": 0,
+   "jpCoverage": "0/5",
+   "gap": 15,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.74,
+     "title": "Hundreds Detained in France as Some Student Protests Turn Violent",
+     "url": "https://www.nytimes.com/2026/09/30/world/europe/france-student-protest-arrests.html",
+     "via": null
+    },
+    {
+     "id": "dw",
+     "name": "Deutsche Welle",
+     "region": "world",
+     "weight": 0.5,
+     "title": "France: Hundreds arrested as student protests escalate",
+     "url": "https://www.dw.com/en/france-hundreds-arrested-as-student-protests-escalate/a-79495633?maca=en-rss-en-world-4025-rdf",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Why are French students blocking their school entrances?",
+     "url": "https://www.france24.com/en/video/20261001-why-are-french-students-blocking-their-school-entrances",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Attackers douse teacher in petrol as student protests rage across France",
+     "url": "https://www.straitstimes.com/world/europe/attackers-douse-teacher-in-petrol-as-student-protests-rage-across-france",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Attackers douse teacher in petrol as student protests rage across France - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTi02ZkxUMzY1TkRkb0Uwd0Z2MTZHQmcxRkZnVlZvSGpZeFZFb1NaX0x5N0Q3bDRVcXoyMHdiVlVVT1g2TDA5dTVJTnVBZHBGME16VHBkUkktd3ZEOURPNFFRVHk5OFpIQ2h4cTBseEd4SXFnQ1ZKTlczaUIwd01fb0tLVWh3N3FmMnlHM0ZDQXlNeVZ1WHlicVcxR2xpWEd1bnpxSFpMR2g5NU5icmtYMzNjTF8tZw?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261001-01",
+   "title": "米死刑囚、2度の薬物注射生存",
+   "firstSeen": "2026-10-01",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-01": 14
+   },
+   "peak": 14,
+   "worldScore": 14,
+   "worldCoverage": "4/18",
+   "jpScore": 0,
+   "jpCoverage": "0/5",
+   "gap": 14,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 1,
+     "title": "US death row inmate survives execution attempt after two lethal injections",
+     "url": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Christa Pike execution fails: What next when a lethal injection is botched?",
+     "url": "https://www.aljazeera.com/news/2026/10/1/christa-pike-execution-fails-what-next-when-a-lethal-injection-is-botched?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Tennessee death row inmate Christa Pike survives two lethal injections",
+     "url": "https://www.france24.com/en/video/20261001-tennessee-death-row-inmate-christa-pike-survives-two-lethal-injections",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Tennessee governor halts executions after Christa Gail Pike survives lethal injection attempt - AP News",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMnVOY1V2MzZrbzhSSC13bUxKQzU1bWJON2RhLVVwU3dSNkJZM3JOeVlhWDF1VTd5VmlsMXZBTDZzQlhrOWhrMkpQUXFtUWpvRWUzMWY1a3V4UXp0eGRIQWFyMTYtSjNQUXRzNjkyWVZFT2Ixb0lFaWJwY2h4dHlMckpTdmFxc0QxbzYzQUJVQWlWSE0tY2Iw?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261001-05",
+   "title": "スイスの氷河、記録的な融解",
+   "firstSeen": "2026-10-01",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-01": 14
+   },
+   "peak": 14,
+   "worldScore": 14,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/5",
+   "gap": 14,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.85,
+     "title": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
+     "url": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "npr",
+     "name": "NPR",
+     "region": "world",
+     "weight": 0.84,
+     "title": "Swiss glaciers suffer another year of record ice loss",
+     "url": "https://www.npr.org/2026/09/30/nx-s1-5981403/swiss-glaciers-climate-change",
+     "via": null
+    },
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 0.86,
+     "title": "'Devastating year' as Swiss glaciers shed 5% of ice amid record-breaking heatwaves",
+     "url": "https://news.sky.com/story/devastating-year-as-swiss-glaciers-shed-5-of-ice-amid-record-breaking-heatwaves-13593873",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261001-17",
+   "title": "米長期金利、2002年以来の高水準",
+   "firstSeen": "2026-10-01",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-01": 14
+   },
+   "peak": 14,
+   "worldScore": 14,
+   "worldCoverage": "5/18",
+   "jpScore": 9,
+   "jpCoverage": "1/5",
+   "gap": 5,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.59,
+     "title": "U.S. Bond Yields Hit Highest Level Since 2002",
+     "url": "https://www.nytimes.com/2026/10/01/business/bond-yields-10-year-treasury.html",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Oil hovers around $100 as US bonds suffer their worst quarter since 1994",
+     "url": "https://www.euronews.com/2026/10/01/oil-rebounds-above-100-as-us-bonds-suffer-their-worst-quarter-since-1994",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "10 year US Treasury yield hits highest since 2002 - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSXI1RW1CX1BMdXF0WjVYS1hvd3VuOVBzZm9SZXRXZmVESE54QkFQTmxuMDRCeTdyTGdScnB4MnRnQ3dlMEpRVEJkd1otRHY0VUxQUFAzSjBINzFmN2d2UGNyUkoyWnpOT1owWmQxWktQd2ZSNjlYSC0yNzhOaklITTVVYUpHZ2ctbG10MDVUdTVLZGZ1Y0E?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Treasury 10-Year Yield Hits Highest Since 2002 on Rate Outlook - Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNV9jT05lQm9DbGVZVTZTelBKbGZWRjhLOXNLY3NOTV91c3MxNGEtQUVENUhpM0RlMU5IUHhsX1o1a05iem9OYmVwd1c2OHRVT3dyYTl6VHdoYVBxcUdjTVlrbDFNZXFNMzlLdDI2QXdYV0NsMGFnOThQQUdmYVFCa2huZU9zc0Jjb05WRF9BV3pmd0RSTGNuMllWalJuSGhaZ0tfUXNLZm9oZ2g2RnRuNHBEbl9XQ1hFZUdBdGF0SQ?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Global bond sell-off pushes 10-year Treasury yield to highest since 2002 - ft.com",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUGlVUkdYU191anlHVmJYMmFhZ05DVXRkbmtOUGVMSE9CcVNUeDJGemROM01tQjhUeVZ3TUNBOWlIRXczQkJoQUh4UHBCaEVCc3dvd0g1Q1k5elVwbHQ3WVhzLTF4cm5RWDVZUHJGUU1RM052NkhBR29vdG84VkpCZGlwUkQ?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "asahi",
+     "name": "朝日新聞",
+     "region": "jp",
+     "weight": 0.45,
+     "title": "米国の長期金利が上昇、一時5.34％台 2002年以来24年ぶり",
+     "url": "http://www.asahi.com/articles/ASVB132S3VB1UHBI01TM.html?ref=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261001-06",
+   "title": "エチオピアの首都で爆発音",
+   "firstSeen": "2026-10-01",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-01": 13
+   },
+   "peak": 13,
+   "worldScore": 13,
+   "worldCoverage": "4/18",
+   "jpScore": 0,
+   "jpCoverage": "0/5",
+   "gap": 13,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.8,
+     "title": "Explosions heard in Ethiopia's capital after drone flights banned",
+     "url": "https://www.bbc.co.uk/news/articles/c3vgygpqky9zo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Explosions heard in Ethiopia's capital as war waged in north",
+     "url": "https://www.straitstimes.com/world/explosions-heard-overnight-in-ethiopias-capital-diplomatic-sources-say",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Explosions heard in Ethiopia's capital as war waged in north - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPejNSZnA0b0E3bmZKTW13MXl1Uk9LMERtVE1YWVdDc1JmNVViUGRqRjIzRzBkLU4xd3BwdWdMWFo4SXk0MWdLRmk0NG1FS3YzQ1NkbjFkb0tUTWhqaTh6REFxVzRSMXRESGRYcDV3NWJfMXhUeGFHam1sYzJOVi1hUVVtbV9yRUxtN0JuSjBaX0NwVE9HcGMwNnJBcW8xN0sxSDktWFBycU1QZjA0WjlfcDh0UG9RdW8?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Two Blasts Heard in Ethiopian Capital as Drone Flights Suspended - Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMWVZeTVJY1JKTW5ycHR2eGRaMFgtMTAyY0xNOGFwRVJqWkZZMzU5RFRyQWVSZENIMmhORnNZQTEwRXJobXJhQ09TYmtyMHliSkVLRkh1SGVUZFN1czlhVEM5WEFfRUo5Znl4SVluWnNocEg1aVlPcFpRTGxzeWZlYmhMNUc3Y0Rubk5RcmFFMHFpQ3FyM09BaWFLQ2Z1ejdMVWFlcVU2TUNvNmNNWXBfSFlwZkw0QQ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261001-04",
+   "title": "日本、永住権の手数料を大幅引き上げ",
+   "firstSeen": "2026-10-01",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-01": 10
+   },
+   "peak": 10,
+   "worldScore": 10,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/5",
+   "gap": 10,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.88,
+     "title": "Japan raises permanent residency fee by 20 times",
+     "url": "https://www.bbc.co.uk/news/articles/c6y8z8xeg8j1o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.85,
+     "title": "Japan Raises Residency Fees 2,000 Percent Amid ‘Anxiety’ Over Foreigners",
+     "url": "https://www.nytimes.com/2026/10/01/world/asia/japan-raises-residency-fees-2000-percent-amid-anxiety-over-foreigners.html",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261001-14",
+   "title": "英仏、難民協定を破棄",
+   "firstSeen": "2026-10-01",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-01": 9
+   },
+   "peak": 9,
+   "worldScore": 9,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/5",
+   "gap": 9,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.94,
+     "title": "Britain and France Give Up Landmark Migrant Agreement",
+     "url": "https://www.nytimes.com/2026/10/01/world/europe/uk-france-migrant-deal-cancelled.html",
+     "via": null
+    },
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 0.72,
+     "title": "UK-France 'one in, one out' migrant deal scrapped",
+     "url": "https://news.sky.com/story/uk-france-one-in-one-out-migrant-deal-scrapped-13593740",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261001-09",
+   "title": "MI5、中国による大学からの技術窃盗に警告",
+   "firstSeen": "2026-10-01",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-01": 8
+   },
+   "peak": 8,
+   "worldScore": 8,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/5",
+   "gap": 8,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.85,
+     "title": "MI5 China alert will send chill through UK’s cash-strapped universities",
+     "url": "https://www.theguardian.com/education/2026/sep/30/mi5-china-alert-uk-universities-funding-financing",
+     "via": null
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "MI5 warns universities to cut ties with Chinese organisation - ft.com",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPM0Fxckp3dlc0WDNxRGtXZUdhYWVaTUlqbGpuMnZEM3g1d2hORmdNZjhWbHlfbWlIUnI4R1ZOekZ1MHlEUWRNTmFxYUE2cnhtVlFhUEQ0VVpVZktTS1BYMUFJa3E3WkpsMWFwZXlsNUQ1d1NyUHg0dDZSMTBhSEpXTDhtNEw?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261001-10",
+   "title": "豪州、新法で違法電動自転車を押収・粉砕",
+   "firstSeen": "2026-10-01",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-01": 8
+   },
+   "peak": 8,
+   "worldScore": 8,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/5",
+   "gap": 8,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.65,
+     "title": "‘Where illegal ebikes go to die’: first bikes seized under new laws in NSW crushed",
+     "url": "https://www.theguardian.com/australia-news/2026/oct/01/this-is-where-ebikes-go-to-die-first-ebikes-seized-under-new-laws-crushed",
+     "via": null
+    },
+    {
+     "id": "abc-au",
+     "name": "ABC Australia",
+     "region": "world",
+     "weight": 0.74,
+     "title": "'Where illegal e-bikes go to die': Compliance crackdown ramps up",
+     "url": "https://www.abc.net.au/news/2026-10-01/nsw-illegal-ebikes-seized-and-destroyed-northern-beaches/107216370",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261001-18",
+   "title": "米軍、将官と提督の数を2割削減へ",
+   "firstSeen": "2026-10-01",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-01": 8
+   },
+   "peak": 8,
+   "worldScore": 8,
+   "worldCoverage": "3/18",
+   "jpScore": 10,
+   "jpCoverage": "1/5",
+   "gap": -2,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Hegseth 'state of the force' speech: US to cut number of generals, admirals by 20%",
+     "url": "https://www.france24.com/en/video/20261001-hegseth-state-of-the-force-speech-us-to-cut-number-of-generals-admirals-by-20",
+     "via": null
+    },
+    {
+     "id": "toi",
+     "name": "Times of India",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Pete Hegseth to cut generals &amp; admirals in US military by 20%; Pentagon to create new drone command",
+     "url": "https://timesofindia.indiatimes.com/world/us/pete-hegseth-to-cut-generals-admirals-in-us-military-by-20-pentagon-to-create-new-drone-command/articleshow/134616268.cms",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Hegseth announces a new drone command and cuts to 20% of generals in 'State of the Force' speech - AP News",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaHliMXBySHRUYlVMMzBfaDBJT21zd3lvVXFkX2pBYWpaa3c3Wk9WMjZ5NVRMT011MklEdUpJekU3elpDcjY4aEViU0JrZlI4SWIwMkFTa1puQjRmSnEtWlpSZHJOLXVmRjBtdURiUGk1dG1uSHN3d3FVenhVRFBjYVg2TC1TR0NINnpPUjhQWUx6dnpzaHFSem5B?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "米国が「自律戦闘軍」創設、無人機推進し将官削減 ヘグセス氏表明 - 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95bG56TVBJZXRfODRZRDZ4N0JYalRMUl82NktFZGtETElBWHpRTEN5LW9CbmZEeWxQVUoxY0N3ajdETGVIS0gxa2s1YUVfVE1DVm5UWFJwbG1GSGNWSnpVR3NUNFV4endNRjF0Ug?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261001-19",
+   "title": "トランプ氏、パウエルFRB議長に辞任要求",
+   "firstSeen": "2026-10-01",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-01": 8
+   },
+   "peak": 8,
+   "worldScore": 8,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/5",
+   "gap": 8,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump renews calls for former Federal Reserve chief Jerome Powell's resignation",
+     "url": "https://www.france24.com/en/americas/20260930-trump-renews-calls-for-former-federal-reserve-chief-jerome-powell-resignation",
+     "via": null
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump Says Powell Should Be Forced to Resign From Fed Board - Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ0M2MGcyWURrYzdnT1J4MGFNM00wal9aYUo0Wm9sV1VyVV9BUzNzTGs2bzVZRHc1ZlZBYmszZWxXN2ZjbldDU1RuNGVtZ3FYNkhETVZobURmNXB2YVlUMVRDMmFwNllEWGZUUDNXMDhKZlpfbENHaGJmbS14Y1hSUXh2SGplMk1kSTVLcXphdTVNNFJib0RGT2dwSGY5ZGNONjRNQjNWbGdLWXBpN1ZtemVoRWNUQm1icUtN?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Donald Trump says Jay Powell should quit Fed board despite being cleared of misconduct - ft.com",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSnlaSEpONTJNNEpkUjRqcjROXy0tUHRWWWpSZjRpd2FtandnWjRDODI4cU53V2I0bzkyS2ZEMnBZbFEwME03NzBGWnVqV3NMN0VMSS1RVWtBNDNpa0YwZzR5SUNXeWg5UW5MdU4zRklkaDZ6OFEyQmNHdkwyb1p5YUpQR1Y?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261001-21",
+   "title": "欧州のディーゼル価格が高騰",
+   "firstSeen": "2026-10-01",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-01": 8
+   },
+   "peak": 8,
+   "worldScore": 8,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/5",
+   "gap": 8,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "No relief at the pump: EU diesel hits new record of €2.24 a litre",
+     "url": "https://www.euronews.com/2026/10/01/no-relief-at-the-pump-eu-diesel-hits-new-record-of-224-a-litre",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "EXCLUSIVE: US tells France and Germany to release diesel stocks or face US export ban, sources say - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOGxXWEZnTW1hNUtCOXY4NTJTWHQ0ZkZoUEZsYkt3c3lQTVU1NDFVbHJnSkNJbXRTdzZCSlBWY2tsc0stTk5CSGk1Ymhpb0NwaG1WUEg5Ni1pVlFxQnRMc093VGllN0c5ektIdWYyN191ZW5ZX1lrUjhVODk2TUpsRXFQT3hQdGhVUzdjdklkSENrWm8yWmgwVkE1bEd6TTB2RHBsUHpZVExmTUhkbjhINTVrZ3ZpQnNsQW9wc0FBMWk4XzF0WEI1aXZBQQ?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US oil industry warns diesel prices will not return to normal for a year - ft.com",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRnk4RmFqdFB5aVFybnhkdkMzY2FYOTRTa0ZIUmdpVktCT3B4Z0tlTDV2S3VPeTBJTEwway1WOUVOOUNrMElzLW85a1ZiV2cyOUVRb3N5MVhTZHZTZVB4alVkdTRKVlhHSGg4TDNoN0xLUWJFRnVZYmZ2OEJDeHMzZlNnVHE?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261001-24",
+   "title": "英空軍基地への攻撃計画、イラン関与の指摘",
+   "firstSeen": "2026-10-01",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-01": 8
+   },
+   "peak": 8,
+   "worldScore": 8,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/5",
+   "gap": 8,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "PM Netanyahu says Israel warned UK of suspected Iran attack plot on RAF airbase",
+     "url": "https://www.euronews.com/2026/10/01/pm-netanyahu-says-israel-warned-uk-of-suspected-iran-attack-plot-on-raf-airbase",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "U.K. leader says Iran believed to have \"played a part\" in air base incident",
+     "url": "https://www.cbsnews.com/news/uk-fairford-air-base-iran-played-part-incident-pm-burnham-says/",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "UK says there are strong indications Iran played a part in a security incident at a US-run air base - AP News",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX0FLU2dIcXJnaHVjOGNxbVlGZHlzb0c1b1poaVJBUEFXeFBDd3l0UG8tUVdEMG5nMVFGcDcwRjA2MmhVWnBnLVhKd1dSd3VUWktRWnhIWFBoMHU2c2liRzNTX1BJSl85RXItakk3djNLUlpzaU9VQ1pqWWFibnN5RnlnX3JiRjB3RjQ3OVQ0eElPdU92clhSZ1IxbkM0MHM2SFU5cDhaMlZ3dG9lWjdhNlBGUVE?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261001-07",
+   "title": "イギリス、チャネル横断密航で有罪判決",
+   "firstSeen": "2026-10-01",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-01": 7
+   },
+   "peak": 7,
+   "worldScore": 7,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/5",
+   "gap": 7,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.62,
+     "title": "Six smugglers jailed for manslaughter over worst Channel small boats disaster",
+     "url": "https://www.bbc.co.uk/news/articles/c6n8m33pn9djo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 0.58,
+     "title": "Six men found guilty of manslaughter over deadliest small boat Channel crossing",
+     "url": "https://news.sky.com/story/six-men-found-guilty-of-manslaughter-in-paris-over-deadliest-small-boat-channel-crossing-13593614",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261001-11",
+   "title": "英国人シーク教徒活動家、インドの獄中から釈放",
+   "firstSeen": "2026-10-01",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-01": 7
+   },
+   "peak": 7,
+   "worldScore": 7,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/5",
+   "gap": 7,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.3,
+     "title": "British Sikh activist released from Delhi jail after nine-year detention",
+     "url": "https://www.theguardian.com/world/2026/oct/01/british-sikh-activist-jagtar-singh-johal-released-delhi-jail-india",
+     "via": null
+    },
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 1,
+     "title": "Briton jailed in India for nine years released on bail, rights group says",
+     "url": "https://news.sky.com/story/jagtar-singh-johal-who-was-jailed-in-india-for-nine-years-is-released-on-bail-rights-group-13594003",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261001-12",
+   "title": "ポルトガル代表C・ロナウドが合宿離脱",
+   "firstSeen": "2026-10-01",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-01": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/5",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Portugal coach responds after Ronaldo leaves camp",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/portugal-coach-responds-after-ronaldo-leaves-camp?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Portugal's Ronaldo walks away amid tensions with coach",
+     "url": "https://www.france24.com/en/tv-shows/sports/20261001-portugal-ronaldo-walks-away",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261001-13",
+   "title": "オープンAI、カナダ政府へのハッキング未遂調査",
+   "firstSeen": "2026-10-01",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-01": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/5",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "OpenAI ‘reviewing’ report of failed hacking attempt against Canada’s gov’t",
+     "url": "https://www.aljazeera.com/economy/2026/10/1/openai-reviewing-report-of-failed-hacking-attempt-against-canadas-govt?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Rogue AI agents tried and failed to hack US and Canadian government websites",
+     "url": "https://www.euronews.com/2026/10/01/rogue-ai-agents-tried-and-failed-to-hack-us-and-canadian-government-websites",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261001-20",
+   "title": "パラマウント、ワーナー・ブラザース買収へ",
+   "firstSeen": "2026-10-01",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-01": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/5",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Paramount takeover of Warner Bros. Discovery clears legal hurdle",
+     "url": "https://www.france24.com/en/americas/20260930-paramount-takeover-of-warner-bros-discovery-clears-legal-hurdle",
+     "via": null
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Paramount stumps up high borrowing costs to fund Warner Bros deal - ft.com",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPamJ0T3Vpd2c2OVB0Z3NCNy16OXhmMXlyeFpyaWJQNGFQMkxCdGZzcGx1WVdheS1MTGtla1d6WUFKQW5PT2tSRjFjX2ppZTBfSTlJOEJYZkFWV1N2SVJNdjN5T3psMEhpZHlGTmdEbm9ONTh5V0psNFktRDlIOWdCVldfN3A?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261001-22",
+   "title": "バイナンス、EU当局から運営巡り質問受ける",
+   "firstSeen": "2026-10-01",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-01": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/5",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "EU watchdogs question Binance over unlicensed European operations",
+     "url": "https://www.euronews.com/2026/10/01/eu-watchdogs-question-binance-over-unlicensed-european-operations",
+     "via": null
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "EU questions Binance over continued operations despite wind-down order - ft.com",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWk1zUkZKakFQQy13YVBnajlQbVc0UzU3X2p0cU16MGJQMVo5VTBESDRScUl5MnNmbmFNZEZSSTR6Sy02ek9TbDU0QUpOdWduRGdRandSWFZRYXplVjktTkdzM1VOUlpRQTFGbU1kTVZJaGxkSjdISnNzNU83VU8taXFTRkQ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261001-23",
+   "title": "マッコウクジラがヨット沈没させる、乗組員救助",
+   "firstSeen": "2026-10-01",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-01": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/5",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Four sailors rescued after sperm whale sinks yacht in South Pacific",
+     "url": "https://www.euronews.com/video/2026/10/01/four-sailors-rescued-after-sperm-whale-sinks-yacht-in-south-pacific",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Whale sinks yacht in South Pacific, sailors rescued alive 18 hours later",
+     "url": "https://www.cbsnews.com/news/whale-sinks-yacht-south-pacific-sailors-rescued-new-zealand/",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261001-25",
+   "title": "インドネシア、プラボウォ大統領が新外相任命",
+   "firstSeen": "2026-10-01",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-01": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/5",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Indonesia’s Prabowo appoints new foreign minister",
+     "url": "https://www.scmp.com/news/asia/southeast-asia/article/3369457/indonesias-prabowo-appoints-new-foreign-minister?utm_source=rss_feed",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Indonesia's Prabowo appoints new foreign minister - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQem5sOW5WeG1aaUtSMzM1ODItSWhoQWtZa2lMUnp6eml3R0dIYXgwMEFzQ21VcE44bDQ4QlNpVHlYa3JjWXA3eHpsV3hqUFNfZ1hEdmhQY0VYSG0wZndVYXI2LUVfYlJFMUQ3akswZ1oxV2FId0lEWjRyX0thUVdYU3NNSTQxSVZOY0h4M2doX0VUdWY2bzdhYUZTS094cFhMMS1ma3R1bw?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261001-26",
+   "title": "マイクロンの業績が好調、メモリ需要拡大",
+   "firstSeen": "2026-10-01",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-01": 3
+   },
+   "peak": 3,
+   "worldScore": 3,
+   "worldCoverage": "1/18",
+   "jpScore": 10,
+   "jpCoverage": "1/5",
+   "gap": -7,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Micron Gives Bullish Forecast, Even as Pay Raises Crimp Margins - Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQX0xiUE1NS0k5MzQxcXd5OUwwZ25XekZGSG0xWkFnbEctNUwwNlFEakExZ2dCeFdrNHNCeG9Yekk1V1dRWnVRVXUzUnZuVkp2OFJRZTJfcG1waGcxVHFzdGtacmU4Z3k5UEtlc29wMEwyajFXOThwN1U2d2kxSG1md2V3VS00RFJ0U0VBREZxaldSSTYwS3U5bFVWSVlMUHlmLUp5V240ZlAwdnZHQUo2eg?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "決算:マイクロン、9〜11月の売上高4.5倍 メモリー｢28年にかけさらに逼迫｣ - 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBULTRuVE4ycEFzRmtEX2xjemNJaHlMSFhFQnh5MEk0bExTOUpwb2dlb0tGRHJKSlRqRDlhVF9wdzBHNHoxUUpSOHJTRUtXNVFoSl9fZjZPUUdhRFhFTnZqOEJxRDY0VmxyVnJoRQ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261001-27",
+   "title": "ニデック、上場維持へ監査法人の対応注目",
+   "firstSeen": "2026-10-01",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-01": 0
+   },
+   "peak": 0,
+   "worldScore": 0,
+   "worldCoverage": "0/18",
+   "jpScore": 31,
+   "jpCoverage": "3/5",
+   "gap": -31,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "asahi",
+     "name": "朝日新聞",
+     "region": "jp",
+     "weight": 0.56,
+     "title": "ニデックの損失、累計1兆円超 突然の社長交代は事実上の解任だった",
+     "url": "http://www.asahi.com/articles/ASVB13TFRVB1PLFA00CM.html?ref=rss",
+     "via": null
+    },
+    {
+     "id": "mainichi",
+     "name": "毎日新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "ニデック上場廃止回避に暗雲 監査「意見不表明」とかつての東芝",
+     "url": "https://mainichi.jp/articles/20261001/k00/00m/020/301000c",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "ニデック、上場維持へ背水 猶予1カ月で監査法人「責任全うする」 - 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqRFktQnVTWERmbzVXWjAwbzhha0E3WXFCQjdsTV8wVmRrWER0X1hYQnpuLUtfOWdHM3hBRFRhMV9oMWE1LXl5eU95OU9vSTRaN1BsNGtPYkMtTGNyenZKdlpVZVc4cHl3RXN5VA?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261001-28",
+   "title": "サッカー日本代表、エクアドル戦に勝利",
+   "firstSeen": "2026-10-01",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-01": 0
+   },
+   "peak": 0,
+   "worldScore": 0,
+   "worldCoverage": "0/18",
+   "jpScore": 34,
+   "jpCoverage": "3/5",
+   "gap": -34,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "asahi",
+     "name": "朝日新聞",
+     "region": "jp",
+     "weight": 0.71,
+     "title": "サッカー日本代表、エクアドルにPK戦で勝利 鈴木彩艶が1人をストップ",
+     "url": "http://www.asahi.com/articles/ASVB13QZ7VB1UTQP01VM.html?ref=rss",
+     "via": null
+    },
+    {
+     "id": "mainichi",
+     "name": "毎日新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "サッカー日本代表、エクアドルとPK戦の末決勝へ キリンカップ",
+     "url": "https://mainichi.jp/articles/20261001/k00/00m/050/208000c",
+     "via": null
+    },
+    {
+     "id": "yahoo",
+     "name": "Yahoo!ニュース主要",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "森保J エクアドルにPK戦の末勝利",
+     "url": "https://news.yahoo.co.jp/pickup/6597213?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261001-29",
+   "title": "プロ野球・広島、小園選手らに戦力外通告",
+   "firstSeen": "2026-10-01",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-01": 0
+   },
+   "peak": 0,
+   "worldScore": 0,
+   "worldCoverage": "0/18",
+   "jpScore": 34,
+   "jpCoverage": "3/5",
+   "gap": -34,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "asahi",
+     "name": "朝日新聞",
+     "region": "jp",
+     "weight": 0.68,
+     "title": "カープ小園選手ら4人に戦力外通告 グッズ入手したばかりのファンは",
+     "url": "http://www.asahi.com/articles/ASVB13RX9VB1PITB00HM.html?ref=rss",
+     "via": null
+    },
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "小園海斗選手ら戦力外通告 「ゾンビたばこ」問題で―プロ野球・広島",
+     "url": "https://www.jiji.com/jc/article?k=2026100100604&g=spo&m=rss",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "プロ野球:広島、小園海斗・矢野雅哉ら戦力外 ゾンビたばこ巡る報道も - 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1iTm5zZG1LUmZyMlBab2plcHZOd3FNbVI0RXk0YlNGbkN3TWpQSUhLVi1PRGhqVkk3UEMyTndsOXA0NUtjVmJDejc2SldpTXNyckJUd1Z4NkJsUG9nWEhHYnRBQkd4NktKQUMwUg?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261001-30",
+   "title": "東北3県の地銀が経営統合へ協議",
+   "firstSeen": "2026-10-01",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-01": 0
+   },
+   "peak": 0,
+   "worldScore": 0,
+   "worldCoverage": "0/18",
+   "jpScore": 30,
+   "jpCoverage": "2/5",
+   "gap": -30,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "yahoo",
+     "name": "Yahoo!ニュース主要",
+     "region": "jp",
+     "weight": 1,
+     "title": "青森秋田岩手の3銀行 統合協議へ",
+     "url": "https://news.yahoo.co.jp/pickup/6597211?source=rss",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "東北3県の地銀が統合協議 青森みちのく・岩手・秋田 - 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEM1hTekotdndnX1ZpM3NaZGF3MHJNVGZrcUgxTkszRnl6NHVGYXRITzU1VmZLZVRMNTZBczg2ME42NThTVXRuMTZMTHZDM3F0a09ObU9fMFpyRkw3bXhfb3BxM3ZWbXRaMmhZYg?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  }
+ ]
+}
