@@ -6,12 +6,13 @@
  * 出力  public/data/attention/{date}-briefs.json と briefs-latest.json
  *       国際深掘りの画面が、深掘りコラムの下にこの短信を並べる（形は src/article.js の Article）
  *
- * 材料は見出しと RSS の概要文だけ。本文は読んでいない（sources の access は 'headline' / 'excerpt'）。
+ * 材料は見出し・RSS の概要文・直接読める媒体（最大2つ）の本文冒頭。本文を読んだのは一部の媒体の冒頭だけ（sources の access に 'body' / 'excerpt' / 'headline' で区別して残す）。
  * 要約は、その材料に書いてあることだけで作る。
  */
 import fs from 'node:fs';
 import path from 'node:path';
 import { initGemini, generateJson, lastUsedModel } from '../gemini.js';
+import { fetchArticleBody } from '../fetchArticle.js';
 
 const ROOT = path.resolve(import.meta.dirname, '../..');
 const DIR = path.join(ROOT, 'public', 'data', 'attention');
@@ -19,6 +20,8 @@ const MODELS = ['gemini-3.8-flash', 'gemini-3.5-flash', 'gemini-3.5-flash-lite']
 const TOP_N = 10;          // (A) 注目度の上位から
 const GAP_CANDIDATES = 12; // (B) の候補数。ここから Gemini が最大 GAP_MAX 件を選ぶ
 const GAP_MAX = 5;
+const BODIES_PER_STORY = 2;   // 要約の材料に、直接読める媒体の本文冒頭を最大この数だけ足す
+const BODY_CHARS = 1800;
 const MIN_WORLD_COVERAGE = 3; // (A) は海外 3 媒体以上が取り上げた話題だけ
 
 if (fs.existsSync(path.join(ROOT, '.env'))) process.loadEnvFile(path.join(ROOT, '.env'));
@@ -46,20 +49,33 @@ const topIds = new Set(top.map(r => r.id));
 const gapPool = pool.filter(r => !topIds.has(r.id) && cov(r) >= 2 && jpCov(r) === 0)
   .sort((a, b) => b.worldScore - a.worldScore).slice(0, GAP_CANDIDATES);
 
+// 直接読める媒体の本文冒頭を取る（Google ニュース経由の通信社は見出しだけ）
+const bodies = {}; // 話題 id → [{ name, text }]
+const targets = [...top, ...gapPool];
+await Promise.all(targets.map(async r => {
+  const direct = r.outlets.filter(o => o.region === 'world' && !o.via).sort((a, b) => b.weight - a.weight).slice(0, BODIES_PER_STORY);
+  const got = await Promise.all(direct.map(async o => {
+    const res = await fetchArticleBody(o.url).catch(() => ({ text: null }));
+    return res.text ? { name: o.name, text: res.text.slice(0, BODY_CHARS) } : null;
+  }));
+  bodies[r.id] = got.filter(Boolean);
+}));
+
 const material = r => `id: ${r.id}
 海外 ${r.worldCoverage}媒体・注目度 ${r.worldScore}・日本 ${r.jpCoverage}
-${r.outlets.filter(o => o.region === 'world').slice(0, 6).map(o => `- ${o.name}: ${o.title}${o.desc && o.desc !== o.title ? ` ／ ${o.desc.slice(0, 200)}` : ''}`).join('\n')}`;
+${r.outlets.filter(o => o.region === 'world').slice(0, 6).map(o => `- ${o.name}: ${o.title}${o.desc && o.desc !== o.title ? ` ／ ${o.desc.slice(0, 200)}` : ''}`).join('\n')}
+${(bodies[r.id] || []).map(b => `[本文冒頭・${b.name}]\n${b.text}`).join('\n')}`;
 
 const prompt = `あなたは日本の読者向けに、海外メディアの報道を短く紹介する編集者です。
 読者は日本経済新聞を読んでおり、日本の報道は把握しています。海外の報道機関が何を大きく扱っているかを知りたい読者です。
 
-次の話題ごとに、日本語の紹介を作ってください。材料は各媒体の見出しと概要文だけです。
+次の話題ごとに、日本語の紹介を作ってください。材料は各媒体の見出し・概要文と、一部の媒体の本文冒頭です。
 
 規則
 - 材料に書いてあることだけで書く。材料にない背景・数字・人名・因果を足さない
 - summary は150〜250字。誰が・何が・どうなったかを先に書く。一文は短く（60字以内）。指示語で始めない
 - headline は日本語で30字以内。事実を述べる。評価語・煽りを入れない
-- 見出しだけで内容が分からないときは、分かる範囲だけ書き、「詳細は見出しからは分からない」と書く
+- 材料が見出しだけで内容が分からないときは、分かる範囲だけを短く書く。「詳細は見出しからは分からない」のような断り書きは、本当に何も分からないときだけ付ける
 - 同じ話題で媒体により着眼点が違うとき、材料から言える範囲で一文で触れてよい（推測はしない）
 - kind が "gap" の話題は、候補の中から日本の読者に意味のあるものを最大${GAP_MAX}件だけ選び、残りは出力しない。国内の事件・スポーツ・芸能・天気・ローカルな話題は選ばない。"top" の話題は選別せず、すべて出力する
 
@@ -111,10 +127,10 @@ for (const it of items) {
     pubDate: latest.generatedAt,
     body: null,
     summary: it.summary,
-    sources: world.map(o => ({ outlet: o.name, url: o.via ? null : o.url, date, access: o.desc && o.desc !== o.title ? 'excerpt' : 'headline', via: o.via ? 'Google ニュース' : null, note: o.title })),
+    sources: world.map(o => ({ outlet: o.name, url: o.via ? null : o.url, date, access: (bodies[r.id] || []).some(b => b.name === o.name) ? 'body' : o.desc && o.desc !== o.title ? 'excerpt' : 'headline', via: o.via ? 'Google ニュース' : null, note: o.title })),
     continuity: r.daysSeen > 1 ? { previousDate: r.firstSeen, previousScore: r.peak, note: `${r.daysSeen}日連続で報じられている` } : null,
     coverage: { world: r.worldCoverage, jp: r.jpCoverage, worldTotal: measured.world, jpTotal: measured.jp },
-    bodyAvailable: false,
+    bodyAvailable: (bodies[r.id] || []).length > 0,
     discussionUrl: null,
     summarizedBy: model,
   });
