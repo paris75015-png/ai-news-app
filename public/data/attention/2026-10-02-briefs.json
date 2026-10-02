@@ -1,7 +1,7 @@
 {
  "date": "2026-10-02",
  "generatedAt": "2026-10-01T21:34:31.516Z",
- "model": "gemini-3.5-flash-lite",
+ "model": "gemini-3.5-flash",
  "measured": {
   "world": 18,
   "jp": 5
@@ -12,7 +12,7 @@
    "stream": "intl",
    "depth": "brief",
    "section": "world",
-   "headline": "英空軍基地事件で英国・イラン国籍の人物を逮捕",
+   "headline": "英空軍基地の治安事案で英イラン二重国籍の男を逮捕",
    "originalTitle": "UK-Iranian Man Arrested in Connection to RAF Fairford Air Base Incident",
    "outlet": "New York Times",
    "url": "https://www.nytimes.com/2026/10/01/world/europe/uk-iran-terrorism-raf-fairford.html",
@@ -22,7 +22,7 @@
    "tier": "interest",
    "pubDate": "2026-10-01T21:34:31.516Z",
    "body": null,
-   "summary": "英国警察は空軍基地に関する事件に関連して、英国とイランの二重国籍を持つ人物を逮捕した。米軍が運営する英国のフェアフォード空軍基地でのセキュリティ事件や容疑との関連が各メディアで報じられている。詳細は見出しからは分からない。",
+   "summary": "イギリスのテロ対策警察は、空軍基地付近での治安事案に関連し、英イラン二重国籍の男を逮捕しました。容疑はテロ行為の準備です。対象の基地は米国の爆撃機が使用してきた場所です。警察は外国政府の関与の可能性も含めて捜査しています。英国首相はイランの関与を示唆しましたが、イラン側は関与を強く否定しています。",
    "sources": [
     {
      "outlet": "New York Times",
@@ -36,7 +36,7 @@
      "outlet": "Al Jazeera",
      "url": "https://www.aljazeera.com/news/2026/10/1/british-police-arrest-uk-iranian-national-over-airbase-incident?traffic_source=rss",
      "date": "2026-10-02",
-     "access": "headline",
+     "access": "body",
      "via": null,
      "note": "British police arrest UK-Iranian national over airbase incident"
     },
@@ -92,16 +92,16 @@
     "worldTotal": 18,
     "jpTotal": 5
    },
-   "bodyAvailable": false,
+   "bodyAvailable": true,
    "discussionUrl": null,
-   "summarizedBy": "gemini-3.5-flash-lite"
+   "summarizedBy": "gemini-3.5-flash"
   },
   {
    "id": "intl-brief-2026-10-02-s-20261001-01",
    "stream": "intl",
    "depth": "brief",
    "section": "world",
-   "headline": "米死刑囚が薬物注射の執行を生存、弁護士らが発表",
+   "headline": "米テネシー州で死刑執行を生き延びた死刑囚が重体",
    "originalTitle": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
    "outlet": "BBC",
    "url": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
@@ -111,13 +111,13 @@
    "tier": "interest",
    "pubDate": "2026-10-01T21:34:31.516Z",
    "body": null,
-   "summary": "米国で30年間死刑囚として収容されていたクリスタ・パイク氏が、2度の致死量の薬物注射の執行を生き延びて重篤な状態にあると弁護士らが発表した。テネシー州知事はこの事態を受けて死刑執行を一時停止したと伝えられている。",
+   "summary": "米テネシー州の死刑囚クリスタ・パイク氏が、２度の致死量注射による死刑執行を生き延び、病院で救命治療を受けています。弁護士によると同氏は重体です。執行チームは１時間にわたり点滴ラインの確保を試み、多数の針を使用しました。同氏は呼吸を続け、苦痛を訴えていたと目撃者は証言しています。事態を受けて州知事は今年のすべての死刑執行を一時停止しました。弁護士は減刑を求めています。",
    "sources": [
     {
      "outlet": "BBC",
      "url": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
      "date": "2026-10-02",
-     "access": "headline",
+     "access": "body",
      "via": null,
      "note": "Christa Pike in critical condition after surviving two lethal injections, lawyer says"
     },
@@ -125,7 +125,7 @@
      "outlet": "ABC Australia",
      "url": "https://www.abc.net.au/news/2026-10-02/christa-pike-colleen-slemmer-survives-execution-attempt/107211372",
      "date": "2026-10-02",
-     "access": "headline",
+     "access": "body",
      "via": null,
      "note": "Teenage killer survives execution attempt after 30 years on death row"
     },
@@ -165,16 +165,16 @@
     "worldTotal": 18,
     "jpTotal": 5
    },
-   "bodyAvailable": false,
+   "bodyAvailable": true,
    "discussionUrl": null,
-   "summarizedBy": "gemini-3.5-flash-lite"
+   "summarizedBy": "gemini-3.5-flash"
   },
   {
    "id": "intl-brief-2026-10-02-s-20261002-07",
    "stream": "intl",
    "depth": "brief",
    "section": "world",
-   "headline": "カナダが米国への依存度を下げる石油パイプラインを加速",
+   "headline": "カナダが米国依存脱却へ原油パイプライン承認を迅速化",
    "originalTitle": "Canada’s Proposed Oil Pipeline Offers Carney Relief From Domestic and Global Turmoil",
    "outlet": "New York Times",
    "url": "https://www.nytimes.com/2026/10/01/world/canada/carney-alberta-british-columbia-oil-pipeline.html",
@@ -184,7 +184,7 @@
    "tier": "interest",
    "pubDate": "2026-10-01T21:34:31.516Z",
    "body": null,
-   "summary": "カナダは米国への経済的依存を多様化させるための石油パイプライン建設を迅速に進める方針を示した。新権限が発動され、国内および世界的な混乱からの救済策として西海岸の石油パイプライン計画が加速されている。",
+   "summary": "カナダのカーニー首相は、西海岸への新しい原油輸出パイプラインの承認手続きを迅速化すると発表しました。米国への経済依存を減らし、トランプ米大統領による関税の影響を和らげる狙いがあります。政府は計画を国家利益プロジェクトに指定し、審査プロセスを一本化して２０２７年９月までの完了を目指します。新パイプラインにより、年間２００億カナダドル以上の国内総生産創出が見込まれています。",
    "sources": [
     {
      "outlet": "New York Times",
@@ -198,7 +198,7 @@
      "outlet": "Al Jazeera",
      "url": "https://www.aljazeera.com/economy/2026/10/1/canada-to-fast-track-oil-pipeline-meant-to-diversify-economy-away-from-us?traffic_source=rss",
      "date": "2026-10-02",
-     "access": "headline",
+     "access": "body",
      "via": null,
      "note": "Canada to fast track oil pipeline meant to diversify economy away from US"
     },
@@ -234,16 +234,16 @@
     "worldTotal": 18,
     "jpTotal": 5
    },
-   "bodyAvailable": false,
+   "bodyAvailable": true,
    "discussionUrl": null,
-   "summarizedBy": "gemini-3.5-flash-lite"
+   "summarizedBy": "gemini-3.5-flash"
   },
   {
    "id": "intl-brief-2026-10-02-s-20261001-05",
    "stream": "intl",
    "depth": "brief",
    "section": "world",
-   "headline": "スイスの氷河が記録的な氷の喪失を観測",
+   "headline": "スイスの氷河が２０２６年も急速に減少、水不足の懸念も",
    "originalTitle": "Swiss glaciers suffer another year of record ice loss",
    "outlet": "NPR",
    "url": "https://www.npr.org/2026/09/30/nx-s1-5981403/swiss-glaciers-climate-change",
@@ -253,13 +253,13 @@
    "tier": "interest",
    "pubDate": "2026-10-01T21:34:31.516Z",
    "body": null,
-   "summary": "スイスの氷河は記録的な熱波の中で深刻な氷の喪失を経験し、水供給への脅威となっている。科学者らによれば、近年で氷河が急激に消失しており、壊滅的な年となったことが各国メディアで取り上げられている。",
+   "summary": "スイスの氷河が２０２６年に氷の５％以上を失い、急速な減少を続けていることが調査で明らかになりました。地球温暖化が直接の原因とされています。専門家は、氷河の急速な融解が将来的に農業や水力発電、輸送のための水供給を脅かす可能性があると警告しています。また、山の斜面が不安定になり、土砂崩れや洪水のリスクが高まる恐れもあります。今年は冬の積雪がわずかに多かったため、過去最悪の減少率だった２０２２年を辛うじて下回りました。",
    "sources": [
     {
      "outlet": "NPR",
      "url": "https://www.npr.org/2026/09/30/nx-s1-5981403/swiss-glaciers-climate-change",
      "date": "2026-10-02",
-     "access": "headline",
+     "access": "body",
      "via": null,
      "note": "Swiss glaciers suffer another year of record ice loss"
     },
@@ -267,7 +267,7 @@
      "outlet": "BBC",
      "url": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&at_campaign=rss",
      "date": "2026-10-02",
-     "access": "headline",
+     "access": "body",
      "via": null,
      "note": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies"
     },
@@ -299,16 +299,16 @@
     "worldTotal": 18,
     "jpTotal": 5
    },
-   "bodyAvailable": false,
+   "bodyAvailable": true,
    "discussionUrl": null,
-   "summarizedBy": "gemini-3.5-flash-lite"
+   "summarizedBy": "gemini-3.5-flash"
   },
   {
    "id": "intl-brief-2026-10-02-s-20261002-01",
    "stream": "intl",
    "depth": "brief",
    "section": "world",
-   "headline": "射殺された米女性の遺族がトランプ政権側を提訴",
+   "headline": "移民局に射殺された米国人女性の遺族が米政府らを提訴",
    "originalTitle": "Renee Good: Family of US woman killed by ICE agent sues Trump officials",
    "outlet": "BBC",
    "url": "https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo?at_medium=RSS&at_campaign=rss",
@@ -318,13 +318,13 @@
    "tier": "interest",
    "pubDate": "2026-10-01T21:34:31.516Z",
    "body": null,
-   "summary": "米移民・関税局（ICE）のエージェントに殺害された女性レニー・グッド氏の家族が、トランプ政権の当局者を相手取ってミネアポリスでの致命的な発砲事件をめぐり提訴した。複数の海外メディアが家族による訴訟の動きを報じている。",
+   "summary": "米ミネアポリスで移民局の捜査官に射殺された米国人女性の遺族が、米政府やトランプ政権高官らを相手に提訴しました。遺族側は、政府の強制送還作戦が国家主導の暴力を生む環境を作ったと主張しています。訴訟では、発砲した捜査官のほか、大統領政策担当副長官などの高官らが民権侵害の共謀や過失致死などの疑いで訴えられています。ホワイトハウスは訴訟を無根拠としています。",
    "sources": [
     {
      "outlet": "BBC",
      "url": "https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo?at_medium=RSS&at_campaign=rss",
      "date": "2026-10-02",
-     "access": "headline",
+     "access": "body",
      "via": null,
      "note": "Renee Good: Family of US woman killed by ICE agent sues Trump officials"
     },
@@ -332,7 +332,7 @@
      "outlet": "Al Jazeera",
      "url": "https://www.aljazeera.com/news/2026/10/1/renee-goods-family-sues-trump-administration-over-fatal-ice-shooting?traffic_source=rss",
      "date": "2026-10-02",
-     "access": "headline",
+     "access": "body",
      "via": null,
      "note": "Renee Good’s family sues Trump administration over fatal ICE shooting"
     },
@@ -360,16 +360,16 @@
     "worldTotal": 18,
     "jpTotal": 5
    },
-   "bodyAvailable": false,
+   "bodyAvailable": true,
    "discussionUrl": null,
-   "summarizedBy": "gemini-3.5-flash-lite"
+   "summarizedBy": "gemini-3.5-flash"
   },
   {
    "id": "intl-brief-2026-10-02-s-20261001-21",
    "stream": "intl",
    "depth": "brief",
    "section": "world",
-   "headline": "英国と欧州連合が緊急ディーゼル備蓄の放出を協議",
+   "headline": "欧州諸国が緊急ディーゼル備蓄の放出を巡り協議",
    "originalTitle": "Britain in talks with European allies over release of emergency diesel stockpiles",
    "outlet": "The Guardian",
    "url": "https://www.theguardian.com/business/2026/oct/01/britain-talks-european-allies-eu-emergency-diesel-stockpiles-reserves",
@@ -379,13 +379,13 @@
    "tier": "interest",
    "pubDate": "2026-10-01T21:34:31.516Z",
    "body": null,
-   "summary": "英国と欧州の同盟国は、緊急ディーゼル備蓄の放出に向けて協議を行っている。ディーゼルの供給が逼迫する中、EUエネルギー担当者は戦略的備蓄の放出が可能性の一つであると述べており、危機的な協議が進められている。",
+   "summary": "英国と欧州の同盟国は、緊急ディーゼル燃料の備蓄放出について協議を行いました。トランプ米大統領が欧州への燃料供給を遮断すると脅したことを受けた動きです。トランプ政権は、欧州が備蓄を放出して世界のエネルギー価格を下げなければ、輸出禁止措置をとると警告しています。欧州連合のエネルギー担当委員は、供給強化と価格緩和に向けて戦略的備蓄の取り崩しを検討していると認めました。",
    "sources": [
     {
      "outlet": "The Guardian",
      "url": "https://www.theguardian.com/business/2026/oct/01/britain-talks-european-allies-eu-emergency-diesel-stockpiles-reserves",
      "date": "2026-10-02",
-     "access": "headline",
+     "access": "body",
      "via": null,
      "note": "Britain in talks with European allies over release of emergency diesel stockpiles"
     },
@@ -393,7 +393,7 @@
      "outlet": "Euronews",
      "url": "https://www.euronews.com/2026/10/01/releasing-strategic-reserves-is-a-possibility-eu-energy-chief-tells-euronews-as-diesel-squ",
      "date": "2026-10-02",
-     "access": "headline",
+     "access": "body",
      "via": null,
      "note": "‘Releasing strategic reserves is a possibility,’ EU energy chief tells Euronews as diesel squeeze bites"
     },
@@ -425,16 +425,16 @@
     "worldTotal": 18,
     "jpTotal": 5
    },
-   "bodyAvailable": false,
+   "bodyAvailable": true,
    "discussionUrl": null,
-   "summarizedBy": "gemini-3.5-flash-lite"
+   "summarizedBy": "gemini-3.5-flash"
   },
   {
    "id": "intl-brief-2026-10-02-s-20261001-14",
    "stream": "intl",
    "depth": "brief",
    "section": "world",
-   "headline": "英仏が移民交換に関する合意を破棄",
+   "headline": "英仏が海峡の移民交換合意を廃止",
    "originalTitle": "Britain and France Give Up Landmark Migrant Agreement",
    "outlet": "New York Times",
    "url": "https://www.nytimes.com/2026/10/01/world/europe/uk-france-migrant-deal-cancelled.html",
@@ -444,7 +444,7 @@
    "tier": "interest",
    "pubDate": "2026-10-01T21:34:31.516Z",
    "body": null,
-   "summary": "イギリスとフランスは、英仏間で実施されていた「1人入り、1人出る」方式のチャンネル難民交換に関する画期的な合意を破棄した。両国による主要な移民交換の枠組みが解消されたと各メディアが伝えている。",
+   "summary": "英国とフランスは、英仏海峡を渡る移民に関する「１人入れば１人出す」という移民交換合意を廃止しました。詳細な経緯や理由は見出しからは分かりません。",
    "sources": [
     {
      "outlet": "New York Times",
@@ -484,14 +484,14 @@
    },
    "bodyAvailable": false,
    "discussionUrl": null,
-   "summarizedBy": "gemini-3.5-flash-lite"
+   "summarizedBy": "gemini-3.5-flash"
   },
   {
    "id": "intl-brief-2026-10-02-s-20261002-13",
    "stream": "intl",
    "depth": "brief",
    "section": "world",
-   "headline": "米最高裁がトランプ政権の移民拘束政策を審理へ",
+   "headline": "米最高裁がトランプ政権の不法移民拘束方針の審理に合意",
    "originalTitle": "US Supreme Court agrees to take up Trump’s ICE detention policy",
    "outlet": "Al Jazeera",
    "url": "https://www.aljazeera.com/news/2026/10/1/us-supreme-court-agrees-to-take-up-trumps-ice-detention-policy?traffic_source=rss",
@@ -501,13 +501,13 @@
    "tier": "interest",
    "pubDate": "2026-10-01T21:34:31.516Z",
    "body": null,
-   "summary": "米連邦最高裁判所は、トランプ政権による義務的な移民拘束政策について審理を行うことに同意した。司法の場で同政策の是非が争われることになり、最高裁の判断に注目が集まっている。",
+   "summary": "米連邦最高裁は、不法移民に強制送還手続き中の拘束を義務付けるトランプ政権の方針を巡る訴訟の審理を行うことに合意しました。政府の方針は、不法移民に保釈聴聞会の権利を与えず、手続きが終わるまで拘束を続けるよう求めるものです。従来の解釈を覆すもので、下級審の判断が分かれていました。最高裁は１０月からの新会期で審理を行います。政権の強硬な移民政策に対する新たな法的争いとなります。",
    "sources": [
     {
      "outlet": "Al Jazeera",
      "url": "https://www.aljazeera.com/news/2026/10/1/us-supreme-court-agrees-to-take-up-trumps-ice-detention-policy?traffic_source=rss",
      "date": "2026-10-02",
-     "access": "headline",
+     "access": "body",
      "via": null,
      "note": "US Supreme Court agrees to take up Trump’s ICE detention policy"
     },
@@ -515,7 +515,7 @@
      "outlet": "The Straits Times",
      "url": "https://www.straitstimes.com/world/supreme-court-to-weigh-trumps-mandatory-immigration-detention-policy",
      "date": "2026-10-02",
-     "access": "headline",
+     "access": "body",
      "via": null,
      "note": "Supreme Court to weigh Trump's mandatory immigration detention policy"
     },
@@ -535,16 +535,196 @@
     "worldTotal": 18,
     "jpTotal": 5
    },
-   "bodyAvailable": false,
+   "bodyAvailable": true,
    "discussionUrl": null,
-   "summarizedBy": "gemini-3.5-flash-lite"
+   "summarizedBy": "gemini-3.5-flash"
+  },
+  {
+   "id": "intl-brief-2026-10-02-s-20261002-03",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "gap",
+   "headline": "韓国が北朝鮮に謝罪要求、非武装地帯の地雷で兵士３人負傷",
+   "originalTitle": "South Korea calls for apology from North Korea after mine injures three soldiers",
+   "outlet": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/sep/30/south-korea-apology-north-korea-mine-injures-soldiers",
+   "region": "overseas",
+   "category": null,
+   "score": 7,
+   "tier": "interest",
+   "pubDate": "2026-10-01T21:34:31.516Z",
+   "body": null,
+   "summary": "韓国軍は、南北の非武装地帯で韓国兵３人が地雷爆発により負傷したことを受け、北朝鮮に謝罪と責任ある措置を要求しました。調査の結果、軍事境界線の南側で北朝鮮製の対人地雷が見つかり、北朝鮮による地雷敷設が休戦協定に違反していると指摘しました。北朝鮮は憲法を改正して境界線を南に押し広げようとしており、地雷敷設は韓国を威嚇する政治的行為との専門家の見方もあります。",
+   "sources": [
+    {
+     "outlet": "The Guardian",
+     "url": "https://www.theguardian.com/world/2026/sep/30/south-korea-apology-north-korea-mine-injures-soldiers",
+     "date": "2026-10-02",
+     "access": "body",
+     "via": null,
+     "note": "South Korea calls for apology from North Korea after mine injures three soldiers"
+    },
+    {
+     "outlet": "Deutsche Welle",
+     "url": "https://www.dw.com/en/north-and-south-korea-trade-accusations-over-landmines-that-injured-three-soldiers/a-79503854?maca=en-rss-en-world-4025-rdf",
+     "date": "2026-10-02",
+     "access": "body",
+     "via": null,
+     "note": "North and South Korea trade accusations over landmines that injured three soldiers"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "2/18",
+    "jp": "0/5",
+    "worldTotal": 18,
+    "jpTotal": 5
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "gemini-3.5-flash"
+  },
+  {
+   "id": "intl-brief-2026-10-02-s-20261002-05",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "gap",
+   "headline": "フィンランド首相、議員宅への不審な侵入に外国関与の可能性",
+   "originalTitle": "Finnish Lawmakers Report Suspicious Home Break-Ins",
+   "outlet": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/01/world/europe/finland-lawmakers-break-ins.html",
+   "region": "overseas",
+   "category": null,
+   "score": 7,
+   "tier": "interest",
+   "pubDate": "2026-10-01T21:34:31.516Z",
+   "body": null,
+   "summary": "フィンランドのオルポ首相は、国会議員の自宅への不審な侵入事案について、外国勢力が関与している可能性があると述べました。警察は、過去１年間にヘルシンキ周辺で発生した、何も盗まれずに侵入の痕跡だけが残された複数の事件を捜査しています。首相は、フィンランドの不安定化やウクライナ支援の妨害を狙った行為であれば逆効果だと指摘しました。ロシアによる選挙介入への警戒も示しています。",
+   "sources": [
+    {
+     "outlet": "New York Times",
+     "url": "https://www.nytimes.com/2026/10/01/world/europe/finland-lawmakers-break-ins.html",
+     "date": "2026-10-02",
+     "access": "headline",
+     "via": null,
+     "note": "Finnish Lawmakers Report Suspicious Home Break-Ins"
+    },
+    {
+     "outlet": "The Guardian",
+     "url": "https://www.theguardian.com/world/2026/oct/01/finland-suspected-break-ins-mp-homes-foreign-power",
+     "date": "2026-10-02",
+     "access": "body",
+     "via": null,
+     "note": "Finnish PM says suspected break-ins at MPs’ homes could be work of foreign power"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "2/18",
+    "jp": "0/5",
+    "worldTotal": 18,
+    "jpTotal": 5
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "gemini-3.5-flash"
+  },
+  {
+   "id": "intl-brief-2026-10-02-s-20261002-08",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "gap",
+   "headline": "イーロン・マスク氏が国防総省の戦争研究共同リーダーに就任",
+   "originalTitle": "Elon Musk returns to Trump administration to co-lead Pentagon war study",
+   "outlet": "Euronews",
+   "url": "https://www.euronews.com/2026/10/01/elon-musk-returns-to-trump-administration-to-co-lead-pentagon-war-study",
+   "region": "overseas",
+   "category": null,
+   "score": 6,
+   "tier": "interest",
+   "pubDate": "2026-10-01T21:34:31.516Z",
+   "body": null,
+   "summary": "実業家のイーロン・マスク氏が、国防総省が立ち上げた「未来の戦争」に関する研究プロジェクトの共同リーダーに就任します。マスク氏は政府効率化省のトップを務めた後、２０２５年５月に退任していました。同氏の企業はすでに国防総省の主要な契約相手であり、ミサイル防衛用の衛星ネットワーク構築などを手がけています。共同リーダーへの就任により、再び政府の意思決定に深く関わることになります。",
+   "sources": [
+    {
+     "outlet": "Euronews",
+     "url": "https://www.euronews.com/2026/10/01/elon-musk-returns-to-trump-administration-to-co-lead-pentagon-war-study",
+     "date": "2026-10-02",
+     "access": "body",
+     "via": null,
+     "note": "Elon Musk returns to Trump administration to co-lead Pentagon war study"
+    },
+    {
+     "outlet": "South China Morning Post",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3369460/elon-musk-returns-us-government-pentagon-war-study?utm_source=rss_feed",
+     "date": "2026-10-02",
+     "access": "headline",
+     "via": null,
+     "note": "Elon Musk returns to US government for Pentagon war study"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "2/18",
+    "jp": "0/5",
+    "worldTotal": 18,
+    "jpTotal": 5
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "gemini-3.5-flash"
+  },
+  {
+   "id": "intl-brief-2026-10-02-s-20261002-09",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "gap",
+   "headline": "スペースＸが宇宙飛行士４人を乗せたロケットを打ち上げ",
+   "originalTitle": "SpaceX launches 13th long-duration astronaut crew to International Space Station",
+   "outlet": "The Straits Times",
+   "url": "https://www.straitstimes.com/world/united-states/spacex-launches-13th-long-duration-astronaut-crew-to-international-space-station",
+   "region": "overseas",
+   "category": null,
+   "score": 6,
+   "tier": "interest",
+   "pubDate": "2026-10-01T21:34:31.516Z",
+   "body": null,
+   "summary": "宇宙企業スペースＸは、米、加、ロの宇宙飛行士４人を乗せた宇宙船を国際宇宙ステーション（ＩＳＳ）に向けて打ち上げました。打ち上げられたミッションは、軌道上における人間の健康とパフォーマンスに関する科学調査を目的としています。同社が米航空宇宙局（ＮＡＳＡ）の宇宙飛行士をＩＳＳに送る長期滞在ミッションは、１３回目となります。カプセルは、約８時間の飛行を経てＩＳＳにドッキングする予定です。",
+   "sources": [
+    {
+     "outlet": "The Straits Times",
+     "url": "https://www.straitstimes.com/world/united-states/spacex-launches-13th-long-duration-astronaut-crew-to-international-space-station",
+     "date": "2026-10-02",
+     "access": "body",
+     "via": null,
+     "note": "SpaceX launches 13th long-duration astronaut crew to International Space Station"
+    },
+    {
+     "outlet": "Reuters",
+     "url": null,
+     "date": "2026-10-02",
+     "access": "headline",
+     "via": "Google ニュース",
+     "note": "SpaceX launches 13th long-duration astronaut crew to International Space Station - Reuters"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "2/18",
+    "jp": "0/5",
+    "worldTotal": 18,
+    "jpTotal": 5
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "gemini-3.5-flash"
   },
   {
    "id": "intl-brief-2026-10-02-s-20261002-11",
    "stream": "intl",
    "depth": "brief",
    "section": "gap",
-   "headline": "ウクライナがFP-7戦術弾道ミサイルを初実戦配備",
+   "headline": "ウクライナが新型戦術弾道ミサイルを実戦で初投入",
    "originalTitle": "Ukraine deploys FP-7 tactical ballistic missile in combat for first time, Zelensky says",
    "outlet": "The Straits Times",
    "url": "https://www.straitstimes.com/world/europe/ukraine-deploys-fp-7-tactical-ballistic-missile-in-combat-for-first-time-zelenskiy-says",
@@ -554,13 +734,13 @@
    "tier": "interest",
    "pubDate": "2026-10-01T21:34:31.516Z",
    "body": null,
-   "summary": "ウクライナのゼレンスキー大統領は、FP-7戦術弾道ミサイルを戦闘で初めて配備したと発表した。実戦投入に関する詳細は見出しからは分からない。",
+   "summary": "ウクライナのゼレンスキー大統領は、自国開発の新型戦術弾道ミサイル「ＦＰ－７」を実戦で初めて使用したと発表しました。具体的な使用場所や標的は明らかにされていません。軍事アナリストによると、ＦＰ－７は射程約２００キロメートルの短距離ミサイルです。米国のＡＴＡＣＭＳに類似していますが、製造コストは大幅に安いとされています。ウクライナは、ロシアのミサイル発射拠点などを攻撃する能力の向上を目指しています。",
    "sources": [
     {
      "outlet": "The Straits Times",
      "url": "https://www.straitstimes.com/world/europe/ukraine-deploys-fp-7-tactical-ballistic-missile-in-combat-for-first-time-zelenskiy-says",
      "date": "2026-10-02",
-     "access": "headline",
+     "access": "body",
      "via": null,
      "note": "Ukraine deploys FP-7 tactical ballistic missile in combat for first time, Zelensky says"
     },
@@ -580,54 +760,9 @@
     "worldTotal": 18,
     "jpTotal": 5
    },
-   "bodyAvailable": false,
+   "bodyAvailable": true,
    "discussionUrl": null,
-   "summarizedBy": "gemini-3.5-flash-lite"
-  },
-  {
-   "id": "intl-brief-2026-10-02-s-20261002-12",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "gap",
-   "headline": "ドイツのメルツ氏がロシアによるハイブリッド攻撃に警戒感",
-   "originalTitle": "Germany preparing for serious hybrid attacks by Russia, says Merz, reaffirming Ukraine support",
-   "outlet": "The Straits Times",
-   "url": "https://www.straitstimes.com/world/europe/merz-warns-of-more-russian-hybrid-attacks-as-he-reaffirms-support-for-ukraine",
-   "region": "overseas",
-   "category": null,
-   "score": 6,
-   "tier": "interest",
-   "pubDate": "2026-10-01T21:34:31.516Z",
-   "body": null,
-   "summary": "ドイツのメルツ氏は、ロシアによる深刻なハイブリッド攻撃に向けて準備を進めていると述べ、ウクライナへの支持を改めて表明した。ロシアの動向に対する懸念が示されている。",
-   "sources": [
-    {
-     "outlet": "The Straits Times",
-     "url": "https://www.straitstimes.com/world/europe/merz-warns-of-more-russian-hybrid-attacks-as-he-reaffirms-support-for-ukraine",
-     "date": "2026-10-02",
-     "access": "headline",
-     "via": null,
-     "note": "Germany preparing for serious hybrid attacks by Russia, says Merz, reaffirming Ukraine support"
-    },
-    {
-     "outlet": "Reuters",
-     "url": null,
-     "date": "2026-10-02",
-     "access": "headline",
-     "via": "Google ニュース",
-     "note": "Merz warns of more Russian hybrid attacks as he reaffirms support for Ukraine - Reuters"
-    }
-   ],
-   "continuity": null,
-   "coverage": {
-    "world": "2/18",
-    "jp": "0/5",
-    "worldTotal": 18,
-    "jpTotal": 5
-   },
-   "bodyAvailable": false,
-   "discussionUrl": null,
-   "summarizedBy": "gemini-3.5-flash-lite"
+   "summarizedBy": "gemini-3.5-flash"
   }
  ]
 }
