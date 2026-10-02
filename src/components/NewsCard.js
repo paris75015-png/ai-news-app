@@ -15,11 +15,11 @@ export function renderNewsCard(article, isBookmarked, sectionLabel) {
   const leadText = deep
     ? splitParagraphs(article.body?.[0]?.text || '')[0] || ''
     : splitParagraphs(article.summary || '')[0] || '';
-  const showLead = deep || article.tier === 'must' || article.tier === 'should';
+  const showLead = deep || article.stream === 'intl' || article.tier === 'must' || article.tier === 'should';
   const size = deep ? 'deep' : `tier-${article.tier}`;
 
   return `
-    <article class="news-card ${size} ${deep ? 'card-deep' : 'card-brief'} open-modal-btn" data-article-id="${id}" tabindex="0" role="button">
+    <article class="news-card ${size} ${deep ? 'card-deep' : 'card-brief'} ${showLead && leadText ? 'has-lead' : ''} open-modal-btn" data-article-id="${id}" tabindex="0" role="button">
       <div class="card-meta">
         ${renderScore(article)}
         ${deep ? '<span class="depth-badge">深掘り</span>' : ''}
@@ -28,6 +28,7 @@ export function renderNewsCard(article, isBookmarked, sectionLabel) {
       </div>
 
       <h3 class="card-title">${escapeHtml(article.headline)}</h3>
+      ${article.coverage ? `<p class="card-coverage" title="取り上げた媒体の数">海外 ${escapeHtml(article.coverage.world)}媒体 ・ 日本 ${escapeHtml(article.coverage.jp)}</p>` : ''}
       ${showLead && leadText ? `<p class="card-lead">${escapeHtml(leadText)}</p>` : ''}
 
       <button

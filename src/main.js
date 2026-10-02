@@ -41,9 +41,9 @@ const state = {
 function readLastStream() {
   try {
     const v = localStorage.getItem(LAST_STREAM_KEY);
-    if (STREAMS.some(s => s.id === v)) return v;
+    if (STREAMS.some(s => s.id === v && !s.archiveOnly)) return v;
   } catch { /* プライベートモード等では使わない */ }
-  return STREAMS[0].id;
+  return STREAMS.find(s => !s.archiveOnly).id;
 }
 
 function saveLastStream(id) {

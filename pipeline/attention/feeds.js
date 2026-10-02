@@ -32,6 +32,7 @@ export const FEEDS = [
   { id: 'asahi', name: '朝日新聞', region: 'jp', kind: 'rank', url: 'https://www.asahi.com/rss/asahi/newsheadlines.rdf' },
   { id: 'mainichi', name: '毎日新聞', region: 'jp', kind: 'time', url: 'https://mainichi.jp/rss/etc/mainichi-flash.rss' },
   { id: 'jiji', name: '時事通信', region: 'jp', kind: 'time', url: 'https://www.jiji.com/rss/ranking.rdf' },
+  { id: 'yahoo-world', name: 'Yahoo!ニュース 国際', region: 'jp', kind: 'rank', url: 'https://news.yahoo.co.jp/rss/categories/world.xml' },
   { id: 'yahoo', name: 'Yahoo!ニュース主要', region: 'jp', kind: 'rank', url: 'https://news.yahoo.co.jp/rss/topics/top-picks.xml' },
   { id: 'nikkei', name: '日本経済新聞', region: 'jp', kind: 'time', via: 'googlenews', url: gnews('nikkei.com', 'ja') },
 ];

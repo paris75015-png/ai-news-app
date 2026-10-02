@@ -49,7 +49,7 @@ for (const f of feeds) {
   f.items.forEach((it, i) => {
     const n = f.items.length;
     const weight = f.kind === 'rank' ? 1 - 0.7 * (n > 1 ? i / (n - 1) : 0) : 0.5;
-    items.push({ n: items.length, feed: f.id, region: f.region, title: it.title, url: it.url, weight, via: f.via });
+    items.push({ n: items.length, feed: f.id, region: f.region, title: it.title, desc: it.desc || '', url: it.url, weight, via: f.via });
   });
 }
 
@@ -107,7 +107,7 @@ for (const g of grouped) {
     const it = items[n];
     if (it && (!best[it.feed] || it.weight > best[it.feed].weight)) best[it.feed] = it;
   }
-  const outlets = Object.entries(best).map(([id, it]) => ({ id, name: byId[id].name, region: it.region, weight: +it.weight.toFixed(2), title: it.title, url: it.url, via: it.via || null }));
+  const outlets = Object.entries(best).map(([id, it]) => ({ id, name: byId[id].name, region: it.region, weight: +it.weight.toFixed(2), title: it.title, desc: it.desc, url: it.url, via: it.via || null }));
   if (outlets.length < 2) continue;
   today.push({ g, outlets });
 }

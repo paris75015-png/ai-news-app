@@ -383,6 +383,7 @@ body {
 }
 .tier-heading-must,
 .tier-heading-new,
+.tier-heading-followup,
 .tier-heading-unseen { color: #fda4af; border-bottom-color: rgba(244, 63, 94, 0.4); font-size: 1.1rem; }
 .tier-heading-should,
 .tier-heading-ongoing,
@@ -400,9 +401,9 @@ body {
 .grid-interest { grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 12px; }
 .grid-spare { grid-template-columns: 1fr; gap: 0; }
 /* 深掘りのセクション（国内・国際）。1件の情報量が多いので幅を広く取る */
-.grid-new, .grid-unseen { grid-template-columns: repeat(auto-fill, minmax(420px, 1fr)); gap: 20px; }
+.grid-new, .grid-followup, .grid-unseen { grid-template-columns: repeat(auto-fill, minmax(420px, 1fr)); gap: 20px; }
 .grid-ongoing, .grid-structural { grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); }
-.grid-science, .grid-world, .grid-world-on-japan, .grid-brief { grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 12px; }
+.grid-science, .grid-world, .grid-gap, .grid-world-on-japan, .grid-brief { grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 12px; }
 .essay-grid { display: grid; gap: 16px; grid-template-columns: repeat(auto-fill, minmax(380px, 1fr)); }
 
 /* News Card */
@@ -452,6 +453,12 @@ body {
   transition: color 0.2s ease;
 }
 
+.card-coverage {
+  font-size: 0.75rem;
+  color: var(--text-muted, #94a3b8);
+  margin: -2px 0 2px;
+}
+
 .card-lead {
   font-size: 0.875rem;
   line-height: 1.75;
@@ -460,6 +467,9 @@ body {
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
+
+/* 世界の短信は、要約を常に見せる（深掘りの下の一覧として読む） */
+.card-brief.has-lead .card-lead { -webkit-line-clamp: 4; }
 
 .tier-must { padding: 22px 24px; padding-right: 56px; border-color: rgba(244, 63, 94, 0.3); }
 .tier-must .card-title { font-size: 1.3rem; }

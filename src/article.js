@@ -29,6 +29,13 @@
  * @property {boolean} bodyAvailable   元記事の本文を読んで書いたか
  * @property {string|null} discussionUrl  HN の議論ページなど
  * @property {string|null} summarizedBy   生成したモデル名
+ * @property {Coverage|null} coverage  世界の注目度の短信だけが持つ。取り上げた媒体の数
+ */
+
+/**
+ * @typedef {Object} Coverage
+ * @property {string} world  海外で取り上げた媒体数 'n/N'
+ * @property {string} jp     日本の測定媒体の見出しに出た数 'n/N'
  */
 
 /**
@@ -92,7 +99,8 @@
 
 /** 系統の定義。画面のタブ順もこの順。 */
 export const STREAMS = [
-  { id: 'domestic', title: '国内深掘り', file: 'domestic.json' },
+  // 国内深掘りは 2026-10-01 に廃止。過去の紙面を読むときだけタブに出す（archiveOnly）
+  { id: 'domestic', title: '国内深掘り', file: 'domestic.json', archiveOnly: true },
   { id: 'intl',     title: '国際深掘り', file: 'intl.json' },
   { id: 'ai',       title: 'AI日報',     file: 'ai.json' },
 ];
@@ -110,10 +118,12 @@ export const SECTIONS = {
   ],
   intl: [
     { id: 'followup', label: '続く話題の深掘り' },
+    { id: 'world', label: '海外メディアが大きく扱った話題' },
+    { id: 'gap', label: '日本の報道が薄い話題' },
+    // 以下は 2026-10-01 以前の紙面（旧方式）の節
     { id: 'unseen', label: '日本では見えにくい論点' },
     { id: 'structural', label: '構造的トレンドの進展' },
     { id: 'science', label: 'サイエンス&知の最前線' },
-    { id: 'world', label: '世界の動き' },
   ],
   ai: [
     { id: 'ai', label: 'AI' },
@@ -181,6 +191,7 @@ export function normalizeArticle(item, stream) {
     bodyAvailable: item.bodyAvailable !== false,
     discussionUrl: item.discussionUrl || item.meta?.discussionUrl || null,
     summarizedBy: item.summarizedBy || null,
+    coverage: item.coverage || null,
   };
 }
 

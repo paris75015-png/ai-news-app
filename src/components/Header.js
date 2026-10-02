@@ -49,7 +49,7 @@ export function renderHeader(state) {
 
 /** 系統のタブ。3系統はスコアの尺度が違うため、必ずどれか1つだけを表示する */
 function renderStreamTabs(state) {
-  return `<div class="stream-tabs">${STREAMS.map(s => {
+  return `<div class="stream-tabs">${STREAMS.filter(s => !s.archiveOnly || state.editions[s.id]).map(s => {
     const n = state.editions[s.id]?.articles.length ?? 0;
     const missing = state.editions[s.id] == null;
     return `

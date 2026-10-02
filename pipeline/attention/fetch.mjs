@@ -16,6 +16,8 @@ const parser = new XMLParser({ ignoreAttributes: false, textNodeName: '#text' })
 
 const text = v => (v == null ? '' : typeof v === 'object' ? (v['#text'] ?? '') : String(v)).replace(/\s+/g, ' ').trim();
 
+const stripTags = h => h.replace(/<[^>]*>/g, ' ').replace(/&nbsp;/g, ' ').replace(/\s+/g, ' ').trim();
+
 function parseItems(xml) {
   const doc = parser.parse(xml);
   const items = doc?.rss?.channel?.item ?? doc?.['rdf:RDF']?.item ?? doc?.feed?.entry ?? [];
@@ -23,6 +25,7 @@ function parseItems(xml) {
     title: text(i.title),
     url: text(i.link?.['@_href'] ?? i.link ?? i.guid),
     published: text(i.pubDate ?? i['dc:date'] ?? i.published ?? i.updated),
+    desc: stripTags(text(i.description ?? i.summary ?? i['content:encoded'])).slice(0, 300),
   })).filter(i => i.title);
 }
 

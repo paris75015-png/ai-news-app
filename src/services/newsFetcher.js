@@ -20,11 +20,32 @@ async function loadJson(url) {
   }
 }
 
+/**
+ * 国際深掘りの紙面 ＝ 深掘りのコラム（Claude・平日 07:30）＋ 世界の報道から拾った短信（Actions・平日 06:20）。
+ * 深掘りは資料のある日だけ出るため、その日の深掘りが無ければ、古い深掘りを今日のものとして出さず短信だけにする。
+ */
+function mergeIntl(deep, briefs) {
+  if (!briefs) return deep;
+  const sameDay = deep && deep.date === briefs.date;
+  return {
+    date: briefs.date,
+    stream: 'intl',
+    title: '国際深掘り',
+    generatedAt: briefs.generatedAt,
+    model: sameDay ? deep.model : briefs.model,
+    editorialVersion: 2,
+    articles: [...(sameDay ? deep.articles || [] : []), ...briefs.articles],
+    essays: [],
+    productionNote: sameDay ? deep.productionNote : null,
+  };
+}
+
 export const NewsFetcherService = {
   /** 当日分。画面を開いたときに読むもの */
   async fetchLatest() {
-    const results = await Promise.all(STREAMS.map(async s => {
-      const data = await loadJson(`./data/${s.file}`);
+    const results = await Promise.all(STREAMS.filter(s => !s.archiveOnly).map(async s => {
+      let data = await loadJson(`./data/${s.file}`);
+      if (s.id === 'intl') data = mergeIntl(data, await loadJson('./data/attention/briefs-latest.json'));
       return [s.id, data ? normalizeEdition(data, s.id) : null];
     }));
     return Object.fromEntries(results);
@@ -33,7 +54,8 @@ export const NewsFetcherService = {
   /** 指定した日のアーカイブ */
   async fetchArchive(date) {
     const results = await Promise.all(STREAMS.map(async s => {
-      const data = await loadJson(`./data/archive/${date}-${s.id}.json`);
+      let data = await loadJson(`./data/archive/${date}-${s.id}.json`);
+      if (s.id === 'intl') data = mergeIntl(data, await loadJson(`./data/attention/${date}-briefs.json`));
       return [s.id, data ? normalizeEdition(data, s.id) : null];
     }));
     return Object.fromEntries(results);
