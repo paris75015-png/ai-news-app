@@ -140,7 +140,7 @@ export const DEPTHS = [
  */
 export const SCORE_BANDS = {
   domestic: [{ min: 80, mark: '◆◆◆' }, { min: 70, mark: '◆◆' }, { min: 60, mark: '◆' }],
-  intl:     [{ min: 90, mark: '◆◆◆' }, { min: 80, mark: '◆◆' }, { min: 70, mark: '◆' }],
+  intl:     [{ min: 50, mark: '◆◆◆' }, { min: 30, mark: '◆◆' }, { min: 15, mark: '◆' }], // 世界の注目度（0〜100）の尺度
   ai:       [{ min: 80, mark: '◆◆◆' }, { min: 65, mark: '◆◆' }, { min: 50, mark: '◆' }],
 };
 

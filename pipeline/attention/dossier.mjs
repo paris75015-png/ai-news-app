@@ -7,7 +7,7 @@
  *   - 今日の海外の取り上げ媒体が 3 以上
  *   - 今日の点数が、初日から続けて「順位上位 12 以内」または「最高点の 40% 以上」を保っている
  *   - 資料をまだ作っていない
- *   上限は 1 日 3 話題（Sonnet の定期実行のリミットを守るため）
+ *   上限は 1 日 5 話題（Sonnet の定期実行のリミットを守るため）
  *
  * 出力  data/dossiers/YYYY-MM-DD-{id}.json
  *       本文を読めた媒体は access:"body"、見出しだけの媒体（Reuters 等の Google ニュース経由）は "headline"
@@ -20,7 +20,7 @@ const ROOT = path.resolve(import.meta.dirname, '../..');
 const STORIES_FILE = path.join(ROOT, 'data', 'attention', 'stories.json');
 const LATEST = path.join(ROOT, 'public', 'data', 'attention', 'latest.json');
 const OUT = path.join(ROOT, 'data', 'dossiers');
-const MAX_PER_DAY = 3;
+const MAX_PER_DAY = 5;
 const MAX_BODIES = 8;          // 1話題あたり本文を取る最大の媒体数
 const MAX_CHARS = 6000;        // 1本文あたりの上限（Sonnet に渡す量を抑える）
 const KEEP_DAYS = 14;
