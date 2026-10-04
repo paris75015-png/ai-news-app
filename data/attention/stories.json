@@ -101,11 +101,39 @@
        "via": "googlenews"
       }
      ]
+    },
+    "2026-10-05": {
+     "worldScore": 7,
+     "worldCoverage": 2,
+     "jpScore": 0,
+     "jpCoverage": 0,
+     "outlets": [
+      {
+       "id": "bbc",
+       "name": "BBC",
+       "region": "world",
+       "weight": 0.81,
+       "title": "Christa Pike's prognosis still unclear after failed execution, lawyer says",
+       "desc": "Pike's lawyer says doctors are still trying to clear two lethal doses of pentobarbital from her body.",
+       "url": "https://www.bbc.co.uk/news/articles/ckgelynyg7d3o?at_medium=RSS&at_campaign=rss",
+       "via": null
+      },
+      {
+       "id": "straits",
+       "name": "The Straits Times",
+       "region": "world",
+       "weight": 0.5,
+       "title": "US execution survivor critically ill and still on ventilator, says lawyer",
+       "desc": "Lawyer calls for convicted murderer Christa Pike's death sentence to be commuted to life in prison.",
+       "url": "https://www.straitstimes.com/world/united-states/us-execution-survivor-critically-ill-and-still-on-ventilator-says-lawyer",
+       "via": null
+      }
+     ]
     }
    },
-   "latestTitle": "米死刑囚、2度の薬物注射生存",
+   "latestTitle": "執行生存の米死刑囚が重体",
    "japan": false,
-   "lastSeen": "2026-10-02"
+   "lastSeen": "2026-10-05"
   },
   "s-20261001-02": {
    "id": "s-20261001-02",
@@ -361,11 +389,179 @@
        "via": "googlenews"
       }
      ]
+    },
+    "2026-10-05": {
+     "worldScore": 44,
+     "worldCoverage": 14,
+     "jpScore": 24,
+     "jpCoverage": 2,
+     "outlets": [
+      {
+       "id": "bbc",
+       "name": "BBC",
+       "region": "world",
+       "weight": 0.69,
+       "title": "Australia investigating Flydubai co-pilot's links to country",
+       "desc": "State police and the country's security agency are looking into the co-pilot, who attempted to take control of a Flydubai plane travelling to Israel.",
+       "url": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
+       "via": null
+      },
+      {
+       "id": "guardian",
+       "name": "The Guardian",
+       "region": "world",
+       "weight": 0.65,
+       "title": "Flydubai co-pilot’s time in Australia being investigated by security agencies after alleged cockpit attack",
+       "desc": "Police confirm investigation into period the man reportedly spent in Australia before alleged attempted terrorist attack Get our breaking news email , free app or daily news podcast Australian security agencies have launched an investigation after it emerged that the flydubai co-pilot who allegedly ",
+       "url": "https://www.theguardian.com/world/2026/oct/04/flydubai-co-pilot-time-in-australia-being-investigated-security-agencies-ntwnfb",
+       "via": null
+      },
+      {
+       "id": "aljazeera",
+       "name": "Al Jazeera",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Police investigating Flydubai co-pilot’s Australia ties",
+       "desc": "Australian police and intelligence join the list of those probing the incident.",
+       "url": "https://www.aljazeera.com/news/2026/10/4/police-investigating-flydubai-co-pilots-australia-ties?traffic_source=rss",
+       "via": null
+      },
+      {
+       "id": "nyt",
+       "name": "New York Times",
+       "region": "world",
+       "weight": 0.91,
+       "title": "Israeli Authorities Trade Blame for Failure to Flag FlyDubai Co-Pilot",
+       "desc": "The Omani co-pilot who officials said tried to crash the plane was said to have embraced extremist Islamist views.",
+       "url": "https://www.nytimes.com/2026/10/04/world/middleeast/flydubai-israel-debate-pilot-security.html",
+       "via": null
+      },
+      {
+       "id": "dw",
+       "name": "Deutsche Welle",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Flydubai co-pilot attempted 'terrorist attack,' UAE says",
+       "desc": "The man, who stabbed his fellow pilot on an Israel-bound Flydubai flight, was reportedly barred from flying in his native Oman over security concerns.",
+       "url": "https://www.dw.com/en/flydubai-co-pilot-attempted-terrorist-attack-uae-says/a-79526641?maca=en-rss-en-world-4025-rdf",
+       "via": null
+      },
+      {
+       "id": "france24",
+       "name": "France 24",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Who are the mystery pilots who successfully landed endangered Flydubai flight 1073?",
+       "desc": "A passenger on Flydubai flight 1073 has described the actions of on-duty crew members who rushed into the cockpit to stabilise and land the plane after the co-pilot attacked the captain with a crash axe. The flight carrying 182 people en route to Israel Wednesday was able to make an emergency landin",
+       "url": "https://www.france24.com/en/middle-east/20261004-who-are-the-mystery-pilots-who-successfully-landed-endangered-flydubai-flight-1073",
+       "via": null
+      },
+      {
+       "id": "euronews",
+       "name": "Euronews",
+       "region": "world",
+       "weight": 0.5,
+       "title": "FlyDubai captain said “I had one more fight left in me” and opened cockpit door",
+       "desc": "FlyDubai hero captain Smit Machchhar described to Israeli prime minister Benjamin Netanyahu how the attack started and how he managed to finally open the cockpit door after nearly losing his vision under the co-pilot’s repeated blows. “I knew I couldn't let the passengers die,” Machchhar said.",
+       "url": "https://www.euronews.com/2026/10/04/flydubai-captain-said-he-had-one-more-fight-left-in-me-and-opened-cockpit-door",
+       "via": null
+      },
+      {
+       "id": "scmp",
+       "name": "South China Morning Post",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Netanyahu orders security review of international flights to Israel after Flydubai attack",
+       "desc": "Israeli Prime Minister Benjamin Netanyahu ordered a security review of international flights to Israel on Sunday, after an attempt by an Omani co-pilot to crash an Israel-bound plane from Dubai. Netanyahu “has instructed the head of the National Security Council, Shmuel Ben Ezra, to appoint an exami",
+       "url": "https://www.scmp.com/news/world/middle-east/article/3369732/netanyahu-orders-security-review-international-flights-israel-after-flydubai-attack?utm_source=rss_feed",
+       "via": null
+      },
+      {
+       "id": "sky",
+       "name": "Sky News",
+       "region": "world",
+       "weight": 0.74,
+       "title": "Flydubai co-pilot: Australian links probed after 'axe attack' on captain",
+       "desc": "Australian authorities are investigating a flydubai co-pilot's \"links to Australia\" after he attacked the captain ​on a Tel Aviv-bound flight.",
+       "url": "https://news.sky.com/story/flydubai-co-pilot-australian-links-probed-after-axe-attack-on-captain-13595012",
+       "via": null
+      },
+      {
+       "id": "cbs",
+       "name": "CBS News",
+       "region": "world",
+       "weight": 0.5,
+       "title": "More details emerge about FlyDubai co-pilot who tried to crash plane",
+       "desc": "Questions about the motive of the co-pilot who tried to crash a packed flight from Dubai to Israel continue to swirl.",
+       "url": "https://www.cbsnews.com/news/flydubai-plane-attempted-crash-hijacking-israel-dubai-what-to-know/",
+       "via": null
+      },
+      {
+       "id": "toi",
+       "name": "Times of India",
+       "region": "world",
+       "weight": 0.5,
+       "title": "From India to Australia: How 6 countries got caught up in flydubai terror",
+       "desc": "On September 30, the flydubai Flight FZ1073 faced a cockpit attack when Omani co-pilot Hammam al-Hammami stabbed Captain Smit Machchhar. The injured pilot bravely opened the cockpit door, allowing crew and passengers to subdue the co-pilot. The flight was diverted to Tabuk, Saudi Arabia, where al-Ha",
+       "url": "https://timesofindia.indiatimes.com/world/middle-east/india-uae-saudi-israel-oman-and-australia-how-6-countries-got-caught-up-in-flydubai-terror/articleshow/134675881.cms",
+       "via": null
+      },
+      {
+       "id": "straits",
+       "name": "The Straits Times",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Netanyahu orders security review of flights to Israel after flydubai attack",
+       "desc": "Israeli media have reported that pilots from countries hostile to Israel have repeatedly flown into the country in recent years.",
+       "url": "https://www.straitstimes.com/world/middle-east/netanyahu-orders-security-review-of-flights-to-israel-after-flydubai-attack",
+       "via": null
+      },
+      {
+       "id": "reuters",
+       "name": "Reuters",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Australia probes flydubai co-pilot's links to the country, police say - Reuters",
+       "desc": "Australia probes flydubai co-pilot's links to the country, police say Reuters",
+       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUHk0NnhtSzljVk9RcUlKeF90V3VFaEh4NG9ITDZSdmsxX2o0bFFYWUdiWUhrQ0FzSFVlaGxBYW1McU1GdHBNWURXRTJNNkZpQ3I5Vmx2bGdXcmVCUGpFZ0RUdjJsZnNwMWJhdERPd2dndnZJNDB6cjBfcExGZ3BYd0xtQ1JoUDRMMzZoQVNURWlabXNtRjdFV3l6UFhjVTAzeG1GUTBoZ3k3dw?oc=5",
+       "via": "googlenews"
+      },
+      {
+       "id": "ap",
+       "name": "Associated Press",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Ax-wielding FlyDubai co-pilot had been flagged over extremism concerns - AP News",
+       "desc": "Ax-wielding FlyDubai co-pilot had been flagged over extremism concerns AP News",
+       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTm53alVRRTlka3JlQllEQUdvclBOMzVxOUFvQnhkMGowdDlNeXIyTFZ3ZU1GblhLOUF2VDhTRVdzRjJfZmJRWEZMcUhaMGxXVEI0NzhFYWJ6bk1USDU2VDdzcWZ4WEcwQTd4bzMzUEcyZ0lBdFRsck8zbDZ5MTdLeFBPdEFaV2llTXViWTlleDl3SE5lTWxEMThJa09WSGdH?oc=5",
+       "via": "googlenews"
+      },
+      {
+       "id": "yahoo-world",
+       "name": "Yahoo!ニュース 国際",
+       "region": "jp",
+       "weight": 0.91,
+       "title": "イスラエルの空港に墜落計画か 機長襲撃の副操縦士(共同通信)",
+       "desc": "【エルサレム共同】イスラエル行きの旅客機がサウジアラビアに緊急着陸した事件で、イスラエルメディアは4日、機長を襲撃した副操縦士が同国中部テルアビブ郊外の国際空港に旅客機を墜落させる計画だったと報じた。",
+       "url": "https://news.yahoo.co.jp/articles/4bad19a0fb4b440467eff2b508e72089f27467f3?source=rss",
+       "via": null
+      },
+      {
+       "id": "nikkei",
+       "name": "日本経済新聞",
+       "region": "jp",
+       "weight": 0.5,
+       "title": "墜落危機のイスラエル行き旅客機、尾翼損傷後も1時間以上飛行 米報道 - nikkei.com",
+       "desc": "墜落危機のイスラエル行き旅客機、尾翼損傷後も1時間以上飛行 米報道 nikkei.com",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1felpzQ3oyNF80aWlQM2tmOXhTOFRYcXBKN0Qwb3hrQUZISHFVc0R2TkRYa0dBN3pFV2NIelJWQzFVQzBQclR3U3JRNjdDNzh2YVA0YktIM3JxYTkxTXJyM2VpcUN1b000dkFmVg?oc=5",
+       "via": "googlenews"
+      }
+     ]
     }
    },
-   "latestTitle": "フライデュバイ機でのパイロット衝突事件",
+   "latestTitle": "フライドバイ機テロ未遂の捜査進む",
    "japan": false,
-   "lastSeen": "2026-10-02",
+   "lastSeen": "2026-10-05",
    "dossier": "2026-10-02"
   },
   "s-20261001-03": {
@@ -1116,11 +1312,170 @@
        "via": null
       }
      ]
+    },
+    "2026-10-05": {
+     "worldScore": 43,
+     "worldCoverage": 13,
+     "jpScore": 22,
+     "jpCoverage": 2,
+     "outlets": [
+      {
+       "id": "bbc",
+       "name": "BBC",
+       "region": "world",
+       "weight": 0.88,
+       "title": "Polls close in Brazil as Lula and Flávio Bolsonaro remain neck and neck",
+       "desc": "If no candidate gets more than 50% of the vote, the election will go to a run-off on 25 October.",
+       "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+       "via": null
+      },
+      {
+       "id": "guardian",
+       "name": "The Guardian",
+       "region": "world",
+       "weight": 0.94,
+       "title": "Brazil presidential election 2026: first-round live results",
+       "desc": "Luiz Inácio Lula da Silva is standing against Flávio Bolsonaro in the first round of the presidential race The incumbent, Luiz Inácio Lula da Silva, is up against Flávio Bolsonaro, the son of the former president Jair Bolsonaro, who is in prison for plotting a military coup. The president in Brazil ",
+       "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/04/brazil-presidential-election-2026-first-round-live-results",
+       "via": null
+      },
+      {
+       "id": "aljazeera",
+       "name": "Al Jazeera",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Brazil election results live: Lula and Bolsonaro locked in a tight race",
+       "desc": "Leftist incumbent Lula is seeking a fourth term in office, facing off against right-wing Senator Flavio Bolsonaro.",
+       "url": "https://www.aljazeera.com/news/liveblog/2026/10/4/brazil-election-results-live-lula-and-bolsonaro-locked-in-a-tight-race?traffic_source=rss",
+       "via": null
+      },
+      {
+       "id": "nyt",
+       "name": "New York Times",
+       "region": "world",
+       "weight": 0.94,
+       "title": "2026 Brazil Elections: What to Know as Lula and Bolsonaro Face Off",
+       "desc": "Luiz Inácio Lula da Silva, the leftist incumbent, and Flávio Bolsonaro, the right-wing challenger, face off in a race that could define the future of Latin America.",
+       "url": "https://www.nytimes.com/2026/10/04/world/americas/brazil-election-2026-president-race-lula-bolsonaro.html",
+       "via": null
+      },
+      {
+       "id": "dw",
+       "name": "Deutsche Welle",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Brazil election: Flavio Bolsonaro, the son of populist Jair Bolsonaro, takes an early lead over rival Lula da Silva with over 30% of votes counted",
+       "desc": "Flavio Bolsonaro, the son of Brazil's populist ex-leader Jair Bolsonaro, took on incumbent left-wing Lula da Silva in a presidential race. Early results show Bolsonaro in the lead.",
+       "url": "https://www.dw.com/en/brazil-election-flavio-bolsonaro-the-son-of-populist-jair-bolsonaro-takes-an-early-lead-over-rival-lula-da-silva-with-over-30-of-votes-counted/a-79533857?maca=en-rss-en-world-4025-rdf",
+       "via": null
+      },
+      {
+       "id": "france24",
+       "name": "France 24",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Brazil heads to the polls for high-stakes election between Lula and Flavio Bolsonaro",
+       "desc": "Brazilians began casting their votes on Sunday in a closely watch presidential election pitting incumbent President Luiz Inacio Lula da Silva against right-wing Senator Flavio Bolsonaro, son of former president Jair Bolsonaro. Nearly 160 million voters will also pick lawmakers, senators and governor",
+       "url": "https://www.france24.com/en/brazil-heads-to-the-polls-for-high-stakes-election-between-lula-and-flavio-bolsonaro",
+       "via": null
+      },
+      {
+       "id": "euronews",
+       "name": "Euronews",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Brazilians vote in first round of presidential election",
+       "desc": "Nearly 160 million Brazilians were eligible to vote in Sunday's presidential election. Polls close at 17:00 Brasília time. With voting conducted digitally, the first results are expected about three hours later, overnight in Europe",
+       "url": "https://www.euronews.com/2026/10/04/polling-stations-open-in-brazil-for-some-160-million-voters",
+       "via": null
+      },
+      {
+       "id": "scmp",
+       "name": "South China Morning Post",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Brazilians head to polls in high-stakes, polarised election",
+       "desc": "Brazilians queued to vote on Sunday in the first round of a tight election, following a campaign dominated by corruption scandals, economic anxiety and accusations of US meddling. The field of 13 candidates has been led by two clear front runners – leftist President Luiz Inacio Lula da Silva, 80, wh",
+       "url": "https://www.scmp.com/news/world/americas/article/3369728/brazilians-head-polls-high-stakes-polarised-election?utm_source=rss_feed",
+       "via": null
+      },
+      {
+       "id": "straits",
+       "name": "The Straits Times",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Brazil's Bolsonaro takes slim early lead as results trickle in for high-stakes election",
+       "desc": "BRASILIA/SAO PAULO/RIO DE JANEIRO, Oct 4 - Senator Flavio Bolsonaro took an early lead as Brazil began reporting results on Sunday afternoon in the first round of a tight presidential election, following a campaign dominated by corruption scandals, economic anxiety and accusations of US meddling.",
+       "url": "https://www.straitstimes.com/world/brazilians-head-to-polls-in-high-stakes-polarized-election",
+       "via": null
+      },
+      {
+       "id": "reuters",
+       "name": "Reuters",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Polls close in Brazil as country awaits results of high-stakes election - Reuters",
+       "desc": "Polls close in Brazil as country awaits results of high-stakes election Reuters",
+       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTzYxcENTQ3M0VnFWR3h0cVF2TkRtc2Rlci13bDE5dnZXMENGLWVPTzdKX3RpRXBvZGJFcEo3d2tmelg2QmN4Q1lkNGhnN1luQ3FCdnRMeUxlTHlTeGswVzNjWVBzdVI2ZWttdm5HR3REQ3lSd3JqSUltVTRuTTY2dWdVTFVsRUNyZGVTVDBkY2E1M3poNG8tNktZMjNtNWliR2dlRkxR?oc=5",
+       "via": "googlenews"
+      },
+      {
+       "id": "ap",
+       "name": "Associated Press",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Brazilians voted for next president as Lula and Flávio Bolsonaro hope for first round victory - AP News",
+       "desc": "Brazilians voted for next president as Lula and Flávio Bolsonaro hope for first round victory AP News",
+       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRnAtck5sQXdwQlZkQUxjQXVIQXZpWS1lUTA5d0EtdklWTnZPN01aUnpLQXZYbENYYlM4ZEoxNUVmNmNqSG9nZUJwMnNHdVA3RG1JelBnVWd3cUg0ZlpkazQtUkc4cC1SOThmYlJmY1F6czNsM3hXakZ4SGVON1E5YUp2VTNtTFh2d2ljSkhNWGdlemVjZ05jQmlWcllfM2xiVDU3NWVCdzBfdw?oc=5",
+       "via": "googlenews"
+      },
+      {
+       "id": "bloomberg",
+       "name": "Bloomberg",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Markets Brace for Sharp Swings No Matter Result of Brazil Vote - Bloomberg.com",
+       "desc": "Markets Brace for Sharp Swings No Matter Result of Brazil Vote Bloomberg.com",
+       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYUNfR3pMZjZfTGxMQWwyZ2gwUTNqSElqZkpxNFAteGduVWw0bE1aVGVMcVpUeDhZWkczZmxLY09mQUF6VHVEU19Ha1J4S1ZhZzBKTjlwZzBmNGJYT3hJUHZJQ2RCdlZtZmV6V2p5dFBrYUJuNkFqVzBpc1VWNXJPM2xnNUpnOGEwZXBEcE4ya2ljMDFMNE5NV1NxczNiT1dKcURSLWlRZTJTbzNfUmYxcnJadw?oc=5",
+       "via": "googlenews"
+      },
+      {
+       "id": "ft",
+       "name": "Financial Times",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Lula and Flávio Bolsonaro neck-and-neck as Brazilians head to polls - Financial Times",
+       "desc": "Lula and Flávio Bolsonaro neck-and-neck as Brazilians head to polls Financial Times",
+       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMU52eEVMMGQ0UTFmQk01OXFrUjlXa0xGT09hNEpVdks1bXNvc1I2WEFtZ0lkQWh0aWhYTnNiLUJVYlItdXRibzVQNEdLM1B0MHJpZEJDZndhQlFuVUFaMk16SXVOWHpORy1CNFJ1RkJUNkJmTk9UN1lCb3hwQ042UkNIWGU?oc=5",
+       "via": "googlenews"
+      },
+      {
+       "id": "jiji",
+       "name": "時事通信",
+       "region": "jp",
+       "weight": 0.5,
+       "title": "ブラジル大統領選、投票実施 決選に持ち越しの公算",
+       "desc": "",
+       "url": "https://www.jiji.com/jc/article?k=2026100400174&g=int&m=rss",
+       "via": null
+      },
+      {
+       "id": "yahoo",
+       "name": "Yahoo!ニュース主要",
+       "region": "jp",
+       "weight": 0.8,
+       "title": "ブラジル大統領選 決選投票の公算",
+       "desc": "",
+       "url": "https://news.yahoo.co.jp/pickup/6597553?source=rss",
+       "via": null
+      }
+     ]
     }
    },
-   "latestTitle": "ブラジル大統領選、オンラインギャンブルが争点",
+   "latestTitle": "ブラジル大統領選の投票実施",
    "japan": false,
-   "lastSeen": "2026-10-01"
+   "lastSeen": "2026-10-05",
+   "dossier": "2026-10-05"
   },
   "s-20261001-16": {
    "id": "s-20261001-16",
@@ -1277,11 +1632,89 @@
        "via": "googlenews"
       }
      ]
+    },
+    "2026-10-05": {
+     "worldScore": 20,
+     "worldCoverage": 7,
+     "jpScore": 0,
+     "jpCoverage": 0,
+     "outlets": [
+      {
+       "id": "guardian",
+       "name": "The Guardian",
+       "region": "world",
+       "weight": 0.53,
+       "title": "More than 400 schools in France to be closed on Monday as more protests planned",
+       "desc": "Education minister says 24 schools have been burnt or ransacked and 78 staff members injured since student unrest began last month Europe live – latest updates More than 400 schools in France will be closed or partly closed on Monday as authorities brace for another week of student protests. Lessons",
+       "url": "https://www.theguardian.com/world/2026/oct/04/schools-france-closed-protests-planned",
+       "via": null
+      },
+      {
+       "id": "aljazeera",
+       "name": "Al Jazeera",
+       "region": "world",
+       "weight": 0.5,
+       "title": "France to shutter up to 500 schools as more student protests called",
+       "desc": "Education minister cites safety concerns for closures as organisers call for resumption of protests.",
+       "url": "https://www.aljazeera.com/news/2026/10/4/france-to-shutter-up-to-500-schools-as-more-student-protests-called?traffic_source=rss",
+       "via": null
+      },
+      {
+       "id": "france24",
+       "name": "France 24",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Hundreds of schools to shut Monday as France braces for more student protests",
+       "desc": "France's education minister said lessons would be \"totally or partly suspended\" at up to 500 high schools on Monday after several days of sometimes violent protests against teacher shortages, dilapidated school buildings and overcrowding in classrooms. The minister said 24 schools had been \"burned o",
+       "url": "https://www.france24.com/en/france/20261004-up-to-500-french-schools-to-be-totally-or-partly-closed-monday-due-to-protests",
+       "via": null
+      },
+      {
+       "id": "euronews",
+       "name": "Euronews",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Student protests in France: 400–500 schools fully or partially closed Monday",
+       "desc": "Another day of mobilisation is planned for Tuesday. By then, 400 to 500 secondary schools are expected to remain fully or partially closed, including 24 that have been “burned or vandalised”. The ministry also reports that 78 education staff have been injured since the movement began.",
+       "url": "https://www.euronews.com/2026/10/04/student-protests-in-france-400500-schools-fully-or-partially-closed-monday",
+       "via": null
+      },
+      {
+       "id": "npr",
+       "name": "NPR",
+       "region": "world",
+       "weight": 0.58,
+       "title": "France arrests 5,000 people, mostly teens, as school protests spread",
+       "desc": "High school students say their classrooms are overcrowded, teachers are missing and buildings need repairs. The protests have spread to cities across France, and some 5,000 people have been arrested.",
+       "url": "https://www.npr.org/2026/10/03/nx-s1-5989532/france-arrests-5-000-people-mostly-teens-as-school-protests-spread",
+       "via": null
+      },
+      {
+       "id": "scmp",
+       "name": "South China Morning Post",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Hundreds of schools to close on Monday as education protests rock France",
+       "desc": "Up to 500 schools across France will be totally or partly closed on Monday because of a wave of pupil protests that has shaken the country, the education minister said. Lessons will be “totally or partly suspended” in some “400-500” high schools as the security conditions “have not been fulfilled”, ",
+       "url": "https://www.scmp.com/news/world/europe/article/3369730/hundreds-schools-close-monday-education-protests-rock-france?utm_source=rss_feed",
+       "via": null
+      },
+      {
+       "id": "straits",
+       "name": "The Straits Times",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Up to 500 French schools to be totally or partly closed on Oct 5, says minister",
+       "desc": "He said 24 schools had been “burned or ransacked” since the start of the movement.",
+       "url": "https://www.straitstimes.com/world/europe/up-to-500-french-schools-to-be-totally-or-partly-closed-on-oct-5-says-minister",
+       "via": null
+      }
+     ]
     }
    },
-   "latestTitle": "フランスで学生デモ激化、放火や衝突",
+   "latestTitle": "仏学生デモで数百校が閉鎖へ",
    "japan": false,
-   "lastSeen": "2026-10-02",
+   "lastSeen": "2026-10-05",
    "dossier": "2026-10-02"
   },
   "s-20261001-17": {
@@ -1762,11 +2195,80 @@
        "via": null
       }
      ]
+    },
+    "2026-10-05": {
+     "worldScore": 18,
+     "worldCoverage": 6,
+     "jpScore": 0,
+     "jpCoverage": 0,
+     "outlets": [
+      {
+       "id": "guardian",
+       "name": "The Guardian",
+       "region": "world",
+       "weight": 0.39,
+       "title": "US bombers sent home from RAF Fairford base after suspected terror plot",
+       "desc": "Aircraft seen leaving Gloucestershire base following arrest of dual British-Iranian national in central London The US Air Force has pulled its bombers from RAF Fairford following an investigation into an alleged planned terror attack at the base. The bombers were redeployed back to their home bases ",
+       "url": "https://www.theguardian.com/us-news/2026/oct/04/us-bombers-sent-home-from-raf-fairford-base-after-suspected-bomb-plot",
+       "via": null
+      },
+      {
+       "id": "nyt",
+       "name": "New York Times",
+       "region": "world",
+       "weight": 0.82,
+       "title": "U.K. Base Would Be Ambitious Target for ‘Gig Economy’ Warfare",
+       "desc": "The U.S. war in Iran unleashed small-scale attacks by local criminals or disenfranchised young men hired anonymously to target Jewish and American sites in Europe and North America, experts say.",
+       "url": "https://www.nytimes.com/2026/10/04/world/europe/uk-base-plot-proxy-attacks.html",
+       "via": null
+      },
+      {
+       "id": "dw",
+       "name": "Deutsche Welle",
+       "region": "world",
+       "weight": 0.5,
+       "title": "UK remands 2 Iranians over alleged antisemitic terror plot",
+       "desc": "The pair were arrested on the eve of Yom Kippur and later charged with plotting to attack Jewish targets in Manchester.",
+       "url": "https://www.dw.com/en/uk-remands-2-iranians-over-alleged-antisemitic-terror-plot/a-79532184?maca=en-rss-en-world-4025-rdf",
+       "via": null
+      },
+      {
+       "id": "scmp",
+       "name": "South China Morning Post",
+       "region": "world",
+       "weight": 0.5,
+       "title": "US Air Force removes all bombers from UK airbase targeted by suspected terror attack",
+       "desc": "The US Air Force has brought home its bombers stationed at a US-run military airbase in England used to strike Iran following an investigation into a planned terror attack at the RAF Fairford base. The bombers were redeployed back to their home bases in the United States, according to a Pentagon off",
+       "url": "https://www.scmp.com/news/world/europe/article/3369734/us-air-force-removes-all-bombers-uk-airbase-targeted-suspected-terror-attack?utm_source=rss_feed",
+       "via": null
+      },
+      {
+       "id": "cbs",
+       "name": "CBS News",
+       "region": "world",
+       "weight": 0.5,
+       "title": "U.K.-Iranian national released on bail after arrest in security incident near base",
+       "desc": "The 25-year-old man was arrested in London, and police searched two properties in the U.K. capital, Counter Terrorism Policing said.",
+       "url": "https://www.cbsnews.com/news/fairford-air-base-dual-uk-iranian-national-arrested-security-incident/",
+       "via": null
+      },
+      {
+       "id": "straits",
+       "name": "The Straits Times",
+       "region": "world",
+       "weight": 0.5,
+       "title": "US removes B-1 bombers from UK base amid security concerns",
+       "desc": "NEW YORK, Oct 4 - The United States removed its B-1 bombers from a UK air base one week after several men were arrested there on suspicion of preparing terrorist acts, a Pentagon official said on Sunday.",
+       "url": "https://www.straitstimes.com/world/europe/us-removes-b-1-bombers-from-uk-base-amid-security-concerns",
+       "via": null
+      }
+     ]
     }
    },
-   "latestTitle": "英空軍基地への侵入事件で逮捕",
+   "latestTitle": "英基地テロ計画で米爆撃機が撤収",
    "japan": false,
-   "lastSeen": "2026-10-02"
+   "lastSeen": "2026-10-05",
+   "dossier": "2026-10-05"
   },
   "s-20261001-25": {
    "id": "s-20261001-25",
@@ -2870,6 +3372,1466 @@
    "latestTitle": "高性能AI普及へ年内に行動計画策定",
    "japan": true,
    "lastSeen": "2026-10-02"
+  },
+  "s-20261005-01": {
+   "id": "s-20261005-01",
+   "title": "独首相がキーウ訪問、露は橋を攻撃",
+   "firstSeen": "2026-10-05",
+   "days": {
+    "2026-10-05": {
+     "worldScore": 33,
+     "worldCoverage": 11,
+     "jpScore": 23,
+     "jpCoverage": 2,
+     "outlets": [
+      {
+       "id": "bbc",
+       "name": "BBC",
+       "region": "world",
+       "weight": 1,
+       "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+       "desc": "Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.",
+       "url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
+       "via": null
+      },
+      {
+       "id": "guardian",
+       "name": "The Guardian",
+       "region": "world",
+       "weight": 0.56,
+       "title": "Russia strikes Kyiv bridge as German chancellor visits Ukraine in show of support",
+       "desc": "Attack shortly after Friedrich Merz arrived on unannounced visit intended to underline Germany’s backing Russia has struck another major bridge in Kyiv as the German chancellor, Friedrich Merz, arrived in the capital in a show of support for Ukraine. A Russian drone hit Kyiv’s key Northern Bridge ov",
+       "url": "https://www.theguardian.com/world/2026/oct/04/russia-strikes-kyiv-bridge-german-chancellor-merz-visits-ukraine",
+       "via": null
+      },
+      {
+       "id": "aljazeera",
+       "name": "Al Jazeera",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Germany’s Merz in Kyiv announces $1.5B in aid, urges Putin to end war",
+       "desc": "German Chancellor Friedrich Merz, on a surprise visit to Kyiv, announced $1.5 billion in military and reconstruction aid",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/germany-merz-visits-kyiv-air-raids-ukraine?traffic_source=rss",
+       "via": null
+      },
+      {
+       "id": "nyt",
+       "name": "New York Times",
+       "region": "world",
+       "weight": 0.33,
+       "title": "Russia Turns to Striking Kyiv’s Bridges, Threatening a Vital Lifeline",
+       "desc": "The bridges, used by many commuters in the Ukrainian capital, are the latest target in a broad Russian bombing campaign against infrastructure.",
+       "url": "https://www.nytimes.com/2026/10/03/world/europe/russia-ukraine-bridges-kyiv.html",
+       "via": null
+      },
+      {
+       "id": "france24",
+       "name": "France 24",
+       "region": "world",
+       "weight": 0.5,
+       "title": "German Chancellor in Kyiv: \"Ukraine will need our support\"",
+       "desc": "German Chancellor Friedrich Merz visited Ukraine on Sunday to show solidarity after Russian attacks on Kyiv infrastructure, including three bridges. Last month, Germany’s foreign minister called for de-escalation during talks with his Russian counterpart at the UN, drawing criticism from Sergei Lavr",
+       "url": "https://www.france24.com/en/german-chancellor-in-kyiv-ukraine-will-need-our-support",
+       "via": null
+      },
+      {
+       "id": "euronews",
+       "name": "Euronews",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Merz makes surprise visit to Kyiv: Germany pledges further aid to Ukraine",
+       "desc": "German Chancellor Friedrich Merz made a surprise visit to Kyiv on Sunday. Accompanied by Economy Minister Katherina Reiche and representatives of German defence and energy companies, he aims to pledge further military and financial support for Ukraine.",
+       "url": "https://www.euronews.com/2026/10/04/merz-makes-surprise-visit-to-kyiv-germany-pledges-further-aid-to-ukraine",
+       "via": null
+      },
+      {
+       "id": "straits",
+       "name": "The Straits Times",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Merz unveils fresh military aid in Kyiv, says Germany won’t be intimidated",
+       "desc": "Merz said Moscow was trying to break the morale of the Ukrainian people, and announced €350 million for repairs in the energy sector.",
+       "url": "https://www.straitstimes.com/world/europe/merz-unveils-fresh-military-aid-in-kyiv-says-germany-wont-be-intimidated",
+       "via": null
+      },
+      {
+       "id": "reuters",
+       "name": "Reuters",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Russia says it hit Kyiv bridge, two vessels in Black Sea - Reuters",
+       "desc": "Russia says it hit Kyiv bridge, two vessels in Black Sea Reuters",
+       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeTdaX0lKWlpQY1ZvQlBmWk5jd2xkdjgzemMwYmo5RVhwQ2lvLWdib0lrd3RLeDU0dlJwQnBlVG5adDA5WUpYZ25PaVZyTGVSTU1mN2Jqb05UMDRJYjJNQVY0blppbExIWFlGMm9wVnZzRmxNeGdkRXp1TXV2UEY5VEFhSVFxWUg4M29TVWFmWUpwNWcyaVFQTm5R?oc=5",
+       "via": "googlenews"
+      },
+      {
+       "id": "ap",
+       "name": "Associated Press",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Germany’s Merz announces new aid for Ukraine in Kyiv as Russia steps up attacks - AP News",
+       "desc": "Germany’s Merz announces new aid for Ukraine in Kyiv as Russia steps up attacks AP News",
+       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSW9xR0xYUHQ3OE8xMk1yRl8zSFNHQ1Zwd05Ob2dQeWNTLTFJb3FEWEF4SXo1X3NhRWlfamstU2puVzFXQzBXX2ZrSk9tN3BtNjk5eW9yU2phekV0SEo1RjktSU5CZWRrNllpRDl3WFlheV9oZ2pNckx6NEJuZ1VKam5rRlJSbXZTY01xZVVyTklqRFlidDhibWZRRQ?oc=5",
+       "via": "googlenews"
+      },
+      {
+       "id": "bloomberg",
+       "name": "Bloomberg",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Germany’s Merz Arrives in Kyiv, Warns of Putin’s Threat to West - Bloomberg.com",
+       "desc": "Germany’s Merz Arrives in Kyiv, Warns of Putin’s Threat to West Bloomberg.com",
+       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRl9QSUZyaEpEZ25xQ3RPOU1RWGpuN0d1NzV5LWEzSy1OejdaVF83WDdBSVBLM2MwVUlHZ3RZdkV6VnAyeEZxSkZ1eXppeG9QZ1BxOVZCamlnQW5RcndXRDlxZ25YSXAzT0dPUDVqZ01mdTZlWEwxRlY0cHJpdUVNTjU2Q1IzeXVPMFNKNUlhYU9JZ21MQUVCc2dWTFRPSFcxYVpPSlIxcXFqMUg4VXREa2FnQjlvQVA0cG9qdA?oc=5",
+       "via": "googlenews"
+      },
+      {
+       "id": "ft",
+       "name": "Financial Times",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Russia strikes Kyiv as Germany’s Merz visits - Financial Times",
+       "desc": "Russia strikes Kyiv as Germany’s Merz visits Financial Times",
+       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZkYwdS0xTXN2bFl1SzdPc1JXSFhlRVNmZnBZbFdUcTNPdVFIS18wSmxvRk9wWnFsMkt4WUJIdS1SN2M3RzNzQVJCb0I4X2o3UjlBbWpVa3ludzYtUGpvUF9Qc1VlQ254alhoaG1SZ25aM3ZfNVFfOGZPNmpacWFNODFTVm0?oc=5",
+       "via": "googlenews"
+      },
+      {
+       "id": "yahoo-world",
+       "name": "Yahoo!ニュース 国際",
+       "region": "jp",
+       "weight": 0.85,
+       "title": "ドイツ首相がウクライナ訪問 2400億円以上の支援を約束(テレビ朝日系（ANN）)",
+       "desc": "ドイツのメルツ首相がウクライナを電撃訪問し、新たに迎撃ドローンや燃料不足への対策など日本円で2400億円以上の支援を約束しました。 4日、キーウを訪問したメルツ首相はゼレンスキー大統領と会談し、ロシア",
+       "url": "https://news.yahoo.co.jp/articles/4237102dff6baa5c1d14493e252c50a81d03c18e?source=rss",
+       "via": null
+      },
+      {
+       "id": "nikkei",
+       "name": "日本経済新聞",
+       "region": "jp",
+       "weight": 0.5,
+       "title": "独メルツ首相がキーウ訪問 ドローン数千機提供、発電所の再建支援 - nikkei.com",
+       "desc": "独メルツ首相がキーウ訪問 ドローン数千機提供、発電所の再建支援 nikkei.com",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qMDdGNTFSQUZnTllFVnZnTlV0V0FaUU5PeklyeDBuRm12QlM0dzMwUlAyXzRUMkd3Q3ZBNkkzMXFyRjFPUU9GU1FtcW96cWh0QVNDWHVTdzhtTHFkeUJidWhTNjBvWXdmOWkzRA?oc=5",
+       "via": "googlenews"
+      }
+     ]
+    }
+   },
+   "latestTitle": "独首相がキーウ訪問、露は橋を攻撃",
+   "japan": false,
+   "lastSeen": "2026-10-05"
+  },
+  "s-20261005-02": {
+   "id": "s-20261005-02",
+   "title": "イエメン政府がフーシ派への反撃発表",
+   "firstSeen": "2026-10-05",
+   "days": {
+    "2026-10-05": {
+     "worldScore": 19,
+     "worldCoverage": 6,
+     "jpScore": 10,
+     "jpCoverage": 1,
+     "outlets": [
+      {
+       "id": "bbc",
+       "name": "BBC",
+       "region": "world",
+       "weight": 0.92,
+       "title": "Yemen's government announces all-out war to reclaim land from Houthis",
+       "desc": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition.",
+       "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
+       "via": null
+      },
+      {
+       "id": "france24",
+       "name": "France 24",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Yemen's government declares counter-offensive as Houthis cut vital route to besieged city",
+       "desc": "The ​leader of ​Yemen's Saudi-backed government announced the beginning of a ​major ‌military ⁠operation against the Iran-backed Houthis ‌on Sunday aimed at ⁠recapturing territory under their control. The announcement came as Houthi forces cut off a vital supply route to the besieged government-held",
+       "url": "https://www.france24.com/en/middle-east/20261004-yemen-leader-announces-counter-offensive-as-houthis-cut-off-supply-route-besieged-city-taiz",
+       "via": null
+      },
+      {
+       "id": "straits",
+       "name": "The Straits Times",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Yemeni government launches offensive to seize all areas from Iran-backed Houthis",
+       "desc": "The military operation is aimed at seizing the territory under Houthis' control.",
+       "url": "https://www.straitstimes.com/world/middle-east/yemen-leader-announces-major-military-operations-against-iran-backed-houthis",
+       "via": null
+      },
+      {
+       "id": "reuters",
+       "name": "Reuters",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Yemeni government launches offensive to seize all areas from Iran-backed Houthis - Reuters",
+       "desc": "Yemeni government launches offensive to seize all areas from Iran-backed Houthis Reuters",
+       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaHV2QlVZQUd1RW4zNFRzUzQ3ZlZlcHJHWHlRbm8yRjlBWGlkQ3BSek9GS0ZwOVJ0SnMtMDV5N3FsZjVsRm9EaUgwcGVhNVdaS1RCTDRqVjh5blN0NXhGenAxVlY3ZUhKQUpNN0J2ajJ2S0tlRXZyMmRaNG9VWTlXY3VpUlRWMVhKSjV3QTJXZW42OHZhaldrdzJxR2I1aDZrRDRMVHlYa2tOVW5GR2J4VWM2RjVPcjdqNUwzMUdsSVhPbDhqd0ttdmN4TUlTQWM?oc=5",
+       "via": "googlenews"
+      },
+      {
+       "id": "ap",
+       "name": "Associated Press",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Yemen's government declares a major operation against the Houthis, and other Mideast news - AP News",
+       "desc": "Yemen's government declares a major operation against the Houthis, and other Mideast news AP News",
+       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSGRuUzdlZFVLVzJaQVhOZTJCZzY1dm4wcDJhU1hRMjU1d3g2WUpiX0hJSXEza0tyaXJNYmhxX182UkxNdW91OUt2Zk1jUTRsTjZDU2plbExiUjZ3NzRMX2E3MW0yajVULWIzRzVOS3NBcC1rZC1QQVdIdHVpVWszQ05KdkRqektWNm1LclVSeHRMeGdRbVlLd3FNSE9JZw?oc=5",
+       "via": "googlenews"
+      },
+      {
+       "id": "bloomberg",
+       "name": "Bloomberg",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Saudi-Backed Yemen Forces Begin Operation to Retake Houthi Areas - Bloomberg.com",
+       "desc": "Saudi-Backed Yemen Forces Begin Operation to Retake Houthi Areas Bloomberg.com",
+       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZTdURzFGUXJvVUJHYUlJNl9nSlFkaFFyd0ZOZWRtSlhYN3lDcjdIc1BBM3YtMUpRS01kMHM4THdXcGtqYlhXcHdzaGhUUWc1WWduamJLYzd3aUhPLVhXYkY2eEhHVC1CcEVpQjR6YS1kWXY5Zy1fb3hrNnJFLWJqRzhTSWVMSmExWVN3NS1ZYlVrZGhGanEyRHZZUnU5amF2TFg5RFdfdVNhNzJ3eWxEb0FmbmJIZw?oc=5",
+       "via": "googlenews"
+      },
+      {
+       "id": "yahoo-world",
+       "name": "Yahoo!ニュース 国際",
+       "region": "jp",
+       "weight": 0.62,
+       "title": "イエメン暫定政府フーシ派に反撃へ 「領土奪還する」と強調…紅海の要衝も死守なるか(テレビ朝日系（ANN）)",
+       "desc": "サウジアラビアが支援するイエメンの暫定政府が内戦で敵対する親イラン武装組織フーシ派への大規模な軍事作戦を開始したと発表しました。 イエメン暫定政府の指導者であるアリーミ大統領評議会議長は4日、「領土を",
+       "url": "https://news.yahoo.co.jp/articles/36fd64377db8b039c191d94aedd77f520c9fea84?source=rss",
+       "via": null
+      }
+     ]
+    }
+   },
+   "latestTitle": "イエメン政府がフーシ派への反撃発表",
+   "japan": false,
+   "lastSeen": "2026-10-05"
+  },
+  "s-20261005-03": {
+   "id": "s-20261005-03",
+   "title": "エチオピア軍がティグレ州都を掌握",
+   "firstSeen": "2026-10-05",
+   "days": {
+    "2026-10-05": {
+     "worldScore": 16,
+     "worldCoverage": 5,
+     "jpScore": 8,
+     "jpCoverage": 1,
+     "outlets": [
+      {
+       "id": "bbc",
+       "name": "BBC",
+       "region": "world",
+       "weight": 0.84,
+       "title": "Ethiopian rebel forces withdraw from Tigray regional capital",
+       "desc": "Two residents in Mekelle tell the BBC pro-government forces have taken control of the city.",
+       "url": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss",
+       "via": null
+      },
+      {
+       "id": "france24",
+       "name": "France 24",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Ethiopian federal forces control Tigray capital as regional rivals meet in Egypt",
+       "desc": "Troops loyal to Ethiopia's federal government were patrolling the streets of Mekelle on Sunday, a day after the Tigray People's Liberation Front (TPLF) withdrew its forces from the northern city. The government advance came as Ethiopia's regional rivals including Eritrea and Sudan met in the Egyptia",
+       "url": "https://www.france24.com/en/africa/20261004-ethiopian-federal-forces-control-tigray-capital-as-regional-rivals-meet-in-egypt",
+       "via": null
+      },
+      {
+       "id": "sky",
+       "name": "Sky News",
+       "region": "world",
+       "weight": 0.48,
+       "title": "Opposition fighters withdraw from capital of Ethiopia's northern Tigray region",
+       "desc": "Government-allied fighters entered Mekelle, the capital of Ethiopia's northern Tigray region, a witness said, after the rebel Tigray People's Liberation Front (TPLF) announced its withdrawal.",
+       "url": "https://news.sky.com/story/opposition-fighters-withdraw-from-capital-of-ethiopias-northern-tigray-region-13594931",
+       "via": null
+      },
+      {
+       "id": "reuters",
+       "name": "Reuters",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Government forces seize capital of Ethiopia's Tigray region from rebels - Reuters",
+       "desc": "Government forces seize capital of Ethiopia's Tigray region from rebels Reuters",
+       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVXVqai1NbFo5LVhWcnM3RElRUWVwa21sQ3p6dVhFXzBwQVBtN3BGR09DOGZhaXV5Z09BQ0RXN0JfODgtS2VoeUVqV3I0OFd3cVFjMzNLSGV3QnBidDY4eTVIUzc4YThTalE0b3JNRndHbHhQdW43S3MxN25NOWRnckZKUDU2MGl3V1YtZUVaRG5IMF9PUTVWMVM3NUptZGdkaUlYSDdLcTQxMlVxMWlkcg?oc=5",
+       "via": "googlenews"
+      },
+      {
+       "id": "ap",
+       "name": "Associated Press",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Ethiopian federal forces retake Mekelle airport from Tigrayan fighters, residents say - AP News",
+       "desc": "Ethiopian federal forces retake Mekelle airport from Tigrayan fighters, residents say AP News",
+       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZkctc2U3eU5ad2dXTEctRnN5VHFTVllRWE42VW1hQ1RsR2pMZklScnI2R3dBd0hvUllFeFdTbU9zckQ4MnBCeFZleTVOekNuX3l2eHl1Sy1BYnJBV0hvVnlQaGk0UEdYM05zcWRsZ2hrNmpHQUYtVlJXTHlreXBPRS1PVzlGMnVWMjZhMVY4cTFuWVFHLVFGdHVjR3RaRVA4UjJ2S004TS1yS2R4NlRycWZ3?oc=5",
+       "via": "googlenews"
+      },
+      {
+       "id": "nikkei",
+       "name": "日本経済新聞",
+       "region": "jp",
+       "weight": 0.5,
+       "title": "エチオピア軍、反政府勢力拠点の州都を掌握 - nikkei.com",
+       "desc": "エチオピア軍、反政府勢力拠点の州都を掌握 nikkei.com",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WWHYtUFJkWXZjekxob3Z1T25uSzhOYkNTdWxyZk1xOTlvZ1pfdzVRQ1VibmJKTE5yaEY0VUNJLTlZdm1pN3hndzlELWZ1QTZEbzFtMWJHYUUxU2hobFFVMXdlRUFxQlNpbDdkag?oc=5",
+       "via": "googlenews"
+      }
+     ]
+    }
+   },
+   "latestTitle": "エチオピア軍がティグレ州都を掌握",
+   "japan": false,
+   "lastSeen": "2026-10-05"
+  },
+  "s-20261005-04": {
+   "id": "s-20261005-04",
+   "title": "沖縄で女性殺害容疑の米海兵隊員逮捕",
+   "firstSeen": "2026-10-05",
+   "days": {
+    "2026-10-05": {
+     "worldScore": 24,
+     "worldCoverage": 6,
+     "jpScore": 31,
+     "jpCoverage": 3,
+     "outlets": [
+      {
+       "id": "bbc",
+       "name": "BBC",
+       "region": "world",
+       "weight": 0.73,
+       "title": "US Marine arrested over murder of woman in Okinawa, Japan",
+       "desc": "Japan's government lodged a formal protest with the US, demanding that military officials take action.",
+       "url": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss",
+       "via": null
+      },
+      {
+       "id": "guardian",
+       "name": "The Guardian",
+       "region": "world",
+       "weight": 0.8,
+       "title": "US marine arrested in Japan on suspicion of killing woman, police say",
+       "desc": "Suspect allegedly killed woman at hotel in Okinawa as prime minister calls crime ‘exceptionally brutal and vicious’ A US marine stationed on Japan ’s southern island of Okinawa is accused of murdering a Japanese woman and has been arrested on suspicion of murder, police said on Sunday. The suspect a",
+       "url": "https://www.theguardian.com/us-news/2026/oct/04/marine-arrested-japan-suspicion-murder",
+       "via": null
+      },
+      {
+       "id": "aljazeera",
+       "name": "Al Jazeera",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Japan summons US envoy as marine arrested over Okinawa murder",
+       "desc": "Ambassador vows cooperation as Japan protests after a US marine’s arrest in connection to Okinawa murder case.",
+       "url": "https://www.aljazeera.com/news/2026/10/4/japan-summons-us-envoy-as-marine-arrested-over-okinawa-murder?traffic_source=rss",
+       "via": null
+      },
+      {
+       "id": "nyt",
+       "name": "New York Times",
+       "region": "world",
+       "weight": 0.8,
+       "title": "Japan Protests After U.S. Marine Is Accused of Killing Woman in Okinawa",
+       "desc": "The matter threatened to revive tensions over the American military presence on the Japanese archipelago.",
+       "url": "https://www.nytimes.com/2026/10/04/world/asia/japan-us-marine-killing-okinawa-woman.html",
+       "via": null
+      },
+      {
+       "id": "npr",
+       "name": "NPR",
+       "region": "world",
+       "weight": 1,
+       "title": "U.S. Marine arrested for alleged murder of a woman in Okinawa, Japan",
+       "desc": "Japanese police arrested a U.S. Marine in the alleged robbery and murder of a woman on Okinawa, officials said Sunday.",
+       "url": "https://www.npr.org/2026/10/04/nx-s1-5990790/us-marine-arrested-for-alleged-murder-woman-on-okinawa",
+       "via": null
+      },
+      {
+       "id": "cbs",
+       "name": "CBS News",
+       "region": "world",
+       "weight": 0.5,
+       "title": "U.S. Marine arrested, accused of killing Japanese woman in Okinawa",
+       "desc": "U.S. authorities in Japan acknowledged that a U.S. service member was in police custody and pledged to fully cooperate with the investigation.",
+       "url": "https://www.cbsnews.com/news/us-marine-arrested-japan-accused-murder-okinawa/",
+       "via": null
+      },
+      {
+       "id": "asahi",
+       "name": "朝日新聞",
+       "region": "jp",
+       "weight": 0.88,
+       "title": "被害女性の兄「両親は娘を亡くし憔悴」 強盗殺人容疑で米海兵隊逮捕",
+       "desc": "",
+       "url": "http://www.asahi.com/articles/ASVB37QNYVB3TPOB001M.html?ref=rss",
+       "via": null
+      },
+      {
+       "id": "jiji",
+       "name": "時事通信",
+       "region": "jp",
+       "weight": 0.5,
+       "title": "「県民はいつまで我慢すれば」 米兵逮捕で抗議集会―沖縄",
+       "desc": "",
+       "url": "https://www.jiji.com/jc/article?k=2026100400365&g=soc&m=rss",
+       "via": null
+      },
+      {
+       "id": "nikkei",
+       "name": "日本経済新聞",
+       "region": "jp",
+       "weight": 0.5,
+       "title": "米兵逮捕、高市首相「極めて遺憾」 外相は駐日米大使呼び抗議 - nikkei.com",
+       "desc": "米兵逮捕、高市首相「極めて遺憾」 外相は駐日米大使呼び抗議 nikkei.com",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMWDRoQUZ5anB1ZTJtTGVEcDY4TEp6MWdrTThfdk5ldkZ6WlV6ZGtRdjYteS1ZYWhlUkwtUmFna2RyeGhyVTU4TGM1eTN6RFh3X3FaWkNHNWJnMG9aNDBUNG5iYUdkUzRaZDExbw?oc=5",
+       "via": "googlenews"
+      }
+     ]
+    }
+   },
+   "latestTitle": "沖縄で女性殺害容疑の米海兵隊員逮捕",
+   "japan": true,
+   "lastSeen": "2026-10-05"
+  },
+  "s-20261005-05": {
+   "id": "s-20261005-05",
+   "title": "スペインで住宅危機訴える大規模デモ",
+   "firstSeen": "2026-10-05",
+   "days": {
+    "2026-10-05": {
+     "worldScore": 7,
+     "worldCoverage": 2,
+     "jpScore": 0,
+     "jpCoverage": 0,
+     "outlets": [
+      {
+       "id": "bbc",
+       "name": "BBC",
+       "region": "world",
+       "weight": 0.61,
+       "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
+       "desc": "More than 50 protests took place on Saturday after the government failed to get emergency legislation through parliament.",
+       "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
+       "via": null
+      },
+      {
+       "id": "sky",
+       "name": "Sky News",
+       "region": "world",
+       "weight": 0.56,
+       "title": "Tens of thousands protest against Spain's housing crisis",
+       "desc": "Tens of thousands of people have taken to the streets of Spanish cities in protest at the country's housing crisis in the wake of the forcible eviction of 87-year-old Maricarmen Abascal.",
+       "url": "https://news.sky.com/story/tens-of-thousands-protest-against-spains-housing-crisis-following-eviction-of-87-year-old-woman-13594689",
+       "via": null
+      }
+     ]
+    }
+   },
+   "latestTitle": "スペインで住宅危機訴える大規模デモ",
+   "japan": false,
+   "lastSeen": "2026-10-05"
+  },
+  "s-20261005-06": {
+   "id": "s-20261005-06",
+   "title": "米沖で不明の医療用飛行機の残骸発見",
+   "firstSeen": "2026-10-05",
+   "days": {
+    "2026-10-05": {
+     "worldScore": 13,
+     "worldCoverage": 4,
+     "jpScore": 0,
+     "jpCoverage": 0,
+     "outlets": [
+      {
+       "id": "bbc",
+       "name": "BBC",
+       "region": "world",
+       "weight": 0.57,
+       "title": "Debris found from plane that went missing off US coast",
+       "desc": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.",
+       "url": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
+       "via": null
+      },
+      {
+       "id": "guardian",
+       "name": "The Guardian",
+       "region": "world",
+       "weight": 0.85,
+       "title": "US Coast Guard searches for missing air ambulance off coast of Massachusetts",
+       "desc": "The plane was undertaking a medical evacuation from Bermuda with six people onboard when it lost contact The US Coast Guard said late on Saturday it had found debris from a medical transport aircraft off the shore of ⁠Massachusetts’ Nantucket Island and ⁠was searching for ​the six people who were on",
+       "url": "https://www.theguardian.com/us-news/2026/oct/03/us-coast-guard-missing-air-ambulance-massachusetts",
+       "via": null
+      },
+      {
+       "id": "aljazeera",
+       "name": "Al Jazeera",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Debris found near Nantucket believed to be from missing medical plane",
+       "desc": "The US Coast Guard says a field of debris found near Nantucket is believed to be from an emergency medical plane.",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/debris-found-near-nantucket-believed-to-be-from-missing-medical-plane?traffic_source=rss",
+       "via": null
+      },
+      {
+       "id": "ap",
+       "name": "Associated Press",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Crews find 'debris field' from 6-person medical flight missing over the Atlantic en route to Boston - AP News",
+       "desc": "Crews find 'debris field' from 6-person medical flight missing over the Atlantic en route to Boston AP News",
+       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcG1SbjEycTFWdWc1cFlQSjVJTEppQXQ2THZ1RExQMjNwMGM5Q2xzQ0lPNF9wWldLVTdFTERaUEcwRFlqVkVUbVYzMEtMZWJWTXpORUdRU0tEQ24yaTU4YzVBUldMY293R3FWOG5HQ0p3UEMyNlFIaTNrMnFxT0tpbUpRQ1VWTk1xRXdBRy1xR2h0TTFMNm9rOUgwRGFBdw?oc=5",
+       "via": "googlenews"
+      }
+     ]
+    }
+   },
+   "latestTitle": "米沖で不明の医療用飛行機の残骸発見",
+   "japan": false,
+   "lastSeen": "2026-10-05"
+  },
+  "s-20261005-07": {
+   "id": "s-20261005-07",
+   "title": "米コーネル大レイプ訴訟で原告に脅迫",
+   "firstSeen": "2026-10-05",
+   "days": {
+    "2026-10-05": {
+     "worldScore": 18,
+     "worldCoverage": 6,
+     "jpScore": 0,
+     "jpCoverage": 0,
+     "outlets": [
+      {
+       "id": "bbc",
+       "name": "BBC",
+       "region": "world",
+       "weight": 0.53,
+       "title": "Cornell president says university 'must do better' after frat house rape allegations",
+       "desc": "Michael Kotlikoff described the allegations of a woman who says she was drugged and gang raped as \"deeply disturbing\".",
+       "url": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss",
+       "via": null
+      },
+      {
+       "id": "france24",
+       "name": "France 24",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Woman at centre of Cornell gang rape lawsuit targeted with threats, lawyer says",
+       "desc": "The woman who alleged that she was drugged and raped by seven male students at a Cornell University fraternity house has been the target of threats, her lawyer told CNN on Sunday. Cornell's president earlier voiced support for an external review of the Ivy League institution facing widespread outcry",
+       "url": "https://www.france24.com/en/americas/20261004-woman-at-center-of-cornell-gang-rape-allegations-targeted-with-threats-jane-doe",
+       "via": null
+      },
+      {
+       "id": "abc-au",
+       "name": "ABC Australia",
+       "region": "world",
+       "weight": 0.77,
+       "title": "Jane Doe threatened in Cornell University rape case, lawyer says",
+       "desc": "People have threatened to harm the woman identified as Jane Doe in the Cornell University case unless she withdraws her lawsuit, her lawyer says.",
+       "url": "https://www.abc.net.au/news/2026-10-05/woman-at-center-of-cornell-rape-allegations-targeted-threats/107228278",
+       "via": null
+      },
+      {
+       "id": "toi",
+       "name": "Times of India",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Cornell sexual assault case: Woman at centre of rape allegations got threats to withdraw lawsuit, lawyer says",
+       "desc": "",
+       "url": "https://timesofindia.indiatimes.com/world/us/cornell-sexual-assault-case-woman-at-centre-of-rape-allegations-got-threats-to-withdraw-lawsuit-lawyer-says/articleshow/134677417.cms",
+       "via": null
+      },
+      {
+       "id": "straits",
+       "name": "The Straits Times",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Woman at centre of Cornell rape allegations targeted with threats, lawyer says",
+       "desc": "“These guys are disgusting. They should stay in their mother’s basement,” said the lawyer.",
+       "url": "https://www.straitstimes.com/world/united-states/woman-at-center-of-cornell-rape-allegations-targeted-with-threats-lawyer-says",
+       "via": null
+      },
+      {
+       "id": "ap",
+       "name": "Associated Press",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Cornell president calls alleged gang rape ‘deeply disturbing,’ pledges greater transparency - AP News",
+       "desc": "Cornell president calls alleged gang rape ‘deeply disturbing,’ pledges greater transparency AP News",
+       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQci0wQnFndVFSczluY2UzVzRheWMxTml6dzQyY282NEE2WTl1T2tkaVZRS0dqeU53aTRINXNEY0lDT3UyZjdCTVVLTjVfblZYbFdXemRDZ2RmYW4xdFcyX3I2VHFZZlRKdFRId2lORzBLZnp3aTNQVEIyX3hpYXV0bUdGUmZUemJXUTdzbm52UG92UHl2M2xZLVAyWkhQdw?oc=5",
+       "via": "googlenews"
+      }
+     ]
+    }
+   },
+   "latestTitle": "米コーネル大レイプ訴訟で原告に脅迫",
+   "japan": false,
+   "lastSeen": "2026-10-05"
+  },
+  "s-20261005-08": {
+   "id": "s-20261005-08",
+   "title": "英緑の党がシオニズム否定方針を採択",
+   "firstSeen": "2026-10-05",
+   "days": {
+    "2026-10-05": {
+     "worldScore": 16,
+     "worldCoverage": 6,
+     "jpScore": 0,
+     "jpCoverage": 0,
+     "outlets": [
+      {
+       "id": "guardian",
+       "name": "The Guardian",
+       "region": "world",
+       "weight": 0.45,
+       "title": "As it happened: Israel condemns Green party passing ‘Zionism is racism’ as a ‘stain on history of UK’",
+       "desc": "Party formally adopts policy which equates Zionism with racism, as all Green party votes to adopt policy that equates Zionism with racism On Friday the Times revealed that Katie Lam , the communities secretary, told a meeting in private earlier this year that the state pension system needs a fundame",
+       "url": "https://www.theguardian.com/politics/live/2026/oct/04/conservatives-tories-conference-kemi-badenoch-james-cleverly-labour-jury-trials-green-party-zionism-uk-politics-latest-news-updates",
+       "via": null
+      },
+      {
+       "id": "aljazeera",
+       "name": "Al Jazeera",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Israel lashes out as UK’s Green Party formally defines Zionism as ‘racism’",
+       "desc": "Israel&#039;s president declared that the &#039;antisemitic lie&#039; deliberately endangers Jews and Israelis.",
+       "url": "https://www.aljazeera.com/news/2026/10/4/israel-lashes-out-as-uks-green-party-formally-defines-zionism-as-racism?traffic_source=rss",
+       "via": null
+      },
+      {
+       "id": "scmp",
+       "name": "South China Morning Post",
+       "region": "world",
+       "weight": 0.5,
+       "title": "UK Green Party adopts ‘Zionism is racism’ policy, drawing backlash from Israel",
+       "desc": "The UK’s left-wing Green Party on Sunday voted to define Zionism as racism at the party’s annual meeting, drawing sharp backlash from British Jewish groups and the Israeli government. Members of the Green Party, which has five MPs in Britain’s 650-seat parliament and which enjoyed a boost in recent ",
+       "url": "https://www.scmp.com/news/world/europe/article/3369725/uk-green-party-adopts-zionism-racism-policy-drawing-backlash-israel?utm_source=rss_feed",
+       "via": null
+      },
+      {
+       "id": "straits",
+       "name": "The Straits Times",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Britain's Green Party votes to class Zionism as a form of racism",
+       "desc": "LONDON, Oct 4 - Britain's Green Party voted on Sunday to class Zionism as a form of racism, drawing criticism from British Jews and from the Israeli government which said it now viewed the party as \\\"a body that gives legitimacy to terrorism\\\".",
+       "url": "https://www.straitstimes.com/world/europe/britains-green-party-votes-to-class-zionism-as-a-form-of-racism",
+       "via": null
+      },
+      {
+       "id": "reuters",
+       "name": "Reuters",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Britain's Green Party votes to class Zionism as a form of racism - Reuters",
+       "desc": "Britain's Green Party votes to class Zionism as a form of racism Reuters",
+       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQakVRMW8teEV5WlFoeU03VXNyU0hoSW8zSFNURk5WeTMyUXlFSGRqa2JieU1UcjZCWGd3SXp3UzVRMXFGWHZQMVJBUlFpem9iWkpGODVjZVplVFZTU1BXV1htc2FkcmNaMVREVi1WMVhQcnY2MFlCWm90LW5OcTVQZHJYLVhrY3ViYkpyRE11UkdkOExSLUtzTXAyRzRwQQ?oc=5",
+       "via": "googlenews"
+      },
+      {
+       "id": "ft",
+       "name": "Financial Times",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Jewish groups attack Greens after anti-Zionism motion passes - Financial Times",
+       "desc": "Jewish groups attack Greens after anti-Zionism motion passes Financial Times",
+       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWVE4WW5Iczl3eER4T3VZS1hqNkl6Q1pqcFNmeUduNFdKSTNMYXVqMFRhU1dfaDctWWY1X3ZnVkJmXy1najBRcTQ5d3FzLVhnX3p3WHRjVjZsYk1CSlF0SkE5ZW5mWkk0VnI1TXl0NEIydlltWHNtZmxPVUYwdTVjME5yRFc?oc=5",
+       "via": "googlenews"
+      }
+     ]
+    }
+   },
+   "latestTitle": "英緑の党がシオニズム否定方針を採択",
+   "japan": false,
+   "lastSeen": "2026-10-05"
+  },
+  "s-20261005-09": {
+   "id": "s-20261005-09",
+   "title": "ボスニア選挙でセルビア人勢力が勝利",
+   "firstSeen": "2026-10-05",
+   "days": {
+    "2026-10-05": {
+     "worldScore": 12,
+     "worldCoverage": 4,
+     "jpScore": 0,
+     "jpCoverage": 0,
+     "outlets": [
+      {
+       "id": "guardian",
+       "name": "The Guardian",
+       "region": "world",
+       "weight": 0.59,
+       "title": "Bosnian Serb nationalist Dodik declares party victory in Bosnia election",
+       "desc": "Staunchly pro-Russia politician has dominated campaign and inflamed divisions despite not appearing on ballot Bosnian Serb nationalist politician Milorad Dodik has declared victory for his party in an election in Bosnia shaped by economic pressures, the prospect of the Balkan nation joining the Euro",
+       "url": "https://www.theguardian.com/world/2026/oct/04/bosnian-serb-nationalist-dodik-declares-party-victory-in-bosnia-election",
+       "via": null
+      },
+      {
+       "id": "dw",
+       "name": "Deutsche Welle",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Polls close in Bosnia-Herzegovina's divisive election",
+       "desc": "Zeljka ​Cvijanovic, the Serb nationalist candidate backed by disqualified secessionist leader Milorad Dodik, took the lead for the Serb seat of the three-member presidency.",
+       "url": "https://www.dw.com/en/polls-close-in-bosnia-herzegovina-s-divisive-election/a-79535336?maca=en-rss-en-world-4025-rdf",
+       "via": null
+      },
+      {
+       "id": "euronews",
+       "name": "Euronews",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Bosnia awaits for final general election results as preliminary count remains unclear",
+       "desc": "Around 3.4 million eligible voters in Bosnia headed to the polls to choose the three members of the country’s multi-ethnic presidency, lawmakers for the national Parliament, and heads of institutions for the country’s two entities.",
+       "url": "https://www.euronews.com/2026/10/04/bosnia-votes-as-pro-russian-politician-looms-large-over-race-and-a-stalled-eu-bid-dominate",
+       "via": null
+      },
+      {
+       "id": "scmp",
+       "name": "South China Morning Post",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Serb separatist Dodik declares victory in Bosnia vote as ethnic tensions, EU hopes collide",
+       "desc": "Bosnian Serb nationalist politician Milorad Dodik has declared victory for his party in an election in Bosnia and Herzegovina on Sunday that was shaped by economic pressures, the prospect of the Balkan nation joining the European Union and ethnic tensions that have divided the country since its brut",
+       "url": "https://www.scmp.com/news/world/europe/article/3369733/serb-separatist-dodik-declares-victory-bosnia-vote-ethnic-tensions-eu-hopes-collide?utm_source=rss_feed",
+       "via": null
+      }
+     ]
+    }
+   },
+   "latestTitle": "ボスニア選挙でセルビア人勢力が勝利",
+   "japan": false,
+   "lastSeen": "2026-10-05"
+  },
+  "s-20261005-10": {
+   "id": "s-20261005-10",
+   "title": "パキスタンでカーン氏釈放求めるデモ",
+   "firstSeen": "2026-10-05",
+   "days": {
+    "2026-10-05": {
+     "worldScore": 13,
+     "worldCoverage": 4,
+     "jpScore": 0,
+     "jpCoverage": 0,
+     "outlets": [
+      {
+       "id": "aljazeera",
+       "name": "Al Jazeera",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Imran Khan’s party launches march to Islamabad demanding his release",
+       "desc": "Supporters of jailed former Pakistani prime minister Imran Khan have launched a long march towards Islamabad.",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/imran-khans-party-launches-march-to-islamabad-demanding-his-release?traffic_source=rss",
+       "via": null
+      },
+      {
+       "id": "scmp",
+       "name": "South China Morning Post",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Supporters of Imran Khan begin ‘long march’ to Islamabad",
+       "desc": "A march protesting against the imprisonment of former Pakistani prime minister Imran Khan kicked off in northwest Pakistan on Sunday after talks to avoid the demonstration stalled. Authorities have been preparing for weeks for the possible arrival of demonstrators in Islamabad, with the march planne",
+       "url": "https://www.scmp.com/news/asia/south-asia/article/3369723/supporters-imran-khan-begin-long-march-islamabad?utm_source=rss_feed",
+       "via": null
+      },
+      {
+       "id": "sky",
+       "name": "Sky News",
+       "region": "world",
+       "weight": 0.82,
+       "title": "Thousands of Imran Khan supporters march towards Pakistan's barricaded capital",
+       "desc": "Supporters of Imran Khan, Pakistan's former prime minister, have started a march towards the capital Islamabad to demand his release from prison.",
+       "url": "https://news.sky.com/story/thousands-of-imran-khan-supporters-march-towards-pakistans-barricaded-capital-islamabad-13595103",
+       "via": null
+      },
+      {
+       "id": "ap",
+       "name": "Associated Press",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Imran Khan supporters march on Islamabad to demand his release after talks failed - AP News",
+       "desc": "Imran Khan supporters march on Islamabad to demand his release after talks failed AP News",
+       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOd3RFelhPbHBaRG5HbVFrVjRkbzV4b1BscnZBTjhyVEtPcnFZQkw0S1pPWFZqMHM2Rmh0VXRuVnI5WGd1VmhzeUdHZ0pKVElGZlpFOUhEWWxWOVFfc3czMy1yQi1vWTN0VHNMT09nRzZfWWduS3drS1k4Mk1KdHN4NkRsVVNqN21xVlZBeWtKVTBZVjdxaFV3UEEtNjBPc09paXhjQ0xLVTQtYXc1bVVMX2hydw?oc=5",
+       "via": "googlenews"
+      }
+     ]
+    }
+   },
+   "latestTitle": "パキスタンでカーン氏釈放求めるデモ",
+   "japan": false,
+   "lastSeen": "2026-10-05"
+  },
+  "s-20261005-11": {
+   "id": "s-20261005-11",
+   "title": "露が北朝鮮に無人機技術共有か",
+   "firstSeen": "2026-10-05",
+   "days": {
+    "2026-10-05": {
+     "worldScore": 8,
+     "worldCoverage": 3,
+     "jpScore": 13,
+     "jpCoverage": 1,
+     "outlets": [
+      {
+       "id": "scmp",
+       "name": "South China Morning Post",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Ukraine believes Russia shared jet-drone technology with North Korea, says Zelensky",
+       "desc": "Ukrainian President Volodymyr Zelensky said on Sunday ⁠he believed Russia ⁠may have shared jet-drone technology ⁠with its long-standing ally North Korea. In recent weeks, Russia has sharply increased its use of jet-drones against Ukraine, which so far has no effective means of countering them other ",
+       "url": "https://www.scmp.com/news/world/russia-central-asia/article/3369727/ukraine-believes-russia-shared-jet-drone-technology-north-korea-says-zelensky?utm_source=rss_feed",
+       "via": null
+      },
+      {
+       "id": "straits",
+       "name": "The Straits Times",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Ukraine believes Russia shared jet-drone technology with North Korea, says Zelenskiy",
+       "desc": "KYIV, Oct 4 - Ukrainian President Volodymyr Zelenskiy said on Sunday he believed Russia may have shared jet-drone technology with its longstanding ally North Korea.",
+       "url": "https://www.straitstimes.com/world/europe/ukraine-believes-russia-shared-jet-drone-technology-with-north-korea-says-zelenskiy",
+       "via": null
+      },
+      {
+       "id": "reuters",
+       "name": "Reuters",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Ukraine believes Russia shared jet-drone technology with North Korea, says Zelenskiy - Reuters",
+       "desc": "Ukraine believes Russia shared jet-drone technology with North Korea, says Zelenskiy Reuters",
+       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZ0tDWnAyNW5zeWtTcDBZSUczMHZGZUEtYXFlUHI2dkRpY0ZfYXBmUlBCdHhZQjJucnlYWmxMOXRkOXNsd2w0X245TV9mN2hHNHdkN1UzQjlabUYtb2xvdWtEem5qZXVUQVltbVFBQ2ZEOEN2cFdidGFFbWtIWGlvcklxVWJ1bTFDZmZkWWxNLWRUSGI5QXpnbmhENGpfX1N5S3NXZEpiYWVVa2tEdXNpZmtxcG5VU0dyWFdMUXJNOWJOUndEMy1WLTF1VU1qWlduQ1E?oc=5",
+       "via": "googlenews"
+      },
+      {
+       "id": "yahoo-world",
+       "name": "Yahoo!ニュース 国際",
+       "region": "jp",
+       "weight": 0.8,
+       "title": "北朝鮮に高速無人機技術共有か ロシア、ゼレンスキー氏が見解(共同通信)",
+       "desc": "【キーウ共同】ウクライナのゼレンスキー大統領は4日の記者会見で、侵攻を続けるロシアがジェットエンジン搭載の高速無人機の技術を北朝鮮と共有したとの見方を示した。ロシアが多用する高速無人機は迎撃が難しくウ",
+       "url": "https://news.yahoo.co.jp/articles/adffff14f49c950729a01802a6626382f4c6155a?source=rss",
+       "via": null
+      }
+     ]
+    }
+   },
+   "latestTitle": "露が北朝鮮に無人機技術共有か",
+   "japan": false,
+   "lastSeen": "2026-10-05"
+  },
+  "s-20261005-12": {
+   "id": "s-20261005-12",
+   "title": "フーシ派がサウジの石油施設を攻撃",
+   "firstSeen": "2026-10-05",
+   "days": {
+    "2026-10-05": {
+     "worldScore": 8,
+     "worldCoverage": 2,
+     "jpScore": 22,
+     "jpCoverage": 2,
+     "outlets": [
+      {
+       "id": "nyt",
+       "name": "New York Times",
+       "region": "world",
+       "weight": 0.97,
+       "title": "Houthis Claim Attack on Aramco as Yemen Conflict Escalates",
+       "desc": "More than 200 U.S. intelligence and military analysts are in Saudi Arabia helping it provide assistance to its Yemeni allies, current and former U.S. officials say.",
+       "url": "https://www.nytimes.com/2026/10/04/world/middleeast/houthis-oil-attack-saudi-arabia-yemen.html",
+       "via": null
+      },
+      {
+       "id": "toi",
+       "name": "Times of India",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Watch: Massive fire at Saudi Aramco sites targeted in Houthi missile, drone strikes",
+       "desc": "",
+       "url": "https://timesofindia.indiatimes.com/world/middle-east/watch-massive-fire-at-saudi-aramco-sites-targeted-in-houthi-missile-drone-strikes/articleshow/134675822.cms",
+       "via": null
+      },
+      {
+       "id": "yahoo-world",
+       "name": "Yahoo!ニュース 国際",
+       "region": "jp",
+       "weight": 0.82,
+       "title": "フーシ派、サウジを連日攻撃 新イラン、石油関連施設に(共同通信)",
+       "desc": "【カイロ共同】イエメンの親イラン武装組織フーシ派は4日、サウジアラビアの首都リヤドとサウジ東部の国有石油会社サウジアラムコの施設を攻撃したとの声明を出した。3日もリヤドの同社施設への軍事作戦実行を主張",
+       "url": "https://news.yahoo.co.jp/articles/8dd51ab9d709800f8e513a89f928c7933207b9c4?source=rss",
+       "via": null
+      },
+      {
+       "id": "nikkei",
+       "name": "日本経済新聞",
+       "region": "jp",
+       "weight": 0.5,
+       "title": "フーシ、サウジアラムコの施設攻撃 リヤドの製油所で炎 - nikkei.com",
+       "desc": "フーシ、サウジアラムコの施設攻撃 リヤドの製油所で炎 nikkei.com",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GUmE0NGJjRWxlTnpjeGlQMFliOW9OZ1lMaGZlemZpRFBua2s3YWpXQXBubFNPZ09ZNF9hb1VqRFlRQ0tlalVjRDdScUhtbkRyTUJqSDhxdHpiSzBPbWxMTjZ2QmJHR2xBcDd6TA?oc=5",
+       "via": "googlenews"
+      }
+     ]
+    }
+   },
+   "latestTitle": "フーシ派がサウジの石油施設を攻撃",
+   "japan": false,
+   "lastSeen": "2026-10-05"
+  },
+  "s-20261005-13": {
+   "id": "s-20261005-13",
+   "title": "ラトビア総選挙で親欧州与党が勝利へ",
+   "firstSeen": "2026-10-05",
+   "days": {
+    "2026-10-05": {
+     "worldScore": 8,
+     "worldCoverage": 3,
+     "jpScore": 0,
+     "jpCoverage": 0,
+     "outlets": [
+      {
+       "id": "euronews",
+       "name": "Euronews",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Latvia's pro-European ruling party wins election as populists gain ground",
+       "desc": "With more than 99.9 per cent of votes counted, Prime Minister Andris Kulbergs' United List party was in the lead with 35.4 percent, according to state TV.",
+       "url": "https://www.euronews.com/2026/10/04/latvias-pro-european-ruling-party-wins-election-as-populists-gain-ground",
+       "via": null
+      },
+      {
+       "id": "reuters",
+       "name": "Reuters",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Latvian PM on track to lead pro-Ukraine coalition after election win - Reuters",
+       "desc": "Latvian PM on track to lead pro-Ukraine coalition after election win Reuters",
+       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVFNoVUJwWFRHa2hyMjdWTnQwNWJzeEsxN004aTEwczk5Y2tDeW0wdW9od2FjUlJNVVBLTUEtRTJ3YWlQaHgyTlZxV2RBVEdsMERUdnZzU1BQeVhrTXRnR0RuSXJlUUFhWkNRanY5akk5aEE5aTdMUGxBaFFSRjlZbzd3N00yWjRIRjMyZlIyUGNCOTNaNjc1QUcwSWlUWGtOaEhyU2F2WVB4NXA1WnY2Tw?oc=5",
+       "via": "googlenews"
+      },
+      {
+       "id": "bloomberg",
+       "name": "Bloomberg",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Latvian Leader Surges to Big Election Win as Russia Threats Rise - Bloomberg.com",
+       "desc": "Latvian Leader Surges to Big Election Win as Russia Threats Rise Bloomberg.com",
+       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYjQwNk5hNC1TR3k3eDBWUU1RRTlCQ2VDLVRHX3BHLTkyWkRhSjRpNGdYWGtTUFk5UnloOUdmcmQ0TjlwS2xDX2tYZXhxR19URzJmOG9kR0hoelFGclk0cVJSb3F6RFR2Um1ndnh5QW5jWVlPLXF6MDZ2akVJUHdBMjJVaVdrLTM5ajJEMjA0ODZ5YzlfN0EyWEN1Ymw5WkhfOEJWQWlFdXUyN0RCVTQzaUdBcU1hZEVRWVNPcTNlazhqbkVUS1RRTg?oc=5",
+       "via": "googlenews"
+      }
+     ]
+    }
+   },
+   "latestTitle": "ラトビア総選挙で親欧州与党が勝利へ",
+   "japan": false,
+   "lastSeen": "2026-10-05"
+  },
+  "s-20261005-14": {
+   "id": "s-20261005-14",
+   "title": "スペイン・カタルーニャで豪雨洪水",
+   "firstSeen": "2026-10-05",
+   "days": {
+    "2026-10-05": {
+     "worldScore": 8,
+     "worldCoverage": 3,
+     "jpScore": 0,
+     "jpCoverage": 0,
+     "outlets": [
+      {
+       "id": "euronews",
+       "name": "Euronews",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Two people have died in Catalonia as the region is hit by torrential rain and flooding",
+       "desc": "On Sunday, Spanish Civil Protection sent a new Es-Alert to five Catalan counties reminding residents of travel restrictions, after Barcelona saw its wettest day in at least 20 years and the Besòs river passed the danger threshold.",
+       "url": "https://www.euronews.com/2026/10/04/two-people-have-died-in-catalonia-as-the-region-is-hit-by-torrential-rain-and-flooding",
+       "via": null
+      },
+      {
+       "id": "straits",
+       "name": "The Straits Times",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Two dead in flooding in Spain's Catalonia region",
+       "desc": "Oct 4 - Two people have died and another was missing after heavy rains and flooding in Spain's Catalonia region, authorities said on Sunday.",
+       "url": "https://www.straitstimes.com/world/europe/two-dead-in-flooding-in-spains-catalonia-region",
+       "via": null
+      },
+      {
+       "id": "reuters",
+       "name": "Reuters",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Two dead in flooding in Spain's Catalonia region - Reuters",
+       "desc": "Two dead in flooding in Spain's Catalonia region Reuters",
+       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVnh1WE5wbUJ2RE1EWWUtVmlITlNLSGJXZVdBYWFpYnVSWFdVVjlCeC1EYkVjcFBVbk1zak01NTB1eVBwMmZjNFo5NlhiMmxLbWh3dE53V0JCbHFYTEs2Vk54dlhHeDBHVzJSdndFRDVuZnFEOWVvR1hmSDdVVzJFOWNNXzlETUVXOGhpREl6cXY3aEhSWEVuOENuQnBOTjg?oc=5",
+       "via": "googlenews"
+      }
+     ]
+    }
+   },
+   "latestTitle": "スペイン・カタルーニャで豪雨洪水",
+   "japan": false,
+   "lastSeen": "2026-10-05"
+  },
+  "s-20261005-15": {
+   "id": "s-20261005-15",
+   "title": "スペイン警察がセウタの移民キャンプ撤去",
+   "firstSeen": "2026-10-05",
+   "days": {
+    "2026-10-05": {
+     "worldScore": 8,
+     "worldCoverage": 3,
+     "jpScore": 0,
+     "jpCoverage": 0,
+     "outlets": [
+      {
+       "id": "euronews",
+       "name": "Euronews",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Spanish police clear Ceuta's largest migrant camp ahead of King and Queen's visit",
+       "desc": "Police undertook Operation Trampolín on Sunday to clear a makeshift settlement on Ceuta's Trampolín beach, home to about 3,000 people living in poor conditions for more than two months.",
+       "url": "https://www.euronews.com/2026/10/04/spanish-police-begin-clearing-ceutas-largest-migrant-camp-ahead-of-king-and-queens-visit",
+       "via": null
+      },
+      {
+       "id": "straits",
+       "name": "The Straits Times",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Spanish police clear migrant camp on Ceuta beach ahead of royal visit",
+       "desc": "Oct 4 - Spanish police on Sunday cleared a migrant camp on a beach in the North African enclave of Ceuta, where tens of thousands crossed the border from Morocco over two months ago, the Spanish government said.",
+       "url": "https://www.straitstimes.com/world/europe/spanish-police-clear-migrant-camp-on-ceuta-beach-ahead-of-royal-visit",
+       "via": null
+      },
+      {
+       "id": "reuters",
+       "name": "Reuters",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Spanish police clear migrant camp on Ceuta beach ahead of royal visit - Reuters",
+       "desc": "Spanish police clear migrant camp on Ceuta beach ahead of royal visit Reuters",
+       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZUlYR2wzY2tZYWg1cEo5SFlaTHhXU2p6M1BmWmpwYzRWSXlBYVVOM1R5ZGNENjBLNGMtRXNyd0xpdFpRdXBKY0NuN3ozWnhhRy1zZmQteXAwMVppMDBsWFpPYVlYQ3Q1WXo3STVnaER4WnVBRjBnNnp3VmgwNXM2Y2g2LTNNdUVab3VOVEsxS0hpWm5KS3A1SEFhZHg0aGt1cVZ3eHlRWnRqNUJPT2tYV0Y0R0tLUnEwaXhENmVoQ2ktZmZI?oc=5",
+       "via": "googlenews"
+      }
+     ]
+    }
+   },
+   "latestTitle": "スペイン警察がセウタの移民キャンプ撤去",
+   "japan": false,
+   "lastSeen": "2026-10-05"
+  },
+  "s-20261005-16": {
+   "id": "s-20261005-16",
+   "title": "トランプ氏がAIタスクフォース責任者発表",
+   "firstSeen": "2026-10-05",
+   "days": {
+    "2026-10-05": {
+     "worldScore": 3,
+     "worldCoverage": 1,
+     "jpScore": 11,
+     "jpCoverage": 1,
+     "outlets": [
+      {
+       "id": "bloomberg",
+       "name": "Bloomberg",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Trump Names Clayton, Ferguson to Lead AI Task Force - Bloomberg.com",
+       "desc": "Trump Names Clayton, Ferguson to Lead AI Task Force Bloomberg.com",
+       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS2l1eU04UnlWUl9QUGduTHFPeTFBMTRJVUJSOVhDb3BDRWtjTEdxTnFxOS12SkQxMTk3TGl3b3M3U2RxQXpTSHhWTDU0RjNZTUVBNXZYUlNhbk16RWRIa05Fa1dXeGFWOVNQTjdkVl80REdLUFBERHZWMzMyaGY5NmxrazdZX0NNNDNPTV95N0wxRUozWlE4V3FEakhSZ0wzNXA4?oc=5",
+       "via": "googlenews"
+      },
+      {
+       "id": "yahoo-world",
+       "name": "Yahoo!ニュース 国際",
+       "region": "jp",
+       "weight": 0.65,
+       "title": "トランプ氏 政府のAI司令塔の責任者を発表 AI政策を調整(テレビ朝日系（ANN）)",
+       "desc": "アメリカのトランプ大統領はAI（人工知能）に関する政府の取り組みを調整する司令塔の責任者を発表しました。 トランプ大統領は4日、自身のSNSにAIに関して政府と企業や消費者などとの連携を調整する司令塔",
+       "url": "https://news.yahoo.co.jp/articles/88feabcfb669a8deb97051743f49ef0541154450?source=rss",
+       "via": null
+      }
+     ]
+    }
+   },
+   "latestTitle": "トランプ氏がAIタスクフォース責任者発表",
+   "japan": false,
+   "lastSeen": "2026-10-05"
+  },
+  "s-20261005-17": {
+   "id": "s-20261005-17",
+   "title": "日経新聞にサイバー攻撃",
+   "firstSeen": "2026-10-05",
+   "days": {
+    "2026-10-05": {
+     "worldScore": 0,
+     "worldCoverage": 0,
+     "jpScore": 32,
+     "jpCoverage": 3,
+     "outlets": [
+      {
+       "id": "asahi",
+       "name": "朝日新聞",
+       "region": "jp",
+       "weight": 0.91,
+       "title": "日経にサイバー攻撃 なりすましメールを取材先などに9千件不正送信",
+       "desc": "",
+       "url": "http://www.asahi.com/articles/ASVB42PT2VB4ULLI001M.html?ref=rss",
+       "via": null
+      },
+      {
+       "id": "jiji",
+       "name": "時事通信",
+       "region": "jp",
+       "weight": 0.5,
+       "title": "成り済ましメール９０００件送信 社員アカウントにサイバー攻撃―日経新聞",
+       "desc": "",
+       "url": "https://www.jiji.com/jc/article?k=2026100400298&g=soc&m=rss",
+       "via": null
+      },
+      {
+       "id": "nikkei",
+       "name": "日本経済新聞",
+       "region": "jp",
+       "weight": 0.5,
+       "title": "日経にサイバー攻撃 情報漏洩、不審メール9000件送信 - nikkei.com",
+       "desc": "日経にサイバー攻撃 情報漏洩、不審メール9000件送信 nikkei.com",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ieWIzdmlWUEVQcERJOUpzRDF0bU5lbTYyTG5TbWZIWUVYV05oampDY2E0cTJram1fMHRSdHNldmFtMTN6WVRXdFlzTGt2Zm8tZ0REQjNWRmVQblhDYWViMUlOOHVSemx5WjJfQQ?oc=5",
+       "via": "googlenews"
+      }
+     ]
+    }
+   },
+   "latestTitle": "日経新聞にサイバー攻撃",
+   "japan": true,
+   "lastSeen": "2026-10-05"
+  },
+  "s-20261005-18": {
+   "id": "s-20261005-18",
+   "title": "山口・上関町長選で推進派現職が再選",
+   "firstSeen": "2026-10-05",
+   "days": {
+    "2026-10-05": {
+     "worldScore": 0,
+     "worldCoverage": 0,
+     "jpScore": 32,
+     "jpCoverage": 3,
+     "outlets": [
+      {
+       "id": "asahi",
+       "name": "朝日新聞",
+       "region": "jp",
+       "weight": 0.94,
+       "title": "使用済み核燃料の中間貯蔵施設 誘致訴えた山口・上関町長が再選",
+       "desc": "",
+       "url": "http://www.asahi.com/articles/ASVB43H5CVB4TZNB00KM.html?ref=rss",
+       "via": null
+      },
+      {
+       "id": "mainichi",
+       "name": "毎日新聞",
+       "region": "jp",
+       "weight": 0.5,
+       "title": "再選の西氏「中間貯蔵施設が必要という民意」 山口・上関町長選",
+       "desc": "",
+       "url": "https://mainichi.jp/articles/20261004/k00/00m/310/175000c",
+       "via": null
+      },
+      {
+       "id": "jiji",
+       "name": "時事通信",
+       "region": "jp",
+       "weight": 0.5,
+       "title": "上関町長に現職再選 中間貯蔵施設を推進―山口",
+       "desc": "",
+       "url": "https://www.jiji.com/jc/article?k=2026100400356&g=pol&m=rss",
+       "via": null
+      }
+     ]
+    }
+   },
+   "latestTitle": "山口・上関町長選で推進派現職が再選",
+   "japan": true,
+   "lastSeen": "2026-10-05"
+  },
+  "s-20261005-19": {
+   "id": "s-20261005-19",
+   "title": "サザン関口氏の会社が申告漏れ指摘",
+   "firstSeen": "2026-10-05",
+   "days": {
+    "2026-10-05": {
+     "worldScore": 0,
+     "worldCoverage": 0,
+     "jpScore": 22,
+     "jpCoverage": 2,
+     "outlets": [
+      {
+       "id": "asahi",
+       "name": "朝日新聞",
+       "region": "jp",
+       "weight": 0.82,
+       "title": "サザン関口氏の会社、5億円超の申告漏れ 損金計上めぐり国税局指摘",
+       "desc": "",
+       "url": "http://www.asahi.com/articles/ASVB33SLCVB3UTIL01NM.html?ref=rss",
+       "via": null
+      },
+      {
+       "id": "nikkei",
+       "name": "日本経済新聞",
+       "region": "jp",
+       "weight": 0.5,
+       "title": "サザン関口氏の会社5.8億円申告漏れ、国税指摘 節税手法を不当認定 - nikkei.com",
+       "desc": "サザン関口氏の会社5.8億円申告漏れ、国税指摘 節税手法を不当認定 nikkei.com",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6WlE5SUZSX0dNNXdWRmJFYzRxaFJsVmJoT0V4NzNDTG55dERPOXNJRGdpOFhrUENINUFvdkFUMWVmWk40anhPZXBydG12X29POTlreWRoSWx3d1NuRzAycWNhdW8xT2sya2R5ag?oc=5",
+       "via": "googlenews"
+      }
+     ]
+    }
+   },
+   "latestTitle": "サザン関口氏の会社が申告漏れ指摘",
+   "japan": true,
+   "lastSeen": "2026-10-05"
+  },
+  "s-20261005-20": {
+   "id": "s-20261005-20",
+   "title": "イラン石油相が辞任",
+   "firstSeen": "2026-10-05",
+   "days": {
+    "2026-10-05": {
+     "worldScore": 6,
+     "worldCoverage": 2,
+     "jpScore": 0,
+     "jpCoverage": 0,
+     "outlets": [
+      {
+       "id": "straits",
+       "name": "The Straits Times",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Iran’s oil minister resigns, replaced by oil executive",
+       "desc": "The Iranian presidential office said the minister offered his resignation a while ago “due to personal issues” but this was rejected.",
+       "url": "https://www.straitstimes.com/world/middle-east/irans-oil-minister-resigns-no-reason-given",
+       "via": null
+      },
+      {
+       "id": "reuters",
+       "name": "Reuters",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Iran's oil minister resigns for personal reasons, state media reports - Reuters",
+       "desc": "Iran's oil minister resigns for personal reasons, state media reports Reuters",
+       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdHdEN1VYYjFqdkJyRThRQ2ZheFQzeElqRHRBNVR2N1UwV2lWbi1CcDdQYk9IV0ZuSURnc29jZXNDM1hmV0YzMDNRN0xlR055WlhBS0M2SVNJVW9NNE0yYlUyc3F0YVJma1JhQ0RnX096YjlGMTRiUmhVSDE4VGlOZ2MwMjljcVhNZnhER2gtYWk4QUYxZGpzZ202dVJLUQ?oc=5",
+       "via": "googlenews"
+      }
+     ]
+    }
+   },
+   "latestTitle": "イラン石油相が辞任",
+   "japan": false,
+   "lastSeen": "2026-10-05"
+  },
+  "s-20261005-21": {
+   "id": "s-20261005-21",
+   "title": "サミュエル皇帝の遺骨がブルガリアに",
+   "firstSeen": "2026-10-05",
+   "days": {
+    "2026-10-05": {
+     "worldScore": 6,
+     "worldCoverage": 2,
+     "jpScore": 0,
+     "jpCoverage": 0,
+     "outlets": [
+      {
+       "id": "france24",
+       "name": "France 24",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Tsar Samuel laid to rest in Sofia",
+       "desc": "In Bulgaria, the remains of medieval ruler Tsar Samuel have been laid to rest in the capital Sofia, after being flown back from the border with Greece by Bulgarian fighter jets. Their return follows decades of negotiations with Athens, in exchange for the return of religious artefacts. Nicholas Rush",
+       "url": "https://www.france24.com/en/tsar-samuel-laid-to-rest-in-sofia",
+       "via": null
+      },
+      {
+       "id": "ap",
+       "name": "Associated Press",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Remains of medieval king Czar Samuel arrive in Bulgaria after decades of talks with Greece - AP News",
+       "desc": "Remains of medieval king Czar Samuel arrive in Bulgaria after decades of talks with Greece AP News",
+       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSGN3LS12cjBsV1B0WGxXWFBteGVGdFJGQTZseHZRUkJRSWk2Z0Z0TjhQdklnUFJlTXVNaks3MXlJT1FBVjE4czdvTUVtQVEtWTU3NFlwRzdRNDRBS2JFc29Hd25od0Q3Y0RIamNjQ1hnRE5RSk5ONEhOSjZQQzRfLTdwTGJ4enV5NmY5UUtrX0U0QmFNZVh4UHlOcmJ6SXlJLWVNbGJjZGxvbVlBOS00?oc=5",
+       "via": "googlenews"
+      }
+     ]
+    }
+   },
+   "latestTitle": "サミュエル皇帝の遺骨がブルガリアに",
+   "japan": false,
+   "lastSeen": "2026-10-05"
+  },
+  "s-20261005-22": {
+   "id": "s-20261005-22",
+   "title": "OPECプラスが原油生産目標据え置き",
+   "firstSeen": "2026-10-05",
+   "days": {
+    "2026-10-05": {
+     "worldScore": 6,
+     "worldCoverage": 2,
+     "jpScore": 0,
+     "jpCoverage": 0,
+     "outlets": [
+      {
+       "id": "reuters",
+       "name": "Reuters",
+       "region": "world",
+       "weight": 0.5,
+       "title": "OPEC+ agrees to keep November oil output targets steady - Reuters",
+       "desc": "OPEC+ agrees to keep November oil output targets steady Reuters",
+       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObkpnNDluR1haTkdBX3RldWlkX2pySlFJWlFIdmZhaGt1NTFuYlVJS3Nkc2VNQlJ4bXN2LTc1VTF1SWViaVloM1Y4U1JndkpESXNfb2IxazBFS3RTVjRpUUhVeWNURVNtd2dKcWxRMjdoTEFiRTdwd1FrWEw2OUx4NUY5U1hkNFBqVjUxZlJyVVlQNFBEUmVPVTBYejluWWhMZF9xZlNrQmFqU0R4ZlJGc0N5QzJ0ckNfN0dYdkFQalpkVkk?oc=5",
+       "via": "googlenews"
+      },
+      {
+       "id": "bloomberg",
+       "name": "Bloomberg",
+       "region": "world",
+       "weight": 0.5,
+       "title": "OPEC+ Has Deal Outline for Steady November Quotas, Delegates Say - Bloomberg.com",
+       "desc": "OPEC+ Has Deal Outline for Steady November Quotas, Delegates Say Bloomberg.com",
+       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ3lQRmNrSGZSeVZuaEF5RldlMXJYN1RENDlHMFlnUkwtTEY5Sm9FMFBJeXhxZ1hUYjgyWi03akp5STd3U3NtVkNwTW9YaEgxeGM3MXVEVzNuemxBTnlUYzE0b3BOdHlBY2syc2xRMm5TYmFpZWd3V09XOVVfRk5JRjE0VzVJNE5VTkxHMG1BcGtNUDBvZFpxZlVxeG5uM1FUQUIxTENUS2ZTVTJJVGlkVG9yTQ?oc=5",
+       "via": "googlenews"
+      }
+     ]
+    }
+   },
+   "latestTitle": "OPECプラスが原油生産目標据え置き",
+   "japan": false,
+   "lastSeen": "2026-10-05"
+  },
+  "s-20261005-23": {
+   "id": "s-20261005-23",
+   "title": "イランが米に軍事解決否定を警告",
+   "firstSeen": "2026-10-05",
+   "days": {
+    "2026-10-05": {
+     "worldScore": 8,
+     "worldCoverage": 3,
+     "jpScore": 0,
+     "jpCoverage": 0,
+     "outlets": [
+      {
+       "id": "france24",
+       "name": "France 24",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Iran says no military solution to war as peace talks with US stall",
+       "desc": "Iran's diplomat said on Sunday there was no military solution to the US war against Iran as peace talks appeared stalled. Washington has scaled back attacks in favour of economic pressure, while Iran's attempted Hormuz blockade remains contentious. A UK maritime agency reported another tanker hit by",
+       "url": "https://www.france24.com/en/middle-east/20261004-iran-us-military-middle-east-war-peace-talks",
+       "via": null
+      },
+      {
+       "id": "scmp",
+       "name": "South China Morning Post",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Iran tells US there is no military solution to Middle East war",
+       "desc": "Iran’s top diplomat insisted on Sunday that there would be no military solution to the United States’ war against the Islamic republic, with talks on ending the conflict apparently at an impasse. A campaign of heavy bombardment failed to bring a decisive close to the war launched by the US and Israe",
+       "url": "https://www.scmp.com/news/world/middle-east/article/3369731/iran-tells-us-there-no-military-solution-middle-east-war?utm_source=rss_feed",
+       "via": null
+      },
+      {
+       "id": "straits",
+       "name": "The Straits Times",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Iran warns US: More firepower will not end Mid-East war",
+       "desc": "Talks remain deadlocked as Iran demands sanctions relief, and the US presses for a nuclear deal.",
+       "url": "https://www.straitstimes.com/world/middle-east/iran-warns-us-more-firepower-will-not-end-mid-east-war",
+       "via": null
+      }
+     ]
+    }
+   },
+   "latestTitle": "イランが米に軍事解決否定を警告",
+   "japan": false,
+   "lastSeen": "2026-10-05"
+  },
+  "s-20261005-24": {
+   "id": "s-20261005-24",
+   "title": "福岡県議補選で牛島氏が初当選",
+   "firstSeen": "2026-10-05",
+   "days": {
+    "2026-10-05": {
+     "worldScore": 0,
+     "worldCoverage": 0,
+     "jpScore": 15,
+     "jpCoverage": 2,
+     "outlets": [
+      {
+       "id": "asahi",
+       "name": "朝日新聞",
+       "region": "jp",
+       "weight": 0.42,
+       "title": "福岡県議会の「ドン」辞職に伴う補選、牛島慶二郎氏初当選 筑後市区",
+       "desc": "",
+       "url": "http://www.asahi.com/articles/ASV9Z15NJV9ZTIPE011M.html?ref=rss",
+       "via": null
+      },
+      {
+       "id": "mainichi",
+       "name": "毎日新聞",
+       "region": "jp",
+       "weight": 0.5,
+       "title": "前福岡県議長の辞職に伴う県議補選 新人の牛島慶二郎氏が初当選",
+       "desc": "",
+       "url": "https://mainichi.jp/articles/20261004/k00/00m/310/131000c",
+       "via": null
+      }
+     ]
+    }
+   },
+   "latestTitle": "福岡県議補選で牛島氏が初当選",
+   "japan": true,
+   "lastSeen": "2026-10-05"
+  },
+  "s-20261005-25": {
+   "id": "s-20261005-25",
+   "title": "ルペン氏がバルデラ氏への支持表明",
+   "firstSeen": "2026-10-05",
+   "days": {
+    "2026-10-05": {
+     "worldScore": 6,
+     "worldCoverage": 2,
+     "jpScore": 0,
+     "jpCoverage": 0,
+     "outlets": [
+      {
+       "id": "france24",
+       "name": "France 24",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Le Pen stands by top ally Bardella as anti-Semitism claims hit star of French far right",
+       "desc": "French far-right presidential candidate Marine Le Pen has reiterated her \"complete confidence\" in National Rally (RN) leader Jordan Bardella, accused by investigative news outlet Mediapart of making anti-Semitic comments in 2013. But some analysts say the frontrunner in the Élysée Palace race may se",
+       "url": "https://www.france24.com/en/france/20261004-le-pen-stands-by-top-ally-bardella-as-anti-semitism-claims-hit-star-of-french-far-right",
+       "via": null
+      },
+      {
+       "id": "euronews",
+       "name": "Euronews",
+       "region": "world",
+       "weight": 0.5,
+       "title": "'I have complete confidence in Jordan': Le Pen backs Bardella after three days of silence",
+       "desc": "After three days of silence, the National Rally's French presidential candidate has responded to Mediapart's release of new alleged evidence of antisemitic remarks by the party leader.",
+       "url": "https://www.euronews.com/2026/10/04/i-have-complete-confidence-in-jordan-le-pen-backs-bardella-after-three-days-of-silence",
+       "via": null
+      }
+     ]
+    }
+   },
+   "latestTitle": "ルペン氏がバルデラ氏への支持表明",
+   "japan": false,
+   "lastSeen": "2026-10-05"
   }
  }
 }
