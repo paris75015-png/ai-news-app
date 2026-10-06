@@ -129,11 +129,49 @@
        "via": null
       }
      ]
+    },
+    "2026-10-07": {
+     "worldScore": 14,
+     "worldCoverage": 3,
+     "jpScore": 0,
+     "jpCoverage": 0,
+     "outlets": [
+      {
+       "id": "bbc",
+       "name": "BBC",
+       "region": "world",
+       "weight": 1,
+       "title": "US death row inmate Christa Pike conscious after failed execution, lawyers say",
+       "desc": "Pike, 50, continues to receive critical medical care while handcuffed in hospital, according to a statement from her lawyers on Tuesday.",
+       "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
+       "via": null
+      },
+      {
+       "id": "abc-au",
+       "name": "ABC Australia",
+       "region": "world",
+       "weight": 0.97,
+       "title": "Breaking: Death row inmate Christa Pike wakes after botched execution",
+       "desc": "Christa Pike has woken up and is speaking almost a week after a botched execution attempt at a US prison.",
+       "url": "https://www.abc.net.au/news/2026-10-07/christa-pike-wakes-after-botched-execution/107229618",
+       "via": null
+      },
+      {
+       "id": "straits",
+       "name": "The Straits Times",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Tennessee execution survivor Christa Pike is conscious and speaking, lawyers say",
+       "desc": "WASHINGTON, Oct 6 - Christa Pike, who survived a Tennessee attempt to execute her by lethal injection last week, has regained consciousness and is speaking, her lawyers said in a statement on Tuesday.",
+       "url": "https://www.straitstimes.com/world/tennessee-execution-survivor-christa-pike-is-conscious-and-speaking-lawyers-say",
+       "via": null
+      }
+     ]
     }
    },
-   "latestTitle": "執行生存の米死刑囚が重体",
+   "latestTitle": "米死刑囚、2度の薬物注射生存",
    "japan": false,
-   "lastSeen": "2026-10-05"
+   "lastSeen": "2026-10-07"
   },
   "s-20261001-02": {
    "id": "s-20261001-02",
@@ -834,11 +872,49 @@
        "via": "googlenews"
       }
      ]
+    },
+    "2026-10-07": {
+     "worldScore": 8,
+     "worldCoverage": 3,
+     "jpScore": 0,
+     "jpCoverage": 0,
+     "outlets": [
+      {
+       "id": "bbc",
+       "name": "BBC",
+       "region": "world",
+       "weight": 0.39,
+       "title": "Fear and disruption for Ukraine's rail passengers as Russia escalates drone attacks",
+       "desc": "Ukrainians travelling by train are increasingly caught in the crosshairs of Russia's attacks.",
+       "url": "https://www.bbc.co.uk/news/articles/cr4g1qxzwyj1o?at_medium=RSS&at_campaign=rss",
+       "via": null
+      },
+      {
+       "id": "straits",
+       "name": "The Straits Times",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Russia preparing massive attack, says Ukraine’s Zelensky, citing intelligence",
+       "desc": "The Ukrainian president called on the country's partners to provide defensive capabilities.",
+       "url": "https://www.straitstimes.com/world/europe/ukraines-zelenskiy-says-intelligence-shows-russia-is-preparing-massive-attack",
+       "via": null
+      },
+      {
+       "id": "reuters",
+       "name": "Reuters",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Ukraine's Zelenskiy says intelligence shows Russia is preparing massive attack - Reuters",
+       "desc": "Ukraine's Zelenskiy says intelligence shows Russia is preparing massive attack Reuters",
+       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU3BvN0RtZlBjUkl6T2RMRGhCS1ZhSnl5Q1RqOGRvOTE0aHBNMTVhU1VQc3BkenhpVk9WbVVGd1ZuZDNvRDFXWER6V0xadWtZcFVVVzlNakZ2bENjWl82TVVQZ0xVbTNEUUh5MnBHX1B1Y012SjdQemFSbDI5a1U5eXlOOGpTSUFoYnpJMWdhZThHU2Q0c2szNXlDRFAta3pVQ2czX00xTk5FOVdZSEoxWk54VHBqNmk3SlI0?oc=5",
+       "via": "googlenews"
+      }
+     ]
     }
    },
-   "latestTitle": "露の攻撃でハリコフの住宅破壊",
+   "latestTitle": "ウクライナへのロシアのドローン攻撃激化",
    "japan": false,
-   "lastSeen": "2026-10-06",
+   "lastSeen": "2026-10-07",
    "dossier": "2026-10-02"
   },
   "s-20261001-04": {
@@ -1257,11 +1333,39 @@
        "via": null
       }
      ]
+    },
+    "2026-10-07": {
+     "worldScore": 6,
+     "worldCoverage": 2,
+     "jpScore": 0,
+     "jpCoverage": 0,
+     "outlets": [
+      {
+       "id": "aljazeera",
+       "name": "Al Jazeera",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Ronaldo apologizes for Portugal walkout; says Jesus broke promise",
+       "desc": "Cristiano Ronaldo accuses Portugal coach Jorge Jesus of broken promises, but leaves international return open.",
+       "url": "https://www.aljazeera.com/sports/2026/10/6/ronaldo-apologizes-for-portugal-walkout-says-jesus-broke-promise?traffic_source=rss",
+       "via": null
+      },
+      {
+       "id": "reuters",
+       "name": "Reuters",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Ronaldo accuses coach Jesus of broken promises but leaves Portugal return open - Reuters",
+       "desc": "Ronaldo accuses coach Jesus of broken promises but leaves Portugal return open Reuters",
+       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTXpyaU1YaEdiM0hlOFlZa2d2SHIzLUFyWktqTDRmb3RyY0pzWGVSNTEwSVV3dXRsMUE5N1VoVzBpOHUyYndmQzFBY3FpcGVPU3BVeExBSnRnMTV4azRoSmtGdUJIVkU5VmJfeV9fRTR4MHp6SHJSU0NvWDJjVk5vMUZHay1xN19iVWoxdUVHNG5TMVpNS1paQ0c4d21EU3lWU2NHN1lzRW1aaW9MaE80LTNIMEZWR0JPX2tCRmln?oc=5",
+       "via": "googlenews"
+      }
+     ]
     }
    },
-   "latestTitle": "ポルトガル代表C・ロナウドが合宿離脱",
+   "latestTitle": "C・ロナウドの合宿離脱と謝罪",
    "japan": false,
-   "lastSeen": "2026-10-01"
+   "lastSeen": "2026-10-07"
   },
   "s-20261001-13": {
    "id": "s-20261001-13",
@@ -1293,11 +1397,39 @@
        "via": null
       }
      ]
+    },
+    "2026-10-07": {
+     "worldScore": 6,
+     "worldCoverage": 2,
+     "jpScore": 0,
+     "jpCoverage": 0,
+     "outlets": [
+      {
+       "id": "bbc",
+       "name": "BBC",
+       "region": "world",
+       "weight": 0.5,
+       "title": "OpenAI admits response to Australian government hacks 'not good enough'",
+       "desc": "Top executive Jason Kwon tells hearing company has added \"more precautions\" to its training environments.",
+       "url": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
+       "via": null
+      },
+      {
+       "id": "guardian",
+       "name": "The Guardian",
+       "region": "world",
+       "weight": 0.56,
+       "title": "OpenAI’s Jason Kwon gave even-toned, reassuring answers to the Australian government. Did … ChatGPT write this?",
+       "desc": "Kwon’s answers were provided in a helpful, quiet and calm manner, but his mea culpa left the audience not much the wiser Open AI’s Jason Kwon flew 15 hours from San Francisco to Sydney to give the company’s first in-person mea culpa after it admitted – in an unsigned email, to a public departmental ",
+       "url": "https://www.theguardian.com/technology/2026/oct/06/openai-delivers-a-mea-culpa-to-the-australian-government-in-person-but-answers-still-elude",
+       "via": null
+      }
+     ]
     }
    },
-   "latestTitle": "オープンAI、カナダ政府へのハッキング未遂調査",
+   "latestTitle": "オープンAIの政府ハッキング対応への批判",
    "japan": false,
-   "lastSeen": "2026-10-01"
+   "lastSeen": "2026-10-07"
   },
   "s-20261001-14": {
    "id": "s-20261001-14",
@@ -1704,11 +1836,69 @@
        "via": "googlenews"
       }
      ]
+    },
+    "2026-10-07": {
+     "worldScore": 16,
+     "worldCoverage": 5,
+     "jpScore": 0,
+     "jpCoverage": 0,
+     "outlets": [
+      {
+       "id": "guardian",
+       "name": "The Guardian",
+       "region": "world",
+       "weight": 0.85,
+       "title": "Flávio’s surprise first-round election win highlights rapid rise of Brazil’s House of Bolsonaro",
+       "desc": "Four members of disgraced ex-president Jair Bolsonaro’s family have been elected to office, most notably his wife and son Flávio, who won the first round of voting to be Brazil’s new president The weekend’s elections in Brazil not only put Jair Bolsonaro’s eldest son, Flávio Bolsonaro, in the lead i",
+       "url": "https://www.theguardian.com/world/2026/oct/06/keeping-up-with-the-bolsonaros-flavios-surprise-first-round-election-win-heralds-rise-of-a-political-dynasty",
+       "via": null
+      },
+      {
+       "id": "aljazeera",
+       "name": "Al Jazeera",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Why Flavio Bolsonaro outperformed the polls in Brazil’s election",
+       "desc": "A late right-wing shift, a banking scandal and economic frustration may be behind Bolsonaro&#039;s last-minute gains.",
+       "url": "https://www.aljazeera.com/news/2026/10/6/why-flavio-bolsonaro-outperformed-the-polls-in-brazils-election?traffic_source=rss",
+       "via": null
+      },
+      {
+       "id": "nyt",
+       "name": "New York Times",
+       "region": "world",
+       "weight": 0.56,
+       "title": "Bolsonaro Family Emerges Triumphant in Brazil’s Elections, Mounting a Surprising Resurrection",
+       "desc": "The Bolsonaro family emerged triumphant in Brazil’s elections, mounting a surprising political resurrection in Latin America’s largest nation.",
+       "url": "https://www.nytimes.com/2026/10/06/world/americas/brazil-election-flavio-jair-bolsonaro.html",
+       "via": null
+      },
+      {
+       "id": "france24",
+       "name": "France 24",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Brazil 'has moved to the right progressively over the last two decades', expert says",
+       "desc": "Senator Flavio Bolsonaro received on Monday endorsements ​from Ronaldo Caiado and Romeu Zema, two right-wing politicians who ran against him in Sunday's first-round vote, ​for ‌the runoff against President Luiz ⁠Inacio Lula da Silva later this month. Speaking with FRANCE 24's Sharon Gaffney, Anthony",
+       "url": "https://www.france24.com/en/tv-shows/a-propos/20261006-brazil-has-moved-to-the-right-progressively-over-the-last-two-decades-expert-says",
+       "via": null
+      },
+      {
+       "id": "straits",
+       "name": "The Straits Times",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Lula campaign scrambles to rebrand before Brazil runoff",
+       "desc": "BRASILIA, Oct 6 - After a bruising first round of Brazil's presidential election, President Luiz Inacio Lula da Silva is rushing to overhaul his campaign communications to engage millions of Brazilians who did not vote, according to people close to the campaign.",
+       "url": "https://www.straitstimes.com/world/lula-campaign-scrambles-to-rebrand-before-brazil-runoff",
+       "via": null
+      }
+     ]
     }
    },
    "latestTitle": "ブラジル大統領選、決選投票へ",
    "japan": false,
-   "lastSeen": "2026-10-06",
+   "lastSeen": "2026-10-07",
    "dossier": "2026-10-05"
   },
   "s-20261001-16": {
@@ -2052,11 +2242,129 @@
        "via": null
       }
      ]
+    },
+    "2026-10-07": {
+     "worldScore": 33,
+     "worldCoverage": 10,
+     "jpScore": 15,
+     "jpCoverage": 1,
+     "outlets": [
+      {
+       "id": "bbc",
+       "name": "BBC",
+       "region": "world",
+       "weight": 0.97,
+       "title": "Tear gas in Paris and Marseille as school protests grow across France",
+       "desc": "Crowds of mainly teenagers called for more resources for schools and an end to what they called police repression.",
+       "url": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss",
+       "via": null
+      },
+      {
+       "id": "guardian",
+       "name": "The Guardian",
+       "region": "world",
+       "weight": 0.48,
+       "title": "‘This is state violence’: Paris students rage at politicians and heavy-handed policing",
+       "desc": "Unprecedented protests that began in low-income suburb are turning ugly, with investigations under way into police brutality Europe live: latest updates from protests in France Before dawn on Tuesday outside the Lycée Sophie-Germain in central Paris, hundreds of teenagers dragged wheelie bins, metal",
+       "url": "https://www.theguardian.com/world/2026/oct/06/french-student-protests-barricades-paris-police",
+       "via": null
+      },
+      {
+       "id": "nyt",
+       "name": "New York Times",
+       "region": "world",
+       "weight": 0.68,
+       "title": "France Student Protests Escalate Amid Fiscal Crisis and an Election",
+       "desc": "Chaos in schools, on the streets and in the markets is rooted in France’s struggles to fund its social welfare state, with a presidential election approaching.",
+       "url": "https://www.nytimes.com/2026/10/06/world/europe/france-protests-social-welfare-election.html",
+       "via": null
+      },
+      {
+       "id": "france24",
+       "name": "France 24",
+       "region": "world",
+       "weight": 0.5,
+       "title": "French policeman charged after firing tear gas grenade at high school student",
+       "desc": "A French policeman was charged Tuesday with violence for firing a tear gas grenade at close range at a 14-year-old student during high school protests that have shaken the country. Speaking with FRANCE 24's Mark Owen, Fanny Gallois, Head of the Freedoms Program, Amnesty International, says that \"the",
+       "url": "https://www.france24.com/en/french-policeman-charged-after-firing-tear-gas-grenade-at-high-school-student",
+       "via": null
+      },
+      {
+       "id": "euronews",
+       "name": "Euronews",
+       "region": "world",
+       "weight": 0.5,
+       "title": "French riot police use tear gas on third day of national student protests",
+       "desc": "Riot police across France have clashed with hundreds of thousands of demonstrators as student protests spread on third day. Tear gas was used in Paris and Marseille and hundreds arrested.",
+       "url": "https://www.euronews.com/2026/10/06/third-day-of-national-action-by-secondary-school-pupils-and-students-in-france",
+       "via": null
+      },
+      {
+       "id": "npr",
+       "name": "NPR",
+       "region": "world",
+       "weight": 0.84,
+       "title": "France's police fire tear gas and water cannons as school protests sweep the country",
+       "desc": "More than a quarter of a million people rallied nationwide to support school students demanding more education funding, according to government figures, with thousands of arrests.",
+       "url": "https://www.npr.org/2026/10/06/nx-s1-5992819/france-student-protests-schools",
+       "via": null
+      },
+      {
+       "id": "scmp",
+       "name": "South China Morning Post",
+       "region": "world",
+       "weight": 0.5,
+       "title": "French school unrest: students, teachers march on biggest day of protests",
+       "desc": "Police fired tear ⁠gas at protesters blockading French high schools on Tuesday as students, teachers and parents took to the streets on the biggest day of action in a wave of demonstrations against understaffed and dilapidated classrooms. In Marseille and Nantes, protesters held up signs marked with",
+       "url": "https://www.scmp.com/news/world/europe/article/3369936/french-school-unrest-students-teachers-march-biggest-day-protests?utm_source=rss_feed",
+       "via": null
+      },
+      {
+       "id": "cbs",
+       "name": "CBS News",
+       "region": "world",
+       "weight": 0.5,
+       "title": "French high schools closed in biggest day of student protests in decades",
+       "desc": "Nationwide protests across France continued for a third week as demonstrators rallied against poor school conditions.",
+       "url": "https://www.cbsnews.com/news/france-high-schools-closed-biggest-day-student-protests-decades/",
+       "via": null
+      },
+      {
+       "id": "straits",
+       "name": "The Straits Times",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Hundreds arrested in French school protests, as Macron summons ministers",
+       "desc": "The protests started in late September with students blocking entrances to hundreds of high schools.",
+       "url": "https://www.straitstimes.com/world/europe/hundreds-arrested-in-french-school-protests-as-macron-summons-ministers",
+       "via": null
+      },
+      {
+       "id": "ap",
+       "name": "Associated Press",
+       "region": "world",
+       "weight": 0.5,
+       "title": "French riot police fire tear gas as more than 250,000 rally nationwide for school funding - AP News",
+       "desc": "French riot police fire tear gas as more than 250,000 rally nationwide for school funding AP News",
+       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUnN2bXRwby0zM25GY1BlLXJKNW5CVzJ0SDNaSTdySmR6Y2pGa1o0dDJBY2NGVFNONjk2UDFqaVRlcnhKNmw5T3pncWNhMWpyYVNuMVZyRzVOYzdkZmRYeXRGUUxpSjNqdHpJQVFYcHR0WHl1RllNZGZEdEZicG5xdW1JemhvYkpSUlVSbjc0dnFYblpzbkMtUEloUy0wMGEz?oc=5",
+       "via": "googlenews"
+      },
+      {
+       "id": "yahoo-world",
+       "name": "Yahoo!ニュース 国際",
+       "region": "jp",
+       "weight": 0.88,
+       "title": "フランスの高校生らが一斉デモ 教育環境の改善求め45万人参加(テレビ朝日系（ANN）)",
+       "desc": "フランス各地で6日、教育環境の改善などを求めて高校生らが「一斉デモ」を実施しました。参加者は45万人に上るということです。 パリ市内のデモ行進には高校生のほか、労働組合などの呼び掛けで多くの人が加わり",
+       "url": "https://news.yahoo.co.jp/articles/f4dd206f22a5a6cd238b8a958f463ce84a9ab8bd?source=rss",
+       "via": null
+      }
+     ]
     }
    },
-   "latestTitle": "仏学生デモで手榴弾により負傷者",
+   "latestTitle": "フランスの高校生デモ、各地で衝突",
    "japan": false,
-   "lastSeen": "2026-10-06",
+   "lastSeen": "2026-10-07",
    "dossier": "2026-10-02"
   },
   "s-20261001-17": {
@@ -2288,11 +2596,130 @@
        "via": "googlenews"
       }
      ]
+    },
+    "2026-10-07": {
+     "worldScore": 25,
+     "worldCoverage": 8,
+     "jpScore": 26,
+     "jpCoverage": 3,
+     "outlets": [
+      {
+       "id": "dw",
+       "name": "Deutsche Welle",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Paramount and Warner Bros merge into one Hollywood giant",
+       "desc": "Paramount has completed an $81 billion purchase of Warner Bros. Discovery, as its owner Skydance creates a new entertainment behemoth. Billionaire David Ellison's hostile takeover bid defeated rival efforts from Netflix.",
+       "url": "https://www.dw.com/en/paramount-and-warner-bros-merge-into-one-hollywood-giant/a-79565762?maca=en-rss-en-world-4025-rdf",
+       "via": null
+      },
+      {
+       "id": "france24",
+       "name": "France 24",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Paramount completes takeover of Warner Bros, creating media behemoth Skydance",
+       "desc": "Paramount completed its acquisition of Warner Bros Discover on Tuesday, after a bidding war against Netflix. The deal closed following federal approval of a settlement between Paramount and 12 US states that tried to block the transaction on antitrust grounds. Opponents in the movie industry warned ",
+       "url": "https://www.france24.com/en/americas/20261006-paramount-completes-takeover-of-warner-bros-creating-media-behemoth-skydance",
+       "via": null
+      },
+      {
+       "id": "euronews",
+       "name": "Euronews",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Paramount and Warner Bros complete merger to form Hollywood giant Skydance",
+       "desc": "Two of America’s oldest film studios have completed their merger, bringing CNN, HBO and franchises including The Godfather and Harry Potter under one roof.",
+       "url": "https://www.euronews.com/2026/10/06/paramount-and-warner-bros-complete-merger-to-form-hollywood-giant-skydance",
+       "via": null
+      },
+      {
+       "id": "sky",
+       "name": "Sky News",
+       "region": "world",
+       "weight": 1,
+       "title": "Paramount completes $81bn takeover of Warner Bros Discovery",
+       "desc": "Skydance-owned Paramount has completed its $81bn (£61bn) takeover of Warner Bros Discovery - bringing together the two media giants under a combined company.",
+       "url": "https://news.sky.com/story/paramount-completes-81bn-takeover-of-warner-bros-discovery-13595899",
+       "via": null
+      },
+      {
+       "id": "straits",
+       "name": "The Straits Times",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Paramount wraps up Warner Bros mega merger to create Hollywood powerhouse Skydance",
+       "desc": "The merger joins major film, TV and news brands, including CBS, CNN, Paramount+ and HBO Max.",
+       "url": "https://www.straitstimes.com/world/united-states/paramount-wraps-up-mega-warner-bros-merger-to-create-hollywood-powerhouse-skydance",
+       "via": null
+      },
+      {
+       "id": "reuters",
+       "name": "Reuters",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Paramount wraps up mega Warner Bros merger to create Hollywood powerhouse Skydance - Reuters",
+       "desc": "Paramount wraps up mega Warner Bros merger to create Hollywood powerhouse Skydance Reuters",
+       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPU3FqSTVKTlVKYjhpTElEZG96U0k0V2hxWGFYNXk5emE4XzN2Ukpyb0dSakdPLWxoVnMzUE9uV3dmb3ZxM2x4ZE9ZNllUYjdKMElxdGFjSDdLYkVwdmY5R0FoQ3hEVDY0R2dySWdkNUhSUzNLZXg1QklURkQwY2RrUElRVWNUaFFhbC1HSXUxQ0Z5bERVYUdwLV9ZeHJ1X1YwY2tJM0ZhTm9WUFNoQXN6Y2FPYkxCUldRb0ZwNFNmUkNNaHJNSHhpc0lFaVVuS1l1cmdyUA?oc=5",
+       "via": "googlenews"
+      },
+      {
+       "id": "ap",
+       "name": "Associated Press",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Paramount completes its takeover of Warner Bros to become one Hollywood giant known as Skydance - AP News",
+       "desc": "Paramount completes its takeover of Warner Bros to become one Hollywood giant known as Skydance AP News",
+       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdFA1Sm43WnNqUXFFUzdqVm5yZVF3d205aGJ5ZWVRTHNXNTJfZmZBSTlROTMwZUZjUTJJZlEwS2hWX3p5WTBqUFUzWmtudzFBSGlHRHRZdkhIMVIxMnRwV3ZwTkQybDdZcGRGcFdDdm9YaDV5eXY5al9xNHBIZjZMc01MTVRnNjdKVHN4dUxwY1pJUUdWcTlhYkNyc3dUd3Z2bS1tTEpvNks?oc=5",
+       "via": "googlenews"
+      },
+      {
+       "id": "bloomberg",
+       "name": "Bloomberg",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Paramount Closes Warner Merger in Historic Hollywood Deal - Bloomberg.com",
+       "desc": "Paramount Closes Warner Merger in Historic Hollywood Deal Bloomberg.com",
+       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUk5fR0lGRGk1eXdUMkhkMlVWT21yYjRETXN0R1dKcExlMHB4TXQxRW16djcwTlpyemN2blVuOXEzRmVITFBFazRsVl9CT2FTRkxkOXVSRHFyLUpnandRR1hoN1VWZE5nQ2l6U2hUbFRwZnBhaUZ1MnVnVjU5STd5UWM4M3d5NExQbTZlS3dReXMzbE1va1ZtTjVPZkN2VHh2ZThtOVhFTmh1UW8yZHYxT19hOA?oc=5",
+       "via": "googlenews"
+      },
+      {
+       "id": "asahi",
+       "name": "朝日新聞",
+       "region": "jp",
+       "weight": 0.53,
+       "title": "パラマウント、ワーナー17兆円で買収完了 利用者は2億人超に",
+       "desc": "",
+       "url": "http://www.asahi.com/articles/ASVB654CMVB6SFVU2CYM.html?ref=rss",
+       "via": null
+      },
+      {
+       "id": "jiji",
+       "name": "時事通信",
+       "region": "jp",
+       "weight": 0.5,
+       "title": "ワーナー買収を完了 １７兆円規模―米パラマウント",
+       "desc": "",
+       "url": "https://www.jiji.com/jc/article?k=2026100601196&g=int&m=rss",
+       "via": null
+      },
+      {
+       "id": "nikkei",
+       "name": "日本経済新聞",
+       "region": "jp",
+       "weight": 0.5,
+       "title": "パラマウント、ワーナー17兆円買収完了 視聴者2億人巨大メディアに - 日本経済新聞",
+       "desc": "パラマウント、ワーナー17兆円買収完了 視聴者2億人巨大メディアに 日本経済新聞",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BdmlIUTR5bS15NGUyWVZlQ1VkdFBLM203R1QtdENvamZZQnlFcnQ2Zms5Q2ZLT3NmYjZLLXNGc1Zvc1ZDSElLUUFXUWxULWxfTUhnSEZNb3lwdi11WktLaTljbFEtRnVJcUNWbQ?oc=5",
+       "via": "googlenews"
+      }
+     ]
     }
    },
-   "latestTitle": "パラマウント、ワーナー・ブラザース買収へ",
+   "latestTitle": "パラマウント、ワーナー買収完了",
    "japan": false,
-   "lastSeen": "2026-10-01"
+   "lastSeen": "2026-10-07",
+   "dossier": "2026-10-07"
   },
   "s-20261001-21": {
    "id": "s-20261001-21",
@@ -4235,11 +4662,49 @@
        "via": null
       }
      ]
+    },
+    "2026-10-07": {
+     "worldScore": 7,
+     "worldCoverage": 3,
+     "jpScore": 0,
+     "jpCoverage": 0,
+     "outlets": [
+      {
+       "id": "guardian",
+       "name": "The Guardian",
+       "region": "world",
+       "weight": 0.3,
+       "title": "Saudi-backed forces recapture key areas around strait from Houthis in Yemen",
+       "desc": "Government offensive launched under air cover by Saudi military coalition aims to retake all Houthi-held territory Forces of the Saudi-led coalition fighting in Yemen have recaptured several key areas around Bab al-Mandab strait from Iran-backed Houthi rebels, Yemeni officials said on Monday. The of",
+       "url": "https://www.theguardian.com/world/2026/oct/05/saudi-forces-recapture-key-areas-strait-houthis-yemen",
+       "via": null
+      },
+      {
+       "id": "aljazeera",
+       "name": "Al Jazeera",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Yemen’s government is on the attack against the Houthis. What has changed?",
+       "desc": "Yemeni forces are trying to reverse Houthi gains, aided by heavier air power and renewed international support.",
+       "url": "https://www.aljazeera.com/news-analysis/2026/10/6/yemen-government-is-on-the-attack-against-the-houthis-what-has-changed?traffic_source=rss",
+       "via": null
+      },
+      {
+       "id": "cbs",
+       "name": "CBS News",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Iran&#039;s Houthi allies deny losing ground as Mideast crisis engulfs Yemen",
+       "desc": "Iran&#039;s Houthi allies deny losing ground to Yemen&#039;s Saudi-backed military, but oil prices ease despite the Middle East crisis erupting in a battle over control of another key waterway.",
+       "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-oil-prices-yemen-red-sea-houthis-bab-el-mandeb/",
+       "via": null
+      }
+     ]
     }
    },
-   "latestTitle": "イエメン政府軍、紅海の要衝を奪還",
+   "latestTitle": "サウジ支援勢力がイエメンでフーシ派と交戦",
    "japan": false,
-   "lastSeen": "2026-10-06",
+   "lastSeen": "2026-10-07",
    "dossier": "2026-10-06"
   },
   "s-20261005-03": {
@@ -4784,11 +5249,70 @@
        "via": "googlenews"
       }
      ]
+    },
+    "2026-10-07": {
+     "worldScore": 16,
+     "worldCoverage": 5,
+     "jpScore": 0,
+     "jpCoverage": 0,
+     "outlets": [
+      {
+       "id": "bbc",
+       "name": "BBC",
+       "region": "world",
+       "weight": 0.88,
+       "title": "Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments",
+       "desc": "New York Attorney General Letitia James is investigating the rape allegations, but the lawyer says comments she made on the case should disqualify her.",
+       "url": "https://www.bbc.co.uk/news/articles/c9p8gxygvpg6o?at_medium=RSS&at_campaign=rss",
+       "via": null
+      },
+      {
+       "id": "aljazeera",
+       "name": "Al Jazeera",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Cornell names Sally Yates to review university’s response to rape case",
+       "desc": "Yates will examine Cornell’s sexual assault investigations, disciplinary process and campus police response.",
+       "url": "https://www.aljazeera.com/news/2026/10/6/cornell-names-sally-yates-to-review-universitys-response-to-rape-case?traffic_source=rss",
+       "via": null
+      },
+      {
+       "id": "straits",
+       "name": "The Straits Times",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Cornell hires ex-Justice Dept official Yates to review rape claims response",
+       "desc": "Oct 6 - Cornell University has hired a top former US Justice Department lawyer for an internal investigation of how it handled a student's allegations that she was gang-raped, a case that has brought mounting scrutiny and triggered student protests at the Ivy League school.",
+       "url": "https://www.straitstimes.com/world/cornell-hires-ex-justice-dept-official-yates-to-review-rape-claims-response",
+       "via": null
+      },
+      {
+       "id": "reuters",
+       "name": "Reuters",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Cornell hires ex-Justice Dept official Yates to review rape claims response - Reuters",
+       "desc": "Cornell hires ex-Justice Dept official Yates to review rape claims response Reuters",
+       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQWZ4aGFhZzhGZ21NLXp3WHJlT2J4MWtpakdMVlFDd2Vxb3hreWZFQWlwZ0lhM0NSNEotOEY2QmpCMFhOYVJCUWZyQlJrS3g0WjBjRWNkVGxNdEVqRlBtZmU5US1ueFM1U3EyaExfZWJzLWRQR0x6Sm5pSGZkcFFRdDZrX0VXMi1hc2lNMUg4X25pckJMdWViYkZxdDI0VzZpTVpSUE1jOTlrZGstdXJLS0M3eVhKelJBeUp1VEotNWtHa3M?oc=5",
+       "via": "googlenews"
+      },
+      {
+       "id": "ap",
+       "name": "Associated Press",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Cornell brings in ex-Justice official Sally Yates to review school’s handling of sex assault claims - AP News",
+       "desc": "Cornell brings in ex-Justice official Sally Yates to review school’s handling of sex assault claims AP News",
+       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT19JZUxESnFXdWhiQ0Y4VHJleU43bThEd01zVkpMNVNfMmF0ZlVKa2ppNkFad2pWZ3A4UHRwcXNVeDJFTy1VcnFDbzlNVGd1SUpXanR0RGw0WUMzRTdZOTRFelM0N3pCOHRBNnN3dF80LW1EUm8yRHlfTEJsWEN6NnpLa1JCR3R3dmRiUzZRS1FzLW9COTMyY3pjVXBobTZVMF83cm1BMG04YXp6OUE?oc=5",
+       "via": "googlenews"
+      }
+     ]
     }
    },
-   "latestTitle": "米コーネル大レイプ訴訟で原告に脅迫",
+   "latestTitle": "コーネル大レイプ訴訟巡り弁護士の発言問題化",
    "japan": false,
-   "lastSeen": "2026-10-05"
+   "lastSeen": "2026-10-07",
+   "dossier": "2026-10-07"
   },
   "s-20261005-08": {
    "id": "s-20261005-08",
@@ -5910,11 +6434,110 @@
        "via": null
       }
      ]
+    },
+    "2026-10-07": {
+     "worldScore": 26,
+     "worldCoverage": 9,
+     "jpScore": 0,
+     "jpCoverage": 0,
+     "outlets": [
+      {
+       "id": "aljazeera",
+       "name": "Al Jazeera",
+       "region": "world",
+       "weight": 0.5,
+       "title": "US CDC says it’s ‘aware of and closely monitoring’ Russian plague case",
+       "desc": "The top US public health agency&#039;s remarks come as the Trump administration said it’s &#039;closely&#039; watching the incident.",
+       "url": "https://www.aljazeera.com/news-analysis/2026/10/6/us-cdc-says-its-aware-of-and-closely-monitoring-russian-plague-case?traffic_source=rss",
+       "via": null
+      },
+      {
+       "id": "dw",
+       "name": "Deutsche Welle",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Fact check: Misleading claims spark plague fears in Russia",
+       "desc": "The death of a lab worker at a plague research institute in Russia has sparked claims about a lab accident, hundreds of infections and international spread. Some of these viral narratives are misleading.",
+       "url": "https://www.dw.com/en/fact-check-misleading-claims-spark-plague-fears-in-russia/a-79560752?maca=en-rss-en-world-4025-rdf",
+       "via": null
+      },
+      {
+       "id": "france24",
+       "name": "France 24",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Russian lab worker’s death sparks plague fears as unverified claims spread online",
+       "desc": "The death of a 28-year-old Russian lab worker at Siberia’s Irkutsk Anti-Plague Institute has sparked online panic about a ‘plague’, despite the WHO assessing the public health risk in Russia as low. Unverified claims about how she became ill, including a laboratory accident involving a test tube, ar",
+       "url": "https://www.france24.com/en/russian-lab-worker-s-death-sparks-plague-fears-as-unverified-claims-spread-online-1",
+       "via": null
+      },
+      {
+       "id": "euronews",
+       "name": "Euronews",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Russia denies plague death but quarantines hundreds without explanation",
+       "desc": "Rospotrebnadzor said Darya Shipilova, 28, died of \"pneumonia of unknown aetiology\" with no links to her work at the Irkutsk Anti-Plague Institute, but imposed quarantine on her contacts, confined 60 colleagues inside the facility and restricted access to hospitals including a maternity ward.",
+       "url": "https://www.euronews.com/2026/10/06/russia-denies-plague-death-but-quarantines-hundreds-without-explanation",
+       "via": null
+      },
+      {
+       "id": "sky",
+       "name": "Sky News",
+       "region": "world",
+       "weight": 0.86,
+       "title": "Plague risk to UK 'very low', officials say after Russian woman's death",
+       "desc": "The risk to the UK from plague is very low, the UK Health Security Agency (UKHSA) has said, after the death of a laboratory worker in Russia who may have been exposed to pneumonic plague.",
+       "url": "https://news.sky.com/story/ukhsa-says-risk-of-plague-very-low-after-russian-laboratory-worker-dies-of-suspected-pneumonic-plague-13595782",
+       "via": null
+      },
+      {
+       "id": "abc-au",
+       "name": "ABC Australia",
+       "region": "world",
+       "weight": 0.33,
+       "title": "Russia rails against online 'plague' claims, but few in Irkutsk trust authorities",
+       "desc": "Russia's health watchdog warns fake information is circulating online about a mystery illness amid growing questions about the death of a woman in Siberia last week.",
+       "url": "https://www.abc.net.au/news/2026-10-07/many-irkutsk-people-do-not-trust-authorities-on-researcher-death/107236512",
+       "via": null
+      },
+      {
+       "id": "cbs",
+       "name": "CBS News",
+       "region": "world",
+       "weight": 0.5,
+       "title": "What to know about plague amid reports of worker death at Russian lab",
+       "desc": "Reports of a lab worker dying in Russia after allegedly being exposed to plague have raised concerns, even as the WHO says the public health risk is low.",
+       "url": "https://www.cbsnews.com/news/plague-russia-lab-worker-death-what-to-know/",
+       "via": null
+      },
+      {
+       "id": "reuters",
+       "name": "Reuters",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Explainer: What do we know about plague institute lab worker's death in Russia? - Reuters",
+       "desc": "Explainer: What do we know about plague institute lab worker's death in Russia? Reuters",
+       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYUFLWEN2NFBKRTc4cmlyODFkYkVIcUxoeHBBUTQ3VmVLaVFya2dyTDJIZEJfQUk0NnNrbW9XX0gzYkpMNlBBaVhjVlpYUldNbkI3QlljTG5xZ3dsMnZuQkpGdFcxaGFPelQxRUtZRjZwcEJfVW0zNDdsS0M1eXEzRElUeXdBWTNvbndjNXl4UnZsd25GWXhlc2thV0E1WTMxSnVYblBUYmZVVzFmb182dHFlaU1XOGNwall2b21pVlNRTl9pWHNibzYwVjk5bTcz?oc=5",
+       "via": "googlenews"
+      },
+      {
+       "id": "ap",
+       "name": "Associated Press",
+       "region": "world",
+       "weight": 0.5,
+       "title": "How Russia and the world are responding to a possible case of pneumonic plague after lab worker dies - AP News",
+       "desc": "How Russia and the world are responding to a possible case of pneumonic plague after lab worker dies AP News",
+       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdHd5LXpXdGhUNXZhbEdVWVhSa2FtSUp6Zk5Yekk4UEtlQ3FmOFk4SGh3RmZkSHJmbGJpNXFlMWRTZmd1Q0dlZXo4NGxyTzYxNVk3TEZQOGpwVWE1YlFCcmNFNU5EZE41LUQ4dGh6UXB6S2MxSmhLSTVHTFh1dkpFV2R4azFfZTlpMUFwa3Q3RGZ3alRfMVE?oc=5",
+       "via": "googlenews"
+      }
+     ]
     }
    },
-   "latestTitle": "露ペスト研究所で職員死亡、米注視",
+   "latestTitle": "ロシアの研究所員死亡とペスト菌への懸念",
    "japan": false,
-   "lastSeen": "2026-10-06"
+   "lastSeen": "2026-10-07",
+   "dossier": "2026-10-07"
   },
   "s-20261006-02": {
    "id": "s-20261006-02",
@@ -6654,11 +7277,39 @@
        "via": null
       }
      ]
+    },
+    "2026-10-07": {
+     "worldScore": 0,
+     "worldCoverage": 0,
+     "jpScore": 19,
+     "jpCoverage": 2,
+     "outlets": [
+      {
+       "id": "yahoo-world",
+       "name": "Yahoo!ニュース 国際",
+       "region": "jp",
+       "weight": 0.65,
+       "title": "アサヒGHDも被害のハッカー集団「Qilin」とは？ 100カ国超で被害 中心メンバーを日本で拘束(テレビ朝日系（ANN）)",
+       "desc": "日本の捜査当局が「Qilin（キリン）」と呼ばれる国際ハッカー集団の中心メンバーの男を拘束し、今月、身柄をドイツ側に引き渡したことがわかった。身代金要求型のコンピューターウイルス「ランサムウェア」でサ",
+       "url": "https://news.yahoo.co.jp/articles/a6efb2f66035a6fe638b18a45ef6d2a16e0ad674?source=rss",
+       "via": null
+      },
+      {
+       "id": "nikkei",
+       "name": "日本経済新聞",
+       "region": "jp",
+       "weight": 0.5,
+       "title": "ランサム集団メンバーを拘束、ドイツに引き渡し アサヒ攻撃で声明 - 日本経済新聞",
+       "desc": "ランサム集団メンバーを拘束、ドイツに引き渡し アサヒ攻撃で声明 日本経済新聞",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KVnVIWVRGVDJJRkpZME5kQU1DblhaMFpPbWd4TmxxcEZmWl9MTGZTenpDMjNMQWYzU1B4VDR5RWhNRjRiMEtlamczTGdpVTN6VmhKV3FxSllrTnN6WF9IYmVJVU5oLWhMS2JtUg?oc=5",
+       "via": "googlenews"
+      }
+     ]
     }
    },
-   "latestTitle": "ハッカー集団メンバーを日本で拘束",
+   "latestTitle": "ハッカー集団メンバーを日本で拘束、独へ引き渡し",
    "japan": true,
-   "lastSeen": "2026-10-06"
+   "lastSeen": "2026-10-07"
   },
   "s-20261006-15": {
    "id": "s-20261006-15",
@@ -7064,11 +7715,39 @@
        "via": "googlenews"
       }
      ]
+    },
+    "2026-10-07": {
+     "worldScore": 7,
+     "worldCoverage": 2,
+     "jpScore": 0,
+     "jpCoverage": 0,
+     "outlets": [
+      {
+       "id": "bbc",
+       "name": "BBC",
+       "region": "world",
+       "weight": 0.59,
+       "title": "Nigeria mourns 25 killed as military plane crashes into swamp",
+       "desc": "President Bola Tinubu describes the crash as a \"painful moment\" for the military and the entire nation.",
+       "url": "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss",
+       "via": null
+      },
+      {
+       "id": "sky",
+       "name": "Sky News",
+       "region": "world",
+       "weight": 0.72,
+       "title": "Plane carrying 25 crashes with no survivors",
+       "desc": "A plane crash in Nigeria killed all 25 on board, the country’s air force said.",
+       "url": "https://news.sky.com/story/plane-crashes-in-nigeria-killing-all-25-people-on-board-13595764",
+       "via": null
+      }
+     ]
     }
    },
-   "latestTitle": "ナイジェリアで軍用機墜落、32人死",
+   "latestTitle": "ナイジェリアで軍用機墜落、多数死亡",
    "japan": false,
-   "lastSeen": "2026-10-06"
+   "lastSeen": "2026-10-07"
   },
   "s-20261006-25": {
    "id": "s-20261006-25",
@@ -7140,11 +7819,50 @@
        "via": null
       }
      ]
+    },
+    "2026-10-07": {
+     "worldScore": 10,
+     "worldCoverage": 3,
+     "jpScore": 0,
+     "jpCoverage": 0,
+     "outlets": [
+      {
+       "id": "guardian",
+       "name": "The Guardian",
+       "region": "world",
+       "weight": 0.62,
+       "title": "Coalition’s migration plan risks breaching India free trade agreement and damaging economy, advocates warn",
+       "desc": "Angus Taylor’s drastic cuts to graduate visas aim to end a citizenship pathway, but universities body says changes will make Australia less competitive Get our new political email , free app or daily news podcast The Coalition’s migration plan risks breaching Australia’s free trade agreement with In",
+       "url": "https://www.theguardian.com/australia-news/2026/oct/07/coalition-migration-policy-reaction-universities-students-economy-india-ntwnfb",
+       "via": null
+      },
+      {
+       "id": "dw",
+       "name": "Deutsche Welle",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Australia's migrant policy offers lessons for EU and US",
+       "desc": "Australia has used offshore processing centers to deter asylum seekers for more than two decades. As the EU and US pursue similar third-country arrangements, Australia's experience highlights the potential problems.",
+       "url": "https://www.dw.com/en/australia-s-migrant-policy-offers-lessons-for-eu-and-us/a-79388096?maca=en-rss-en-world-4025-rdf",
+       "via": null
+      },
+      {
+       "id": "abc-au",
+       "name": "ABC Australia",
+       "region": "world",
+       "weight": 0.68,
+       "title": "Live: Taylor says 'vested interests' won't stop Coalition from cutting migration",
+       "desc": "Angus Taylor has hit back at business sector criticism of the Coalition's plan to bring down net overseas migration. Follow live.",
+       "url": "https://www.abc.net.au/news/2026-10-07/federal-politics-live-blog-taylor-migration/107235708",
+       "via": null
+      }
+     ]
     }
    },
-   "latestTitle": "豪野党、政権獲得なら移民削減へ",
+   "latestTitle": "豪州の移民政策巡る議論",
    "japan": false,
-   "lastSeen": "2026-10-06"
+   "lastSeen": "2026-10-07",
+   "dossier": "2026-10-07"
   },
   "s-20261006-27": {
    "id": "s-20261006-27",
@@ -7649,6 +8367,894 @@
    "latestTitle": "ウクライナの都市が飢餓に直面",
    "japan": false,
    "lastSeen": "2026-10-06"
+  },
+  "s-20261007-01": {
+   "id": "s-20261007-01",
+   "title": "ドイツ前情報局長をスパイ容疑で逮捕",
+   "firstSeen": "2026-10-07",
+   "days": {
+    "2026-10-07": {
+     "worldScore": 21,
+     "worldCoverage": 6,
+     "jpScore": 8,
+     "jpCoverage": 1,
+     "outlets": [
+      {
+       "id": "bbc",
+       "name": "BBC",
+       "region": "world",
+       "weight": 0.94,
+       "title": "Former German spy chief arrested for espionage and treason",
+       "desc": "August Hanning is accused of obtaining classified information for a foreign power.",
+       "url": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
+       "via": null
+      },
+      {
+       "id": "nyt",
+       "name": "New York Times",
+       "region": "world",
+       "weight": 0.77,
+       "title": "German Officials Arrest Former Spy Chief on Espionage Charges",
+       "desc": "August Hanning is accused of helping foreign governments. His arrest shook the German political world and had roots in a steakhouse-heiress kidnapping plot.",
+       "url": "https://www.nytimes.com/2026/10/06/world/europe/germany-spy-chief-hanning-arrested-espionage.html",
+       "via": null
+      },
+      {
+       "id": "france24",
+       "name": "France 24",
+       "region": "world",
+       "weight": 0.5,
+       "title": "German ex-spy chief arrested for suspected espionage, treason",
+       "desc": "A former German spy chief was arrested Tuesday on suspicion of espionage and treason, an embarrassing case at a time when the country is seeking to broaden the powers of its intelligence agencies. August Hanning, who ran Germany's BND foreign intelligence agency from 1998 to 2005, is accused of espi",
+       "url": "https://www.france24.com/en/german-ex-spy-chief-arrested-for-suspected-espionage-treason",
+       "via": null
+      },
+      {
+       "id": "npr",
+       "name": "NPR",
+       "region": "world",
+       "weight": 0.61,
+       "title": "Ex-spy chief is arrested in Germany on suspicion of trading state secrets and treason",
+       "desc": "A former head of Germany 's foreign intelligence service was arrested on suspicion that he had passed state secrets to a foreign intelligence service, the federal prosecutor's office said.",
+       "url": "https://www.npr.org/2026/10/06/g-s1-146630/germany-ex-spy-chief-state-secrets",
+       "via": null
+      },
+      {
+       "id": "ap",
+       "name": "Associated Press",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Ex-spy chief is arrested in Germany on suspicion of trading state secrets and treason - AP News",
+       "desc": "Ex-spy chief is arrested in Germany on suspicion of trading state secrets and treason AP News",
+       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSE1QSWgzLVNrRy1fbFdqc0FwdkctYmcyZ2UxcmxxdWdyRENwM3VKSFpqbnpxVUdpcHJISDlpVV96eDdSV3pyZ0UzZUtRZzR1UEhIQlNhaDdjRVVNWUJrN3dyRDAyMTZjcl9rbWx2QW54ZkV4V1lRNXU5bFJURmlhTG42RkxHODJPWmpOWi1hOWVMVDY1N1phMVJrZWtUSDNOcS0zWWdvZlBBNU1YOFNwWmdYaGMzcFg4ODd2c1dB?oc=5",
+       "via": "googlenews"
+      },
+      {
+       "id": "ft",
+       "name": "Financial Times",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Former German spy chief arrested for treason - Financial Times",
+       "desc": "Former German spy chief arrested for treason Financial Times",
+       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSy1CQnlnLUtOdFJ3aTZtTFVjbzg2RDJncHU3V3RidWl3Zk5aY1BlNUxPU3RaUGI5UGRJQ0NQcEVpenVpZmQxemVPOFhuT2xtUHJMTEQ2OUpkald6ck81VGhoXzZIZWNjM29yYXg0MjZFTnk4ZGVtN09rUDF4VVNVRjZfUjY?oc=5",
+       "via": "googlenews"
+      },
+      {
+       "id": "nikkei",
+       "name": "日本経済新聞",
+       "region": "jp",
+       "weight": 0.5,
+       "title": "ドイツ捜査当局、情報機関の元トップを逮捕 スパイ容疑など - 日本経済新聞",
+       "desc": "ドイツ捜査当局、情報機関の元トップを逮捕 スパイ容疑など 日本経済新聞",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MVjVzOTMtcHBIbDFmX1NYeWQ2MHMwcms1UzVwMEE2WWJOeUE3UVZ0MUdQSEh0SzlaTmF1alg2dW1UejRQN1YzVW1NZUUzdFJ4NlhubzZfNVRKbHhXRkdGby1pYjZmeVVqcW5ZSw?oc=5",
+       "via": "googlenews"
+      }
+     ]
+    }
+   },
+   "latestTitle": "ドイツ前情報局長をスパイ容疑で逮捕",
+   "japan": false,
+   "lastSeen": "2026-10-07"
+  },
+  "s-20261007-02": {
+   "id": "s-20261007-02",
+   "title": "黒海でドローン攻撃、商船が被災",
+   "firstSeen": "2026-10-07",
+   "days": {
+    "2026-10-07": {
+     "worldScore": 18,
+     "worldCoverage": 5,
+     "jpScore": 0,
+     "jpCoverage": 0,
+     "outlets": [
+      {
+       "id": "bbc",
+       "name": "BBC",
+       "region": "world",
+       "weight": 0.91,
+       "title": "Ship sinks and crew missing after Black Sea drone attack",
+       "desc": "It is not clear who is behind the attacks which come as Russia intensifies strikes in the Black Sea as part of its war against Ukraine.",
+       "url": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&at_campaign=rss",
+       "via": null
+      },
+      {
+       "id": "aljazeera",
+       "name": "Al Jazeera",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Ship sinks off Bulgaria after drone attack in Black Sea",
+       "desc": "Ship sinks off Bulgaria after drone attack in Black Sea",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/ship-sinks-off-bulgaria-after-drone-attack-in-black-sea?traffic_source=rss",
+       "via": null
+      },
+      {
+       "id": "nyt",
+       "name": "New York Times",
+       "region": "world",
+       "weight": 0.8,
+       "title": "Drones Hit Ships Off Bulgaria’s Black Sea Coast, Prime Minister Says",
+       "desc": "A rescue effort was underway, Prime Minister Rumen Radev said, after one of the two ships sank. It was not immediately clear where the drones originated.",
+       "url": "https://www.nytimes.com/2026/10/06/world/europe/bulgaria-drones-black-sea.html",
+       "via": null
+      },
+      {
+       "id": "straits",
+       "name": "The Straits Times",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Russia says tanker crew rescued in Black Sea after attack set ship ablaze",
+       "desc": "MOSCOW, Oct 6 - Emergency crews on Tuesday rescued the 23-member crew of a Liberian-flagged tanker, the Aframax Rio, which was set ablaze off Russia's Black Sea coast after coming under attack from an unmanned vessel, the Russian Transport Ministry said.",
+       "url": "https://www.straitstimes.com/world/europe/russia-says-tanker-crew-rescued-in-black-sea-after-attack-set-ship-ablaze",
+       "via": null
+      },
+      {
+       "id": "ap",
+       "name": "Associated Press",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Bulgaria's leader says drone attack hits 2 commercial vessels, and Ukraine's president blames Russia - AP News",
+       "desc": "Bulgaria's leader says drone attack hits 2 commercial vessels, and Ukraine's president blames Russia AP News",
+       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaU5DemRLSkhTVjNkckR2UjdISjRuV05vRjh3OHNUOWhTOUpQeDluSnl4QktrUHlad0VBakVfNjUzSHhnUXZvYXd4N1dydU96anliOERsckxiVWJVRXEtZXVyWGhtOEdDczl4VW41YndjczVKM0l0RnY1dGFkLTFETW4tZXhTT1R3UXI4dFVtVkd4dVltNlNiREdVRlVmSWxyVnMxYlI3enZqWHpIQVFZ?oc=5",
+       "via": "googlenews"
+      }
+     ]
+    }
+   },
+   "latestTitle": "黒海でドローン攻撃、商船が被災",
+   "japan": false,
+   "lastSeen": "2026-10-07"
+  },
+  "s-20261007-03": {
+   "id": "s-20261007-03",
+   "title": "フィンランド、グーグルのデータセンター事業停止",
+   "firstSeen": "2026-10-07",
+   "days": {
+    "2026-10-07": {
+     "worldScore": 8,
+     "worldCoverage": 2,
+     "jpScore": 0,
+     "jpCoverage": 0,
+     "outlets": [
+      {
+       "id": "bbc",
+       "name": "BBC",
+       "region": "world",
+       "weight": 0.85,
+       "title": "Finland orders halt to work on two Google data centres",
+       "desc": "The order affecting two planned data centres follows concerns over forest clearance.",
+       "url": "https://www.bbc.co.uk/news/articles/cvj6jkx6g1r0o?at_medium=RSS&at_campaign=rss",
+       "via": null
+      },
+      {
+       "id": "guardian",
+       "name": "The Guardian",
+       "region": "world",
+       "weight": 0.53,
+       "title": "Google told to halt work on datacentres in Finland over environmental concerns",
+       "desc": "Order on two construction sites comes after Google failed to carry out environmental impact assessments Google has been ordered to temporarily stop work on two datacentres in Finland after failing to do the necessary environmental impact assessments on its construction sites. The planned datacentres",
+       "url": "https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment",
+       "via": null
+      }
+     ]
+    }
+   },
+   "latestTitle": "フィンランド、グーグルのデータセンター事業停止",
+   "japan": false,
+   "lastSeen": "2026-10-07"
+  },
+  "s-20261007-04": {
+   "id": "s-20261007-04",
+   "title": "ケニアでエボラ出血熱初確認",
+   "firstSeen": "2026-10-07",
+   "days": {
+    "2026-10-07": {
+     "worldScore": 20,
+     "worldCoverage": 5,
+     "jpScore": 0,
+     "jpCoverage": 0,
+     "outlets": [
+      {
+       "id": "bbc",
+       "name": "BBC",
+       "region": "world",
+       "weight": 0.82,
+       "title": "Kenya confirms its first Ebola death as outbreak spreads",
+       "desc": "The patient had been living in DR Congo, where more than 4,000 people have died from the disease this year.",
+       "url": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss",
+       "via": null
+      },
+      {
+       "id": "guardian",
+       "name": "The Guardian",
+       "region": "world",
+       "weight": 1,
+       "title": "Kenya confirms first Ebola case as virus ‘surges’ in DR Congo province",
+       "desc": "Health minister says 28 contacts identified after death of citizen who arrived from DRC on Saturday Kenya has reported its first-ever Ebola death, the health minister announced on Tuesday, as the disease continues to spread rapidly through the north-east of the Democratic Republic of Congo (DRC), wh",
+       "url": "https://www.theguardian.com/world/2026/oct/06/kenya-first-ebola-case-death-drc",
+       "via": null
+      },
+      {
+       "id": "aljazeera",
+       "name": "Al Jazeera",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Kenya confirms first Ebola case as man dies in Nairobi after DRC return",
+       "desc": "More than 4,000 people have died in the worst outbreak in the DR Congo&#039;s history, with confirmed cases surpassing 8,300.",
+       "url": "https://www.aljazeera.com/news/2026/10/6/kenya-confirms-first-ebola-case-after-patient-from-dr-congo-dies-in-nairobi?traffic_source=rss",
+       "via": null
+      },
+      {
+       "id": "nyt",
+       "name": "New York Times",
+       "region": "world",
+       "weight": 0.82,
+       "title": "Kenya Records Ebola Case for First Time",
+       "desc": "The authorities said that the virus had been diagnosed in a man arriving from the Democratic Republic of Congo and that they were taking measures to prevent any spread.",
+       "url": "https://www.nytimes.com/2026/10/06/world/africa/kenya-case-ebola-outbreak.html",
+       "via": null
+      },
+      {
+       "id": "france24",
+       "name": "France 24",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Kenya reports first-ever Ebola death after patient returns from DR Congo",
+       "desc": "Kenya on Tuesday reported its first-ever Ebola death after a Kenyan national who had been living in the Democratic Republic of Congo (DR Congo) died after returning to the country. Kenya is the fourth country to record an Ebola case in the current outbreak, which was declared in eastern DR Congo in ",
+       "url": "https://www.france24.com/en/africa/20261006-kenya-reports-first-ever-ebola-death-after-patient-returns-from-dr-congo",
+       "via": null
+      }
+     ]
+    }
+   },
+   "latestTitle": "ケニアでエボラ出血熱初確認",
+   "japan": false,
+   "lastSeen": "2026-10-07"
+  },
+  "s-20261007-05": {
+   "id": "s-20261007-05",
+   "title": "ノーベル物理学賞に南極のニュートリノ観測チーム",
+   "firstSeen": "2026-10-07",
+   "days": {
+    "2026-10-07": {
+     "worldScore": 9,
+     "worldCoverage": 3,
+     "jpScore": 34,
+     "jpCoverage": 4,
+     "outlets": [
+      {
+       "id": "bbc",
+       "name": "BBC",
+       "region": "world",
+       "weight": 0.8,
+       "title": "'Ghost particles' from space telescope wins physics Nobel",
+       "desc": "Belgian physicist Prof Francis Halzen has won for his pioneering work on an observatory that detects particles from space.",
+       "url": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss",
+       "via": null
+      },
+      {
+       "id": "npr",
+       "name": "NPR",
+       "region": "world",
+       "weight": 0.38,
+       "title": "Francis Halzen wins Nobel Prize in physics for work on high-energy neutrinos from space",
+       "desc": "The 82-year-old scientist, originally from Belgium, is affiliated with the University of Wisconsin–Madison. His research into capturing neutrinos at the South Pole dates back to the 1980s.",
+       "url": "https://www.npr.org/2026/10/06/g-s1-146622/nobel-prize-physics",
+       "via": null
+      },
+      {
+       "id": "ap",
+       "name": "Associated Press",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Scientist who hunts mysterious ghost particles in the Antarctic ice wins Nobel Prize for physics - AP News",
+       "desc": "Scientist who hunts mysterious ghost particles in the Antarctic ice wins Nobel Prize for physics AP News",
+       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZmJnQWlBaEFuZTZWYXBFREx3WHdNaGk4b3FpRTFuc0Y3TmxfTXBaMl9GV0tTQVVHMkxwVlBwZm15WnBubnhEdUphVlc4cTVGUndzQVctUEVTWUNJTzE3VEhwdEtBZEtGVHl0YTlUOGItOVRhQWw4cjNQVFJkVGVRYlVsYWNZbFR0Rl9qcXgwYw?oc=5",
+       "via": "googlenews"
+      },
+      {
+       "id": "mainichi",
+       "name": "毎日新聞",
+       "region": "jp",
+       "weight": 0.5,
+       "title": "「誰も見たことない宇宙見た」 アイスキューブ参加の千葉大教授",
+       "desc": "",
+       "url": "https://mainichi.jp/articles/20261006/k00/00m/040/306000c",
+       "via": null
+      },
+      {
+       "id": "jiji",
+       "name": "時事通信",
+       "region": "jp",
+       "weight": 0.5,
+       "title": "千葉大教授ら「大変うれしい」 アイスキューブ参加―ノーベル賞",
+       "desc": "",
+       "url": "https://www.jiji.com/jc/article?k=2026100601124&g=soc&m=rss",
+       "via": null
+      },
+      {
+       "id": "yahoo-world",
+       "name": "Yahoo!ニュース 国際",
+       "region": "jp",
+       "weight": 0.53,
+       "title": "ノーベル物理学賞にハルツェン氏 南極でニュートリノ観測 千葉大学も研究に参加(テレビ朝日系（ANN）)",
+       "desc": "今年のノーベル物理学賞が発表され、アメリカの大学のフランシス・ハルツェン教授（82）が選ばれました。【動画】千葉大学の会見 ノーベル物理学賞に関わる「アイスキューブ」研究に参加 ハルツェン教授は南極に",
+       "url": "https://news.yahoo.co.jp/articles/9c44689534019eed0adecf3eed3018326d48b57a?source=rss",
+       "via": null
+      },
+      {
+       "id": "nikkei",
+       "name": "日本経済新聞",
+       "region": "jp",
+       "weight": 0.5,
+       "title": "ノーベル物理学賞に米研究者 南極でニュートリノ観測、千葉大も参加 - 日本経済新聞",
+       "desc": "ノーベル物理学賞に米研究者 南極でニュートリノ観測、千葉大も参加 日本経済新聞",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YSFRoX3Z1NS12VW1xaGJ6STBabUphb2tOZ0VLblZvSHlfazV5Rjh1aDkwdTNGR1FvME9Qd3FtSUdBQ2s0b29qSFVPdTdwRHcydzlaY0FTeGtFWlhXYlpXODBYdnNka0hPOHozSg?oc=5",
+       "via": "googlenews"
+      }
+     ]
+    }
+   },
+   "latestTitle": "ノーベル物理学賞に南極のニュートリノ観測チーム",
+   "japan": false,
+   "lastSeen": "2026-10-07"
+  },
+  "s-20261007-06": {
+   "id": "s-20261007-06",
+   "title": "ドイツ地方議会で極右政党の議長初選出",
+   "firstSeen": "2026-10-07",
+   "days": {
+    "2026-10-07": {
+     "worldScore": 9,
+     "worldCoverage": 3,
+     "jpScore": 0,
+     "jpCoverage": 0,
+     "outlets": [
+      {
+       "id": "bbc",
+       "name": "BBC",
+       "region": "world",
+       "weight": 0.77,
+       "title": "AfD candidate elected speaker of German regional parliament for first time",
+       "desc": "Although Tobias Rausch's role is largely symbolic, opponents have described the result as a watershed moment.",
+       "url": "https://www.bbc.co.uk/news/articles/c54g1m2g1pg3o?at_medium=RSS&at_campaign=rss",
+       "via": null
+      },
+      {
+       "id": "guardian",
+       "name": "The Guardian",
+       "region": "world",
+       "weight": 0.45,
+       "title": "State parliament elects Germany’s first far-right speaker since second world war",
+       "desc": "Tobias Rausch secures role of president in Saxony-Anhalt after AfD’s election breakthrough Europe live – latest updates Alternative für Deutschland has become Germany’s first far-right party to secure the position of speaker of a regional parliament since the second world war. Tobias Rausch, a forme",
+       "url": "https://www.theguardian.com/world/2026/oct/06/germany-afd-first-far-right-tobias-rausch-speaker-since-war",
+       "via": null
+      },
+      {
+       "id": "nyt",
+       "name": "New York Times",
+       "region": "world",
+       "weight": 0.39,
+       "title": "Germany’s Far Right Claims Its First Statehouse Speaker Since 1945",
+       "desc": "After winning a state election last month, the Alternative for Germany is the first far-right party to oversee a state legislature since the Nazi era.",
+       "url": "https://www.nytimes.com/2026/10/06/world/europe/germany-afd-saxony-anhalt.html",
+       "via": null
+      }
+     ]
+    }
+   },
+   "latestTitle": "ドイツ地方議会で極右政党の議長初選出",
+   "japan": false,
+   "lastSeen": "2026-10-07"
+  },
+  "s-20261007-07": {
+   "id": "s-20261007-07",
+   "title": "インド野党議員らが選挙管理委員会への抗議で拘束",
+   "firstSeen": "2026-10-07",
+   "days": {
+    "2026-10-07": {
+     "worldScore": 10,
+     "worldCoverage": 3,
+     "jpScore": 0,
+     "jpCoverage": 0,
+     "outlets": [
+      {
+       "id": "bbc",
+       "name": "BBC",
+       "region": "world",
+       "weight": 0.74,
+       "title": "Indian opposition MPs detained in protest against election chief",
+       "desc": "Opposition leaders have alleged that CEC Gyanesh Kumar manipulated voter rolls to favour Prime Minister Narendra Modi's party during elections.",
+       "url": "https://www.bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss",
+       "via": null
+      },
+      {
+       "id": "aljazeera",
+       "name": "Al Jazeera",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Indian opposition leaders detained during voter lists protest",
+       "desc": "Police detained Indian opposition leaders during a protest outside the Election Commission in New Delhi where lawmakers",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/indian-opposition-leaders-detained-during-voter-lists-protest?traffic_source=rss",
+       "via": null
+      },
+      {
+       "id": "scmp",
+       "name": "South China Morning Post",
+       "region": "world",
+       "weight": 0.5,
+       "title": "India opposition lawmakers detained over protest against election chief",
+       "desc": "Indian police detained several opposition lawmakers in the capital of New Delhi on Tuesday for trying to breach barricades during a protest march to demand the resignation of the election chief over a controversial revision of voter lists. The march presents a fresh political challenge to Prime Mini",
+       "url": "https://www.scmp.com/news/asia/south-asia/article/3369942/india-opposition-lawmakers-detained-over-protest-against-election-chief?utm_source=rss_feed",
+       "via": null
+      }
+     ]
+    }
+   },
+   "latestTitle": "インド野党議員らが選挙管理委員会への抗議で拘束",
+   "japan": false,
+   "lastSeen": "2026-10-07"
+  },
+  "s-20261007-08": {
+   "id": "s-20261007-08",
+   "title": "トランプ氏のロサンゼルス等巡る発言に反発",
+   "firstSeen": "2026-10-07",
+   "days": {
+    "2026-10-07": {
+     "worldScore": 19,
+     "worldCoverage": 6,
+     "jpScore": 12,
+     "jpCoverage": 1,
+     "outlets": [
+      {
+       "id": "bbc",
+       "name": "BBC",
+       "region": "world",
+       "weight": 0.71,
+       "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
+       "desc": "Gavin Newsom called the remarks \"deranged\", but the White House said Trump was warning of the risk of a nuclear Iran.",
+       "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
+       "via": null
+      },
+      {
+       "id": "nyt",
+       "name": "New York Times",
+       "region": "world",
+       "weight": 0.36,
+       "title": "Trump Suggests Iran Could ‘Take Out’ L.A. or San Diego, Drawing Anger From California Leaders",
+       "desc": "Gov. Gavin Newsom called the president “dangerous and deranged” after his remarks at a political rally, where Mr. Trump said the Iran war was necessary to “keep the world safe.”",
+       "url": "https://www.nytimes.com/2026/10/06/world/asia/trump-los-angeles-san-diego-iran.html",
+       "via": null
+      },
+      {
+       "id": "scmp",
+       "name": "South China Morning Post",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Trump says Iran could ‘take out’ Los Angeles or San Diego, drawing backlash",
+       "desc": "US President Donald Trump suggested to a crowd of his supporters in Nebraska that Iran could “take out” a major US city like Los Angeles or San Diego, drawing a swift rebuke from California’s Democratic leaders and some fellow Republicans. Trump, speaking at a political rally in the state’s farm bel",
+       "url": "https://www.scmp.com/news/world/united-states-canada/article/3369961/trump-says-iran-could-take-out-los-angeles-or-san-diego-drawing-backlash?utm_source=rss_feed",
+       "via": null
+      },
+      {
+       "id": "abc-au",
+       "name": "ABC Australia",
+       "region": "world",
+       "weight": 0.88,
+       "title": "Trump draws backlash for suggesting Iran could 'take out' LA",
+       "desc": "California Governor Gavin Newsom condemns Donald Trump's comments, made at a rally in Nebraska, calling the US president \"deranged and dangerous\".",
+       "url": "https://www.abc.net.au/news/2026-10-07/californians-blast-trump-remark-iran-could-take-out-los-angeles/107236972",
+       "via": null
+      },
+      {
+       "id": "toi",
+       "name": "Times of India",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Trump says Iran taking out LA and San Diego would be 'small price to pay'",
+       "desc": "",
+       "url": "https://timesofindia.indiatimes.com/world/us/california-screamin-trump-says-iran-taking-out-la-and-san-diego-would-be-small-price-to-pay/articleshow/134745356.cms",
+       "via": null
+      },
+      {
+       "id": "straits",
+       "name": "The Straits Times",
+       "region": "world",
+       "weight": 0.5,
+       "title": "White House denies Trump suggested Iran should ‘take out’ US cities",
+       "desc": "Trump was justifying high oil prices at a rally in the US state of Nebraska.",
+       "url": "https://www.straitstimes.com/world/united-states/white-house-denies-trump-suggested-iran-should-take-out-us-cities",
+       "via": null
+      },
+      {
+       "id": "yahoo-world",
+       "name": "Yahoo!ニュース 国際",
+       "region": "jp",
+       "weight": 0.71,
+       "title": "トランプ氏 LA攻撃“容認”発言「イランにやらせればいい」 知事などは猛反発(テレビ朝日系（ANN）)",
+       "desc": "アメリカのトランプ大統領が共和党の集会でイランによるロサンゼルスなどへの攻撃を容認するかのような発言をしたことを受け、カリフォルニア州の知事らが反発しています。トランプ大統領「（ガソリン価格は）少し高",
+       "url": "https://news.yahoo.co.jp/articles/35b81252d76835a63de6b504e1fa873323ced536?source=rss",
+       "via": null
+      }
+     ]
+    }
+   },
+   "latestTitle": "トランプ氏のロサンゼルス等巡る発言に反発",
+   "japan": false,
+   "lastSeen": "2026-10-07"
+  },
+  "s-20261007-09": {
+   "id": "s-20261007-09",
+   "title": "EU、新規加盟国への15年間の試用期間を検討",
+   "firstSeen": "2026-10-07",
+   "days": {
+    "2026-10-07": {
+     "worldScore": 11,
+     "worldCoverage": 4,
+     "jpScore": 0,
+     "jpCoverage": 0,
+     "outlets": [
+      {
+       "id": "guardian",
+       "name": "The Guardian",
+       "region": "world",
+       "weight": 0.42,
+       "title": "‘No more Viktor Orbán’: EU plans 15-year probation period for new member states",
+       "desc": "Enlargement commissioner Marta Kos outlines proposed safeguards to protect EU from undemocratic leaders The European Commission wants to ensure there is no repeat Viktor Orbán among the next generation of EU member states, as it set out plans to prepare for the bloc’s enlargement into eastern Europe",
+       "url": "https://www.theguardian.com/world/2026/oct/06/eu-plans-15-year-probation-period-new-member-states-viktor-orban",
+       "via": null
+      },
+      {
+       "id": "euronews",
+       "name": "Euronews",
+       "region": "world",
+       "weight": 0.5,
+       "title": "New EU members face 15-year probation period after joining the bloc",
+       "desc": "The European Commission is proposing a new procedure to cut funding and voting rights of EU newcomers that breach the rule of law, available for 15 years after accession. The proposal also includes new procedures for the gradual integration of candidate countries and governance measures.",
+       "url": "https://www.euronews.com/2026/10/06/new-eu-members-face-15-year-probation-period-after-joining-the-bloc",
+       "via": null
+      },
+      {
+       "id": "straits",
+       "name": "The Straits Times",
+       "region": "world",
+       "weight": 0.5,
+       "title": "EU Commission floats safeguards against democratic backsliding by new members",
+       "desc": "EU countries could suspend a new member’s voting rights during the first 15 years of membership.",
+       "url": "https://www.straitstimes.com/world/europe/eu-commission-floats-safeguards-against-democratic-backsliding-by-new-members",
+       "via": null
+      },
+      {
+       "id": "reuters",
+       "name": "Reuters",
+       "region": "world",
+       "weight": 0.5,
+       "title": "EU Commission floats safeguards against democratic backsliding by new members - Reuters",
+       "desc": "EU Commission floats safeguards against democratic backsliding by new members Reuters",
+       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSm16MjRBNk9iOEkxbUJQRTU2OGtfd2ZfSk8xN2dRT0xCZEljMmNPelQ2TTU4YTd5a0YtUWQyX3VtMXhHUG1XeGJqSVBqWDVmLVNKYWU1ZmZEVUdMZWttLS14XzdKSW0zcjZPV2laOGNMSEo0OEF5WVp6eFMwQ1pKdjh3Zndqdi1yQlpOQzlDVUkzNHRmdDJGcW9YRUNVSGhET3gtX3NtakZETXdGTUMzOVNQR1F2d0hXWlhKTjh6SGFzdlk?oc=5",
+       "via": "googlenews"
+      }
+     ]
+    }
+   },
+   "latestTitle": "EU、新規加盟国への15年間の試用期間を検討",
+   "japan": false,
+   "lastSeen": "2026-10-07"
+  },
+  "s-20261007-10": {
+   "id": "s-20261007-10",
+   "title": "スペイン、元独立指導者の逮捕状取り下げ",
+   "firstSeen": "2026-10-07",
+   "days": {
+    "2026-10-07": {
+     "worldScore": 10,
+     "worldCoverage": 3,
+     "jpScore": 0,
+     "jpCoverage": 0,
+     "outlets": [
+      {
+       "id": "aljazeera",
+       "name": "Al Jazeera",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Catalan separatist Puigdemont to return to Spain after warrant lifted",
+       "desc": "Spain&#039;s Constitutional Court ruled an amnesty law for Catalan separatists applied to the politician.",
+       "url": "https://www.aljazeera.com/news/2026/10/6/catalan-separatist-leader-puigdemont-to-return-home-after-warrant-lifted?traffic_source=rss",
+       "via": null
+      },
+      {
+       "id": "nyt",
+       "name": "New York Times",
+       "region": "world",
+       "weight": 0.85,
+       "title": "Spain Cancels Arrest Warrant for Carles Puigdemont, Catalan Separatist Leader",
+       "desc": "The Spanish Supreme Court canceled an arrest warrant for Carles Puigdemont, who has been living in self-imposed exile in Belgium.",
+       "url": "https://www.nytimes.com/2026/10/06/world/europe/spain-separatist-amnesty-catalonia-return.html",
+       "via": null
+      },
+      {
+       "id": "scmp",
+       "name": "South China Morning Post",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Catalan separatist leader Puigdemont set for Spain return after arrest warrant lifted",
+       "desc": "A Spanish judge on Tuesday lifted an arrest warrant for exiled former Catalan separatist leader Carles Puigdemont, paving the way for his return to Spain ahead of a general election in November. Supreme Court judge Pablo Llarena made the move after Spain’s Constitutional Court backed extending a 202",
+       "url": "https://www.scmp.com/news/world/europe/article/3369946/catalan-separatist-leader-puigdemont-set-spain-return-after-arrest-warrant-lifted?utm_source=rss_feed",
+       "via": null
+      }
+     ]
+    }
+   },
+   "latestTitle": "スペイン、元独立指導者の逮捕状取り下げ",
+   "japan": false,
+   "lastSeen": "2026-10-07"
+  },
+  "s-20261007-11": {
+   "id": "s-20261007-11",
+   "title": "米中が核施設の相互視察を協議",
+   "firstSeen": "2026-10-07",
+   "days": {
+    "2026-10-07": {
+     "worldScore": 3,
+     "worldCoverage": 1,
+     "jpScore": 11,
+     "jpCoverage": 1,
+     "outlets": [
+      {
+       "id": "toi",
+       "name": "Times of India",
+       "region": "world",
+       "weight": 0.5,
+       "title": "US, China in talks for reciprocal visits to nuclear sites in bid to build trust",
+       "desc": "The United States intends to begin reciprocal visits to nuclear facilities in China, aiming to strengthen trust between the two nations. This proactive initiative seeks to avert a possible arms race amidst escalating worries over China's expanding nuclear arsenal. Currently, officials from both side",
+       "url": "https://timesofindia.indiatimes.com/world/us/us-china-in-talks-for-reciprocal-visits-to-nuclear-sites-in-bid-to-build-trust-prevent-arms-race/articleshow/134739232.cms",
+       "via": null
+      },
+      {
+       "id": "yahoo-world",
+       "name": "Yahoo!ニュース 国際",
+       "region": "jp",
+       "weight": 0.68,
+       "title": "米中が核施設の相互視察を協議か CNN 核軍縮につながるかは不透明(テレビ朝日系（ANN）)",
+       "desc": "アメリカと中国が核施設をお互いに視察することについて、非公式に協議を始めていたことが分かりました。 CNNは6日、関係者の話として、中国がアメリカ・エネルギー省の国立研究所を、一方、アメリカは中国の同",
+       "url": "https://news.yahoo.co.jp/articles/5985f4f2b94b96e2d7d0822aa79eb2d5f4d0c740?source=rss",
+       "via": null
+      }
+     ]
+    }
+   },
+   "latestTitle": "米中が核施設の相互視察を協議",
+   "japan": false,
+   "lastSeen": "2026-10-07"
+  },
+  "s-20261007-12": {
+   "id": "s-20261007-12",
+   "title": "旭化成系で情報漏洩のおそれ",
+   "firstSeen": "2026-10-07",
+   "days": {
+    "2026-10-07": {
+     "worldScore": 0,
+     "worldCoverage": 0,
+     "jpScore": 17,
+     "jpCoverage": 2,
+     "outlets": [
+      {
+       "id": "yahoo",
+       "name": "Yahoo!ニュース主要",
+       "region": "jp",
+       "weight": 0.5,
+       "title": "旭化成子会社 55万人分情報流出か",
+       "desc": "",
+       "url": "https://news.yahoo.co.jp/pickup/6597804?source=rss",
+       "via": null
+      },
+      {
+       "id": "nikkei",
+       "name": "日本経済新聞",
+       "region": "jp",
+       "weight": 0.5,
+       "title": "旭化成系、医療従事者向けサイトで情報漏洩か 最大約56万人 - 日本経済新聞",
+       "desc": "旭化成系、医療従事者向けサイトで情報漏洩か 最大約56万人 日本経済新聞",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tVXhMYWxuZ2QtYi1oYXAwWElUWGpIa2toamZFUy1oVW8wSFd1WHQ1Um1FNlAzeVZBRjE1S0VvOXNJNkJSUW1MYVVUeUhHUVozSEtBYjFlVGF6SHppRlpTRU9oN1JoNUpyUVotdw?oc=5",
+       "via": "googlenews"
+      }
+     ]
+    }
+   },
+   "latestTitle": "旭化成系で情報漏洩のおそれ",
+   "japan": true,
+   "lastSeen": "2026-10-07"
+  },
+  "s-20261007-13": {
+   "id": "s-20261007-13",
+   "title": "JR東日本、コード決済「teppay」開始へ",
+   "firstSeen": "2026-10-07",
+   "days": {
+    "2026-10-07": {
+     "worldScore": 0,
+     "worldCoverage": 0,
+     "jpScore": 30,
+     "jpCoverage": 3,
+     "outlets": [
+      {
+       "id": "asahi",
+       "name": "朝日新聞",
+       "region": "jp",
+       "weight": 0.82,
+       "title": "JR東のコード決済「teppay」20日開始 2万円超チャージも",
+       "desc": "",
+       "url": "http://www.asahi.com/articles/ASVB62PLFVB6UTIL011M.html?ref=rss",
+       "via": null
+      },
+      {
+       "id": "mainichi",
+       "name": "毎日新聞",
+       "region": "jp",
+       "weight": 0.5,
+       "title": "コード決済「teppay」 JR東が20日から提供、業界上位規模",
+       "desc": "",
+       "url": "https://mainichi.jp/articles/20261006/k00/00m/020/271000c",
+       "via": null
+      },
+      {
+       "id": "nikkei",
+       "name": "日本経済新聞",
+       "region": "jp",
+       "weight": 0.5,
+       "title": "JR東日本、Suicaのコード決済「teppay」20日開始 170万店で利用可 - 日本経済新聞",
+       "desc": "JR東日本、Suicaのコード決済「teppay」20日開始 170万店で利用可 日本経済新聞",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04b2xLVW5LSzVqaWlrbnNzaS12UzFQTGtzeGNFSG5xeHhfcTgtVURPcktLYXotRHRxQ2RleV83a2tFV0RyMGJ1X2JRaHNiX29Rc2U0eENrRWNXNjJHdVJVTjRwWWlqc1Vkano1OQ?oc=5",
+       "via": "googlenews"
+      }
+     ]
+    }
+   },
+   "latestTitle": "JR東日本、コード決済「teppay」開始へ",
+   "japan": true,
+   "lastSeen": "2026-10-07"
+  },
+  "s-20261007-14": {
+   "id": "s-20261007-14",
+   "title": "ピアニスト反田恭平氏を在宅起訴、速度超過",
+   "firstSeen": "2026-10-07",
+   "days": {
+    "2026-10-07": {
+     "worldScore": 0,
+     "worldCoverage": 0,
+     "jpScore": 21,
+     "jpCoverage": 2,
+     "outlets": [
+      {
+       "id": "asahi",
+       "name": "朝日新聞",
+       "region": "jp",
+       "weight": 0.77,
+       "title": "ピアニスト反田恭平氏、スピード違反で在宅起訴 144kmで運転か",
+       "desc": "",
+       "url": "http://www.asahi.com/articles/ASVB62QQPVB6UTIL00ZM.html?ref=rss",
+       "via": null
+      },
+      {
+       "id": "jiji",
+       "name": "時事通信",
+       "region": "jp",
+       "weight": 0.5,
+       "title": "ピアニスト反田恭平氏が８４キロの速度超過 在宅起訴、２９日判決―東京地裁",
+       "desc": "",
+       "url": "https://www.jiji.com/jc/article?k=2026100600821&g=soc&m=rss",
+       "via": null
+      }
+     ]
+    }
+   },
+   "latestTitle": "ピアニスト反田恭平氏を在宅起訴、速度超過",
+   "japan": true,
+   "lastSeen": "2026-10-07"
+  },
+  "s-20261007-15": {
+   "id": "s-20261007-15",
+   "title": "兵庫県、知事会見でフリー記者の参加認めず",
+   "firstSeen": "2026-10-07",
+   "days": {
+    "2026-10-07": {
+     "worldScore": 0,
+     "worldCoverage": 0,
+     "jpScore": 14,
+     "jpCoverage": 2,
+     "outlets": [
+      {
+       "id": "asahi",
+       "name": "朝日新聞",
+       "region": "jp",
+       "weight": 0.36,
+       "title": "兵庫県、不規則発言のフリー記者に会見参加認めず 斎藤知事の判断",
+       "desc": "",
+       "url": "http://www.asahi.com/articles/ASVB63TJNVB6PIHB00XM.html?ref=rss",
+       "via": null
+      },
+      {
+       "id": "mainichi",
+       "name": "毎日新聞",
+       "region": "jp",
+       "weight": 0.5,
+       "title": "兵庫県、知事会見にフリー記者の参加認めず 記者クラブ再考要求",
+       "desc": "",
+       "url": "https://mainichi.jp/articles/20261006/k00/00m/010/288000c",
+       "via": null
+      }
+     ]
+    }
+   },
+   "latestTitle": "兵庫県、知事会見でフリー記者の参加認めず",
+   "japan": true,
+   "lastSeen": "2026-10-07"
+  },
+  "s-20261007-16": {
+   "id": "s-20261007-16",
+   "title": "簗農相の道路予算巡る対応に野党追及の動き",
+   "firstSeen": "2026-10-07",
+   "days": {
+    "2026-10-07": {
+     "worldScore": 0,
+     "worldCoverage": 0,
+     "jpScore": 25,
+     "jpCoverage": 3,
+     "outlets": [
+      {
+       "id": "mainichi",
+       "name": "毎日新聞",
+       "region": "jp",
+       "weight": 0.5,
+       "title": "簗農相、国交省に予算配分問い合わせ 対立候補応援の2市町分",
+       "desc": "",
+       "url": "https://mainichi.jp/articles/20261006/k00/00m/010/296000c",
+       "via": null
+      },
+      {
+       "id": "jiji",
+       "name": "時事通信",
+       "region": "jp",
+       "weight": 0.5,
+       "title": "簗農水相「予算カット」、野党追及へ ７日から代表質問―国会",
+       "desc": "",
+       "url": "https://www.jiji.com/jc/article?k=2026100600948&g=pol&m=rss",
+       "via": null
+      },
+      {
+       "id": "nikkei",
+       "name": "日本経済新聞",
+       "region": "jp",
+       "weight": 0.5,
+       "title": "簗和生農相、道路予算巡り国交省に照会 圧力は確認されず - 日本経済新聞",
+       "desc": "簗和生農相、道路予算巡り国交省に照会 圧力は確認されず 日本経済新聞",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hQ2VYS3kzY3hPbGI5bk41YVltS1Q5M2NRYlozRExvSUFBd0lJMGJ3UEFhdHo2RWNwb1NRWXlrWWhUUElGSkxITlU4bmFMX1lZbTBFYjBsS0FVTnlMdGdya0tHNTlqOHlXZjhEcQ?oc=5",
+       "via": "googlenews"
+      }
+     ]
+    }
+   },
+   "latestTitle": "簗農相の道路予算巡る対応に野党追及の動き",
+   "japan": true,
+   "lastSeen": "2026-10-07"
   }
  }
 }
