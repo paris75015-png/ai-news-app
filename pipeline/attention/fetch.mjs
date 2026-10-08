@@ -25,7 +25,7 @@ function parseItems(xml) {
     title: text(i.title),
     url: text(i.link?.['@_href'] ?? i.link ?? i.guid),
     published: text(i.pubDate ?? i['dc:date'] ?? i.published ?? i.updated),
-    desc: stripTags(text(i.description ?? i.summary ?? i['content:encoded'])).slice(0, 300),
+    desc: stripTags(text(i.description ?? i.summary ?? i['content:encoded'])).slice(0, 600),
   })).filter(i => i.title);
 }
 
