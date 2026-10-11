@@ -18,6 +18,7 @@ import { initGroq, groqAvailable, groqJson, groqUsed, GROQ_BODY_CHARS } from './
 import {
   COLLECT, EDITORIAL_VERSION, CATEGORIES, tierOfRank,
   SCORING_MODELS, SUMMARY_MODELS, FALLBACK_MODEL, GROQ_TOP_ARTICLES,
+  DEDUPE_PROMPT, DEDUPE_SCHEMA,
   SCORING_PROMPT, SCORING_SCHEMA, SUMMARY_PROMPT, SUMMARY_SCHEMA, HEADLINE_PROMPT, HEADLINE_SCHEMA,
   MISTRANSLATIONS, TRANSLITERATION_WARNINGS,
 } from './editorial.js';
@@ -49,6 +50,66 @@ function readEarlierStreams(today) {
     console.log(`[build] ${file} の ${(data.articles || []).length}件を除外対象として読み込み`);
   }
   return { headlines, urls };
+}
+
+/** 直近の AI日報に載せた見出し（今日より前の COLLECT.recentDays 日分）。再掲を避けるために使う */
+function readRecentHeadlines(today) {
+  const dir = path.join(OUT_DIR, 'archive');
+  let files = [];
+  try { files = fs.readdirSync(dir); } catch { return []; }
+  return files
+    .filter(f => f.endsWith('-ai.json') && f.slice(0, 10) < today)
+    .sort()
+    .slice(-COLLECT.recentDays)
+    .flatMap(f => (readJson(path.join(dir, f), { articles: [] }).articles || []).map(a => a.headline).filter(Boolean));
+}
+
+/**
+ * 上位の候補を、専用の1回の呼び出しで「出来事ごと」にまとめ、次を落とす。
+ *   ・同じ出来事の2件目以降（順位の高い1件を残す）
+ *   ・直近の紙面に載せた出来事の再掲（新しい展開がないもの）
+ *   ・同じテーマが COLLECT.perThemeMax 件を超えた分
+ * 判定の呼び出しが失敗したときは、落とさずそのまま返す（紙面は出す）。
+ */
+async function dropDuplicateEvents(ranked, recentHeadlines) {
+  const window = ranked.slice(0, COLLECT.dedupeWindow);
+  const rest = ranked.slice(COLLECT.dedupeWindow);
+  const prompt = `# 直近の掲載済みの見出し（${recentHeadlines.length}件）\n${recentHeadlines.map(h => `- ${h}`).join('\n') || '（なし）'}\n\n`
+    + `# 記事候補（${window.length}件・重要度順）\n`
+    + window.map(a => JSON.stringify({ id: a.id, title: a.title, outlet: a.outlet, snippet: (a.snippet || '').slice(0, 120) })).join('\n');
+
+  let items = [];
+  for (let attempt = 0; attempt < 2 && items.length < window.length * 0.8; attempt++) {
+    try {
+      const result = await generateJson({ models: SCORING_MODELS, system: DEDUPE_PROMPT, prompt, schema: DEDUPE_SCHEMA });
+      items = result.items || [];
+    } catch (e) {
+      console.warn(`[dedupe] 判定に失敗 (${e.status || e.message})`);
+    }
+  }
+  if (items.length === 0) {
+    console.warn('[dedupe] 判定が得られなかったため、重複の除去なしで進める');
+    return ranked;
+  }
+
+  const info = new Map(items.map(r => [r.id, r]));
+  const eventSeen = new Set();
+  const themeCount = {};
+  const kept = [];
+  for (const a of window) {
+    const r = info.get(a.id);
+    if (!r) { kept.push(a); continue; }
+    const event = r.event.trim();
+    if (event && eventSeen.has(event)) { console.log(`[dedupe] 同じ出来事: ${a.title.slice(0, 40)}（${event}）`); continue; }
+    if (r.repeatOfRecent) { console.log(`[dedupe] 直近の再掲: ${a.title.slice(0, 40)}（${event}）`); continue; }
+    const theme = r.theme.trim();
+    if (theme && (themeCount[theme] || 0) >= COLLECT.perThemeMax) { console.log(`[dedupe] テーマ上限: ${a.title.slice(0, 40)}（${theme}）`); continue; }
+    if (event) eventSeen.add(event);
+    if (theme) themeCount[theme] = (themeCount[theme] || 0) + 1;
+    kept.push(a);
+  }
+  console.log(`[dedupe] ${window.length}件 → ${kept.length}件`);
+  return [...kept, ...rest];
 }
 
 /** 比較用に URL を正規化する（末尾スラッシュ・クエリ・スキームの違いを吸収） */
@@ -89,7 +150,9 @@ async function main() {
   const ranked = scored
     .filter(a => !a.duplicateOf)
     .sort((a, b) => b.score - a.score || a.order - b.order);
-  const shortlist = selectBalanced(ranked, COLLECT.maxPublished + COLLECT.selectionBuffer);
+  // 同じ出来事・直近の再掲・同じテーマの並びを落としてから選ぶ（採点時の duplicateOf だけでは取りこぼす）
+  const distinct = dryRun ? ranked : await dropDuplicateEvents(ranked, readRecentHeadlines(today));
+  const shortlist = selectBalanced(distinct, COLLECT.maxPublished + COLLECT.selectionBuffer);
   await attachBodies(shortlist);
   if (!dryRun) await substituteFromDuplicates(shortlist, scored);
 
@@ -418,7 +481,7 @@ async function verifyHeadlines(articles) {
   for (const a of suspicious) {
     if (headlineIssues(a).length === 0) continue;
     const first = a.summary.split(/(?<=。)/)[0];
-    a.headline = first.length > 60 ? `${first.slice(0, 58)}…` : first.replace(/。$/, '');
+    a.headline = first.length > 55 ? `${first.slice(0, 53)}…` : first.replace(/。$/, '');
     console.warn(`[headline] 要約の冒頭を見出しに使用: ${a.id}`);
   }
 }
@@ -426,6 +489,8 @@ async function verifyHeadlines(articles) {
 /** 見出しの疑わしい点を挙げる（空なら問題なし） */
 function headlineIssues(a) {
   const issues = unsupportedTerms(a);
+  if (a.headline.length > 55) issues.push(`長すぎる見出し（${a.headline.length}字）`);
+  if (!/[ぁ-ん]/.test(a.headline) && a.headline.length > 25) issues.push('文になっていない見出し');
   // 本文に former / 前・元 が無いのに「前大統領」「元CEO」などと書いていないか
   const exPosition = a.headline.match(/[前元](大統領|首相|社長|会長|CEO|長官|知事|委員長|議長)/);
   const reference = `${a.summary || ''} ${a.body || ''} ${a.title || ''}`.toLowerCase();
