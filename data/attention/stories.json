@@ -6150,11 +6150,39 @@
        "via": "googlenews"
       }
      ]
+    },
+    "2026-10-12": {
+     "worldScore": 5,
+     "worldCoverage": 2,
+     "jpScore": 0,
+     "jpCoverage": 0,
+     "outlets": [
+      {
+       "id": "guardian",
+       "name": "The Guardian",
+       "region": "world",
+       "weight": 0.36,
+       "title": "Zack Polanski signals Green party overhaul after row over Zionism vote",
+       "desc": "Rapid growth means structures need to change and give leaders greater control, Polanski says in Guardian article Zack Polanski: How we’re transforming British politics Zack Polanski has signalled a potential overhaul of the Green party’s cherished grassroots democracy, calling for leaders to have greater control over strategic direction after a divisive vote equating Zionism with racism. The Green party leader has also questioned whether political parties should seek to define what members believe, in his strongest criticism yet of a motion that has provoked bitter divisions, international con",
+       "url": "https://www.theguardian.com/politics/2026/oct/11/zack-polanski-signals-green-party-overhaul-after-row-over-zionism-vote",
+       "via": null
+      },
+      {
+       "id": "aljazeera",
+       "name": "Al Jazeera",
+       "region": "world",
+       "weight": 0.5,
+       "title": "UK Greens leader seeks rule change after party declares Zionism is racism",
+       "desc": "Zack Polanski calls for internal rule reforms to give party leaders greater control over policy after Zionism vote.",
+       "url": "https://www.aljazeera.com/news/2026/10/11/uk-greens-leader-seeks-rule-change-after-party-declares-zionism-is-racism?traffic_source=rss",
+       "via": null
+      }
+     ]
     }
    },
-   "latestTitle": "英緑の党がシオニズム否定方針を採択",
+   "latestTitle": "英緑の党、シオニズム巡る決定で見直しへ",
    "japan": false,
-   "lastSeen": "2026-10-05"
+   "lastSeen": "2026-10-12"
   },
   "s-20261005-09": {
    "id": "s-20261005-09",
@@ -10660,11 +10688,39 @@
        "via": null
       }
      ]
+    },
+    "2026-10-12": {
+     "worldScore": 0,
+     "worldCoverage": 0,
+     "jpScore": 15,
+     "jpCoverage": 2,
+     "outlets": [
+      {
+       "id": "asahi",
+       "name": "朝日新聞",
+       "region": "jp",
+       "weight": 0.39,
+       "title": "「政治に携わる者として疑わしい」石破氏が簗農水相問題を痛烈に批判",
+       "desc": "",
+       "url": "http://www.asahi.com/articles/ASVBC25Z1VBCPUUB003M.html?ref=rss",
+       "via": null
+      },
+      {
+       "id": "nikkei",
+       "name": "日本経済新聞",
+       "region": "jp",
+       "weight": 0.5,
+       "title": "簗農相の予算カット発言、圧力有無や任命責任で論戦 13日から予算委 - 日本経済新聞",
+       "desc": "簗農相の予算カット発言、圧力有無や任命責任で論戦 13日から予算委 日本経済新聞",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54dGtBNXVMamNrYlNzdWI1TWpuY1hqdzNjamxwa1lBTW80bXpOREhNSDFvbWw5Q2FZbzdORXRYVTI4aURNTWNsTllIX2daUkpRU1M2U3FiQUg4Rkw2OTdSZC1qa1B2UDFEX2RVdA?oc=5",
+       "via": "googlenews"
+      }
+     ]
     }
    },
-   "latestTitle": "高市首相、簗農水相を厳重注意",
+   "latestTitle": "簗農相の道路予算巡る発言に批判相次ぐ",
    "japan": true,
-   "lastSeen": "2026-10-09"
+   "lastSeen": "2026-10-12"
   },
   "s-20261008-01": {
    "id": "s-20261008-01",
@@ -13531,11 +13587,50 @@
        "via": "googlenews"
       }
      ]
+    },
+    "2026-10-12": {
+     "worldScore": 11,
+     "worldCoverage": 3,
+     "jpScore": 0,
+     "jpCoverage": 0,
+     "outlets": [
+      {
+       "id": "guardian",
+       "name": "The Guardian",
+       "region": "world",
+       "weight": 1,
+       "title": "Thousands without power in Florida and Alabama as Isaias moves north",
+       "desc": "At least four deaths linked to storm amid warnings of flash flooding that could stretch into Appalachians As what was left of Hurricane Isaias moved north on Sunday, bringing moderate to heavy rainfall across the central Appalachians and the mid-Atlantic region, nearly 396,000 customers across the Florida Panhandle and southern Alabama remained without power. Heavy rainfall associated with the storm could bring isolated flash flooding and strong wind gusts and remain a threat across the south-eastern US, especially near the southern Appalachians, according to the National Weather Service (NWS)",
+       "url": "https://www.theguardian.com/world/2026/oct/11/isaias-florida-alabama-power-outages",
+       "via": null
+      },
+      {
+       "id": "sky",
+       "name": "Sky News",
+       "region": "world",
+       "weight": 0.56,
+       "title": "Four dead after Hurricane Isaias crashes into US - as Mexico braces itself for Category 4 storm",
+       "desc": "Four people have died after Hurricane Isaias smashed into the US Gulf Coast.",
+       "url": "https://news.sky.com/story/four-dead-as-hurricane-isaias-crashes-into-us-as-mexico-braces-itself-for-major-storm-13597710",
+       "via": null
+      },
+      {
+       "id": "ap",
+       "name": "Associated Press",
+       "region": "world",
+       "weight": 0.5,
+       "title": "4 dead from storm as Isaias brings threat of floods across the Southeast - AP News",
+       "desc": "4 dead from storm as Isaias brings threat of floods across the Southeast AP News",
+       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeXNjcEJjUllNRkdDOGZjZzB2WURNaVdZSHF0cWk1RGx1R1VLRVRuSHF2TElyS09ZSENaZE1DT25KWGpZX0o5SkVmM0dYYXlSREhaUl9ET3ZlQThaNUhKalFaNU9QbkZhbThFR2N4SlhCOHV1S1E3M2pJR0hURVB4YlhaTlB5Rlk3M252S1BsM0dXZERQMk1HM0tNaWVxNWFj?oc=5",
+       "via": "googlenews"
+      }
+     ]
     }
    },
-   "latestTitle": "ハリケーン「イサイアス」が米沿岸へ接近",
+   "latestTitle": "ハリケーン「イサイアス」米上陸、4人死亡",
    "japan": false,
-   "lastSeen": "2026-10-09"
+   "lastSeen": "2026-10-12",
+   "dossier": "2026-10-12"
   },
   "s-20261009-16": {
    "id": "s-20261009-16",
@@ -14470,6 +14565,2372 @@
    "latestTitle": "那須町長選の当選無効裁決を取り消し",
    "japan": true,
    "lastSeen": "2026-10-09"
+  },
+  "s-20261012-01": {
+   "id": "s-20261012-01",
+   "title": "サウジ首都空港に攻撃、12人死亡",
+   "firstSeen": "2026-10-12",
+   "days": {
+    "2026-10-12": {
+     "worldScore": 48,
+     "worldCoverage": 15,
+     "jpScore": 32,
+     "jpCoverage": 3,
+     "outlets": [
+      {
+       "id": "bbc",
+       "name": "BBC",
+       "region": "world",
+       "weight": 1,
+       "title": "Saudi capital airport hit by second Houthi strike in two days",
+       "desc": "The Yemeni group says it carried out attacks that killed 13 people in Riyadh over the weekend and targeted two airports and oil facilities.",
+       "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+       "via": null
+      },
+      {
+       "id": "guardian",
+       "name": "The Guardian",
+       "region": "world",
+       "weight": 0.56,
+       "title": "Middle East crisis: Riyadh airport hit again as Houthis claim attacks, including strike that killed 12 – as it happened",
+       "desc": "This live blog is now closed. You can read our latest full report here: Riyadh airport hit again after deadly Houthi missile attack, Saudi authorities say Some more Gulf reaction to Houthi’s deadly airport attack and continued threats to target Saudi airspace. In a significant message, the United Arab Emirates has issued a statement in solidarity with Saudi Arabia – expressing support for “all measures aimed at safeguarding the kingdom’s security and stability”. The UAE message is improtant given the major rupture in relations this year between the two oil-rich kingdoms, first sparked by linge",
+       "url": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
+       "via": null
+      },
+      {
+       "id": "aljazeera",
+       "name": "Al Jazeera",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Saudi health minister visits survivors of deadly Riyadh airport attack",
+       "desc": "Saudi Arabia’s health minister Fahad Aljalajel has paid a visit to survivors of Saturday’s deadly attack.",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/saudi-health-minister-visits-survivors-of-deadly-riyadh-airport-attack?traffic_source=rss",
+       "via": null
+      },
+      {
+       "id": "nyt",
+       "name": "New York Times",
+       "region": "world",
+       "weight": 1,
+       "title": "Saudi Arabia Has Few Options as Houthis Aim at Heart of Its Ambitions",
+       "desc": "Three deadly attacks by the Iran-backed Houthis in Yemen on an airport in the Saudi capital underscored the asymmetrical nature of their conflict with the kingdom.",
+       "url": "https://www.nytimes.com/2026/10/11/world/middleeast/saudi-arabia-options-houthis.html",
+       "via": null
+      },
+      {
+       "id": "france24",
+       "name": "France 24",
+       "region": "world",
+       "weight": 0.5,
+       "title": "🔴 Live: Houthi rebels claim latest attacks on Riyadh airport, following Saturday's deadly strike",
+       "desc": "",
+       "url": "https://www.france24.com/en/middle-east/20261011-live-saudi-arabia-vows-decisive-response-after-deadly-houthi-strike-on-riyadh-airport",
+       "via": null
+      },
+      {
+       "id": "euronews",
+       "name": "Euronews",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Riyadh airport strikes claimed by Yemen's Houthi day after deadliest attack in Saudi soil in ten years",
+       "desc": "Iran-backed Houthi claimed strikes on Riyadh airport terminal less than a day after a Houthi attack killed 12 people. The attack led to Riyadh’s airport shutdown and drew condemnation from the UN and EU, as the Houthis renew their threats and Washington considers its response.",
+       "url": "https://www.euronews.com/2026/10/11/riyadh-airport-stays-shut-after-deadly-attack-as-trump-says-us-may-join-saudi-strikes-on-h",
+       "via": null
+      },
+      {
+       "id": "npr",
+       "name": "NPR",
+       "region": "world",
+       "weight": 0.61,
+       "title": "Passenger terminal at Riyadh airport is struck again, a day after 12 were killed",
+       "desc": "A projectile struck a passenger terminal at the international airport in Riyadh on Sunday, a day after a missile hit the same terminal and killed 12 people, officials said.",
+       "url": "https://www.npr.org/2026/10/10/g-s1-147682/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say",
+       "via": null
+      },
+      {
+       "id": "scmp",
+       "name": "South China Morning Post",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Riyadh airport hit by fresh Houthi strike day after deadly attack killed 12",
+       "desc": "A fresh Houthi strike hit Riyadh’s international airport on Sunday, a day after another attack claimed by the Yemeni group killed at least a dozen people and forced authorities to suspend operations at the facility. Saturday’s attack, the deadliest on Saudi soil in more than a decade, was a sharp escalation in the Yemen war, where Riyadh backs the internationally recognised government against the Houthis. The Iran-backed group on Sunday claimed multiple attacks over the past 24 hours, including...",
+       "url": "https://www.scmp.com/news/world/middle-east/article/3370513/riyadh-airport-hit-fresh-houthi-strike-day-after-deadly-attack-killed-12?utm_source=rss_feed",
+       "via": null
+      },
+      {
+       "id": "cbs",
+       "name": "CBS News",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Terminal in Riyadh airport hit again, a day after deadly strike killed 12",
+       "desc": "The strike on King Khalid International Airport, the deadliest on Saudi soil in more than a decade, marked a major escalation in the war between Yemen&#039;s Iran-backed Houthis and the kingdom.",
+       "url": "https://www.cbsnews.com/news/houthis-threat-saudi-airspace-attack-riyadh-airport/",
+       "via": null
+      },
+      {
+       "id": "toi",
+       "name": "Times of India",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Riyadh airport strike survivors: Houthi missile kills 12, injures 300; residents and travellers recount horror",
+       "desc": "",
+       "url": "https://timesofindia.indiatimes.com/world/middle-east/bloodied-passengers-panic-and-screams-survivors-recall-riyadh-airport-strike/articleshow/134874610.cms",
+       "via": null
+      },
+      {
+       "id": "straits",
+       "name": "The Straits Times",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Riyadh airport hit by fresh Houthi strike day after deadly attack",
+       "desc": "The Saudi coalition fighting the group reported that a projectile struck King Khalid International Airport, sparking a fire.",
+       "url": "https://www.straitstimes.com/world/middle-east/yemens-houthis-renew-warning-over-saudi-airports-after-deadly-riyadh-attack",
+       "via": null
+      },
+      {
+       "id": "reuters",
+       "name": "Reuters",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Saudi Arabia reports injuries in new attack at Riyadh airport, day after strike kills 13 - Reuters",
+       "desc": "Saudi Arabia reports injuries in new attack at Riyadh airport, day after strike kills 13 Reuters",
+       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSEo0VkFTZkY2VzMzeFV0OVRVbWN4aHFzaXFjV0FBN05uaEFONHhQVTN2a3JJM09NdFBzY1R3MnRrUFZOeFZfUDItOUd1NkxiT3dfOWduTHJKTlBzSGsyN3VCYTNkWG1ZTWlZMUpzbDdrc1dOZUs3VDRwa0lHN21tNnFNdFhQYUxoNmdfN1Zyb3FMRm04RzRVei0zY3FKN0FoY2JYTGFodjYtemdITVpKVXk3NlR2QXFIMU9YMnUtX004QW1GZ0UzZA?oc=5",
+       "via": "googlenews"
+      },
+      {
+       "id": "ap",
+       "name": "Associated Press",
+       "region": "world",
+       "weight": 0.5,
+       "title": "12 killed and over 300 hurt in latest attack on Riyadh airport, Saudi authorities say - AP News",
+       "desc": "12 killed and over 300 hurt in latest attack on Riyadh airport, Saudi authorities say AP News",
+       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUGZwcDY1YlloN3oyNzFVMFZTcExnWXZqTzVQNEFkNnBoN2xGR0FEWEVjeUU2OVFEQ21hLUtXRzF2WHVnMzFuVUoxWGQzUFBVTjV2cWNmeFhmWTVvQ19iZ0xxV1c2OXRWMjBFOURBSzc2TWlaQUxENnpCU1ptX0Rna0E4Sl8zNE5aRmpNVkhrclRWUFdIcElCMg?oc=5",
+       "via": "googlenews"
+      },
+      {
+       "id": "bloomberg",
+       "name": "Bloomberg",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Saudi Arabia’s Main Riyadh Airport Comes Under Further Attack - Bloomberg.com",
+       "desc": "Saudi Arabia’s Main Riyadh Airport Comes Under Further Attack Bloomberg.com",
+       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPY3FCZjNKaVVJeTgtSnhRZHZLVGo3eFNmNEVXeGUyM2cyRFlGZGV1Yjh0MzFNY2RSTUJxRm5NMHlJZlR6bzBheUp0VjItdHhYcVhSeGszYVpEa3ZpNmtrRVJaNnIxZUxUODFidEh2LUFDbUlIWlhDWnAxeVd5MjRtalBBdG03Z1I0ajZJVEhUV013X3ZHdEtZR2c0Sjg5MUVuUHRxQlU0WnRHVzRpRVNnNkhB?oc=5",
+       "via": "googlenews"
+      },
+      {
+       "id": "ft",
+       "name": "Financial Times",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Houthis show military reach with deadly missile strikes on Riyadh - Financial Times",
+       "desc": "Houthis show military reach with deadly missile strikes on Riyadh Financial Times",
+       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQkxEejNESzBTbzFzcV85LW13N3B1bDROMXNBSzNqSEpaUVVNWDJHb1BJTzZueTZVNnNhV0JkNGktdUllR1dRd1ZVRzhla0JXejhkRGR3a0hkUHhVcmE1RFNOX3VVSG4zSHBnUkdrZGdjcHhXZ0hLX0dJUlM2azY3RnhiTFk?oc=5",
+       "via": "googlenews"
+      },
+      {
+       "id": "jiji",
+       "name": "時事通信",
+       "region": "jp",
+       "weight": 0.5,
+       "title": "サウジ首都空港攻撃で１２人死亡 フーシ派への報復宣言―イエメン内戦介入後、最悪被害",
+       "desc": "",
+       "url": "https://www.jiji.com/jc/article?k=2026101100146&g=int&m=rss",
+       "via": null
+      },
+      {
+       "id": "yahoo-world",
+       "name": "Yahoo!ニュース 国際",
+       "region": "jp",
+       "weight": 0.94,
+       "title": "サウジの空港に再び攻撃 けが人も 前日の攻撃では12人死亡(テレビ朝日系（ANN）)",
+       "desc": "イエメンを拠点とする親イラン武装組織「フーシ派」から度重なる攻撃を受けているサウジアラビアの空港が再び標的となり、けが人がでています。 サウジアラビア当局は11日、首都リヤドなど複数の空港が再び攻撃を",
+       "url": "https://news.yahoo.co.jp/articles/97b428cee75c3685e5facf8d1e8db87980b09f5b?source=rss",
+       "via": null
+      },
+      {
+       "id": "nikkei",
+       "name": "日本経済新聞",
+       "region": "jp",
+       "weight": 0.5,
+       "title": "サウジ首都空港に攻撃、12人死亡 トランプ氏は対フーシ参戦「検討」 - 日本経済新聞",
+       "desc": "サウジ首都空港に攻撃、12人死亡 トランプ氏は対フーシ参戦「検討」 日本経済新聞",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85dU93VVlsOTc5WS0zeHpMSzNfeVZXZTFyN2FPTzRTcnl5Vk5qdWFRWDdjREYwT2VsMER1NzRTZ0QwSi1mSm42NzdDMnlKMTU1OUNWY1BZMFVzRHRYTTFpRC12VHFhQWpJREdTeg?oc=5",
+       "via": "googlenews"
+      }
+     ]
+    }
+   },
+   "latestTitle": "サウジ首都空港に攻撃、12人死亡",
+   "japan": false,
+   "lastSeen": "2026-10-12"
+  },
+  "s-20261012-02": {
+   "id": "s-20261012-02",
+   "title": "トランプ氏主張の露ウ停戦発表に波紋",
+   "firstSeen": "2026-10-12",
+   "days": {
+    "2026-10-12": {
+     "worldScore": 35,
+     "worldCoverage": 12,
+     "jpScore": 45,
+     "jpCoverage": 4,
+     "outlets": [
+      {
+       "id": "guardian",
+       "name": "The Guardian",
+       "region": "world",
+       "weight": 0.71,
+       "title": "Trump announces partial ceasefire in Ukraine war as Zelenskyy says deal is ‘news to me’",
+       "desc": "Ukrainian president earlier rejected US call for Kyiv to stop bombing oil refineries, saying Moscow must first end attacks on energy infrastructure Donald Trump has announced an energy ceasefire between Ukraine and Russia, apparently without consulting Volodymyr Zelenskyy, who said the deal to stop long-range attacks was “news to me”. In a social media post, the US president claimed the two sides had reached an agreement. “Effective immediately, there is an ENERGY CEASEFIRE in the War between Russia and Ukraine. Both parties have agreed. Do not break it!” he wrote on Truth Social. Continue rea",
+       "url": "https://www.theguardian.com/world/2026/oct/11/zelenskyy-trump-ukraine-russia-energy-ceasefire",
+       "via": null
+      },
+      {
+       "id": "aljazeera",
+       "name": "Al Jazeera",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Zelenskyy welcomes US-announced energy ceasefire",
+       "desc": "President Zelenskyy has responded to Donald Trump’s announcement that Russia and Ukraine agreed to an energy ceasefire",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/zelenskyy-welcomes-us-announced-energy-ceasefire?traffic_source=rss",
+       "via": null
+      },
+      {
+       "id": "dw",
+       "name": "Deutsche Welle",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Trump claims Russia and Ukraine agreed to 'energy ceasefire'",
+       "desc": "US President Donald Trump says both sides have agreed to stop targeting oil refineries, power plants and other energy infrastructure immediately.",
+       "url": "https://www.dw.com/en/trump-claims-russia-and-ukraine-agreed-to-energy-ceasefire/a-79634509?maca=en-rss-en-world-4025-rdf",
+       "via": null
+      },
+      {
+       "id": "france24",
+       "name": "France 24",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Trump's energy ceasefire announcement was 'news for me' (Zelensky)",
+       "desc": "Ukrainian President Volodymyr Zelensky told the Axios digital news outlet on Sunday that he was surprised by US counterpart Donald Trump's announcement of a Ukraine-Russia \"energy ceasefire,\" but he would accept it whenever it begins. Our correspondent Gulliver Cragg tells us more.",
+       "url": "https://www.france24.com/en/video/20261011-trump-s-energy-ceasefire-announcement-was-news-for-me-zelensky",
+       "via": null
+      },
+      {
+       "id": "euronews",
+       "name": "Euronews",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Russia strikes power plants in Ukraine despite 'energy ceasefire' announced by Trump",
+       "desc": "After Donald Trump's criticism blaming Volodymyr Zelenskyy for high diesel prices, suggesting Ukraine should get a new leader, US President announced Russia and Ukraine had agreed on an 'energy ceasefire', but Russia struck Ukrainian power plants hours after the announcement.",
+       "url": "https://www.euronews.com/2026/10/11/energy-ceasefire-agreed-between-russia-and-ukraine-trump-says",
+       "via": null
+      },
+      {
+       "id": "scmp",
+       "name": "South China Morning Post",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Russia hits Ukraine power plants despite Trump’s energy ceasefire claim",
+       "desc": "Russian strikes hit multiple Ukrainian power plants on Sunday after US President Donald Trump’s claim that both sides had agreed to stop hitting each other’s energy infrastructure, Ukraine’s President Volodymyr Zelensky said. Zelensky, in a post on social media, said a drone had hit a Kyiv power plant, leading to power cuts in the capital. Soon after, he said there had been a strike on the CHP-5 power plant in the eastern city of Kharkiv, while adding that “Ukrainian skies have been infested...",
+       "url": "https://www.scmp.com/news/world/europe/article/3370510/trump-says-russia-ukraine-agree-energy-ceasefire?utm_source=rss_feed",
+       "via": null
+      },
+      {
+       "id": "cbs",
+       "name": "CBS News",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Trump announces Russia-Ukraine \"energy ceasefire\" after criticizing Zelenskyy",
+       "desc": "Ukrainian President Volodymyr Zelenskyy said Russia alone is responsible for the war in Ukraine, after President Trump said he should be replaced.",
+       "url": "https://www.cbsnews.com/news/zelenskyy-trump-new-ukrainian-president/",
+       "via": null
+      },
+      {
+       "id": "straits",
+       "name": "The Straits Times",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Russia hits Ukraine power plants despite Trump’s claim of an energy ceasefire",
+       "desc": "Ukrainian skies have been infested with Russian ‘shaheds’ all day, said Ukrainian President Volodymyr Zelensky.",
+       "url": "https://www.straitstimes.com/world/europe/ukraine-awaits-details-of-ceasefire-proposals-from-us-russia-maintains-attacks-zelenskiy-says",
+       "via": null
+      },
+      {
+       "id": "reuters",
+       "name": "Reuters",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Ukraine awaits details of ceasefire proposals from US, Russia maintains attacks, Zelenskiy says - Reuters",
+       "desc": "Ukraine awaits details of ceasefire proposals from US, Russia maintains attacks, Zelenskiy says Reuters",
+       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZTR1Z25uRUdFdldVQ2h6clhMSlEyZVB4cHJ6QTlsNlpIM0Qzbi0zOXlFZFk5MjFCcVV6RnFrV0JmY2RfRlQ0bzhwQ1ZkMUxaTDl4SGR0VWtFZWQtQ2FxdjZocnNDMEMyTjZtTnNWdmhGc0o0ZlJCYmRaSzF1LVg2NUNOMlc2ZDVidWlxS0VYZ1NZMzVLdG9ZNlBVZU9mT2REdzM0SmR6ZlBXdzdTVTRsYjlhb1ZqSW80bjhEc24xRWNaNjZUbUlrQw?oc=5",
+       "via": "googlenews"
+      },
+      {
+       "id": "ap",
+       "name": "Associated Press",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Trump says Russia and Ukraine agree to an ‘energy ceasefire’ but Kyiv says attacks continue - AP News",
+       "desc": "Trump says Russia and Ukraine agree to an ‘energy ceasefire’ but Kyiv says attacks continue AP News",
+       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPamZWc0pzUzdKd3YzOVM2MXRGdTc1akUwMDBma1pxUkt1OXd3ajk5RUlhLS1xaHJsVVdwVXk5cDVaMlFIcGxqSWtpelg1UUsydjFIZ3VpSXBKMTBnVlh3TTFUMGdjNlBtMWhEZmFpSnFTNVBDMWx1OVN5X2xGQS1DUndqS2RPQ2FBWXIxNGE5QzFhX0wzaW9vWUkwb2VoUHhGZU5Z?oc=5",
+       "via": "googlenews"
+      },
+      {
+       "id": "bloomberg",
+       "name": "Bloomberg",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Trump Says Russia and Ukraine Agreed to ‘Energy Ceasefire’ - Bloomberg.com",
+       "desc": "Trump Says Russia and Ukraine Agreed to ‘Energy Ceasefire’ Bloomberg.com",
+       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdmpsZEZJU1VvX015M2ZPVnpka3diOVh4WEpBQ2JrTUl3cTAwdjY3QlViMUZkWTZJQVFoRTM5TE5LZlZCZUJ5SjZuNjhwcXlROEFGSlFfVFVpUHFlSElDZUpnNTZlYnBmdDdHOGNBTDFVNmt3T2lIM19RY0pZRDhhdUFuejU2MnZZd0lDWU1kbTBHS3ZFamlqWmZDekJPcXRlN3JPVG9maEJCWDNCYU1EQVhqaEMzUW8?oc=5",
+       "via": "googlenews"
+      },
+      {
+       "id": "ft",
+       "name": "Financial Times",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Ukraine’s allies vow to pressure Moscow as Trump claims ‘energy ceasefire’ in place - Financial Times",
+       "desc": "Ukraine’s allies vow to pressure Moscow as Trump claims ‘energy ceasefire’ in place Financial Times",
+       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQc2oxNy1QMS11end2NXROT2ZBZmRKREFncnc1ZDc5dXFLclhrOVpBdU1OMjZwc3FueUl2OXdEWm9Fem5VQ3FXUi1ZMUJnc1U5R2hrbjA0Tzlpcm42YmJBQmlGX0MxQWR1MmhValdGTjRQa3VmUDg5aklyVWVyREZOamNWY28?oc=5",
+       "via": "googlenews"
+      },
+      {
+       "id": "jiji",
+       "name": "時事通信",
+       "region": "jp",
+       "weight": 0.5,
+       "title": "「エネルギー停戦」で合意 ロシアとウクライナ―トランプ米大統領",
+       "desc": "",
+       "url": "https://www.jiji.com/jc/article?k=2026101100484&g=int&m=rss",
+       "via": null
+      },
+      {
+       "id": "yahoo-world",
+       "name": "Yahoo!ニュース 国際",
+       "region": "jp",
+       "weight": 0.71,
+       "title": "ロ軍が発電所攻撃とゼレンスキー氏(共同通信)",
+       "desc": "【キーウ共同】ウクライナのゼレンスキー大統領は11日、トランプ米大統領がウクライナとロシアのエネルギー関連施設の攻撃停止を一方的に発表した後に、ロシア軍が東部ハルキウの発電所を攻撃したとX（旧ツイッタ",
+       "url": "https://news.yahoo.co.jp/articles/cce684837b5d1c3019667032a16cc4a9347ce069?source=rss",
+       "via": null
+      },
+      {
+       "id": "yahoo",
+       "name": "Yahoo!ニュース主要",
+       "region": "jp",
+       "weight": 1,
+       "title": "エネルギー停戦発表 ウは「初耳」",
+       "desc": "",
+       "url": "https://news.yahoo.co.jp/pickup/6598444?source=rss",
+       "via": null
+      },
+      {
+       "id": "nikkei",
+       "name": "日本経済新聞",
+       "region": "jp",
+       "weight": 0.5,
+       "title": "トランプ氏、ロシアとウクライナの「エネルギー停戦」合意を主張 - 日本経済新聞",
+       "desc": "トランプ氏、ロシアとウクライナの「エネルギー停戦」合意を主張 日本経済新聞",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6X0NocW1WMHYweTNmUml2dkNDOUxmeDRjQjFoanZneUVuOTBqZmdLZnE3WnhORXFGUFU2dWtZNEVNWVBDX3MtUGhxUnM1ckVkb1ZqQ3pCV1otcWVuUlhMdHJrNVhTS29hbktERA?oc=5",
+       "via": "googlenews"
+      }
+     ]
+    }
+   },
+   "latestTitle": "トランプ氏主張の露ウ停戦発表に波紋",
+   "japan": false,
+   "lastSeen": "2026-10-12"
+  },
+  "s-20261012-03": {
+   "id": "s-20261012-03",
+   "title": "トランプ氏、ウクライナの新大統領を要求",
+   "firstSeen": "2026-10-12",
+   "days": {
+    "2026-10-12": {
+     "worldScore": 26,
+     "worldCoverage": 9,
+     "jpScore": 8,
+     "jpCoverage": 1,
+     "outlets": [
+      {
+       "id": "bbc",
+       "name": "BBC",
+       "region": "world",
+       "weight": 0.33,
+       "title": "Watch: 'Time for Ukraine to get a new president', says Trump",
+       "desc": "The US president's said President Volodymyr Zelensky \"wants to make problems for the world\".",
+       "url": "https://www.bbc.co.uk/news/videos/cwkg50dgpml7o?at_medium=RSS&at_campaign=rss",
+       "via": null
+      },
+      {
+       "id": "nyt",
+       "name": "New York Times",
+       "region": "world",
+       "weight": 0.91,
+       "title": "Ukraine Shrugs Off Trump Call to Ditch Zelensky for Energy Strikes",
+       "desc": "President Trump lashed out at President Volodymyr Zelensky for striking Russian oil refineries. Mr. Zelensky said he’ll stop — if Russia does too.",
+       "url": "https://www.nytimes.com/2026/10/11/world/europe/trump-zelensky-diesel-energy-russia-.html",
+       "via": null
+      },
+      {
+       "id": "france24",
+       "name": "France 24",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Trump says Ukraine needs new president who will agree to end war",
+       "desc": "US President Donald Trump on Saturday urged Ukraine to replace Volodymyr Zelensky with a new leader, criticising him over strikes on Russian oil refineries that have contributed to high diesel prices ahead of the US midterm elections. Trump told reporters at the White House that he had told Zelensky to \"do what you want\" against Russia, but \"don't hit refineries\". \"He better damn well stop,\" Trump said, adding that he believes \"it's time for Ukraine to get a new president\" who would agree to end the war. We discuss the latest developments with our guest, Pyotr Kurzin, host of The Global Gambit",
+       "url": "https://www.france24.com/en/video/20261011-trump-says-ukraine-needs-new-president-who-will-agree-to-end-war",
+       "via": null
+      },
+      {
+       "id": "euronews",
+       "name": "Euronews",
+       "region": "world",
+       "weight": 0.5,
+       "title": "'Up to our people' to pick leader, Zelenskyy responds to Trump's pledge for new elections in Ukraine",
+       "desc": "Only Russia is responsible for the war in Ukraine, Ukrainian President Volodymyr Zelenskyy said Sunday in a TV interview, responding to criticism from US President Donald Trump, who blamed him for high diesel prices and said he should be replaced.",
+       "url": "https://www.euronews.com/2026/10/11/up-to-our-people-to-pick-leader-zelenskyy-responds-to-trumps-pledge-for-new-elections-in-u",
+       "via": null
+      },
+      {
+       "id": "cbs",
+       "name": "CBS News",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Trump says Ukraine needs new president, blames Zelenskyy for diesel prices",
+       "desc": "President Trump&#039;s criticism of Ukrainian President Volodymyr Zelenskyy comes after Russian strikes killed at least 20 people, including three children, in Ukraine.",
+       "url": "https://www.cbsnews.com/news/russia-strikes-ukraine-trump-diesel-deal/",
+       "via": null
+      },
+      {
+       "id": "toi",
+       "name": "Times of India",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Zelenskyy says ready to hold Ukraine elections if Russia offers 60-day ceasefire",
+       "desc": "Ukrainian President Volodymyr Zelensky suggested organizing elections if a 60-day ceasefire with Russia is established. He reacted to criticisms from Donald Trump regarding his leadership and military actions. Zelensky emphasized that the decision of Ukraine's leadership lies with its people, not external figures. He acknowledged an announcement of an energy ceasefire, but stated it was news to him.",
+       "url": "https://timesofindia.indiatimes.com/world/europe/zelenskyy-hits-back-after-trumps-remark-says-ready-to-hold-ukraine-elections-if-russia-offers-60-day-ceasefire/articleshow/134873439.cms",
+       "via": null
+      },
+      {
+       "id": "straits",
+       "name": "The Straits Times",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Ukraine's Zelenskiy tells ABC he will organize elections if Russia agrees to 60-day ceasefire",
+       "desc": "WASHINGTON, Oct 11 - Ukrainian President Volodymyr Zelenskiy said on Sunday in response to critical comments from US President Donald Trump that he will organize Ukraine elections if Russian President Vladimir Putin agreed to a 60-day ceasefire.",
+       "url": "https://www.straitstimes.com/world/europe/ukraines-zelenskiy-tells-abc-he-will-organize-elections-if-russia-agrees-to-60-day-ceasefire",
+       "via": null
+      },
+      {
+       "id": "reuters",
+       "name": "Reuters",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Ukraine's Zelenskiy tells ABC he will organize elections if Russia agrees to 60-day ceasefire - Reuters",
+       "desc": "Ukraine's Zelenskiy tells ABC he will organize elections if Russia agrees to 60-day ceasefire Reuters",
+       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbHBvR1Y0bmdYLTV0NHhWQXE1MFFTMHlvYmZRYnRILVMxM3JiSnJaSVBmbUkzVmN6VXptNnBsNDhXRXZEX2hBS1FOZGhyc3Zid3poMksyLUVLNHZkTGNUekxjWUlyejF6N3hpVDdQcFE4OG92REpjamxKSzV0YURObE9xV1FwYlJ5TVUwZjB5N3hSYzJLTUJuV0c0VG1TZ29jMlN0dDQyOTNDR2tBR1dRRS1jWmloaGVTbU9LOEN2ZnBFZFlmdHJn?oc=5",
+       "via": "googlenews"
+      },
+      {
+       "id": "bloomberg",
+       "name": "Bloomberg",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Trump Says Ukraine Needs New Leader Who Can Deal With Putin - Bloomberg.com",
+       "desc": "Trump Says Ukraine Needs New Leader Who Can Deal With Putin Bloomberg.com",
+       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNckxnVi1pcmhqQlhRVHp0ekxTc25odmRCZmhzTi1hdEpBbWloM2VFVzhFd0dHWkJtSUljNGlpUERBUDNrYWpibmFoSUJCTkJXZFdrTnVjcHhiUGl5Slp2NnZmd2gxc3BxM2NPYmRmQ21hcjQ4eEJ5VElpYjdnX1ZvSEZiZ2FVWWNNMTRTWUI3V3I2UFMzMFg1MzJqWnI2ZEZCMXl5WkFldVluM2xqVEI4bkNBVzk?oc=5",
+       "via": "googlenews"
+      },
+      {
+       "id": "nikkei",
+       "name": "日本経済新聞",
+       "region": "jp",
+       "weight": 0.5,
+       "title": "トランプ氏「ウクライナに新大統領を」 対ロ攻撃でゼレンスキー氏に圧力 - 日本経済新聞",
+       "desc": "トランプ氏「ウクライナに新大統領を」 対ロ攻撃でゼレンスキー氏に圧力 日本経済新聞",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83cnhKNzhXVEkwSTJQMFpFdHBkdVJmT3ZuNFRQR0NIeHFVV0M1NDdBblRSWG5KbEV1RldKSUZKZjJrM19LdVdGeXh3U0wtWmdLZVU4U1FJaWpkdFl0N3ZUbTRxTml5cUdJZm1lVA?oc=5",
+       "via": "googlenews"
+      }
+     ]
+    }
+   },
+   "latestTitle": "トランプ氏、ウクライナの新大統領を要求",
+   "japan": false,
+   "lastSeen": "2026-10-12"
+  },
+  "s-20261012-04": {
+   "id": "s-20261012-04",
+   "title": "米露の軽油合意巡り批判、ウ支援停止警告も",
+   "firstSeen": "2026-10-12",
+   "days": {
+    "2026-10-12": {
+     "worldScore": 31,
+     "worldCoverage": 10,
+     "jpScore": 0,
+     "jpCoverage": 0,
+     "outlets": [
+      {
+       "id": "guardian",
+       "name": "The Guardian",
+       "region": "world",
+       "weight": 0.65,
+       "title": "Trump’s deal with Putin will have little impact on US diesel prices, experts say",
+       "desc": "Analysts say fuel will take weeks to ship and quantity is too small to affect prices, while full deal is unlikely to be met given damage to Russian refineries Trump announces partial ceasefire but Zelenskyy says deal is ‘news to me’ Donald Trump’s deal with Vladimir Putin to temporarily lift sanctions on US imports of Russian diesel will have little “meaningful” effect on motorists and businesses in the US and overseas, energy and foreign policy analysts have predicted. The US president infuriated Volodymyr Zelenskyy when he announced the deal on Friday, writing on Truth Social that the agreem",
+       "url": "https://www.theguardian.com/us-news/2026/oct/11/trump-russia-diesel-deal-putin-little-impact-prices",
+       "via": null
+      },
+      {
+       "id": "aljazeera",
+       "name": "Al Jazeera",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Republican senator says Trump diesel agreement with Russia may be illegal",
+       "desc": "US President Trump&#039;s bid to bring down diesel prices by easing sanctions on Russia prompts rare Republican criticism.",
+       "url": "https://www.aljazeera.com/news/2026/10/11/republican-senator-says-trump-diesel-agreement-with-russia-may-be-illegal?traffic_source=rss",
+       "via": null
+      },
+      {
+       "id": "france24",
+       "name": "France 24",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Trump, Zelensky clash over diesel deal as Russian strikes kill 21",
+       "desc": "US President Donald Trump and Ukrainian leader Volodymyr Zelensky traded barbs Saturday after Washington moved to ease sanctions on Russian diesel and Moscow's continued strikes on Ukraine killed at least 21 people, including four children.",
+       "url": "https://www.france24.com/en/video/20261011-trump-zelensky-clash-over-diesel-deal-as-russian-strikes-kill-21",
+       "via": null
+      },
+      {
+       "id": "npr",
+       "name": "NPR",
+       "region": "world",
+       "weight": 0.84,
+       "title": "Ukrainian MP calls U.S.-Russia diesel deal a 'betrayal'",
+       "desc": "NPR's Joel Rose speaks with Ukrainian Minister of Parliament, Oleksandr Merezhko, about the U.S.'s diesel deal with Russia will impact Ukraine.",
+       "url": "https://www.npr.org/2026/10/11/nx-s1-5997466/ukrainian-mp-calls-u-s-russia-diesel-deal-a-betrayal",
+       "via": null
+      },
+      {
+       "id": "scmp",
+       "name": "South China Morning Post",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Trump’s Russian diesel deal may be illegal, says prominent Republican senator",
+       "desc": "Republican US Senator Thom ⁠Tillis on Sunday said US President Donald ⁠Trump’s diesel supply deal with Russia may be ⁠illegal and will put American lives at risk, adding to bipartisan criticism of the arrangement announced by the president on Friday. Trump said Russia had agreed to supply diesel to global markets and his administration temporarily lifted US sanctions on Russian fuel that were designed to deprive Moscow of revenue for its war on ‌Ukraine. “I do believe there’s a legitimate case...",
+       "url": "https://www.scmp.com/news/world/united-states-canada/article/3370512/trumps-russian-diesel-deal-may-be-illegal-says-prominent-republican-senator?utm_source=rss_feed",
+       "via": null
+      },
+      {
+       "id": "cbs",
+       "name": "CBS News",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Ukraine says it won&#039;t stop attacking Russian oil resources amid diesel fuel deal with U.S.",
+       "desc": "President Trump is arguing that Ukraine needs a new president as Volodymyr Zelenskyy refuses to halt strikes on Russian oil refineries despite the country&#039;s commitment to provide diesel fuel to the U.S. Kamal Afzali has the story.",
+       "url": "https://www.cbsnews.com/video/ukraine-says-it-wont-stop-attacking-russian-oil-resources-amid-diesel-fuel-deal-with-us/",
+       "via": null
+      },
+      {
+       "id": "straits",
+       "name": "The Straits Times",
+       "region": "world",
+       "weight": 0.5,
+       "title": "US threatens to block arms for Ukraine over refinery attacks, FT reports",
+       "desc": "Oct 11 - The US is threatening to stop the procurement system that provides Ukraine with weapons in order to press Kyiv to halt its deep strikes on Russian energy infrastructure, the Financial Times reported on Sunday, citing officials in Europe.",
+       "url": "https://www.straitstimes.com/world/europe/us-threatens-to-block-arms-for-ukraine-over-refinery-attacks-ft-reports",
+       "via": null
+      },
+      {
+       "id": "reuters",
+       "name": "Reuters",
+       "region": "world",
+       "weight": 0.5,
+       "title": "US threatens to block arms for Ukraine over refinery attacks, FT reports - Reuters",
+       "desc": "US threatens to block arms for Ukraine over refinery attacks, FT reports Reuters",
+       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaUx0a0pvZmw1VkxoRkUyc1VTemRoQV9zWEFZMmpFd3ozM0Ytdy1QMnM1Rjg1Z0FnaklEZlktUWI3Z05mMlVYQmx0c3h3X29aMUIwN01ETml6cDVhNi1TUmVWMHZicnlHdHhHc0xXZ0Z6M0QwUEJEeE1ld3BWWHI2VlpRY2Z1QW44U0xnNTVXYVJBdkxGbThsWkVqVHdXbUxmNTI5NjZKaEpteDBYTlNkbmRSMA?oc=5",
+       "via": "googlenews"
+      },
+      {
+       "id": "ap",
+       "name": "Associated Press",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Six senators call for Trump administration to 'immediately reverse course' on Russian diesel plan - AP News",
+       "desc": "Six senators call for Trump administration to 'immediately reverse course' on Russian diesel plan AP News",
+       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbzFvT0JzYVBTcnhFT2NlVFFkbm1QaTkzWWxVYTB0RXkyR2NiZ21YeGotZHJvUDBuY0plUzlpNXpxYWdIUjdmUWt6MDRXVkdlTmVUSHNFU3ZzZENfVks3ZmxVVlByRG1zNEtDUllOUm9vRldaQTU5YnZ2eUZ0Ti10WWNyX214S3NIUjlDb0NBSVFrZzRIMWtVRVkyVE5fVGJuN1NYRy14cw?oc=5",
+       "via": "googlenews"
+      },
+      {
+       "id": "ft",
+       "name": "Financial Times",
+       "region": "world",
+       "weight": 0.5,
+       "title": "US threatens to block arms for Ukraine over attacks on Russian refineries - Financial Times",
+       "desc": "US threatens to block arms for Ukraine over attacks on Russian refineries Financial Times",
+       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObzNObGJkNVppUXVIMm5XeDBhZGdpYkxwcG1La0NvOEJqMkpBNmk2NFVhNmpMbFJ4RUlxWTE3NzJJYy1fSDFOOXpKaG9iZENkVVFPWlVrVktTVVpYOXdqcF9obF91eVpKamk5enR1RnZFRmE5ZFpURXVPbFdsYndKdW1NY0g?oc=5",
+       "via": "googlenews"
+      }
+     ]
+    }
+   },
+   "latestTitle": "米露の軽油合意巡り批判、ウ支援停止警告も",
+   "japan": false,
+   "lastSeen": "2026-10-12"
+  },
+  "s-20261012-05": {
+   "id": "s-20261012-05",
+   "title": "ポーランド首相暗殺を計画した容疑で男逮捕",
+   "firstSeen": "2026-10-12",
+   "days": {
+    "2026-10-12": {
+     "worldScore": 26,
+     "worldCoverage": 8,
+     "jpScore": 6,
+     "jpCoverage": 1,
+     "outlets": [
+      {
+       "id": "bbc",
+       "name": "BBC",
+       "region": "world",
+       "weight": 0.97,
+       "title": "Poland detains man suspected of planning assassination of PM Tusk",
+       "desc": "Police received credible information about possible attacks against Donald Tusk and his defence minister.",
+       "url": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
+       "via": null
+      },
+      {
+       "id": "guardian",
+       "name": "The Guardian",
+       "region": "world",
+       "weight": 0.68,
+       "title": "Donald Tusk says man accused of plotting to kill him detained",
+       "desc": "Polish PM praises police for ‘swift and decisive action’ after threat against him and defence minister revealed The Polish prime minister, Donald Tusk, said on Sunday that a man accused of plotting to assassinate him and his defence minister had been detained. “The man threatening an attack has been detained,” Tusk wrote on X, praising the police for their “swift and decisive action”. Continue reading...",
+       "url": "https://www.theguardian.com/world/2026/oct/11/poland-possible-plot-attack-prime-minister-donald-tusk",
+       "via": null
+      },
+      {
+       "id": "euronews",
+       "name": "Euronews",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Man who planned to attack Poland's prime minister has been arrested, interior minister says",
+       "desc": "After Poland's police said Sunday they received information about a possible plot to attack Prime Minister Donald Tusk and Defence Minister Władysław Kosiniak-Kamysz, the Polish interior minister announced the man was arrested.",
+       "url": "https://www.euronews.com/2026/10/11/polish-police-alerted-over-possible-attack-on-pm-donald-tusk",
+       "via": null
+      },
+      {
+       "id": "scmp",
+       "name": "South China Morning Post",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Poland detains suspect in alleged assassination attempt on PM, defence minister",
+       "desc": "Polish Prime Minister Donald Tusk said on Sunday a man accused of threatening an assassination attack against him and his defence minister had been detained, following an earlier announcement of suspected threats from the interior ministry. “The man threatening an attack has been detained,” Tusk wrote on social media, praising the police for their “swift and decisive action”. Earlier, the interior ministry said Tusk and Defence Minister Wladyslaw Kosiniak-Kamysz may have been targeted by...",
+       "url": "https://www.scmp.com/news/world/europe/article/3370502/poland-probes-suspected-assassination-attempts-pm-defence-minister?utm_source=rss_feed",
+       "via": null
+      },
+      {
+       "id": "straits",
+       "name": "The Straits Times",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Polish police detain man over threat to PM and defence minister",
+       "desc": "WARSAW, Oct 11 - Polish police have detained a man suspected of planning an attack on Prime Minister Donald Tusk and Defence Minister Wladyslaw Kosiniak-Kamysz, the Interior Minister said on Sunday.",
+       "url": "https://www.straitstimes.com/world/europe/poland-says-police-got-information-about-possible-attack-on-pm-and-defence-minister",
+       "via": null
+      },
+      {
+       "id": "reuters",
+       "name": "Reuters",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Polish police detain man over threat to PM and defence minister - Reuters",
+       "desc": "Polish police detain man over threat to PM and defence minister Reuters",
+       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQM3Zhb3YxM0h0Nm9Cd1E0Q3NNempnci1DZG9CMXNxdUx4TFJvSkwxRnAtZEdJT3BTTnZrMlROOE1JdjdlbXI2OGtGRlhlQXNLY0hKNnVIUHpQal9zcXF0cjd6TUFLUklFM0g5cUs5T3hWNHhPWlQ2Ni1fVkZJc1VBZ0JGX251MkV0Ty1SOTBRcl9ZeE5qOU5vbDhUUHhTMHVBVkJRZGNSMkZlVXNtSkJYMVpYX3JwRHpVRnp4VXBjanVlWFk?oc=5",
+       "via": "googlenews"
+      },
+      {
+       "id": "ap",
+       "name": "Associated Press",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Polish police arrest a man suspected of planning to attack Prime Minister Donald Tusk - AP News",
+       "desc": "Polish police arrest a man suspected of planning to attack Prime Minister Donald Tusk AP News",
+       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTEM0SEhDMFJtcDRlUkZUWnhzT2hKMnZqQnNzS3RLb0t1Uy1TMWx4SGpqUElWYWRBNlZ5VjlibEJ3cnlYTGNLWHN2OEtJazJPQ3NYaXJHY3A5eXBCZmYyVjU5TDNDbTJwbDAwdzBYdlVrNVdteURRX3dTV3I0SEJ2RHpNaGVjeW5POHdtb0c0XzVkQWZCa0tsSEVjcDZNRTdp?oc=5",
+       "via": "googlenews"
+      },
+      {
+       "id": "bloomberg",
+       "name": "Bloomberg",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Poland Probes Possible Attack Planned on Premier, Defense Chief - Bloomberg.com",
+       "desc": "Poland Probes Possible Attack Planned on Premier, Defense Chief Bloomberg.com",
+       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUzNmVnNkWldidjRsZjRrQ1kzQ0lRbm02VWdRa0NXRWVGY2F5eXl2azVLenRDLXV2WERHR1ZjX2VmdklJU2Y5Tmc5VDdfYlpObE4wZG9zdUY0MndfZTFRLVFQYnFGR0NTci1tYUVwTFh0V2lLNmVQaTNub0FHNUpPd0NSTjZMRWl0Y19xUnZUMWhHcmNHbjFZRlZnbnZfWm5JQlhqTDBGZ05hR3hzRzNnU0lYMA?oc=5",
+       "via": "googlenews"
+      },
+      {
+       "id": "yahoo-world",
+       "name": "Yahoo!ニュース 国際",
+       "region": "jp",
+       "weight": 0.33,
+       "title": "ポーランド首相暗殺計画か 治安当局の緊急会議招集(共同通信)",
+       "desc": "【ベルリン共同】ポーランド内務・行政省の報道官は11日、トゥスク首相とコシニャクカミシュ副首相兼国防相の暗殺が計画されている可能性があるとの情報が警察に寄せられたと、X（旧ツイッター）に投稿した。 キ",
+       "url": "https://news.yahoo.co.jp/articles/0b33c4c20e25554bd8ef89095051e619470bbb10?source=rss",
+       "via": null
+      }
+     ]
+    }
+   },
+   "latestTitle": "ポーランド首相暗殺を計画した容疑で男逮捕",
+   "japan": false,
+   "lastSeen": "2026-10-12"
+  },
+  "s-20261012-06": {
+   "id": "s-20261012-06",
+   "title": "スーダン・エジプト国境の金鉱空爆で多数死",
+   "firstSeen": "2026-10-12",
+   "days": {
+    "2026-10-12": {
+     "worldScore": 24,
+     "worldCoverage": 7,
+     "jpScore": 0,
+     "jpCoverage": 0,
+     "outlets": [
+      {
+       "id": "bbc",
+       "name": "BBC",
+       "region": "world",
+       "weight": 0.94,
+       "title": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
+       "desc": "Neither Egypt nor Sudan has commented on the alleged strikes on an artisanal mining camp on Saturday.",
+       "url": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss",
+       "via": null
+      },
+      {
+       "id": "aljazeera",
+       "name": "Al Jazeera",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Deadly air strike kills dozens at Sudan gold mine near Egypt border",
+       "desc": "An air strike hit a gold mine near Sudan’s border with Egypt, killing at least 72 people and injuring more than 50.",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/deadly-air-strike-kills-dozens-at-sudan-gold-mine-near-egypt-border?traffic_source=rss",
+       "via": null
+      },
+      {
+       "id": "dw",
+       "name": "Deutsche Welle",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Air strikes kill dozens of gold miners on Sudan-Egypt border",
+       "desc": "A Sudan-based rights group said 72 people were killed in a remote, disputed area known for illegal gold mining.",
+       "url": "https://www.dw.com/en/air-strikes-kill-dozens-of-gold-miners-on-sudan-egypt-border/a-79634889?maca=en-rss-en-world-4025-rdf",
+       "via": null
+      },
+      {
+       "id": "sky",
+       "name": "Sky News",
+       "region": "world",
+       "weight": 0.91,
+       "title": "'At least 72' miners killed in airstrike",
+       "desc": "Dozens of miners have been killed in an airstrike in the border region between Sudan and Egypt, according to a human rights group.",
+       "url": "https://news.sky.com/story/at-least-72-miners-killed-in-airstrike-on-sudan-egypt-border-13597904",
+       "via": null
+      },
+      {
+       "id": "toi",
+       "name": "Times of India",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Border triangle airstrike: At least 13 gold miners killed in strike; toll could rise amid limited care",
+       "desc": "",
+       "url": "https://timesofindia.indiatimes.com/world/rest-of-world/gold-rush-turns-deadly-airstrike-kills-13-miners-in-sudan-egypt-border-zone/articleshow/134875722.cms",
+       "via": null
+      },
+      {
+       "id": "straits",
+       "name": "The Straits Times",
+       "region": "world",
+       "weight": 0.5,
+       "title": "At least 72 Sudanese artisanal miners killed in strike, rights monitor says",
+       "desc": "Oct 11 - At least 72 artisanal miners were killed in an airstrike in northern Sudan on Saturday, rights monitor Emergency Lawyers said on Sunday, in the second such incident in several months.",
+       "url": "https://www.straitstimes.com/world/middle-east/at-least-72-sudanese-artisanal-miners-killed-in-strike-rights-monitor-says",
+       "via": null
+      },
+      {
+       "id": "reuters",
+       "name": "Reuters",
+       "region": "world",
+       "weight": 0.5,
+       "title": "At least 72 Sudanese artisanal miners killed in strike, rights monitor says - Reuters",
+       "desc": "At least 72 Sudanese artisanal miners killed in strike, rights monitor says Reuters",
+       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQX3AyZ09uYTc2bWo2anlka18tNTY5eXB4MmRfeVhQR0R2MUtScC1DcUI3M0hmcFo0dTlTWXFtQmNuNzZ1OHg5cDVoUlBlSm1XaWRVbnpLNmU1VmFRUVFiaEtmVXJhdFhiNWF1YXl0MGptc0hJd1hyaFlNRVpkWFhUY1NaeW5zbVh4Mzktb0lyYXN3Q1lIQWdydkR5TURYYUlzcVI2NmFLYWgzS2hrUHlLR3ZHS3NvcEdnSHd2b1RuSE96aXRk?oc=5",
+       "via": "googlenews"
+      }
+     ]
+    }
+   },
+   "latestTitle": "スーダン・エジプト国境の金鉱空爆で多数死",
+   "japan": false,
+   "lastSeen": "2026-10-12"
+  },
+  "s-20261012-07": {
+   "id": "s-20261012-07",
+   "title": "ネパールで再び土石流、家屋流失や5人不明",
+   "firstSeen": "2026-10-12",
+   "days": {
+    "2026-10-12": {
+     "worldScore": 16,
+     "worldCoverage": 5,
+     "jpScore": 38,
+     "jpCoverage": 3,
+     "outlets": [
+      {
+       "id": "bbc",
+       "name": "BBC",
+       "region": "world",
+       "weight": 0.91,
+       "title": "Homes and bridges swept away as fresh floods hit Nepal",
+       "desc": "Nepal is still trying to recover from catastrophic floods that hit less than two months ago, leaving thousands dead and missing.",
+       "url": "https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss",
+       "via": null
+      },
+      {
+       "id": "aljazeera",
+       "name": "Al Jazeera",
+       "region": "world",
+       "weight": 0.5,
+       "title": "At least five people missing as flash floods in Nepal sweep away houses",
+       "desc": "Authorities urge villagers to move to safer places after a river in the central part of the country bursts its banks.",
+       "url": "https://www.aljazeera.com/news/2026/10/11/at-least-five-people-missing-as-flash-floods-in-nepal-sweep-away-houses?traffic_source=rss",
+       "via": null
+      },
+      {
+       "id": "euronews",
+       "name": "Euronews",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Nepal orders evacuations after landslide triggers Budhi Gandaki flash flood",
+       "desc": "Nepal’s authorities ordered residents along the Budhi Gandaki River to evacuate on Sunday, 11 October, after a sudden flash flood swept away homes and other buildings in the country’s mountainous north-central region.",
+       "url": "https://www.euronews.com/video/2026/10/11/nepal-orders-evacuations-after-landslide-triggers-budhi-gandaki-flash-flood",
+       "via": null
+      },
+      {
+       "id": "sky",
+       "name": "Sky News",
+       "region": "world",
+       "weight": 0.48,
+       "title": "Flash flooding triggered by landslide destroys homes in Nepal",
+       "desc": "Flash flooding has destroyed homes along a river in the central part of Nepal, with residents being evacuated by helicopter.",
+       "url": "https://news.sky.com/story/residents-evacuated-after-flash-flooding-destroys-homes-in-nepal-13597674",
+       "via": null
+      },
+      {
+       "id": "ap",
+       "name": "Associated Press",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Villages evacuated as flash flood from Budhi Gandaki river hits northern Nepal - AP News",
+       "desc": "Villages evacuated as flash flood from Budhi Gandaki river hits northern Nepal AP News",
+       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSHJiTE5uU0t3VjY2XzhVV09yeXR5OV9OWDdYeHpJMk15WW1ScXplQnZIRFJWT2RkdHpfRHhMZjZhUDdVcmZoUldnUXo0bEtPa1F2Q3JHWGtieFV5YkE5WDdNa29lbVNpWXBaQ2ZhQWNrRzQ1VkhkLVdaUjNOYjlpZHRVTVU2TkZPTlBvM3FSOUpBVmhXMFhYUzVBUHI4UlpUMm5HYnd3RUFSY0pt?oc=5",
+       "via": "googlenews"
+      },
+      {
+       "id": "mainichi",
+       "name": "毎日新聞",
+       "region": "jp",
+       "weight": 0.5,
+       "title": "ネパールで再び土石流 少なくとも5人不明 家屋30軒流されたか",
+       "desc": "",
+       "url": "https://mainichi.jp/articles/20261011/k00/00m/030/175000c",
+       "via": null
+      },
+      {
+       "id": "yahoo-world",
+       "name": "Yahoo!ニュース 国際",
+       "region": "jp",
+       "weight": 0.97,
+       "title": "ネパールで再び土石流が発生 大規模な地滑りが原因か(テレビ朝日系（ANN）)",
+       "desc": "8月に大規模な土砂災害が起きたネパールで再び土石流が発生し、5人の行方が分からなくなっています。 ネパール当局によりますと、11日、中部ゴルカ郡で土石流が発生し、男性3人、女性2人の合わせて5人が行方",
+       "url": "https://news.yahoo.co.jp/articles/e00c164e6656e412549beea981748bb98c081420?source=rss",
+       "via": null
+      },
+      {
+       "id": "yahoo",
+       "name": "Yahoo!ニュース主要",
+       "region": "jp",
+       "weight": 0.8,
+       "title": "ネパールで再び土石流 5人不明",
+       "desc": "",
+       "url": "https://news.yahoo.co.jp/pickup/6598442?source=rss",
+       "via": null
+      }
+     ]
+    }
+   },
+   "latestTitle": "ネパールで再び土石流、家屋流失や5人不明",
+   "japan": false,
+   "lastSeen": "2026-10-12"
+  },
+  "s-20261012-08": {
+   "id": "s-20261012-08",
+   "title": "ウクライナ、露ヤンデックス施設に攻撃",
+   "firstSeen": "2026-10-12",
+   "days": {
+    "2026-10-12": {
+     "worldScore": 16,
+     "worldCoverage": 5,
+     "jpScore": 10,
+     "jpCoverage": 1,
+     "outlets": [
+      {
+       "id": "bbc",
+       "name": "BBC",
+       "region": "world",
+       "weight": 0.88,
+       "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+       "desc": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.",
+       "url": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
+       "via": null
+      },
+      {
+       "id": "euronews",
+       "name": "Euronews",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Russian army strikes Sloviansk and Kyiv as Ukrainian drones hit third Yandex data centre",
+       "desc": "Russian forces struck two apartment blocks in Sloviansk, injuring four, and hit warehouses in Kyiv. Overnight, Ukrainian drones targeted Yandex's data centre in Vladimir, causing major service outages but no casualties.",
+       "url": "https://www.euronews.com/2026/10/11/russian-army-strikes-sloviansk-and-kyiv-as-ukrainian-drones-hit-third-yandex-data-centre",
+       "via": null
+      },
+      {
+       "id": "toi",
+       "name": "Times of India",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Ukraine steps up attacks on Russian tech infrastructure, damages third data center",
+       "desc": "A recent drone strike by Ukraine has damaged a Yandex data center in Vladimir, disrupting operations and causing service outages in taxi and banking sectors across multiple cities. This incident is part of a series of continuous aerial assaults on Yandex facilities, raising alarms over rising diesel prices in the U.S. Additionally, a drone strike in Bryansk has resulted in casualties, intensifying regional tensions.",
+       "url": "https://timesofindia.indiatimes.com/world/europe/ukraine-steps-up-attacks-on-russian-tech-infrastructure-damages-third-data-center/articleshow/134873093.cms",
+       "via": null
+      },
+      {
+       "id": "reuters",
+       "name": "Reuters",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Russia's Yandex says data centre in Vladimir area shut down after drone attack - Reuters",
+       "desc": "Russia's Yandex says data centre in Vladimir area shut down after drone attack Reuters",
+       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaEVGTzhxN05TYWgtUkQySl9UR3lQVGpkSDlobUNfX1drYzdjQ2p1SlZ0SmFnT2U0NW05UlpDdVVpaFR4OFpXRnJMUjdiMDBxeEc3R2Q1Y19PRGpKRkpmRkhfQUwyQUVnSEpYNVBRT1lSX2J1UlREeTJDdWVmcVZpckhzcmJZRUo2X2IwT0tXd3l3YUVTUWpNbzNEOU02WUxXazZwUnF2YVVESFJWSTkyakU1R3ktd2tVTF9CN0xvUmk?oc=5",
+       "via": "googlenews"
+      },
+      {
+       "id": "bloomberg",
+       "name": "Bloomberg",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Ukraine Hits Third Russian Yandex Data Hub, Disrupting Services - Bloomberg.com",
+       "desc": "Ukraine Hits Third Russian Yandex Data Hub, Disrupting Services Bloomberg.com",
+       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTngtRW01bzB5OUFBemlTUjM2UjlDemg5ZFNwblE2UEZ2RUZYUXV0eDlGUlEzSjRtRkRSTDZrNkE0NEdBbkpROGtlMVhaTnRQbHU2TEFPdmludG5iTzBLcVN2QzhVS0hvZy1saGhVb082Z0FnQXdFcExVUDRScnczSko3X0ZKTUtNU0EyeUdVbnM2SElLRFpHTm9vY25LamJ3endpSEtPeFZtZGlPZnBCRnVkaw?oc=5",
+       "via": "googlenews"
+      },
+      {
+       "id": "yahoo-world",
+       "name": "Yahoo!ニュース 国際",
+       "region": "jp",
+       "weight": 0.59,
+       "title": "ウクライナがロシアのデータセンター攻撃 タクシーやデリバリーなど市民生活に影響(テレビ朝日系（ANN）)",
+       "desc": "ロシアではウクライナのドローンによるデータセンター攻撃で市民生活に影響が出始めています。 ロシアメディアによりますと、8日から11日にかけ、ロシアのインターネットサービス最大手「ヤンデックス」のロシア",
+       "url": "https://news.yahoo.co.jp/articles/9cd2c5042643a02806fb082399feae8a3ae4e093?source=rss",
+       "via": null
+      }
+     ]
+    }
+   },
+   "latestTitle": "ウクライナ、露ヤンデックス施設に攻撃",
+   "japan": false,
+   "lastSeen": "2026-10-12"
+  },
+  "s-20261012-09": {
+   "id": "s-20261012-09",
+   "title": "ジブチ沖で移民船転覆、100人以上死亡",
+   "firstSeen": "2026-10-12",
+   "days": {
+    "2026-10-12": {
+     "worldScore": 21,
+     "worldCoverage": 6,
+     "jpScore": 5,
+     "jpCoverage": 1,
+     "outlets": [
+      {
+       "id": "bbc",
+       "name": "BBC",
+       "region": "world",
+       "weight": 0.79,
+       "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
+       "desc": "The boat was travelling from Djibouti to Yemen with 305 people on board, when it capsized near the port town of Obock on Thursday night.",
+       "url": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
+       "via": null
+      },
+      {
+       "id": "nyt",
+       "name": "New York Times",
+       "region": "world",
+       "weight": 0.53,
+       "title": "Over 100 Migrants Are Dead After Boat Capsizes Near Djibouti",
+       "desc": "The shipwreck is among the deadliest ever recorded on the route to Yemen, the International Organization for Migration said. Dozens remain missing, and the bodies of 15 children were recovered.",
+       "url": "https://www.nytimes.com/2026/10/11/world/africa/migrant-boat-capsize-djibouti-dead-yemen.html",
+       "via": null
+      },
+      {
+       "id": "euronews",
+       "name": "Euronews",
+       "region": "world",
+       "weight": 0.5,
+       "title": "At least 139 migrants dead after boat capsizes off Djibouti, UN says",
+       "desc": "The UN's IOM agency says tens of thousands of migrants travel from the Horn of Africa through Djibouti each year as they look to cross the Bab el-Mandeb Strait to Yemen and eventually reach the Gulf countries.",
+       "url": "https://www.euronews.com/2026/10/11/at-least-139-migrants-dead-after-boat-capsizes-off-djibouti-un-says",
+       "via": null
+      },
+      {
+       "id": "sky",
+       "name": "Sky News",
+       "region": "world",
+       "weight": 1,
+       "title": "At least 139 dead and 84 missing after boat capsizes",
+       "desc": "A boat has capsized off the coast of Djibouti leaving at least 139 migrants dead and 84 missing, a United Nations agency has reported.",
+       "url": "https://news.sky.com/story/109-dead-after-ship-sinks-off-coast-of-djibouti-un-agency-says-13597707",
+       "via": null
+      },
+      {
+       "id": "straits",
+       "name": "The Straits Times",
+       "region": "world",
+       "weight": 0.5,
+       "title": "At least 139 migrants dead, including some children, after boat from Djibouti to Yemen capsizes, UN agency says",
+       "desc": "NAIROBI, Oct 11 - At least 139 migrants, including at least 15 children, have died and around 84 are missing after a boat carrying more than 300 people capsized while sailing from Djibouti to Yemen, the United Nations' International Organization for Migration said on Sunday.",
+       "url": "https://www.straitstimes.com/world/europe/109-migrants-including-15-children-dead-after-boat-from-djibouti-to-yemen-capsizes-un-agency-says",
+       "via": null
+      },
+      {
+       "id": "reuters",
+       "name": "Reuters",
+       "region": "world",
+       "weight": 0.5,
+       "title": "At least 139 migrants dead, including some children, after boat from Djibouti to Yemen capsizes, UN agency says - Reuters",
+       "desc": "At least 139 migrants dead, including some children, after boat from Djibouti to Yemen capsizes, UN agency says Reuters",
+       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOa3otdUpMV081a0ZSLTRCeHRwM2ZRV05qYi1nUHgtSHpjMnVPU2FXUV9jZ0JCYjFsTC1xN2lBUzNGTE9JeFNUMmlpV01pcnNkejk2TFdSMkp2WURRRWhNZloyRVRaTEYzamRTNXUwTV80ZkhoUE9OR1gwYWJVMUpwemhuMkVZT2dYLVF5NVUwSnJWNngtRFhJcDFHWkxjNmlDSDZEUlJ4R0hSQTBtN2JXb2s3MmUyaFBMSlJmNHc1WGdJVXEt?oc=5",
+       "via": "googlenews"
+      },
+      {
+       "id": "yahoo-world",
+       "name": "Yahoo!ニュース 国際",
+       "region": "jp",
+       "weight": 0.3,
+       "title": "移民船転覆、109人死亡 ジブチ沖、行方不明も多数(共同通信)",
+       "desc": "【ナイロビ共同】国際移住機関（IOM）は11日、アフリカ東部のジブチ沖で、移民を乗せ対岸のイエメンに向かっていた船が8日夜から9日未明の間に転覆し、少なくとも109人が死亡したと発表した。116人以上",
+       "url": "https://news.yahoo.co.jp/articles/cc6b41a8dc8a09f1af7517de88cf6ac7dd2df6e2?source=rss",
+       "via": null
+      }
+     ]
+    }
+   },
+   "latestTitle": "ジブチ沖で移民船転覆、100人以上死亡",
+   "japan": false,
+   "lastSeen": "2026-10-12"
+  },
+  "s-20261012-10": {
+   "id": "s-20261012-10",
+   "title": "ローマ教皇、肺の結節切除で手術へ",
+   "firstSeen": "2026-10-12",
+   "days": {
+    "2026-10-12": {
+     "worldScore": 39,
+     "worldCoverage": 12,
+     "jpScore": 7,
+     "jpCoverage": 1,
+     "outlets": [
+      {
+       "id": "bbc",
+       "name": "BBC",
+       "region": "world",
+       "weight": 0.76,
+       "title": "Pope Leo to have surgery after lump found on lung",
+       "desc": "The 71-year-old pontiff said the nodule was identified \"at a very early stage\".",
+       "url": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
+       "via": null
+      },
+      {
+       "id": "aljazeera",
+       "name": "Al Jazeera",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Pope Leo XIV to undergo surgery after lump found in lung",
+       "desc": "Pope Leo XIV has announced that he will undergo surgery this week, to remove a nodule in his lung.",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pope-leo-xiv-to-undergo-surgery-after-lump-found-in-lung?traffic_source=rss",
+       "via": null
+      },
+      {
+       "id": "nyt",
+       "name": "New York Times",
+       "region": "world",
+       "weight": 0.77,
+       "title": "Pope Leo Will Have Surgery to Remove Growth on Lung",
+       "desc": "A recent medical examination found a small nodule, he announced, adding that doctors would remove it this week.",
+       "url": "https://www.nytimes.com/2026/10/11/world/europe/pope-leo-lung-surgery.html",
+       "via": null
+      },
+      {
+       "id": "france24",
+       "name": "France 24",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Pope Leo says he will undergo surgery for small growth on lung",
+       "desc": "Pope Leo said on Sunday that doctors had detected a small growth on his lung during a recent health check and he would be undergoing surgery this week to remove ​it, in the ‌first health scare of the 71-year-old pontiff's tenure. We discuss that with our correspondent Seema Gupta.",
+       "url": "https://www.france24.com/en/video/20261011-pope-leo-says-he-will-undergo-surgery-for-small-growth-on-lung",
+       "via": null
+      },
+      {
+       "id": "euronews",
+       "name": "Euronews",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Pope Leo XIV to have surgery in 'coming days' to remove nodule in lung",
+       "desc": "\"It was detected at a very early stage and is well localised,\" the pontiff said during an address in St. Peter's Square.",
+       "url": "https://www.euronews.com/2026/10/11/pope-leo-xiv-to-have-surgery-in-coming-days-to-remove-nodule-in-lung",
+       "via": null
+      },
+      {
+       "id": "npr",
+       "name": "NPR",
+       "region": "world",
+       "weight": 0.77,
+       "title": "Pope Leo XIV to undergo lung surgery this week",
+       "desc": "Pope Leo XIV said he would undergo surgery after doctors found a \"localized nodule\" in his lung.",
+       "url": "https://www.npr.org/2026/10/11/nx-s1-5998027/pope-leo-xiv-to-undergo-lung-surgery-this-week",
+       "via": null
+      },
+      {
+       "id": "scmp",
+       "name": "South China Morning Post",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Pope Leo to undergo surgery for small growth on lung",
+       "desc": "Pope Leo said ⁠on Sunday that doctors had detected a small growth on his lung during a recent health check and he would be undergoing surgery this ‌week to remove it, in the first health scare of the 71-year-old pontiff’s tenure. Leo told pilgrims in St. Peter’s Square for his weekly Sunday prayer that the growth was “well-contained” and caught at an early stage. “Recently, during ⁠some medical examinations, doctors found a localised nodule in my ‌lung,” said the pontiff. “It was detected at a...",
+       "url": "https://www.scmp.com/news/world/europe/article/3370499/pope-leo-undergo-surgery-small-growth-lung?utm_source=rss_feed",
+       "via": null
+      },
+      {
+       "id": "sky",
+       "name": "Sky News",
+       "region": "world",
+       "weight": 0.74,
+       "title": "Pope Leo to undergo surgery in coming days after nodule discovered on his lung",
+       "desc": "Pope Leo has said he is to undergo surgery to remove a nodule on his lung.",
+       "url": "https://news.sky.com/story/pope-leo-to-undergo-surgery-in-coming-days-after-nodule-discovered-on-his-lung-13597712",
+       "via": null
+      },
+      {
+       "id": "cbs",
+       "name": "CBS News",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Pope Leo to undergo surgery after nodular lesion found in lung, Vatican says",
+       "desc": "The American pope has no previously known health problems and is known to be physically active",
+       "url": "https://www.cbsnews.com/news/pope-leo-surgery-nodular-lesion-lung-vatican/",
+       "via": null
+      },
+      {
+       "id": "straits",
+       "name": "The Straits Times",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Pope Leo to undergo surgery for small growth on lung",
+       "desc": "Leo told pilgrims in St Peter’s Square that the growth was “well-contained”.",
+       "url": "https://www.straitstimes.com/world/europe/pope-leo-says-will-undergo-surgery-for-small-growth-on-lung",
+       "via": null
+      },
+      {
+       "id": "reuters",
+       "name": "Reuters",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Pope Leo says he will undergo surgery for small growth on lung - Reuters",
+       "desc": "Pope Leo says he will undergo surgery for small growth on lung Reuters",
+       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUkdPdU5pbElCMXZwdmxCX05ENE44MGdFQ1dMTThyUGpuM0RWYjVsSGtJUERqbG9yY2hEVlZMRXZsclVwdHBSVnBmZDZoN3RwOTlKV0pJUVQxU3JkUloydGFha2dpN3hMSnpzelM4b3NFNmwtb1BSNEFUdEtRVUExQ3owb2FwOE02LXM5Wk9oX052Z2ZUNzdjWjBuVVFROXlpZFY0Mk0zd3h2T1N4WEs1NEFMZDhIQ1JDSXcwNjdsWVFldw?oc=5",
+       "via": "googlenews"
+      },
+      {
+       "id": "ap",
+       "name": "Associated Press",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Pope Leo XIV says he will undergo surgery in the coming days to remove a nodule on his lung - AP News",
+       "desc": "Pope Leo XIV says he will undergo surgery in the coming days to remove a nodule on his lung AP News",
+       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUzd2TWpTUTY4aDBlZm00b1RaVHgxenRmVzBCTWYtRERQNW5EczFLcmZFUzFoV1JLdDlORVctV2NEcVctUXJaWV9veEVOWlhISUN3cFZORV81YkVBY05MSjVEUEpUVURTUEJIQlJvd3pnT3VDbzBjekY3b1Z0VDA4aUl4UXVWaUxVZkMtSndaRUdseEE3Vmx1SVNRdXo?oc=5",
+       "via": "googlenews"
+      },
+      {
+       "id": "yahoo-world",
+       "name": "Yahoo!ニュース 国際",
+       "region": "jp",
+       "weight": 0.39,
+       "title": "ローマ教皇が肺結節手術へ 非常に初期段階と表明(共同通信)",
+       "desc": "【ローマ共同】ローマ教皇レオ14世（71）は11日、肺に非常に初期段階の結節が見つかり、近日中に手術を受けると明らかにした。バチカンのサンピエトロ広場で日曜の祈りの後に述べた。 結節の場所は限定されて",
+       "url": "https://news.yahoo.co.jp/articles/3f077eb70d153241faf2b068fb579976922c0d3a?source=rss",
+       "via": null
+      }
+     ]
+    }
+   },
+   "latestTitle": "ローマ教皇、肺の結節切除で手術へ",
+   "japan": false,
+   "lastSeen": "2026-10-12"
+  },
+  "s-20261012-11": {
+   "id": "s-20261012-11",
+   "title": "インド首都で選挙巡る抗議デモ、指導者拘束",
+   "firstSeen": "2026-10-12",
+   "days": {
+    "2026-10-12": {
+     "worldScore": 24,
+     "worldCoverage": 8,
+     "jpScore": 0,
+     "jpCoverage": 0,
+     "outlets": [
+      {
+       "id": "bbc",
+       "name": "BBC",
+       "region": "world",
+       "weight": 0.67,
+       "title": "Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on",
+       "desc": "Hundreds of people who came out on the streets despite the police's restrictions were detained on Sunday.",
+       "url": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
+       "via": null
+      },
+      {
+       "id": "guardian",
+       "name": "The Guardian",
+       "region": "world",
+       "weight": 0.42,
+       "title": "‘Cockroach’ leader among thousands detained in Delhi protest crackdown",
+       "desc": "Authorities impose strict lockdown in capital to try to stop rally against removal of 130m names from electoral roll Indian authorities have placed Delhi under a severe lockdown and detained tens of thousands of people, including the leader of the youth-led “Cockroach” movement, in an attempt to stop an anti-government protest. Thousands of people from across India were blocked from attending the demonstration, which had been called by the “Cockroach Janata party” (CJP) to protest against an exercise that has stripped 130m names from India’s electoral roll. Continue reading...",
+       "url": "https://www.theguardian.com/world/2026/oct/10/cockroach-party-rally-delhi-protests-chief-election-officer-resigns",
+       "via": null
+      },
+      {
+       "id": "nyt",
+       "name": "New York Times",
+       "region": "world",
+       "weight": 0.97,
+       "title": "India’s ‘Cockroach’ Leaders Released as Small Protests Go On in Delhi",
+       "desc": "The leaders of the Cockroach Janta Party, an Indian youth movement, had been detained by the police on Saturday before they could lead protests over voting rights.",
+       "url": "https://www.nytimes.com/2026/10/11/world/asia/india-cockroach-dipke-new-delhi-protests.html",
+       "via": null
+      },
+      {
+       "id": "france24",
+       "name": "France 24",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Protesters seeking India election chief's ouster detained, as 'cockroach' leaders released",
+       "desc": "Police detained hundreds of protesters in Delhi for a second day on Sunday as sporadic protests broke out demanding India's election chief quit, while a court ordered the release of \"cockroach\" movement founder Abhijeet Dipke and two other senior leaders.",
+       "url": "https://www.france24.com/en/video/20261011-protesters-seeking-india-election-chief-s-ouster-detained-as-cockroach-leaders-released",
+       "via": null
+      },
+      {
+       "id": "npr",
+       "name": "NPR",
+       "region": "world",
+       "weight": 0.38,
+       "title": "Protests against voter roll revisions rock capital of world's largest democracy",
+       "desc": "Parts of the capital city of India, the world's largest democracy, are on lockdown. Protests over sweeping revisions to the voter rolls were met with a massive police crackdown.",
+       "url": "https://www.npr.org/2026/10/10/nx-s1-5995118/protests-against-voter-roll-revisions-rock-capital-of-worlds-largest-democracy",
+       "via": null
+      },
+      {
+       "id": "sky",
+       "name": "Sky News",
+       "region": "world",
+       "weight": 0.3,
+       "title": "Founder of India's 'Cockroach' movement among hundreds detained amid mass protest",
+       "desc": "The leaders of India's \"Cockroach\" movement have been detained by police, along with hundreds of protesters, in a major crackdown to stop a mass demonstration.",
+       "url": "https://news.sky.com/story/indias-cockroach-movement-founder-detained-along-with-scores-of-protesters-13597121",
+       "via": null
+      },
+      {
+       "id": "cbs",
+       "name": "CBS News",
+       "region": "world",
+       "weight": 0.5,
+       "title": "India&#039;s \"Cockroach Party\" leaders released from detention",
+       "desc": "Three leaders of India&#039;s Cockroach Janata Party, a youth movement, were released Sunday, a day after they were detained ahead of protests against a contentious revision of voter lists.",
+       "url": "https://www.cbsnews.com/news/india-cockroach-party-leaders-released-protests/",
+       "via": null
+      },
+      {
+       "id": "ap",
+       "name": "Associated Press",
+       "region": "world",
+       "weight": 0.5,
+       "title": "India's 'Cockroach' protest movement leaders freed from detention, vow to continue demonstrations - AP News",
+       "desc": "India's 'Cockroach' protest movement leaders freed from detention, vow to continue demonstrations AP News",
+       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRElBSnhEd0RSWTI2TWtsalBzdFp4b00yS0RqTzY1ZW1zLVpnbHdhQlItRUNPdzJOOHZoOVZEd1VxUDNZdjJiSl9qdDJEX2drMkdic2VnTUpHa0UzTUQ1aUV4QVRmMU5WSk5vZ05DanJFZHhFWW14WjB3X191OFMzQUlrZURXTnZEc3oyZU03cTFIblJ4QzEycGZGSmdLU05lWTh0emxNYw?oc=5",
+       "via": "googlenews"
+      }
+     ]
+    }
+   },
+   "latestTitle": "インド首都で選挙巡る抗議デモ、指導者拘束",
+   "japan": false,
+   "lastSeen": "2026-10-12"
+  },
+  "s-20261012-12": {
+   "id": "s-20261012-12",
+   "title": "パキスタン、カーン氏率いる州政府を停止",
+   "firstSeen": "2026-10-12",
+   "days": {
+    "2026-10-12": {
+     "worldScore": 22,
+     "worldCoverage": 7,
+     "jpScore": 7,
+     "jpCoverage": 1,
+     "outlets": [
+      {
+       "id": "aljazeera",
+       "name": "Al Jazeera",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Pakistan suspends Imran Khan’s party-led provincial government",
+       "desc": "Pakistan has suspended Khyber Pakhtunkhwa&#039;s PTI-led government after declaring a state of emergency in the province.",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistan-suspends-imran-khans-party-led-provincial-government?traffic_source=rss",
+       "via": null
+      },
+      {
+       "id": "nyt",
+       "name": "New York Times",
+       "region": "world",
+       "weight": 0.56,
+       "title": "Pakistan Seizes Control of an Opposition-Led Province",
+       "desc": "The federal government, speaking of “a severe breakdown in law and order” in Khyber Pakhtunkhwa amid militant violence, named a politically allied official as in charge.",
+       "url": "https://www.nytimes.com/2026/10/11/world/middleeast/pakistan-federal-control-khyber-pakhtunkhwa.html",
+       "via": null
+      },
+      {
+       "id": "scmp",
+       "name": "South China Morning Post",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Pakistan imposes emergency rule over ex-PM Imran Khan’s provincial government",
+       "desc": "Pakistan’s president declared a state of emergency and suspended the provincial government of jailed former prime minister Imran Khan on Sunday, the president’s office said, following allegations it has failed to tackle Islamist militancy. The constitution allows the federal ‌government to take over some or all provincial government functions during an emergency. The provincial governor will take charge with an advisory council, Law Minister Azam Nazeer Tarar told a news conference in Islamabad,...",
+       "url": "https://www.scmp.com/news/asia/south-asia/article/3370508/pakistan-imposes-emergency-rule-over-ex-pm-imran-khans-provincial-government?utm_source=rss_feed",
+       "via": null
+      },
+      {
+       "id": "sky",
+       "name": "Sky News",
+       "region": "world",
+       "weight": 0.82,
+       "title": "Pakistan's president declares state of emergency in province run by Imran Khan's party",
+       "desc": "The president of Pakistan has declared a state of emergency in the country's northwestern Khyber Pakhtunkhwa province.",
+       "url": "https://news.sky.com/story/pakistans-president-declares-state-of-emergency-in-khyber-pakhtunkhwa-province-run-by-imran-khans-party-13597796",
+       "via": null
+      },
+      {
+       "id": "reuters",
+       "name": "Reuters",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Pakistan imposes emergency rule over Imran Khan's provincial government - Reuters",
+       "desc": "Pakistan imposes emergency rule over Imran Khan's provincial government Reuters",
+       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcE1nMTFTTndNQTNVc0pWZXVJNXk2SFBmN0tRNXB3WEpUMEh0QVQ4c2V2WExXczdUYVJza3VJd25ZNFl6Q2xsVzRwWm5jemFfN2Z5Q3Z3aDFHbDY5b3pFNFdPYnJNaWVzamNmQXdqSlRTeHhpTnY2STVENXYyMXZpZ29YQmNGWjlVaHYwcUh3X1huM1VoNVMwRS1ITy1Lcy1PTmFyZEhzQUhmR0xZQkpDclhGUXVoUTl6NUExTDNodGJmV0ZiNDJZRXJXak9pQQ?oc=5",
+       "via": "googlenews"
+      },
+      {
+       "id": "ap",
+       "name": "Associated Press",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Pakistani president suspends provincial government led by Khan’s party ahead of march - AP News",
+       "desc": "Pakistani president suspends provincial government led by Khan’s party ahead of march AP News",
+       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWmdLcnFXLWZKdHNHNzFwVklpTS1OYUZDMnVZZDV4cjVOX2daQTZoM3FEWUdmVEJQRVRuZVk0NWpKcGlid2JkbmMwQmlObkZEMWh2bmpNVXctdEJSczJFaUdNN0ZtMVpTdDZOVUU5RDJFbTFUOHJ5VnlhZDlGRjF2U2x6ZE9MYm01c2NHSnZfRWVNNm5WMlVvQVlZcnJrdnc?oc=5",
+       "via": "googlenews"
+      },
+      {
+       "id": "ft",
+       "name": "Financial Times",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Pakistan cracks down on Imran Khan stronghold province - Financial Times",
+       "desc": "Pakistan cracks down on Imran Khan stronghold province Financial Times",
+       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTFR0bEV3TW4tWkduS1JNaUJKV0pVekNYV0JKUUEyWXdNU2dCVVRmbzFxcy1HTW96WnBRM3lKU1hqSk1tNlBKMGxGY21pZFZoN2hZamo3RVZyaVRWQU1BSG95aFpZVUFsUkx1azhVdWFLbVFBQTFwdWljT1lxQ25uWl95eFI?oc=5",
+       "via": "googlenews"
+      },
+      {
+       "id": "yahoo-world",
+       "name": "Yahoo!ニュース 国際",
+       "region": "jp",
+       "weight": 0.42,
+       "title": "パキスタン北西部州に軍隊配備命令(共同通信)",
+       "desc": "【イスラマバード共同】パキスタン政府は11日、非常事態宣言を出した北西部カイバル・パクトゥンクワ州に、軍隊を配備する命令を出した。",
+       "url": "https://news.yahoo.co.jp/articles/40acb07f5694e48457d6f88ea2a9905eda418355?source=rss",
+       "via": null
+      }
+     ]
+    }
+   },
+   "latestTitle": "パキスタン、カーン氏率いる州政府を停止",
+   "japan": false,
+   "lastSeen": "2026-10-12"
+  },
+  "s-20261012-13": {
+   "id": "s-20261012-13",
+   "title": "仏大統領選の左派予備選、リュックスマン勝利",
+   "firstSeen": "2026-10-12",
+   "days": {
+    "2026-10-12": {
+     "worldScore": 14,
+     "worldCoverage": 5,
+     "jpScore": 0,
+     "jpCoverage": 0,
+     "outlets": [
+      {
+       "id": "france24",
+       "name": "France 24",
+       "region": "world",
+       "weight": 0.5,
+       "title": "🔴 Raphaël Glucksmann wins French left-wing primary with 66% of vote",
+       "desc": "",
+       "url": "https://www.france24.com/en/france/20261011-rapha%C3%ABl-glucksmann-wins-french-primary-with-66-of-vote",
+       "via": null
+      },
+      {
+       "id": "euronews",
+       "name": "Euronews",
+       "region": "world",
+       "weight": 0.5,
+       "title": "French Social democratic primary: Raphaël Glucksmann wins big in first round",
+       "desc": "With more than 66% in the primary, French MEP Raphaël Glucksmann is chosen as the social-democratic candidate for France’s 2027 presidential election. On X, he insists that \"a left true to its values can unite, govern and win\".",
+       "url": "https://www.euronews.com/2026/10/11/french-social-democratic-primary-raphael-glucksmann-wins-big-in-first-round",
+       "via": null
+      },
+      {
+       "id": "straits",
+       "name": "The Straits Times",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Glucksmann wins centre-left ticket for France's presidential election",
+       "desc": "PARIS, Oct 11 - Raphael Glucksmann, an EU lawmaker, won France's centre-left's presidential primary on Sunday, positioning himself as the left's main alternative to hard-left leader Jean-Luc Melenchon.",
+       "url": "https://www.straitstimes.com/world/europe/glucksmann-wins-centre-left-ticket-for-frances-presidential-election",
+       "via": null
+      },
+      {
+       "id": "reuters",
+       "name": "Reuters",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Glucksmann wins centre-left ticket for France's presidential election - Reuters",
+       "desc": "Glucksmann wins centre-left ticket for France's presidential election Reuters",
+       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZm5uVy1lOUtnaFNBS0NrQ2Z3XzhKakFTLTlISS1wWm5raHJvR0VHUXN3ODk0anh1VkZNLUl0OE53dEtLZS1CVnNncEZuN09FRGJDVi1ZSGMxVk01MmVrVF9vN2lIZV8zZkp2SGlJU0NkT0FwVGFzenFLVDRxVk9jODZYYVRPamotaVo5NkVCVGh3TVQ4eG1FQUd2TG04YzlubUtqRURsaG0zdw?oc=5",
+       "via": "googlenews"
+      },
+      {
+       "id": "ft",
+       "name": "Financial Times",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Raphaël Glucksmann wins nomination for France’s centre-left - Financial Times",
+       "desc": "Raphaël Glucksmann wins nomination for France’s centre-left Financial Times",
+       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQUMxLXlneFJOSE12YTVQTWE2UFNpSjNqcDk0R1hYRDFhWXhJc2dySEtOQ0laaVctR2FMbjdfcVlzakVYZnBKR1dHaDU1MzNTaWZJOEM5TGxIbDdfMFA1dDNuQ2JrWWYydmtrRTM0MHdPcVFmc2QxNzFIN3lkN3pTOFEyeVg?oc=5",
+       "via": "googlenews"
+      }
+     ]
+    }
+   },
+   "latestTitle": "仏大統領選の左派予備選、リュックスマン勝利",
+   "japan": false,
+   "lastSeen": "2026-10-12"
+  },
+  "s-20261012-14": {
+   "id": "s-20261012-14",
+   "title": "米司法省、TV各社のトランプ取材停止調査",
+   "firstSeen": "2026-10-12",
+   "days": {
+    "2026-10-12": {
+     "worldScore": 10,
+     "worldCoverage": 3,
+     "jpScore": 0,
+     "jpCoverage": 0,
+     "outlets": [
+      {
+       "id": "bbc",
+       "name": "BBC",
+       "region": "world",
+       "weight": 0.73,
+       "title": "US justice department investigates TV networks over Trump pool coverage",
+       "desc": "The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage.",
+       "url": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
+       "via": null
+      },
+      {
+       "id": "ap",
+       "name": "Associated Press",
+       "region": "world",
+       "weight": 0.5,
+       "title": "DOJ says it's investigating whether White House TV pool's coverage halt violated antitrust law - AP News",
+       "desc": "DOJ says it's investigating whether White House TV pool's coverage halt violated antitrust law AP News",
+       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYnJ6Xy1PUkdWY2JKRXkyTjJFTnV1WDdaV2daaW4xRE1Yd2stb0Q2MkZOTU9QZ1FoR0xDbnZvX1RlbFQ2QXZaeWtJSXdtdDAyakc2YXQwWU9oVVRtTThfbUtwekVhN015MHRMak9LLUl4U2VONHA4NGMtZEdqVFB3WFB0YXhjSlNoelBSSDk5WQ?oc=5",
+       "via": "googlenews"
+      },
+      {
+       "id": "ft",
+       "name": "Financial Times",
+       "region": "world",
+       "weight": 0.5,
+       "title": "US justice department probes TV networks over Trump pool coverage - Financial Times",
+       "desc": "US justice department probes TV networks over Trump pool coverage Financial Times",
+       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdi1IQTR1RVEyS21OWVcwTFVZSHFXYXNzOHNuZjZ3ZzViU21vREFGUUZvVVNtN0pBbUFaN1RDNFpnNVh2MVZIZDd3MEtrUFJvQ0VzRTJnNXNQLVlqSE5CYk1ncEZweTFGQ2N5YkdCaEo2eWN5Qk5GaFpHaFhVZGFsYldHZS0?oc=5",
+       "via": "googlenews"
+      }
+     ]
+    }
+   },
+   "latestTitle": "米司法省、TV各社のトランプ取材停止調査",
+   "japan": false,
+   "lastSeen": "2026-10-12"
+  },
+  "s-20261012-15": {
+   "id": "s-20261012-15",
+   "title": "英バーナム首相、ブレグジットへの露介入主張",
+   "firstSeen": "2026-10-12",
+   "days": {
+    "2026-10-12": {
+     "worldScore": 17,
+     "worldCoverage": 6,
+     "jpScore": 0,
+     "jpCoverage": 0,
+     "outlets": [
+      {
+       "id": "guardian",
+       "name": "The Guardian",
+       "region": "world",
+       "weight": 0.62,
+       "title": "Andy Burnham says it is clear Russia interfered in Brexit referendum",
+       "desc": "PM says he asked question upon entering No 10 but does not reveal who gave him ‘clear answer’ Russia meddled Andy Burnham has said it is clear Russia interfered in the Brexit referendum, after seeking answers on the Kremlin’s involvement in the 2016 vote when he entered Downing Street. Burnham said he had asked whether Moscow had attempted to influence the referendum and received a confirmation that it had. Continue reading...",
+       "url": "https://www.theguardian.com/politics/2026/oct/11/andy-burnham-russia-interfered-brexit-vote",
+       "via": null
+      },
+      {
+       "id": "france24",
+       "name": "France 24",
+       "region": "world",
+       "weight": 0.5,
+       "title": "UK PM Burnham warns French voters of Russian political influence on back of Brexit vote",
+       "desc": "British Prime Minister Andy Burnham on Sunday warned French and German voters of potential for Russian influence in upcoming elections, on the back of \"clear\" interference in Britain's referendum on European Union membership in 2016. Russia has previously denied meddling in the Brexit vote, while former British leader Boris Johnson 2020 also said there was no evidence of interference. Burnham made the comments in an interview with The Rest is Politics podcast, released on Sunday.",
+       "url": "https://www.france24.com/en/europe/20261011-uk-pm-burnham-warns-french-voters-of-russian-political-influence-on-back-of-brexit-vote",
+       "via": null
+      },
+      {
+       "id": "scmp",
+       "name": "South China Morning Post",
+       "region": "world",
+       "weight": 0.5,
+       "title": "It is ‘clear’ Russia interfered in Brexit referendum, says UK PM Burnham",
+       "desc": "Britain’s Prime Minister Andy Burnham has said the UK is “clear” there was Russian interference in the Brexit referendum. He said that when he entered No 10 Downing Street a few months ago, he had asked whether Moscow interfered in the 2016 vote on whether to leave the EU and was given “the clear answer that yes there was”. The prime minister said he believes it is important to put this “clearly on the record” to help voters in Germany and France understand that “some of this politics is...",
+       "url": "https://www.scmp.com/news/world/europe/article/3370514/it-clear-russia-interfered-brexit-referendum-says-uk-pm-burnham?utm_source=rss_feed",
+       "via": null
+      },
+      {
+       "id": "straits",
+       "name": "The Straits Times",
+       "region": "world",
+       "weight": 0.5,
+       "title": "British PM Burnham says Russia interfered in 2016 Brexit vote",
+       "desc": "Burnham’s remarks contrast with those of his predecessor, Boris Johnson, who denied that Russia had interfered in the referendum.",
+       "url": "https://www.straitstimes.com/world/europe/uk-pm-burnham-says-russia-interfered-in-2016-brexit-vote",
+       "via": null
+      },
+      {
+       "id": "reuters",
+       "name": "Reuters",
+       "region": "world",
+       "weight": 0.5,
+       "title": "UK PM Burnham says Russia interfered in 2016 Brexit vote - Reuters",
+       "desc": "UK PM Burnham says Russia interfered in 2016 Brexit vote Reuters",
+       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWHJJdG9NWWZzeFA5ZlZ4ZU4tMVlOTzc1aGxiUHFlYkJkbUtpVDl3YzBJYXVfX2VCWUpUVnZfRnRXS1VzSHc0UDhpWVJ6X2dwZU9LRlU1Y1ZSM2FTS0FlVXRFcEZBWUh0VE1rdUt5UUdjZGgySU0xdFZWNXM5d1BYSWRmeHVRYXJqLXV3UEFNeU9MTVhKWHVJQ2dUOXJiNUE?oc=5",
+       "via": "googlenews"
+      },
+      {
+       "id": "ft",
+       "name": "Financial Times",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Russia ‘interfered’ in 2016 Brexit vote, says Andy Burnham - Financial Times",
+       "desc": "Russia ‘interfered’ in 2016 Brexit vote, says Andy Burnham Financial Times",
+       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYzFSSUo5VUU2a241aGtZS3BFX1dUaEhQNnJtUzVNdVB5aTd4ZDlBdjlYVVFjYmhwak91c0V5blduUW5OSzNPN0RWMUYwVGZTaFRnN1ROZDJRRGFMeFdCSFFnUWEtOXNrZlVfUy1vdW9wYU03cHFtNzlrVjBndTJMNmFLU2Q?oc=5",
+       "via": "googlenews"
+      }
+     ]
+    }
+   },
+   "latestTitle": "英バーナム首相、ブレグジットへの露介入主張",
+   "japan": false,
+   "lastSeen": "2026-10-12"
+  },
+  "s-20261012-16": {
+   "id": "s-20261012-16",
+   "title": "英首相、マンチェスター・シティ関係公表へ",
+   "firstSeen": "2026-10-12",
+   "days": {
+    "2026-10-12": {
+     "worldScore": 5,
+     "worldCoverage": 2,
+     "jpScore": 0,
+     "jpCoverage": 0,
+     "outlets": [
+      {
+       "id": "guardian",
+       "name": "The Guardian",
+       "region": "world",
+       "weight": 0.39,
+       "title": "Andy Burnham to publish all details of his dealings with Manchester City",
+       "desc": "Move comes after criticism of remarks in support of football club’s owners following financial regulations breach ruling Andy Burnham has said he will publish all details of his dealings with Manchester City in his previous mayoral role after his intervention in support of the football club’s owners raised eyebrows. Kemi Badenoch, the Conservative party leader, had urged the prime minister to publish everything related to his work with the club as Greater Manchester mayor and the Liberal Democrats wrote to him asking him to release minutes of meetings and declare all hospitality gifts received",
+       "url": "https://www.theguardian.com/politics/2026/oct/11/andy-burnham-publish-details-dealings-manchester-city",
+       "via": null
+      },
+      {
+       "id": "scmp",
+       "name": "South China Morning Post",
+       "region": "world",
+       "weight": 0.5,
+       "title": "UK PM Burnham to publish Manchester City dealings after intervention draws criticism",
+       "desc": "Britain’s Prime Minister Andy Burnham has said he will publish all details of his dealings with Manchester City in his previous mayoral role after his intervention in support of the football club’s owners raised eyebrows. Opposition leader Kemi Badenoch had urged him to publish “everything” related to his work with the club as Greater Manchester mayor. City have been found guilty of breaching Premier League financial regulations between 2009 and 2018. The club maintained their innocence and...",
+       "url": "https://www.scmp.com/sport/football/article/3370515/uk-pm-burnham-publish-manchester-city-dealings-after-intervention-draws-criticism?utm_source=rss_feed",
+       "via": null
+      }
+     ]
+    }
+   },
+   "latestTitle": "英首相、マンチェスター・シティ関係公表へ",
+   "japan": false,
+   "lastSeen": "2026-10-12"
+  },
+  "s-20261012-17": {
+   "id": "s-20261012-17",
+   "title": "ハリケーン「サイモン」がメキシコ西岸接近",
+   "firstSeen": "2026-10-12",
+   "days": {
+    "2026-10-12": {
+     "worldScore": 14,
+     "worldCoverage": 5,
+     "jpScore": 0,
+     "jpCoverage": 0,
+     "outlets": [
+      {
+       "id": "aljazeera",
+       "name": "Al Jazeera",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Mexican president urges residents to shelter as Hurricane Simon approaches",
+       "desc": "The Mexican community of Cabo Corrientes faces the risk of a direct hit as the Category 4 storm churns off Jalisco.",
+       "url": "https://www.aljazeera.com/news/2026/10/11/mexican-president-urges-residents-to-shelter-as-hurricane-simon-approaches?traffic_source=rss",
+       "via": null
+      },
+      {
+       "id": "cbs",
+       "name": "CBS News",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Hurricane Simon lashes Mexico&#039;s Pacific coast as a powerful Category 4 storm",
+       "desc": "Simon strengthened into a powerful Category 4 hurricane as it barreled toward Mexico&#039;s Pacific coast.",
+       "url": "https://www.cbsnews.com/news/hurricane-simon-takes-aim-mexico-pacific-coast/",
+       "via": null
+      },
+      {
+       "id": "straits",
+       "name": "The Straits Times",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Mexico's Sheinbaum urges coastal residents to remain indoors as Hurricane Simon nears coast",
+       "desc": "MANZANILLO, Mexico Oct 11 - Mexican President Claudia Sheinbaum urged residents along the country's Pacific coast to remain indoors on Sunday as powerful Hurricane Simon approached Mexico's west-central coast, threatening destructive winds, dangerous storm surges and potentially deadly flooding.",
+       "url": "https://www.straitstimes.com/world/mexicos-sheinbaum-urges-coastal-residents-to-remain-indoors-as-hurricane-simon-nears-coast",
+       "via": null
+      },
+      {
+       "id": "reuters",
+       "name": "Reuters",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Mexico's Sheinbaum urges coastal residents to remain indoors as Hurricane Simon nears coast - Reuters",
+       "desc": "Mexico's Sheinbaum urges coastal residents to remain indoors as Hurricane Simon nears coast Reuters",
+       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQTVIZ3E1QmFPdVhfeHhERWNMSHMzckVTck8za2p1b1A5ajNIT1VCa1dBUVhNTVhadXhKZV9CclF4aEswTGRxanNxa1FzSnVDd0kxSWlGZF9EakUybFhISzJhRmtCeDV4VExwcC12Q1dkVDhDV1B2eENwODdtM0F0MUJQVGtEbDNYN3pZU1UzeUo5NnNlVlE1TTgwTlFjUGMyb2hNOXFGc09EdFZBbTctTlRCM19ZbDczelFhZ0xIdmVwT014cURLcnFFcjBfeE9J?oc=5",
+       "via": "googlenews"
+      },
+      {
+       "id": "ap",
+       "name": "Associated Press",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Puerto Vallarta boards up as Hurricane Simon hits Category 4 strength - AP News",
+       "desc": "Puerto Vallarta boards up as Hurricane Simon hits Category 4 strength AP News",
+       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcWJablM4MlJ5LUFJLXRPLThtTmhTTTRqdFJ3SDdtUFVDeUhTOU9WNnhUa2NoMXNPeUQzTnJJUnpoSkRsSkxmUFZaYkwzaGtHTi1lWGotdmRPdDFvelNXWDBxUGREM3daa0hpbVNXcDllQzJBUTRmNURJMVlVSXFGUmtBMUctRkpmeldocnByV2MzSW9vaW9MRVBvaTV2TXQ5MWJSLVZzejhHZw?oc=5",
+       "via": "googlenews"
+      }
+     ]
+    }
+   },
+   "latestTitle": "ハリケーン「サイモン」がメキシコ西岸接近",
+   "japan": false,
+   "lastSeen": "2026-10-12"
+  },
+  "s-20261012-18": {
+   "id": "s-20261012-18",
+   "title": "トルコでバスとトラック衝突、11人死亡",
+   "firstSeen": "2026-10-12",
+   "days": {
+    "2026-10-12": {
+     "worldScore": 8,
+     "worldCoverage": 3,
+     "jpScore": 0,
+     "jpCoverage": 0,
+     "outlets": [
+      {
+       "id": "aljazeera",
+       "name": "Al Jazeera",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Turkiye highway crash kills 11, injures 27 after tour bus hits truck",
+       "desc": "Police detain tour bus driver after highway collision in western Turkiye leaves 11 dead and 27 injured.",
+       "url": "https://www.aljazeera.com/news/2026/10/11/turkiye-highway-crash-kills-11-injures-27-after-tour-bus-hits-truck?traffic_source=rss",
+       "via": null
+      },
+      {
+       "id": "scmp",
+       "name": "South China Morning Post",
+       "region": "world",
+       "weight": 0.5,
+       "title": "11 dead, 27 injured after coach crashes into lorry in western Turkey, officials say",
+       "desc": "Eleven people were killed and 27 injured in western Turkey on Sunday when a coach turned over after colliding with a lorry, authorities said. The coach crashed near the entry to a motorway between the city of Bursa and the seaside city of Izmir, the governor’s office of the local Manisa district said on social media, stating the death toll. Emergency services rushed to the scene, Turkey’s Interior Minister Mustafa Ciftci said. “We are closely following the situation, in coordination with all the...",
+       "url": "https://www.scmp.com/news/world/europe/article/3370511/11-dead-27-injured-after-coach-crashes-lorry-western-turkey-officials-say?utm_source=rss_feed",
+       "via": null
+      },
+      {
+       "id": "straits",
+       "name": "The Straits Times",
+       "region": "world",
+       "weight": 0.5,
+       "title": "11 killed, 27 injured after coach crashes into truck in Turkey",
+       "desc": "The drivers of both the coach and the truck had been detained as part of an investigation into the crash.",
+       "url": "https://www.straitstimes.com/world/middle-east/11-killed-27-injured-after-coach-crashes-into-truck-in-turkey",
+       "via": null
+      }
+     ]
+    }
+   },
+   "latestTitle": "トルコでバスとトラック衝突、11人死亡",
+   "japan": false,
+   "lastSeen": "2026-10-12"
+  },
+  "s-20261012-19": {
+   "id": "s-20261012-19",
+   "title": "英動物園で男性がトラに襲われ死亡",
+   "firstSeen": "2026-10-12",
+   "days": {
+    "2026-10-12": {
+     "worldScore": 7,
+     "worldCoverage": 3,
+     "jpScore": 0,
+     "jpCoverage": 0,
+     "outlets": [
+      {
+       "id": "guardian",
+       "name": "The Guardian",
+       "region": "world",
+       "weight": 0.33,
+       "title": "Wildlife park confirms tiger will not be euthanised after man mauled to death",
+       "desc": "Ed Miliband, whose constituency includes the park, offers ‘deepest condolences’ to family of visitor who entered enclosure on Saturday A wildlife park in Yorkshire has confirmed the tiger that mauled to death a man who entered its enclosure will not be euthanised. A man, who has not yet been named, was seen entering a tiger enclosure at the Yorkshire Wildlife Park, located near Doncaster, before police were called at 1.35pm on Saturday. Continue reading...",
+       "url": "https://www.theguardian.com/uk-news/2026/oct/11/tiger-will-not-be-euthanised-after-man-mauled-to-death-yorkshire-zoo",
+       "via": null
+      },
+      {
+       "id": "nyt",
+       "name": "New York Times",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Man Dies in Tiger Attack at Yorkshire Wildlife Park in England",
+       "desc": "The man came face to face with an Amur tiger inside the animal’s habitat at Yorkshire Wildlife Park in England. The park was evacuated and closed to the public.",
+       "url": "https://www.nytimes.com/2026/10/10/world/europe/tiger-attack-wildlife-park-man-dead.html",
+       "via": null
+      },
+      {
+       "id": "cbs",
+       "name": "CBS News",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Man attacked by tiger in England after entering enclosure at wildlife park",
+       "desc": "The incident occurred at the Yorkshire Wildlife Park near the city of Doncaster, police said.",
+       "url": "https://www.cbsnews.com/news/yorkshire-wildlife-park-tiger-enclosure-attack/",
+       "via": null
+      }
+     ]
+    }
+   },
+   "latestTitle": "英動物園で男性がトラに襲われ死亡",
+   "japan": false,
+   "lastSeen": "2026-10-12"
+  },
+  "s-20261012-20": {
+   "id": "s-20261012-20",
+   "title": "米死刑執行の生配信計画に国内外から批判",
+   "firstSeen": "2026-10-12",
+   "days": {
+    "2026-10-12": {
+     "worldScore": 15,
+     "worldCoverage": 5,
+     "jpScore": 8,
+     "jpCoverage": 1,
+     "outlets": [
+      {
+       "id": "guardian",
+       "name": "The Guardian",
+       "region": "world",
+       "weight": 0.85,
+       "title": "Politics live: Greens call for US execution live stream to be blocked; Frydenberg doesn’t rule out politics return",
+       "desc": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Labor not watering down trust tax bill, says Mulino The assistant treasurer, Daniel Mulino , says Labor is not watering down proposed changes to put a minimum 30% tax on discretionary trusts. We’re not watering this down. This is a very substantial review. This is about fairness in our tax system. It’s about trying to better align the taxes that people pay when they earn income through trusts versus when they earn income from working, from providing their labour. These are changes that have been called for ",
+       "url": "https://www.theguardian.com/australia-news/live/2026/oct/12/labor-anthony-albanese-greens-digital-duty-of-care-coalition-angus-taylor-one-nation-ntwnfb",
+       "via": null
+      },
+      {
+       "id": "scmp",
+       "name": "South China Morning Post",
+       "region": "world",
+       "weight": 0.5,
+       "title": "US homeland security chief dismisses security threat from live-streaming execution",
+       "desc": "A top Trump administration official said on Sunday that the planned live stream execution of the perpetrator of a mass killing of US soldiers would not pose an additional security risk to the United States. “I don’t see an elevated risk at this point at all because of this,” US Homeland Security chief Markwayne Mullin told CBS News’ Face the Nation, when asked if it risked turning the perpetrator into a martyr for his cause. “I think people need to understand … if you attack America, we will...",
+       "url": "https://www.scmp.com/news/world/united-states-canada/article/3370516/us-homeland-security-chief-dismisses-security-threat-live-streaming-execution?utm_source=rss_feed",
+       "via": null
+      },
+      {
+       "id": "abc-au",
+       "name": "ABC Australia",
+       "region": "world",
+       "weight": 0.39,
+       "title": "Calls on federal government to block US execution live stream in Australia",
+       "desc": "It comes after US Defense Secretary Pete Hegseth said he would make sure the public could watch the December 3 execution of Nidal Malik Hasan.",
+       "url": "https://www.abc.net.au/news/2026-10-12/greens-want-to-block-us-execution-live-stream/107253928",
+       "via": null
+      },
+      {
+       "id": "cbs",
+       "name": "CBS News",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Pope says death penalty \"inadmissible\" amid U.S. plans to livestream execution",
+       "desc": "The firing squad execution of Nidal Malik Hasan, convicted of a 2009 shooting at Fort Hood, will be livestreamed, the U.S. Defense Department said.",
+       "url": "https://www.cbsnews.com/news/pope-leo-death-penalty-us-fort-hood-execution-firing-squad/",
+       "via": null
+      },
+      {
+       "id": "straits",
+       "name": "The Straits Times",
+       "region": "world",
+       "weight": 0.5,
+       "title": "US homeland security chief dismisses security threat from livestreaming execution of Fort Hood shooter",
+       "desc": "'No one has to watch it if they don’t choose to,' US Homeland Security chief Markwayne Mullin told CBS.",
+       "url": "https://www.straitstimes.com/world/united-states/us-homeland-security-chief-dismisses-security-threat-from-livestreaming-execution-of-fort-hood",
+       "via": null
+      },
+      {
+       "id": "nikkei",
+       "name": "日本経済新聞",
+       "region": "jp",
+       "weight": 0.5,
+       "title": "ローマ教皇「死刑許容できず」 出身国の米国で銃殺刑の生配信計画 - 日本経済新聞",
+       "desc": "ローマ教皇「死刑許容できず」 出身国の米国で銃殺刑の生配信計画 日本経済新聞",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5IcUdJMjhOMDhzLXg3Rll2cVplcFRxQnk3MzM1b0pqUzhua3B5a2tHZnpJbGItcEVOeHU4QU91RVlkZmc3TFYwQUxVd0x5VGh2TzRRMHVLNGllNXk2Mzg2RFdLd3RnY05rWlM4Zg?oc=5",
+       "via": "googlenews"
+      }
+     ]
+    }
+   },
+   "latestTitle": "米死刑執行の生配信計画に国内外から批判",
+   "japan": false,
+   "lastSeen": "2026-10-12"
+  },
+  "s-20261012-21": {
+   "id": "s-20261012-21",
+   "title": "メキシコでサーファー殺害、3人に有罪判決",
+   "firstSeen": "2026-10-12",
+   "days": {
+    "2026-10-12": {
+     "worldScore": 4,
+     "worldCoverage": 2,
+     "jpScore": 0,
+     "jpCoverage": 0,
+     "outlets": [
+      {
+       "id": "bbc",
+       "name": "BBC",
+       "region": "world",
+       "weight": 0.3,
+       "title": "How the trial of murdered Australian brothers and US friend unfolded",
+       "desc": "The mother of two Australian surfers murdered in Mexico two years ago with their American friend said \"accountability matters\".",
+       "url": "https://www.bbc.co.uk/news/videos/cr86z34vz95yo?at_medium=RSS&at_campaign=rss",
+       "via": null
+      },
+      {
+       "id": "nyt",
+       "name": "New York Times",
+       "region": "world",
+       "weight": 0.48,
+       "title": "3 Men Found Guilty in Murders of Tourists on Mexico Surf Trip",
+       "desc": "The 2024 killings of two Australian brothers and their American friend drew international attention.",
+       "url": "https://www.nytimes.com/2026/10/10/world/americas/mexico-murder-trial-surfers-jake-callum-robinson-rhoad.html",
+       "via": null
+      }
+     ]
+    }
+   },
+   "latestTitle": "メキシコでサーファー殺害、3人に有罪判決",
+   "japan": false,
+   "lastSeen": "2026-10-12"
+  },
+  "s-20261012-22": {
+   "id": "s-20261012-22",
+   "title": "EUと中国、ハイブリッド車の輸入枠設定",
+   "firstSeen": "2026-10-12",
+   "days": {
+    "2026-10-12": {
+     "worldScore": 6,
+     "worldCoverage": 2,
+     "jpScore": 0,
+     "jpCoverage": 0,
+     "outlets": [
+      {
+       "id": "bloomberg",
+       "name": "Bloomberg",
+       "region": "world",
+       "weight": 0.5,
+       "title": "EU to Cap Chinese Hybrid Car Imports at 350,000 Each Year - Bloomberg.com",
+       "desc": "EU to Cap Chinese Hybrid Car Imports at 350,000 Each Year Bloomberg.com",
+       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWGZ0OFMzZ1pKdWtOVENVU1NaZWt5cFRlR2tKZnA3U3J5cHV1emNQbTN0c05wTFN5bkdxTUNuemtCai15LUR5cV9JbmlLMjRSSVdZUTE0MUNqLUw3cTFmMUdrQVpGZld3NjN1RzE0dmc4SV9SQW11OE5nSFpqNnZzYkMtVlBkNGhDdUUtUGlBekRNQnROTFpVNDNobGRXTm9YZnp3N0I3TGtkaV81NTFGbm9R?oc=5",
+       "via": "googlenews"
+      },
+      {
+       "id": "ft",
+       "name": "Financial Times",
+       "region": "world",
+       "weight": 0.5,
+       "title": "EU ‘safeguards’ hybrid car sector from Chinese imports under new deal - Financial Times",
+       "desc": "EU ‘safeguards’ hybrid car sector from Chinese imports under new deal Financial Times",
+       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOREYtQU45cmhRUFFGWkV6VU9qTlNDM2pYdHhFeHEwZ3o1bDZvZXJ2SXRHN0lJREc5dEw0SWZ0Wm12NW1xblpRcTRxZUVXTmtHUm5qczVmdklnLXVTVVhNNzdWV0d3XzdGYXJQSHZkd2tVUzVRN1BxTmtCZ0pvMXVUdm0tVy0?oc=5",
+       "via": "googlenews"
+      }
+     ]
+    }
+   },
+   "latestTitle": "EUと中国、ハイブリッド車の輸入枠設定",
+   "japan": false,
+   "lastSeen": "2026-10-12"
+  },
+  "s-20261012-23": {
+   "id": "s-20261012-23",
+   "title": "イアハートの機体捜索で離島調査へ",
+   "firstSeen": "2026-10-12",
+   "days": {
+    "2026-10-12": {
+     "worldScore": 7,
+     "worldCoverage": 2,
+     "jpScore": 0,
+     "jpCoverage": 0,
+     "outlets": [
+      {
+       "id": "bbc",
+       "name": "BBC",
+       "region": "world",
+       "weight": 0.7,
+       "title": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
+       "desc": "The team en route to the suspected crash site aim finally to solve the mystery of her 1937 disappearance.",
+       "url": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&at_campaign=rss",
+       "via": null
+      },
+      {
+       "id": "cbs",
+       "name": "CBS News",
+       "region": "world",
+       "weight": 0.5,
+       "title": "What happened to Amelia Earhart? These archaeologists are on a mission to find out.",
+       "desc": "Famed aviator Amelia Earhart vanished nearly 90 years ago on her quest to become the first woman to fly around the globe. A team of archaeologists are the latest to try to solve one of history&#039;s greatest mysteries.",
+       "url": "https://www.cbsnews.com/video/what-happened-to-amelia-earhart-these-archaeologists-are-on-a-mission-to-find-out/",
+       "via": null
+      }
+     ]
+    }
+   },
+   "latestTitle": "イアハートの機体捜索で離島調査へ",
+   "japan": false,
+   "lastSeen": "2026-10-12"
+  },
+  "s-20261012-24": {
+   "id": "s-20261012-24",
+   "title": "独VWのCEO、EUの産業支援策を支持",
+   "firstSeen": "2026-10-12",
+   "days": {
+    "2026-10-12": {
+     "worldScore": 8,
+     "worldCoverage": 2,
+     "jpScore": 0,
+     "jpCoverage": 0,
+     "outlets": [
+      {
+       "id": "guardian",
+       "name": "The Guardian",
+       "region": "world",
+       "weight": 0.88,
+       "title": "Volkswagen boss backs EU plan to bolster domestic European industry",
+       "desc": "Oliver Blume says ‘Made in Europe’ rules to counter rapid rise of lower-price Chinese brands ‘must reward real value creation’ The boss of Volkswagen has backed EU proposals to boost its domestic industry, arguing European carmakers need to be able to “compete under comparable conditions” with Chinese rivals. Oliver Blume said “Made in Europe” rules from the EU “must reward real value creation in Europe”, speaking in Paris before the motor show this week. Continue reading...",
+       "url": "https://www.theguardian.com/business/2026/oct/11/volkswagen-boss-backs-eu-plan-to-boost-domestic-european-industry",
+       "via": null
+      },
+      {
+       "id": "reuters",
+       "name": "Reuters",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Volkswagen CEO says transformation is 'shared responsibility' in appeal to EU - Reuters",
+       "desc": "Volkswagen CEO says transformation is 'shared responsibility' in appeal to EU Reuters",
+       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPejJ0eGxjSGtuYW55b3cxRi12Z3V0R2dvM3prcFF4bFpnZ196a0JNWjc1YjZrT0F2V2JLRTM2ZlZuNUlRU0tVVDhYYjFfOGc2N3lkbzFYTFJuX0FKNWVyc3o2RXdqODhrZmJiU1VSSUNXWlJtZFo5QXpVR2JsV1otQmdXWl9XbVBKNGd3R2kxYWpQQUFnYUdUYU9EY1JxVGFYWW00TDdpTlZiWW9HQmtyTUNYcHFqRVVYRWtFVnh4a2RzdXhzaVdQemFzV2R3d2xQ?oc=5",
+       "via": "googlenews"
+      }
+     ]
+    }
+   },
+   "latestTitle": "独VWのCEO、EUの産業支援策を支持",
+   "japan": false,
+   "lastSeen": "2026-10-12"
+  },
+  "s-20261012-25": {
+   "id": "s-20261012-25",
+   "title": "パナマ地震で余震続く、非常事態宣言",
+   "firstSeen": "2026-10-12",
+   "days": {
+    "2026-10-12": {
+     "worldScore": 8,
+     "worldCoverage": 2,
+     "jpScore": 0,
+     "jpCoverage": 0,
+     "outlets": [
+      {
+       "id": "guardian",
+       "name": "The Guardian",
+       "region": "world",
+       "weight": 0.94,
+       "title": "‘It was a terrible thing’: Panama declares state of emergency as quake aftershocks rattle communities",
+       "desc": "More than 100 aftershocks as high as magnitude-5.8 recorded after two quakes toppled buildings and prompted evacuations Panama’s government has declared a state of emergency on Saturday as the aftershocks of two powerful earthquakes that roiled the country shook communities for hours. Officials did not attribute any deaths to Friday’s 7.7- and 6.6-magnitude earthquakes, but reported damages in all 10 of Panama’s provinces and two Indigenous territories. Continue reading...",
+       "url": "https://www.theguardian.com/world/2026/oct/11/panama-eathquake-state-of-emergency",
+       "via": null
+      },
+      {
+       "id": "straits",
+       "name": "The Straits Times",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Traumatised Panamanians begin recovery from 7.7-magnitude earthquake",
+       "desc": "Panamanian President Jose Raul Mulino declared a state of emergency to speed up up to US$100 million in aid.",
+       "url": "https://www.straitstimes.com/world/traumatised-panamanians-begin-recovery-from-7-7-magnitude-earthquake",
+       "via": null
+      }
+     ]
+    }
+   },
+   "latestTitle": "パナマ地震で余震続く、非常事態宣言",
+   "japan": false,
+   "lastSeen": "2026-10-12"
+  },
+  "s-20261012-26": {
+   "id": "s-20261012-26",
+   "title": "インドネシア、火災被災オランウータン保護",
+   "firstSeen": "2026-10-12",
+   "days": {
+    "2026-10-12": {
+     "worldScore": 8,
+     "worldCoverage": 2,
+     "jpScore": 0,
+     "jpCoverage": 0,
+     "outlets": [
+      {
+       "id": "bbc",
+       "name": "BBC",
+       "region": "world",
+       "weight": 0.85,
+       "title": "Orangutans released back into Borneo forest after devastating fires",
+       "desc": "Rescuers moved the apes after their habitats were threatened by intense wildfires over the summer.",
+       "url": "https://www.bbc.co.uk/news/articles/cwvgde0m2d73o?at_medium=RSS&at_campaign=rss",
+       "via": null
+      },
+      {
+       "id": "reuters",
+       "name": "Reuters",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Indonesia moves 8 endangered orangutans to safety after Borneo fires - Reuters",
+       "desc": "Indonesia moves 8 endangered orangutans to safety after Borneo fires Reuters",
+       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQ3gtLWRwQm9panpkR3gyb0Jic0JnUzhERzBLV3hDcm40eWZaM2lfd2gxenRIaUNRUWlTYU96MnpReC0xNTkyNVdHMUhWNEJaN3dRSUxSenVjXzNDdzNjZjVUUXRlZ1Zkc1JEMDY1VUQtYmdLZDJYRW1tV3U2cG15MXM0Z2dzMjl5eWgyZC1xcTZxWnZUNUtYeUhiSnlMTXRJRV9RRnh6TklrUGJDUk1aZlhLajJ2ZG41S0k5ZmJkQQ?oc=5",
+       "via": "googlenews"
+      }
+     ]
+    }
+   },
+   "latestTitle": "インドネシア、火災被災オランウータン保護",
+   "japan": false,
+   "lastSeen": "2026-10-12"
+  },
+  "s-20261012-27": {
+   "id": "s-20261012-27",
+   "title": "イラン、ホルムズ巡る米の回答「不十分」",
+   "firstSeen": "2026-10-12",
+   "days": {
+    "2026-10-12": {
+     "worldScore": 8,
+     "worldCoverage": 3,
+     "jpScore": 15,
+     "jpCoverage": 1,
+     "outlets": [
+      {
+       "id": "cbs",
+       "name": "CBS News",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Iran calls U.S. response \"insufficient\" amid stalled talks to end the war",
+       "desc": "After Saudi Arabia said Iran&#039;s Houthi allies carried out another strike at Riyadh&#039;s airport, Iran called the U.S. effort to negotiate toward ending the war \"insufficient.\"",
+       "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-elections-saudi-arabia-yemen-houthis/",
+       "via": null
+      },
+      {
+       "id": "straits",
+       "name": "The Straits Times",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Iran says US response to its proposal to reopen Hormuz was 'insufficient'",
+       "desc": "DUBAI, Oct 11 - The United States' response to Iran's seven conditions in a proposal to reopen the strategic Strait of Hormuz was \\\"insufficient\\\", Iran's security chief, Mohsen Rezaei, was quoted by state media on Sunday as saying.",
+       "url": "https://www.straitstimes.com/world/middle-east/iran-says-us-response-to-its-proposal-to-reopen-hormuz-was-insufficient",
+       "via": null
+      },
+      {
+       "id": "ap",
+       "name": "Associated Press",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Iran calls latest US response to proposal insufficient, and other Mideast developments - AP News",
+       "desc": "Iran calls latest US response to proposal insufficient, and other Mideast developments AP News",
+       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUlpjcnBSNlAwM1RBdWdMa2lCQS1XUG1GTDhBNGVBYkRyQVpUcm1LSUtvY0JEWGExZmd1eklFMHpZNEJQYWY4cnJZalFGOTZRY0lHUzBPNWJaTjZSTWdiR0Y4OUk1VF9jZThTbGI2b1FkeU82YjV3WFJERzVybVJOcVJVbC1MbWN2THB0UUtfdmd0YmIwbmwybnJNY04tWU14dHV2QWoxSk4xQQ?oc=5",
+       "via": "googlenews"
+      },
+      {
+       "id": "yahoo-world",
+       "name": "Yahoo!ニュース 国際",
+       "region": "jp",
+       "weight": 0.91,
+       "title": "要求受理まで「海峡封鎖」 イラン高官、米けん制(共同通信)",
+       "desc": "【テヘラン共同】イラン最高安全保障委員会（SNSC）のレザイ事務局長は11日、国営英語放送局プレスTVのインタビューで、エネルギー輸送の要衝ホルムズ海峡について、米国がイランの要求に応じるまで事実上の",
+       "url": "https://news.yahoo.co.jp/articles/7ed288d1e68cf486286d70df584cd28452be9e46?source=rss",
+       "via": null
+      }
+     ]
+    }
+   },
+   "latestTitle": "イラン、ホルムズ巡る米の回答「不十分」",
+   "japan": false,
+   "lastSeen": "2026-10-12"
+  },
+  "s-20261012-28": {
+   "id": "s-20261012-28",
+   "title": "IMF・世銀年次総会がバンコクで開幕",
+   "firstSeen": "2026-10-12",
+   "days": {
+    "2026-10-12": {
+     "worldScore": 3,
+     "worldCoverage": 1,
+     "jpScore": 8,
+     "jpCoverage": 1,
+     "outlets": [
+      {
+       "id": "aljazeera",
+       "name": "Al Jazeera",
+       "region": "world",
+       "weight": 0.5,
+       "title": "War and high debt to dominate IMF-World Bank meetings in Bangkok",
+       "desc": "The US-Israel war on Iran and its inflationary impact will dominate the agenda.",
+       "url": "https://www.aljazeera.com/news/2026/10/11/war-and-high-debt-to-dominate-imf-world-bank-meetings-in-bangkok?traffic_source=rss",
+       "via": null
+      },
+      {
+       "id": "nikkei",
+       "name": "日本経済新聞",
+       "region": "jp",
+       "weight": 0.5,
+       "title": "IMF・世銀総会、35年ぶりバンコクで開幕 AI活用も議論 - 日本経済新聞",
+       "desc": "IMF・世銀総会、35年ぶりバンコクで開幕 AI活用も議論 日本経済新聞",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5VLUpTa1NWVnhoWlAtWFRRN1gzT0prcHBKcGlZUHNjeGgzYkNDNDBEbnducDVEcE5OaHR3NjF2QTNKWVE0OXdqTmNTVURGeXFPUnNwV1ZNaDBXWjIwaXFnd3dfTXhSTkZCYnJHeg?oc=5",
+       "via": "googlenews"
+      }
+     ]
+    }
+   },
+   "latestTitle": "IMF・世銀年次総会がバンコクで開幕",
+   "japan": false,
+   "lastSeen": "2026-10-12"
+  },
+  "s-20261012-29": {
+   "id": "s-20261012-29",
+   "title": "米製造業がトランプ関税打撃、中間選へ影響",
+   "firstSeen": "2026-10-12",
+   "days": {
+    "2026-10-12": {
+     "worldScore": 6,
+     "worldCoverage": 2,
+     "jpScore": 0,
+     "jpCoverage": 0,
+     "outlets": [
+      {
+       "id": "straits",
+       "name": "The Straits Times",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Trump’s trade wars sting US manufacturers ahead of midterms",
+       "desc": "Ohio businesses say higher duties and Canada tensions are hurting sales, hiring and expansion plans.",
+       "url": "https://www.straitstimes.com/world/united-states/trumps-trade-wars-sting-us-manufacturers-ahead-of-midterms",
+       "via": null
+      },
+      {
+       "id": "ap",
+       "name": "Associated Press",
+       "region": "world",
+       "weight": 0.5,
+       "title": "Republicans face midterm backlash from factory workers squeezed out of jobs by Trump's tariffs - AP News",
+       "desc": "Republicans face midterm backlash from factory workers squeezed out of jobs by Trump's tariffs AP News",
+       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdnNFZTdGejNfd01TajhFLWhwUHlRU2t1Y25QUzlXeWtuLXNGT2l2OTU4dTNDSm15UzFiUjZRelFfVGVnS1VHOU5rZ1o2Y3I0d181OExFWnJoeG50Z1dreENBMEhzMi1UNFFqTzViNktVcWhneEZRdnZ4Z0VqRHVUQUFkLUo1Z3g4NXVrdkdfQkFKV2p4UUlkNVk3TVhCX1daYl84LXFlYTNRUW9HblliN1Jtd1ctS3JkS2RZ?oc=5",
+       "via": "googlenews"
+      }
+     ]
+    }
+   },
+   "latestTitle": "米製造業がトランプ関税打撃、中間選へ影響",
+   "japan": false,
+   "lastSeen": "2026-10-12"
+  },
+  "s-20261012-30": {
+   "id": "s-20261012-30",
+   "title": "パレスチナ自治政府、選挙を正式に延期",
+   "firstSeen": "2026-10-12",
+   "days": {
+    "2026-10-12": {
+     "worldScore": 5,
+     "worldCoverage": 2,
+     "jpScore": 0,
+     "jpCoverage": 0,
+     "outlets": [
+      {
+       "id": "aljazeera",
+       "name": "Al Jazeera",
+       "region": "world",
+       "weight": 0.5,
+       "title": "‘Who will represent us?’ Palestinians react to election delay",
+       "desc": "Palestinians have reacted to President Mahmoud Abbas’ decision to postpone the Palestinian legislative elections.",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/who-will-represent-us-palestinians-react-to-election-delay?traffic_source=rss",
+       "via": null
+      },
+      {
+       "id": "nyt",
+       "name": "New York Times",
+       "region": "world",
+       "weight": 0.36,
+       "title": "Palestinian Authority Formally Delays Elections, Despite Western Pressure",
+       "desc": "The aging Palestinian leader, Mahmoud Abbas, pushed off the planned vote until late 2027. Palestinians haven’t had major elections for about two decades.",
+       "url": "https://www.nytimes.com/2026/10/10/world/middleeast/palestinian-authority-elections-abbas.html",
+       "via": null
+      }
+     ]
+    }
+   },
+   "latestTitle": "パレスチナ自治政府、選挙を正式に延期",
+   "japan": false,
+   "lastSeen": "2026-10-12"
+  },
+  "s-20261012-31": {
+   "id": "s-20261012-31",
+   "title": "平和賞ピレイ氏、米国のICC制裁を批判",
+   "firstSeen": "2026-10-12",
+   "days": {
+    "2026-10-12": {
+     "worldScore": 3,
+     "worldCoverage": 1,
+     "jpScore": 8,
+     "jpCoverage": 1,
+     "outlets": [
+      {
+       "id": "bbc",
+       "name": "BBC",
+       "region": "world",
+       "weight": 0.54,
+       "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
+       "desc": "Navi Pillay says the Trump administrations' sweeping penalties on the international tribunal were \"unheard of\".",
+       "url": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss",
+       "via": null
+      },
+      {
+       "id": "yahoo-world",
+       "name": "Yahoo!ニュース 国際",
+       "region": "jp",
+       "weight": 0.5,
+       "title": "平和賞のピレイ氏 ICC制裁に「前代未聞」 米トランプ大統領の判断が影響か(テレビ朝日系（ANN）)",
+       "desc": "トランプ大統領は、自身がノーベル平和賞を取れなかったことへの腹いせなのでしょうか。アメリカ政府は、ICC（国際刑事裁判所）に対する制裁を発表しました。日本を含め、イギリスやフランスなど8カ国が共同声明",
+       "url": "https://news.yahoo.co.jp/articles/18c6dfb6c0cdb60bc1a50f1242f65400679b977e?source=rss",
+       "via": null
+      }
+     ]
+    }
+   },
+   "latestTitle": "平和賞ピレイ氏、米国のICC制裁を批判",
+   "japan": false,
+   "lastSeen": "2026-10-12"
+  },
+  "s-20261012-32": {
+   "id": "s-20261012-32",
+   "title": "米政権、疑惑の駐ギリシャ大使解任を検討",
+   "firstSeen": "2026-10-12",
+   "days": {
+    "2026-10-12": {
+     "worldScore": 5,
+     "worldCoverage": 2,
+     "jpScore": 0,
+     "jpCoverage": 0,
+     "outlets": [
+      {
+       "id": "nyt",
+       "name": "New York Times",
+       "region": "world",
+       "weight": 0.45,
+       "title": "Exasperation and Resignation in Greece Over Allegations Against Kimberly Guilfoyle",
+       "desc": "The U.S. ambassador to Greece is facing accusations that she asked a donor to pay off her credit card bill before she took up her post in Athens.",
+       "url": "https://www.nytimes.com/2026/10/10/world/europe/kimberly-guilfoyle-greece.html",
+       "via": null
+      },
+      {
+       "id": "ap",
+       "name": "Associated Press",
+       "region": "world",
+       "weight": 0.5,
+       "title": "AP source: Trump, Rubio weigh firing U.S. envoy to Greece after mounting reports of improper conduct - AP News",
+       "desc": "AP source: Trump, Rubio weigh firing U.S. envoy to Greece after mounting reports of improper conduct AP News",
+       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRHB3ZXFxQndiZnVzZzZMUHFNMERvWUZGSDY2WVpDa3ZfU1BYcndHUE1HY0xzYmRCbmNqZFFxdy1fTWFXdmZBc3l3Y3BhdC02WGJUUmhhLVB3ZFU3T2NRMG5NazUtMmxObnowQ0VzazJDbHJ1dV9XTWV1TTg1cHpGV1lJNFBhNUo4?oc=5",
+       "via": "googlenews"
+      }
+     ]
+    }
+   },
+   "latestTitle": "米政権、疑惑の駐ギリシャ大使解任を検討",
+   "japan": false,
+   "lastSeen": "2026-10-12"
   }
  }
 }
