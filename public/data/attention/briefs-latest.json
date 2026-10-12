@@ -1,1171 +1,708 @@
 {
- "date": "2026-10-12",
- "generatedAt": "2026-10-11T21:36:35.923Z",
- "model": "gemini-3.8-flash",
+ "date": "2026-10-13",
+ "generatedAt": "2026-10-12T21:39:00.015Z",
+ "model": "gemini-3.5-flash-lite",
  "measured": {
   "world": 18,
   "jp": 6
  },
  "articles": [
   {
-   "id": "intl-brief-2026-10-12-s-20261012-01",
+   "id": "intl-brief-2026-10-13-s-20261013-02",
    "stream": "intl",
    "depth": "brief",
    "section": "world",
-   "headline": "サウジ首都の空港にフーシ派が再攻撃、死傷者も",
-   "originalTitle": "Saudi capital airport hit by second Houthi strike in two days",
-   "outlet": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+   "headline": "フランスのスーパーで冷蔵システムがサイバー攻撃を受ける",
+   "originalTitle": "French supermarket fridges heated to 50C in cyber attack - causing fires and food losses",
+   "outlet": "Sky News",
+   "url": "https://news.sky.com/story/hackers-heat-french-supermarket-fridges-to-50c-in-large-scale-cyber-attack-13598252",
    "region": "overseas",
    "category": null,
-   "score": 48,
+   "score": 37,
    "tier": "should",
-   "pubDate": "2026-10-11T21:36:35.923Z",
+   "pubDate": "2026-10-12T21:39:00.015Z",
    "body": null,
-   "summary": "サウジアラビアの首都リヤドの国際空港に飛来物が着弾し、旅客ホールで火災と負傷者が発生しました。イエメンの反政府勢力フーシ派が攻撃を実行したと発表しました。前日にも同空港への攻撃で13人が死亡し308人が負傷していました。フーシ派は東部の空港や石油施設も標的にしたとし、サウジ領内での作戦継続を予告しています。米国のトランプ大統領は対応を迅速に決定すると述べました。",
+   "summary": "フランスの数百のスーパーマーケットがサイバー攻撃を受け、冷蔵庫や冷凍庫の温度が上昇し、新鮮な食品や冷凍食品が台無しになった。ハッカーが冷蔵温度を調整するソフトウェアを乗っ取り、一晩で50度に達したところもあった。パリの検察当局は捜査を開始している。",
    "sources": [
     {
+     "outlet": "Sky News",
+     "url": "https://news.sky.com/story/hackers-heat-french-supermarket-fridges-to-50c-in-large-scale-cyber-attack-13598252",
+     "date": "2026-10-13",
+     "access": "excerpt",
+     "via": null,
+     "note": "French supermarket fridges heated to 50C in cyber attack - causing fires and food losses"
+    },
+    {
      "outlet": "BBC",
-     "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
-     "date": "2026-10-12",
+     "url": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-10-13",
      "access": "body",
      "via": null,
-     "note": "Saudi capital airport hit by second Houthi strike in two days"
+     "note": "Fridges in French supermarkets hit by cyber attack"
     },
     {
-     "outlet": "New York Times",
-     "url": "https://www.nytimes.com/2026/10/11/world/middleeast/saudi-arabia-options-houthis.html",
-     "date": "2026-10-12",
+     "outlet": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-10-13/french-supermarkets-hacked-causing-fires-and-food-loss/107258724",
+     "date": "2026-10-13",
      "access": "excerpt",
      "via": null,
-     "note": "Saudi Arabia Has Few Options as Houthis Aim at Heart of Its Ambitions"
-    },
-    {
-     "outlet": "NPR",
-     "url": "https://www.npr.org/2026/10/10/g-s1-147682/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say",
-     "date": "2026-10-12",
-     "access": "excerpt",
-     "via": null,
-     "note": "Passenger terminal at Riyadh airport is struck again, a day after 12 were killed"
+     "note": "Hackers raise fridge temperatures at hundreds of French supermarkets to spoil food"
     },
     {
      "outlet": "The Guardian",
-     "url": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
-     "date": "2026-10-12",
+     "url": "https://www.theguardian.com/world/2026/oct/12/cyber-attack-defrosts-refrigerators-france-supermarket-chains-intermarche-cooperative-u",
+     "date": "2026-10-13",
      "access": "excerpt",
      "via": null,
-     "note": "Middle East crisis: Riyadh airport hit again as Houthis claim attacks, including strike that killed 12 – as it happened"
-    },
-    {
-     "outlet": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/saudi-health-minister-visits-survivors-of-deadly-riyadh-airport-attack?traffic_source=rss",
-     "date": "2026-10-12",
-     "access": "excerpt",
-     "via": null,
-     "note": "Saudi health minister visits survivors of deadly Riyadh airport attack"
+     "note": "Hackers force French supermarket fridges to heat up to 50C in ‘unprecedented’ cyber-attack"
     },
     {
      "outlet": "France 24",
-     "url": "https://www.france24.com/en/middle-east/20261011-live-saudi-arabia-vows-decisive-response-after-deadly-houthi-strike-on-riyadh-airport",
-     "date": "2026-10-12",
-     "access": "headline",
+     "url": "https://www.france24.com/en/french-supermarkets-suffer-refrigerator-shutdown-after-unprecedented-cyberattack",
+     "date": "2026-10-13",
+     "access": "excerpt",
      "via": null,
-     "note": "🔴 Live: Houthi rebels claim latest attacks on Riyadh airport, following Saturday's deadly strike"
+     "note": "French supermarkets suffer refrigerator shutdown after 'unprecedented' cyberattack"
     },
     {
      "outlet": "Euronews",
-     "url": "https://www.euronews.com/2026/10/11/riyadh-airport-stays-shut-after-deadly-attack-as-trump-says-us-may-join-saudi-strikes-on-h",
-     "date": "2026-10-12",
+     "url": "https://www.euronews.com/2026/10/12/hundreds-of-french-supermarkets-hit-by-cyberattack-on-refrigeration-systems",
+     "date": "2026-10-13",
      "access": "excerpt",
      "via": null,
-     "note": "Riyadh airport strikes claimed by Yemen's Houthi day after deadliest attack in Saudi soil in ten years"
+     "note": "Hundreds of French supermarkets hit by cyberattack on refrigeration systems"
     },
     {
      "outlet": "South China Morning Post",
-     "url": "https://www.scmp.com/news/world/middle-east/article/3370513/riyadh-airport-hit-fresh-houthi-strike-day-after-deadly-attack-killed-12?utm_source=rss_feed",
-     "date": "2026-10-12",
+     "url": "https://www.scmp.com/news/world/europe/article/3370633/france-supermarkets-say-cyberattack-forced-defrosting-refrigerators-over-200-stores?utm_source=rss_feed",
+     "date": "2026-10-13",
      "access": "excerpt",
      "via": null,
-     "note": "Riyadh airport hit by fresh Houthi strike day after deadly attack killed 12"
+     "note": "Hackers heat French supermarket fridges, sparking fires and spoiling food in cyberattack"
     },
     {
      "outlet": "CBS News",
-     "url": "https://www.cbsnews.com/news/houthis-threat-saudi-airspace-attack-riyadh-airport/",
-     "date": "2026-10-12",
+     "url": "https://www.cbsnews.com/news/cyberattack-supermarkets-refrigerators-france-fires-food-losses/",
+     "date": "2026-10-13",
      "access": "excerpt",
      "via": null,
-     "note": "Terminal in Riyadh airport hit again, a day after deadly strike killed 12"
-    },
-    {
-     "outlet": "Times of India",
-     "url": "https://timesofindia.indiatimes.com/world/middle-east/bloodied-passengers-panic-and-screams-survivors-recall-riyadh-airport-strike/articleshow/134874610.cms",
-     "date": "2026-10-12",
-     "access": "headline",
-     "via": null,
-     "note": "Riyadh airport strike survivors: Houthi missile kills 12, injures 300; residents and travellers recount horror"
+     "note": "Hackers heat up refrigerators at hundreds of supermarkets"
     },
     {
      "outlet": "The Straits Times",
-     "url": "https://www.straitstimes.com/world/middle-east/yemens-houthis-renew-warning-over-saudi-airports-after-deadly-riyadh-attack",
-     "date": "2026-10-12",
+     "url": "https://www.straitstimes.com/world/europe/hackers-heat-french-supermarket-fridges-sparking-fires-and-food-losses",
+     "date": "2026-10-13",
      "access": "excerpt",
      "via": null,
-     "note": "Riyadh airport hit by fresh Houthi strike day after deadly attack"
+     "note": "Hackers heat French supermarket fridges, sparking fires and food losses"
     },
     {
      "outlet": "Reuters",
      "url": null,
-     "date": "2026-10-12",
+     "date": "2026-10-13",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "Saudi Arabia reports injuries in new attack at Riyadh airport, day after strike kills 13 - Reuters"
-    },
-    {
-     "outlet": "Associated Press",
-     "url": null,
-     "date": "2026-10-12",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "12 killed and over 300 hurt in latest attack on Riyadh airport, Saudi authorities say - AP News"
+     "note": "Hackers heat French supermarket fridges, sparking fires and spoiling food - Reuters"
     },
     {
      "outlet": "Bloomberg",
      "url": null,
-     "date": "2026-10-12",
+     "date": "2026-10-13",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "Saudi Arabia’s Main Riyadh Airport Comes Under Further Attack - Bloomberg.com"
-    },
-    {
-     "outlet": "Financial Times",
-     "url": null,
-     "date": "2026-10-12",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Houthis show military reach with deadly missile strikes on Riyadh - Financial Times"
+     "note": "French Supermarket Refrigeration Sites Hit by Cyberattacks - Bloomberg.com"
     }
    ],
    "continuity": null,
    "coverage": {
-    "world": "15/18",
-    "jp": "3/6",
+    "world": "11/18",
+    "jp": "0/6",
     "worldTotal": 18,
     "jpTotal": 6
    },
    "bodyAvailable": true,
    "discussionUrl": null,
-   "summarizedBy": "gemini-3.8-flash"
+   "summarizedBy": "gemini-3.5-flash-lite"
   },
   {
-   "id": "intl-brief-2026-10-12-s-20261012-10",
+   "id": "intl-brief-2026-10-13-s-20261013-03",
    "stream": "intl",
    "depth": "brief",
    "section": "world",
-   "headline": "ローマ教皇が肺の結節切除手術へ、初期段階で発見",
-   "originalTitle": "Pope Leo Will Have Surgery to Remove Growth on Lung",
-   "outlet": "New York Times",
-   "url": "https://www.nytimes.com/2026/10/11/world/europe/pope-leo-lung-surgery.html",
+   "headline": "米連邦捜査機関が民主党オマール議員の自宅を捜査",
+   "originalTitle": "Immigration agents search Congresswoman Ilhan Omar's home",
+   "outlet": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
    "region": "overseas",
    "category": null,
-   "score": 39,
-   "tier": "should",
-   "pubDate": "2026-10-11T21:36:35.923Z",
+   "score": 25,
+   "tier": "interest",
+   "pubDate": "2026-10-12T21:39:00.015Z",
    "body": null,
-   "summary": "ローマ教皇レオ14世が、肺に見つかった局所的な結節を切除する手術を今週受けると発表しました。定期健康診断の極めて初期の段階で発見され、医師の助言を受けて手術を決断したと述べました。手術はローマのジェメッリ病院で行われる予定です。バチカン報道官によると、術後の回復期間は約1週間と見込まれています。バチカンは結節が悪性かどうかは明らかにしていません。",
+   "summary": "米連邦捜査機関が、ドナルド・トランプ大統領の批判者である民主党のイルハン・オマール下院議員のワシントンの自宅を刑事捜査の一環として家宅捜索した。オマール議員は根拠のない脅迫キャンペーンのエスカレーションだと批判し、沈黙しないと述べた。",
    "sources": [
     {
-     "outlet": "New York Times",
-     "url": "https://www.nytimes.com/2026/10/11/world/europe/pope-leo-lung-surgery.html",
-     "date": "2026-10-12",
-     "access": "excerpt",
-     "via": null,
-     "note": "Pope Leo Will Have Surgery to Remove Growth on Lung"
-    },
-    {
-     "outlet": "NPR",
-     "url": "https://www.npr.org/2026/10/11/nx-s1-5998027/pope-leo-xiv-to-undergo-lung-surgery-this-week",
-     "date": "2026-10-12",
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
+     "date": "2026-10-13",
      "access": "body",
      "via": null,
-     "note": "Pope Leo XIV to undergo lung surgery this week"
+     "note": "Immigration agents search Congresswoman Ilhan Omar's home"
+    },
+    {
+     "outlet": "Sky News",
+     "url": "https://news.sky.com/story/congresswoman-insists-she-will-not-be-silenced-after-federal-agents-raid-her-home-13598219",
+     "date": "2026-10-13",
+     "access": "excerpt",
+     "via": null,
+     "note": "Congresswoman insists she will not be 'silenced' after federal agents raid her home"
+    },
+    {
+     "outlet": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/us-rep-ilhan-omars-home-searched-by-immigration-agents?traffic_source=rss",
+     "date": "2026-10-13",
+     "access": "excerpt",
+     "via": null,
+     "note": "US Rep. Ilhan Omar’s home searched by immigration agents"
+    },
+    {
+     "outlet": "France 24",
+     "url": "https://www.france24.com/en/americas/20261012-us-federal-agents-raid-home-of-democratic-congresswoman-and-trump-critic-ilhan-omar",
+     "date": "2026-10-13",
+     "access": "excerpt",
+     "via": null,
+     "note": "US federal agents raid home of Democratic congresswoman and Trump critic Ilhan Omar"
+    },
+    {
+     "outlet": "South China Morning Post",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3370643/federal-agents-search-democrat-ilhan-omars-home-part-criminal-investigation?utm_source=rss_feed",
+     "date": "2026-10-13",
+     "access": "excerpt",
+     "via": null,
+     "note": "US federal agents search Democrat Ilhan Omar’s home as part of a criminal investigation"
+    },
+    {
+     "outlet": "Reuters",
+     "url": null,
+     "date": "2026-10-13",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "US immigration authorities raid home of Democratic Trump critic Ilhan Omar - Reuters"
+    },
+    {
+     "outlet": "Associated Press",
+     "url": null,
+     "date": "2026-10-13",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Agents search Rep. Omar's Washington home in criminal probe as she vows she won't 'be silenced' - AP News"
+    },
+    {
+     "outlet": "Bloomberg",
+     "url": null,
+     "date": "2026-10-13",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Federal Agents Search Representative Ilhan Omar’s Home - Bloomberg.com"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "8/18",
+    "jp": "2/6",
+    "worldTotal": 18,
+    "jpTotal": 6
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "gemini-3.5-flash-lite"
+  },
+  {
+   "id": "intl-brief-2026-10-13-s-20261012-10",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "world",
+   "headline": "ローマ教皇レオ14世が肺の腫瘍除去手術へ",
+   "originalTitle": "Pope Leo cancels all public events ahead of lung surgery",
+   "outlet": "Sky News",
+   "url": "https://news.sky.com/story/pope-leo-cancels-all-public-events-ahead-of-lung-surgery-13598270",
+   "region": "overseas",
+   "category": null,
+   "score": 19,
+   "tier": "interest",
+   "pubDate": "2026-10-12T21:39:00.015Z",
+   "body": null,
+   "summary": "ローマ教皇レオ14世は、医師の勧めに従い、肺に見つかった小さな腫瘍を除去するための手術を受けると発表した。教皇はローマの病院に入院し、約1週間の入院療養が見込まれており、10月20日までの公務がキャンセルされた。",
+   "sources": [
+    {
+     "outlet": "Sky News",
+     "url": "https://news.sky.com/story/pope-leo-cancels-all-public-events-ahead-of-lung-surgery-13598270",
+     "date": "2026-10-13",
+     "access": "excerpt",
+     "via": null,
+     "note": "Pope Leo cancels all public events ahead of lung surgery"
+    },
+    {
+     "outlet": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/12/pope-leo-to-undergo-surgery-to-remove-lung-nodule-in-rome?traffic_source=rss",
+     "date": "2026-10-13",
+     "access": "body",
+     "via": null,
+     "note": "Pope Leo to undergo surgery to remove lung nodule in Rome"
+    },
+    {
+     "outlet": "CBS News",
+     "url": "https://www.cbsnews.com/news/pope-leo-hospital-lung-nodule-surgery/",
+     "date": "2026-10-13",
+     "access": "excerpt",
+     "via": null,
+     "note": "Pope Leo to go to hospital Tuesday for lung nodule surgery"
+    },
+    {
+     "outlet": "Associated Press",
+     "url": null,
+     "date": "2026-10-13",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Pope Leo XIV will have surgery in the coming days to remove a nodule on his lung - AP News"
     },
     {
      "outlet": "BBC",
      "url": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
-     "date": "2026-10-12",
+     "date": "2026-10-13",
      "access": "excerpt",
      "via": null,
      "note": "Pope Leo to have surgery after lump found on lung"
     },
     {
-     "outlet": "Sky News",
-     "url": "https://news.sky.com/story/pope-leo-to-undergo-surgery-in-coming-days-after-nodule-discovered-on-his-lung-13597712",
-     "date": "2026-10-12",
+     "outlet": "NPR",
+     "url": "https://www.npr.org/2026/10/11/nx-s1-5998027/pope-leo-xiv-to-undergo-lung-surgery-this-week",
+     "date": "2026-10-13",
      "access": "excerpt",
      "via": null,
-     "note": "Pope Leo to undergo surgery in coming days after nodule discovered on his lung"
+     "note": "Pope Leo XIV to undergo lung surgery this week"
     },
     {
-     "outlet": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pope-leo-xiv-to-undergo-surgery-after-lump-found-in-lung?traffic_source=rss",
-     "date": "2026-10-12",
+     "outlet": "New York Times",
+     "url": "https://www.nytimes.com/2026/10/11/world/europe/pope-leo-lung-surgery.html",
+     "date": "2026-10-13",
      "access": "excerpt",
      "via": null,
-     "note": "Pope Leo XIV to undergo surgery after lump found in lung"
-    },
-    {
-     "outlet": "France 24",
-     "url": "https://www.france24.com/en/video/20261011-pope-leo-says-he-will-undergo-surgery-for-small-growth-on-lung",
-     "date": "2026-10-12",
-     "access": "excerpt",
-     "via": null,
-     "note": "Pope Leo says he will undergo surgery for small growth on lung"
-    },
-    {
-     "outlet": "Euronews",
-     "url": "https://www.euronews.com/2026/10/11/pope-leo-xiv-to-have-surgery-in-coming-days-to-remove-nodule-in-lung",
-     "date": "2026-10-12",
-     "access": "excerpt",
-     "via": null,
-     "note": "Pope Leo XIV to have surgery in 'coming days' to remove nodule in lung"
-    },
-    {
-     "outlet": "South China Morning Post",
-     "url": "https://www.scmp.com/news/world/europe/article/3370499/pope-leo-undergo-surgery-small-growth-lung?utm_source=rss_feed",
-     "date": "2026-10-12",
-     "access": "excerpt",
-     "via": null,
-     "note": "Pope Leo to undergo surgery for small growth on lung"
-    },
-    {
-     "outlet": "CBS News",
-     "url": "https://www.cbsnews.com/news/pope-leo-surgery-nodular-lesion-lung-vatican/",
-     "date": "2026-10-12",
-     "access": "excerpt",
-     "via": null,
-     "note": "Pope Leo to undergo surgery after nodular lesion found in lung, Vatican says"
-    },
-    {
-     "outlet": "The Straits Times",
-     "url": "https://www.straitstimes.com/world/europe/pope-leo-says-will-undergo-surgery-for-small-growth-on-lung",
-     "date": "2026-10-12",
-     "access": "excerpt",
-     "via": null,
-     "note": "Pope Leo to undergo surgery for small growth on lung"
-    },
-    {
-     "outlet": "Reuters",
-     "url": null,
-     "date": "2026-10-12",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Pope Leo says he will undergo surgery for small growth on lung - Reuters"
-    },
-    {
-     "outlet": "Associated Press",
-     "url": null,
-     "date": "2026-10-12",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Pope Leo XIV says he will undergo surgery in the coming days to remove a nodule on his lung - AP News"
+     "note": "Pope Leo Will Have Surgery to Remove Growth on Lung"
     }
    ],
-   "continuity": null,
+   "continuity": {
+    "previousDate": "2026-10-12",
+    "previousScore": 39,
+    "note": "2日連続で報じられている"
+   },
    "coverage": {
-    "world": "12/18",
+    "world": "7/18",
     "jp": "1/6",
     "worldTotal": 18,
     "jpTotal": 6
    },
    "bodyAvailable": true,
    "discussionUrl": null,
-   "summarizedBy": "gemini-3.8-flash"
+   "summarizedBy": "gemini-3.5-flash-lite"
   },
   {
-   "id": "intl-brief-2026-10-12-s-20261012-02",
+   "id": "intl-brief-2026-10-13-s-20261001-24",
    "stream": "intl",
    "depth": "brief",
    "section": "world",
-   "headline": "トランプ氏がエネルギー停戦発表、ウクライナ側は当惑",
-   "originalTitle": "Trump announces partial ceasefire in Ukraine war as Zelenskyy says deal is ‘news to me’",
-   "outlet": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/oct/11/zelenskyy-trump-ukraine-russia-energy-ceasefire",
+   "headline": "英首相、フェアフォード空軍基地の事件でイランを非難",
+   "originalTitle": "UK blames Iran for airbase plot, sanctions two Iranian nationals",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/12/uk-blames-iran-for-airbase-plot-sanctions-two-iranian-nationals?traffic_source=rss",
    "region": "overseas",
    "category": null,
-   "score": 35,
-   "tier": "should",
-   "pubDate": "2026-10-11T21:36:35.923Z",
+   "score": 19,
+   "tier": "interest",
+   "pubDate": "2026-10-12T21:39:00.015Z",
    "body": null,
-   "summary": "トランプ米大統領は、ロシアとウクライナがエネルギー施設への攻撃停止で合意したと発表しました。一方、ウクライナのゼレンスキー大統領は発表に驚きを示しつつ、ロシア側が履行するなら受け入れる姿勢を示しました。ウクライナ側は事前協議がなかったとしています。発表後もロシア軍による火力発電所などへの攻撃が続いており、現場で停戦が順守されている兆候は見られないと報じられています。",
+   "summary": "イギリスのアンディ・バーナム首相は、イングランドのフェアフォード空軍基地を標的とした容疑について、イランのイスラム革命防衛隊が調整した可能性が非常に高いと議会で述べた。英国政府はイラン大使を呼び出し、2人のイラン国民に対して制裁を発表した。",
    "sources": [
     {
-     "outlet": "The Guardian",
-     "url": "https://www.theguardian.com/world/2026/oct/11/zelenskyy-trump-ukraine-russia-energy-ceasefire",
-     "date": "2026-10-12",
+     "outlet": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/12/uk-blames-iran-for-airbase-plot-sanctions-two-iranian-nationals?traffic_source=rss",
+     "date": "2026-10-13",
      "access": "body",
      "via": null,
-     "note": "Trump announces partial ceasefire in Ukraine war as Zelenskyy says deal is ‘news to me’"
-    },
-    {
-     "outlet": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/zelenskyy-welcomes-us-announced-energy-ceasefire?traffic_source=rss",
-     "date": "2026-10-12",
-     "access": "excerpt",
-     "via": null,
-     "note": "Zelenskyy welcomes US-announced energy ceasefire"
+     "note": "UK blames Iran for airbase plot, sanctions two Iranian nationals"
     },
     {
      "outlet": "Deutsche Welle",
-     "url": "https://www.dw.com/en/trump-claims-russia-and-ukraine-agreed-to-energy-ceasefire/a-79634509?maca=en-rss-en-world-4025-rdf",
-     "date": "2026-10-12",
-     "access": "excerpt",
+     "url": "https://www.dw.com/en/uk-iran-highly-likely-to-be-behind-raf-fairford-incident/a-79645941?maca=en-rss-en-world-4025-rdf",
+     "date": "2026-10-13",
+     "access": "body",
      "via": null,
-     "note": "Trump claims Russia and Ukraine agreed to 'energy ceasefire'"
+     "note": "UK: Iran 'highly likely' to be behind RAF Fairford incident"
     },
     {
      "outlet": "France 24",
-     "url": "https://www.france24.com/en/video/20261011-trump-s-energy-ceasefire-announcement-was-news-for-me-zelensky",
-     "date": "2026-10-12",
+     "url": "https://www.france24.com/en/europe/20261012-tehran-denies-involvement-in-uk-fairford-air-base-incident-as-britain-summons-iranian-ambassador",
+     "date": "2026-10-13",
      "access": "excerpt",
      "via": null,
-     "note": "Trump's energy ceasefire announcement was 'news for me' (Zelensky)"
-    },
-    {
-     "outlet": "Euronews",
-     "url": "https://www.euronews.com/2026/10/11/energy-ceasefire-agreed-between-russia-and-ukraine-trump-says",
-     "date": "2026-10-12",
-     "access": "excerpt",
-     "via": null,
-     "note": "Russia strikes power plants in Ukraine despite 'energy ceasefire' announced by Trump"
+     "note": "Tehran denies involvement in UK Fairford air base incident as Britain summons Iranian ambassador"
     },
     {
      "outlet": "South China Morning Post",
-     "url": "https://www.scmp.com/news/world/europe/article/3370510/trump-says-russia-ukraine-agree-energy-ceasefire?utm_source=rss_feed",
-     "date": "2026-10-12",
+     "url": "https://www.scmp.com/news/world/europe/article/3370646/uk-pm-burnham-says-irans-irgc-highly-likely-have-been-behind-raf-fairford-incident?utm_source=rss_feed",
+     "date": "2026-10-13",
      "access": "excerpt",
      "via": null,
-     "note": "Russia hits Ukraine power plants despite Trump’s energy ceasefire claim"
-    },
-    {
-     "outlet": "CBS News",
-     "url": "https://www.cbsnews.com/news/zelenskyy-trump-new-ukrainian-president/",
-     "date": "2026-10-12",
-     "access": "excerpt",
-     "via": null,
-     "note": "Trump announces Russia-Ukraine \"energy ceasefire\" after criticizing Zelenskyy"
+     "note": "UK PM Burnham says Iran’s IRGC ‘highly likely’ to have been behind RAF Fairford incident"
     },
     {
      "outlet": "The Straits Times",
-     "url": "https://www.straitstimes.com/world/europe/ukraine-awaits-details-of-ceasefire-proposals-from-us-russia-maintains-attacks-zelenskiy-says",
-     "date": "2026-10-12",
+     "url": "https://www.straitstimes.com/world/europe/uk-pm-burnham-says-irans-irgc-likely-behind-raf-fairford-incident",
+     "date": "2026-10-13",
      "access": "excerpt",
      "via": null,
-     "note": "Russia hits Ukraine power plants despite Trump’s claim of an energy ceasefire"
+     "note": "Iran’s Islamic Revolutionary Guards likely behind Fairford airbase incident, says British PM Burnham"
     },
     {
      "outlet": "Reuters",
      "url": null,
-     "date": "2026-10-12",
+     "date": "2026-10-13",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "Ukraine awaits details of ceasefire proposals from US, Russia maintains attacks, Zelenskiy says - Reuters"
-    },
-    {
-     "outlet": "Associated Press",
-     "url": null,
-     "date": "2026-10-12",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Trump says Russia and Ukraine agree to an ‘energy ceasefire’ but Kyiv says attacks continue - AP News"
+     "note": "UK PM Burnham says Iran's IRGC likely behind RAF Fairford incident - Reuters"
     },
     {
      "outlet": "Bloomberg",
      "url": null,
-     "date": "2026-10-12",
+     "date": "2026-10-13",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "Trump Says Russia and Ukraine Agreed to ‘Energy Ceasefire’ - Bloomberg.com"
-    },
-    {
-     "outlet": "Financial Times",
-     "url": null,
-     "date": "2026-10-12",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Ukraine’s allies vow to pressure Moscow as Trump claims ‘energy ceasefire’ in place - Financial Times"
+     "note": "UK Says Iran’s IRGC Directed Incident at Airbase Used by US - Bloomberg.com"
     }
    ],
-   "continuity": null,
+   "continuity": {
+    "previousDate": "2026-10-01",
+    "previousScore": 22,
+    "note": "6日連続で報じられている"
+   },
    "coverage": {
-    "world": "12/18",
-    "jp": "4/6",
+    "world": "7/18",
+    "jp": "1/6",
     "worldTotal": 18,
     "jpTotal": 6
    },
    "bodyAvailable": true,
    "discussionUrl": null,
-   "summarizedBy": "gemini-3.8-flash"
+   "summarizedBy": "gemini-3.5-flash-lite"
   },
   {
-   "id": "intl-brief-2026-10-12-s-20261012-04",
+   "id": "intl-brief-2026-10-13-s-20261013-07",
    "stream": "intl",
    "depth": "brief",
    "section": "world",
-   "headline": "米露の軽油合意に批判、価格引き下げ効果に疑問の声",
-   "originalTitle": "Ukrainian MP calls U.S.-Russia diesel deal a 'betrayal'",
-   "outlet": "NPR",
-   "url": "https://www.npr.org/2026/10/11/nx-s1-5997466/ukrainian-mp-calls-u-s-russia-diesel-deal-a-betrayal",
-   "region": "overseas",
-   "category": null,
-   "score": 31,
-   "tier": "should",
-   "pubDate": "2026-10-11T21:36:35.923Z",
-   "body": null,
-   "summary": "トランプ米大統領がロシア産軽油の制裁を緩和して輸入する合意を発表し、国内外から批判が出ています。専門家は供給量が少なく到着にも時間がかかるため、米国内の価格引き下げ効果は乏しいと分析しています。米与党共和党の議員からは合意が違法である可能性を指摘する声も上がりました。ウクライナ側は合意を裏切りと批判し、ロシアの製油所への攻撃を継続する方針を示しています。",
-   "sources": [
-    {
-     "outlet": "NPR",
-     "url": "https://www.npr.org/2026/10/11/nx-s1-5997466/ukrainian-mp-calls-u-s-russia-diesel-deal-a-betrayal",
-     "date": "2026-10-12",
-     "access": "body",
-     "via": null,
-     "note": "Ukrainian MP calls U.S.-Russia diesel deal a 'betrayal'"
-    },
-    {
-     "outlet": "The Guardian",
-     "url": "https://www.theguardian.com/us-news/2026/oct/11/trump-russia-diesel-deal-putin-little-impact-prices",
-     "date": "2026-10-12",
-     "access": "body",
-     "via": null,
-     "note": "Trump’s deal with Putin will have little impact on US diesel prices, experts say"
-    },
-    {
-     "outlet": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/11/republican-senator-says-trump-diesel-agreement-with-russia-may-be-illegal?traffic_source=rss",
-     "date": "2026-10-12",
-     "access": "excerpt",
-     "via": null,
-     "note": "Republican senator says Trump diesel agreement with Russia may be illegal"
-    },
-    {
-     "outlet": "France 24",
-     "url": "https://www.france24.com/en/video/20261011-trump-zelensky-clash-over-diesel-deal-as-russian-strikes-kill-21",
-     "date": "2026-10-12",
-     "access": "excerpt",
-     "via": null,
-     "note": "Trump, Zelensky clash over diesel deal as Russian strikes kill 21"
-    },
-    {
-     "outlet": "South China Morning Post",
-     "url": "https://www.scmp.com/news/world/united-states-canada/article/3370512/trumps-russian-diesel-deal-may-be-illegal-says-prominent-republican-senator?utm_source=rss_feed",
-     "date": "2026-10-12",
-     "access": "excerpt",
-     "via": null,
-     "note": "Trump’s Russian diesel deal may be illegal, says prominent Republican senator"
-    },
-    {
-     "outlet": "CBS News",
-     "url": "https://www.cbsnews.com/video/ukraine-says-it-wont-stop-attacking-russian-oil-resources-amid-diesel-fuel-deal-with-us/",
-     "date": "2026-10-12",
-     "access": "excerpt",
-     "via": null,
-     "note": "Ukraine says it won&#039;t stop attacking Russian oil resources amid diesel fuel deal with U.S."
-    },
-    {
-     "outlet": "The Straits Times",
-     "url": "https://www.straitstimes.com/world/europe/us-threatens-to-block-arms-for-ukraine-over-refinery-attacks-ft-reports",
-     "date": "2026-10-12",
-     "access": "excerpt",
-     "via": null,
-     "note": "US threatens to block arms for Ukraine over refinery attacks, FT reports"
-    },
-    {
-     "outlet": "Reuters",
-     "url": null,
-     "date": "2026-10-12",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "US threatens to block arms for Ukraine over refinery attacks, FT reports - Reuters"
-    },
-    {
-     "outlet": "Associated Press",
-     "url": null,
-     "date": "2026-10-12",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Six senators call for Trump administration to 'immediately reverse course' on Russian diesel plan - AP News"
-    },
-    {
-     "outlet": "Financial Times",
-     "url": null,
-     "date": "2026-10-12",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "US threatens to block arms for Ukraine over attacks on Russian refineries - Financial Times"
-    }
-   ],
-   "continuity": null,
-   "coverage": {
-    "world": "10/18",
-    "jp": "0/6",
-    "worldTotal": 18,
-    "jpTotal": 6
-   },
-   "bodyAvailable": true,
-   "discussionUrl": null,
-   "summarizedBy": "gemini-3.8-flash"
-  },
-  {
-   "id": "intl-brief-2026-10-12-s-20261012-03",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "world",
-   "headline": "トランプ氏がウクライナ大統領交代を要求、反論相次ぐ",
-   "originalTitle": "Ukraine Shrugs Off Trump Call to Ditch Zelensky for Energy Strikes",
+   "headline": "NATO最高司令官が同盟国への攻撃に対して警告",
+   "originalTitle": "NATO Details Plan to Shield Ukraine’s European Allies From Russia",
    "outlet": "New York Times",
-   "url": "https://www.nytimes.com/2026/10/11/world/europe/trump-zelensky-diesel-energy-russia-.html",
+   "url": "https://www.nytimes.com/2026/10/12/world/europe/nato-strategy-russia-europe.html",
    "region": "overseas",
    "category": null,
-   "score": 26,
+   "score": 19,
    "tier": "interest",
-   "pubDate": "2026-10-11T21:36:35.923Z",
+   "pubDate": "2026-10-12T21:39:00.015Z",
    "body": null,
-   "summary": "トランプ米大統領は、ウクライナが戦争終結に応じる新たな指導者を選ぶべきだと主張しました。ウクライナによるロシア製油所への攻撃が軽油高騰につながっていると非難しています。ゼレンスキー大統領は批判に対し、指導者を選ぶのはウクライナ国民だと反論しました。ロシアが60日間の停戦を受け入れるなら選挙を実施する用意があるとも表明し、ロシアの攻撃停止が先決だと訴えています。",
+   "summary": "NATOの最高司令官であるアレクサス・グリングエウィッチ将軍は、同盟が攻撃された場合には一切躊躇せずに初期攻撃の阻止から敵戦力の粉砕まで行うと警告した。同将軍は、戦争は望んでいないが戦闘の準備はできているとワルシャワ安全保障フォーラムで述べた。",
    "sources": [
     {
      "outlet": "New York Times",
-     "url": "https://www.nytimes.com/2026/10/11/world/europe/trump-zelensky-diesel-energy-russia-.html",
-     "date": "2026-10-12",
+     "url": "https://www.nytimes.com/2026/10/12/world/europe/nato-strategy-russia-europe.html",
+     "date": "2026-10-13",
      "access": "excerpt",
      "via": null,
-     "note": "Ukraine Shrugs Off Trump Call to Ditch Zelensky for Energy Strikes"
+     "note": "NATO Details Plan to Shield Ukraine’s European Allies From Russia"
     },
     {
-     "outlet": "France 24",
-     "url": "https://www.france24.com/en/video/20261011-trump-says-ukraine-needs-new-president-who-will-agree-to-end-war",
-     "date": "2026-10-12",
-     "access": "excerpt",
+     "outlet": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/12/nato-says-will-do-anything-and-everything-if-alliance-is-attacked?traffic_source=rss",
+     "date": "2026-10-13",
+     "access": "body",
      "via": null,
-     "note": "Trump says Ukraine needs new president who will agree to end war"
+     "note": "NATO says will do ‘anything and everything’ if alliance is attacked"
     },
     {
      "outlet": "Euronews",
-     "url": "https://www.euronews.com/2026/10/11/up-to-our-people-to-pick-leader-zelenskyy-responds-to-trumps-pledge-for-new-elections-in-u",
-     "date": "2026-10-12",
+     "url": "https://www.euronews.com/2026/10/12/nato-commander-unveils-strategy-to-make-any-attack-on-alliance-utterly-futile",
+     "date": "2026-10-13",
      "access": "excerpt",
      "via": null,
-     "note": "'Up to our people' to pick leader, Zelenskyy responds to Trump's pledge for new elections in Ukraine"
-    },
-    {
-     "outlet": "CBS News",
-     "url": "https://www.cbsnews.com/news/russia-strikes-ukraine-trump-diesel-deal/",
-     "date": "2026-10-12",
-     "access": "excerpt",
-     "via": null,
-     "note": "Trump says Ukraine needs new president, blames Zelenskyy for diesel prices"
-    },
-    {
-     "outlet": "Times of India",
-     "url": "https://timesofindia.indiatimes.com/world/europe/zelenskyy-hits-back-after-trumps-remark-says-ready-to-hold-ukraine-elections-if-russia-offers-60-day-ceasefire/articleshow/134873439.cms",
-     "date": "2026-10-12",
-     "access": "excerpt",
-     "via": null,
-     "note": "Zelenskyy says ready to hold Ukraine elections if Russia offers 60-day ceasefire"
+     "note": "NATO commander unveils strategy to make any attack on alliance ‘utterly futile’"
     },
     {
      "outlet": "The Straits Times",
-     "url": "https://www.straitstimes.com/world/europe/ukraines-zelenskiy-tells-abc-he-will-organize-elections-if-russia-agrees-to-60-day-ceasefire",
-     "date": "2026-10-12",
+     "url": "https://www.straitstimes.com/world/europe/nato-general-sets-out-tough-military-response-to-any-foolish-russian-attack",
+     "date": "2026-10-13",
      "access": "excerpt",
      "via": null,
-     "note": "Ukraine's Zelenskiy tells ABC he will organize elections if Russia agrees to 60-day ceasefire"
+     "note": "NATO general sets out tough military response to any ‘foolish’ Russian attack"
     },
     {
-     "outlet": "Reuters",
+     "outlet": "Associated Press",
      "url": null,
-     "date": "2026-10-12",
+     "date": "2026-10-13",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "Ukraine's Zelenskiy tells ABC he will organize elections if Russia agrees to 60-day ceasefire - Reuters"
+     "note": "NATO commander says the alliance does not want war but is ‘ready to fight tonight’ - AP News"
     },
     {
-     "outlet": "Bloomberg",
+     "outlet": "Financial Times",
      "url": null,
-     "date": "2026-10-12",
+     "date": "2026-10-13",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "Trump Says Ukraine Needs New Leader Who Can Deal With Putin - Bloomberg.com"
-    },
-    {
-     "outlet": "BBC",
-     "url": "https://www.bbc.co.uk/news/videos/cwkg50dgpml7o?at_medium=RSS&at_campaign=rss",
-     "date": "2026-10-12",
-     "access": "excerpt",
-     "via": null,
-     "note": "Watch: 'Time for Ukraine to get a new president', says Trump"
+     "note": "Nato’s supreme commander warns Moscow against attacks in Europe - Financial Times"
     }
    ],
    "continuity": null,
    "coverage": {
-    "world": "9/18",
+    "world": "6/18",
+    "jp": "1/6",
+    "worldTotal": 18,
+    "jpTotal": 6
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "gemini-3.5-flash-lite"
+  },
+  {
+   "id": "intl-brief-2026-10-13-s-20261013-05",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "world",
+   "headline": "フランスの学校で生徒が校長と教師を銃撃",
+   "originalTitle": "Pupil arrested after two teachers shot at French school",
+   "outlet": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/cm2keg7910gvo?at_medium=RSS&at_campaign=rss",
+   "region": "overseas",
+   "category": null,
+   "score": 14,
+   "tier": "interest",
+   "pubDate": "2026-10-12T21:39:00.015Z",
+   "body": null,
+   "summary": "フランス南部オーバーニュの中学校で14歳の生徒が猟銃を発砲し、校長と教師が負傷した。容疑者の生徒はスタッフに取り押さえられ、警察に身柄を拘束された。負傷した教職員の命に別条はなく、マルセイユ検察当局が殺人未遂で捜査を開始している。",
+   "sources": [
+    {
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cm2keg7910gvo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-10-13",
+     "access": "body",
+     "via": null,
+     "note": "Pupil arrested after two teachers shot at French school"
+    },
+    {
+     "outlet": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/teenager-shoots-headmaster-teacher-at-french-school?traffic_source=rss",
+     "date": "2026-10-13",
+     "access": "excerpt",
+     "via": null,
+     "note": "Teenager shoots headmaster, teacher at French school"
+    },
+    {
+     "outlet": "South China Morning Post",
+     "url": "https://www.scmp.com/news/world/europe/article/3370635/french-police-detain-pupil-14-suspected-shooting-principal-and-teacher?utm_source=rss_feed",
+     "date": "2026-10-13",
+     "access": "excerpt",
+     "via": null,
+     "note": "Teenager shoots headmaster and teacher with a hunting gun at French school"
+    },
+    {
+     "outlet": "Associated Press",
+     "url": null,
+     "date": "2026-10-13",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "French police detain student suspected of shooting the principal and a teacher at his school - AP News"
+    },
+    {
+     "outlet": "Sky News",
+     "url": "https://news.sky.com/story/staff-shot-at-school-near-marseille-13598028",
+     "date": "2026-10-13",
+     "access": "excerpt",
+     "via": null,
+     "note": "Staff shot at school in France - as pupil detained"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "5/18",
+    "jp": "1/6",
+    "worldTotal": 18,
+    "jpTotal": 6
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "gemini-3.5-flash-lite"
+  },
+  {
+   "id": "intl-brief-2026-10-13-s-20261013-04",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "world",
+   "headline": "パリ最古の屋内食品市場が火災で全焼",
+   "originalTitle": "Fire Devastates Paris’s Oldest Covered Food Market, Le Marché des Enfants Rouges",
+   "outlet": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/12/world/europe/france-paris-fire-market-enfants-rouges-marais.html",
+   "region": "overseas",
+   "category": null,
+   "score": 13,
+   "tier": "interest",
+   "pubDate": "2026-10-12T21:39:00.015Z",
+   "body": null,
+   "summary": "フランス・パリにある最古の屋内食品市場とされる歴史的なマルシェ・デ・ザンファン・ルージュが、未明の火災により完全に破壊された。けい死者は報告されていないが、トレーダーズは大きな打撃を受けており、市場は数カ月間閉鎖される可能性がある。",
+   "sources": [
+    {
+     "outlet": "New York Times",
+     "url": "https://www.nytimes.com/2026/10/12/world/europe/france-paris-fire-market-enfants-rouges-marais.html",
+     "date": "2026-10-13",
+     "access": "excerpt",
+     "via": null,
+     "note": "Fire Devastates Paris’s Oldest Covered Food Market, Le Marché des Enfants Rouges"
+    },
+    {
+     "outlet": "France 24",
+     "url": "https://www.france24.com/en/france-fire-destroys-historic-covered-food-market-in-paris",
+     "date": "2026-10-13",
+     "access": "excerpt",
+     "via": null,
+     "note": "France: Fire destroys historic covered food market in Paris"
+    },
+    {
+     "outlet": "Euronews",
+     "url": "https://www.euronews.com/video/2026/10/12/pariss-oldest-covered-food-market-gutted-by-major-overnight-fire",
+     "date": "2026-10-13",
+     "access": "excerpt",
+     "via": null,
+     "note": "Paris’s oldest covered food market gutted by major overnight fire"
+    },
+    {
+     "outlet": "Sky News",
+     "url": "https://news.sky.com/story/oldest-covered-food-market-in-paris-destroyed-in-fire-13598110",
+     "date": "2026-10-13",
+     "access": "excerpt",
+     "via": null,
+     "note": "Oldest covered food market in Paris destroyed in fire"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "4/18",
     "jp": "1/6",
     "worldTotal": 18,
     "jpTotal": 6
    },
    "bodyAvailable": false,
    "discussionUrl": null,
-   "summarizedBy": "gemini-3.8-flash"
+   "summarizedBy": "gemini-3.5-flash-lite"
   },
   {
-   "id": "intl-brief-2026-10-12-s-20261012-05",
+   "id": "intl-brief-2026-10-13-s-20261013-10",
    "stream": "intl",
    "depth": "brief",
    "section": "world",
-   "headline": "ポーランド首相らの暗殺計画容疑者を拘束",
-   "originalTitle": "Poland detains man suspected of planning assassination of PM Tusk",
-   "outlet": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
+   "headline": "女優セルマ・ブレアが航空機内で客室乗務員を暴行した疑い",
+   "originalTitle": "Actress Selma Blair arrested over alleged in-flight assault",
+   "outlet": "ABC Australia",
+   "url": "https://www.abc.net.au/news/2026-10-13/selma-blair-arrested-after-incident-on-flight/107258804",
    "region": "overseas",
    "category": null,
-   "score": 26,
+   "score": 13,
    "tier": "interest",
-   "pubDate": "2026-10-11T21:36:35.923Z",
+   "pubDate": "2026-10-12T21:39:00.015Z",
    "body": null,
-   "summary": "ポーランド当局は、トゥスク首相と国防相に対する暗殺を計画した疑いで男を拘束しました。警察が信頼性の高い情報提供を受け、シロンスク地方でポーランド国籍の容疑者を拘束したと明らかにしました。当局は閣僚の警護情報に関する電子メールから計画を把握したとしています。関係者は脅威が実際に実行される可能性が極めて高かったとし、事態を重大視して対応を進めています。",
+   "summary": "ハリウッド女優のセルマ・ブレアが、ロサンゼルスからニューヨークへ向かう便の中で客室乗務員2人を暴行して負傷させたとして、警察に身柄を拘束された。ブレアの代理人は、事件の前に医療上の緊急事態があったと複数のメディアに説明している。",
    "sources": [
     {
-     "outlet": "BBC",
-     "url": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
-     "date": "2026-10-12",
+     "outlet": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-10-13/selma-blair-arrested-after-incident-on-flight/107258804",
+     "date": "2026-10-13",
      "access": "body",
      "via": null,
-     "note": "Poland detains man suspected of planning assassination of PM Tusk"
-    },
-    {
-     "outlet": "The Guardian",
-     "url": "https://www.theguardian.com/world/2026/oct/11/poland-possible-plot-attack-prime-minister-donald-tusk",
-     "date": "2026-10-12",
-     "access": "body",
-     "via": null,
-     "note": "Donald Tusk says man accused of plotting to kill him detained"
-    },
-    {
-     "outlet": "Euronews",
-     "url": "https://www.euronews.com/2026/10/11/polish-police-alerted-over-possible-attack-on-pm-donald-tusk",
-     "date": "2026-10-12",
-     "access": "excerpt",
-     "via": null,
-     "note": "Man who planned to attack Poland's prime minister has been arrested, interior minister says"
+     "note": "Actress Selma Blair arrested over alleged in-flight assault"
     },
     {
      "outlet": "South China Morning Post",
-     "url": "https://www.scmp.com/news/world/europe/article/3370502/poland-probes-suspected-assassination-attempts-pm-defence-minister?utm_source=rss_feed",
-     "date": "2026-10-12",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3370648/actress-selma-blair-taken-custody-police-responding-abusive-plane-passenger?utm_source=rss_feed",
+     "date": "2026-10-13",
      "access": "excerpt",
      "via": null,
-     "note": "Poland detains suspect in alleged assassination attempt on PM, defence minister"
-    },
-    {
-     "outlet": "The Straits Times",
-     "url": "https://www.straitstimes.com/world/europe/poland-says-police-got-information-about-possible-attack-on-pm-and-defence-minister",
-     "date": "2026-10-12",
-     "access": "excerpt",
-     "via": null,
-     "note": "Polish police detain man over threat to PM and defence minister"
-    },
-    {
-     "outlet": "Reuters",
-     "url": null,
-     "date": "2026-10-12",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Polish police detain man over threat to PM and defence minister - Reuters"
-    },
-    {
-     "outlet": "Associated Press",
-     "url": null,
-     "date": "2026-10-12",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Polish police arrest a man suspected of planning to attack Prime Minister Donald Tusk - AP News"
-    },
-    {
-     "outlet": "Bloomberg",
-     "url": null,
-     "date": "2026-10-12",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Poland Probes Possible Attack Planned on Premier, Defense Chief - Bloomberg.com"
-    }
-   ],
-   "continuity": null,
-   "coverage": {
-    "world": "8/18",
-    "jp": "1/6",
-    "worldTotal": 18,
-    "jpTotal": 6
-   },
-   "bodyAvailable": true,
-   "discussionUrl": null,
-   "summarizedBy": "gemini-3.8-flash"
-  },
-  {
-   "id": "intl-brief-2026-10-12-s-20261012-06",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "world",
-   "headline": "スーダン・エジプト国境の金採掘場で空爆、72人死亡",
-   "originalTitle": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
-   "outlet": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss",
-   "region": "overseas",
-   "category": null,
-   "score": 24,
-   "tier": "interest",
-   "pubDate": "2026-10-11T21:36:35.923Z",
-   "body": null,
-   "summary": "スーダンとエジプトの国境地帯にある金採掘場が空爆を受け、少なくとも72人が死亡しました。現地の権利擁護団体「緊急弁護士」が発表しました。航空機が採掘者のキャンプや作業場を直撃し、50人以上が負傷したとされています。現場は違法採掘が行われる係争地帯で、民間人を狙った行為は国際人道法違反にあたると批判されています。スーダン当局やエジプト政府は公式なコメントを出していません。",
-   "sources": [
-    {
-     "outlet": "BBC",
-     "url": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss",
-     "date": "2026-10-12",
-     "access": "body",
-     "via": null,
-     "note": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says"
-    },
-    {
-     "outlet": "Sky News",
-     "url": "https://news.sky.com/story/at-least-72-miners-killed-in-airstrike-on-sudan-egypt-border-13597904",
-     "date": "2026-10-12",
-     "access": "excerpt",
-     "via": null,
-     "note": "'At least 72' miners killed in airstrike"
-    },
-    {
-     "outlet": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/deadly-air-strike-kills-dozens-at-sudan-gold-mine-near-egypt-border?traffic_source=rss",
-     "date": "2026-10-12",
-     "access": "excerpt",
-     "via": null,
-     "note": "Deadly air strike kills dozens at Sudan gold mine near Egypt border"
-    },
-    {
-     "outlet": "Deutsche Welle",
-     "url": "https://www.dw.com/en/air-strikes-kill-dozens-of-gold-miners-on-sudan-egypt-border/a-79634889?maca=en-rss-en-world-4025-rdf",
-     "date": "2026-10-12",
-     "access": "excerpt",
-     "via": null,
-     "note": "Air strikes kill dozens of gold miners on Sudan-Egypt border"
+     "note": "Hellboy actress Selma Blair arrested for allegedly injuring 2 flight attendants"
     },
     {
      "outlet": "Times of India",
-     "url": "https://timesofindia.indiatimes.com/world/rest-of-world/gold-rush-turns-deadly-airstrike-kills-13-miners-in-sudan-egypt-border-zone/articleshow/134875722.cms",
-     "date": "2026-10-12",
+     "url": "https://timesofindia.indiatimes.com/world/us/selma-blair-arrested-at-jfk-then-hospitalized-after-she-attacked-flight-attendants-on-a-delta-plane/articleshow/134902113.cms",
+     "date": "2026-10-13",
      "access": "headline",
      "via": null,
-     "note": "Border triangle airstrike: At least 13 gold miners killed in strike; toll could rise amid limited care"
+     "note": "Selma Blair arrested at JFK, then hospitalized after she attacked flight attendants on a Delta plane"
     },
     {
-     "outlet": "The Straits Times",
-     "url": "https://www.straitstimes.com/world/middle-east/at-least-72-sudanese-artisanal-miners-killed-in-strike-rights-monitor-says",
-     "date": "2026-10-12",
-     "access": "excerpt",
-     "via": null,
-     "note": "At least 72 Sudanese artisanal miners killed in strike, rights monitor says"
-    },
-    {
-     "outlet": "Reuters",
+     "outlet": "Associated Press",
      "url": null,
-     "date": "2026-10-12",
+     "date": "2026-10-13",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "At least 72 Sudanese artisanal miners killed in strike, rights monitor says - Reuters"
+     "note": "FBI issues actor Selma Blair a summons accusing her of assaults aboard a plane, AP source says - AP News"
     }
    ],
    "continuity": null,
    "coverage": {
-    "world": "7/18",
+    "world": "4/18",
     "jp": "0/6",
     "worldTotal": 18,
     "jpTotal": 6
    },
    "bodyAvailable": true,
    "discussionUrl": null,
-   "summarizedBy": "gemini-3.8-flash"
+   "summarizedBy": "gemini-3.5-flash-lite"
   },
   {
-   "id": "intl-brief-2026-10-12-s-20261012-11",
+   "id": "intl-brief-2026-10-13-s-20261013-09",
    "stream": "intl",
    "depth": "brief",
    "section": "world",
-   "headline": "インド首都で選挙人名簿改訂に抗議、デモ隊拘束",
-   "originalTitle": "India’s ‘Cockroach’ Leaders Released as Small Protests Go On in Delhi",
-   "outlet": "New York Times",
-   "url": "https://www.nytimes.com/2026/10/11/world/asia/india-cockroach-dipke-new-delhi-protests.html",
-   "region": "overseas",
-   "category": null,
-   "score": 24,
-   "tier": "interest",
-   "pubDate": "2026-10-11T21:36:35.923Z",
-   "body": null,
-   "summary": "インドの首都ニューデリーで、選挙人名簿からの大規模な名前削除に抗議するデモが起きました。青年運動組織「ゴキブリ人民党」の指導者らが一時身柄を拘束された後、保釈されました。首都では警察による厳重な封鎖措置が敷かれ、数百人から数千人の参加者が拘束されています。団体側は選挙管理委員長の辞任や選挙制度改革を求め、平和的な抗議活動を今後も継続すると表明しています。",
-   "sources": [
-    {
-     "outlet": "New York Times",
-     "url": "https://www.nytimes.com/2026/10/11/world/asia/india-cockroach-dipke-new-delhi-protests.html",
-     "date": "2026-10-12",
-     "access": "excerpt",
-     "via": null,
-     "note": "India’s ‘Cockroach’ Leaders Released as Small Protests Go On in Delhi"
-    },
-    {
-     "outlet": "BBC",
-     "url": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
-     "date": "2026-10-12",
-     "access": "body",
-     "via": null,
-     "note": "Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on"
-    },
-    {
-     "outlet": "France 24",
-     "url": "https://www.france24.com/en/video/20261011-protesters-seeking-india-election-chief-s-ouster-detained-as-cockroach-leaders-released",
-     "date": "2026-10-12",
-     "access": "excerpt",
-     "via": null,
-     "note": "Protesters seeking India election chief's ouster detained, as 'cockroach' leaders released"
-    },
-    {
-     "outlet": "CBS News",
-     "url": "https://www.cbsnews.com/news/india-cockroach-party-leaders-released-protests/",
-     "date": "2026-10-12",
-     "access": "excerpt",
-     "via": null,
-     "note": "India&#039;s \"Cockroach Party\" leaders released from detention"
-    },
-    {
-     "outlet": "Associated Press",
-     "url": null,
-     "date": "2026-10-12",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "India's 'Cockroach' protest movement leaders freed from detention, vow to continue demonstrations - AP News"
-    },
-    {
-     "outlet": "The Guardian",
-     "url": "https://www.theguardian.com/world/2026/oct/10/cockroach-party-rally-delhi-protests-chief-election-officer-resigns",
-     "date": "2026-10-12",
-     "access": "excerpt",
-     "via": null,
-     "note": "‘Cockroach’ leader among thousands detained in Delhi protest crackdown"
-    },
-    {
-     "outlet": "NPR",
-     "url": "https://www.npr.org/2026/10/10/nx-s1-5995118/protests-against-voter-roll-revisions-rock-capital-of-worlds-largest-democracy",
-     "date": "2026-10-12",
-     "access": "excerpt",
-     "via": null,
-     "note": "Protests against voter roll revisions rock capital of world's largest democracy"
-    },
-    {
-     "outlet": "Sky News",
-     "url": "https://news.sky.com/story/indias-cockroach-movement-founder-detained-along-with-scores-of-protesters-13597121",
-     "date": "2026-10-12",
-     "access": "excerpt",
-     "via": null,
-     "note": "Founder of India's 'Cockroach' movement among hundreds detained amid mass protest"
-    }
-   ],
-   "continuity": null,
-   "coverage": {
-    "world": "8/18",
-    "jp": "0/6",
-    "worldTotal": 18,
-    "jpTotal": 6
-   },
-   "bodyAvailable": true,
-   "discussionUrl": null,
-   "summarizedBy": "gemini-3.8-flash"
-  },
-  {
-   "id": "intl-brief-2026-10-12-s-20261012-12",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "world",
-   "headline": "パキスタン、野党率いる州政府の権限を停止し非常事態",
-   "originalTitle": "Pakistan's president declares state of emergency in province run by Imran Khan's party",
-   "outlet": "Sky News",
-   "url": "https://news.sky.com/story/pakistans-president-declares-state-of-emergency-in-khyber-pakhtunkhwa-province-run-by-imran-khans-party-13597796",
-   "region": "overseas",
-   "category": null,
-   "score": 22,
-   "tier": "interest",
-   "pubDate": "2026-10-11T21:36:35.923Z",
-   "body": null,
-   "summary": "パキスタン大統領は、北西部カイバル・パクトゥンクワ州に非常事態を宣言し、州政府を停止しました。同州政府は収監中のカーン元首相の政党が率いていました。連邦政府は過激派による暴力が続く中で治安が深刻に崩壊していると指摘し、政治的同盟者を統治責任者に任命しました。元首相支持派による抗議デモの実施が予定される中での決定であり、連邦政府による権力掌握と報じられています。",
-   "sources": [
-    {
-     "outlet": "Sky News",
-     "url": "https://news.sky.com/story/pakistans-president-declares-state-of-emergency-in-khyber-pakhtunkhwa-province-run-by-imran-khans-party-13597796",
-     "date": "2026-10-12",
-     "access": "excerpt",
-     "via": null,
-     "note": "Pakistan's president declares state of emergency in province run by Imran Khan's party"
-    },
-    {
-     "outlet": "New York Times",
-     "url": "https://www.nytimes.com/2026/10/11/world/middleeast/pakistan-federal-control-khyber-pakhtunkhwa.html",
-     "date": "2026-10-12",
-     "access": "excerpt",
-     "via": null,
-     "note": "Pakistan Seizes Control of an Opposition-Led Province"
-    },
-    {
-     "outlet": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistan-suspends-imran-khans-party-led-provincial-government?traffic_source=rss",
-     "date": "2026-10-12",
-     "access": "excerpt",
-     "via": null,
-     "note": "Pakistan suspends Imran Khan’s party-led provincial government"
-    },
-    {
-     "outlet": "South China Morning Post",
-     "url": "https://www.scmp.com/news/asia/south-asia/article/3370508/pakistan-imposes-emergency-rule-over-ex-pm-imran-khans-provincial-government?utm_source=rss_feed",
-     "date": "2026-10-12",
-     "access": "excerpt",
-     "via": null,
-     "note": "Pakistan imposes emergency rule over ex-PM Imran Khan’s provincial government"
-    },
-    {
-     "outlet": "Reuters",
-     "url": null,
-     "date": "2026-10-12",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Pakistan imposes emergency rule over Imran Khan's provincial government - Reuters"
-    },
-    {
-     "outlet": "Associated Press",
-     "url": null,
-     "date": "2026-10-12",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Pakistani president suspends provincial government led by Khan’s party ahead of march - AP News"
-    },
-    {
-     "outlet": "Financial Times",
-     "url": null,
-     "date": "2026-10-12",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Pakistan cracks down on Imran Khan stronghold province - Financial Times"
-    }
-   ],
-   "continuity": null,
-   "coverage": {
-    "world": "7/18",
-    "jp": "1/6",
-    "worldTotal": 18,
-    "jpTotal": 6
-   },
-   "bodyAvailable": false,
-   "discussionUrl": null,
-   "summarizedBy": "gemini-3.8-flash"
-  },
-  {
-   "id": "intl-brief-2026-10-12-s-20261012-09",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "world",
-   "headline": "ジブチ沖で移民船が転覆、子ども含む139人以上死亡",
-   "originalTitle": "At least 139 dead and 84 missing after boat capsizes",
-   "outlet": "Sky News",
-   "url": "https://news.sky.com/story/109-dead-after-ship-sinks-off-coast-of-djibouti-un-agency-says-13597707",
-   "region": "overseas",
-   "category": null,
-   "score": 21,
-   "tier": "interest",
-   "pubDate": "2026-10-11T21:36:35.923Z",
-   "body": null,
-   "summary": "ジブチ沖で300人以上を乗せた移民船が転覆し、子ども15人を含む少なくとも139人が死亡しました。国際移住機関（IOM）が発表しました。船はジブチからイエメンへ向かう途中で、港町オボックの沖合で沈没しました。約84人が行方不明となっています。生存者はエチオピア人でした。貧困や政情不安から職を求めて危険な紅海航路を渡ろうとする移動が続いており、悲劇が繰り返されています。",
-   "sources": [
-    {
-     "outlet": "Sky News",
-     "url": "https://news.sky.com/story/109-dead-after-ship-sinks-off-coast-of-djibouti-un-agency-says-13597707",
-     "date": "2026-10-12",
-     "access": "excerpt",
-     "via": null,
-     "note": "At least 139 dead and 84 missing after boat capsizes"
-    },
-    {
-     "outlet": "BBC",
-     "url": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
-     "date": "2026-10-12",
-     "access": "body",
-     "via": null,
-     "note": "Children among 139 dead after boat capsizes off Djibouti, UN says"
-    },
-    {
-     "outlet": "New York Times",
-     "url": "https://www.nytimes.com/2026/10/11/world/africa/migrant-boat-capsize-djibouti-dead-yemen.html",
-     "date": "2026-10-12",
-     "access": "excerpt",
-     "via": null,
-     "note": "Over 100 Migrants Are Dead After Boat Capsizes Near Djibouti"
-    },
-    {
-     "outlet": "Euronews",
-     "url": "https://www.euronews.com/2026/10/11/at-least-139-migrants-dead-after-boat-capsizes-off-djibouti-un-says",
-     "date": "2026-10-12",
-     "access": "excerpt",
-     "via": null,
-     "note": "At least 139 migrants dead after boat capsizes off Djibouti, UN says"
-    },
-    {
-     "outlet": "The Straits Times",
-     "url": "https://www.straitstimes.com/world/europe/109-migrants-including-15-children-dead-after-boat-from-djibouti-to-yemen-capsizes-un-agency-says",
-     "date": "2026-10-12",
-     "access": "excerpt",
-     "via": null,
-     "note": "At least 139 migrants dead, including some children, after boat from Djibouti to Yemen capsizes, UN agency says"
-    },
-    {
-     "outlet": "Reuters",
-     "url": null,
-     "date": "2026-10-12",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "At least 139 migrants dead, including some children, after boat from Djibouti to Yemen capsizes, UN agency says - Reuters"
-    }
-   ],
-   "continuity": null,
-   "coverage": {
-    "world": "6/18",
-    "jp": "1/6",
-    "worldTotal": 18,
-    "jpTotal": 6
-   },
-   "bodyAvailable": true,
-   "discussionUrl": null,
-   "summarizedBy": "gemini-3.8-flash"
-  },
-  {
-   "id": "intl-brief-2026-10-12-s-20261012-15",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "gap",
-   "headline": "英首相、2016年のEU離脱投票にロシア介入と発言",
-   "originalTitle": "Andy Burnham says it is clear Russia interfered in Brexit referendum",
+   "headline": "米当局、数百万ドルのベネズエラ資金洗浄容疑の男を拘束",
+   "originalTitle": "Fugitive businessman taken into US custody in Venezuela bribery case",
    "outlet": "The Guardian",
-   "url": "https://www.theguardian.com/politics/2026/oct/11/andy-burnham-russia-interfered-brexit-vote",
+   "url": "https://www.theguardian.com/us-news/2026/oct/12/fugitive-venezuela-bribery-case",
    "region": "overseas",
    "category": null,
-   "score": 17,
+   "score": 12,
    "tier": "interest",
-   "pubDate": "2026-10-11T21:36:35.923Z",
+   "pubDate": "2026-10-12T21:39:00.015Z",
    "body": null,
-   "summary": "英国のバーナム首相は、2016年のEU離脱を巡る国民投票にロシアが介入したことは明らかだと述べました。首相就任後に確認を求め、介入があったという明確な回答を得たとポッドキャストで語りました。ロシアの関与を否定してきた過去の保守党政権の立場から大きく転換した形です。ただし具体的な証拠や情報源、結果への影響については言及していません。敵対国の干渉に対して透明性が必要だと訴えました。",
+   "summary": "ベネズエラ政府の福祉計画から不法に資金を流用して資金洗浄に関与したとされるコロンビア人のアルバロ・プリドが、米国の当局によって拘束された。米司法省は、プリドがベネズエラ政府高官に賄賂を贈るなどして複数の連邦起訴を受けていたとしている。",
    "sources": [
     {
      "outlet": "The Guardian",
-     "url": "https://www.theguardian.com/politics/2026/oct/11/andy-burnham-russia-interfered-brexit-vote",
-     "date": "2026-10-12",
+     "url": "https://www.theguardian.com/us-news/2026/oct/12/fugitive-venezuela-bribery-case",
+     "date": "2026-10-13",
      "access": "body",
      "via": null,
-     "note": "Andy Burnham says it is clear Russia interfered in Brexit referendum"
+     "note": "Fugitive businessman taken into US custody in Venezuela bribery case"
     },
-    {
-     "outlet": "France 24",
-     "url": "https://www.france24.com/en/europe/20261011-uk-pm-burnham-warns-french-voters-of-russian-political-influence-on-back-of-brexit-vote",
-     "date": "2026-10-12",
-     "access": "excerpt",
-     "via": null,
-     "note": "UK PM Burnham warns French voters of Russian political influence on back of Brexit vote"
-    },
-    {
-     "outlet": "South China Morning Post",
-     "url": "https://www.scmp.com/news/world/europe/article/3370514/it-clear-russia-interfered-brexit-referendum-says-uk-pm-burnham?utm_source=rss_feed",
-     "date": "2026-10-12",
-     "access": "excerpt",
-     "via": null,
-     "note": "It is ‘clear’ Russia interfered in Brexit referendum, says UK PM Burnham"
-    },
-    {
-     "outlet": "The Straits Times",
-     "url": "https://www.straitstimes.com/world/europe/uk-pm-burnham-says-russia-interfered-in-2016-brexit-vote",
-     "date": "2026-10-12",
-     "access": "excerpt",
-     "via": null,
-     "note": "British PM Burnham says Russia interfered in 2016 Brexit vote"
-    },
-    {
-     "outlet": "Reuters",
-     "url": null,
-     "date": "2026-10-12",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "UK PM Burnham says Russia interfered in 2016 Brexit vote - Reuters"
-    },
-    {
-     "outlet": "Financial Times",
-     "url": null,
-     "date": "2026-10-12",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Russia ‘interfered’ in 2016 Brexit vote, says Andy Burnham - Financial Times"
-    }
-   ],
-   "continuity": null,
-   "coverage": {
-    "world": "6/18",
-    "jp": "0/6",
-    "worldTotal": 18,
-    "jpTotal": 6
-   },
-   "bodyAvailable": true,
-   "discussionUrl": null,
-   "summarizedBy": "gemini-3.8-flash"
-  },
-  {
-   "id": "intl-brief-2026-10-12-s-20261012-14",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "gap",
-   "headline": "米司法省、取材見合わせ巡り米TV各社を独禁法調査",
-   "originalTitle": "US justice department investigates TV networks over Trump pool coverage",
-   "outlet": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
-   "region": "overseas",
-   "category": null,
-   "score": 10,
-   "tier": "interest",
-   "pubDate": "2026-10-11T21:36:35.923Z",
-   "body": null,
-   "summary": "米司法省は、トランプ米大統領の代表取材を一時見合わせた米主要テレビ各社に対し、反トラスト法違反の疑いで調査を始めました。政権がCNNなどの記者証を取り消したことに抗議し、5社が数日間にわたり取材を停止していました。司法省はシャーマン法に抵触する可能性があるとして通信記録の提出を求めています。政権による記者証剥奪に対しては、報道の自由を保障する憲法修正第1条を巡る議論も起きています。",
-   "sources": [
     {
      "outlet": "BBC",
-     "url": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
-     "date": "2026-10-12",
+     "url": "https://www.bbc.co.uk/news/articles/crp3gy0x0dd1o?at_medium=RSS&at_campaign=rss",
+     "date": "2026-10-13",
      "access": "body",
      "via": null,
-     "note": "US justice department investigates TV networks over Trump pool coverage"
+     "note": "US detains man accused in multi-billion Venezuelan money laundering scheme"
     },
     {
      "outlet": "Associated Press",
      "url": null,
-     "date": "2026-10-12",
+     "date": "2026-10-13",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "DOJ says it's investigating whether White House TV pool's coverage halt violated antitrust law - AP News"
-    },
-    {
-     "outlet": "Financial Times",
-     "url": null,
-     "date": "2026-10-12",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "US justice department probes TV networks over Trump pool coverage - Financial Times"
+     "note": "Fugitive businessman taken into US custody in Venezuela bribery case - AP News"
     }
    ],
    "continuity": null,
@@ -1177,142 +714,68 @@
    },
    "bodyAvailable": true,
    "discussionUrl": null,
-   "summarizedBy": "gemini-3.8-flash"
+   "summarizedBy": "gemini-3.5-flash-lite"
   },
   {
-   "id": "intl-brief-2026-10-12-s-20261012-24",
+   "id": "intl-brief-2026-10-13-s-20261013-19",
    "stream": "intl",
    "depth": "brief",
-   "section": "gap",
-   "headline": "独VW社CEO、中国勢に対抗するEU産業支援策を支持",
-   "originalTitle": "Volkswagen boss backs EU plan to bolster domestic European industry",
+   "section": "world",
+   "headline": "英首相、EUとの関係再構築へ向けて深刻な対話を約束",
+   "originalTitle": "Andy Burnham promises ‘serious dialogue’ over UK’s relationship with EU",
    "outlet": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/oct/11/volkswagen-boss-backs-eu-plan-to-boost-domestic-european-industry",
+   "url": "https://www.theguardian.com/politics/2026/oct/12/andy-burnham-britain-eu-brexit-reset",
    "region": "overseas",
    "category": null,
-   "score": 8,
+   "score": 12,
    "tier": "interest",
-   "pubDate": "2026-10-11T21:36:35.923Z",
+   "pubDate": "2026-10-12T21:39:00.015Z",
    "body": null,
-   "summary": "フォルクスワーゲンのオリバー・ブルーメ最高経営責任者は、欧州の国内産業を強化するEUの提案を支持すると表明しました。「メイド・イン・ヨーロッパ」規則を通じて、欧州域内での実質的な価値創造に報いるべきだと訴えています。安価な中国製ブランドの急速な台頭に対し、同等の条件で競争できる環境が必要だと主張しました。エネルギー高や需要低迷に直面する欧州自動車業界の厳しい現状を訴えています。",
+   "summary": "イギリスのアンディ・バーナム首相は、EUとの既存の関係は十分ではないとして、来月のブリュッセルでのサミットを緊密な関係への第一歩と位置づけ、将来のヨーロッパにおけるイギリスの立場について深刻な対話を行うと約束した。",
    "sources": [
     {
      "outlet": "The Guardian",
-     "url": "https://www.theguardian.com/business/2026/oct/11/volkswagen-boss-backs-eu-plan-to-boost-domestic-european-industry",
-     "date": "2026-10-12",
+     "url": "https://www.theguardian.com/politics/2026/oct/12/andy-burnham-britain-eu-brexit-reset",
+     "date": "2026-10-13",
      "access": "body",
      "via": null,
-     "note": "Volkswagen boss backs EU plan to bolster domestic European industry"
+     "note": "Andy Burnham promises ‘serious dialogue’ over UK’s relationship with EU"
     },
     {
-     "outlet": "Reuters",
-     "url": null,
-     "date": "2026-10-12",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Volkswagen CEO says transformation is 'shared responsibility' in appeal to EU - Reuters"
-    }
-   ],
-   "continuity": null,
-   "coverage": {
-    "world": "2/18",
-    "jp": "0/6",
-    "worldTotal": 18,
-    "jpTotal": 6
-   },
-   "bodyAvailable": true,
-   "discussionUrl": null,
-   "summarizedBy": "gemini-3.8-flash"
-  },
-  {
-   "id": "intl-brief-2026-10-12-s-20261012-22",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "gap",
-   "headline": "EU、中国製HVの輸入を年間35万台に制限へ",
-   "originalTitle": "EU to Cap Chinese Hybrid Car Imports at 350,000 Each Year - Bloomberg.com",
-   "outlet": "Bloomberg",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWGZ0OFMzZ1pKdWtOVENVU1NaZWt5cFRlR2tKZnA3U3J5cHV1emNQbTN0c05wTFN5bkdxTUNuemtCai15LUR5cV9JbmlLMjRSSVdZUTE0MUNqLUw3cTFmMUdrQVpGZld3NjN1RzE0dmc4SV9SQW11OE5nSFpqNnZzYkMtVlBkNGhDdUUtUGlBekRNQnROTFpVNDNobGRXTm9YZnp3N0I3TGtkaV81NTFGbm9R?oc=5",
-   "region": "overseas",
-   "category": null,
-   "score": 6,
-   "tier": "interest",
-   "pubDate": "2026-10-11T21:36:35.923Z",
-   "body": null,
-   "summary": "欧州連合（EU）は、中国からのハイブリッド車（HV）の輸入台数を年間35万台に制限する方針を固めました。EUの域内自動車産業を中国製車両の急増から保護するための新たな合意の一環と報じられています。安価な中国製車両の流入が欧州産業に及ぼす影響を抑える狙いがあります。見出しからは上限枠の設定と業界保護の目的が示されているものの、具体的な実施時期などの詳細は記載されていません。",
-   "sources": [
+     "outlet": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/12/uk-pm-andy-burnham-vows-to-renegotiate-post-brexit-trade-deal-with-eu?traffic_source=rss",
+     "date": "2026-10-13",
+     "access": "body",
+     "via": null,
+     "note": "UK PM Andy Burnham vows to renegotiate post-Brexit trade deal with EU"
+    },
     {
-     "outlet": "Bloomberg",
-     "url": null,
-     "date": "2026-10-12",
+     "outlet": "Euronews",
+     "url": "https://www.euronews.com/2026/10/12/uk-pm-burnham-says-status-quo-with-brussels-not-good-enough-as-he-details-upcoming-eu-summ",
+     "date": "2026-10-13",
      "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "EU to Cap Chinese Hybrid Car Imports at 350,000 Each Year - Bloomberg.com"
+     "via": null,
+     "note": "UK PM Burnham says 'status quo' with Brussels 'not good enough' as he details upcoming EU summit"
     },
     {
      "outlet": "Financial Times",
      "url": null,
-     "date": "2026-10-12",
+     "date": "2026-10-13",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "EU ‘safeguards’ hybrid car sector from Chinese imports under new deal - Financial Times"
+     "note": "Burnham’s Brussels reset hit by EU demands on university fees - Financial Times"
     }
    ],
    "continuity": null,
    "coverage": {
-    "world": "2/18",
-    "jp": "0/6",
-    "worldTotal": 18,
-    "jpTotal": 6
-   },
-   "bodyAvailable": false,
-   "discussionUrl": null,
-   "summarizedBy": "gemini-3.8-flash"
-  },
-  {
-   "id": "intl-brief-2026-10-12-s-20261012-29",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "gap",
-   "headline": "トランプ関税が米製造業に打撃、中間選挙で反発も",
-   "originalTitle": "Trump’s trade wars sting US manufacturers ahead of midterms",
-   "outlet": "The Straits Times",
-   "url": "https://www.straitstimes.com/world/united-states/trumps-trade-wars-sting-us-manufacturers-ahead-of-midterms",
-   "region": "overseas",
-   "category": null,
-   "score": 6,
-   "tier": "interest",
-   "pubDate": "2026-10-11T21:36:35.923Z",
-   "body": null,
-   "summary": "トランプ米大統領による関税政策が、米国内の製造業者に重い負担をもたらしています。アルミニウムなどへの追加関税や輸送コストの上昇により、一部企業では年間数百万ドルの追加費用が発生しています。販売や雇用、投資計画への悪影響を訴える声が出ています。11月の中間選挙を控え、製造業の現場で不満が募っており、共和党への反発が議会選に影響する可能性が報じられています。",
-   "sources": [
-    {
-     "outlet": "The Straits Times",
-     "url": "https://www.straitstimes.com/world/united-states/trumps-trade-wars-sting-us-manufacturers-ahead-of-midterms",
-     "date": "2026-10-12",
-     "access": "body",
-     "via": null,
-     "note": "Trump’s trade wars sting US manufacturers ahead of midterms"
-    },
-    {
-     "outlet": "Associated Press",
-     "url": null,
-     "date": "2026-10-12",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Republicans face midterm backlash from factory workers squeezed out of jobs by Trump's tariffs - AP News"
-    }
-   ],
-   "continuity": null,
-   "coverage": {
-    "world": "2/18",
+    "world": "4/18",
     "jp": "0/6",
     "worldTotal": 18,
     "jpTotal": 6
    },
    "bodyAvailable": true,
    "discussionUrl": null,
-   "summarizedBy": "gemini-3.8-flash"
+   "summarizedBy": "gemini-3.5-flash-lite"
   }
  ]
 }

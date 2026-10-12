@@ -1,0 +1,781 @@
+{
+ "date": "2026-10-13",
+ "generatedAt": "2026-10-12T21:39:00.015Z",
+ "model": "gemini-3.5-flash-lite",
+ "measured": {
+  "world": 18,
+  "jp": 6
+ },
+ "articles": [
+  {
+   "id": "intl-brief-2026-10-13-s-20261013-02",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "world",
+   "headline": "フランスのスーパーで冷蔵システムがサイバー攻撃を受ける",
+   "originalTitle": "French supermarket fridges heated to 50C in cyber attack - causing fires and food losses",
+   "outlet": "Sky News",
+   "url": "https://news.sky.com/story/hackers-heat-french-supermarket-fridges-to-50c-in-large-scale-cyber-attack-13598252",
+   "region": "overseas",
+   "category": null,
+   "score": 37,
+   "tier": "should",
+   "pubDate": "2026-10-12T21:39:00.015Z",
+   "body": null,
+   "summary": "フランスの数百のスーパーマーケットがサイバー攻撃を受け、冷蔵庫や冷凍庫の温度が上昇し、新鮮な食品や冷凍食品が台無しになった。ハッカーが冷蔵温度を調整するソフトウェアを乗っ取り、一晩で50度に達したところもあった。パリの検察当局は捜査を開始している。",
+   "sources": [
+    {
+     "outlet": "Sky News",
+     "url": "https://news.sky.com/story/hackers-heat-french-supermarket-fridges-to-50c-in-large-scale-cyber-attack-13598252",
+     "date": "2026-10-13",
+     "access": "excerpt",
+     "via": null,
+     "note": "French supermarket fridges heated to 50C in cyber attack - causing fires and food losses"
+    },
+    {
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-10-13",
+     "access": "body",
+     "via": null,
+     "note": "Fridges in French supermarkets hit by cyber attack"
+    },
+    {
+     "outlet": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-10-13/french-supermarkets-hacked-causing-fires-and-food-loss/107258724",
+     "date": "2026-10-13",
+     "access": "excerpt",
+     "via": null,
+     "note": "Hackers raise fridge temperatures at hundreds of French supermarkets to spoil food"
+    },
+    {
+     "outlet": "The Guardian",
+     "url": "https://www.theguardian.com/world/2026/oct/12/cyber-attack-defrosts-refrigerators-france-supermarket-chains-intermarche-cooperative-u",
+     "date": "2026-10-13",
+     "access": "excerpt",
+     "via": null,
+     "note": "Hackers force French supermarket fridges to heat up to 50C in ‘unprecedented’ cyber-attack"
+    },
+    {
+     "outlet": "France 24",
+     "url": "https://www.france24.com/en/french-supermarkets-suffer-refrigerator-shutdown-after-unprecedented-cyberattack",
+     "date": "2026-10-13",
+     "access": "excerpt",
+     "via": null,
+     "note": "French supermarkets suffer refrigerator shutdown after 'unprecedented' cyberattack"
+    },
+    {
+     "outlet": "Euronews",
+     "url": "https://www.euronews.com/2026/10/12/hundreds-of-french-supermarkets-hit-by-cyberattack-on-refrigeration-systems",
+     "date": "2026-10-13",
+     "access": "excerpt",
+     "via": null,
+     "note": "Hundreds of French supermarkets hit by cyberattack on refrigeration systems"
+    },
+    {
+     "outlet": "South China Morning Post",
+     "url": "https://www.scmp.com/news/world/europe/article/3370633/france-supermarkets-say-cyberattack-forced-defrosting-refrigerators-over-200-stores?utm_source=rss_feed",
+     "date": "2026-10-13",
+     "access": "excerpt",
+     "via": null,
+     "note": "Hackers heat French supermarket fridges, sparking fires and spoiling food in cyberattack"
+    },
+    {
+     "outlet": "CBS News",
+     "url": "https://www.cbsnews.com/news/cyberattack-supermarkets-refrigerators-france-fires-food-losses/",
+     "date": "2026-10-13",
+     "access": "excerpt",
+     "via": null,
+     "note": "Hackers heat up refrigerators at hundreds of supermarkets"
+    },
+    {
+     "outlet": "The Straits Times",
+     "url": "https://www.straitstimes.com/world/europe/hackers-heat-french-supermarket-fridges-sparking-fires-and-food-losses",
+     "date": "2026-10-13",
+     "access": "excerpt",
+     "via": null,
+     "note": "Hackers heat French supermarket fridges, sparking fires and food losses"
+    },
+    {
+     "outlet": "Reuters",
+     "url": null,
+     "date": "2026-10-13",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Hackers heat French supermarket fridges, sparking fires and spoiling food - Reuters"
+    },
+    {
+     "outlet": "Bloomberg",
+     "url": null,
+     "date": "2026-10-13",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "French Supermarket Refrigeration Sites Hit by Cyberattacks - Bloomberg.com"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "11/18",
+    "jp": "0/6",
+    "worldTotal": 18,
+    "jpTotal": 6
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "gemini-3.5-flash-lite"
+  },
+  {
+   "id": "intl-brief-2026-10-13-s-20261013-03",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "world",
+   "headline": "米連邦捜査機関が民主党オマール議員の自宅を捜査",
+   "originalTitle": "Immigration agents search Congresswoman Ilhan Omar's home",
+   "outlet": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
+   "region": "overseas",
+   "category": null,
+   "score": 25,
+   "tier": "interest",
+   "pubDate": "2026-10-12T21:39:00.015Z",
+   "body": null,
+   "summary": "米連邦捜査機関が、ドナルド・トランプ大統領の批判者である民主党のイルハン・オマール下院議員のワシントンの自宅を刑事捜査の一環として家宅捜索した。オマール議員は根拠のない脅迫キャンペーンのエスカレーションだと批判し、沈黙しないと述べた。",
+   "sources": [
+    {
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
+     "date": "2026-10-13",
+     "access": "body",
+     "via": null,
+     "note": "Immigration agents search Congresswoman Ilhan Omar's home"
+    },
+    {
+     "outlet": "Sky News",
+     "url": "https://news.sky.com/story/congresswoman-insists-she-will-not-be-silenced-after-federal-agents-raid-her-home-13598219",
+     "date": "2026-10-13",
+     "access": "excerpt",
+     "via": null,
+     "note": "Congresswoman insists she will not be 'silenced' after federal agents raid her home"
+    },
+    {
+     "outlet": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/us-rep-ilhan-omars-home-searched-by-immigration-agents?traffic_source=rss",
+     "date": "2026-10-13",
+     "access": "excerpt",
+     "via": null,
+     "note": "US Rep. Ilhan Omar’s home searched by immigration agents"
+    },
+    {
+     "outlet": "France 24",
+     "url": "https://www.france24.com/en/americas/20261012-us-federal-agents-raid-home-of-democratic-congresswoman-and-trump-critic-ilhan-omar",
+     "date": "2026-10-13",
+     "access": "excerpt",
+     "via": null,
+     "note": "US federal agents raid home of Democratic congresswoman and Trump critic Ilhan Omar"
+    },
+    {
+     "outlet": "South China Morning Post",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3370643/federal-agents-search-democrat-ilhan-omars-home-part-criminal-investigation?utm_source=rss_feed",
+     "date": "2026-10-13",
+     "access": "excerpt",
+     "via": null,
+     "note": "US federal agents search Democrat Ilhan Omar’s home as part of a criminal investigation"
+    },
+    {
+     "outlet": "Reuters",
+     "url": null,
+     "date": "2026-10-13",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "US immigration authorities raid home of Democratic Trump critic Ilhan Omar - Reuters"
+    },
+    {
+     "outlet": "Associated Press",
+     "url": null,
+     "date": "2026-10-13",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Agents search Rep. Omar's Washington home in criminal probe as she vows she won't 'be silenced' - AP News"
+    },
+    {
+     "outlet": "Bloomberg",
+     "url": null,
+     "date": "2026-10-13",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Federal Agents Search Representative Ilhan Omar’s Home - Bloomberg.com"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "8/18",
+    "jp": "2/6",
+    "worldTotal": 18,
+    "jpTotal": 6
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "gemini-3.5-flash-lite"
+  },
+  {
+   "id": "intl-brief-2026-10-13-s-20261012-10",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "world",
+   "headline": "ローマ教皇レオ14世が肺の腫瘍除去手術へ",
+   "originalTitle": "Pope Leo cancels all public events ahead of lung surgery",
+   "outlet": "Sky News",
+   "url": "https://news.sky.com/story/pope-leo-cancels-all-public-events-ahead-of-lung-surgery-13598270",
+   "region": "overseas",
+   "category": null,
+   "score": 19,
+   "tier": "interest",
+   "pubDate": "2026-10-12T21:39:00.015Z",
+   "body": null,
+   "summary": "ローマ教皇レオ14世は、医師の勧めに従い、肺に見つかった小さな腫瘍を除去するための手術を受けると発表した。教皇はローマの病院に入院し、約1週間の入院療養が見込まれており、10月20日までの公務がキャンセルされた。",
+   "sources": [
+    {
+     "outlet": "Sky News",
+     "url": "https://news.sky.com/story/pope-leo-cancels-all-public-events-ahead-of-lung-surgery-13598270",
+     "date": "2026-10-13",
+     "access": "excerpt",
+     "via": null,
+     "note": "Pope Leo cancels all public events ahead of lung surgery"
+    },
+    {
+     "outlet": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/12/pope-leo-to-undergo-surgery-to-remove-lung-nodule-in-rome?traffic_source=rss",
+     "date": "2026-10-13",
+     "access": "body",
+     "via": null,
+     "note": "Pope Leo to undergo surgery to remove lung nodule in Rome"
+    },
+    {
+     "outlet": "CBS News",
+     "url": "https://www.cbsnews.com/news/pope-leo-hospital-lung-nodule-surgery/",
+     "date": "2026-10-13",
+     "access": "excerpt",
+     "via": null,
+     "note": "Pope Leo to go to hospital Tuesday for lung nodule surgery"
+    },
+    {
+     "outlet": "Associated Press",
+     "url": null,
+     "date": "2026-10-13",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Pope Leo XIV will have surgery in the coming days to remove a nodule on his lung - AP News"
+    },
+    {
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-10-13",
+     "access": "excerpt",
+     "via": null,
+     "note": "Pope Leo to have surgery after lump found on lung"
+    },
+    {
+     "outlet": "NPR",
+     "url": "https://www.npr.org/2026/10/11/nx-s1-5998027/pope-leo-xiv-to-undergo-lung-surgery-this-week",
+     "date": "2026-10-13",
+     "access": "excerpt",
+     "via": null,
+     "note": "Pope Leo XIV to undergo lung surgery this week"
+    },
+    {
+     "outlet": "New York Times",
+     "url": "https://www.nytimes.com/2026/10/11/world/europe/pope-leo-lung-surgery.html",
+     "date": "2026-10-13",
+     "access": "excerpt",
+     "via": null,
+     "note": "Pope Leo Will Have Surgery to Remove Growth on Lung"
+    }
+   ],
+   "continuity": {
+    "previousDate": "2026-10-12",
+    "previousScore": 39,
+    "note": "2日連続で報じられている"
+   },
+   "coverage": {
+    "world": "7/18",
+    "jp": "1/6",
+    "worldTotal": 18,
+    "jpTotal": 6
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "gemini-3.5-flash-lite"
+  },
+  {
+   "id": "intl-brief-2026-10-13-s-20261001-24",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "world",
+   "headline": "英首相、フェアフォード空軍基地の事件でイランを非難",
+   "originalTitle": "UK blames Iran for airbase plot, sanctions two Iranian nationals",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/12/uk-blames-iran-for-airbase-plot-sanctions-two-iranian-nationals?traffic_source=rss",
+   "region": "overseas",
+   "category": null,
+   "score": 19,
+   "tier": "interest",
+   "pubDate": "2026-10-12T21:39:00.015Z",
+   "body": null,
+   "summary": "イギリスのアンディ・バーナム首相は、イングランドのフェアフォード空軍基地を標的とした容疑について、イランのイスラム革命防衛隊が調整した可能性が非常に高いと議会で述べた。英国政府はイラン大使を呼び出し、2人のイラン国民に対して制裁を発表した。",
+   "sources": [
+    {
+     "outlet": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/12/uk-blames-iran-for-airbase-plot-sanctions-two-iranian-nationals?traffic_source=rss",
+     "date": "2026-10-13",
+     "access": "body",
+     "via": null,
+     "note": "UK blames Iran for airbase plot, sanctions two Iranian nationals"
+    },
+    {
+     "outlet": "Deutsche Welle",
+     "url": "https://www.dw.com/en/uk-iran-highly-likely-to-be-behind-raf-fairford-incident/a-79645941?maca=en-rss-en-world-4025-rdf",
+     "date": "2026-10-13",
+     "access": "body",
+     "via": null,
+     "note": "UK: Iran 'highly likely' to be behind RAF Fairford incident"
+    },
+    {
+     "outlet": "France 24",
+     "url": "https://www.france24.com/en/europe/20261012-tehran-denies-involvement-in-uk-fairford-air-base-incident-as-britain-summons-iranian-ambassador",
+     "date": "2026-10-13",
+     "access": "excerpt",
+     "via": null,
+     "note": "Tehran denies involvement in UK Fairford air base incident as Britain summons Iranian ambassador"
+    },
+    {
+     "outlet": "South China Morning Post",
+     "url": "https://www.scmp.com/news/world/europe/article/3370646/uk-pm-burnham-says-irans-irgc-highly-likely-have-been-behind-raf-fairford-incident?utm_source=rss_feed",
+     "date": "2026-10-13",
+     "access": "excerpt",
+     "via": null,
+     "note": "UK PM Burnham says Iran’s IRGC ‘highly likely’ to have been behind RAF Fairford incident"
+    },
+    {
+     "outlet": "The Straits Times",
+     "url": "https://www.straitstimes.com/world/europe/uk-pm-burnham-says-irans-irgc-likely-behind-raf-fairford-incident",
+     "date": "2026-10-13",
+     "access": "excerpt",
+     "via": null,
+     "note": "Iran’s Islamic Revolutionary Guards likely behind Fairford airbase incident, says British PM Burnham"
+    },
+    {
+     "outlet": "Reuters",
+     "url": null,
+     "date": "2026-10-13",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "UK PM Burnham says Iran's IRGC likely behind RAF Fairford incident - Reuters"
+    },
+    {
+     "outlet": "Bloomberg",
+     "url": null,
+     "date": "2026-10-13",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "UK Says Iran’s IRGC Directed Incident at Airbase Used by US - Bloomberg.com"
+    }
+   ],
+   "continuity": {
+    "previousDate": "2026-10-01",
+    "previousScore": 22,
+    "note": "6日連続で報じられている"
+   },
+   "coverage": {
+    "world": "7/18",
+    "jp": "1/6",
+    "worldTotal": 18,
+    "jpTotal": 6
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "gemini-3.5-flash-lite"
+  },
+  {
+   "id": "intl-brief-2026-10-13-s-20261013-07",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "world",
+   "headline": "NATO最高司令官が同盟国への攻撃に対して警告",
+   "originalTitle": "NATO Details Plan to Shield Ukraine’s European Allies From Russia",
+   "outlet": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/12/world/europe/nato-strategy-russia-europe.html",
+   "region": "overseas",
+   "category": null,
+   "score": 19,
+   "tier": "interest",
+   "pubDate": "2026-10-12T21:39:00.015Z",
+   "body": null,
+   "summary": "NATOの最高司令官であるアレクサス・グリングエウィッチ将軍は、同盟が攻撃された場合には一切躊躇せずに初期攻撃の阻止から敵戦力の粉砕まで行うと警告した。同将軍は、戦争は望んでいないが戦闘の準備はできているとワルシャワ安全保障フォーラムで述べた。",
+   "sources": [
+    {
+     "outlet": "New York Times",
+     "url": "https://www.nytimes.com/2026/10/12/world/europe/nato-strategy-russia-europe.html",
+     "date": "2026-10-13",
+     "access": "excerpt",
+     "via": null,
+     "note": "NATO Details Plan to Shield Ukraine’s European Allies From Russia"
+    },
+    {
+     "outlet": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/12/nato-says-will-do-anything-and-everything-if-alliance-is-attacked?traffic_source=rss",
+     "date": "2026-10-13",
+     "access": "body",
+     "via": null,
+     "note": "NATO says will do ‘anything and everything’ if alliance is attacked"
+    },
+    {
+     "outlet": "Euronews",
+     "url": "https://www.euronews.com/2026/10/12/nato-commander-unveils-strategy-to-make-any-attack-on-alliance-utterly-futile",
+     "date": "2026-10-13",
+     "access": "excerpt",
+     "via": null,
+     "note": "NATO commander unveils strategy to make any attack on alliance ‘utterly futile’"
+    },
+    {
+     "outlet": "The Straits Times",
+     "url": "https://www.straitstimes.com/world/europe/nato-general-sets-out-tough-military-response-to-any-foolish-russian-attack",
+     "date": "2026-10-13",
+     "access": "excerpt",
+     "via": null,
+     "note": "NATO general sets out tough military response to any ‘foolish’ Russian attack"
+    },
+    {
+     "outlet": "Associated Press",
+     "url": null,
+     "date": "2026-10-13",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "NATO commander says the alliance does not want war but is ‘ready to fight tonight’ - AP News"
+    },
+    {
+     "outlet": "Financial Times",
+     "url": null,
+     "date": "2026-10-13",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Nato’s supreme commander warns Moscow against attacks in Europe - Financial Times"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "6/18",
+    "jp": "1/6",
+    "worldTotal": 18,
+    "jpTotal": 6
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "gemini-3.5-flash-lite"
+  },
+  {
+   "id": "intl-brief-2026-10-13-s-20261013-05",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "world",
+   "headline": "フランスの学校で生徒が校長と教師を銃撃",
+   "originalTitle": "Pupil arrested after two teachers shot at French school",
+   "outlet": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/cm2keg7910gvo?at_medium=RSS&at_campaign=rss",
+   "region": "overseas",
+   "category": null,
+   "score": 14,
+   "tier": "interest",
+   "pubDate": "2026-10-12T21:39:00.015Z",
+   "body": null,
+   "summary": "フランス南部オーバーニュの中学校で14歳の生徒が猟銃を発砲し、校長と教師が負傷した。容疑者の生徒はスタッフに取り押さえられ、警察に身柄を拘束された。負傷した教職員の命に別条はなく、マルセイユ検察当局が殺人未遂で捜査を開始している。",
+   "sources": [
+    {
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cm2keg7910gvo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-10-13",
+     "access": "body",
+     "via": null,
+     "note": "Pupil arrested after two teachers shot at French school"
+    },
+    {
+     "outlet": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/teenager-shoots-headmaster-teacher-at-french-school?traffic_source=rss",
+     "date": "2026-10-13",
+     "access": "excerpt",
+     "via": null,
+     "note": "Teenager shoots headmaster, teacher at French school"
+    },
+    {
+     "outlet": "South China Morning Post",
+     "url": "https://www.scmp.com/news/world/europe/article/3370635/french-police-detain-pupil-14-suspected-shooting-principal-and-teacher?utm_source=rss_feed",
+     "date": "2026-10-13",
+     "access": "excerpt",
+     "via": null,
+     "note": "Teenager shoots headmaster and teacher with a hunting gun at French school"
+    },
+    {
+     "outlet": "Associated Press",
+     "url": null,
+     "date": "2026-10-13",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "French police detain student suspected of shooting the principal and a teacher at his school - AP News"
+    },
+    {
+     "outlet": "Sky News",
+     "url": "https://news.sky.com/story/staff-shot-at-school-near-marseille-13598028",
+     "date": "2026-10-13",
+     "access": "excerpt",
+     "via": null,
+     "note": "Staff shot at school in France - as pupil detained"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "5/18",
+    "jp": "1/6",
+    "worldTotal": 18,
+    "jpTotal": 6
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "gemini-3.5-flash-lite"
+  },
+  {
+   "id": "intl-brief-2026-10-13-s-20261013-04",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "world",
+   "headline": "パリ最古の屋内食品市場が火災で全焼",
+   "originalTitle": "Fire Devastates Paris’s Oldest Covered Food Market, Le Marché des Enfants Rouges",
+   "outlet": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/12/world/europe/france-paris-fire-market-enfants-rouges-marais.html",
+   "region": "overseas",
+   "category": null,
+   "score": 13,
+   "tier": "interest",
+   "pubDate": "2026-10-12T21:39:00.015Z",
+   "body": null,
+   "summary": "フランス・パリにある最古の屋内食品市場とされる歴史的なマルシェ・デ・ザンファン・ルージュが、未明の火災により完全に破壊された。けい死者は報告されていないが、トレーダーズは大きな打撃を受けており、市場は数カ月間閉鎖される可能性がある。",
+   "sources": [
+    {
+     "outlet": "New York Times",
+     "url": "https://www.nytimes.com/2026/10/12/world/europe/france-paris-fire-market-enfants-rouges-marais.html",
+     "date": "2026-10-13",
+     "access": "excerpt",
+     "via": null,
+     "note": "Fire Devastates Paris’s Oldest Covered Food Market, Le Marché des Enfants Rouges"
+    },
+    {
+     "outlet": "France 24",
+     "url": "https://www.france24.com/en/france-fire-destroys-historic-covered-food-market-in-paris",
+     "date": "2026-10-13",
+     "access": "excerpt",
+     "via": null,
+     "note": "France: Fire destroys historic covered food market in Paris"
+    },
+    {
+     "outlet": "Euronews",
+     "url": "https://www.euronews.com/video/2026/10/12/pariss-oldest-covered-food-market-gutted-by-major-overnight-fire",
+     "date": "2026-10-13",
+     "access": "excerpt",
+     "via": null,
+     "note": "Paris’s oldest covered food market gutted by major overnight fire"
+    },
+    {
+     "outlet": "Sky News",
+     "url": "https://news.sky.com/story/oldest-covered-food-market-in-paris-destroyed-in-fire-13598110",
+     "date": "2026-10-13",
+     "access": "excerpt",
+     "via": null,
+     "note": "Oldest covered food market in Paris destroyed in fire"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "4/18",
+    "jp": "1/6",
+    "worldTotal": 18,
+    "jpTotal": 6
+   },
+   "bodyAvailable": false,
+   "discussionUrl": null,
+   "summarizedBy": "gemini-3.5-flash-lite"
+  },
+  {
+   "id": "intl-brief-2026-10-13-s-20261013-10",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "world",
+   "headline": "女優セルマ・ブレアが航空機内で客室乗務員を暴行した疑い",
+   "originalTitle": "Actress Selma Blair arrested over alleged in-flight assault",
+   "outlet": "ABC Australia",
+   "url": "https://www.abc.net.au/news/2026-10-13/selma-blair-arrested-after-incident-on-flight/107258804",
+   "region": "overseas",
+   "category": null,
+   "score": 13,
+   "tier": "interest",
+   "pubDate": "2026-10-12T21:39:00.015Z",
+   "body": null,
+   "summary": "ハリウッド女優のセルマ・ブレアが、ロサンゼルスからニューヨークへ向かう便の中で客室乗務員2人を暴行して負傷させたとして、警察に身柄を拘束された。ブレアの代理人は、事件の前に医療上の緊急事態があったと複数のメディアに説明している。",
+   "sources": [
+    {
+     "outlet": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-10-13/selma-blair-arrested-after-incident-on-flight/107258804",
+     "date": "2026-10-13",
+     "access": "body",
+     "via": null,
+     "note": "Actress Selma Blair arrested over alleged in-flight assault"
+    },
+    {
+     "outlet": "South China Morning Post",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3370648/actress-selma-blair-taken-custody-police-responding-abusive-plane-passenger?utm_source=rss_feed",
+     "date": "2026-10-13",
+     "access": "excerpt",
+     "via": null,
+     "note": "Hellboy actress Selma Blair arrested for allegedly injuring 2 flight attendants"
+    },
+    {
+     "outlet": "Times of India",
+     "url": "https://timesofindia.indiatimes.com/world/us/selma-blair-arrested-at-jfk-then-hospitalized-after-she-attacked-flight-attendants-on-a-delta-plane/articleshow/134902113.cms",
+     "date": "2026-10-13",
+     "access": "headline",
+     "via": null,
+     "note": "Selma Blair arrested at JFK, then hospitalized after she attacked flight attendants on a Delta plane"
+    },
+    {
+     "outlet": "Associated Press",
+     "url": null,
+     "date": "2026-10-13",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "FBI issues actor Selma Blair a summons accusing her of assaults aboard a plane, AP source says - AP News"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "4/18",
+    "jp": "0/6",
+    "worldTotal": 18,
+    "jpTotal": 6
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "gemini-3.5-flash-lite"
+  },
+  {
+   "id": "intl-brief-2026-10-13-s-20261013-09",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "world",
+   "headline": "米当局、数百万ドルのベネズエラ資金洗浄容疑の男を拘束",
+   "originalTitle": "Fugitive businessman taken into US custody in Venezuela bribery case",
+   "outlet": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/oct/12/fugitive-venezuela-bribery-case",
+   "region": "overseas",
+   "category": null,
+   "score": 12,
+   "tier": "interest",
+   "pubDate": "2026-10-12T21:39:00.015Z",
+   "body": null,
+   "summary": "ベネズエラ政府の福祉計画から不法に資金を流用して資金洗浄に関与したとされるコロンビア人のアルバロ・プリドが、米国の当局によって拘束された。米司法省は、プリドがベネズエラ政府高官に賄賂を贈るなどして複数の連邦起訴を受けていたとしている。",
+   "sources": [
+    {
+     "outlet": "The Guardian",
+     "url": "https://www.theguardian.com/us-news/2026/oct/12/fugitive-venezuela-bribery-case",
+     "date": "2026-10-13",
+     "access": "body",
+     "via": null,
+     "note": "Fugitive businessman taken into US custody in Venezuela bribery case"
+    },
+    {
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/crp3gy0x0dd1o?at_medium=RSS&at_campaign=rss",
+     "date": "2026-10-13",
+     "access": "body",
+     "via": null,
+     "note": "US detains man accused in multi-billion Venezuelan money laundering scheme"
+    },
+    {
+     "outlet": "Associated Press",
+     "url": null,
+     "date": "2026-10-13",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Fugitive businessman taken into US custody in Venezuela bribery case - AP News"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "3/18",
+    "jp": "0/6",
+    "worldTotal": 18,
+    "jpTotal": 6
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "gemini-3.5-flash-lite"
+  },
+  {
+   "id": "intl-brief-2026-10-13-s-20261013-19",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "world",
+   "headline": "英首相、EUとの関係再構築へ向けて深刻な対話を約束",
+   "originalTitle": "Andy Burnham promises ‘serious dialogue’ over UK’s relationship with EU",
+   "outlet": "The Guardian",
+   "url": "https://www.theguardian.com/politics/2026/oct/12/andy-burnham-britain-eu-brexit-reset",
+   "region": "overseas",
+   "category": null,
+   "score": 12,
+   "tier": "interest",
+   "pubDate": "2026-10-12T21:39:00.015Z",
+   "body": null,
+   "summary": "イギリスのアンディ・バーナム首相は、EUとの既存の関係は十分ではないとして、来月のブリュッセルでのサミットを緊密な関係への第一歩と位置づけ、将来のヨーロッパにおけるイギリスの立場について深刻な対話を行うと約束した。",
+   "sources": [
+    {
+     "outlet": "The Guardian",
+     "url": "https://www.theguardian.com/politics/2026/oct/12/andy-burnham-britain-eu-brexit-reset",
+     "date": "2026-10-13",
+     "access": "body",
+     "via": null,
+     "note": "Andy Burnham promises ‘serious dialogue’ over UK’s relationship with EU"
+    },
+    {
+     "outlet": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/12/uk-pm-andy-burnham-vows-to-renegotiate-post-brexit-trade-deal-with-eu?traffic_source=rss",
+     "date": "2026-10-13",
+     "access": "body",
+     "via": null,
+     "note": "UK PM Andy Burnham vows to renegotiate post-Brexit trade deal with EU"
+    },
+    {
+     "outlet": "Euronews",
+     "url": "https://www.euronews.com/2026/10/12/uk-pm-burnham-says-status-quo-with-brussels-not-good-enough-as-he-details-upcoming-eu-summ",
+     "date": "2026-10-13",
+     "access": "excerpt",
+     "via": null,
+     "note": "UK PM Burnham says 'status quo' with Brussels 'not good enough' as he details upcoming EU summit"
+    },
+    {
+     "outlet": "Financial Times",
+     "url": null,
+     "date": "2026-10-13",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Burnham’s Brussels reset hit by EU demands on university fees - Financial Times"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "4/18",
+    "jp": "0/6",
+    "worldTotal": 18,
+    "jpTotal": 6
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "gemini-3.5-flash-lite"
+  }
+ ]
+}
