@@ -1,7 +1,7 @@
 /**
- * 3系統（国内深掘り・国際深掘り・AI日報）を読み込む。
+ * 紙面（国際深掘り・AI日報、廃止済みの国内深掘りの過去分）を読み込む。
  *
- *   public/data/{domestic,intl,ai}.json          当日分
+ *   public/data/{intl,ai,domestic}.json          当日分（domestic は 2026-10-01 で更新停止）
  *   public/data/archive/{日付}-{系統}.json        過去分
  *   public/data/archive/index.json               どの日付が読めるかの目次（ビルド時に自動生成）
  *

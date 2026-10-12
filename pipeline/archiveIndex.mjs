@@ -3,7 +3,7 @@
  *
  * 画面の「過去へ移動」がどの日付を選べるかを知るために使う。
  * ディレクトリを読むだけなので、`npm run build` のたびに作り直す（package.json の prebuild）。
- * 深掘り2系統はクラウドの定期実行が push するだけでビルドを回さないが、
+ * 国際深掘りはクラウドの定期実行が push するだけでビルドを回さないが、
  * その push が GitHub Actions を起動し、そこで build が走るので目次も最新になる。
  *
  * 生成物は .gitignore に入れてある。コミットせず、ビルドのたびに作る。
@@ -15,7 +15,7 @@ import path from 'node:path';
 const ROOT = path.resolve(import.meta.dirname, '..');
 const ARCHIVE_DIR = path.join(ROOT, 'public', 'data', 'archive');
 
-/** `2026-09-21-domestic.json` のような名前から日付と系統を取り出す */
+/** `2026-09-21-intl.json` のような名前から日付と系統を取り出す（domestic は廃止前の過去分） */
 const FILE = /^(\d{4}-\d{2}-\d{2})-(domestic|intl|ai)\.json$/;
 
 export function buildArchiveIndex() {

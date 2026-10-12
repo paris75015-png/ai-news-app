@@ -5,7 +5,7 @@
 | 系統 | 方針 | 生成するのは | 出力先 |
 |---|---|---|---|
 | 世界の注目度 | `pipeline/attention/` | GitHub Actions（Gemini・無料枠） | `public/data/attention/latest.json` |
-| 国際深掘り | [国際深掘り.md](国際深掘り.md) | クラウドの定期実行（Claude Sonnet 5） | `public/data/intl.json` |
+| 国際深掘り | [国際深掘り.md](国際深掘り.md) | クラウドの定期実行（Claude Sonnet 5.5） | `public/data/intl.json` |
 | AI日報 | [AI日報.md](AI日報.md) と `pipeline/editorial.js` | GitHub Actions（Gemini / Groq・無料枠） | `public/data/ai.json` |
 | 国内深掘り | （2026-10-01 に廃止。過去の紙面は残す） | — | `public/data/archive/*-domestic.json` |
 

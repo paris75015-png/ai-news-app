@@ -8,7 +8,7 @@
  *                   朝日新聞（有料部分で切れる）、時事通信（本文が取れない）
  *
  * AI日報の守備範囲は AI・IT・科学技術に限る（editorial/README.md の役割分担）。
- * 2026-09-20 に経済・ビジネス系の7媒体を外した。これらが扱う領域は国内深掘り／国際深掘りが担当する。
+ * 2026-09-20 に経済・ビジネス系の7媒体を外した。これらが扱う領域は日経と国際深掘りが担当する。
  *   外した媒体：CNBC、CNBC Finance、BBC Business、The Guardian Business、
  *               ITmedia ビジネスオンライン、Yahoo!ニュース 経済、Business Insider Japan
  */

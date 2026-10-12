@@ -1,59 +1,43 @@
 # ニュース3系統
 
-国内・国際・AI の3つの紙面を毎日（平日）作り、スマホで読める1つのページとして公開する。
+世界の注目度・国際深掘り・AI日報の3つを毎日（平日）作り、スマホで読める1つのページとして公開する。
 
 全体の網羅は日本経済新聞が担当する前提で、**この3系統は日経を読んだうえでなお足りないものを分担して補う**。
+国内の系統（国内深掘り）は 2026-10-01 に廃止した。過去の紙面は画面のタブから読める。
 
 | 系統 | 役割 | 生成 | 時刻(JST) | 費用 |
 |---|---|---|---|---|
-| **国内深掘り** | 政治・経済・金融。媒体横断の視点 | クラウドの定期実行（Claude Sonnet 5） | 07:00 | 定額内 |
-| **国際深掘り** | 日本で報道が薄い論点。戦争・大災害の速報は書かない | クラウドの定期実行（Claude Sonnet 5） | 07:30 | 定額内 |
+| **世界の注目度** | 海外18媒体＋日本5媒体の見出しから、何が注目されているかを点数にする。国際深掘りの資料も作る | GitHub Actions（Gemini） | 06:20 | 0円（無料枠） |
+| **国際深掘り** | 数日続いた話題を、複数媒体の本文を比べて読み解く | クラウドの定期実行（Claude Sonnet 5.5） | 07:30 | 定額内 |
 | **AI日報** | AI・IT・科学技術を広く30件 | GitHub Actions（Gemini / Groq） | 16:43 | 0円（無料枠） |
 
-編集方針はすべて [`editorial/`](editorial/) にある。**中身を変えたいときは、まずそこを読む。**
+役割分担・実行順・編集方針はすべて [`editorial/`](editorial/README.md) にある。**中身を変えたいときは、まずそこを読む。**
 
 ## 重複の防ぎ方
 
-守備範囲で物理的に分けたうえで、**後から走る系統が先に出た当日分を読んで除外する**。別の台帳は作らない。
+守備範囲で分けたうえで、**後から走る系統が先に出た当日分を読んで除外する**。別の台帳は作らない。
+AI日報は国際深掘りの当日分（`public/data/intl.json`）を読み、そこに出た話題を落とす。
 
-```
-07:00 国内深掘り  → public/data/domestic.json
-07:30 国際深掘り  → public/data/intl.json    （domestic.json を読む）
-16:43 AI日報      → public/data/ai.json      （両方を読む）
-```
-
-## 仕組み
-
-```
-AI日報（GitHub Actions）
-  → 12の取得元から記事候補を収集（pipeline/sources.js。本文を最後まで取得できる媒体のみ）
-  → 深掘り2系統が当日扱った話題を除外
-  → Gemini 1回で全候補を順位付け・採点・日本語見出し・カテゴリー・重複判定（pipeline/editorial.js）
-  → カテゴリーの偏りを抑えて30件を選び、本文を取得して要約（混雑時は Groq の GPT-OSS が予備）
-  → public/data/ai.json に保存 → GitHub Pages で公開
-
-深掘り2系統（クラウドの定期実行）
-  → editorial/ の方針に従って収集・検証・採点・執筆
-  → public/data/{domestic,intl}.json に保存して commit & push
-```
+## 変えたいときに編集するファイル
 
 | 変えたいこと | 編集するファイル |
 |---|---|
-| 深掘り2系統の編集方針 | `editorial/国内深掘り.md` / `editorial/国際深掘り.md` / `editorial/共通.md` |
+| 国際深掘りの編集方針 | `editorial/国際深掘り.md` / `editorial/共通.md` |
+| 世界の注目度の媒体・採点・資料づくり | `pipeline/attention/` |
 | AI日報の採点基準・カテゴリー・掲載件数・使用モデル | `pipeline/editorial.js` |
 | AI日報の取得元サイト | `pipeline/sources.js` |
-| AI日報の実行時刻 | `.github/workflows/daily-news.yml` の `cron`（UTC表記。平日16:43 JST = `43 7 * * 1-5`） |
-| 深掘りの実行時刻 | claude.ai の定期実行の設定（https://claude.ai/code/routines） |
+| Actions の実行時刻 | `.github/workflows/*.yml` の `cron`（UTC表記。平日16:43 JST = `43 7 * * 1-5`） |
+| 国際深掘りの実行時刻 | claude.ai の定期実行の設定（https://claude.ai/code/routines） |
 | データの形 | `src/article.js` |
 
 ## データの形
 
 3系統とも同じ `Article` 型で書く。詳細は [`src/article.js`](src/article.js)。
 
-- `depth` … `deep`（深掘り 600〜800字）／`brief`（短信 150〜250字）。画面の切り替えはこれ1つで済む
+- `depth` … `deep`（深掘り）／`brief`（短信）。画面の切り替えはこれ1つで済む。字数は系統ごとの方針による
 - `sources` … 出典を複数持ち、媒体ごとに `body`（本文確認）／`excerpt`（抜粋確認）／`headline`（見出しのみ）を記録する
 - `score` … **系統ごとに独立した尺度**。教科ごとの偏差値と同じで、系統をまたいで比べない
-- `productionNote` … 制作記録。品質の点検用に持つが、読む画面には出さない
+- `productionNote` … 制作記録。品質の点検用に持ち、紙面には出さず「制作記録」から開く
 
 ## 読み方
 

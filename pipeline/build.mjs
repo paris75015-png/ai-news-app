@@ -1,7 +1,7 @@
 /**
  * AI日報の毎日の処理：ニュースを集め、Gemini で見出し・採点・分類・要約をして public/data/ai.json に保存する
  *
- * 守備範囲は AI・IT・科学技術。経済・政治・国際情勢は国内深掘り／国際深掘りが担当する。
+ * 守備範囲は AI・IT・科学技術。経済・政治・国際情勢は日経と国際深掘りが担当する。
  * 3系統の関係は editorial/README.md にある。
  *
  *   npm run news            … 本番（.env または環境変数の GEMINI_API_KEY が必要。GROQ_API_KEY は任意の予備）
@@ -32,22 +32,21 @@ const BODY_CHARS_FOR_SUMMARY = 12000;
 const dryRun = process.argv.includes('--dry-run');
 
 /**
- * 先に走った深掘り2系統の当日分を読み、そこで扱われた話題を取り出す。
- * AI日報は3系統のうち最後に走るので、ここに出ている出来事は落とす（editorial/README.md の実行順）。
- * ファイルが無い・日付が違う場合は空で返す（深掘りが動かなかった日でも AI日報は動く）。
+ * 先に走った国際深掘りの当日分を読み、そこで扱われた話題を取り出す。
+ * AI日報は最後に走るので、ここに出ている出来事は落とす（editorial/README.md の実行順）。
+ * ファイルが無い・日付が違う場合は空で返す（国際深掘りが動かなかった日でも AI日報は動く）。
  */
 function readEarlierStreams(today) {
   const headlines = [];
   const urls = new Set();
-  for (const file of ['domestic.json', 'intl.json']) {
-    const data = readJson(path.join(OUT_DIR, file), null);
-    if (!data || data.date !== today) continue;
+  const data = readJson(path.join(OUT_DIR, 'intl.json'), null);
+  if (data?.date === today) {
     for (const a of data.articles || []) {
       if (a.headline) headlines.push(a.headline);
       if (a.url) urls.add(normalizeUrl(a.url));
       for (const src of a.sources || []) if (src.url) urls.add(normalizeUrl(src.url));
     }
-    console.log(`[build] ${file} の ${(data.articles || []).length}件を除外対象として読み込み`);
+    console.log(`[build] intl.json の ${(data.articles || []).length}件を除外対象として読み込み`);
   }
   return { headlines, urls };
 }
@@ -137,10 +136,10 @@ async function main() {
   // 前日までに掲載した記事は除く（同じ日の再実行では、今日の記事を消さないよう除外しない）
   const earlier = readEarlierStreams(today);
   const excludedNote = earlier.headlines.length
-    ? [{ topic: `深掘り2系統が当日に扱った${earlier.headlines.length}件`, reason: '実行順により先発の系統を優先' }]
+    ? [{ topic: `国際深掘りが当日に扱った${earlier.headlines.length}件`, reason: '実行順により先発の系統を優先' }]
     : [];
   const notSeen = all.filter(c => !seen[c.id] || jstDate(new Date(seen[c.id])) === today);
-  // 深掘り2系統が同じ記事を既に扱っていれば落とす（URL 一致ぶんはここで確実に消える）
+  // 国際深掘りが同じ記事を既に扱っていれば落とす（URL 一致ぶんはここで確実に消える）
   const candidates = notSeen.filter(c => !earlier.urls.has(normalizeUrl(c.url)));
   console.log(`[build] 候補 ${all.length}件（既出 ${all.length - notSeen.length}件、深掘りと重複 ${notSeen.length - candidates.length}件を除外）`);
   if (candidates.length === 0) throw new Error('候補がありません');
@@ -267,7 +266,7 @@ async function scoreList(candidates, earlierHeadlines = []) {
   const list = candidates.map(c => ({
     id: c.id, title: c.title, outlet: c.outlet, region: c.region, snippet: c.snippet,
   }));
-  // 同じ日の深掘り2系統が既に扱った話題は、URL が違っても落とす
+  // 同じ日の国際深掘りが既に扱った話題は、URL が違っても落とす
   const exclusion = earlierHeadlines.length
     ? `\n\n# 本日すでに別の紙面で扱った出来事（${earlierHeadlines.length}件）\n`
       + `次の見出しと同じ出来事を報じた候補は、記事のURLが違っていても score を 0 にして末尾に並べてください。\n`
@@ -369,8 +368,30 @@ async function summarize(articles) {
     await summarizeWithGroq(articles.filter(a => !a.summary), deadline);
   }
 
+  await rewriteShortSummaries(articles, deadline);
+
   const missing = articles.filter(a => !a.summary).length;
   if (missing) console.warn(`[summary] 要約なしで掲載: ${missing}件`);
+}
+
+/** 要約の字数（空白を除く） */
+const summaryChars = a => (a.summary || '').replace(/\s/g, '').length;
+
+/**
+ * 本文があるのに短すぎる要約は、書いたのとは別のモデルでもう一度書かせ、長い方を残す。
+ * AI日報は短信ではない（editorial/AI日報.md）。混雑時の軽量モデルは削りすぎることがある。
+ */
+async function rewriteShortSummaries(articles, deadline) {
+  const short = articles.filter(a => a.bodyAvailable && a.summary && summaryChars(a) < COLLECT.minSummaryChars);
+  if (short.length === 0) return;
+  console.log(`[summary] 短すぎる要約 ${short.length}件を書き直す`);
+  const before = new Map(short.map(a => [a, { summary: a.summary, headline: a.headline, summarizedBy: a.summarizedBy }]));
+  const byGroq = short.filter(a => a.summarizedBy !== FALLBACK_MODEL && groqAvailable());
+  await summarizeWithGroq(byGroq, deadline);
+  await summarizeWithGemini(short.filter(a => !byGroq.includes(a)), deadline);
+  for (const [a, old] of before) {
+    if (summaryChars(a) < old.summary.replace(/\s/g, '').length) Object.assign(a, old);
+  }
 }
 
 async function summarizeWithGemini(articles, deadline) {
