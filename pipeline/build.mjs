@@ -301,14 +301,14 @@ function selectBalanced(ranked, limit) {
 
   // 1) 各カテゴリーの上位を最低件数ずつ（点数が低めでも、その分野の最上位なら載せる）
   for (const c of CATEGORIES) {
-    ranked.filter(a => a.category === c.id && a.score >= COLLECT.minScore - 15)
+    ranked.filter(a => a.category === c.id && a.score >= COLLECT.floorScore)
       .slice(0, COLLECT.perCategoryMin).forEach(take);
   }
   // 2) 残りを重要度順に、カテゴリー上限を守って埋める
   fill(COLLECT.minScore, COLLECT.perCategoryMax);
   // 3) それでも件数が足りない日は、上限と点数の条件を緩めて30件前後にそろえる
   fill(COLLECT.minScore, Infinity);
-  fill(COLLECT.minScore - 15, Infinity);
+  fill(COLLECT.floorScore, Infinity);
 
   return ranked.filter(a => picked.has(a));
 }

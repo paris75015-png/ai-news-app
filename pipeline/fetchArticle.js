@@ -91,6 +91,26 @@ function findNextPage(document, pageUrl) {
 }
 
 /** HN の Ask/Show HN 投稿など、HTML 断片の本文をテキスト化する */
+const READER_MIN_CHARS = 400; // これより短い代行結果は、ログイン画面や失敗ページとみなす
+
+/**
+ * 直接取れない媒体の本文を、読み取り代行（r.jina.ai）経由で一度だけ試す。失敗しても null を返すだけ。
+ * 世界の注目度の資料づくりと、読み物の資料づくりで使う。
+ */
+export async function fetchViaReader(url) {
+  try {
+    const res = await fetch(`https://r.jina.ai/${url}`, {
+      headers: { Accept: 'text/plain', 'X-Return-Format': 'text' },
+      signal: AbortSignal.timeout(30000),
+    });
+    if (!res.ok) return null;
+    const t = (await res.text()).replace(/\n{3,}/g, '\n\n').trim();
+    return t.length >= READER_MIN_CHARS ? t : null;
+  } catch {
+    return null;
+  }
+}
+
 export function htmlFragmentToText(fragment) {
   const { document } = parseHTML(`<!DOCTYPE html><html><body>${fragment}</body></html>`);
   return normalize(document.body.textContent || '');

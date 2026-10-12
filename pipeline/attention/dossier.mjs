@@ -21,7 +21,7 @@
  */
 import fs from 'node:fs';
 import path from 'node:path';
-import { fetchArticleBody } from '../fetchArticle.js';
+import { fetchArticleBody, fetchViaReader } from '../fetchArticle.js';
 
 const ROOT = path.resolve(import.meta.dirname, '../..');
 const STORIES_FILE = path.join(ROOT, 'data', 'attention', 'stories.json');
@@ -32,23 +32,7 @@ const MAX_BODIES = 14;         // 1話題あたり本文を取る最大の媒体
 const MAX_CHARS = 9000;        // 1本文あたりの上限
 const READER_FALLBACK = process.env.READER_FALLBACK !== '0';
 const MIN_EXCERPT_CHARS = 120;
-const READER_MIN_CHARS = 400;  // これより短い代行結果は、ログイン画面や失敗ページとみなす
 const KEEP_DAYS = 14;
-
-/** 直接取れない媒体の本文を、読み取り代行経由で一度だけ試す。失敗しても null を返すだけ */
-async function fetchViaReader(url) {
-  try {
-    const res = await fetch(`https://r.jina.ai/${url}`, {
-      headers: { Accept: 'text/plain', 'X-Return-Format': 'text' },
-      signal: AbortSignal.timeout(30000),
-    });
-    if (!res.ok) return null;
-    const t = (await res.text()).replace(/\n{3,}/g, '\n\n').trim();
-    return t.length >= READER_MIN_CHARS ? t : null;
-  } catch {
-    return null;
-  }
-}
 
 /** 本文の末尾に通信社の署名があれば、その名前を返す（独立した媒体の数え間違いを防ぐ） */
 function wireOf(text) {

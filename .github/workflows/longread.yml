@@ -1,0 +1,43 @@
+name: 読み物の資料（試験）
+
+on:
+  schedule:
+    # 平日 06:50（日本時間）。世界の注目度（06:20）と重ならないようにずらしている
+    # 21:50 UTC + 9時間 = 翌日 06:50 JST。UTC では日〜木に当たる
+    - cron: '50 21 * * 0-4'
+  workflow_dispatch:
+    inputs:
+      theme_day:
+        description: '試すテーマの曜日（1=政治 2=経済 3=社会 4=紛争・安全保障 5=自由）。空なら当日の曜日'
+        default: ''
+
+permissions:
+  contents: write  # 資料をリポジトリに保存するため
+
+concurrency:
+  group: longread
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: node pipeline/longread/collect.mjs
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          LONGREAD_THEME_DAY: ${{ inputs.theme_day }}
+      - name: 資料をリポジトリに保存
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/longread
+          git diff --cached --quiet || git commit -m "読み物の資料（試験） $(TZ=Asia/Tokyo date +%F)"
+          git pull --rebase
+          git push
