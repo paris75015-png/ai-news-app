@@ -1,0 +1,206 @@
+{
+ "date": "2026-10-14",
+ "theme": {
+  "id": "society",
+  "label": "社会"
+ },
+ "generatedAt": "2026-10-13T22:09:08.491Z",
+ "model": "gemini-3.8-flash",
+ "trial": true,
+ "feeds": [
+  {
+   "feed": "The Conversation",
+   "ok": true,
+   "count": 9
+  },
+  {
+   "feed": "The Guardian（長文読み物）",
+   "ok": true,
+   "count": 4
+  },
+  {
+   "feed": "The Guardian（社会）",
+   "ok": true,
+   "count": 25
+  },
+  {
+   "feed": "Spiegel International",
+   "ok": true,
+   "count": 2
+  },
+  {
+   "feed": "BBC",
+   "ok": true,
+   "count": 23
+  },
+  {
+   "feed": "Deutsche Welle",
+   "ok": true,
+   "count": 13
+  },
+  {
+   "feed": "Al Jazeera",
+   "ok": true,
+   "count": 25
+  }
+ ],
+ "counts": {
+  "articles": 101,
+  "topics": 35
+ },
+ "alsoRan": [
+  {
+   "topic": "英国フードインフルエンサーの功罪検証",
+   "outlets": 1,
+   "jpCount": 0,
+   "priority": 3.2
+  },
+  {
+   "topic": "米国の死刑執行手続きをめぐる論争",
+   "outlets": 2,
+   "jpCount": 34,
+   "priority": 2.7
+  },
+  {
+   "topic": "ローマ教皇レオの肺がん手術成功公表",
+   "outlets": 2,
+   "jpCount": 8,
+   "priority": 2.4
+  },
+  {
+   "topic": "コーネル大学で集団性的暴行疑惑と活動停止",
+   "outlets": 2,
+   "jpCount": 7,
+   "priority": 2.4
+  },
+  {
+   "topic": "フランス全土で広がる学校環境改善デモ",
+   "outlets": 2,
+   "jpCount": 31,
+   "priority": 1.8
+  }
+ ],
+ "topics": [
+  {
+   "rank": 1,
+   "topic": "ラッパーの2パック射殺事件で量刑確定",
+   "theme": "society",
+   "priority": 3.2,
+   "world": {
+    "outlets": [
+     "BBC",
+     "Al Jazeera"
+    ],
+    "analysisOutlets": [],
+    "firstDate": "2026-10-13",
+    "lastDate": "2026-10-13"
+   },
+   "jp": {
+    "query": "2パック 殺人 デイビス 判決",
+    "count": 0,
+    "headlines": []
+   },
+   "bodyCount": 3,
+   "sources": [
+    {
+     "outlet": "BBC",
+     "kind": "report",
+     "date": "2026-10-13",
+     "url": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
+     "headline": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
+     "access": "body",
+     "text": "Shakur's sister, Sekyiwa Shakur, told the court: \"The loss of Tupac, for a long time, crippled my family.\"\"He had so much promise, intentions for a better world,\" said adding that her brother had hoped to help his local community. Sekyiwa Shakur asked the judge to give Davis the maximum sentence, telling Davis he will sit in prison and \"contemplate what you've done to the world, not just to me\".Shakur's brother, Maurice Shakur, also addressed the court, asking the judge for \"the longest possible sentence\".Davis was asked by Judge Carli Kierny if he had anything to say, to which he replied: \"I'm good. I'm gonna appeal this case for sure.\"Before handing down the sentence, Kierny told him: \"You don't get to take a man from his family.\"You don't get to take his very life, his whole future from him, and just walk away from it. Especially when that man is Tupac Shakur. The world never forgot about him and his death.\"The key evidence in the case were Davis' own words, in which he repeatedly and publicly acknowledged being inside the white Cadillac from where the deadly shots were fired.In exchange for being shielded from criminal prosecution, he told authorities about his role in Shakur's death during a secret 2008 police interview relating to the death of fellow rapper Notorious B.I.G., real name Christopher Wallace, who was killed in a shooting just months after Shakur. Davis elaborated further on his role in his 2019 memoir, Compton Street Legend, which led to publicity and media interviews. But the book and interviews he offered elaborating on his role in Shakur's killing voided a protective agreement he had established with authorities that had blocked any criminal charges from being filed. A judge then allowed his police interview to be used in the murder trial against him.Shakur was 25 years old and at the height of his career as one of rap's most influential voices at the time of his death. He has sold more than 75 million records worldwide.For three decades, the investigation into his killing remained one of America's most famous cold cases, spurring countless conspiracies - until the conviction of Davis last month.Throughout the trial, Davis' defence team tried to persuade jurors that his comments were fiction - bravado and exaggeration intended to sell books and make money.Prosecutors argued that although Davis, a former leader of the South Side Compton Crips street gang, did not himself fire the gun, he ordered the shooting and supplied the gun that his nephew Orlando Anderson used to open fire.Anderson died in an unrelated shooting in 1998, having denied involvement in the killing of Shakur.",
+     "method": "direct"
+    },
+    {
+     "outlet": "Al Jazeera",
+     "kind": "report",
+     "date": "2026-10-13",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/tupac-shakur-killer-sentenced-to-40-years-in-prison?traffic_source=rss",
+     "headline": "Tupac Shakur killer sentenced to 40 years in prison",
+     "access": "body",
+     "text": "Skip linksSkip to Content Live Navigation menuNewsAfricaAsiaUS & CanadaLatin AmericaEuropeAsia PacificMiddle EastExplainedSportOpinionVideoOriginalsFeaturesEconomyHuman RightsClimate CrisisInvestigationsInteractivesIn PicturesScience & TechnologyPodcastsTravelSponsored Content Live Tupac Shakur killer sentenced to 40 years in prisonNewsFeedDuane ‘Keffe D’ Davis was sentenced on Tuesday to 40 years to life in prison for orchestrating the 1996 murder of rap icon Tupac Shakur.Published On 13 Oct 2026",
+     "method": "direct"
+    },
+    {
+     "outlet": "Al Jazeera",
+     "kind": "report",
+     "date": "2026-10-13",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/who-killed-tupac?traffic_source=rss",
+     "headline": "Who killed Tupac?",
+     "access": "body",
+     "text": "Skip links\nSkip to Content\nNavigation menu\nNews\nShow more news sections\nMiddle East\nExplained\nSport\nOpinion\nVideo\nMore\nShow more sections\nLIVE\nClick here to search\nSign up\nNewsFeed\nWho killed Tupac?\n\nFor decades, rapper Tupac Shakur’s murder remained unsolved. Now, former gang leader Duane Davis is being sentenced 40 years for his killing. He confessed years ago to helping orchestrate the 1996 shooting, so why did it take until 2023 for his arrest? Al Jazeera’s Zeina Al Qawasmi explains.\n\nPublished On 13 Oct 2026\n13 Oct 2026\n\nSave\n\nShare Who killed Tupac? on social media\n\nShare\n\nAdd Al Jazeera on Google\nMORE FROM THE SAME SHOW\nVatican confirms Pope Leo’s surgery was successful\n01:06\nFood shortages in Yemen’s Taiz as Houthi siege hits supplies\n01:24\nSurveillance video shows moment ICE vehicle strikes man in Houston\n02:09\nTupac Shakur killer sentenced to 40 years in prison\n00:47\nFuneral for Egyptian flight attendant killed in Houthi attack on Riyadh\n00:47\nIconic Iguazu Falls walkway dismantled amid record water levels\n00:42\nEight orangutans find new forest home in Indonesia after wildfire rescue\n00:55\nAbout\nAbout Us\nCode of Ethics\nTerms and Conditions\nEU/EEA Regulatory Notice\nPrivacy Policy\nCookie Policy\nCookie Preferences\nAccessibility Statement\nSitemap\nWork for us\nConnect\nContact Us\nUser Accounts Help\nAdvertise with us\nStay Connected\nNewsletters\nChannel Finder\nTV Schedule\nPodcasts\nSubmit a Tip\nPaid Partner Content\nOur Channels\nAl Jazeera Arabic\nAl Jazeera English\nAl Jazeera Investigative Unit\nAl Jazeera Mubasher\nAl Jazeera Documentary\nAl Jazeera Balkans\nAJ+\nOur Network\nAl Jazeera Centre for Studies\nAl Jazeera Media Institute\nLearn Arabic\nAl Jazeera Centre for Public Liberties & Human Rights\nAl Jazeera Forum\nAl Jazeera Hotel Partners\n\nFollow Al Jazeera English:\n\n© 2026 Al Jazeera Media Network\nYou rely on Al Jazeera for truth and transparency\nWe process your personal information to measure and improve our sites and service, to assist our marketing campaigns and to provide personalised content and advertising. By clicking the button on the right, you can exercise your privacy rights. For more information see our privacy noticeLearn more about our Cookie Policy.\nYour Privacy Rights\nReject all\nAllow all",
+     "method": "reader"
+    }
+   ]
+  },
+  {
+   "rank": 2,
+   "topic": "毒蛇咬傷の被害規模をめぐる最新研究",
+   "theme": "society",
+   "priority": 3.2,
+   "world": {
+    "outlets": [
+     "The Conversation"
+    ],
+    "analysisOutlets": [
+     "The Conversation"
+    ],
+    "firstDate": "2026-10-12",
+    "lastDate": "2026-10-12"
+   },
+   "jp": {
+    "query": "毒蛇 咬傷 被害推計",
+    "count": 0,
+    "headlines": []
+   },
+   "bodyCount": 1,
+   "sources": [
+    {
+     "outlet": "The Conversation",
+     "kind": "analysis",
+     "date": "2026-10-12",
+     "url": "https://theconversation.com/snakebites-are-a-far-bigger-problem-than-we-knew-new-study-maps-the-hidden-dangers-292524",
+     "headline": "Snakebites are a far bigger problem than we knew: new study maps the hidden dangers",
+     "access": "body",
+     "text": "Not every snakebite injects venom. When venom enters the body, however, it can cause snake envenoming. This is a potentially fatal condition and it mostly affects poor rural communities across tropical and subtropical regions who don’t have easy access to medical care.\nAs researchers with decades of combined experience in snakebite and tropical disease epidemiology, we came to realise that snake envenoming faces a data crisis. Over half of the countries where venomous snakes pose a threat don’t keep count of how many people are bitten or envenomed.\nIn rural sub-Saharan Africa and south Asia, many victims live hours away from the nearest clinic, lack transport, or seek care from traditional healers. As a result, their cases are never captured in national health statistics.\nTo bridge this massive gap, we conducted a study to map the global burden of snake envenoming and related deaths.\nWe looked at data from 79 countries by reviewing studies published up to 31 March 2025. This allowed us to update the findings from our milestone 2008 global burden study. To fill the remaining data gaps, we built a geostatistical model that combines real-world data with local environmental and socioeconomic factors. This allowed us to estimate envenoming and fatality rates.\nWe conclude from our findings that snake envenoming is a public health crisis on a far greater scale than official statistics have shown. Our results show that sub-Saharan Africa bears the heaviest toll.\nThe World Health Organization has set an ambitious target to halve snakebite mortality and disability by 2030. Mapping the problem at the country level is the first crucial step.\nUncovering the hidden burden\nTo overcome the lack of reliable data, we turned to a model-based geostatistics framework.\nTo understand how this modelling works, think of it as predicting invisible patterns by combining known data points with environmental signals. Instead of assuming data for every region, this modelling uses statistical probability to calculate a range of likely outcomes based on environmental signals.\nWe fed our model with data including climate, snake species richness and socioeconomic indicators. The model then calculated the probability of snakebites occurring in specific locations, even where official health records were completely blank.\nBy comparing different data sources (including hospital-reported data and regional statistics) against ground level community-survey data, our framework allowed us to account for unreported snake envenomings. It produced both a baseline floor and a potential upper ceiling for snake envenomings and fatalities.\nBased on this, we estimate that at least 2.1 million people experience snake envenoming each year globally. The true number could be high as 7 million. Using our model, which adjusts for substantial under-reporting, annual deaths may range from 274,000 to 513,000.\nThe geographic distribution of this burden is uneven. Our research shows that sub-Saharan Africa alone accounts for 45% of all global envenomings and fatalities. That burden has likely been underestimated for decades. People in sub-Saharan Africa experience snake envenoming and death at nearly three times the rate seen in south Asia.\nCountries like Nigeria, the Democratic Republic of Congo and Ethiopia face a high burden, driven by dense rural populations and high exposure in agricultural fields.\nWhy sub-Saharan Africa is hit hardest\nThe reasons sub-Saharan Africa suffers such disproportionate harm are structural rather than accidental.\nFirstly, the continent hosts a rich diversity of medically important venomous species. These include saw-scaled vipers (Echis spp.), puff adders (Bitis arietans), African cobras (Naja spp.) and mambas (Dendroaspis spp.). They are responsible for substantial morbidity and mortality across the continent.\nSecondly, millions of rural agricultural workers labour in open fields without protective boots and walk on unlit footpaths at night. When a bite occurs, fragile health systems, long travel distances to regional facilities and the high cost or total absence of effective antivenom mean a treatable medical emergency can quickly become fatal. Similar conditions exist in parts of Asia.\nWe estimate that over 800,000 survivors are left with long-term physical disabilities each year, including amputations and other permanent impairments. These disabilities can reduce household income, increase healthcare costs and push already vulnerable farming families deeper into poverty.\nGoing forward\nMeeting the World Health Organization’s goal requires moving away from guesswork and using spatial risk data to guide real-world policy.\nBy identifying high-risk hotspots, governments and global health partners can strategically stockpile antivenom where it is needed most, train primary healthcare workers in high-burden rural zones and improve rapid transport infrastructure.\nSnake envenoming has remained hidden for too long. Better data cannot solve the problem, but can help ensure that antivenom, healthcare services and prevention efforts reach the communities that need them most.",
+     "method": "direct"
+    }
+   ]
+  },
+  {
+   "rank": 3,
+   "topic": "海賊による977日間の人質監禁体験談",
+   "theme": "society",
+   "priority": 3.2,
+   "world": {
+    "outlets": [
+     "The Guardian"
+    ],
+    "analysisOutlets": [
+     "The Guardian"
+    ],
+    "firstDate": "2026-10-13",
+    "lastDate": "2026-10-13"
+   },
+   "jp": {
+    "query": "海賊 人質 ソマリア 手記",
+    "count": 0,
+    "headlines": []
+   },
+   "bodyCount": 1,
+   "sources": [
+    {
+     "outlet": "The Guardian",
+     "kind": "analysis",
+     "date": "2026-10-13",
+     "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/13/i-was-kidnapped-and-held-hostage-for-977-days-could-i-forgive-my-captors",
+     "headline": "I was kidnapped and held hostage for 977 days. Could I forgive my captors?",
+     "access": "body",
+     "text": "I knew Mohamed Tahlil as a gentle pirate who oversaw a team of guards during the first months of my life as a hostage in 2012. I had travelled to Somalia to report on the outbreak of modern piracy off the coast. On the 10th day, along a dusty road near Galkayo, in the centre of the country, I was kidnapped by pirates. For the next two and a half years, I was a hostage.I spent most of my time on a thin, sweat-soaked foam mattress on the floor of a dusty room. The dim concrete prison houses changed, but the filth and the circumstances didn’t. Sometimes my captors moved me into the Somali savannah – where we camped in the open and slept on the ground – and for a six-month stretch, I was held on a hijacked tuna vessel, where I joined 28 fishers from east Asia who had been captured about three weeks before I was placed on board. (They had captured me on land, but they were a pirate gang, organised to capture ships at sea.) In each location, pirate guards would sit around with AK-47s and listen to the radio, or else chew khat, a narcotic plant.Tahlil was a skinny, almost cheerful man who spoke little English and swept the junk-littered yard of his unfinished prison house with a grandmotherly calm. When he came into my room, he would give me his snaggletoothed smile and teach me a few Somali words (for “sun”, “cloud” and so on). He carried rifles but never threatened to shoot me. Tahlil did not seem particularly tough – he would cook and wash dishes alongside lower-ranking guards – but he commanded respect. I thought of him as a low-ranking guard leader in the vast school of clan pirates in central Somalia, who ranged from foot soldiers to a handful of top bosses, warlords who travelled with armed escorts. Tahlil said the men who had captured me were the “bad group”, while he and his guards were the good group. He promised to keep me safe in “his” house until the real pirates negotiated the ransom. I heard this kind of thing all the time in Somalia.The “bad group” of rougher and fiercer guards was led by a squat man with rotten teeth named Ahmed Diriye. I had understood Tahlil and Diriye as team leaders of the “good” and the “bad” – so it surprised me when, one day, I saw both men squeeze into the front seat of a crowded SUV to visit some random part of the Somali bush, laughing and joking in the seat like old friends. It would be years before I understood how wrong my impression of Tahlil had been.During my years in captivity, I was usually kept alone. I was beaten on multiple occasions. I saw a friend of mine being tortured. I was frightened most of the time. I was also livid – at my captors, and at myself, for getting kidnapped.For two separate periods I had access to a short-wave radio, and I could listen to whatever programming came into range. One day, on the BBC World Service, I heard a story about Abraham Lincoln. He supposedly gave a speech during the US civil war in which he referred to southerners as fellow human beings who were simply in error. A Yankee woman criticised his meekness and wondered if southerners were not mortal enemies of the union, who ought to be destroyed. “Why, madam,” Lincoln replied, “do I not destroy my enemies when I make them my friends?”I resisted this story at first. I wasn’t interested in edifying tales of secular saints. I lived through most of my days in a state of quiet fury.In September 2014, after 977 days as a hostage, I finally walked free. Two months later, back home in Berlin, I received a Facebook message. It began: “hello michael i am ur friend mohamed”. The author was Tahlil.Had it come from any other pirate, I would have dumped this message in the digital garbage can. But I was curious what Tahlil could want. He wrote: “I am happy u r out of bondage” and wished me a “happy and joyous life”. The message raised my temper. He was trying to ingratiate himself with me, to dissociate himself from the “real” pirate gang, and pretend we were all OK. After 32 months of horror he still thought I would believe his fairytale about “good” and “bad” pirates in Somalia.A Somali pirate near a hijacked Taiwanese vessel in 2012. Photograph: Farah Abdi Warsameh/API did not lash out. I wanted information. During the sporadic, long-running conversation that followed, I asked Tahlil to shore up my memories and correct my sometimes blurred impressions of the most squalid phase of my life. He gave names. He sent pictures. He answered questions, not always honestly. He helped me research a book about the ordeal, The Desert and the Sea, which took two years to write.Of course, Tahlil did want something. He must have known that asking for cash wouldn’t work, since my family, friends, benefactors and various magazines I’d worked for had together sent $1.8m in ransom money to Somalia to have me released. But in the spring of 2015, he asked to come to the US. “I live in constant fear,” he wrote, “and I have no one to help me … I am left with only two options: to flee the country illegally or to continue living this way.”At the time, the FBI had an open investigation into my kidnapping, and I had informed them about my ongoing online conversation with Tahlil. I was not about to help him immigrate. But it did sound as if he might cooperate with the government. So if I were to help Tahlil come to the US, it would be to help the FBI arrest him upon arrival. For a journalist it’s no small thing to participate in an operation with the feds, but when the pirates took me hostage, they converted me from a journalist to a kidnapping victim, and I felt that the ethical line had already blurred.I was conscious that Tahlil was not the most important man to throw in jail. On the other hand, piracy is organised crime, and I hoped that a smaller boss, under pressure of evidence, might cough up dirt on his higher-ups. I wanted the right people to be punished. But I knew it was a gamble, in both practical and moral terms.The FBI set up an operation to lure Tahlil to New York, where he would be arrested. “If you have second thoughts about all this,” one agent told me in the fluorescent-lit Manhattan field office one afternoon, “just let us know.” He meant that once Tahlil was arrested, any question of punishment or forgiveness would be out of my hands. The FBI would have a case to prosecute, and my one-time jailer would be subject not to my sense of right or wrong, but to US law.In the summer of 2018, the FBI made covert arrangements for Tahlil and flew him to New York City, where he expected to stay in a hotel for two weeks. There was no promise of payment, but I helped lure him with a fake story about the hotel and “final factchecking” on the book. He, in turn, acted vague about his purposes in America. He seemed to vacillate between hope and despair. He would regularly check in to see if his visa and plane ticket were ready. Sometimes he would say he wondered whether he might get arrested. But he never seemed too interested in seeing me. I think we lied to each other for weeks.On 10 August 2018, when he landed at JFK airport, the FBI arrested Tahlil. The agents said he seemed genuinely surprised. I hoped he would accept a plea and help the Bureau arrest one of the top pirate bosses, such as Mohamed Garfanji. Garfanji was an infamous figure in the state of Galmudug who had tortured my friend Rolly Tambara, an elderly hostage from Seychelles, by dangling him from a tree by his ankles and beating him with a bamboo cane. Garfanji also threatened to sell me to the terrorist group al-Shabaab. I have not forgiven him.By November, three months after his arrest, Tahlil had still not cooperated, and I was having profound second thoughts. If the full weight of the US government came down on the shoulders of a seemingly gentle and low-ranking boss like him – and no one else’s – the whole operation would seem pointless and cruel. In late 2018, the New York Times published a short article about the case. “I’m not as happy as you might imagine that he’s in jail”, I told the journalist.In the comments beneath the article, readers wondered whether I had “Stockholm syndrome”. Some people could not understand how a former hostage could wish anything short of savage vengeance on his captors. He must be hypnotised; he must be traumatised; he must be out of his mind.But forgiving your captors is not the same thing as “Stockholm syndrome”. Not even close.In my first few months as a hostage, my companion in captivity was Rolly Tambara, a 69-year-old fisher with tattoos on his forearms and a dry but unwavering sarcasm. He spoke English in a French-inflected island pidgin. He knew how to be a hostage, having been at it three months longer than me. At this point in my captivity I was still charged with a hair-trigger rage, and he would try to calm me down. Whenever our guards acted in an arbitrary or cruel manner, he mumbled, ironically: “We are the devil, Michael. And they are like God.”He was right. The first thing a criminal needs to clarify once he has you under his violent control is that he is right, and you, by definition, are wrong. As hostages, we lived in a world turned on its head, and the consequences of rejecting its hierarchy could be lethal. “Within a matter of hours, the hostage is treated like an infant and has a kind of regression to infantile emotions,” the influential psychiatrist Frank Ochberg has said. “They can’t eat, they can’t talk, they can’t use a toilet, they can’t move without permission. To do it risks death and they accept the feeling that ‘this is the giver of life just like my mother was’.”Kristin Enmark is taken to hospital after the Norrmalmstorg Square bank robbery in Stockholm, 1973. Photograph: Classic Picture Library/AlamyOchberg was talking about Stockholm syndrome. The term has its origins in a six-day hostage standoff that followed a failed bank robbery in Sweden in 1973. The robber, Jan-Erik Olsson, took several employees hostage at a bank in Stockholm, using a knife and a submachine gun. He demanded freedom for an incarcerated friend, a great deal of money and a Ford Mustang for a getaway car. One captive was a 23-year-old stenographer named Kristin Enmark, who seemed to empathise with him from the start. The Swedish authorities met most of Olsson’s demands within a day. By this point, Olsson had been joined by a friend; when he asked if they could drive away with two hostages – to reduce the chances of the cops shooting him dead – the answer was no. Enmark, during a phone call from inside the bank to Swedish prime minister, Olof Palme, said that she and another woman genuinely wanted to leave with Olsson and his friend in the Mustang. “We are more afraid of the policemen than these two boys,” she told a journalist in another phone call from the bank.Enmark seemed angrier with her own government than with her kidnappers. This posture mystified both Swedish authorities and the general public. But a psychiatrist named Nils Bejerot – who had worked as a negotiator for the Swedish government – told journalists that all the hostages suffered from a syndrome that led victims to stick up for their abusers. He called it “the Norrmalmstorg syndrome” after the bank’s location on Norrmalmstorg Square. To the rest of the world it became “Stockholm syndrome”.It wasn’t until the following year that the term took hold in the US and beyond. Patty Hearst, the 19-year-old granddaughter of the newspaper tycoon William Randolph Hearst, was taken from her Berkeley apartment by a far-left gang called the Symbionese Liberation Army (SLA). Two months later, Hearst appeared on a bank surveillance video as “Tania”, threatening customers during an afternoon heist in San Francisco. “Up, up, up against the wall, motherfuckers!” she hollered. People wondered if the privileged daughter of a rich American publishing family had lost her mind. Was she brainwashed? Acting under duress? Had she started to work for the SLA? (She had.) Did she have Stockholm syndrome?After Hearst’s arrest in",
+     "method": "direct"
+    }
+   ]
+  }
+ ]
+}
