@@ -1,655 +1,776 @@
 {
- "date": "2026-10-13",
- "generatedAt": "2026-10-12T21:39:00.015Z",
- "model": "gemini-3.5-flash-lite",
+ "date": "2026-10-14",
+ "generatedAt": "2026-10-13T21:49:25.864Z",
+ "model": "gemini-3.8-flash",
  "measured": {
   "world": 18,
   "jp": 6
  },
  "articles": [
   {
-   "id": "intl-brief-2026-10-13-s-20261013-02",
+   "id": "intl-brief-2026-10-14-s-20261014-01",
    "stream": "intl",
    "depth": "brief",
    "section": "world",
-   "headline": "フランスのスーパーで冷蔵システムがサイバー攻撃を受ける",
-   "originalTitle": "French supermarket fridges heated to 50C in cyber attack - causing fires and food losses",
-   "outlet": "Sky News",
-   "url": "https://news.sky.com/story/hackers-heat-french-supermarket-fridges-to-50c-in-large-scale-cyber-attack-13598252",
+   "headline": "ローマ教皇が肺がん手術、右肺の一部を切除",
+   "originalTitle": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+   "outlet": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
    "region": "overseas",
    "category": null,
    "score": 37,
    "tier": "should",
-   "pubDate": "2026-10-12T21:39:00.015Z",
+   "pubDate": "2026-10-13T21:49:25.864Z",
    "body": null,
-   "summary": "フランスの数百のスーパーマーケットがサイバー攻撃を受け、冷蔵庫や冷凍庫の温度が上昇し、新鮮な食品や冷凍食品が台無しになった。ハッカーが冷蔵温度を調整するソフトウェアを乗っ取り、一晩で50度に達したところもあった。パリの検察当局は捜査を開始している。",
+   "summary": "ローマ教皇レオ14世が肺がんの診断を受け、右肺の下葉を切除する手術を受けました。バチカンが発表しました。71歳の教皇はローマのジェメッリ病院で約90分の手術を受け、合併症はなく成功したとされています。がんは定期検査で発見された初期段階の肺腺がんでした。教皇は術後に正常に目を覚まし、病室で療養しています。回復のため、10月20日までの公務日程は取り消されました。がんの転移がないかを確認する追加検査が進められています。",
    "sources": [
     {
-     "outlet": "Sky News",
-     "url": "https://news.sky.com/story/hackers-heat-french-supermarket-fridges-to-50c-in-large-scale-cyber-attack-13598252",
-     "date": "2026-10-13",
-     "access": "excerpt",
-     "via": null,
-     "note": "French supermarket fridges heated to 50C in cyber attack - causing fires and food losses"
-    },
-    {
      "outlet": "BBC",
-     "url": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss",
-     "date": "2026-10-13",
+     "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+     "date": "2026-10-14",
      "access": "body",
      "via": null,
-     "note": "Fridges in French supermarkets hit by cyber attack"
+     "note": "Pope diagnosed with lung cancer but had successful surgery, Vatican says"
     },
     {
      "outlet": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-10-13/french-supermarkets-hacked-causing-fires-and-food-loss/107258724",
-     "date": "2026-10-13",
+     "url": "https://www.abc.net.au/news/2026-10-14/pope-leo-has-lobe-of-lung-removed-as-doctors-find-cancer/107263034",
+     "date": "2026-10-14",
+     "access": "body",
+     "via": null,
+     "note": "Surgery confirms Pope Leo has lung cancer"
+    },
+    {
+     "outlet": "New York Times",
+     "url": "https://www.nytimes.com/2026/10/13/world/europe/pope-leo-lung-surgery.html",
+     "date": "2026-10-14",
      "access": "excerpt",
      "via": null,
-     "note": "Hackers raise fridge temperatures at hundreds of French supermarkets to spoil food"
+     "note": "Pope Leo Has Lung Cancer, Vatican Says"
     },
     {
      "outlet": "The Guardian",
-     "url": "https://www.theguardian.com/world/2026/oct/12/cyber-attack-defrosts-refrigerators-france-supermarket-chains-intermarche-cooperative-u",
-     "date": "2026-10-13",
+     "url": "https://www.theguardian.com/world/2026/oct/13/pope-leo-hospital-operation-growth-lung",
+     "date": "2026-10-14",
      "access": "excerpt",
      "via": null,
-     "note": "Hackers force French supermarket fridges to heat up to 50C in ‘unprecedented’ cyber-attack"
+     "note": "Pope Leo diagnosed with lung cancer as growth removed during surgery"
+    },
+    {
+     "outlet": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/13/pope-leo-diagnosed-with-cancer-after-surgery-to-remove-part-of-lung?traffic_source=rss",
+     "date": "2026-10-14",
+     "access": "excerpt",
+     "via": null,
+     "note": "Pope Leo diagnosed with cancer after surgery to remove part of lung"
     },
     {
      "outlet": "France 24",
-     "url": "https://www.france24.com/en/french-supermarkets-suffer-refrigerator-shutdown-after-unprecedented-cyberattack",
-     "date": "2026-10-13",
-     "access": "excerpt",
+     "url": "https://www.france24.com/en/europe/20261012-what-we-know-about-pope-leo-xiv-planned-lung-operation-this-week",
+     "date": "2026-10-14",
+     "access": "headline",
      "via": null,
-     "note": "French supermarkets suffer refrigerator shutdown after 'unprecedented' cyberattack"
-    },
-    {
-     "outlet": "Euronews",
-     "url": "https://www.euronews.com/2026/10/12/hundreds-of-french-supermarkets-hit-by-cyberattack-on-refrigeration-systems",
-     "date": "2026-10-13",
-     "access": "excerpt",
-     "via": null,
-     "note": "Hundreds of French supermarkets hit by cyberattack on refrigeration systems"
+     "note": "🔴 Surgery on Pope Leo's cancerous lung nodule went well, Vatican says"
     },
     {
      "outlet": "South China Morning Post",
-     "url": "https://www.scmp.com/news/world/europe/article/3370633/france-supermarkets-say-cyberattack-forced-defrosting-refrigerators-over-200-stores?utm_source=rss_feed",
-     "date": "2026-10-13",
+     "url": "https://www.scmp.com/news/world/europe/article/3370785/pope-leos-lung-surgery-successfully-completed-vatican-says?utm_source=rss_feed",
+     "date": "2026-10-14",
      "access": "excerpt",
      "via": null,
-     "note": "Hackers heat French supermarket fridges, sparking fires and spoiling food in cyberattack"
+     "note": "Pope Leo diagnosed with cancer as doctors remove lobe of lung, Vatican says"
     },
     {
      "outlet": "CBS News",
-     "url": "https://www.cbsnews.com/news/cyberattack-supermarkets-refrigerators-france-fires-food-losses/",
-     "date": "2026-10-13",
+     "url": "https://www.cbsnews.com/news/pope-leo-diagnosed-lung-cancer-surgery/",
+     "date": "2026-10-14",
      "access": "excerpt",
      "via": null,
-     "note": "Hackers heat up refrigerators at hundreds of supermarkets"
+     "note": "Pope Leo diagnosed with lung cancer after undergoing surgery"
     },
     {
      "outlet": "The Straits Times",
-     "url": "https://www.straitstimes.com/world/europe/hackers-heat-french-supermarket-fridges-sparking-fires-and-food-losses",
-     "date": "2026-10-13",
+     "url": "https://www.straitstimes.com/world/europe/pope-leo-had-lobe-of-lung-removed-as-doctors-found-cancer-vatican-says",
+     "date": "2026-10-14",
      "access": "excerpt",
      "via": null,
-     "note": "Hackers heat French supermarket fridges, sparking fires and food losses"
+     "note": "Pope Leo diagnosed with cancer as doctors remove lobe of lung, Vatican says"
     },
     {
      "outlet": "Reuters",
      "url": null,
-     "date": "2026-10-13",
+     "date": "2026-10-14",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "Hackers heat French supermarket fridges, sparking fires and spoiling food - Reuters"
+     "note": "Surgery on Pope Leo's lung nodule went well, Vatican says - Reuters"
     },
     {
-     "outlet": "Bloomberg",
+     "outlet": "Associated Press",
      "url": null,
-     "date": "2026-10-13",
+     "date": "2026-10-14",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "French Supermarket Refrigeration Sites Hit by Cyberattacks - Bloomberg.com"
+     "note": "Pope Leo XIV diagnosed with lung cancer after surgery to remove part of right lung - AP News"
     }
    ],
    "continuity": null,
    "coverage": {
     "world": "11/18",
+    "jp": "1/6",
+    "worldTotal": 18,
+    "jpTotal": 6
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "gemini-3.8-flash"
+  },
+  {
+   "id": "intl-brief-2026-10-14-s-20261014-06",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "world",
+   "headline": "トランプ政権、駐ギリシャ米大使に辞任要求　金銭疑惑巡り",
+   "originalTitle": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
+   "outlet": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
+   "region": "overseas",
+   "category": null,
+   "score": 29,
+   "tier": "interest",
+   "pubDate": "2026-10-13T21:49:25.864Z",
+   "body": null,
+   "summary": "トランプ米政権はキンバリー・ギルフォイル駐ギリシャ大使に辞任を求めました。ホワイトハウスの報道官が発表しました。同大使はトランプ氏の支持者に対し、政権への便宜供与と引き換えに高額なカード代の支払いを求めた疑惑などが報じられていました。トランプ大統領は大使の仕事ぶりを評価しつつも不満を示していました。本人は疑惑を否定し、名誉を守るために争う姿勢を示しています。一部メディアは本人が辞任したと伝えています。",
+   "sources": [
+    {
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-10-14",
+     "access": "body",
+     "via": null,
+     "note": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations"
+    },
+    {
+     "outlet": "France 24",
+     "url": "https://www.france24.com/en/trump-asks-greece-ambassador-to-resign-amid-ethics-scandal",
+     "date": "2026-10-14",
+     "access": "excerpt",
+     "via": null,
+     "note": "Trump asks Greece ambassador to resign amid ethics scandal"
+    },
+    {
+     "outlet": "Euronews",
+     "url": "https://www.euronews.com/2026/10/13/white-house-asks-ambassador-to-greece-kimberly-guilfoyle-to-resign",
+     "date": "2026-10-14",
+     "access": "excerpt",
+     "via": null,
+     "note": "US ambassador to Greece Kimberly Guilfoyle resigns"
+    },
+    {
+     "outlet": "South China Morning Post",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3370779/us-asks-greece-ambassador-kimberly-guilfoyle-resign-over-alleged-misconduct?utm_source=rss_feed",
+     "date": "2026-10-14",
+     "access": "excerpt",
+     "via": null,
+     "note": "Trump ousts Greece envoy Kimberly Guilfoyle amid misconduct scandal"
+    },
+    {
+     "outlet": "The Straits Times",
+     "url": "https://www.straitstimes.com/world/europe/white-house-says-us-ambassador-to-greece-guilfoyle-asked-to-resign",
+     "date": "2026-10-14",
+     "access": "excerpt",
+     "via": null,
+     "note": "White House says US ambassador to Greece Kimberly Guilfoyle has been asked to resign"
+    },
+    {
+     "outlet": "Reuters",
+     "url": null,
+     "date": "2026-10-14",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Trump fires ambassador to Greece Guilfoyle after reports of misconduct - Reuters"
+    },
+    {
+     "outlet": "Associated Press",
+     "url": null,
+     "date": "2026-10-14",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Trump says he is 'looking at' firing US envoy to Greece after mounting reports of improper conduct - AP News"
+    },
+    {
+     "outlet": "Bloomberg",
+     "url": null,
+     "date": "2026-10-14",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "White House Says Ambassador Guilfoyle Was Asked to Resign - Bloomberg.com"
+    },
+    {
+     "outlet": "Financial Times",
+     "url": null,
+     "date": "2026-10-14",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Donald Trump says he is ‘looking at’ firing envoy to Greece over alleged misconduct - Financial Times"
+    },
+    {
+     "outlet": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-10-14/white-house-first-press-briefing-zacharia-guilfoyle/107262814",
+     "date": "2026-10-14",
+     "access": "excerpt",
+     "via": null,
+     "note": "White House asks US envoy in Athens to resign"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "10/18",
     "jp": "0/6",
     "worldTotal": 18,
     "jpTotal": 6
    },
    "bodyAvailable": true,
    "discussionUrl": null,
-   "summarizedBy": "gemini-3.5-flash-lite"
+   "summarizedBy": "gemini-3.8-flash"
   },
   {
-   "id": "intl-brief-2026-10-13-s-20261013-03",
+   "id": "intl-brief-2026-10-14-s-20261014-09",
    "stream": "intl",
    "depth": "brief",
    "section": "world",
-   "headline": "米連邦捜査機関が民主党オマール議員の自宅を捜査",
-   "originalTitle": "Immigration agents search Congresswoman Ilhan Omar's home",
-   "outlet": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
+   "headline": "米ロの軽油合意を巡り欧州やウクライナが反発",
+   "originalTitle": "How will a diesel deal with Russia impact the U.S. market?",
+   "outlet": "NPR",
+   "url": "https://www.npr.org/2026/10/13/nx-s1-6000118/how-will-a-diesel-deal-with-russia-impact-the-u-s-market",
    "region": "overseas",
    "category": null,
-   "score": 25,
+   "score": 28,
    "tier": "interest",
-   "pubDate": "2026-10-12T21:39:00.015Z",
+   "pubDate": "2026-10-13T21:49:25.864Z",
    "body": null,
-   "summary": "米連邦捜査機関が、ドナルド・トランプ大統領の批判者である民主党のイルハン・オマール下院議員のワシントンの自宅を刑事捜査の一環として家宅捜索した。オマール議員は根拠のない脅迫キャンペーンのエスカレーションだと批判し、沈黙しないと述べた。",
+   "summary": "トランプ米大統領がロシアと結んだ軽油に関する合意を巡り、欧州やウクライナで反発が広がっています。ウクライナ側はこの合意をプーチン大統領への贈り物だと批判しました。欧州各国の政府当局者も米国の動きに警戒感を示し、外交的な調整を進めています。米国では軽油価格が高騰しており、市場の価格引き下げを狙った取引と報じられています。一方で米国内でも共和党議員から批判の声が上がっていると報じられています。",
    "sources": [
     {
-     "outlet": "BBC",
-     "url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
-     "date": "2026-10-13",
+     "outlet": "NPR",
+     "url": "https://www.npr.org/2026/10/13/nx-s1-6000118/how-will-a-diesel-deal-with-russia-impact-the-u-s-market",
+     "date": "2026-10-14",
      "access": "body",
      "via": null,
-     "note": "Immigration agents search Congresswoman Ilhan Omar's home"
+     "note": "How will a diesel deal with Russia impact the U.S. market?"
     },
     {
-     "outlet": "Sky News",
-     "url": "https://news.sky.com/story/congresswoman-insists-she-will-not-be-silenced-after-federal-agents-raid-her-home-13598219",
-     "date": "2026-10-13",
+     "outlet": "New York Times",
+     "url": "https://www.nytimes.com/2026/10/13/world/europe/trump-putin-diesel-uk-europe-gift.html",
+     "date": "2026-10-14",
      "access": "excerpt",
      "via": null,
-     "note": "Congresswoman insists she will not be 'silenced' after federal agents raid her home"
+     "note": "U.K. and Europe Recoil From Trump’s Diesel Deal With Putin"
     },
     {
      "outlet": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/us-rep-ilhan-omars-home-searched-by-immigration-agents?traffic_source=rss",
-     "date": "2026-10-13",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/why-trumps-energy-ceasefire-upset-europe?traffic_source=rss",
+     "date": "2026-10-14",
      "access": "excerpt",
      "via": null,
-     "note": "US Rep. Ilhan Omar’s home searched by immigration agents"
+     "note": "Why Trump’s ‘energy ceasefire’ upset Europe"
     },
     {
-     "outlet": "France 24",
-     "url": "https://www.france24.com/en/americas/20261012-us-federal-agents-raid-home-of-democratic-congresswoman-and-trump-critic-ilhan-omar",
-     "date": "2026-10-13",
+     "outlet": "Deutsche Welle",
+     "url": "https://www.dw.com/en/ukraine-allies-in-poland-after-starlink-sabotage-trump-diesel-deal/a-79653869?maca=en-rss-en-world-4025-rdf",
+     "date": "2026-10-14",
      "access": "excerpt",
      "via": null,
-     "note": "US federal agents raid home of Democratic congresswoman and Trump critic Ilhan Omar"
-    },
-    {
-     "outlet": "South China Morning Post",
-     "url": "https://www.scmp.com/news/world/united-states-canada/article/3370643/federal-agents-search-democrat-ilhan-omars-home-part-criminal-investigation?utm_source=rss_feed",
-     "date": "2026-10-13",
-     "access": "excerpt",
-     "via": null,
-     "note": "US federal agents search Democrat Ilhan Omar’s home as part of a criminal investigation"
+     "note": "Ukraine allies in Poland after Starlink sabotage, Trump diesel deal"
     },
     {
      "outlet": "Reuters",
      "url": null,
-     "date": "2026-10-13",
+     "date": "2026-10-14",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "US immigration authorities raid home of Democratic Trump critic Ilhan Omar - Reuters"
+     "note": "'Gift to our adversary': More Republicans criticize Trump's Russia diesel deal - Reuters"
     },
     {
      "outlet": "Associated Press",
      "url": null,
-     "date": "2026-10-13",
+     "date": "2026-10-14",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "Agents search Rep. Omar's Washington home in criminal probe as she vows she won't 'be silenced' - AP News"
+     "note": "Trump’s diesel deal with Putin draws criticism from a frustrated Congress - AP News"
     },
     {
      "outlet": "Bloomberg",
      "url": null,
-     "date": "2026-10-13",
+     "date": "2026-10-14",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "Federal Agents Search Representative Ilhan Omar’s Home - Bloomberg.com"
+     "note": "Is Trump’s Plan to Import Diesel From Russia Legal? - Bloomberg.com"
+    },
+    {
+     "outlet": "Financial Times",
+     "url": null,
+     "date": "2026-10-14",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Trump-Zelenskyy diesel spat reignites Europe’s White House angst - Financial Times"
+    },
+    {
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/videos/crd9321ygqw8o?at_medium=RSS&at_campaign=rss",
+     "date": "2026-10-14",
+     "access": "excerpt",
+     "via": null,
+     "note": "What could Trump's energy ceasefire mean for Ukraine?"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "9/18",
+    "jp": "0/6",
+    "worldTotal": 18,
+    "jpTotal": 6
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "gemini-3.8-flash"
+  },
+  {
+   "id": "intl-brief-2026-10-14-s-20261014-03",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "world",
+   "headline": "英情報機関トップ、ロシアやイランの脅威とAI悪用に警告",
+   "originalTitle": "MI5 chief warns of threats to UK from Russia, Iran and AI",
+   "outlet": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
+   "region": "overseas",
+   "category": null,
+   "score": 27,
+   "tier": "interest",
+   "pubDate": "2026-10-13T21:49:25.864Z",
+   "body": null,
+   "summary": "英情報局保安部（MI5）のマッカラム長官は、ロシアやイランによる脅威とAIの悪用に警告を発しました。年次演説で明らかにしました。ロシアを最大の侵略者と位置づけ、欧州各地でハイブリッド攻撃を仕掛けていると指摘しました。イランによる英国内の軍事拠点などを狙った攻撃計画も警戒しています。さらにテロリストがAIをドローンや生物兵器の運用に悪用するリスクにも言及しました。国家の脅威とテロへの対策が同規模になったと述べています。",
+   "sources": [
+    {
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
+     "date": "2026-10-14",
+     "access": "body",
+     "via": null,
+     "note": "MI5 chief warns of threats to UK from Russia, Iran and AI"
+    },
+    {
+     "outlet": "New York Times",
+     "url": "https://www.nytimes.com/2026/10/13/world/europe/mi5-uk-threat-iran-russia.html",
+     "date": "2026-10-14",
+     "access": "excerpt",
+     "via": null,
+     "note": "MI5 Chief Warns of Escalating Hybrid Threats From Iran and Russia on British Soil"
+    },
+    {
+     "outlet": "The Guardian",
+     "url": "https://www.theguardian.com/uk-news/2026/oct/13/far-right-iran-terror-threat-uk-mi5-annual-update",
+     "date": "2026-10-14",
+     "access": "excerpt",
+     "via": null,
+     "note": "Far-right and Iran add to mix of terror threats UK faces – not to mention AI"
+    },
+    {
+     "outlet": "Euronews",
+     "url": "https://www.euronews.com/2026/10/13/russia-remains-aggressor-number-one-uks-mi5-spy-agency-chief-warns-in-threat-update",
+     "date": "2026-10-14",
+     "access": "excerpt",
+     "via": null,
+     "note": "Russia remains 'aggressor number one,' UK's MI5 spy agency chief warns in threat update"
+    },
+    {
+     "outlet": "South China Morning Post",
+     "url": "https://www.scmp.com/news/world/europe/article/3370774/mi5-chief-warns-iran-targeting-military-sites-uk-hostile-state-threats-surge?utm_source=rss_feed",
+     "date": "2026-10-14",
+     "access": "excerpt",
+     "via": null,
+     "note": "MI5 chief warns Iran is targeting military sites in UK as hostile state threats surge"
+    },
+    {
+     "outlet": "CBS News",
+     "url": "https://www.cbsnews.com/news/iran-harder-targets-military-sites-sabotage-attacks-uk-spy-chief/",
+     "date": "2026-10-14",
+     "access": "excerpt",
+     "via": null,
+     "note": "Iran focused on attacking \"harder targets,\" U.K. spy chief warns"
+    },
+    {
+     "outlet": "The Straits Times",
+     "url": "https://www.straitstimes.com/world/europe/mi5-chief-lists-iran-russia-ai-and-terrorists-among-threats-to-uk",
+     "date": "2026-10-14",
+     "access": "excerpt",
+     "via": null,
+     "note": "MI5 chief lists Iran, Russia, AI and terrorists among threats to UK"
+    },
+    {
+     "outlet": "Associated Press",
+     "url": null,
+     "date": "2026-10-14",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "MI5 chief says Iran is targeting military sites and suspected plot at RAF Fairford is 'not unique’ - AP News"
     }
    ],
    "continuity": null,
    "coverage": {
     "world": "8/18",
-    "jp": "2/6",
+    "jp": "0/6",
     "worldTotal": 18,
     "jpTotal": 6
    },
    "bodyAvailable": true,
    "discussionUrl": null,
-   "summarizedBy": "gemini-3.5-flash-lite"
+   "summarizedBy": "gemini-3.8-flash"
   },
   {
-   "id": "intl-brief-2026-10-13-s-20261012-10",
+   "id": "intl-brief-2026-10-14-s-20261005-07",
    "stream": "intl",
    "depth": "brief",
    "section": "world",
-   "headline": "ローマ教皇レオ14世が肺の腫瘍除去手術へ",
-   "originalTitle": "Pope Leo cancels all public events ahead of lung surgery",
-   "outlet": "Sky News",
-   "url": "https://news.sky.com/story/pope-leo-cancels-all-public-events-ahead-of-lung-surgery-13598270",
+   "headline": "米コーネル大、学生友愛会の全パーティーを禁止　性的暴行疑惑で",
+   "originalTitle": "Cornell bans all fraternity parties over gang sex assault allegations",
+   "outlet": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss",
    "region": "overseas",
    "category": null,
-   "score": 19,
+   "score": 21,
    "tier": "interest",
-   "pubDate": "2026-10-12T21:39:00.015Z",
+   "pubDate": "2026-10-13T21:49:25.864Z",
    "body": null,
-   "summary": "ローマ教皇レオ14世は、医師の勧めに従い、肺に見つかった小さな腫瘍を除去するための手術を受けると発表した。教皇はローマの病院に入院し、約1週間の入院療養が見込まれており、10月20日までの公務がキャンセルされた。",
+   "summary": "米コーネル大学は男子学生の友愛会（フラタニティ）によるパーティーや交流行事を今年度全面的に禁止しました。学内の友愛会施設で起きた集団性的暴行疑惑への大学側の対応に批判が集まったことを受けた措置です。コトリコフ学長は違反した組織を即時活動停止にする方針を発表しました。また学内の性犯罪調査権限をニューヨーク州警察の専門捜査員に移管すると表明しました。被害者支援を拡充する方針も示しています。",
    "sources": [
     {
-     "outlet": "Sky News",
-     "url": "https://news.sky.com/story/pope-leo-cancels-all-public-events-ahead-of-lung-surgery-13598270",
-     "date": "2026-10-13",
-     "access": "excerpt",
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss",
+     "date": "2026-10-14",
+     "access": "body",
      "via": null,
-     "note": "Pope Leo cancels all public events ahead of lung surgery"
+     "note": "Cornell bans all fraternity parties over gang sex assault allegations"
     },
     {
      "outlet": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/12/pope-leo-to-undergo-surgery-to-remove-lung-nodule-in-rome?traffic_source=rss",
-     "date": "2026-10-13",
+     "url": "https://www.aljazeera.com/news/2026/10/13/cornell-suspends-fraternity-parties-after-alleged-campus-gang-rape-case?traffic_source=rss",
+     "date": "2026-10-14",
      "access": "body",
      "via": null,
-     "note": "Pope Leo to undergo surgery to remove lung nodule in Rome"
+     "note": "Cornell suspends fraternity parties after alleged campus gang rape case"
     },
     {
-     "outlet": "CBS News",
-     "url": "https://www.cbsnews.com/news/pope-leo-hospital-lung-nodule-surgery/",
-     "date": "2026-10-13",
+     "outlet": "Euronews",
+     "url": "https://www.euronews.com/2026/10/13/cornell-university-suspends-frat-parties-over-gang-rape-allegations",
+     "date": "2026-10-14",
      "access": "excerpt",
      "via": null,
-     "note": "Pope Leo to go to hospital Tuesday for lung nodule surgery"
+     "note": "Cornell University suspends frat parties over gang rape allegations"
+    },
+    {
+     "outlet": "South China Morning Post",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3370788/cornell-suspends-frat-parties-after-alleged-gang-rape?utm_source=rss_feed",
+     "date": "2026-10-14",
+     "access": "excerpt",
+     "via": null,
+     "note": "Cornell suspends frat parties after alleged gang rape"
     },
     {
      "outlet": "Associated Press",
      "url": null,
-     "date": "2026-10-13",
+     "date": "2026-10-14",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "Pope Leo XIV will have surgery in the coming days to remove a nodule on his lung - AP News"
-    },
-    {
-     "outlet": "BBC",
-     "url": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
-     "date": "2026-10-13",
-     "access": "excerpt",
-     "via": null,
-     "note": "Pope Leo to have surgery after lump found on lung"
-    },
-    {
-     "outlet": "NPR",
-     "url": "https://www.npr.org/2026/10/11/nx-s1-5998027/pope-leo-xiv-to-undergo-lung-surgery-this-week",
-     "date": "2026-10-13",
-     "access": "excerpt",
-     "via": null,
-     "note": "Pope Leo XIV to undergo lung surgery this week"
-    },
-    {
-     "outlet": "New York Times",
-     "url": "https://www.nytimes.com/2026/10/11/world/europe/pope-leo-lung-surgery.html",
-     "date": "2026-10-13",
-     "access": "excerpt",
-     "via": null,
-     "note": "Pope Leo Will Have Surgery to Remove Growth on Lung"
-    }
-   ],
-   "continuity": {
-    "previousDate": "2026-10-12",
-    "previousScore": 39,
-    "note": "2日連続で報じられている"
-   },
-   "coverage": {
-    "world": "7/18",
-    "jp": "1/6",
-    "worldTotal": 18,
-    "jpTotal": 6
-   },
-   "bodyAvailable": true,
-   "discussionUrl": null,
-   "summarizedBy": "gemini-3.5-flash-lite"
-  },
-  {
-   "id": "intl-brief-2026-10-13-s-20261001-24",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "world",
-   "headline": "英首相、フェアフォード空軍基地の事件でイランを非難",
-   "originalTitle": "UK blames Iran for airbase plot, sanctions two Iranian nationals",
-   "outlet": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/10/12/uk-blames-iran-for-airbase-plot-sanctions-two-iranian-nationals?traffic_source=rss",
-   "region": "overseas",
-   "category": null,
-   "score": 19,
-   "tier": "interest",
-   "pubDate": "2026-10-12T21:39:00.015Z",
-   "body": null,
-   "summary": "イギリスのアンディ・バーナム首相は、イングランドのフェアフォード空軍基地を標的とした容疑について、イランのイスラム革命防衛隊が調整した可能性が非常に高いと議会で述べた。英国政府はイラン大使を呼び出し、2人のイラン国民に対して制裁を発表した。",
-   "sources": [
-    {
-     "outlet": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/12/uk-blames-iran-for-airbase-plot-sanctions-two-iranian-nationals?traffic_source=rss",
-     "date": "2026-10-13",
-     "access": "body",
-     "via": null,
-     "note": "UK blames Iran for airbase plot, sanctions two Iranian nationals"
-    },
-    {
-     "outlet": "Deutsche Welle",
-     "url": "https://www.dw.com/en/uk-iran-highly-likely-to-be-behind-raf-fairford-incident/a-79645941?maca=en-rss-en-world-4025-rdf",
-     "date": "2026-10-13",
-     "access": "body",
-     "via": null,
-     "note": "UK: Iran 'highly likely' to be behind RAF Fairford incident"
-    },
-    {
-     "outlet": "France 24",
-     "url": "https://www.france24.com/en/europe/20261012-tehran-denies-involvement-in-uk-fairford-air-base-incident-as-britain-summons-iranian-ambassador",
-     "date": "2026-10-13",
-     "access": "excerpt",
-     "via": null,
-     "note": "Tehran denies involvement in UK Fairford air base incident as Britain summons Iranian ambassador"
-    },
-    {
-     "outlet": "South China Morning Post",
-     "url": "https://www.scmp.com/news/world/europe/article/3370646/uk-pm-burnham-says-irans-irgc-highly-likely-have-been-behind-raf-fairford-incident?utm_source=rss_feed",
-     "date": "2026-10-13",
-     "access": "excerpt",
-     "via": null,
-     "note": "UK PM Burnham says Iran’s IRGC ‘highly likely’ to have been behind RAF Fairford incident"
-    },
-    {
-     "outlet": "The Straits Times",
-     "url": "https://www.straitstimes.com/world/europe/uk-pm-burnham-says-irans-irgc-likely-behind-raf-fairford-incident",
-     "date": "2026-10-13",
-     "access": "excerpt",
-     "via": null,
-     "note": "Iran’s Islamic Revolutionary Guards likely behind Fairford airbase incident, says British PM Burnham"
-    },
-    {
-     "outlet": "Reuters",
-     "url": null,
-     "date": "2026-10-13",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "UK PM Burnham says Iran's IRGC likely behind RAF Fairford incident - Reuters"
+     "note": "Cornell suspends fraternity parties, gives state police role in investigating campus assault reports - AP News"
     },
     {
      "outlet": "Bloomberg",
      "url": null,
-     "date": "2026-10-13",
+     "date": "2026-10-14",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "UK Says Iran’s IRGC Directed Incident at Airbase Used by US - Bloomberg.com"
+     "note": "Cornell Suspends Frat Parties After Sexual Assault Case - Bloomberg.com"
+    },
+    {
+     "outlet": "New York Times",
+     "url": "https://www.nytimes.com/2026/10/12/world/cornell-assault-frat-israel.html",
+     "date": "2026-10-14",
+     "access": "excerpt",
+     "via": null,
+     "note": "Cornell and Toxic Frat Culture"
     }
    ],
    "continuity": {
-    "previousDate": "2026-10-01",
-    "previousScore": 22,
-    "note": "6日連続で報じられている"
+    "previousDate": "2026-10-05",
+    "previousScore": 21,
+    "note": "4日連続で報じられている"
    },
    "coverage": {
     "world": "7/18",
-    "jp": "1/6",
+    "jp": "0/6",
     "worldTotal": 18,
     "jpTotal": 6
    },
    "bodyAvailable": true,
    "discussionUrl": null,
-   "summarizedBy": "gemini-3.5-flash-lite"
+   "summarizedBy": "gemini-3.8-flash"
   },
   {
-   "id": "intl-brief-2026-10-13-s-20261013-07",
+   "id": "intl-brief-2026-10-14-s-20261014-04",
    "stream": "intl",
    "depth": "brief",
    "section": "world",
-   "headline": "NATO最高司令官が同盟国への攻撃に対して警告",
-   "originalTitle": "NATO Details Plan to Shield Ukraine’s European Allies From Russia",
+   "headline": "サウジ軍がイエメン首都を空爆、フーシ派は報復攻撃を示唆",
+   "originalTitle": "Houthis Threaten Fierce Retaliation After Saudi Arabia Strikes Yemen",
    "outlet": "New York Times",
-   "url": "https://www.nytimes.com/2026/10/12/world/europe/nato-strategy-russia-europe.html",
+   "url": "https://www.nytimes.com/2026/10/13/world/middleeast/saudi-arabia-yemen-houthis-aramco-threat.html",
    "region": "overseas",
    "category": null,
-   "score": 19,
+   "score": 18,
    "tier": "interest",
-   "pubDate": "2026-10-12T21:39:00.015Z",
+   "pubDate": "2026-10-13T21:49:25.864Z",
    "body": null,
-   "summary": "NATOの最高司令官であるアレクサス・グリングエウィッチ将軍は、同盟が攻撃された場合には一切躊躇せずに初期攻撃の阻止から敵戦力の粉砕まで行うと警告した。同将軍は、戦争は望んでいないが戦闘の準備はできているとワルシャワ安全保障フォーラムで述べた。",
+   "summary": "サウジアラビア主導の連合軍がイエメンの首都サヌア近郊にある燃料施設を空爆しました。イエメンの親イラン武装組織フーシ派によるサウジ国内への攻撃を受けた措置です。連合軍はリヤドやダンマンに向かった複数のミサイルやドローンを迎撃したと発表しました。フーシ派は国営石油会社サウジアラムコの本社や精油所、空港などを標的にすると警告しています。サウジ政府はフーシ派が攻撃の結果責任を負うことになると主張しています。",
    "sources": [
     {
      "outlet": "New York Times",
-     "url": "https://www.nytimes.com/2026/10/12/world/europe/nato-strategy-russia-europe.html",
-     "date": "2026-10-13",
+     "url": "https://www.nytimes.com/2026/10/13/world/middleeast/saudi-arabia-yemen-houthis-aramco-threat.html",
+     "date": "2026-10-14",
      "access": "excerpt",
      "via": null,
-     "note": "NATO Details Plan to Shield Ukraine’s European Allies From Russia"
+     "note": "Houthis Threaten Fierce Retaliation After Saudi Arabia Strikes Yemen"
     },
     {
-     "outlet": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/12/nato-says-will-do-anything-and-everything-if-alliance-is-attacked?traffic_source=rss",
-     "date": "2026-10-13",
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
+     "date": "2026-10-14",
      "access": "body",
      "via": null,
-     "note": "NATO says will do ‘anything and everything’ if alliance is attacked"
+     "note": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot"
     },
     {
-     "outlet": "Euronews",
-     "url": "https://www.euronews.com/2026/10/12/nato-commander-unveils-strategy-to-make-any-attack-on-alliance-utterly-futile",
-     "date": "2026-10-13",
+     "outlet": "The Guardian",
+     "url": "https://www.theguardian.com/world/2026/oct/13/saudi-arabia-strikes-strategic-oil-depots-near-yemen-capital",
+     "date": "2026-10-14",
      "access": "excerpt",
      "via": null,
-     "note": "NATO commander unveils strategy to make any attack on alliance ‘utterly futile’"
+     "note": "Saudi Arabia strikes oil depots in Yemen and says missiles launched toward location of Saudi Aramco HQ"
+    },
+    {
+     "outlet": "Deutsche Welle",
+     "url": "https://www.dw.com/en/saudi-arabia-s-military-struggle-against-houthi-attacks/a-79650857?maca=en-rss-en-world-4025-rdf",
+     "date": "2026-10-14",
+     "access": "excerpt",
+     "via": null,
+     "note": "Saudi Arabia's military struggle against Houthi attacks"
     },
     {
      "outlet": "The Straits Times",
-     "url": "https://www.straitstimes.com/world/europe/nato-general-sets-out-tough-military-response-to-any-foolish-russian-attack",
-     "date": "2026-10-13",
+     "url": "https://www.straitstimes.com/world/middle-east/saudi-arabia-strikes-yemen-capital-as-houthis-vow-to-retaliate",
+     "date": "2026-10-14",
      "access": "excerpt",
      "via": null,
-     "note": "NATO general sets out tough military response to any ‘foolish’ Russian attack"
-    },
-    {
-     "outlet": "Associated Press",
-     "url": null,
-     "date": "2026-10-13",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "NATO commander says the alliance does not want war but is ‘ready to fight tonight’ - AP News"
-    },
-    {
-     "outlet": "Financial Times",
-     "url": null,
-     "date": "2026-10-13",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Nato’s supreme commander warns Moscow against attacks in Europe - Financial Times"
-    }
-   ],
-   "continuity": null,
-   "coverage": {
-    "world": "6/18",
-    "jp": "1/6",
-    "worldTotal": 18,
-    "jpTotal": 6
-   },
-   "bodyAvailable": true,
-   "discussionUrl": null,
-   "summarizedBy": "gemini-3.5-flash-lite"
-  },
-  {
-   "id": "intl-brief-2026-10-13-s-20261013-05",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "world",
-   "headline": "フランスの学校で生徒が校長と教師を銃撃",
-   "originalTitle": "Pupil arrested after two teachers shot at French school",
-   "outlet": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/cm2keg7910gvo?at_medium=RSS&at_campaign=rss",
-   "region": "overseas",
-   "category": null,
-   "score": 14,
-   "tier": "interest",
-   "pubDate": "2026-10-12T21:39:00.015Z",
-   "body": null,
-   "summary": "フランス南部オーバーニュの中学校で14歳の生徒が猟銃を発砲し、校長と教師が負傷した。容疑者の生徒はスタッフに取り押さえられ、警察に身柄を拘束された。負傷した教職員の命に別条はなく、マルセイユ検察当局が殺人未遂で捜査を開始している。",
-   "sources": [
-    {
-     "outlet": "BBC",
-     "url": "https://www.bbc.co.uk/news/articles/cm2keg7910gvo?at_medium=RSS&at_campaign=rss",
-     "date": "2026-10-13",
-     "access": "body",
-     "via": null,
-     "note": "Pupil arrested after two teachers shot at French school"
-    },
-    {
-     "outlet": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/teenager-shoots-headmaster-teacher-at-french-school?traffic_source=rss",
-     "date": "2026-10-13",
-     "access": "excerpt",
-     "via": null,
-     "note": "Teenager shoots headmaster, teacher at French school"
-    },
-    {
-     "outlet": "South China Morning Post",
-     "url": "https://www.scmp.com/news/world/europe/article/3370635/french-police-detain-pupil-14-suspected-shooting-principal-and-teacher?utm_source=rss_feed",
-     "date": "2026-10-13",
-     "access": "excerpt",
-     "via": null,
-     "note": "Teenager shoots headmaster and teacher with a hunting gun at French school"
-    },
-    {
-     "outlet": "Associated Press",
-     "url": null,
-     "date": "2026-10-13",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "French police detain student suspected of shooting the principal and a teacher at his school - AP News"
-    },
-    {
-     "outlet": "Sky News",
-     "url": "https://news.sky.com/story/staff-shot-at-school-near-marseille-13598028",
-     "date": "2026-10-13",
-     "access": "excerpt",
-     "via": null,
-     "note": "Staff shot at school in France - as pupil detained"
+     "note": "Saudi Arabia strikes Yemen capital as Houthis vow to retaliate"
     }
    ],
    "continuity": null,
    "coverage": {
     "world": "5/18",
-    "jp": "1/6",
+    "jp": "0/6",
     "worldTotal": 18,
     "jpTotal": 6
    },
    "bodyAvailable": true,
    "discussionUrl": null,
-   "summarizedBy": "gemini-3.5-flash-lite"
+   "summarizedBy": "gemini-3.8-flash"
   },
   {
-   "id": "intl-brief-2026-10-13-s-20261013-04",
+   "id": "intl-brief-2026-10-14-s-20261014-05",
    "stream": "intl",
    "depth": "brief",
    "section": "world",
-   "headline": "パリ最古の屋内食品市場が火災で全焼",
-   "originalTitle": "Fire Devastates Paris’s Oldest Covered Food Market, Le Marché des Enfants Rouges",
-   "outlet": "New York Times",
-   "url": "https://www.nytimes.com/2026/10/12/world/europe/france-paris-fire-market-enfants-rouges-marais.html",
+   "headline": "米ラッパー殺害事件、首謀の元ギャング幹部に禁錮40年判決",
+   "originalTitle": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
+   "outlet": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
    "region": "overseas",
    "category": null,
-   "score": 13,
+   "score": 18,
    "tier": "interest",
-   "pubDate": "2026-10-12T21:39:00.015Z",
+   "pubDate": "2026-10-13T21:49:25.864Z",
    "body": null,
-   "summary": "フランス・パリにある最古の屋内食品市場とされる歴史的なマルシェ・デ・ザンファン・ルージュが、未明の火災により完全に破壊された。けい死者は報告されていないが、トレーダーズは大きな打撃を受けており、市場は数カ月間閉鎖される可能性がある。",
+   "summary": "米ラスベガスの裁判所は、ラッパーのトゥーパック・シャクールさんを殺害した罪で、元ギャング幹部のデュアン・デイビス被告に禁錮40年から終身刑を言い渡しました。事件は1996年に発生した銃撃事件です。被告は銃撃が行われた車内にいたことを自著や取材で認めており、それが公判の重要証拠となりました。遺族は法廷で最長の実刑を求めました。被告側は判決に対して控訴する意向を示しています。",
    "sources": [
     {
-     "outlet": "New York Times",
-     "url": "https://www.nytimes.com/2026/10/12/world/europe/france-paris-fire-market-enfants-rouges-marais.html",
-     "date": "2026-10-13",
-     "access": "excerpt",
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-10-14",
+     "access": "body",
      "via": null,
-     "note": "Fire Devastates Paris’s Oldest Covered Food Market, Le Marché des Enfants Rouges"
+     "note": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder"
+    },
+    {
+     "outlet": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/tupac-shakur-killer-sentenced-to-40-years-in-prison?traffic_source=rss",
+     "date": "2026-10-14",
+     "access": "body",
+     "via": null,
+     "note": "Tupac Shakur killer sentenced to 40 years in prison"
     },
     {
      "outlet": "France 24",
-     "url": "https://www.france24.com/en/france-fire-destroys-historic-covered-food-market-in-paris",
-     "date": "2026-10-13",
+     "url": "https://www.france24.com/en/former-gang-leader-sentenced-to-minimum-40-years-for-tupac-killing",
+     "date": "2026-10-14",
      "access": "excerpt",
      "via": null,
-     "note": "France: Fire destroys historic covered food market in Paris"
+     "note": "Former gang leader sentenced to minimum 40 years for Tupac killing"
     },
     {
-     "outlet": "Euronews",
-     "url": "https://www.euronews.com/video/2026/10/12/pariss-oldest-covered-food-market-gutted-by-major-overnight-fire",
-     "date": "2026-10-13",
+     "outlet": "South China Morning Post",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3370784/tupac-shakur-murder-ex-gang-leader-sentenced-40-years-life-prison?utm_source=rss_feed",
+     "date": "2026-10-14",
      "access": "excerpt",
      "via": null,
-     "note": "Paris’s oldest covered food market gutted by major overnight fire"
+     "note": "Tupac Shakur murder: ex-gang leader sentenced to 40 years to life in prison"
     },
+    {
+     "outlet": "Associated Press",
+     "url": null,
+     "date": "2026-10-14",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Duane ‘Keffe D’ Davis gets 40 years to life in prison for orchestrating the murder of Tupac Shakur - AP News"
+    },
+    {
+     "outlet": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-10-14/duane-davis-sentenced-to-minimum-40-years-for-tupac-killing/107262994",
+     "date": "2026-10-14",
+     "access": "excerpt",
+     "via": null,
+     "note": "Former gang leader Duane Davis sentenced over Tupac murder"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "6/18",
+    "jp": "0/6",
+    "worldTotal": 18,
+    "jpTotal": 6
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "gemini-3.8-flash"
+  },
+  {
+   "id": "intl-brief-2026-10-14-s-20261014-12",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "world",
+   "headline": "ロシア治安当局、北海道新聞の日本人記者をスパイ容疑で拘束",
+   "originalTitle": "Japanese journalist arrested in Russia on suspicion of spying",
+   "outlet": "Sky News",
+   "url": "https://news.sky.com/story/japanese-journalist-arrested-in-russia-on-suspicion-of-spying-13598988",
+   "region": "overseas",
+   "category": null,
+   "score": 15,
+   "tier": "interest",
+   "pubDate": "2026-10-13T21:49:25.864Z",
+   "body": null,
+   "summary": "ロシア連邦保安局（FSB）は、スパイ活動の疑いで日本の北海道新聞の記者を拘束しました。記者は極東サハリン島で拘束された後、モスクワへ移送されたと報じられています。ロシア側は、防衛力や兵力募集の情報を集めていたと主張しています。日本の情報機関のために活動していたとロシア側はみています。",
+   "sources": [
     {
      "outlet": "Sky News",
-     "url": "https://news.sky.com/story/oldest-covered-food-market-in-paris-destroyed-in-fire-13598110",
-     "date": "2026-10-13",
+     "url": "https://news.sky.com/story/japanese-journalist-arrested-in-russia-on-suspicion-of-spying-13598988",
+     "date": "2026-10-14",
      "access": "excerpt",
      "via": null,
-     "note": "Oldest covered food market in Paris destroyed in fire"
+     "note": "Japanese journalist arrested in Russia on suspicion of spying"
+    },
+    {
+     "outlet": "New York Times",
+     "url": "https://www.nytimes.com/2026/10/13/world/europe/russia-detains-japanese-journalist.html",
+     "date": "2026-10-14",
+     "access": "excerpt",
+     "via": null,
+     "note": "Russia Detains Japanese Journalist for Alleged Espionage"
+    },
+    {
+     "outlet": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/13/russia-arrests-japanese-reporter-for-alleged?traffic_source=rss",
+     "date": "2026-10-14",
+     "access": "excerpt",
+     "via": null,
+     "note": "Russia arrests Japanese reporter for alleged espionage"
+    },
+    {
+     "outlet": "The Straits Times",
+     "url": "https://www.straitstimes.com/world/europe/russia-detains-japanese-journalist-on-suspicion-of-spying",
+     "date": "2026-10-14",
+     "access": "excerpt",
+     "via": null,
+     "note": "Russia detains Japanese journalist on suspicion of spying"
     }
    ],
    "continuity": null,
    "coverage": {
     "world": "4/18",
-    "jp": "1/6",
+    "jp": "4/6",
     "worldTotal": 18,
     "jpTotal": 6
    },
    "bodyAvailable": false,
    "discussionUrl": null,
-   "summarizedBy": "gemini-3.5-flash-lite"
+   "summarizedBy": "gemini-3.8-flash"
   },
   {
-   "id": "intl-brief-2026-10-13-s-20261013-10",
+   "id": "intl-brief-2026-10-14-s-20261014-02",
    "stream": "intl",
    "depth": "brief",
    "section": "world",
-   "headline": "女優セルマ・ブレアが航空機内で客室乗務員を暴行した疑い",
-   "originalTitle": "Actress Selma Blair arrested over alleged in-flight assault",
-   "outlet": "ABC Australia",
-   "url": "https://www.abc.net.au/news/2026-10-13/selma-blair-arrested-after-incident-on-flight/107258804",
+   "headline": "オープンAI元社員を米司法省が訴追、社内に盗聴器設置の疑い",
+   "originalTitle": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+   "outlet": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
    "region": "overseas",
    "category": null,
-   "score": 13,
+   "score": 14,
    "tier": "interest",
-   "pubDate": "2026-10-12T21:39:00.015Z",
+   "pubDate": "2026-10-13T21:49:25.864Z",
    "body": null,
-   "summary": "ハリウッド女優のセルマ・ブレアが、ロサンゼルスからニューヨークへ向かう便の中で客室乗務員2人を暴行して負傷させたとして、警察に身柄を拘束された。ブレアの代理人は、事件の前に医療上の緊急事態があったと複数のメディアに説明している。",
+   "summary": "米司法省は、米オープンAIの社内会議室に盗聴器を設置したとして、サウジアラビア国籍の元エンジニアを訴追しました。被告はサンフランシスコの役員会議室にあるテレビのUSBポートに機器を隠したとされています。オープンAIは自社のAIモデルを使って機器と設置者を特定し、連邦捜査局（FBI）に通報したと発表しました。ソースコードや顧客データへの不正アクセスは確認されておらず、被告は解雇されています。",
    "sources": [
     {
-     "outlet": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-10-13/selma-blair-arrested-after-incident-on-flight/107258804",
-     "date": "2026-10-13",
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-10-14",
      "access": "body",
      "via": null,
-     "note": "Actress Selma Blair arrested over alleged in-flight assault"
+     "note": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office"
     },
     {
-     "outlet": "South China Morning Post",
-     "url": "https://www.scmp.com/news/world/united-states-canada/article/3370648/actress-selma-blair-taken-custody-police-responding-abusive-plane-passenger?utm_source=rss_feed",
-     "date": "2026-10-13",
-     "access": "excerpt",
-     "via": null,
-     "note": "Hellboy actress Selma Blair arrested for allegedly injuring 2 flight attendants"
-    },
-    {
-     "outlet": "Times of India",
-     "url": "https://timesofindia.indiatimes.com/world/us/selma-blair-arrested-at-jfk-then-hospitalized-after-she-attacked-flight-attendants-on-a-delta-plane/articleshow/134902113.cms",
-     "date": "2026-10-13",
-     "access": "headline",
-     "via": null,
-     "note": "Selma Blair arrested at JFK, then hospitalized after she attacked flight attendants on a Delta plane"
-    },
-    {
-     "outlet": "Associated Press",
+     "outlet": "Reuters",
      "url": null,
-     "date": "2026-10-13",
+     "date": "2026-10-14",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "FBI issues actor Selma Blair a summons accusing her of assaults aboard a plane, AP source says - AP News"
+     "note": "Saudi OpenAI engineer arrested by FBI for planting covert recording device, US DOJ says - Reuters"
+    },
+    {
+     "outlet": "Bloomberg",
+     "url": null,
+     "date": "2026-10-14",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "OpenAI Says Staffer Arrested for Hidden Recording Device in Office - Bloomberg.com"
+    },
+    {
+     "outlet": "Financial Times",
+     "url": null,
+     "date": "2026-10-14",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "US indicts Saudi employee of OpenAI for allegedly bugging its offices - Financial Times"
     }
    ],
    "continuity": null,
@@ -661,48 +782,178 @@
    },
    "bodyAvailable": true,
    "discussionUrl": null,
-   "summarizedBy": "gemini-3.5-flash-lite"
+   "summarizedBy": "gemini-3.8-flash"
   },
   {
-   "id": "intl-brief-2026-10-13-s-20261013-09",
+   "id": "intl-brief-2026-10-14-s-20261014-17",
    "stream": "intl",
    "depth": "brief",
    "section": "world",
-   "headline": "米当局、数百万ドルのベネズエラ資金洗浄容疑の男を拘束",
-   "originalTitle": "Fugitive businessman taken into US custody in Venezuela bribery case",
-   "outlet": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/oct/12/fugitive-venezuela-bribery-case",
+   "headline": "スペイン国王夫妻がセウタ訪問、北アフリカ領有権を強調",
+   "originalTitle": "Ceuta an 'inalienable' part of Spain, king says on key visit",
+   "outlet": "France 24",
+   "url": "https://www.france24.com/en/ceuta-an-inalienable-part-of-spain-king-says-on-key-visit",
    "region": "overseas",
    "category": null,
-   "score": 12,
+   "score": 14,
    "tier": "interest",
-   "pubDate": "2026-10-12T21:39:00.015Z",
+   "pubDate": "2026-10-13T21:49:25.864Z",
    "body": null,
-   "summary": "ベネズエラ政府の福祉計画から不法に資金を流用して資金洗浄に関与したとされるコロンビア人のアルバロ・プリドが、米国の当局によって拘束された。米司法省は、プリドがベネズエラ政府高官に賄賂を贈るなどして複数の連邦起訴を受けていたとしている。",
+   "summary": "スペインのフェリペ6世国王とレティシア王妃が、北アフリカの飛び地領セウタを訪問しました。国王はセウタとメリリャについて、スペインの不可分の一部であると強調しました。両都市の領有権を主張する隣国モロッコとの間では、7月に数万人が越境を試みた移民危機を巡り緊張が高まっていました。モロッコ側は訪問を前に駐スペイン大使を本国に召喚して反発しています。国王夫妻は現地で歓迎を受け、犠牲者の墓地などを訪れました。",
    "sources": [
     {
-     "outlet": "The Guardian",
-     "url": "https://www.theguardian.com/us-news/2026/oct/12/fugitive-venezuela-bribery-case",
-     "date": "2026-10-13",
-     "access": "body",
+     "outlet": "France 24",
+     "url": "https://www.france24.com/en/ceuta-an-inalienable-part-of-spain-king-says-on-key-visit",
+     "date": "2026-10-14",
+     "access": "excerpt",
      "via": null,
-     "note": "Fugitive businessman taken into US custody in Venezuela bribery case"
+     "note": "Ceuta an 'inalienable' part of Spain, king says on key visit"
     },
     {
-     "outlet": "BBC",
-     "url": "https://www.bbc.co.uk/news/articles/crp3gy0x0dd1o?at_medium=RSS&at_campaign=rss",
-     "date": "2026-10-13",
+     "outlet": "Euronews",
+     "url": "https://www.euronews.com/video/2026/10/13/ceuta-crowds-affirm-spanish-identity-during-royal-visit",
+     "date": "2026-10-14",
      "access": "body",
      "via": null,
-     "note": "US detains man accused in multi-billion Venezuelan money laundering scheme"
+     "note": "Ceuta crowds affirm Spanish identity during royal visit"
+    },
+    {
+     "outlet": "South China Morning Post",
+     "url": "https://www.scmp.com/news/world/europe/article/3370760/spanish-royals-visit-ceuta-back-enclave-amid-border-migration-strain-morocco?utm_source=rss_feed",
+     "date": "2026-10-14",
+     "access": "excerpt",
+     "via": null,
+     "note": "Spanish royals visit Ceuta to back enclave amid border migration strain with Morocco"
+    },
+    {
+     "outlet": "The Straits Times",
+     "url": "https://www.straitstimes.com/world/europe/spains-royals-visit-ceuta-enclave-amid-friction-with-morocco-after-border-surge",
+     "date": "2026-10-14",
+     "access": "excerpt",
+     "via": null,
+     "note": "Spain's royals visit Ceuta enclave amid friction with Morocco after border surge"
     },
     {
      "outlet": "Associated Press",
      "url": null,
-     "date": "2026-10-13",
+     "date": "2026-10-14",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "Fugitive businessman taken into US custody in Venezuela bribery case - AP News"
+     "note": "In first visit to Ceuta, Spain’s king asks for ‘good faith’ from Morocco after migration crisis - AP News"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "5/18",
+    "jp": "0/6",
+    "worldTotal": 18,
+    "jpTotal": 6
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "gemini-3.8-flash"
+  },
+  {
+   "id": "intl-brief-2026-10-14-s-20261014-20",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "gap",
+   "headline": "バンク・オブ・アメリカに制裁金12億ドル、米政府が科す",
+   "originalTitle": "Live: Bank of America fined $US1.2 billion for anti-money laundering failures",
+   "outlet": "ABC Australia",
+   "url": "https://www.abc.net.au/news/2026-10-14/asx-markets-business-news-live-updates/107263164",
+   "region": "overseas",
+   "category": null,
+   "score": 13,
+   "tier": "interest",
+   "pubDate": "2026-10-13T21:49:25.864Z",
+   "body": null,
+   "summary": "米政府はバンク・オブ・アメリカに対し、12億ドルの罰金を科しました。資金洗浄（マネーロンダリング）対策の不備や、制裁法への違反が理由です。米財務省は同行が不審な取引の監視を怠っていたと指摘しています。米政府による記録的な規模の制裁金として報じられています。豪州などの金融市場の動向を伝える報道でも大きく取り上げられました。",
+   "sources": [
+    {
+     "outlet": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-10-14/asx-markets-business-news-live-updates/107263164",
+     "date": "2026-10-14",
+     "access": "body",
+     "via": null,
+     "note": "Live: Bank of America fined $US1.2 billion for anti-money laundering failures"
+    },
+    {
+     "outlet": "Reuters",
+     "url": null,
+     "date": "2026-10-14",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Bank of America fined $1.2 billion by US government for failing to police suspicious activity - Reuters"
+    },
+    {
+     "outlet": "Associated Press",
+     "url": null,
+     "date": "2026-10-14",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "US hits Bank of America with $1.2 billion fine, saying it violated money laundering, sanctions laws - AP News"
+    },
+    {
+     "outlet": "Financial Times",
+     "url": null,
+     "date": "2026-10-14",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Bank of America fined $1.2bn over money laundering failures - Financial Times"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "4/18",
+    "jp": "0/6",
+    "worldTotal": 18,
+    "jpTotal": 6
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "gemini-3.8-flash"
+  },
+  {
+   "id": "intl-brief-2026-10-14-s-20261014-08",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "gap",
+   "headline": "アルゼンチン、フォークランド沖の石油開発巡り英を提訴",
+   "originalTitle": "UK asks Interpol to reject Argentina’s ‘politically motivated’ requests for Falklands oil arrests",
+   "outlet": "The Guardian",
+   "url": "https://www.theguardian.com/uk-news/2026/oct/13/britain-interpol-reject-argentina-falkland-islands-arrests",
+   "region": "overseas",
+   "category": null,
+   "score": 12,
+   "tier": "interest",
+   "pubDate": "2026-10-13T21:49:25.864Z",
+   "body": null,
+   "summary": "アルゼンチン政府はフォークランド諸島沖での石油探査を阻止するため、国際海洋法裁判所に提訴しました。英国が違法に許可を出したと主張しています。対象となっているシーライオン油田は大規模な埋蔵量が見込まれ、英企業などが開発を進めています。アルゼンチンのミレイ大統領は関係者の逮捕状手配を国際刑事警察機構（ICPO）に要請するなど圧力を強めており、英国側は反発して対抗措置を表明しています。",
+   "sources": [
+    {
+     "outlet": "The Guardian",
+     "url": "https://www.theguardian.com/uk-news/2026/oct/13/britain-interpol-reject-argentina-falkland-islands-arrests",
+     "date": "2026-10-14",
+     "access": "body",
+     "via": null,
+     "note": "UK asks Interpol to reject Argentina’s ‘politically motivated’ requests for Falklands oil arrests"
+    },
+    {
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cmp3g14p3z2ko?at_medium=RSS&at_campaign=rss",
+     "date": "2026-10-14",
+     "access": "body",
+     "via": null,
+     "note": "Argentina targets UK in legal claim over Falklands oil exploration"
+    },
+    {
+     "outlet": "Times of India",
+     "url": "https://timesofindia.indiatimes.com/world/rest-of-world/argentina-moves-to-stop-first-commercial-oil-project-on-disputed-falkland-islands-escalating-row-with-uk/articleshow/134921107.cms",
+     "date": "2026-10-14",
+     "access": "headline",
+     "via": null,
+     "note": "Argentina moves to stop Falklands' first commercial oil project, escalating row with UK"
     }
    ],
    "continuity": null,
@@ -714,56 +965,56 @@
    },
    "bodyAvailable": true,
    "discussionUrl": null,
-   "summarizedBy": "gemini-3.5-flash-lite"
+   "summarizedBy": "gemini-3.8-flash"
   },
   {
-   "id": "intl-brief-2026-10-13-s-20261013-19",
+   "id": "intl-brief-2026-10-14-s-20261014-22",
    "stream": "intl",
    "depth": "brief",
-   "section": "world",
-   "headline": "英首相、EUとの関係再構築へ向けて深刻な対話を約束",
-   "originalTitle": "Andy Burnham promises ‘serious dialogue’ over UK’s relationship with EU",
-   "outlet": "The Guardian",
-   "url": "https://www.theguardian.com/politics/2026/oct/12/andy-burnham-britain-eu-brexit-reset",
+   "section": "gap",
+   "headline": "サウジアラムコ本社にミサイル着弾、フーシ派の攻撃か",
+   "originalTitle": "Missile hits headquarters of Saudi Aramco, source says, as Houthi conflict escalates",
+   "outlet": "The Straits Times",
+   "url": "https://www.straitstimes.com/world/middle-east/loud-booms-heard-near-saudi-aramco-headquarters-in-dhahran-sources-say",
    "region": "overseas",
    "category": null,
-   "score": 12,
+   "score": 11,
    "tier": "interest",
-   "pubDate": "2026-10-12T21:39:00.015Z",
+   "pubDate": "2026-10-13T21:49:25.864Z",
    "body": null,
-   "summary": "イギリスのアンディ・バーナム首相は、EUとの既存の関係は十分ではないとして、来月のブリュッセルでのサミットを緊密な関係への第一歩と位置づけ、将来のヨーロッパにおけるイギリスの立場について深刻な対話を行うと約束した。",
+   "summary": "サウジアラビアの国営石油会社サウジアラムコの本社ビルに弾道ミサイルが着弾しました。ロイター通信などが社内関係者の話として伝えました。東部ダハランにある複合施設内のオフィスビル上層階が被災し、火災が発生したとされています。イエメンの反政府勢力フーシ派による攻撃とみられます。サウジ主導の連合軍は迎撃したミサイルの破片が住宅街に落下したと発表しましたが、アラムコ側は公式な声明を出していません。",
    "sources": [
     {
-     "outlet": "The Guardian",
-     "url": "https://www.theguardian.com/politics/2026/oct/12/andy-burnham-britain-eu-brexit-reset",
-     "date": "2026-10-13",
+     "outlet": "The Straits Times",
+     "url": "https://www.straitstimes.com/world/middle-east/loud-booms-heard-near-saudi-aramco-headquarters-in-dhahran-sources-say",
+     "date": "2026-10-14",
      "access": "body",
      "via": null,
-     "note": "Andy Burnham promises ‘serious dialogue’ over UK’s relationship with EU"
+     "note": "Missile hits headquarters of Saudi Aramco, source says, as Houthi conflict escalates"
     },
     {
-     "outlet": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/12/uk-pm-andy-burnham-vows-to-renegotiate-post-brexit-trade-deal-with-eu?traffic_source=rss",
-     "date": "2026-10-13",
-     "access": "body",
-     "via": null,
-     "note": "UK PM Andy Burnham vows to renegotiate post-Brexit trade deal with EU"
-    },
-    {
-     "outlet": "Euronews",
-     "url": "https://www.euronews.com/2026/10/12/uk-pm-burnham-says-status-quo-with-brussels-not-good-enough-as-he-details-upcoming-eu-summ",
-     "date": "2026-10-13",
+     "outlet": "Reuters",
+     "url": null,
+     "date": "2026-10-14",
      "access": "excerpt",
-     "via": null,
-     "note": "UK PM Burnham says 'status quo' with Brussels 'not good enough' as he details upcoming EU summit"
+     "via": "Google ニュース",
+     "note": "Loud booms heard near Saudi Aramco headquarters in Dhahran, sources say - Reuters"
+    },
+    {
+     "outlet": "Bloomberg",
+     "url": null,
+     "date": "2026-10-14",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Aramco Headquarters Hit During Houthi Attacks on Saudi Arabia - Bloomberg.com"
     },
     {
      "outlet": "Financial Times",
      "url": null,
-     "date": "2026-10-13",
+     "date": "2026-10-14",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "Burnham’s Brussels reset hit by EU demands on university fees - Financial Times"
+     "note": "Saudi Aramco HQ attacked in suspected Houthi strike - Financial Times"
     }
    ],
    "continuity": null,
@@ -775,7 +1026,113 @@
    },
    "bodyAvailable": true,
    "discussionUrl": null,
-   "summarizedBy": "gemini-3.5-flash-lite"
+   "summarizedBy": "gemini-3.8-flash"
+  },
+  {
+   "id": "intl-brief-2026-10-14-s-20261014-18",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "gap",
+   "headline": "ウクライナのEU加盟交渉が前進、ハンガリーが拒否権撤回",
+   "originalTitle": "EU advances Ukraine accession as Hungary lifts veto, paving way for Zelenskyy-Magyar meeting",
+   "outlet": "Euronews",
+   "url": "https://www.euronews.com/2026/10/13/eu-advances-ukraine-accession-as-hungary-lifts-veto-paving-way-for-zelenskyy-magyar-meetin",
+   "region": "overseas",
+   "category": null,
+   "score": 8,
+   "tier": "interest",
+   "pubDate": "2026-10-13T21:49:25.864Z",
+   "body": null,
+   "summary": "欧州連合（EU）加盟国は、ウクライナとの加盟交渉において新たに2つの政策分野を開くことで合意しました。これまで拒否権を行使していたハンガリーが反対を取り下げたためです。ウクライナ議会が少数民族の言語教育の権利を拡大する法案を可決したことを受け、ハンガリー側が合意に応じました。これにより全6分野のうち4分野の交渉が開始されることになります。首脳同士の会談に向けた地ならしとも報じられています。",
+   "sources": [
+    {
+     "outlet": "Euronews",
+     "url": "https://www.euronews.com/2026/10/13/eu-advances-ukraine-accession-as-hungary-lifts-veto-paving-way-for-zelenskyy-magyar-meetin",
+     "date": "2026-10-14",
+     "access": "body",
+     "via": null,
+     "note": "EU advances Ukraine accession as Hungary lifts veto, paving way for Zelenskyy-Magyar meeting"
+    },
+    {
+     "outlet": "The Straits Times",
+     "url": "https://www.straitstimes.com/world/europe/ukraine-takes-step-forward-in-eu-membership-talks-after-hungary-drops-objections",
+     "date": "2026-10-14",
+     "access": "body",
+     "via": null,
+     "note": "Ukraine takes step forward in EU membership talks after Hungary drops objections"
+    },
+    {
+     "outlet": "Reuters",
+     "url": null,
+     "date": "2026-10-14",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Ukraine takes step forward in EU membership talks after Hungary drops objections - Reuters"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "3/18",
+    "jp": "0/6",
+    "worldTotal": 18,
+    "jpTotal": 6
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "gemini-3.8-flash"
+  },
+  {
+   "id": "intl-brief-2026-10-14-s-20261014-11",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "gap",
+   "headline": "科学者や新興企業、AIの自己複製やサイバーリスクに警告",
+   "originalTitle": "Scientists urge tighter AI controls to prevent global cyber risks",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/economy/2026/10/13/scientists-urge-tighter-ai-controls-to-prevent-global-cyber-risks?traffic_source=rss",
+   "region": "overseas",
+   "category": null,
+   "score": 8,
+   "tier": "interest",
+   "pubDate": "2026-10-13T21:49:25.864Z",
+   "body": null,
+   "summary": "世界32カ国の科学者300人以上が、AIの安全管理強化を求める共同書簡を発表しました。サイバー攻撃への悪用や重要インフラへの損害を防ぐため、インターネットから隔離した環境での開発などを求めています。一方、AI新興企業のアンソロピックも、自律的に自己複製して家電やテレビに拡散するマルウェアをAIが数カ月以内に生み出す恐れがあると警告しました。制御不能になるリスクへの懸念が強まっています。",
+   "sources": [
+    {
+     "outlet": "Al Jazeera",
+     "url": "https://www.aljazeera.com/economy/2026/10/13/scientists-urge-tighter-ai-controls-to-prevent-global-cyber-risks?traffic_source=rss",
+     "date": "2026-10-14",
+     "access": "body",
+     "via": null,
+     "note": "Scientists urge tighter AI controls to prevent global cyber risks"
+    },
+    {
+     "outlet": "Euronews",
+     "url": "https://www.euronews.com/2026/10/13/anthropic-warns-ai-will-soon-self-replicate-and-spread-beyond-data-centres",
+     "date": "2026-10-14",
+     "access": "body",
+     "via": null,
+     "note": "Anthropic warns AI will soon self-replicate and spread beyond data centres"
+    },
+    {
+     "outlet": "Financial Times",
+     "url": null,
+     "date": "2026-10-14",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Anthropic warns rogue AI agents may ‘self-replicate’ to hijack everyday devices - Financial Times"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "3/18",
+    "jp": "0/6",
+    "worldTotal": 18,
+    "jpTotal": 6
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "gemini-3.8-flash"
   }
  ]
 }
