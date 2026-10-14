@@ -1,6 +1,6 @@
 {
- "date": "2026-10-14",
- "generatedAt": "2026-10-13T21:49:25.864Z",
+ "date": "2026-10-15",
+ "generatedAt": "2026-10-14T21:51:52.067Z",
  "measured": {
   "world": 18,
   "jp": 6
@@ -8,89 +8,59 @@
  "unreachable": [],
  "ranking": [
   {
-   "id": "s-20261014-01",
-   "title": "ローマ教皇の肺がん手術が成功",
-   "firstSeen": "2026-10-14",
+   "id": "s-20261015-04",
+   "title": "ローマ教皇の肺がん手術が無事成功",
+   "firstSeen": "2026-10-15",
    "daysSeen": 1,
    "history": {
-    "2026-10-14": 37
+    "2026-10-15": 28
    },
-   "peak": 37,
-   "worldScore": 37,
-   "worldCoverage": "11/18",
-   "jpScore": 15,
-   "jpCoverage": "1/6",
-   "gap": 22,
+   "peak": 28,
+   "worldScore": 28,
+   "worldCoverage": "8/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 28,
    "japan": false,
    "outlets": [
     {
      "id": "bbc",
      "name": "BBC",
      "region": "world",
-     "weight": 1,
-     "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-     "desc": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
-     "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+     "weight": 0.94,
+     "title": "Pope walking and recovering 'as expected' after surgery, doctors say",
+     "desc": "The 71-year-old Pope was diagnosed with lung cancer after the 90-minute procedure on Tuesday.",
+     "url": "https://www.bbc.co.uk/news/articles/cwx28r0zvm6lo?at_medium=RSS&at_campaign=rss",
      "via": null
     },
     {
      "id": "guardian",
      "name": "The Guardian",
      "region": "world",
-     "weight": 0.62,
-     "title": "Pope Leo diagnosed with lung cancer as growth removed during surgery",
-     "desc": "Vatican says pontiff had lower lobe of right lung removed in ‘successful, on schedule and as planned’ operation in Rome Pope Leo has lung cancer, the Vatican said late on Tuesday. Leo, 71, underwent an operation and had the lower lobe of his right lung removed, with tests confirming a diagnosis of lung adenocarcinoma, the Vatican said in a medical bulletin, which followed an earlier statement saying the pope’s operation had concluded “successfully, on schedule and as planned”. Continue reading...",
-     "url": "https://www.theguardian.com/world/2026/oct/13/pope-leo-hospital-operation-growth-lung",
-     "via": null
-    },
-    {
-     "id": "aljazeera",
-     "name": "Al Jazeera",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Pope Leo diagnosed with cancer after surgery to remove part of lung",
-     "desc": "The 71-year-old is recovering in Rome&#039;s Gemelli hospital after surgery to remove a cancerous growth on his lung.",
-     "url": "https://www.aljazeera.com/news/2026/10/13/pope-leo-diagnosed-with-cancer-after-surgery-to-remove-part-of-lung?traffic_source=rss",
+     "weight": 0.45,
+     "title": "Pope Leo’s recovery from lung cancer surgery ‘progressing as planned’",
+     "desc": "Pontiff has begun walking in his hospital room and is eating normally after operation to remove growth, doctors say Pope Leo’s recovery from a lung cancer operation is progressing as planned, his doctors have said, as the pontiff received good wishes from around the world, including from Britain’s King Charles. Leo, who had a cancerous mass removed from his right lung late on Tuesday, began walking in his hospital room after respiratory therapy on Wednesday. He was eating normally, his doctors Luigi Carbone and Stefano Margaritoria said in a statement issued by the Vatican. Continue reading...",
+     "url": "https://www.theguardian.com/world/2026/oct/14/pope-leo-recovery-lung-cancer-surgery-progressing-as-planned",
      "via": null
     },
     {
      "id": "nyt",
      "name": "New York Times",
      "region": "world",
-     "weight": 0.68,
-     "title": "Pope Leo Has Lung Cancer, Vatican Says",
-     "desc": "The surgeons removed the lower lobe of the pope’s right lung after finding a cancerous nodule.",
-     "url": "https://www.nytimes.com/2026/10/13/world/europe/pope-leo-lung-surgery.html",
-     "via": null
-    },
-    {
-     "id": "france24",
-     "name": "France 24",
-     "region": "world",
-     "weight": 0.5,
-     "title": "🔴 Surgery on Pope Leo's cancerous lung nodule went well, Vatican says",
-     "desc": "",
-     "url": "https://www.france24.com/en/europe/20261012-what-we-know-about-pope-leo-xiv-planned-lung-operation-this-week",
-     "via": null
-    },
-    {
-     "id": "scmp",
-     "name": "South China Morning Post",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Pope Leo diagnosed with cancer as doctors remove lobe of lung, Vatican says",
-     "desc": "Pope Leo was diagnosed with a common form of lung cancer after doctors removed a lower lobe of his right lung in surgery on Tuesday, the Vatican said in a medical bulletin. The 71-year-old pontiff has lung adenocarcinoma, with tissue tests conducted during the operation confirming what doctors had suspected from preparatory examinations, the bulletin said. The pope was admitted to Rome’s Gemelli hospital on Tuesday for surgery ‌to remove a growth on his lung that doctors found in a recent health...",
-     "url": "https://www.scmp.com/news/world/europe/article/3370785/pope-leos-lung-surgery-successfully-completed-vatican-says?utm_source=rss_feed",
-     "via": null
-    },
-    {
-     "id": "abc-au",
-     "name": "ABC Australia",
-     "region": "world",
      "weight": 0.8,
-     "title": "Surgery confirms Pope Leo has lung cancer",
-     "desc": "Doctors confirm Pope Leo has cancer during surgery in which they remove the lower lobe of his right lung.",
-     "url": "https://www.abc.net.au/news/2026-10-14/pope-leo-has-lobe-of-lung-removed-as-doctors-find-cancer/107263034",
+     "title": "As Pope Leo Recovers From Surgery, Messages of Support Abound at Rome Hospital",
+     "desc": "The pontiff, 71, is expected to spend about a week in the hospital recovering from surgery that found lung cancer. Messages of support have flooded in from far and wide.",
+     "url": "https://www.nytimes.com/2026/10/14/world/europe/pope-leo-surgery-cancer-hospital-rome.html",
+     "via": null
+    },
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 0.88,
+     "title": "Pope thanks wellwishers for prayers after cancer operation",
+     "desc": "Pope Leo has thanked wellwishers for their prayers after his cancer operation.",
+     "url": "https://news.sky.com/story/pope-thanks-wellwishers-for-prayers-after-cancer-operation-13599253",
      "via": null
     },
     {
@@ -98,9 +68,9 @@
      "name": "CBS News",
      "region": "world",
      "weight": 0.5,
-     "title": "Pope Leo diagnosed with lung cancer after undergoing surgery",
-     "desc": "Tests confirmed a diagnosis of lung cancer for Pope Leo XIV, the Vatican said in a medical update after he underwent surgery.",
-     "url": "https://www.cbsnews.com/news/pope-leo-diagnosed-lung-cancer-surgery/",
+     "title": "Pope&#039;s cancer prognosis may depend on these factors, doctors say",
+     "desc": "Pope Leo XIV was diagnosed with lung cancer after a surgery that removed a nodular lesion from his right lung, the Vatican said.",
+     "url": "https://www.cbsnews.com/news/pope-leo-lung-cancer-prognosis-doctors/",
      "via": null
     },
     {
@@ -108,9 +78,9 @@
      "name": "The Straits Times",
      "region": "world",
      "weight": 0.5,
-     "title": "Pope Leo diagnosed with cancer as doctors remove lobe of lung, Vatican says",
-     "desc": "The Vatican said the 90-minute operation removed a lower lobe of his right lung was successful with no complications.",
-     "url": "https://www.straitstimes.com/world/europe/pope-leo-had-lobe-of-lung-removed-as-doctors-found-cancer-vatican-says",
+     "title": "Pope out of bed, progress ‘normal’, doctors say",
+     "desc": "Part of the Pope’s right lung was removed in an operation at Rome’s Gemelli hospital on Oct 13.",
+     "url": "https://www.straitstimes.com/world/europe/pope-out-of-bed-progress-normal-doctors-say",
      "via": null
     },
     {
@@ -118,9 +88,9 @@
      "name": "Reuters",
      "region": "world",
      "weight": 0.5,
-     "title": "Surgery on Pope Leo's lung nodule went well, Vatican says - Reuters",
-     "desc": "Surgery on Pope Leo's lung nodule went well, Vatican says Reuters",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdTlGMjkxd2NueW5MOE16VnhGb19XUmdKZkdNVFo0c1gzWmdabS1Ob2ljcHRacmU0ZDBXUjdIV0hoSTVZZHU0MG11akZneVBxVC04am1jeGZyRmRBOXN4MHNKRzZzOFNYOFMzcFlsajUyVWZ1WWpGb1lwVTJCY09CRjZ4QjJ6OEw0M0R6NnhaMXFUSzBValRXT01B?oc=5",
+     "title": "Pope Leo back on his feet after shock cancer diagnosis - Reuters",
+     "desc": "Pope Leo back on his feet after shock cancer diagnosis Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZEhjR1JvdVhXeEhEaEZla2JHSkZ5bHFoeWtBTmxpcWgwS3hhMVdCMExHVzdYalFtZFp5VGhYYldPTU5MZWt1QkE3QXNrSU02ZWhkbEtfVE14RW4zZGZwa0VTUmRwUXo5VjRMVlNrc0ZqS1lhcE5QLUlsak9WODRybU5peXp2ei11N2M0M0hBdFdweEdsOU9Xb21TbTJ4T2NRMTh4UkVvSmVxbWM?oc=5",
      "via": "googlenews"
     },
     {
@@ -132,465 +102,30 @@
      "desc": "Pope Leo XIV diagnosed with lung cancer after surgery to remove part of right lung AP News",
      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUVV2ZHJselJuYmhnZ21lbG9LOXo1N0JhRFdKT0U1aVA2blJjRXlzcFFCanQwd2V4Um9FT3A0SGpReXY3ckp0T21RZHVFVDBUWTRXTW9fZXluQ3FDYm55WC1kVDBhalNUa3NBZUNzZXFwZDBkcnJwNnQ2ZU9RbnRJamhqYk5GbWM?oc=5",
      "via": "googlenews"
-    },
-    {
-     "id": "yahoo-world",
-     "name": "Yahoo!ニュース 国際",
-     "region": "jp",
-     "weight": 0.88,
-     "title": "ローマ教皇手術、肺腺がんを確認 右側下部切除に成功(共同通信)",
-     "desc": "【ローマ共同】ローマ教皇庁（バチカン）は13日、イタリア・ローマの病院で同日行われた教皇レオ14世（71）の肺結節の手術が成功したと発表した。執刀医らの報告として、教皇は右肺下部を切除し、組織検査で肺",
-     "url": "https://news.yahoo.co.jp/articles/9d35f78055395cac41195da021da7894ed49f0af?source=rss",
-     "via": null
     }
    ]
   },
   {
-   "id": "s-20261014-06",
-   "title": "駐ギリシャ米大使が辞任、不祥事報道で",
-   "firstSeen": "2026-10-14",
+   "id": "s-20261015-15",
+   "title": "サウジ油田施設や空港への攻撃が相次ぐ",
+   "firstSeen": "2026-10-15",
    "daysSeen": 1,
    "history": {
-    "2026-10-14": 29
-   },
-   "peak": 29,
-   "worldScore": 29,
-   "worldCoverage": "10/18",
-   "jpScore": 0,
-   "jpCoverage": "0/6",
-   "gap": 29,
-   "japan": false,
-   "outlets": [
-    {
-     "id": "bbc",
-     "name": "BBC",
-     "region": "world",
-     "weight": 0.81,
-     "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
-     "desc": "Guilfoyle the allegations of improper conduct are \"false\" and being ambassador was the \"honour of a lifetime\".",
-     "url": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
-     "via": null
-    },
-    {
-     "id": "france24",
-     "name": "France 24",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Trump asks Greece ambassador to resign amid ethics scandal",
-     "desc": "US President Donald Trump's administration has asked his ambassador to Greece Kimberly Guilfoyle to resign, the White House said Tuesday, amid allegations that she sought money from a Trump supporter and accepted lavish hospitality from wealthy Greek businessmen. FRANCE 24's Fraser Jackson reports from Washington.",
-     "url": "https://www.france24.com/en/trump-asks-greece-ambassador-to-resign-amid-ethics-scandal",
-     "via": null
-    },
-    {
-     "id": "euronews",
-     "name": "Euronews",
-     "region": "world",
-     "weight": 0.5,
-     "title": "US ambassador to Greece Kimberly Guilfoyle resigns",
-     "desc": "US President Donald Trump said on Monday that his administration was \"looking at\" firing Guilfoyle and that they were \"not happy\" with the situation.",
-     "url": "https://www.euronews.com/2026/10/13/white-house-asks-ambassador-to-greece-kimberly-guilfoyle-to-resign",
-     "via": null
-    },
-    {
-     "id": "scmp",
-     "name": "South China Morning Post",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Trump ousts Greece envoy Kimberly Guilfoyle amid misconduct scandal",
-     "desc": "US President Donald Trump’s ambassador to Greece, Kimberly Guilfoyle, resigned on Tuesday after allegations of improper conduct but insisted she would “vigorously defend” herself. Trump’s administration said earlier on Tuesday it had asked Guilfoyle to leave her post after she faced severe criticism over allegations she engaged in improper and possibly illegal conduct before and during her tenure in Athens. The announcement, after days of comments and speculation, came in response to a question...",
-     "url": "https://www.scmp.com/news/world/united-states-canada/article/3370779/us-asks-greece-ambassador-kimberly-guilfoyle-resign-over-alleged-misconduct?utm_source=rss_feed",
-     "via": null
-    },
-    {
-     "id": "abc-au",
-     "name": "ABC Australia",
-     "region": "world",
-     "weight": 0.45,
-     "title": "White House asks US envoy in Athens to resign",
-     "desc": "In her first briefing since becoming White House press secretary, Katie Zacharia says the Trump-appointed US ambassador to Greece, Kimberly Guilfoyle, has been asked to resign.",
-     "url": "https://www.abc.net.au/news/2026-10-14/white-house-first-press-briefing-zacharia-guilfoyle/107262814",
-     "via": null
-    },
-    {
-     "id": "straits",
-     "name": "The Straits Times",
-     "region": "world",
-     "weight": 0.5,
-     "title": "White House says US ambassador to Greece Kimberly Guilfoyle has been asked to resign",
-     "desc": "This comes after allegations of unethical conduct.",
-     "url": "https://www.straitstimes.com/world/europe/white-house-says-us-ambassador-to-greece-guilfoyle-asked-to-resign",
-     "via": null
-    },
-    {
-     "id": "reuters",
-     "name": "Reuters",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Trump fires ambassador to Greece Guilfoyle after reports of misconduct - Reuters",
-     "desc": "Trump fires ambassador to Greece Guilfoyle after reports of misconduct Reuters",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeHIwM3RrTXplaUsyc3ZvbUhRaEVvbGNlbzFaeDdiY0tCRkpvRTQ1SlNiRU1fTXFFanljSU91NWZYVldNc19pOHNUMmR6dXZFSmRlLTBkdTctbUxZaVgyR21BT0syQVhsUjhpVTNDaUZWaUxxNHlRdkZCMHdNM2w3SUlFQ2VYVUVSdm5mZDU3QW9xSy1OMU9kTVJlSm9kS2d2R0k5blY4Ym9wTkZacTZEN1VB?oc=5",
-     "via": "googlenews"
-    },
-    {
-     "id": "ap",
-     "name": "Associated Press",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Trump says he is 'looking at' firing US envoy to Greece after mounting reports of improper conduct - AP News",
-     "desc": "Trump says he is 'looking at' firing US envoy to Greece after mounting reports of improper conduct AP News",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRHB3ZXFxQndiZnVzZzZMUHFNMERvWUZGSDY2WVpDa3ZfU1BYcndHUE1HY0xzYmRCbmNqZFFxdy1fTWFXdmZBc3l3Y3BhdC02WGJUUmhhLVB3ZFU3T2NRMG5NazUtMmxObnowQ0VzazJDbHJ1dV9XTWV1TTg1cHpGV1lJNFBhNUo4?oc=5",
-     "via": "googlenews"
-    },
-    {
-     "id": "bloomberg",
-     "name": "Bloomberg",
-     "region": "world",
-     "weight": 0.5,
-     "title": "White House Says Ambassador Guilfoyle Was Asked to Resign - Bloomberg.com",
-     "desc": "White House Says Ambassador Guilfoyle Was Asked to Resign Bloomberg.com",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdDRzNm5XNmZicjRGbHl1UE5JQzdSU2dlVzl3VzE2SklZYXBZZGVqODVRUnI3cXNwYTQxb0tjUzBXTzhKcHVJTWQtWnBXU1NPTVBLRFpPbDRacXJqWmFjN0RUUGxGMWFkVzVqREllblluWkhUSWtMeUxGUVAzSkd2RGZSOUV5VUQ2SGhQZHQwaDMzSHBqbV9KMTBremYtSDhXY09vQTBKU3M3NURfZ0xlVjlDaw?oc=5",
-     "via": "googlenews"
-    },
-    {
-     "id": "ft",
-     "name": "Financial Times",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Donald Trump says he is ‘looking at’ firing envoy to Greece over alleged misconduct - Financial Times",
-     "desc": "Donald Trump says he is ‘looking at’ firing envoy to Greece over alleged misconduct Financial Times",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQmdINWNkbUEtQ3dNdWFaNmxoRk95aW9kT2JkckhJSjFkS3Z3TGVnMEdWNHREWmZjcnVRRTFMSVlPR2pLdVY2ODlZWjBKam5PR0JyVkdnbGtvUF80ZVJzMU96VENFOXJ0VDRUYmg4dGRwQm9COXhlQ3FKdS1XTkJBa2Z5LXQ?oc=5",
-     "via": "googlenews"
-    }
-   ]
-  },
-  {
-   "id": "s-20261014-09",
-   "title": "トランプ氏のロシア製軽油取引に欧州から批判",
-   "firstSeen": "2026-10-14",
-   "daysSeen": 1,
-   "history": {
-    "2026-10-14": 28
-   },
-   "peak": 28,
-   "worldScore": 28,
-   "worldCoverage": "9/18",
-   "jpScore": 0,
-   "jpCoverage": "0/6",
-   "gap": 28,
-   "japan": false,
-   "outlets": [
-    {
-     "id": "bbc",
-     "name": "BBC",
-     "region": "world",
-     "weight": 0.3,
-     "title": "What could Trump's energy ceasefire mean for Ukraine?",
-     "desc": "The BBC's Dan Johnson reports from Kyiv, where Ukrainians face another winter with electricity outages.",
-     "url": "https://www.bbc.co.uk/news/videos/crd9321ygqw8o?at_medium=RSS&at_campaign=rss",
-     "via": null
-    },
-    {
-     "id": "aljazeera",
-     "name": "Al Jazeera",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Why Trump’s ‘energy ceasefire’ upset Europe",
-     "desc": "The US and Europe can’t agree on how to end Russia’s war on Ukraine.",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/why-trumps-energy-ceasefire-upset-europe?traffic_source=rss",
-     "via": null
-    },
-    {
-     "id": "nyt",
-     "name": "New York Times",
-     "region": "world",
-     "weight": 0.82,
-     "title": "U.K. and Europe Recoil From Trump’s Diesel Deal With Putin",
-     "desc": "Shocked by the U.S. agreement with Russia, which Ukraine has called “a gift” to President Putin, officials in Europe have coalesced around a cautious diplomatic message.",
-     "url": "https://www.nytimes.com/2026/10/13/world/europe/trump-putin-diesel-uk-europe-gift.html",
-     "via": null
-    },
-    {
-     "id": "dw",
-     "name": "Deutsche Welle",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Ukraine allies in Poland after Starlink sabotage, Trump diesel deal",
-     "desc": "Germany's Johann Wadephul said hybrid plots like the Starlink fire showed Europe was \"in Russia's crosshairs.\" The UK's Ed Miliband said Trump's Russian diesel deal led to a \"very difficult few days\" diplomatically.",
-     "url": "https://www.dw.com/en/ukraine-allies-in-poland-after-starlink-sabotage-trump-diesel-deal/a-79653869?maca=en-rss-en-world-4025-rdf",
-     "via": null
-    },
-    {
-     "id": "npr",
-     "name": "NPR",
-     "region": "world",
-     "weight": 1,
-     "title": "How will a diesel deal with Russia impact the U.S. market?",
-     "desc": "The price of diesel hit an all-time high in the U.S. in September. Can President Trump's deal for Russia to release more diesel onto the market bring the price down?",
-     "url": "https://www.npr.org/2026/10/13/nx-s1-6000118/how-will-a-diesel-deal-with-russia-impact-the-u-s-market",
-     "via": null
-    },
-    {
-     "id": "reuters",
-     "name": "Reuters",
-     "region": "world",
-     "weight": 0.5,
-     "title": "'Gift to our adversary': More Republicans criticize Trump's Russia diesel deal - Reuters",
-     "desc": "'Gift to our adversary': More Republicans criticize Trump's Russia diesel deal Reuters",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcUViSHdiMmpBMGUwOVNDWXE1bHJqRzRmMUFMT3hUeWlESnVJWHNZeVk0eTIySW1IM3VvTnhqSEFjTHdVOUhGbUptNWJSSk9GcnpSYU0wVjk2QzVuLWxBY25nQnc0cm9DbmJ3c0E2dTJIeC01RXV1QkpXZmlJb3dyWTFlODdPRFNhVEkyZUZOemJMUTZJZjVwRkRRRGpDNGVERTA4LVNXeWFkdlRBRkQ3ZXdweXMzazh4WUNB?oc=5",
-     "via": "googlenews"
-    },
-    {
-     "id": "ap",
-     "name": "Associated Press",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Trump’s diesel deal with Putin draws criticism from a frustrated Congress - AP News",
-     "desc": "Trump’s diesel deal with Putin draws criticism from a frustrated Congress AP News",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdXNrdTM3X09NeWw5SVljZnMtdUo2T09QQTJfZi0yVjliVUgxanhkeUJ4UGtrUWE4MzZYS2puRXJjU3JKNXdyX2pJbW9rRXRpUG9XQnVlYkxEQUJUZmpGbkQ2RW1QS19OOS1nc0lGalpqMFlic0g5SE0ySUt2YUxmaFdkS1FHOXBRczMzbnc1ay0tZTJqandXbUNsZXFDU2xob2UwZlFR?oc=5",
-     "via": "googlenews"
-    },
-    {
-     "id": "bloomberg",
-     "name": "Bloomberg",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Is Trump’s Plan to Import Diesel From Russia Legal? - Bloomberg.com",
-     "desc": "Is Trump’s Plan to Import Diesel From Russia Legal? Bloomberg.com",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRFZkMVBhNFVfU1E1SGd2YWVLT25uNjB0U0dRdWRzU1ZkcFRUVzVIRkJQNGt2WHhNRWhHcEQ5QS1fUVFoaENqVUZleGlMRUVpMW1UZFNjM0tMUUxhUmpCU1RSUURTd1ZWeDVOcklVdXZkZXV6bXFXb09LRHl5ZmhadzdWa1NvMjB4bXVtMTNLN0IwaURpRjk3bXlBYWNyS005NHBmTE0wVE1HaDF6RlkzWlo5dTU?oc=5",
-     "via": "googlenews"
-    },
-    {
-     "id": "ft",
-     "name": "Financial Times",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Trump-Zelenskyy diesel spat reignites Europe’s White House angst - Financial Times",
-     "desc": "Trump-Zelenskyy diesel spat reignites Europe’s White House angst Financial Times",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTzFLN1E0QXN2RWxKdGVXY0xPQVF1Wm1MQUZoY3ZZdjJqTWhqWFJNMGRMU3U0WEp2RWU0NE44dVFtVXhSX0FlYzBMSEZUVENtMzNMRVdmNFVQWmR3dVdYdV8tNDFYdGdYYm00bHp1N3JiUkFGbFBiLW0xcERPa2cxYTB1UTA?oc=5",
-     "via": "googlenews"
-    }
-   ]
-  },
-  {
-   "id": "s-20261014-03",
-   "title": "英MI5長官がロシアやイランなどの脅威警告",
-   "firstSeen": "2026-10-14",
-   "daysSeen": 1,
-   "history": {
-    "2026-10-14": 27
+    "2026-10-15": 27
    },
    "peak": 27,
    "worldScore": 27,
-   "worldCoverage": "8/18",
+   "worldCoverage": "10/18",
    "jpScore": 0,
    "jpCoverage": "0/6",
    "gap": 27,
    "japan": false,
    "outlets": [
     {
-     "id": "bbc",
-     "name": "BBC",
-     "region": "world",
-     "weight": 0.94,
-     "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
-     "desc": "Sir Ken McCallum says operations to tackle terrorism and state threats are now roughly of an \"equal scale\".",
-     "url": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
-     "via": null
-    },
-    {
      "id": "guardian",
      "name": "The Guardian",
      "region": "world",
-     "weight": 0.59,
-     "title": "Far-right and Iran add to mix of terror threats UK faces – not to mention AI",
-     "desc": "Annual update from MI5 chief highlighted a complex cocktail that could have real-life consequences for Britain MI5’s annual threat update covers so much ground it is easy to feel anxious. The terror threat has become more diverse, with far-right anti-migrant threats on the rise; while Iran has now firmly emerged alongside Russia as a country seeking to undertake violent and deadly plots in the UK. “There is no law of physics dictating that rising state threats will be accompanied by diminishing terrorist threats,” MI5’s director general, Ken McCallum, said , although one of his core messages w",
-     "url": "https://www.theguardian.com/uk-news/2026/oct/13/far-right-iran-terror-threat-uk-mi5-annual-update",
-     "via": null
-    },
-    {
-     "id": "nyt",
-     "name": "New York Times",
-     "region": "world",
-     "weight": 0.77,
-     "title": "MI5 Chief Warns of Escalating Hybrid Threats From Iran and Russia on British Soil",
-     "desc": "The head of Britain’s domestic security agency accused Tehran and Moscow of escalating their hybrid campaigns in the U.K., and called Iran-led attacks on Jewish communities “sickening.”",
-     "url": "https://www.nytimes.com/2026/10/13/world/europe/mi5-uk-threat-iran-russia.html",
-     "via": null
-    },
-    {
-     "id": "euronews",
-     "name": "Euronews",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Russia remains 'aggressor number one,' UK's MI5 spy agency chief warns in threat update",
-     "desc": "Ken McCallum said the ramp up in alleged Russian hybrid attacks across Europe had come as Russia's military progress in Ukraine was \"minimal and horrifically costly.\"",
-     "url": "https://www.euronews.com/2026/10/13/russia-remains-aggressor-number-one-uks-mi5-spy-agency-chief-warns-in-threat-update",
-     "via": null
-    },
-    {
-     "id": "scmp",
-     "name": "South China Morning Post",
-     "region": "world",
-     "weight": 0.5,
-     "title": "MI5 chief warns Iran is targeting military sites in UK as hostile state threats surge",
-     "desc": "Iran is trying to hit military sites in the UK and the suspected plot to attack a US-run military airbase in September was “not unique”, the head of Britain’s MI5 spy agency said on Tuesday. Ken McCallum, who leads the UK’s domestic security service, said Tehran was seeking to intensify its attacks in Britain beyond the traditional targets of Iranians opposed to the country’s Islamic authorities. That has included arson and sabotage attacks on Jewish sites that Britain says were carried out by...",
-     "url": "https://www.scmp.com/news/world/europe/article/3370774/mi5-chief-warns-iran-targeting-military-sites-uk-hostile-state-threats-surge?utm_source=rss_feed",
-     "via": null
-    },
-    {
-     "id": "cbs",
-     "name": "CBS News",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Iran focused on attacking \"harder targets,\" U.K. spy chief warns",
-     "desc": "Iran has made a \"major shift\" in its efforts to attack the United Kingdom, including going after harder targets such as military bases, the head of MI5 warned.",
-     "url": "https://www.cbsnews.com/news/iran-harder-targets-military-sites-sabotage-attacks-uk-spy-chief/",
-     "via": null
-    },
-    {
-     "id": "straits",
-     "name": "The Straits Times",
-     "region": "world",
-     "weight": 0.5,
-     "title": "MI5 chief lists Iran, Russia, AI and terrorists among threats to UK",
-     "desc": "LONDON, Oct 13 - MI5 spy chief Ken McCallum delivered his annual speech on Tuesday outlining his view of the threats to Britain, from hostile states such as Iran and Russia to the development of artificial intelligence.",
-     "url": "https://www.straitstimes.com/world/europe/mi5-chief-lists-iran-russia-ai-and-terrorists-among-threats-to-uk",
-     "via": null
-    },
-    {
-     "id": "ap",
-     "name": "Associated Press",
-     "region": "world",
-     "weight": 0.5,
-     "title": "MI5 chief says Iran is targeting military sites and suspected plot at RAF Fairford is 'not unique’ - AP News",
-     "desc": "MI5 chief says Iran is targeting military sites and suspected plot at RAF Fairford is 'not unique’ AP News",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLXpQQVQxZC1PTWJhZGpTeXl3dG9MQ2pDbmF5RkdjVlRXRXhoZmx1Vm9RNXhNa2tYLW9ybWU1SmgwMU81R0YtVEtFQ1lQTlFXWm1wRERKeXUzenR3eUdMYUF3eU9jNjVUYmJNTTBzVmNGQ2cxYXVjbnhEUlBTaW9OcFhQZmIxYmc3ek5xYnZEYjhST2YtU0tpZXVDX0M?oc=5",
-     "via": "googlenews"
-    }
-   ]
-  },
-  {
-   "id": "s-20261005-07",
-   "title": "コーネル大、レイプ疑惑でフラタニティ休止",
-   "firstSeen": "2026-10-05",
-   "daysSeen": 4,
-   "history": {
-    "2026-10-05": 18,
-    "2026-10-07": 16,
-    "2026-10-08": 11,
-    "2026-10-14": 21
-   },
-   "peak": 21,
-   "worldScore": 21,
-   "worldCoverage": "7/18",
-   "jpScore": 0,
-   "jpCoverage": "0/6",
-   "gap": 21,
-   "japan": false,
-   "outlets": [
-    {
-     "id": "bbc",
-     "name": "BBC",
-     "region": "world",
-     "weight": 0.84,
-     "title": "Cornell bans all fraternity parties over gang sex assault allegations",
-     "desc": "The school has faced an uproar over how it handled assault allegations brought by a woman known as Jane Doe.",
-     "url": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss",
-     "via": null
-    },
-    {
-     "id": "aljazeera",
-     "name": "Al Jazeera",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Cornell suspends fraternity parties after alleged campus gang rape case",
-     "desc": "Fraternities face immediate emergency suspensions for violations amid sweeping ban tackling parties at US university.",
-     "url": "https://www.aljazeera.com/news/2026/10/13/cornell-suspends-fraternity-parties-after-alleged-campus-gang-rape-case?traffic_source=rss",
-     "via": null
-    },
-    {
-     "id": "nyt",
-     "name": "New York Times",
-     "region": "world",
-     "weight": 0.36,
-     "title": "Cornell and Toxic Frat Culture",
-     "desc": "A U.S. campus lawsuit points to a global pattern: how male impunity, silence and institutional failure enable sexual violence.",
-     "url": "https://www.nytimes.com/2026/10/12/world/cornell-assault-frat-israel.html",
-     "via": null
-    },
-    {
-     "id": "euronews",
-     "name": "Euronews",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Cornell University suspends frat parties over gang rape allegations",
-     "desc": "Cornell has also appointed former US Deputy Attorney General Sally Yates to conduct a \"comprehensive independent review\" of the university's response to the rape allegations.",
-     "url": "https://www.euronews.com/2026/10/13/cornell-university-suspends-frat-parties-over-gang-rape-allegations",
-     "via": null
-    },
-    {
-     "id": "scmp",
-     "name": "South China Morning Post",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Cornell suspends frat parties after alleged gang rape",
-     "desc": "Cornell University on Tuesday suspended fraternities’ parties and social events for the remaining academic year following outcry over an alleged gang rape at one of the elite college’s all-male clubs. The 2024 incident, as alleged in a graphic lawsuit filed last month, has drawn accusations that the Ivy League institution in New York state failed to properly punish the men involved. The accuser claimed that she was pressured to take ketamine, assaulted and raped by seven members of the Chi Phi...",
-     "url": "https://www.scmp.com/news/world/united-states-canada/article/3370788/cornell-suspends-frat-parties-after-alleged-gang-rape?utm_source=rss_feed",
-     "via": null
-    },
-    {
-     "id": "ap",
-     "name": "Associated Press",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Cornell suspends fraternity parties, gives state police role in investigating campus assault reports - AP News",
-     "desc": "Cornell suspends fraternity parties, gives state police role in investigating campus assault reports AP News",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQN0hlOWdLdXpsRFVLdTZoNXN0NWxfMXlTSHRTRXBJa2xBeERmME5WMUhuWXlTc2RhNThCREt4ZjBmRngzbThSYnR6Q0ZVdEM4eHpMalpHTXo5dWxQN0d1WHFSTHViT1NJZzZNbWV3MjBsYVdhclBSMnZSOHJYUGRBcGVhcXRZYmwyaHM1ekV2NjNIQmlGeHpnNnZUajN4cVV5aC1n?oc=5",
-     "via": "googlenews"
-    },
-    {
-     "id": "bloomberg",
-     "name": "Bloomberg",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Cornell Suspends Frat Parties After Sexual Assault Case - Bloomberg.com",
-     "desc": "Cornell Suspends Frat Parties After Sexual Assault Case Bloomberg.com",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOHUzY3hJcXR1cUZBVzhPd3pQLVd1LU9uN2Y1elJXVm16VlBZUGdIcEpzcjZHM1FvUE1tSk1BcDVReWdFSjh0eXRveUJPNURVblNhNlFxUWwwelQ1NDZwMnRQbFFzeld6SEw3MGVBOEZlc2VrdjFRcUlkTDRncDdyd1RmeHRoVjg2RUdDZEY1YVc1aFdmUGlXMFVpc1JIZl9NSnYzUU9qeWlISmdFYWhn?oc=5",
-     "via": "googlenews"
-    }
-   ]
-  },
-  {
-   "id": "s-20261014-04",
-   "title": "サウジがイエメンのフーシ派拠点等へ攻撃",
-   "firstSeen": "2026-10-14",
-   "daysSeen": 1,
-   "history": {
-    "2026-10-14": 18
-   },
-   "peak": 18,
-   "worldScore": 18,
-   "worldCoverage": "5/18",
-   "jpScore": 0,
-   "jpCoverage": "0/6",
-   "gap": 18,
-   "japan": false,
-   "outlets": [
-    {
-     "id": "bbc",
-     "name": "BBC",
-     "region": "world",
-     "weight": 0.9,
-     "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-     "desc": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa.",
-     "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
-     "via": null
-    },
-    {
-     "id": "guardian",
-     "name": "The Guardian",
-     "region": "world",
-     "weight": 0.5,
+     "weight": 0.3,
      "title": "Saudi Arabia strikes oil depots in Yemen and says missiles launched toward location of Saudi Aramco HQ",
      "desc": "Civilians warned to leave target area near Sana’a before attacks as conflict between Riyadh and Houthi forces escalates Saudi Arabia has launched a series of strikes on a strategic oil depot on the outskirts of Yemen’s capital, Sana’a, while later on Tuesday it said it had intercepted missiles launched toward Dharan, location of the headquarters of the huge national energy company Saudi Aramco. The attacks on both sides were a fresh escalation of the conflict between Riyadh and the Iran-backed Houthi forces. Before its offensive on Tuesday, a Saudi spokesperson warned civilians to leave the ta",
      "url": "https://www.theguardian.com/world/2026/oct/13/saudi-arabia-strikes-strategic-oil-depots-near-yemen-capital",
@@ -601,19 +136,49 @@
      "name": "New York Times",
      "region": "world",
      "weight": 0.91,
-     "title": "Houthis Threaten Fierce Retaliation After Saudi Arabia Strikes Yemen",
-     "desc": "The Iran-backed militia warned it would attack the Saudi energy giant Aramco. The Saudi-led coalition said it was targeting Houthi capabilities.",
-     "url": "https://www.nytimes.com/2026/10/13/world/middleeast/saudi-arabia-yemen-houthis-aramco-threat.html",
+     "title": "‘Why Did They Kill Him?’ Mourning Victims of Houthi Attack on a Saudi Airport",
+     "desc": "The strike was the Iran-backed militia’s most lethal against Saudi Arabia, by far, during their long conflict.",
+     "url": "https://www.nytimes.com/2026/10/14/world/middleeast/houthi-airport-attack-victims-saudi-arabia.html",
      "via": null
     },
     {
-     "id": "dw",
-     "name": "Deutsche Welle",
+     "id": "france24",
+     "name": "France 24",
      "region": "world",
      "weight": 0.5,
-     "title": "Saudi Arabia's military struggle against Houthi attacks",
-     "desc": "Houthi attacks on airports and energy facilities are putting Saudi Arabia under pressure. Could a Saudi-led international military offensive succeed against the Iran-aligned Houthi militia in Yemen?",
-     "url": "https://www.dw.com/en/saudi-arabia-s-military-struggle-against-houthi-attacks/a-79650857?maca=en-rss-en-world-4025-rdf",
+     "title": "Houthis threaten escalation after strike on Saudi oil giant Aramco",
+     "desc": "Yemen's Houthi rebels said Wednesday they had targeted facilities belonging to Saudi oil giant Aramco after officials in Riyadh reported a strike on a building in an area housing the energy giant's headquarters. The Iran-back militia also claimed missile strikes on the capital Riyadh and vowed to continue attacking Saudi airports and oil facilities.",
+     "url": "https://www.france24.com/en/middle-east/20261014-yemen-houthis-vow-continue-saudi-attacks-oil-giant-aramco-headquarters-hit",
+     "via": null
+    },
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 0.42,
+     "title": "More explosions heard in Saudi Arabia as pressure mounts on US to respond",
+     "desc": "More explosions have been heard in the Saudi capital, with suspicions once again falling on the Houthi rebels from Yemen.",
+     "url": "https://news.sky.com/story/more-explosions-heard-in-saudi-arabia-as-pressure-mounts-on-us-to-respond-13599168",
+     "via": null
+    },
+    {
+     "id": "abc-au",
+     "name": "ABC Australia",
+     "region": "world",
+     "weight": 0.3,
+     "title": "As the Houthis escalate attacks, Saudi Arabia faces a 'huge problem'",
+     "desc": "The Houthis are trying to increase their leverage against Saudi Arabia while the kingdom is reportedly finding it harder to defend against attacks. It presents a \"huge problem\" in the conflict.",
+     "url": "https://www.abc.net.au/news/2026-10-15/houthi-saudi-arabia-conflict-and-problem-for-us-iran-war/107263724",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Houthis launch new attack on Saudi capital as Trump mulls strikes",
+     "desc": "Iran&#039;s Houthi allies launch a new attack on Saudi Arabia and promise more to come as Trump considers U.S. action on the new front line in the wider Mideast war.",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-us-houthi-saudi-arabia-trump/",
      "via": null
     },
     {
@@ -621,20 +186,236 @@
      "name": "The Straits Times",
      "region": "world",
      "weight": 0.5,
-     "title": "Saudi Arabia strikes Yemen capital as Houthis vow to retaliate",
-     "desc": "The Saudi-led coalition has targeted a major fuel depot and other sites near Sanaa.",
-     "url": "https://www.straitstimes.com/world/middle-east/saudi-arabia-strikes-yemen-capital-as-houthis-vow-to-retaliate",
+     "title": "Pilgrims caught up in Houthi strikes on Saudi Arabia",
+     "desc": "Recent attacks targeting airports have forced some to change their plans to visit Islam’s holiest sites.",
+     "url": "https://www.straitstimes.com/world/middle-east/pilgrims-caught-up-in-houthi-strikes-on-saudi-arabia",
      "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Saudi Aramco headquarters suffered extensive damage in Houthi attack, sources say - Reuters",
+     "desc": "Saudi Aramco headquarters suffered extensive damage in Houthi attack, sources say Reuters",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTEY0UDJsbGo1MXFVX1FoY1RIdkFLeW96R3hMOEkwQTNRTFpLby1wZEFGRy10SThxSkhSaXZKQ1psYmdiQVZQd19uaDFtZFBZa1pJZzZCT0dsd0lSdmV1UWV0dExiRmU2Y2lVUS1SaWs1UzNkZ25lUnRJaklfWnlOeEFVQTg2dDVQTWF4UWp1aTcyR2JsUWN5d0JzSWRqMlp1ZDY3OXpncUZDN2FuVk9tN0VuaGtIMVpXM1F4RU5QX00xek9q?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Iran-backed Houthis strike Saudi oil company Aramco’s headquarters, officials say - AP News",
+     "desc": "Iran-backed Houthis strike Saudi oil company Aramco’s headquarters, officials say AP News",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ1ZldXo2RjBfTlF2NHFDZDQ3NnJnejktNnl3NVJVcnFVM1FjQ3FQN0x5SjFpZDRBeXplS0lTN2tUdWVZVWVKZm5LaUxkMVFQcmFRX1RRbFJIMm1zOTZDU3l2elZkb0twUkFnU3ZYM1pHYmRhYXRlVlluMHJkcWZITXRSQmMzNnF5d3dBcGl4a043MWkxUlZ5RmNqQ1l3UUxTbGRKOVdHSHhIQlRLZjlv?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Houthis attack Saudi Aramco headquarters - Financial Times",
+     "desc": "Houthis attack Saudi Aramco headquarters Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWlJvcU95eUR0QzVMRjJzX25MNl9HWm8tNU5HNUx1R3EtOVI5U0NvRjhEdTZ2VzJtc2FPQUwzVmU3dWY2ck9ZSjhFUXd0OVRmazY1SGpWMWgtZjk0MnhlRFotQmZrMzhGY3RWUnVTVlJfOHBRVHJwNThrbDl3T0tXTnVSbXg?oc=5",
+     "via": "googlenews"
     }
    ]
   },
   {
-   "id": "s-20261014-05",
-   "title": "ツパックマンサール殺害で元ギャングボスに実刑",
-   "firstSeen": "2026-10-14",
+   "id": "s-20261015-02",
+   "title": "ウクライナのスターリンク利用制限巡り議論",
+   "firstSeen": "2026-10-15",
    "daysSeen": 1,
    "history": {
-    "2026-10-14": 18
+    "2026-10-15": 25
+   },
+   "peak": 25,
+   "worldScore": 25,
+   "worldCoverage": "8/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 25,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 1,
+     "title": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
+     "desc": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
+     "url": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.53,
+     "title": "In Ukraine, civilian casualties were already rising. Restrictions on Starlink will only worsen the death toll",
+     "desc": "Throttling of mobile internet system will affect Kyiv’s air defences more than its strikes on oil refineries. Now Zelenskyy must be hoping that US intel holds In Ukraine the situation was already jittery enough. Donald Trump has been inventing ceasefires and buying Russian diesel to shore up his flagging popularity, while a sinister new wave of faster, jet-powered drones are breaking through Kyiv’s stretched air defences. Casualties are rising as the weather turns. Overnight, Russia bombed three power plants that supply Kyiv, aiming to cut off heating and electricity to the city. According to ",
+     "url": "https://www.theguardian.com/world/2026/oct/14/ukraine-starlink-civilian-casualties-death-toll",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "What is Starshield, SpaceX's military version of Starlink?",
+     "desc": "Elon Musk’s ⁠SpaceX restricted “military-grade” ​Starlink services overnight into Wednesday, hampering Ukrainian drone strike missions and air defenses, Ukraine reported. In response, Musk said that the US government was behind any slowdown in Ukraine's Starshield system.",
+     "url": "https://www.france24.com/en/europe/20261014-what-is-starshield-spacex-s-military-version-of-starlink",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Musk suggests US government behind any slowdown in Ukraine’s Starshield",
+     "desc": "SpaceX boss Elon Musk said on Wednesday that any disruptions reported by Ukraine in using the Starshield satellite communications system would be the responsibility of the US government, not his company. “Starshield systems are owned and controlled by the US government. Any limits on speed or usage are decided by the US military and ultimately POTUS,” Musk said, referring to US President Donald Trump. Musk drew a distinction between the Starshield system, which Ukraine relies on for battlefield...",
+     "url": "https://www.scmp.com/news/world/russia-central-asia/article/3370923/musk-suggests-us-government-behind-any-slowdown-ukraines-starshield?utm_source=rss_feed",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "As Ukraine struggles with Starlink and US satellite data, Europe has no quick fix",
+     "desc": "It underscores how heavily Ukraine and Europe depend on the US for satellite communication and early-warning systems.",
+     "url": "https://www.straitstimes.com/world/europe/as-ukraine-struggles-with-starlink-and-us-satellite-data-europe-has-no-quick-fix",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Ukraine says SpaceX limits Starlink operations, disrupting military - Reuters",
+     "desc": "Ukraine says SpaceX limits Starlink operations, disrupting military Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV2VEUDcwZ1kydUhNRmMzSjVVTEdoLUNlS3FVUjctT1JONXNOZjJzS2wwZ21kOVJwakRkbmU4Mnc0THVxMDAwejAyak90aDNWd0N5SElDRF9sbXVUVk54RGUwUko3Z1FlR0RVQlJFTG5LWVdhY2wtdEtmaFp3WEtzZDZoMTNNYnY5WEhyUXczamlWYVNHMzVTczVST2twUkZGMVI3UGZJODdCSGlfZEZzek94bjROQUc0ZnAw?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Poland Grills Musk About New Starlink Restrictions in Ukraine - Bloomberg.com",
+     "desc": "Poland Grills Musk About New Starlink Restrictions in Ukraine Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcHlXUDFRdFhSaGhwQjQxdVRoaExIdk9PSTVmazFyalA0RTlzMk9yamNEOG9JR2dFeTBZUTRweFZFYVc0WFVzYUhLcUlTN1hoR0Y0Mi1ReVcxalEwMHpfTnlvMHREWVR3V0NnWnRmNDliUVVzUkVGNkhOWThDTFU4eVpnaHM0a2NHSUVDSHVBWDIzbS1KRWoxMngydC1pY1Iwd2pPc1hSTnRVWEx2WDNLejJn?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Ukraine blindsided by Starlink restrictions and intelligence gaps - Financial Times",
+     "desc": "Ukraine blindsided by Starlink restrictions and intelligence gaps Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcDdKa20zckpqcnB3WVVNRXFtRkExNDU4MkM2WjNIVWd3MEIzbW8tWmpBX1ZsNktBMXV1Ny1GN0ZKRHRaY1JNVmdrLXZnRzJZM0lqdW1ZZERvelFydm51dDE2WFdEcHE5ME10QlZxeENGQ1lrQ1lLTzRmYVIzLXNfbnZHZ3A?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261015-06",
+   "title": "ドイツでノルドストリーム爆破事件の裁判開始",
+   "firstSeen": "2026-10-15",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-15": 24
+   },
+   "peak": 24,
+   "worldScore": 24,
+   "worldCoverage": "7/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 24,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.88,
+     "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+     "desc": "Four years after the attacks, Serhii Kuznetsov appears in court accused of a plot to destroy Russia's gas pipelines to Germany.",
+     "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Nord Stream may have been lawful target, argue lawyers for Ukrainian accused of bombing",
+     "desc": "Lawyers for a Ukrainian ex-military officer accused of leading the bombing of Russia's Nord Stream ​pipeline in September 2022 argued at the start of his trial in Germany on Wednesday that \"an aggressor's infrastructure\" may have been a lawful target. FRANCE 24's Juliette Brown reports.",
+     "url": "https://www.france24.com/en/nord-stream-may-have-been-lawful-target-argue-lawyers-for-ukrainian-accused-of-bombing",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Germany: Supporters rally in Hamburg as trial opens over Nord Stream pipeline blasts",
+     "desc": "Supporters waving Ukrainian flags gathered outside a court in Hamburg on Wednesday, 14 October, in solidarity with a former Ukrainian army officer accused of involvement in the 2022 Nord Stream pipeline explosions in the Baltic Sea.",
+     "url": "https://www.euronews.com/video/2026/10/14/germany-supporters-rally-in-hamburg-as-trial-opens-over-nord-stream-pipeline-blasts",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Nord Stream trial: Russia used pipelines as ‘weapon’, defence says",
+     "desc": "A lawyer for a Ukrainian accused of blowing up the Nord Stream pipelines supplying Russian gas to western Europe said on Wednesday that Moscow used the network to exert political and economic pressure, as the former military officer’s trial opened in Germany. Sergiy Kuznietsov is the first person to go on trial over the 2022 sabotage. The 50-year-old is accused of leading a Ukrainian team of divers and an explosives expert to bomb Nord Stream, seven months after Russia’s full-scale invasion of...",
+     "url": "https://www.scmp.com/news/world/russia-central-asia/article/3370911/ukrainian-accused-nord-stream-pipeline-sabotage-goes-trial-germany?utm_source=rss_feed",
+     "via": null
+    },
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 1,
+     "title": "Ukrainian on trial in Germany over gas pipeline bombing",
+     "desc": "The trial has begun of a Ukrainian man accused of leading an elaborate plot to blow up an undersea pipeline carrying Russian gas to Germany.",
+     "url": "https://news.sky.com/story/ukrainian-on-trial-in-germany-over-war-crime-bombing-of-nord-stream-pipeline-13599215",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Nord Stream may have been lawful target, argue lawyers for Ukrainian accused of bombing - Reuters",
+     "desc": "Nord Stream may have been lawful target, argue lawyers for Ukrainian accused of bombing Reuters",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV2VKNWlkZ1ZWc21IbllNVEJFeThoRThXLVQ3WWF0OW9lOXgxRGZzc0FwYXBDVVhmTnhlOVEzRnRVZ0ZuOFFJbUkwdm5BV0lqX0l0eFU5bVpxN1NBZ01GU3NjcVR4cENRRFRmWklIOXNfOWJEMGRCTDBrTlAtVHdKejV5RUxZWm14R1M0OW1WTk9lSGpJNTlFVkFXM01PQ0hxMnowRlFRTjBvZTlm?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Ukrainian ex-army officer’s lawyers seek dismissal as Nord Stream pipeline blast trial opens - AP News",
+     "desc": "Ukrainian ex-army officer’s lawyers seek dismissal as Nord Stream pipeline blast trial opens AP News",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRFd4alBxQTNPSWhQYTktTjNnTk85eHczNVZWSzZaakZNM3JVaUtETVB3dERtckVlYWJzOE1yRDdEX1VDSllUbHFVTURiQzNpS2dUMlVRZlFwU0hJamdIbXhYWjNpWldmNDBzSjd0cnVVUTFreFllQ01DNUlJMjVTeXJDUGozUkRhd1pkMERkNGR4cHR0T1g1bUhwTms3ekplbEhDZHdPVkRqRkEtNlVVSkZfbkVRQllHd1E?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261015-25",
+   "title": "トランプ氏のグリーンランド領有・開発発言",
+   "firstSeen": "2026-10-15",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-15": 18
    },
    "peak": 18,
    "worldScore": 18,
@@ -645,653 +426,23 @@
    "japan": false,
    "outlets": [
     {
-     "id": "bbc",
-     "name": "BBC",
-     "region": "world",
-     "weight": 0.87,
-     "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
-     "desc": "Davis was found guilty last month over his role in the late rap superstar's death in a drive-by shooting in 1996.",
-     "url": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
-     "via": null
-    },
-    {
-     "id": "aljazeera",
-     "name": "Al Jazeera",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Tupac Shakur killer sentenced to 40 years in prison",
-     "desc": "Duane ‘Keffe D’ Davis was sentenced to 40 years to life in prison over the 1996 murder of rap icon Tupac Shakur.",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/tupac-shakur-killer-sentenced-to-40-years-in-prison?traffic_source=rss",
-     "via": null
-    },
-    {
-     "id": "france24",
-     "name": "France 24",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Former gang leader sentenced to minimum 40 years for Tupac killing",
-     "desc": "Duane Davis, the former Los Angeles gang leader who boasted in books and interviews of his involvement in the killing of rapper Tupac Shakur, only to deny it when he came to trial, was sentenced to a minimum 40 years in prison on Tuesday. FRANCE 24's Wassim Cornet reports from Los Angeles.",
-     "url": "https://www.france24.com/en/former-gang-leader-sentenced-to-minimum-40-years-for-tupac-killing",
-     "via": null
-    },
-    {
      "id": "scmp",
      "name": "South China Morning Post",
      "region": "world",
      "weight": 0.5,
-     "title": "Tupac Shakur murder: ex-gang leader sentenced to 40 years to life in prison",
-     "desc": "A former gang leader was sentenced to 40 years to life in prison on Tuesday for orchestrating the 1996 drive-by shooting death of hip-hop star Tupac Shakur in Las Vegas, capping the prosecution of a long-unsolved murder that shaped the golden age of rap music. Duane “Keffe D” Davis, 63, found guilty of first-degree murder in August, received the penalty during ‌a hearing in a Las Vegas courtroom. Until Davis’ 2023 arrest, the killing of Shakur, shot dead in the passenger seat of an SUV driven by...",
-     "url": "https://www.scmp.com/news/world/united-states-canada/article/3370784/tupac-shakur-murder-ex-gang-leader-sentenced-40-years-life-prison?utm_source=rss_feed",
-     "via": null
-    },
-    {
-     "id": "abc-au",
-     "name": "ABC Australia",
-     "region": "world",
-     "weight": 0.42,
-     "title": "Former gang leader Duane Davis sentenced over Tupac murder",
-     "desc": "Duane Davis, the former Los Angeles gang leader who boasted of his involvement in the killing of rapper Tupac Shakur, has been sentenced to a minimum of 40 years in prison.",
-     "url": "https://www.abc.net.au/news/2026-10-14/duane-davis-sentenced-to-minimum-40-years-for-tupac-killing/107262994",
-     "via": null
-    },
-    {
-     "id": "ap",
-     "name": "Associated Press",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Duane ‘Keffe D’ Davis gets 40 years to life in prison for orchestrating the murder of Tupac Shakur - AP News",
-     "desc": "Duane ‘Keffe D’ Davis gets 40 years to life in prison for orchestrating the murder of Tupac Shakur AP News",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVklEcW96WUVrS201dmkzNjV5NDFFWlpoOFl5bU9zSEg5SFd6Ylp4M2RXSFAwTC0xdHRnbGE0TnE4OThsSkhIaVBBYnB0RnYwblNQV2FyNzFCdWFUXzFGWS1JaVVaUXNKQVRPZnNjV0NjaDBORkVLVHdzQ1BGNnQ5OHhnNU1vNF9BcXRwS05qcVNNSGMxSmVRQW9ucw?oc=5",
-     "via": "googlenews"
-    }
-   ]
-  },
-  {
-   "id": "s-20261014-12",
-   "title": "ロシアが日本人ジャーナリストをスパイ容疑で拘束",
-   "firstSeen": "2026-10-14",
-   "daysSeen": 1,
-   "history": {
-    "2026-10-14": 15
-   },
-   "peak": 15,
-   "worldScore": 15,
-   "worldCoverage": "4/18",
-   "jpScore": 44,
-   "jpCoverage": "4/6",
-   "gap": -29,
-   "japan": true,
-   "outlets": [
-    {
-     "id": "aljazeera",
-     "name": "Al Jazeera",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Russia arrests Japanese reporter for alleged espionage",
-     "desc": "Suspect was arrested on Russia&#039;s far-eastern Sakhalin Island before being transferred to Moscow, says Russia&#039;s FSB.",
-     "url": "https://www.aljazeera.com/news/2026/10/13/russia-arrests-japanese-reporter-for-alleged?traffic_source=rss",
-     "via": null
-    },
-    {
-     "id": "nyt",
-     "name": "New York Times",
-     "region": "world",
-     "weight": 0.88,
-     "title": "Russia Detains Japanese Journalist for Alleged Espionage",
-     "desc": "The main security service said it had detained a reporter for the Hokkaido Shimbun newspaper in Russia’s far east, where he had been reporting on military recruitment.",
-     "url": "https://www.nytimes.com/2026/10/13/world/europe/russia-detains-japanese-journalist.html",
+     "title": "Trump says ‘massive’ oil, gas and mineral exploration to begin in Greenland",
+     "desc": "US President Donald Trump said “massive” oil, gas and mineral exploration is set to begin in “our new and beautiful Greenland” early on Wednesday. It was not immediately clear what exploration or developments the US president was referring to in his post, and Greenland is a self-governing territory of Denmark, rather than a part of the United States. Trump posted on social media following a campaign event on Tuesday in Wasilla, Alaska, to stump for Republican US Senator Dan Sullivan as he seeks...",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3370906/trump-says-massive-oil-gas-and-mineral-exploration-begin-greenland?utm_source=rss_feed",
      "via": null
     },
     {
      "id": "sky",
      "name": "Sky News",
-     "region": "world",
-     "weight": 0.9,
-     "title": "Japanese journalist arrested in Russia on suspicion of spying",
-     "desc": "A Japanese journalist has been arrested in Russia and accused of gathering information on its defence capabilities, news agencies report.",
-     "url": "https://news.sky.com/story/japanese-journalist-arrested-in-russia-on-suspicion-of-spying-13598988",
-     "via": null
-    },
-    {
-     "id": "straits",
-     "name": "The Straits Times",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Russia detains Japanese journalist on suspicion of spying",
-     "desc": "Russia accused the reporter for Hokkaido Shimbun of spying on its defensive capabilities for Japanese intelligence.",
-     "url": "https://www.straitstimes.com/world/europe/russia-detains-japanese-journalist-on-suspicion-of-spying",
-     "via": null
-    },
-    {
-     "id": "mainichi",
-     "name": "毎日新聞",
-     "region": "jp",
-     "weight": 0.5,
-     "title": "ロシア当局、北海道新聞サハリン特派員を「スパイ容疑」で拘束",
-     "desc": "",
-     "url": "https://mainichi.jp/articles/20261014/k00/00m/030/001000c",
-     "via": null
-    },
-    {
-     "id": "jiji",
-     "name": "時事通信",
-     "region": "jp",
-     "weight": 0.5,
-     "title": "道新特派員をスパイ容疑で拘束 ロシア極東サハリン州",
-     "desc": "",
-     "url": "https://www.jiji.com/jc/article?k=2026101400001&g=int&m=rss",
-     "via": null
-    },
-    {
-     "id": "yahoo-world",
-     "name": "Yahoo!ニュース 国際",
-     "region": "jp",
-     "weight": 0.62,
-     "title": "「日本が記者動員し情報収集」とロ外務省(共同通信)",
-     "desc": "【モスクワ共同】ロシア外務省は13日、北海道新聞記者がスパイ容疑で拘束されたことについて「日本が自国特派員を動員し、ロシアの安全保障を損ねる目的で情報収集のために利用しようとする試みは遺憾だ」とのコメ",
-     "url": "https://news.yahoo.co.jp/articles/9693bc590cb27686ea0425d1de423958b6682d19?source=rss",
-     "via": null
-    },
-    {
-     "id": "yahoo",
-     "name": "Yahoo!ニュース主要",
-     "region": "jp",
-     "weight": 1,
-     "title": "道新記者をサハリンで拘束 露当局",
-     "desc": "",
-     "url": "https://news.yahoo.co.jp/pickup/6598670?source=rss",
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "s-20261014-02",
-   "title": "オープンAIオフィスに盗聴器、職員逮捕",
-   "firstSeen": "2026-10-14",
-   "daysSeen": 1,
-   "history": {
-    "2026-10-14": 14
-   },
-   "peak": 14,
-   "worldScore": 14,
-   "worldCoverage": "4/18",
-   "jpScore": 0,
-   "jpCoverage": "0/6",
-   "gap": 14,
-   "japan": false,
-   "outlets": [
-    {
-     "id": "bbc",
-     "name": "BBC",
-     "region": "world",
-     "weight": 0.97,
-     "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
-     "desc": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
-     "url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
-     "via": null
-    },
-    {
-     "id": "reuters",
-     "name": "Reuters",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Saudi OpenAI engineer arrested by FBI for planting covert recording device, US DOJ says - Reuters",
-     "desc": "Saudi OpenAI engineer arrested by FBI for planting covert recording device, US DOJ says Reuters",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcjkxNVh4Vlg5aXhHdHJySlBhbC1iZVRDTTF1a2hiUk52eUlqUW1aWWtoeUg2TjQ0OWU1aURzNW5aWmZ1TEFBcGl4NTBIQVZSVnNPaFpFUnZqb2RjRzNQS0xLQjRkMmtJZWhuU1RLRXplcktzVnBHMVVhNThISzMxMVFYbXZoeWE2WFc3b2VzMlQ0Sl92Y0kwLXJ0MUxBOTdUNzFxdjR0VTI?oc=5",
-     "via": "googlenews"
-    },
-    {
-     "id": "bloomberg",
-     "name": "Bloomberg",
-     "region": "world",
-     "weight": 0.5,
-     "title": "OpenAI Says Staffer Arrested for Hidden Recording Device in Office - Bloomberg.com",
-     "desc": "OpenAI Says Staffer Arrested for Hidden Recording Device in Office Bloomberg.com",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUllwdms5WktzckdPcUU1M1ZhSDJFYV9HTHJpMGs3ck5tNGJ6WXNEeFBiRXZWZ2swMUJfT0tNTjI0UVM2dzh5Y1htQU92TUJuZFJseVRlLV9FYTZGSUZoQ3VxNHBBZTk0QlE3djBtQnV3V0hCX2h2MWxvRWF6VjQ2U3JKcURIdms3TDlPa0QyOHhWSzNMMHVvT1RMUF9JMHk3RkJGdnNaWEpiQWpVdlRNeVNYTDdVNnMt?oc=5",
-     "via": "googlenews"
-    },
-    {
-     "id": "ft",
-     "name": "Financial Times",
-     "region": "world",
-     "weight": 0.5,
-     "title": "US indicts Saudi employee of OpenAI for allegedly bugging its offices - Financial Times",
-     "desc": "US indicts Saudi employee of OpenAI for allegedly bugging its offices Financial Times",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPT2FwVHFPcVQtdkd0UlBMeENYTFJ2TG93andlcVVQbVJTTW5iTlRaZ3FXNzU2VDhqdmtJUjdQd3J5M0ZXajdVY3V1eGJoWFZrbEFiNGpPM1ZMUTR6aWJJMWhVNENIZlhSTlQxRkh3Sm1nWHdxMHFXaWd1dUhneVN2WjI2TW4?oc=5",
-     "via": "googlenews"
-    }
-   ]
-  },
-  {
-   "id": "s-20261014-17",
-   "title": "スペイン国王がセウタを訪問、モロッコとの緊張続く",
-   "firstSeen": "2026-10-14",
-   "daysSeen": 1,
-   "history": {
-    "2026-10-14": 14
-   },
-   "peak": 14,
-   "worldScore": 14,
-   "worldCoverage": "5/18",
-   "jpScore": 0,
-   "jpCoverage": "0/6",
-   "gap": 14,
-   "japan": false,
-   "outlets": [
-    {
-     "id": "france24",
-     "name": "France 24",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Ceuta an 'inalienable' part of Spain, king says on key visit",
-     "desc": "King Felipe VI on Tuesday said Ceuta and Melilla were \"an inalienable part\" of Spain as he made a landmark visit to the north African territories claimed by neighbouring Morocco. \"Ceuta and Melilla are an inalienable part of the political and national reality that is Spain. The sovereignty and territorial integrity of our country are not negotiable,\" Felipe said. FRANCE 24's Sarah Morris reports from Madrid.",
-     "url": "https://www.france24.com/en/ceuta-an-inalienable-part-of-spain-king-says-on-key-visit",
-     "via": null
-    },
-    {
-     "id": "euronews",
-     "name": "Euronews",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Ceuta crowds affirm Spanish identity during royal visit",
-     "desc": "King Felipe VI and Queen Letizia received a rapturous welcome in Ceuta on Tuesday, 13 October, as they began their first visit to the Spanish North African territory since 2007.",
-     "url": "https://www.euronews.com/video/2026/10/13/ceuta-crowds-affirm-spanish-identity-during-royal-visit",
-     "via": null
-    },
-    {
-     "id": "scmp",
-     "name": "South China Morning Post",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Spanish royals visit Ceuta to back enclave amid border migration strain with Morocco",
-     "desc": "King Felipe VI and Queen Letizia kicked off their first visit to Ceuta on Tuesday in a show of solidarity with residents of the Spanish city in North Africa as they grapple with a migration crisis that has strained relations with Morocco. The royal couple will then travel to Melilla, Spain’s other North African exclave, on Wednesday. It will be the first visit by a Spanish monarch to the two cities since Felipe’s father, Juan Carlos I, toured them in 2007. Their visit comes after about 80,000...",
-     "url": "https://www.scmp.com/news/world/europe/article/3370760/spanish-royals-visit-ceuta-back-enclave-amid-border-migration-strain-morocco?utm_source=rss_feed",
-     "via": null
-    },
-    {
-     "id": "straits",
-     "name": "The Straits Times",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Spain's royals visit Ceuta enclave amid friction with Morocco after border surge",
-     "desc": "CEUTA, Spain, Oct 13 - Spain's King Felipe and Queen Letizia visited Ceuta's Muslim cemetery on Tuesday where most of more than 100 migrants who died in July's mass crossing into the North African enclave from Morocco were buried.",
-     "url": "https://www.straitstimes.com/world/europe/spains-royals-visit-ceuta-enclave-amid-friction-with-morocco-after-border-surge",
-     "via": null
-    },
-    {
-     "id": "ap",
-     "name": "Associated Press",
-     "region": "world",
-     "weight": 0.5,
-     "title": "In first visit to Ceuta, Spain’s king asks for ‘good faith’ from Morocco after migration crisis - AP News",
-     "desc": "In first visit to Ceuta, Spain’s king asks for ‘good faith’ from Morocco after migration crisis AP News",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObmozWmNldTJoa3Z6M3BpUW9QQU1BcUR1c3pVdWtfdVpXckJkUW9VMGtOYjRJdENTUnZuam80MU1MY1JEVkdubkZlRXBGQkJTMXFiMkgxeEtUbFdBY1dNNE9GNVk3SGpSRTBqOXZfdWhES2l2aGJ6aFNCT25jRThLSlExbXFadzVGQkVYTW9XRUNxOGIy?oc=5",
-     "via": "googlenews"
-    }
-   ]
-  },
-  {
-   "id": "s-20261001-16",
-   "title": "仏で学生デモ拡大、数万人が参加",
-   "firstSeen": "2026-10-01",
-   "daysSeen": 8,
-   "history": {
-    "2026-10-01": 15,
-    "2026-10-02": 32,
-    "2026-10-05": 20,
-    "2026-10-06": 28,
-    "2026-10-07": 33,
-    "2026-10-08": 23,
-    "2026-10-09": 25,
-    "2026-10-14": 13
-   },
-   "peak": 33,
-   "worldScore": 13,
-   "worldCoverage": "5/18",
-   "jpScore": 0,
-   "jpCoverage": "0/6",
-   "gap": 13,
-   "japan": false,
-   "outlets": [
-    {
-     "id": "bbc",
-     "name": "BBC",
-     "region": "world",
-     "weight": 0.36,
-     "title": "'If we don't scream, they won't listen to us': Student protesters speak to BBC in Paris",
-     "desc": "Student protesters in France have told the BBC's James Waterhouse that they will continue to take action until change has been made. The protests have now entered their fourth week.",
-     "url": "https://www.bbc.co.uk/news/videos/ckg5jqg1npd7o?at_medium=RSS&at_campaign=rss",
-     "via": null
-    },
-    {
-     "id": "guardian",
-     "name": "The Guardian",
-     "region": "world",
-     "weight": 0.53,
-     "title": "At least 160,000 people take to streets in third week of French school protests",
-     "desc": "Swedish activist Greta Thunberg joins teenagers calling for investment to fix teacher shortages and crumbling schools More than 160,000 schoolchildren, students and trade unionists have marched in cities across France as protests over high school education continued into a third week and many demonstrators denounced policing tactics. Riot police fired teargas at the end of Tuesday’s marches in Nantes and near the Montparnasse area of Paris, but most of the demonstrations over teacher shortages, overcrowded classes and crumbling school buildings held in cities including Lyon, Lille and Marseill",
-     "url": "https://www.theguardian.com/world/2026/oct/13/greta-thunberg-student-protest-paris-france",
-     "via": null
-    },
-    {
-     "id": "aljazeera",
-     "name": "Al Jazeera",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Presidential hopeful Melenchon joins France school protest march",
-     "desc": "Left-wing presidential hopeful Jean-Luc Melenchon has given his support to school protests in France",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/presidential-hopeful-melenchon-joins-france-school-protest-march?traffic_source=rss",
-     "via": null
-    },
-    {
-     "id": "france24",
-     "name": "France 24",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Tens of thousands rally across France as high school protests gather strength",
-     "desc": "Tens of thousands of people rallied across France on Tuesday in support of protesting high school students, with unions putting turnout at 480,000, as anger over school conditions and alleged police violence fuels a growing movement challenging President Emmanuel Macron’s government ahead of planned cost-of-living demonstrations on Saturday.",
-     "url": "https://www.france24.com/en/france/20261013-tens-of-thousands-rally-across-france-as-high-school-protests-gather-strength",
-     "via": null
-    },
-    {
-     "id": "euronews",
-     "name": "Euronews",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Violence in Paris as tens of thousands turn out for student protests across France",
-     "desc": "French Interior Minister Laurent Nuñez said 11 police officers had been hospitalised following clashes with protesters in Paris on Tuesday.",
-     "url": "https://www.euronews.com/2026/10/13/violence-in-paris-as-tens-of-thousands-turn-out-for-student-protests-across-france",
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "s-20261014-20",
-   "title": "銀行不正対策違反で米政府がバンク・オブ・アメリカに罰金",
-   "firstSeen": "2026-10-14",
-   "daysSeen": 1,
-   "history": {
-    "2026-10-14": 13
-   },
-   "peak": 13,
-   "worldScore": 13,
-   "worldCoverage": "4/18",
-   "jpScore": 0,
-   "jpCoverage": "0/6",
-   "gap": 13,
-   "japan": false,
-   "outlets": [
-    {
-     "id": "abc-au",
-     "name": "ABC Australia",
-     "region": "world",
-     "weight": 0.91,
-     "title": "Live: Bank of America fined $US1.2 billion for anti-money laundering failures",
-     "desc": "The ASX is set to slip after a slightly negative finish on Wall Street. Bank of America is hit with a record fine by the US Treasury. Follow the day's events and insights from our business reporters on the ABC News live markets blog.",
-     "url": "https://www.abc.net.au/news/2026-10-14/asx-markets-business-news-live-updates/107263164",
-     "via": null
-    },
-    {
-     "id": "reuters",
-     "name": "Reuters",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Bank of America fined $1.2 billion by US government for failing to police suspicious activity - Reuters",
-     "desc": "Bank of America fined $1.2 billion by US government for failing to police suspicious activity Reuters",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdlFNN0pWVFc2UEQ3a2ViakktenQxdzQwRm9FMFh4azdJOC1jM3FQUDBCbGxmdmw3UUNyWmt3OEhxV1JtVWQzeTFlY3RZZURYc3VZazU2aURrUXBsXzdYS3pDQ2o0aTdhemI0WDgzeTJncUUxZ05ZdEZrYXJidXNNYV9ScGIyTENZeklySS1wRnFLNWpkYTRadkxOQjVLNVpVX00zMTg0WXNScE91MFVITFVYRldudzN4UTFWQjhPTlV1VjlGZ0FqcQ?oc=5",
-     "via": "googlenews"
-    },
-    {
-     "id": "ap",
-     "name": "Associated Press",
-     "region": "world",
-     "weight": 0.5,
-     "title": "US hits Bank of America with $1.2 billion fine, saying it violated money laundering, sanctions laws - AP News",
-     "desc": "US hits Bank of America with $1.2 billion fine, saying it violated money laundering, sanctions laws AP News",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORERLcDUxeU5Mb2Y3UzRGMUcxVldIQ0hjNFpUdjNGX0pJUlBodGZFR1pfV21tTnRxX2dHMXlUY0o2NGUzNTF3bnFramYtMTV0TE5vZ18xVC1ybHBQMmNuY1ZCQnF2M1Q2R1U3c3J5TVo5M0ltX1NuUVJnQVMxRWtWdGtHdE5nUkZyUFZqellEc0pyVmpxbWM1bl9IVTE1RjRwbldN?oc=5",
-     "via": "googlenews"
-    },
-    {
-     "id": "ft",
-     "name": "Financial Times",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Bank of America fined $1.2bn over money laundering failures - Financial Times",
-     "desc": "Bank of America fined $1.2bn over money laundering failures Financial Times",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZlJJamJoME9oMkdvTjhMOWFtRS1DUDYwOWQwcU9DX2YxaHRFM0ZfUU5jN1JMVlFOVy1UdjVLQUlBSElzRXFkeWRkWGNuNHRDX1IwanZDU3NfejJFcEpSYXZOMnBIczZFLXBLQnNHU0hDRzlFdWJ0R1Jobl95SlJBOEE5YVI?oc=5",
-     "via": "googlenews"
-    }
-   ]
-  },
-  {
-   "id": "s-20261014-08",
-   "title": "アルゼンチンがフォークランド諸島油田巡り法的措置",
-   "firstSeen": "2026-10-14",
-   "daysSeen": 1,
-   "history": {
-    "2026-10-14": 12
-   },
-   "peak": 12,
-   "worldScore": 12,
-   "worldCoverage": "3/18",
-   "jpScore": 0,
-   "jpCoverage": "0/6",
-   "gap": 12,
-   "japan": false,
-   "outlets": [
-    {
-     "id": "bbc",
-     "name": "BBC",
-     "region": "world",
-     "weight": 0.71,
-     "title": "Argentina targets UK in legal claim over Falklands oil exploration",
-     "desc": "The action filed with an international maritime tribunal is the latest development in an escalating row over the Falkland Islands.",
-     "url": "https://www.bbc.co.uk/news/articles/cmp3g14p3z2ko?at_medium=RSS&at_campaign=rss",
-     "via": null
-    },
-    {
-     "id": "guardian",
-     "name": "The Guardian",
-     "region": "world",
-     "weight": 0.97,
-     "title": "UK asks Interpol to reject Argentina’s ‘politically motivated’ requests for Falklands oil arrests",
-     "desc": "Exclusive: Caution urged over Javier Milei government’s ‘red notice’ requests for arrest of individuals linked to oil project Britain has appealed to Interpol to reject Argentina’s requests for the arrest of individuals involved in a large oil project off the Falkland Islands. With tensions over the sovereignty of the British overseas territory reaching levels not seen since the war with Argentina in 1982, UK officials have sought urgent assurances from the international organisation. Continue reading...",
-     "url": "https://www.theguardian.com/uk-news/2026/oct/13/britain-interpol-reject-argentina-falkland-islands-arrests",
-     "via": null
-    },
-    {
-     "id": "toi",
-     "name": "Times of India",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Argentina moves to stop Falklands' first commercial oil project, escalating row with UK",
-     "desc": "",
-     "url": "https://timesofindia.indiatimes.com/world/rest-of-world/argentina-moves-to-stop-first-commercial-oil-project-on-disputed-falkland-islands-escalating-row-with-uk/articleshow/134921107.cms",
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "s-20261014-22",
-   "title": "サウジのアラムコ本社近くで爆音、攻撃の報道",
-   "firstSeen": "2026-10-14",
-   "daysSeen": 1,
-   "history": {
-    "2026-10-14": 11
-   },
-   "peak": 11,
-   "worldScore": 11,
-   "worldCoverage": "4/18",
-   "jpScore": 0,
-   "jpCoverage": "0/6",
-   "gap": 11,
-   "japan": false,
-   "outlets": [
-    {
-     "id": "straits",
-     "name": "The Straits Times",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Missile hits headquarters of Saudi Aramco, source says, as Houthi conflict escalates",
-     "desc": "The targeted complex hosts a major operations centre for Aramco, which oversees a vast network of onshore and offshore facilities.",
-     "url": "https://www.straitstimes.com/world/middle-east/loud-booms-heard-near-saudi-aramco-headquarters-in-dhahran-sources-say",
-     "via": null
-    },
-    {
-     "id": "reuters",
-     "name": "Reuters",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Loud booms heard near Saudi Aramco headquarters in Dhahran, sources say - Reuters",
-     "desc": "Loud booms heard near Saudi Aramco headquarters in Dhahran, sources say Reuters",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWWJ1bWRqeFpzOUpDR0ZNRTB3cnlsY0gyMGxVcnY2U3VZX0Q1bnc4eFlZZldDem9uQ3dNUzBORU1rak0wWVpIcURXNEJJQ1ZMbXRpZUF1QTJZbU9Vd2gxN3A1YW5QWko0M1JnUXRlM1Y4T0JLdENPWUJUcjZsMHJDeGlDTGtpZ3R2cVowc01oOC1GRVVOUktNZTZCRWQtRUhOMDFyVURaNDZOOS10TURrcEpvQWdGYnR1WjJkRFdB?oc=5",
-     "via": "googlenews"
-    },
-    {
-     "id": "bloomberg",
-     "name": "Bloomberg",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Aramco Headquarters Hit During Houthi Attacks on Saudi Arabia - Bloomberg.com",
-     "desc": "Aramco Headquarters Hit During Houthi Attacks on Saudi Arabia Bloomberg.com",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZW5UZm9rTkVDR01LTzZFcTQ0MUprS3hKLTdHaWtXQkVUQzdOSzNJUWJxRlQ3WkpnbUl0TzZlMWg2eVI1bzJidmpzQnFlaC1VcVRpS1FaN0tvZENEeS1LMUVPVmFaM3o0cEI2bkx6bGhMZ1c4WXliLTg3c0djRjgwUU9YWTE5d3F5dFlVV3hlWXh4clk0eUZNWGczUnhUbmtsbElkR2ExNEFqcVRKUEJwT053?oc=5",
-     "via": "googlenews"
-    },
-    {
-     "id": "ft",
-     "name": "Financial Times",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Saudi Aramco HQ attacked in suspected Houthi strike - Financial Times",
-     "desc": "Saudi Aramco HQ attacked in suspected Houthi strike Financial Times",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWlJvcU95eUR0QzVMRjJzX25MNl9HWm8tNU5HNUx1R3EtOVI5U0NvRjhEdTZ2VzJtc2FPQUwzVmU3dWY2ck9ZSjhFUXd0OVRmazY1SGpWMWgtZjk0MnhlRFotQmZrMzhGY3RWUnVTVlJfOHBRVHJwNThrbDl3T0tXTnVSbXg?oc=5",
-     "via": "googlenews"
-    }
-   ]
-  },
-  {
-   "id": "s-20261014-07",
-   "title": "シックス・フラッグスで遊園地死亡事故",
-   "firstSeen": "2026-10-14",
-   "daysSeen": 1,
-   "history": {
-    "2026-10-14": 10
-   },
-   "peak": 10,
-   "worldScore": 10,
-   "worldCoverage": "3/18",
-   "jpScore": 0,
-   "jpCoverage": "0/6",
-   "gap": 10,
-   "japan": false,
-   "outlets": [
-    {
-     "id": "bbc",
-     "name": "BBC",
-     "region": "world",
-     "weight": 0.78,
-     "title": "Horrified witnesses recount fatal rollercoaster incident at Six Flags",
-     "desc": "Police say preliminary information suggests the man who died at the Georgia amusement park fell from a ride.",
-     "url": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
-     "via": null
-    },
-    {
-     "id": "scmp",
-     "name": "South China Morning Post",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Six Flags closes US rides after man flung to his death from roller coaster",
-     "desc": "Six Flags Entertainment Corp said it would temporarily close 10 rides at its theme parks, including the Goliath ride that was involved in a fatal accident on Monday, amid a string of incidents at its facilities. “Out of an abundance of caution, we have temporarily closed similar attractions across our parks,” the company said in a statement. “The safety of our guests and team members is our highest priority.” The attractions paused are located at seven resorts including Kings Island in Ohio and...",
-     "url": "https://www.scmp.com/news/world/united-states-canada/article/3370783/six-flags-closes-some-rides-after-man-flung-his-death-roller-coaster?utm_source=rss_feed",
-     "via": null
-    },
-    {
-     "id": "ap",
-     "name": "Associated Press",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Six Flags closes 9 North American roller coasters after families watch man fall to his death - AP News",
-     "desc": "Six Flags closes 9 North American roller coasters after families watch man fall to his death AP News",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZkNtdXlMaTZnbUtyRWxELS1kWDYwRVdpbUozWnRCUWJab2NXRDF2YmxocTY5Wm9BaHp3UDdxVkFoWE9XNEUzWlNXdVJQaTFPbWpJUjlrWEl3a3JtNFBSNGp0SkFfRjJZU2F4cmZBUnRpd2VCeUxGc0FFak5jRjZ2MUd0V3NBdG9xUWtCaHZwbmx5U1ZYeHpma3lLcHQtLTA?oc=5",
-     "via": "googlenews"
-    }
-   ]
-  },
-  {
-   "id": "s-20261007-02",
-   "title": "黒海でのドローン攻撃でブルガリアがロシア大使呼ぶ",
-   "firstSeen": "2026-10-07",
-   "daysSeen": 3,
-   "history": {
-    "2026-10-07": 18,
-    "2026-10-08": 6,
-    "2026-10-14": 10
-   },
-   "peak": 18,
-   "worldScore": 10,
-   "worldCoverage": "3/18",
-   "jpScore": 0,
-   "jpCoverage": "0/6",
-   "gap": 10,
-   "japan": false,
-   "outlets": [
-    {
-     "id": "bbc",
-     "name": "BBC",
-     "region": "world",
-     "weight": 0.62,
-     "title": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
-     "desc": "Six crew members are rescued but 10 are missing after a merchant ship was sunk overnight, Bulgaria says.",
-     "url": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss",
-     "via": null
-    },
-    {
-     "id": "nyt",
-     "name": "New York Times",
      "region": "world",
      "weight": 0.65,
-     "title": "Bulgaria Summons Russian Ambassador After More Black Sea Drone Strikes",
-     "desc": "Drones struck two ships off Bulgaria’s Black Sea coast, according to the country’s prime minister.",
-     "url": "https://www.nytimes.com/2026/10/13/world/europe/black-sea-drones-russia-bulgaria-nato.html",
-     "via": null
-    },
-    {
-     "id": "ft",
-     "name": "Financial Times",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Bulgaria suggests Russia behind ship attack that left 11 sailors missing - Financial Times",
-     "desc": "Bulgaria suggests Russia behind ship attack that left 11 sailors missing Financial Times",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNLV9hNzhLU1hVMWlaOTZZZXZOVHl0ekxEVWVCTGdLeXY1TGZ2MmhnNmw4dE9PYlF1b19oNHhpY2lFNUY2ZEd0b0p6aDI3TVBpdy1vQ21tRHRDT3p5MUJCWVRYOXFnODB2eE1BMktmM3lYM2dzczlzLTB0WWxUbnUtYkpvYjc?oc=5",
-     "via": "googlenews"
-    }
-   ]
-  },
-  {
-   "id": "s-20261013-02",
-   "title": "仏スーパーの冷蔵設備にサイバー攻撃、被害発生",
-   "firstSeen": "2026-10-13",
-   "daysSeen": 2,
-   "history": {
-    "2026-10-13": 37,
-    "2026-10-14": 9
-   },
-   "peak": 37,
-   "worldScore": 9,
-   "worldCoverage": "3/18",
-   "jpScore": 9,
-   "jpCoverage": "1/6",
-   "gap": 0,
-   "japan": false,
-   "outlets": [
-    {
-     "id": "sky",
-     "name": "Sky News",
-     "region": "world",
-     "weight": 0.6,
-     "title": "French supermarket fridges heated to 50C in cyber attack - causing fires and food losses",
-     "desc": "Hackers carried out a cyber attack on hundreds of French supermarkets overnight - pushing temperatures in fridges up to 50C and sparking fires.",
-     "url": "https://news.sky.com/story/hackers-heat-french-supermarket-fridges-to-50c-in-large-scale-cyber-attack-13598252",
+     "title": "Trump says 'massive' oil, gas and mineral exploration will begin in 'our' Greenland",
+     "desc": "Donald Trump says that preparations are underway to launch a \"massive\" oil, gas ‌and mineral exploration in Greenland.",
+     "url": "https://news.sky.com/story/trump-announces-that-massive-oil-gas-and-mineral-exploration-will-begin-in-greenland-13599119",
      "via": null
     },
     {
@@ -1299,223 +450,87 @@
      "name": "CBS News",
      "region": "world",
      "weight": 0.5,
-     "title": "Hackers heat up refrigerators at hundreds of supermarkets",
-     "desc": "The cyberattack caused refrigerators to shoot up in temperature in hundreds of stores, sparking fires and forcing spoiled food to be thrown away.",
-     "url": "https://www.cbsnews.com/news/cyberattack-supermarkets-refrigerators-france-fires-food-losses/",
+     "title": "Trump says Greenland oil, gas and mineral exploration ready to begin",
+     "desc": "The announcement comes four weeks after the U.S. signed a deal with Greenland and Denmark to bolster American military presence on the island.",
+     "url": "https://www.cbsnews.com/news/greenland-trump-oil-minerals-gas-exploration/",
      "via": null
     },
     {
-     "id": "ft",
-     "name": "Financial Times",
+     "id": "straits",
+     "name": "The Straits Times",
      "region": "world",
      "weight": 0.5,
-     "title": "Cyber attack on French supermarket fridges raises alarm over food security - Financial Times",
-     "desc": "Cyber attack on French supermarket fridges raises alarm over food security Financial Times",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMVgxbHR0Ni1sZnBpSnM2WHhtWmtETVZHR204UUxRemFVcHFqT3p5dU90OUd0WUg4MndTQUZhVEdjcVYwVmF4SkZjdXdjNFVYQ3NFMTFwTFVtSS1SeDlxeG44VnBWanFTMllpSW1HNVlsMDB3c201Wnl5dVhYbVVlclRRQVM?oc=5",
+     "title": "Trump says massive oil, gas exploration set to begin in 'our Greenland'",
+     "desc": "COPENHAGEN, Oct 14 - US President Donald Trump said on Wednesday that \\\"massive oil, gas and mineral exploration\\\" was set to begin on Greenland, a contentious statement on a territory that has resisted his efforts to control it and has banned new drilling for crude.",
+     "url": "https://www.straitstimes.com/world/europe/trump-says-massive-oil-gas-exploration-set-to-begin-in-our-greenland",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Denmark says US resource exploration in Greenland must respect local laws - Reuters",
+     "desc": "Denmark says US resource exploration in Greenland must respect local laws Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRXAwYWFZMS12UWs5MXF5SVpmYk9hR1Bka01FNFNTdVE3bUFYbi1qdXZjbVNDaDVfMWQ0ZGhZNERJYUhYVHFLR0ZiYl9Eby1sUG84VTNqVmViTXJmaWVBbEVQeVZHZzRfVGxNd0xBOWJ6c3RzVW1FY3NpUEtLaHdBTzNDWmhUS3Utb3B4ajFjVUxUcGFHdmotT0NwMU5kS2lmSVNYTGd5a0NWdw?oc=5",
      "via": "googlenews"
     },
     {
-     "id": "yahoo-world",
-     "name": "Yahoo!ニュース 国際",
-     "region": "jp",
-     "weight": 0.56,
-     "title": "フランスのスーパーでサイバー攻撃 冷蔵設備 被害大半はサポート終了の「旧モデル」か(テレビ朝日系（ANN）)",
-     "desc": "フランス各地のスーパーマーケットでサイバー攻撃にあった冷蔵設備の多くが、すでにサポートが終了した「旧モデル」だったことが明らかになりました。 500店舗近くのスーパーで12日、冷蔵設備のシステムがハッ",
-     "url": "https://news.yahoo.co.jp/articles/ee58e24aa147281be767dea7adecf0731a23463c?source=rss",
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "s-20261009-15",
-   "title": "ハリケーン「サイモン」がメキシコ接近",
-   "firstSeen": "2026-10-09",
-   "daysSeen": 3,
-   "history": {
-    "2026-10-09": 8,
-    "2026-10-12": 11,
-    "2026-10-14": 8
-   },
-   "peak": 11,
-   "worldScore": 8,
-   "worldCoverage": "2/18",
-   "jpScore": 0,
-   "jpCoverage": "0/6",
-   "gap": 8,
-   "japan": false,
-   "outlets": [
-    {
-     "id": "guardian",
-     "name": "The Guardian",
-     "region": "world",
-     "weight": 0.88,
-     "title": "Hurricane Simon and Tropical Storm Rachel kill five people on Mexico’s Pacific coast",
-     "desc": "Security forces use helicopters to rescue dozens of people as the two storms damage infrastructure and cause flash flooding At least five people have died after Hurricane Simon and Tropical Storm Rachel pummelled Mexico’s Pacific coast, causing flooding that downed trees and electricity poles, blocked roads and inundated homes. Simon claimed the life of a 71-year-old man who died when a wall collapsed in Chilpancingo in the southern state of Guerrero, governor Evelyn Salgado said at a press conference. Continue reading...",
-     "url": "https://www.theguardian.com/world/2026/oct/13/mexico-hurricane-simon-tropical-storm-rachel-kill-five-pacific-coast",
-     "via": null
-    },
-    {
-     "id": "cbs",
-     "name": "CBS News",
+     "id": "ap",
+     "name": "Associated Press",
      "region": "world",
      "weight": 0.5,
-     "title": "Hurricane Simon hits Mexico after storms kill 5",
-     "desc": "Hurricane Simon continued to move slowly up the coast of west-central Mexico after tropical weather systems caused five deaths and damage in Pacific coastal towns and resorts.",
-     "url": "https://www.cbsnews.com/news/hurricane-simon-still-hitting-western-mexico-after-tropical-systems-kill-5/",
-     "via": null
+     "title": "Trump says oil, gas and mineral exploration in Greenland is set to begin. It’s not that simple - AP News",
+     "desc": "Trump says oil, gas and mineral exploration in Greenland is set to begin. It’s not that simple AP News",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTm9ucUpfS1JOb1RqQUlFOWVtSjVRQ1JXUGVSZFhkdWVlWlBncFMybEpwSVNxcGpXcU84Z21TQVVlVUlXNlN6V0VGWjRkZGJyR3V1NFVzNVk1YzZmVEE0OGVGNnJnQXVGODlxNmF1XzF1SnVlRHBQblBLMkZCcHVRb1d5aWNBTWUxQWNCRmV2cW1OTWZSb1ZLZzJ5ZFV2Qkd6bzMzUDFIc25veXQ1?oc=5",
+     "via": "googlenews"
     }
    ]
   },
   {
-   "id": "s-20261012-26",
-   "title": "インドネシアで森林火災被害、オランウータン保護",
-   "firstSeen": "2026-10-12",
-   "daysSeen": 2,
-   "history": {
-    "2026-10-12": 8,
-    "2026-10-14": 8
-   },
-   "peak": 8,
-   "worldScore": 8,
-   "worldCoverage": "2/18",
-   "jpScore": 0,
-   "jpCoverage": "0/6",
-   "gap": 8,
-   "japan": false,
-   "outlets": [
-    {
-     "id": "guardian",
-     "name": "The Guardian",
-     "region": "world",
-     "weight": 0.85,
-     "title": "Indonesia wildfire fuelled by El Niño razes almost 300 homes",
-     "desc": "Hundreds of people displaced in Bangka Belitung with conditions described as worst in a decade with wildlife also badly hit A forest fire on Indonesia’s Sumatra island fuelled by El Niño has razed nearly 300 homes, forcing hundreds of people to evacuate, an official has said, as the country battles devastating blazes and haze. Residents first spotted the fire approaching their village in Bangka Belitung province on Saturday and tried to put it out themselves with portable water pumps, said the head of South Bangka regency, Riza Herdavid. Continue reading...",
-     "url": "https://www.theguardian.com/world/2026/oct/13/indonesia-wildfire-el-nino-razes-300-homes-bankga-belitung",
-     "via": null
-    },
-    {
-     "id": "aljazeera",
-     "name": "Al Jazeera",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Eight orangutans find new forest home in Indonesia after wildfire rescue",
-     "desc": "Eight endangered orangutans were released into a protected forest in Indonesia after wildfires destroyed their habitat.",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/10-13-orangutans-new-home-clip-mp4?traffic_source=rss",
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "s-20261014-11",
-   "title": "アントリップがAIの自己複製リスク警告",
-   "firstSeen": "2026-10-14",
+   "id": "s-20261015-03",
+   "title": "アルバニアで学生デモが激化、警察と衝突",
+   "firstSeen": "2026-10-15",
    "daysSeen": 1,
    "history": {
-    "2026-10-14": 8
+    "2026-10-15": 16
    },
-   "peak": 8,
-   "worldScore": 8,
-   "worldCoverage": "3/18",
+   "peak": 16,
+   "worldScore": 16,
+   "worldCoverage": "5/18",
    "jpScore": 0,
    "jpCoverage": "0/6",
-   "gap": 8,
+   "gap": 16,
    "japan": false,
    "outlets": [
     {
-     "id": "aljazeera",
-     "name": "Al Jazeera",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Scientists urge tighter AI controls to prevent global cyber risks",
-     "desc": "Call comes amid polls casting doubts on political leaders&#039; ability to manage AI risks as US midterm elections near.",
-     "url": "https://www.aljazeera.com/economy/2026/10/13/scientists-urge-tighter-ai-controls-to-prevent-global-cyber-risks?traffic_source=rss",
-     "via": null
-    },
-    {
-     "id": "euronews",
-     "name": "Euronews",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Anthropic warns AI will soon self-replicate and spread beyond data centres",
-     "desc": "The company says AI models may be mere months away from being able to copy and spread themselves onto internet-of-things devices such as smart ovens and TVs, making them difficult to stop should they decide to carry out cyberattacks.",
-     "url": "https://www.euronews.com/2026/10/13/anthropic-warns-ai-will-soon-self-replicate-and-spread-beyond-data-centres",
-     "via": null
-    },
-    {
-     "id": "ft",
-     "name": "Financial Times",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Anthropic warns rogue AI agents may ‘self-replicate’ to hijack everyday devices - Financial Times",
-     "desc": "Anthropic warns rogue AI agents may ‘self-replicate’ to hijack everyday devices Financial Times",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYVdrSG5aLUJNY3BCQ3F1SV9TQXMwV04wM3V1ZnNnYTFHQVRZTFJHMHduMllELUVFWHNZV0t5UnlrWm9hVEJSdVA0X3phRjNfVWp0UHJ6eGVjb1N3aUJERG45LUVYaVNrTk0wVzI5VHo0eHhNdEU0dmdkbk9HTEhwMExxeWQ?oc=5",
-     "via": "googlenews"
-    }
-   ]
-  },
-  {
-   "id": "s-20261009-29",
-   "title": "マンチェスター・シティの財務違反巡り規制当局者が言及",
-   "firstSeen": "2026-10-09",
-   "daysSeen": 2,
-   "history": {
-    "2026-10-09": 6,
-    "2026-10-14": 8
-   },
-   "peak": 8,
-   "worldScore": 8,
-   "worldCoverage": "2/18",
-   "jpScore": 0,
-   "jpCoverage": "0/6",
-   "gap": 8,
-   "japan": false,
-   "outlets": [
-    {
-     "id": "aljazeera",
-     "name": "Al Jazeera",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Man City charges: Any political interference and I’ll quit, says regulator",
-     "desc": "English football regulator insists there will be no political pressure in Manchester City&#039;s appeal over guilty verdict.",
-     "url": "https://www.aljazeera.com/sports/2026/10/13/man-city-charges-any-political-interference-and-ill-quit-says-regulator?traffic_source=rss",
-     "via": null
-    },
-    {
-     "id": "abc-au",
-     "name": "ABC Australia",
+     "id": "bbc",
+     "name": "BBC",
      "region": "world",
      "weight": 0.97,
-     "title": "Regulator says he would quit over political influence in Man City scandal",
-     "desc": "The regulator in charge of English football club licences says he would resign if there was any political pressure put on him regarding the Manchester City payments scandal.",
-     "url": "https://www.abc.net.au/news/2026-10-14/football-regulator-says-he-would-quit-if-pressure-over-man-city/107263162",
+     "title": "Student protesters attack government buildings in Tirana",
+     "desc": "Thousands of students in Albania are calling for better university conditions and job prospects, but buildings have been set on fire in the unrest.",
+     "url": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss",
      "via": null
-    }
-   ]
-  },
-  {
-   "id": "s-20261014-18",
-   "title": "ウクライナがEU加盟交渉で前進、ハンガリーが拒否権解除",
-   "firstSeen": "2026-10-14",
-   "daysSeen": 1,
-   "history": {
-    "2026-10-14": 8
-   },
-   "peak": 8,
-   "worldScore": 8,
-   "worldCoverage": "3/18",
-   "jpScore": 0,
-   "jpCoverage": "0/6",
-   "gap": 8,
-   "japan": false,
-   "outlets": [
+    },
     {
-     "id": "euronews",
-     "name": "Euronews",
+     "id": "guardian",
+     "name": "The Guardian",
      "region": "world",
      "weight": 0.5,
-     "title": "EU advances Ukraine accession as Hungary lifts veto, paving way for Zelenskyy-Magyar meeting",
-     "desc": "EU governments agreed to open two additional accession clusters with Ukraine after Hungary dropped its veto following an agreement on the rights of the ethnic Hungarian minority. Zelenskyy and Magyar may meet in Brussels later this week.",
-     "url": "https://www.euronews.com/2026/10/13/eu-advances-ukraine-accession-as-hungary-lifts-veto-paving-way-for-zelenskyy-magyar-meetin",
+     "title": "Student protests in Albania turn violent as demonstrators clash with police",
+     "desc": "Government building and two banks set on fire as tens of thousands march over education costs and corruption Tens of thousands of students have taken to the streets of Tirana, the Albanian capital, setting alight a government building and two banks and hurling stones at police during a protest over rising education costs and ⁠corruption. Police responded with water ⁠cannon and teargas to disperse protesters who started a fire at the ministry of education building, overturned bins and smashed the fronts of local businesses. A branch of Raiffeisen Bank near the education ministry also caught fir",
+     "url": "https://www.theguardian.com/world/2026/oct/14/student-protests-tirana-albania-police-clashes",
+     "via": null
+    },
+    {
+     "id": "dw",
+     "name": "Deutsche Welle",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Albania: Fire at Education Ministry as students protest",
+     "desc": "Riot police deployed in the Albanian capital Tirana on the second day of student protests. The sudden outbreak seemed at least somewhat reminiscent of the widespread demos in France courting international attention.",
+     "url": "https://www.dw.com/en/albania-fire-at-education-ministry-as-students-protest/a-79661193?maca=en-rss-en-world-4025-rdf",
      "via": null
     },
     {
@@ -1523,105 +538,9 @@
      "name": "The Straits Times",
      "region": "world",
      "weight": 0.5,
-     "title": "Ukraine takes step forward in EU membership talks after Hungary drops objections",
-     "desc": "BRUSSELS, Oct 13 - Ukraine took a step forward in its European Union membership bid on Tuesday, opening talks with the bloc on internal market and competitiveness standards, Irish Minister of State for European Affairs Thomas Byrne said, after Hungary dropped its objections.",
-     "url": "https://www.straitstimes.com/world/europe/ukraine-takes-step-forward-in-eu-membership-talks-after-hungary-drops-objections",
-     "via": null
-    },
-    {
-     "id": "reuters",
-     "name": "Reuters",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Ukraine takes step forward in EU membership talks after Hungary drops objections - Reuters",
-     "desc": "Ukraine takes step forward in EU membership talks after Hungary drops objections Reuters",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY0ZoUTNvZnFOMHA2a1pianNRZlFmRlljSDRoREZxQ2lLdHg4Z3htWS0zZ19jcWpFNGdERE15cXR2TFVRNV9WY3NGUEtianoxQVBoN2ZfV2Vmd3RPT3VoUUlnNXJsbkpkZnhlRU1OM0JMVjl1cmxLN2NUNlRfdTRQRUF5MWdLVHNJNGVOQS1CWVNjN2pKNFRHS214Tmw1RXI0RzdXN29QbmIyMnByUkNKNW9sX1V3ek1zU3VV?oc=5",
-     "via": "googlenews"
-    }
-   ]
-  },
-  {
-   "id": "s-20261014-21",
-   "title": "エチオピア軍がエリトリア国境の町に進軍",
-   "firstSeen": "2026-10-14",
-   "daysSeen": 1,
-   "history": {
-    "2026-10-14": 8
-   },
-   "peak": 8,
-   "worldScore": 8,
-   "worldCoverage": "3/18",
-   "jpScore": 0,
-   "jpCoverage": "0/6",
-   "gap": 8,
-   "japan": false,
-   "outlets": [
-    {
-     "id": "france24",
-     "name": "France 24",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Ethiopian forces enter key Tigray town, raising fears among residents",
-     "desc": "Ethiopian federal forces and their allies have entered a key town in northern Tigray near the Eritrean border after rebel fighters withdrew. As the conflict intensifies, residents fear further violence and instability. Tom Canetti has the latest from the ground.",
-     "url": "https://www.france24.com/en/ethiopian-forces-enter-key-tigray-town-raising-fears-among-residents",
-     "via": null
-    },
-    {
-     "id": "straits",
-     "name": "The Straits Times",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Ethiopian troops enter town on border with Eritrea, stoking war fears",
-     "desc": "Oct 13 - Ethiopian government troops have advanced to a town on the border with Eritrea previously controlled by Tigrayan rebels, people in touch with residents said on Tuesday, as diplomats scrambled to avert war between the Horn of Africa neighbours.",
-     "url": "https://www.straitstimes.com/world/ethiopian-troops-enter-town-on-border-with-eritrea-stoking-war-fears",
-     "via": null
-    },
-    {
-     "id": "reuters",
-     "name": "Reuters",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Ethiopian troops enter town on border with Eritrea, stoking war fears - Reuters",
-     "desc": "Ethiopian troops enter town on border with Eritrea, stoking war fears Reuters",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaEN5VVVFVlVuRmZOcVFieDNvREhpOV9fRDRZa0ROZU1XcGhPb0RYcUJ3cG1oRjNuenh2NXFIaERFbmV3MVVmU3dOMkJmcXRnVTZ3aFY0Z1ZJZW1CQ1pveHZCa3loUFpZcHQ4T0I5bE51Z2tqVk5oV25mTnBWczlaV2o2d0pjQ29Na29MejRTSVZoclBHdWVGSUhOSmhqZmhUTWNvZFllbDk1WGdtY09hMDNQVC0?oc=5",
-     "via": "googlenews"
-    }
-   ]
-  },
-  {
-   "id": "s-20261014-24",
-   "title": "アルバニアの学生らが教育巡り抗議デモ、警察と衝突",
-   "firstSeen": "2026-10-14",
-   "daysSeen": 1,
-   "history": {
-    "2026-10-14": 8
-   },
-   "peak": 8,
-   "worldScore": 8,
-   "worldCoverage": "3/18",
-   "jpScore": 0,
-   "jpCoverage": "0/6",
-   "gap": 8,
-   "japan": false,
-   "outlets": [
-    {
-     "id": "toi",
-     "name": "Times of India",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Albania police use tear gas on protesting students as stir turns violent",
-     "desc": "In Albania, student protests escalated into violent clashes with police in the capital, Tirana. These demonstrations aimed to highlight critical issues surrounding education and socio-economic challenges. Students raised urgent concerns over campus conditions, rising tuition fees, and uncertain job prospects. Deputy Prime Minister Albana Koçiu denounced the unrest, advocating for peaceful expression. This incident reflects a wider wave of student activism sweeping across Europe, demanding systemic change.",
-     "url": "https://timesofindia.indiatimes.com/world/europe/albania-police-use-tear-gas-on-protesting-students-as-stir-turns-violent/articleshow/134922658.cms",
-     "via": null
-    },
-    {
-     "id": "straits",
-     "name": "The Straits Times",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Albanian students protest over education, jobs, clash with police",
-     "desc": "Oct 13 - Student protesters hurled bricks and concrete blocks at Albania's Education Ministry in Tirana on Tuesday and police fired tear gas and water cannons in response, as a nationwide demonstration over education and social issues turned violent.",
-     "url": "https://www.straitstimes.com/world/europe/albanian-students-protest-over-education-jobs-clash-with-police",
+     "title": "Banks, buildings burn as Albania's capital Tirana erupts into student violence",
+     "desc": "TIRANA, Oct 14 - Tens of thousands of students stormed the streets of Tirana on Wednesday, setting alight a government building and two banks and hurling stones at police during a protest over rising education costs and corruption.",
+     "url": "https://www.straitstimes.com/world/europe/fire-breaks-out-at-albanias-education-ministry-during-student-protest",
      "via": null
     },
     {
@@ -1637,29 +556,311 @@
    ]
   },
   {
-   "id": "s-20261014-15",
-   "title": "ウクライナがロシア側からのミサイル攻撃情報なしと主張",
-   "firstSeen": "2026-10-14",
+   "id": "s-20261015-05",
+   "title": "米9月消費者物価指数（CPI）が3.7%に上昇",
+   "firstSeen": "2026-10-15",
    "daysSeen": 1,
    "history": {
-    "2026-10-14": 7
+    "2026-10-15": 16
    },
-   "peak": 7,
-   "worldScore": 7,
-   "worldCoverage": "2/18",
+   "peak": 16,
+   "worldScore": 16,
+   "worldCoverage": "5/18",
+   "jpScore": 23,
+   "jpCoverage": "3/6",
+   "gap": -7,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.91,
+     "title": "US inflation rises more than expected - here's what is happening with prices",
+     "desc": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.",
+     "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US stocks drop to their worst day since July as inflation worsens",
+     "desc": "US stocks dropped to their worst day since July on Wednesday, following the latest signal that inflation is getting worse. The S&P 500 sank 1.1 per cent for a fifth loss in the six days since setting its all-time high. The Dow Jones Industrial Average fell 48 points, or 0.1 per cent, and the Nasdaq composite slid 1.9 per cent as stocks in the artificial-intelligence industry led the way lower. Stocks felt pressure from rising yields in the bond market, where worries grew after a report said US...",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3370922/us-stocks-drop-their-worst-day-july-inflation-worsens?utm_source=rss_feed",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Stocks fall, dollar rallies as US inflation tops forecasts - Reuters",
+     "desc": "Stocks fall, dollar rallies as US inflation tops forecasts Reuters",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcE96RkhyZDBlQ2VWRERNYlZtdm5FaVdQSXF2M3ZtR3JIOU05UExLWnZ3dmFBY1NZcndTRlozR29sdmxWaExXUmIycmZPZGk3UXI1amRxTDR6WHpSQl82ckhxZ016SnZYdGtPdC14TnZVWlpjeHl4SW5pUnJKbjl2M0pzcw?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Inflation worsened last month to 3.7% in sign that prices remain elevated as midterm elections near - AP News",
+     "desc": "Inflation worsened last month to 3.7% in sign that prices remain elevated as midterm elections near AP News",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdHFWOXRoc2RvT291ZElaYW5MOWYyZ01rX1I3N093NGJ4bGNxRU1JS2tLS2J5TjhHNk9WQWNfY0xyMnZvbkdoa0N1LWs2OWlGQ19tc1pCZkdJUG5qTl9mMnJJOVE4cXM3V3YweDVGRG1RNnFPeDE0U1F4NW43TjVpNzNRMVRGZkxGOXh5a25EUm1QQTdBT0YwYk5INHByWl9ILXNBQU5R?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US inflation jumps to 3.7% as Iran war drives up prices - Financial Times",
+     "desc": "US inflation jumps to 3.7% as Iran war drives up prices Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaTVDMnlSRThVWkxaaEY1cnpwU3VJOFZTbjA0cXYxR0l1WEcyQks5X2tIeDRSSkpsV29RU0xLZFJsTnMwNE5SdC1oWXpHdGFVY0pUOVVxenlSbDNTRVMzTlNLeENwWEFIRFl2Uk1sb1hMdVYtWVVndEw1RGpyT0tVd0ZSOWQ?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "９月の米消費者物価、３．７％上昇 原油高で伸び加速",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026101401234&g=int&m=rss",
+     "via": null
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.36,
+     "title": "米9月の消費者物価指数 前年同月比3.7上昇 市場予想を上回る トランプ政権に痛手(テレビ朝日系（ANN）)",
+     "desc": "アメリカの9月の消費者物価指数は、前の年の同じ月に比べて3.7％上昇し、市場予想を上回りました。 アメリカ労働省が14日に発表した9月の消費者物価指数は、前の年の同じ月に比べて3.7％上昇しました。",
+     "url": "https://news.yahoo.co.jp/articles/cda20ee5812ee5e60f29d3541db878db5f9582e3?source=rss",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "米消費者物価、9月3.7%上昇と伸び拡大 燃料高が押し上げ - 日本経済新聞",
+     "desc": "米消費者物価、9月3.7%上昇と伸び拡大 燃料高が押し上げ 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UeXdHTWEtWnRNWDRYS0U2M0M5cl9MREZfU3k0SWFqTFZkbGtTZVB3TmtERFRpTDk4UzBONzVGSmU1Y3BEQkZDUGdreWtuOHZUbjF4bGwzbE1VQVVDNVRYUzBhNEM2QVZlODc0cA?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261015-10",
+   "title": "トルコ警察が反体制派テレビ局を家宅捜索",
+   "firstSeen": "2026-10-15",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-15": 15
+   },
+   "peak": 15,
+   "worldScore": 15,
+   "worldCoverage": "4/18",
    "jpScore": 0,
    "jpCoverage": "0/6",
-   "gap": 7,
+   "gap": 15,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.71,
+     "title": "Turkish police raid opposition TV station, halting live broadcasts",
+     "desc": "It is the latest in a series of crackdowns on media critical of the Turkish president and his government.",
+     "url": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.94,
+     "title": "Turkey Raids Pro-Opposition TV Station",
+     "desc": "The government appointed an overseer to the last big news channel critical of President Recep Tayyip Erdogan. The authorities have now replaced the leadership at five major news outlets.",
+     "url": "https://www.nytimes.com/2026/10/14/world/middleeast/turkey-erdogan-opposition-halk-tv.html",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "'Dark day for Turkey': Govt takes control of most-watched news channel",
+     "desc": "Police raided Turkey's most-watched news channel, Halk TV, early Wednesday, halting broadcasts and installing a government-appointed administrator in the latest move against pro-opposition media. Halk TV chairman Cafer Mahiroglu condemned the move against the broadcaster's Istanbul headquarters as \"a dark day for Turkey\", and criticism poured in from the opposition and rights groups.",
+     "url": "https://www.france24.com/en/video/20261014-dark-day-for-turkey-govt-takes-control-of-most-watched-news-channel",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Turkish police raid Halk TV in Istanbul, sparking outrage over media freedom",
+     "desc": "Police barricades surrounded the headquarters of Halk TV in Istanbul on Wednesday, 14 October, as Turkish authorities raided the independent broadcaster and appointed a trustee to take control of its operations.",
+     "url": "https://www.euronews.com/video/2026/10/14/turkish-police-raid-halk-tv-in-istanbul-sparking-outrage-over-media-freedom",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261015-11",
+   "title": "トルコ沖で世界最古の沈没船を発見",
+   "firstSeen": "2026-10-15",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-15": 14
+   },
+   "peak": 14,
+   "worldScore": 14,
+   "worldCoverage": "4/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 14,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.68,
+     "title": "World's oldest shipwreck found off coast of Turkey",
+     "desc": "Archaeologists say the wreck is up to 4,700 years old, dating to the Early Bronze Age.",
+     "url": "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "World’s oldest shipwreck found off coast of Turkiye",
+     "desc": "Clay analysis traces recovered storage jars to early history workshops operating across the Jordan Valley.",
+     "url": "https://www.aljazeera.com/news/2026/10/14/worlds-oldest-shipwreck-found-off-coast-of-turkiye?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 0.77,
+     "title": "World's oldest shipwreck found off Turkish coast",
+     "desc": "The world's oldest shipwreck has been discovered off the coast of Turkey, according to archaeologists.",
+     "url": "https://news.sky.com/story/worlds-oldest-shipwreck-found-off-turkish-coast-archaeologists-say-13599286",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "​World&#039;s oldest shipwreck found off Turkey&#039;s coast, archaeologists say",
+     "desc": "​Archaeologists in Turkey have dated the shipwreck to between 4,400 and 4,700 years old.",
+     "url": "https://www.cbsnews.com/news/worlds-oldest-shipwreck-found-turkey-archaeologists/",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261015-19",
+   "title": "米がロシア製ディーゼル油取引で欧州等から批判",
+   "firstSeen": "2026-10-15",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-15": 14
+   },
+   "peak": 14,
+   "worldScore": 14,
+   "worldCoverage": "5/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 14,
    "japan": false,
    "outlets": [
     {
      "id": "nyt",
      "name": "New York Times",
      "region": "world",
+     "weight": 0.5,
+     "title": "Why Trump Made a Diesel Deal With Putin",
+     "desc": "Our national security and White House correspondent David E. Sanger breaks down why President Donald Trump struck a deal with President Vladimir V. Putin to import Russian diesel fuel in the coming months, despite having signed recent congressional legislation tightening energy sanctions on Russia.",
+     "url": "https://www.nytimes.com/video/world/europe/100000011205967/00vid-rv-trump-putin-deal.html",
+     "via": null
+    },
+    {
+     "id": "dw",
+     "name": "Deutsche Welle",
+     "region": "world",
+     "weight": 0.5,
+     "title": "How Trump's diesel deal with Russia will impact the United States and Ukraine",
+     "desc": "US President Trump's diesel deal with Russia has alarmed Ukraine and its allies. What is he hoping to achieve at home, and what does the deal mean for Kyiv and Moscow?",
+     "url": "https://www.dw.com/en/how-trump-s-diesel-deal-with-russia-will-impact-the-united-states-and-ukraine/a-79658596?maca=en-rss-en-world-4025-rdf",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Meloni warns Trump's Russian diesel deal is 'very risky' and legitimises Moscow",
+     "desc": "Italy's prime minister has attacked the US-Russia diesel deal, warning it weakens sanctions on Moscow. Zelensky thanked her, while the Kremlin hit back.",
+     "url": "https://www.euronews.com/2026/10/14/meloni-warns-trumps-russian-diesel-deal-is-very-risky-and-legitimises-moscow",
+     "via": null
+    },
+    {
+     "id": "npr",
+     "name": "NPR",
+     "region": "world",
+     "weight": 0.61,
+     "title": "How will a diesel deal with Russia impact the U.S. market?",
+     "desc": "The price of diesel hit an all-time high in the U.S. in September. Can President Trump's deal for Russia to release more diesel onto the market bring the price down?",
+     "url": "https://www.npr.org/2026/10/13/nx-s1-6000118/how-will-a-diesel-deal-with-russia-impact-the-u-s-market",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "U.S.-Russia deal on diesel is 'very risky choice,' Italy PM Meloni says - Reuters",
+     "desc": "U.S.-Russia deal on diesel is 'very risky choice,' Italy PM Meloni says Reuters",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZVh1bTlFMVVSelN2MC1ndm94QjRuYm00U3RLSHNscTFuYkVYdVlobXRBMjlxSUFMY1ota0xUN0VNaVhpVWdLQ0NkV1pHLW90WFRoUHpVQUNISDZ1SEtQTEk0SzE0QzkwelVHTXpHVVVLZE1oVWhtdWNBZ3NVR3dOTjJYTjZfMGNxVzN6UHVZdld3d21pLVduc05ZbTBSRGhURmVnNXlNYVZCSzdI?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261015-08",
+   "title": "ネットフリックスが約1000人の人員削減へ",
+   "firstSeen": "2026-10-15",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-15": 13
+   },
+   "peak": 13,
+   "worldScore": 13,
+   "worldCoverage": "4/18",
+   "jpScore": 20,
+   "jpCoverage": "2/6",
+   "gap": -7,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
      "weight": 0.8,
-     "title": "Ukraine Says It Received No Intelligence About Strikes 2 Nights in a Row",
-     "desc": "Asked about apparent U.S. threats to cut off intelligence sharing with Kyiv, which can warn of Russian aerial attacks, President Trump said information continued to flow.",
-     "url": "https://www.nytimes.com/2026/10/13/world/europe/ukraine-trump-intelligence.html",
+     "title": "Netflix to shed 1,000 jobs in steepest cuts since 2022",
+     "desc": "The cuts equate to around 6% of the streaming giant's total workforce worldwide.",
+     "url": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
      "via": null
     },
     {
@@ -1667,20 +868,504 @@
      "name": "The Straits Times",
      "region": "world",
      "weight": 0.5,
-     "title": "Allies failed to warn Ukraine of impending missile attack, Zelensky says",
-     "desc": "He said Kyiv had not received the usual warning from allies of ballistic missile launches before a “particularly vile” attack on Kyiv overnight.",
-     "url": "https://www.straitstimes.com/world/europe/allies-failed-to-warn-ukraine-of-impending-missile-attack-zelenskiy-says",
+     "title": "Netflix cuts about 6% of jobs in biggest layoff since 2022, WSJ reports",
+     "desc": "The company had about 16,000 full-time employees at the end of 2025.",
+     "url": "https://www.straitstimes.com/world/united-states/netflix-cuts-about-6-of-jobs-in-biggest-layoff-since-2022-wsj-reports",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Netflix cuts about 6% of jobs in biggest layoff since 2022 - Reuters",
+     "desc": "Netflix cuts about 6% of jobs in biggest layoff since 2022 Reuters",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRC1BUjluV18xQWN2ZDUtd3NOcEJRaTRPNlVQeC1SR1NRNm8xdHBpY2dycmlDM1I2b0R0QUFuS0RPX25DLXotaE9WODYwdUF2UE00Qno1ejBCeFhfZVdrcFdheFVHU0J6MjNMcXU4SUVzeTVxUUUyc3gyTzdTT29kZXlyZ2EyR3FtM1pJUjBDMjZiNVFteUFZaXBMUDA?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Netflix to Cut 6% of Staff, About 1,000 Jobs as Growth Slows - Bloomberg.com",
+     "desc": "Netflix to Cut 6% of Staff, About 1,000 Jobs as Growth Slows Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWFFNXzFTX09LN3BjbE1fZjY3cTRHWUsxZGRkWVZmbkp0VGtYeUJKNkZWSXJtb3JORl9fS3ZQbVNkQlVxcmI4ZGR5RGRHN0xFREZicnI1bURHUm5RU0wwdDc2LUFfRGFLU0o5QnBqdzlCV3ZEeEQwYlI2S0cxcU5XUXNyb1RveUtMT3hUVDhMSVRUZ2NxLUsta0VYUmxaMkQ3Yk9UQ1NjaVRTUG1HcEE?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "yahoo",
+     "name": "Yahoo!ニュース主要",
+     "region": "jp",
+     "weight": 0.7,
+     "title": "ネトフリ 従業員約1000人を削減へ",
+     "desc": "",
+     "url": "https://news.yahoo.co.jp/pickup/6598797?source=rss",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "Netflixが従業員1000人を削減へ 米報道、視聴時間低迷で成長鈍化 - 日本経済新聞",
+     "desc": "Netflixが従業員1000人を削減へ 米報道、視聴時間低迷で成長鈍化 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uZzZ2TDNkUUJOZE5tU2xaMnFoWmd6eERVelVHaWNQVFg4cnZJRnI0RmtYd29NMl9rRUc1andZV0ZhRlFnQVkxZHdBX0ZsWVZsYngwUVZuV2MxeWxEdG1DWmpGdVRXcTl0S2wwdw?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261015-12",
+   "title": "オープンAIオフィスに盗聴器、社員逮捕",
+   "firstSeen": "2026-10-15",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-15": 12
+   },
+   "peak": 12,
+   "worldScore": 12,
+   "worldCoverage": "4/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 12,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.62,
+     "title": "Saudi employee charged with planting recording device in OpenAI office",
+     "desc": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
+     "url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "FBI arrest Saudi OpenAI employee for allegedly planting recording device in office",
+     "desc": "The ex-OpenAI employee allegedly wrapped a USB device in toilet paper and inserted it into a television located in an \"executive conference room\".",
+     "url": "https://www.euronews.com/2026/10/14/fbi-arrest-saudi-openai-employee-for-allegedly-planting-recording-device-in-office",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "FBI arrests OpenAI employee accused of placing recording device in company conference room - AP News",
+     "desc": "FBI arrests OpenAI employee accused of placing recording device in company conference room AP News",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONVl0SzhGa2IyTHliZXlVSl9jcFY4V1NmUG5YN1F3WWsyUG1jSzhlMzNwZ3M2V2hmZWhfWS1pcFFkYmwtc2RZeTdJLVpRTkwxMmE4YjZkdHV3bUlZenBxeUhUa0tIU0VGeGtyTktPSGt5Z3VnUVRudWZ0VlNzSHJjc3hsY0puM0RTanBmSkJ3?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "He linked Saudi Arabia to Silicon Valley. Then OpenAI found a bug wrapped in toilet paper - Financial Times",
+     "desc": "He linked Saudi Arabia to Silicon Valley. Then OpenAI found a bug wrapped in toilet paper Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQldaNWNHVEpxSzFnYlFqd1ExaGZyaVJUMjN0SlN3N29tMmVuTUNXdUZpUXhvdUxrSThMQmJULW9fY01tVlh5SHhYdHVUY3FLOUpHTjF3NkZtM3lVT0ZubEdTY1dZZHNBMExlWDhkTFRTbU9QMk1EZzYyeGFUNnNreWRoTmU?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261015-17",
+   "title": "サリー・ロニーの著作が英国で販売中止に",
+   "firstSeen": "2026-10-15",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-15": 12
+   },
+   "peak": 12,
+   "worldScore": 12,
+   "worldCoverage": "4/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 12,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Sally Rooney’s books pulled from UK over Palestine Action support",
+     "desc": "Award-winning author Sally Rooney’s books are being withdrawn from the UK over her support for Palestine Action",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/sally-rooneys-books-pulled-from-uk-over-palestine-action-support?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.53,
+     "title": "Sally Rooney’s Books Pulled in U.K. Over Her Support of Pro-Palestinian Group",
+     "desc": "Ms. Rooney and her publisher said that she could no longer receive royalties from British sales because she pledged to donate book revenues to Palestine Action, which is banned in the U.K.",
+     "url": "https://www.nytimes.com/2026/10/14/world/europe/rooney-britain-palestine-book-sales.html",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Sally Rooney books can’t be sold in UK amid Palestine Action ban, publisher says",
+     "desc": "Irish author Sally Rooney can no longer sell her books in the UK because of her support for the activist group Palestine Action, her publisher Faber said on Wednesday. Rooney has previously expressed her support for the group, which was banned as a “terrorist” organisation by the UK government in July 2025. It is not banned in Ireland, where Rooney lives. The proscription, which the organisation is appealing against, puts Palestine Action on the same blacklist as militant groups Hamas and...",
+     "url": "https://www.scmp.com/news/world/europe/article/3370918/sally-rooney-books-cant-be-sold-uk-amid-palestine-action-ban-publisher-says?utm_source=rss_feed",
+     "via": null
+    },
+    {
+     "id": "abc-au",
+     "name": "ABC Australia",
+     "region": "world",
+     "weight": 0.59,
+     "title": "Sally Rooney pulls books from UK over her support for Palestine Action",
+     "desc": "The Irish author of Normal People and Conversations with Friends says her support for Palestine Action means her books cannot be sold in the UK.",
+     "url": "https://www.abc.net.au/news/2026-10-15/sally-rooney-books-palestine-action-uk-removed/107268120",
      "via": null
     }
    ]
   },
   {
-   "id": "s-20261014-16",
-   "title": "ブルガリアが黒海ドローン攻撃でロシア大使招致",
-   "firstSeen": "2026-10-14",
+   "id": "s-20261015-22",
+   "title": "バンク・オブ・アメリカに巨額の罰金",
+   "firstSeen": "2026-10-15",
    "daysSeen": 1,
    "history": {
-    "2026-10-14": 7
+    "2026-10-15": 11
+   },
+   "peak": 11,
+   "worldScore": 11,
+   "worldCoverage": "4/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 11,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Bank of America fined US$1.21 billion as US flags suspected Chinese money laundering",
+     "desc": "Bank of America, the second-largest US bank, failed to promptly report hundreds of millions of dollars in suspicious transactions bearing signs of Chinese money-laundering networks, US regulators said on Tuesday, announcing more than US$1.21 billion in penalties for broader anti-money-laundering and sanctions failures. The Financial Crimes Enforcement Network, or FinCEN, said the activity included large wire transfers to counterparties in China, repeated credit-card purchases at major retailers...",
+     "url": "https://www.scmp.com/news/china/diplomacy/article/3370920/bank-america-fined-us121-billion-us-flags-suspected-chinese-money-laundering?utm_source=rss_feed",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "BofA misses profit estimates on trading weakness, books $1.2 billion charge - Reuters",
+     "desc": "BofA misses profit estimates on trading weakness, books $1.2 billion charge Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSERjcDdENDA2c180cFVhdW01WTVBaEdQdjRvejB6eGpkNklKUE8xM05mX1YybXZmMExUUXVkVDhMZUxGS0g5MWN0S3NtOHk1TjBISzBTWHB6VElZSjFjTHFUdU5sZXZtcHFxa0VybC1qR2Y2R0doZThnbGJoQVE5LVg5bHBDZmFvUm9ONGVUdUszODFvWV9aWlROdnE4NWs5R0FYZmJIVFAxaHZCQlJVRmtidS1IUlhVM1ZIM09MeEk?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Bank of America Missed Some Bad Guys - Bloomberg.com",
+     "desc": "Bank of America Missed Some Bad Guys Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVDc0RnZBVVRhdkxuY25HZXdvMWxqNkxsQXZLQzdkWENSNlZiR1BXY2t5X3FUVXZhVFNqM1VFTTRQYy1nblhtUWJoZnZZTjlrS0ZjWVlxYjhVMmpkOV9WMVgxWXFPaEs4TU5rM19zQWpES3E5elM3WHktWk9CVlM0UC12dm9MY1JvVXFjVEV4YVBGNzd2VC1BZQ?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Bank of America profits drop 17% after $1.2bn money laundering fine - Financial Times",
+     "desc": "Bank of America profits drop 17% after $1.2bn money laundering fine Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONWJ1XzUtVzg2OEVJcDJscThMZUx4ay1TSFlkVVJEMFVwRlgzRy0zSktPMW80WHYyQ3VfQ1lWLWlobUJlbWxQRVl0b0JVb1dSRzJ2Tk0yMmluN21jR2wyRHFWUlJNRU5teEI0Q0tid2tabnViQWVUMHVuSnROcmwtOHdaZFk?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261015-24",
+   "title": "中国の9月貿易黒字が過去最高ペース",
+   "firstSeen": "2026-10-15",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-15": 11
+   },
+   "peak": 11,
+   "worldScore": 11,
+   "worldCoverage": "4/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 11,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.45,
+     "title": "China’s Exports Soar, Putting Its Trade Surplus on Track for a Record",
+     "desc": "China’s exports grew last month at the fastest pace in almost any month since the end of the global financial crisis.",
+     "url": "https://www.nytimes.com/2026/10/14/business/china-exports-trade-surplus.html",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "China’s Li Qiang vows more high-value imports as trade surplus faces scrutiny",
+     "desc": "Premier Li Qiang said on Wednesday that China stands ready to import more high-quality goods, particularly high-value-added products, as part of efforts to promote more balanced trade. Li made the pledge at an opening ceremony for the autumn session of the biannual Canton Fair, China’s largest foreign trade exhibition. The nearly three-week-long event officially opens on Thursday, with more than 32,000 exhibitors and 210,000 overseas buyers registered in advance. “International trade is not...",
+     "url": "https://www.scmp.com/economy/china-economy/article/3370908/chinas-li-qiang-vows-more-high-value-imports-trade-surplus-faces-scrutiny?utm_source=rss_feed",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "China's September exports soar, putting $1 trillion trade surplus in sight - Reuters",
+     "desc": "China's September exports soar, putting $1 trillion trade surplus in sight Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVXg0RnM4TVlLaHEwQjBYdU16ZGhJaXpFeVVXYk9FLVg1RFp4cVlvWWNWa2xlRlhacndGbHpYeF9QMWs5Zy0ydnV6Ni1kV2dIUS1Ca0NEYVNpdHlQMk1EdFBOc2hxTVlJLXZXX2RKbVplTG5NY1B2NEl2UXRFaFROckZjUGdVZW1vcWpYUmdJR21JOTJrQkhIT3E5Y25CM1VCMDNwOWcxbVdsZw?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "China’s trade surplus nears record as pressure mounts from trading partners - AP News",
+     "desc": "China’s trade surplus nears record as pressure mounts from trading partners AP News",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQVdkTHZ3MkRKMEQybkpwQml2QmtLYmZOWjFGVVhfeWo4RVVNNk1wc0FScjBQZERDOTgxYUJpNVhfeW5nZjZqbGtCb1FTbTJQQklnOGZnRnBDZk9vV0J5WXlxU0xvZlBDQWlkNFhKY3h2LUdSWTZTeW9pYkgwM2tQNl9iNVpHUQ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261015-01",
+   "title": "ロシアが日本人ジャーナリストをスパイ容疑で拘束",
+   "firstSeen": "2026-10-15",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-15": 10
+   },
+   "peak": 10,
+   "worldScore": 10,
+   "worldCoverage": "2/18",
+   "jpScore": 23,
+   "jpCoverage": "2/6",
+   "gap": -13,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.77,
+     "title": "Russia arrests Japanese journalist on allegations of spying",
+     "desc": "FSB security agency said reporter was arrested on island of Sakhalin, alleging he was collecting information about Russia’s defences Russia has arrested a Japanese journalist on the far east island of Sakhalin and accused him of spying, in the latest sign of rising tensions between Moscow and Tokyo. Russian foreign ministry spokesperson Maria Zakharova identified the reporter as Yuki Imai, from the Hokkaido Shimbun newspaper, adding that he had been accused of “conducting espionage activities on Russian territory”. Continue reading...",
+     "url": "https://www.theguardian.com/world/2026/oct/14/russia-detains-japanese-journalist-suspicion-spying",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 1,
+     "title": "Japan Protests Russia’s Detention of Journalist Accused of Spying",
+     "desc": "Tokyo summoned Russia’s ambassador after a Japanese reporter was arrested in Russia’s far east and accused of collecting military intelligence.",
+     "url": "https://www.nytimes.com/2026/10/14/world/asia/japan-protest-russia-detention-journalist.html",
+     "via": null
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.56,
+     "title": "【報ステ解説】なぜいま？強硬路線の一環か…ロシア“スパイ容疑”で日本人記者拘束(テレビ朝日系（ANN）)",
+     "desc": "北海道新聞の記者がロシア当局に“スパイ容疑”で拘束されました。【画像】【報ステ解説】なぜいま?強硬路線の一環か…ロシア“スパイ容疑”で日本人記者拘束",
+     "url": "https://news.yahoo.co.jp/articles/d59a1c364d9aff73ec264361125e018958408d99?source=rss",
+     "via": null
+    },
+    {
+     "id": "yahoo",
+     "name": "Yahoo!ニュース主要",
+     "region": "jp",
+     "weight": 0.8,
+     "title": "道新記者の拘束 日本政府に衝撃",
+     "desc": "",
+     "url": "https://news.yahoo.co.jp/pickup/6598791?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261015-09",
+   "title": "ホルムズ海峡でコンテナ船が被災・沈没",
+   "firstSeen": "2026-10-15",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-15": 9
+   },
+   "peak": 9,
+   "worldScore": 9,
+   "worldCoverage": "3/18",
+   "jpScore": 9,
+   "jpCoverage": "1/6",
+   "gap": 0,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.74,
+     "title": "Container ship hit by projectile sinks in Strait of Hormuz, Singapore says",
+     "desc": "All 21 sailors on the Singapore-flagged GFS Pride were evacuated safely after it was hit by an projectile on Tuesday, maritime authorities say.",
+     "url": "https://www.bbc.co.uk/news/articles/crkg7q97z078o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.39,
+     "title": "Two container ships sink near strait of Hormuz amid surge in Iranian attacks",
+     "desc": "Vessels were hit by missiles as rise in strikes suggests Iran is trying to close waterway before US midterm elections Two container ships near the strait of Hormuz have ⁠sunk after being struck by missiles, amid the sharpest rise in Iranian attacks on shipping since the start of the US-Israel war with Iran. The increase in attacks suggests Iran is trying to fully close the strategic waterway in an attempt to frustrate Donald Trump’s efforts to bring down fuel prices before the US midterm elections on 3 November. Continue reading...",
+     "url": "https://www.theguardian.com/world/2026/oct/14/container-ship-sinks-strait-of-hormuz-surge-iranian-attacks-iran-us-midterm-elections",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Two ships sink near Hormuz after being hit by projectiles amid surge in attacks - Reuters",
+     "desc": "Two ships sink near Hormuz after being hit by projectiles amid surge in attacks Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVlQtcHJibXBpYWEwWTQ4dFdfWUFJbTVteGY0WThGcTFybEdUTERvVG9DcGdoY09vUjh0TG1QeG5zMWx0LTFvV09teVNXY1NLdXZVNlpuMVBIV3pndWJKWVBRdENjLVd0dnVwdUxPTHFPU002S0ZqR0lkcjgyNVl2ZFFXc05MdTJHenM3LVNUSlBUb1RyeDVxY3VTdUxEamxrbS1OXzJJR3o3SlltandncHAwVXFNSTFYcmJXblh2U25vN2xMMW1ibQ?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.53,
+     "title": "ホルムズ海峡で貨物船が機雷に接触 コンテナ2500個積載も炎上し沈没とイランが初報告(テレビ朝日系（ANN）)",
+     "desc": "イランが事実上封鎖を続けるホルムズ海峡で、貨物船が機雷に接触し沈没したとイランメディアが報じました。違法な航路を通過していたと主張しています。 イラン国営メディアは14日、革命防衛隊が2500個以上の",
+     "url": "https://news.yahoo.co.jp/articles/516bd23c4110abe789e8e6ba5b198d639c8da6a8?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261015-13",
+   "title": "英首相がゼレンスキー氏と会談し支援表明",
+   "firstSeen": "2026-10-15",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-15": 8
+   },
+   "peak": 8,
+   "worldScore": 8,
+   "worldCoverage": "2/18",
+   "jpScore": 10,
+   "jpCoverage": "1/6",
+   "gap": -2,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.59,
+     "title": "Burnham says he wants to 'repair bridges' between Ukraine and US",
+     "desc": "It comes as the prime minister meets President Zelensky at Downing Street.",
+     "url": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.82,
+     "title": "Burnham Pledges to Back Zelensky as Trump’s Ukraine Support Wavers",
+     "desc": "President Volodymyr Zelensky, who met with Britain’s prime minister, has said Ukraine received no warning of Russian attacks, but President Trump has said Washington is still “sharing intel.”",
+     "url": "https://www.nytimes.com/2026/10/14/world/europe/ukraine-intelligence-sharing-zelensky-uk.html",
+     "via": null
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.62,
+     "title": "英首相「防空ミサイルを一刻も早く配備」ゼレンスキー大統領に約束 約90億円規模(テレビ朝日系（ANN）)",
+     "desc": "イギリスのバーナム首相がウクライナのゼレンスキー大統領と会談し、「防空ミサイルを一刻も早く配備する」と約束しました。イギリス バーナム首相「本日、イギリス製防空ミサイルの供与を加速させ、一刻も早く配備",
+     "url": "https://news.yahoo.co.jp/articles/6b826f3d4a1becd22add9574290fc6147e8cc62a?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261015-27",
+   "title": "フランスの右翼勢力が勢力を拡大",
+   "firstSeen": "2026-10-15",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-15": 8
+   },
+   "peak": 8,
+   "worldScore": 8,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 8,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Le Pen lands in Brussels lashing out at the European Commission",
+     "desc": "The French far-right leader wants to strip powers from the EU and cap France’s net contribution to the bloc’s budget at €5 billion a year. “Being pro-France does not mean being anti-Europe,” she says.",
+     "url": "https://www.euronews.com/2026/10/14/le-pen-lands-in-brussels-lashing-out-at-the-european-commission",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Le Pen and Melenchon gain momentum ahead of French 2027 election, poll shows",
+     "desc": "PARIS, Oct 14 - French far-right leader Marine Le Pen and hard-left rival Jean-Luc Melenchon are gaining momentum ahead of next year's presidential election, a poll showed on Wednesday, with political polarisation widening as Emmanuel Macron's era draws to a close.",
+     "url": "https://www.straitstimes.com/world/europe/le-pen-and-melenchon-gain-momentum-ahead-of-french-2027-election-poll-shows",
+     "via": null
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Marine Le Pen: ‘All the warning signs are flashing red’ - Financial Times",
+     "desc": "Marine Le Pen: ‘All the warning signs are flashing red’ Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdHU2d1I4ZVZFSVh5ZVhqWWdyRjN1MFdNZHB3WXNBLTYyZUlsSkYzY2NGYk1Pcnd3ZUlBM0NEdjRlQ2NxSFQ3ZnZNWnlaalZKRDg2VzVrUmV0TDlwTzM3dFN2UzEzcFc4TVBRbGI0aWp3ZHhTRmtoUHpTYUQ5OUtDQnB2UEY?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261015-07",
+   "title": "ケニアで2例目のエボラ出血熱確認",
+   "firstSeen": "2026-10-15",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-15": 7
    },
    "peak": 7,
    "worldScore": 7,
@@ -1691,34 +1376,120 @@
    "japan": false,
    "outlets": [
     {
-     "id": "nyt",
-     "name": "New York Times",
-     "region": "world",
-     "weight": 0.65,
-     "title": "Bulgaria Summons Russian Ambassador After More Black Sea Drone Strikes",
-     "desc": "Drones struck two ships off Bulgaria’s Black Sea coast, according to the country’s prime minister.",
-     "url": "https://www.nytimes.com/2026/10/13/world/europe/black-sea-drones-russia-bulgaria-nato.html",
-     "via": null
-    },
-    {
      "id": "bbc",
      "name": "BBC",
      "region": "world",
-     "weight": 0.62,
-     "title": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
-     "desc": "Six crew members are rescued but 10 are missing after a merchant ship was sunk overnight, Bulgaria says.",
-     "url": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss",
+     "weight": 0.82,
+     "title": "Kenya confirms second Ebola case - a relative of the first victim",
+     "desc": "It follows the death last week of a man who had arrived in Kenya after travelling from DR Congo.",
+     "url": "https://www.bbc.co.uk/news/articles/cw5yn8rn04ljo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Kenya reports second Ebola case",
+     "desc": "In tonight's edition, Kenya confirms a second case of Ebola. Also, Nobel Peace Prize winner Navi Pillay warns that international justice is facing growing pressure. And millions of people in Nigeria have been without Tiktok for about a month.",
+     "url": "https://www.france24.com/en/kenya-reports-second-ebola-case",
      "via": null
     }
    ]
   },
   {
-   "id": "s-20261014-10",
-   "title": "ウクライナのゼレンスキー大統領が英国訪問",
-   "firstSeen": "2026-10-14",
+   "id": "s-20261015-16",
+   "title": "インドネシアで大規模な森林火災が発生",
+   "firstSeen": "2026-10-15",
    "daysSeen": 1,
    "history": {
-    "2026-10-14": 6
+    "2026-10-15": 7
+   },
+   "peak": 7,
+   "worldScore": 7,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 7,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.71,
+     "title": "Indonesia wildfire fuelled by El Niño razes almost 300 homes",
+     "desc": "Hundreds of people displaced in Bangka Belitung with conditions described as worst in a decade with wildlife also badly hit A forest fire on Indonesia’s Sumatra island fuelled by El Niño has razed nearly 300 homes, forcing hundreds of people to evacuate, an official has said, as the country battles devastating blazes and haze. Residents first spotted the fire approaching their village in Bangka Belitung province on Saturday and tried to put it out themselves with portable water pumps, said the head of South Bangka regency, Riza Herdavid. Continue reading...",
+     "url": "https://www.theguardian.com/world/2026/oct/13/indonesia-wildfire-el-nino-razes-300-homes-bankga-belitung",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Sky turns orange as wildfires rage across Indonesia",
+     "desc": "An orange haze is blanketing Indonesia’s Central Kalimantan as wildfires rage across the province.",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/sky-turns-orange-as-wildfires-rage-across-indonesia?traffic_source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261015-18",
+   "title": "イスラエル前保安長官がネタニヤフ首相を提訴",
+   "firstSeen": "2026-10-15",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-15": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 10,
+   "jpCoverage": "1/6",
+   "gap": -4,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Israel’s former security chief sues Netanyahu for October 7 defamation",
+     "desc": "Bar and Netanyahu have traded blame over the Hamas-led attack, as elections in Israel loom.",
+     "url": "https://www.aljazeera.com/news/2026/10/14/israels-former-security-chief-sues-netanyahu-for-october-7-defamation?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Israel ex-security chief sues Netanyahu for Oct 7 defamation",
+     "desc": "Netanyahu has insisted that Hamas' Oct 7 attack could have been prevented had the Shin Bet’s then director, Ronen Bar, called to wake him that morning.",
+     "url": "https://www.straitstimes.com/world/middle-east/israel-ex-security-chief-sues-netanyahu-for-defamation-over-oct-7-attack",
+     "via": null
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.59,
+     "title": "治安機関前長官が首相を提訴 イスラエル、名誉毀損主張(共同通信)",
+     "desc": "【エルサレム共同】イスラエルの国内治安機関シャバクのバー前長官は14日、イスラム組織ハマスによる2023年10月の奇襲の責任を押しつけられ、名誉を毀損されたとして、ネタニヤフ首相に300万シェケル（約",
+     "url": "https://news.yahoo.co.jp/articles/9f0080b6296bfdb26b982ceee84943b7fe4a84dc?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261015-21",
+   "title": "米州8州がオープンAIを提訴、児童への危害主張",
+   "firstSeen": "2026-10-15",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-15": 6
    },
    "peak": 6,
    "worldScore": 6,
@@ -1729,38 +1500,36 @@
    "japan": false,
    "outlets": [
     {
-     "id": "guardian",
-     "name": "The Guardian",
-     "region": "world",
-     "weight": 0.65,
-     "title": "Burnham to host Zelenskyy at No 10 in show of ‘rock-solid’ support",
-     "desc": "Prime minister reiterates UK backing after the Ukrainian president’s latest round of difficulties with Donald Trump Andy Burnham will host Volodymyr Zelenskyy at Downing Street on Wednesday as the UK seeks to further underline its support for the Ukrainian president, in contrast to his difficulties with Donald Trump. The UK prime minister said his message to Zelenskyy and his country would be: “We are with you for as long as it takes.” Continue reading...",
-     "url": "https://www.theguardian.com/politics/2026/oct/13/burnham-to-host-zelenskyy-at-no-10-in-show-of-rock-solid-support",
-     "via": null
-    },
-    {
      "id": "straits",
      "name": "The Straits Times",
      "region": "world",
      "weight": 0.5,
-     "title": "Zelenskiy visits Britain as Burnham pledges fresh support for Ukraine",
-     "desc": "LONDON, Oct 13 - Ukrainian President Volodymyr Zelenskiy will meet British Prime Minister Andy Burnham in London on Wednesday as Britain looks to reaffirm its support for Ukraine, including with the promise of a new package of surface-to-air missiles.",
-     "url": "https://www.straitstimes.com/world/europe/zelenskiy-visits-britain-as-burnham-pledges-fresh-support-for-ukraine",
+     "title": "Eight US states sue OpenAI, claiming ChatGPT harms children",
+     "desc": "The lawsuits accuse the company of violating state consumer protection laws by misleading users about the safety of ChatGPT.",
+     "url": "https://www.straitstimes.com/world/united-states/eight-us-states-sue-openai-claiming-chatgpt-harms-children",
      "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Eight US states sue OpenAI, claiming ChatGPT harms children - Reuters",
+     "desc": "Eight US states sue OpenAI, claiming ChatGPT harms children Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVjc1cUY3cXJlLWNETVRLdnEzVGt4QzlBRFFFZ2p1aUVqdFRGMUNxMHFnNTlZVk5Pcmg0dUUyUkVhWnFJeWpLWnI5a2lMNjR3WGVRRlV6NnZiOTZnUXUtUnJteWZ2VEVwVW1wX1NkdThUSE9kck41ZFc1ZmlwS0FLVmxQS0k5WFEyMDM0cS0xVWxyQnBzVUJka0lhRm04Znp4TUE?oc=5",
+     "via": "googlenews"
     }
    ]
   },
   {
-   "id": "s-20261012-12",
-   "title": "パキスタン治安当局が政治家ら数百人を拘束",
-   "firstSeen": "2026-10-12",
-   "daysSeen": 3,
+   "id": "s-20261015-26",
+   "title": "ドイツ警察が女性に性的暴行のロボットを押収",
+   "firstSeen": "2026-10-15",
+   "daysSeen": 1,
    "history": {
-    "2026-10-12": 22,
-    "2026-10-13": 4,
-    "2026-10-14": 6
+    "2026-10-15": 6
    },
-   "peak": 22,
+   "peak": 6,
    "worldScore": 6,
    "worldCoverage": "2/18",
    "jpScore": 0,
@@ -1769,34 +1538,34 @@
    "japan": false,
    "outlets": [
     {
-     "id": "guardian",
-     "name": "The Guardian",
+     "id": "cbs",
+     "name": "CBS News",
      "region": "world",
-     "weight": 0.33,
-     "title": "Pakistan detains hundreds of politicians from Imran Khan’s PTI party",
-     "desc": "President Zardari suspends provincial government in escalation of tensions as Khan supporters march to Islamabad Politicians from ⁠the party of the former Pakistani ​prime minister Imran Khan have been detained after the suspension of a provincial government now under emergency rule. Pakistan’s president declared a state of emergency and suspended the ⁠government in north-western Khyber Pakhtunkhwa province, led by Khan’s ally Sohail Afridi, on Sunday. Continue reading...",
-     "url": "https://www.theguardian.com/world/2026/oct/12/imran-khans-party-decries-coup-after-pakistan-suspends-provincial-government",
+     "weight": 0.5,
+     "title": "German police seize robot that allegedly groped a teenage girl",
+     "desc": "German police have seized a humanoid robot after it allegedly touched a 16-year-old girl in an indecent manner and made sexually suggestive gestures.",
+     "url": "https://www.cbsnews.com/news/germany-robot-teen-girl-sexual-harassment-groping-cologne/",
      "via": null
     },
     {
-     "id": "npr",
-     "name": "NPR",
+     "id": "ap",
+     "name": "Associated Press",
      "region": "world",
-     "weight": 0.77,
-     "title": "Pakistan imposes emergency rule in former prime minister's stronghold",
-     "desc": "Pakistan has imposed emergency rule in the province governed by the political party of imprisoned former prime minister Imran Khan.",
-     "url": "https://www.npr.org/2026/10/13/nx-s1-5998798/pakistan-imposes-emergency-rule-in-former-prime-ministers-stronghold",
-     "via": null
+     "weight": 0.5,
+     "title": "Police confiscate robot that groped 16-year-old girl, probe whether young men were at the controls - AP News",
+     "desc": "Police confiscate robot that groped 16-year-old girl, probe whether young men were at the controls AP News",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc1VNdWRPZEZJT1pVUlp2RHhDb0ZYd2hDaGpDd2ZZQnNJMUhzZnNNeXAtWlhjQVY1UldISXd4MG9CT2p4M3BlSVB3Sms1VDZpRTdha2Vzcm81S1RHSXVmSlIwc05KOUZ6Z3V1NW1oMFJxWVVaOS01V0VDRWVJMFV2VFNvOHBMSjQxMzNrWXVxZk01dnpoR3FqeVctaTY?oc=5",
+     "via": "googlenews"
     }
    ]
   },
   {
-   "id": "s-20261014-13",
-   "title": "米最高裁がイーロン・マスクのDOGE記録巡る訴訟審理へ",
-   "firstSeen": "2026-10-14",
+   "id": "s-20261015-28",
+   "title": "スペインNGOが燃料高騰で地中海救助を一時停止",
+   "firstSeen": "2026-10-15",
    "daysSeen": 1,
    "history": {
-    "2026-10-14": 6
+    "2026-10-15": 6
    },
    "peak": 6,
    "worldScore": 6,
@@ -1811,224 +1580,30 @@
      "name": "Al Jazeera",
      "region": "world",
      "weight": 0.5,
-     "title": "US Supreme Court agrees to hear watchdog case on Elon Musk’s DOGE records",
-     "desc": "The Trump administration argues that DOGE is exempt from freedom of information requirements.",
-     "url": "https://www.aljazeera.com/news/2026/10/13/us-supreme-court-agrees-to-hear-watchdog-case-on-elon-musks-doge-records?traffic_source=rss",
+     "title": "Spanish NGO halts Mediterranean rescue operations, citing fuel prices",
+     "desc": "SMH says it can no longer afford search-and-rescue work in one of the world&#039;s most dangerous migration routes.",
+     "url": "https://www.aljazeera.com/news/2026/10/14/spanish-ngo-halts-mediterranean-rescue-operations-citing-fuel-prices?traffic_source=rss",
      "via": null
     },
-    {
-     "id": "bloomberg",
-     "name": "Bloomberg",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Supreme Court to Consider Halting Bid for Information About DOGE - Bloomberg.com",
-     "desc": "Supreme Court to Consider Halting Bid for Information About DOGE Bloomberg.com",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa1JWVFpaY1VBMS1IdWVXT1F0RUR4UEx0d2lrY0lWMzZKQzYyLUFWNEtMTTE3Mk0xNWdVNXRmUVluSmhxenFscFZNV2l1a3diSzVaak1TQTE0cWcwNmxocFlETFFYMkZJRWpJSGUzTDRyRTAxazI4cWdYSVgxaTNrYmNGQWl3Q2pTWHJsdG9JNUtVRUxZT2lTa19uUVpwM3E0aWlMdmJCVlo1dXdXRDVJNTFPb1F1QQ?oc=5",
-     "via": "googlenews"
-    }
-   ]
-  },
-  {
-   "id": "s-20261013-24",
-   "title": "コンゴ民主共和国でM23との新連合発足",
-   "firstSeen": "2026-10-13",
-   "daysSeen": 2,
-   "history": {
-    "2026-10-13": 6,
-    "2026-10-14": 6
-   },
-   "peak": 6,
-   "worldScore": 6,
-   "worldCoverage": "2/18",
-   "jpScore": 0,
-   "jpCoverage": "0/6",
-   "gap": 6,
-   "japan": false,
-   "outlets": [
-    {
-     "id": "dw",
-     "name": "Deutsche Welle",
-     "region": "world",
-     "weight": 0.5,
-     "title": "DR Congo: Kabila’s move towards M23 raises questions over peace",
-     "desc": "Former DR Congo President Joseph Kabila has joined a new political-military front that brings together the Rwandan-backed AFC/M23 coalition. Analysts say it could reshape opposition to President Felix Tshisekedi.",
-     "url": "https://www.dw.com/en/dr-congo-kabila-s-move-towards-m23-raises-questions-over-peace/a-79652262?maca=en-rss-en-world-4025-rdf",
-     "via": null
-    },
-    {
-     "id": "france24",
-     "name": "France 24",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Kabila launches new coalition with M23",
-     "desc": "In tonight's edition, Joseph Kabila has been named leader of a new rebel coalition, vowing to topple the government. Also, Africa's largest ever IPO has been extended. And Formula ⁠1 ⁠will return to ⁠Africa in ​the early 2030s, once a new circuit is built in Rwanda.",
-     "url": "https://www.france24.com/en/kabila-launches-new-coalition-with-m23",
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "s-20261014-19",
-   "title": "中国が詐欺拠点のミャンマー犯罪ボスらに死刑判決",
-   "firstSeen": "2026-10-14",
-   "daysSeen": 1,
-   "history": {
-    "2026-10-14": 6
-   },
-   "peak": 6,
-   "worldScore": 6,
-   "worldCoverage": "2/18",
-   "jpScore": 0,
-   "jpCoverage": "0/6",
-   "gap": 6,
-   "japan": false,
-   "outlets": [
-    {
-     "id": "scmp",
-     "name": "South China Morning Post",
-     "region": "world",
-     "weight": 0.5,
-     "title": "China sentences 3 more Myanmar crime bosses to death in scam centre crackdown",
-     "desc": "Courts in China have sentenced three key figures of a notorious Myanmar crime syndicate to death for operating large-scale cross-border telecoms fraud networks and causing the deaths of four Chinese nationals. The Quanzhou Intermediate People’s Court and the Nanan City People’s Court in southeastern Fujian province handed down the rulings against syndicate head Wei Huairen, his nephew Chen Dawei and accomplice Liao Jingfang on Tuesday, following a trial held in May, state broadcaster CCTV...",
-     "url": "https://www.scmp.com/news/china/politics/article/3370757/china-sentences-3-more-myanmar-crime-bosses-death-scam-centre-crackdown?utm_source=rss_feed",
-     "via": null
-    },
-    {
-     "id": "cbs",
-     "name": "CBS News",
-     "region": "world",
-     "weight": 0.5,
-     "title": "China sentences 3 people to death for running scam centers",
-     "desc": "Police discovered remains of victims bound with iron chains and with bullet holes in their skulls, state media said.",
-     "url": "https://www.cbsnews.com/news/death-sentences-scam-centers-myanmar/",
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "s-20261012-19",
-   "title": "英動物園で男性がトラに襲われ死亡",
-   "firstSeen": "2026-10-12",
-   "daysSeen": 2,
-   "history": {
-    "2026-10-12": 7,
-    "2026-10-14": 6
-   },
-   "peak": 7,
-   "worldScore": 6,
-   "worldCoverage": "2/18",
-   "jpScore": 0,
-   "jpCoverage": "0/6",
-   "gap": 6,
-   "japan": false,
-   "outlets": [
-    {
-     "id": "cbs",
-     "name": "CBS News",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Man killed by tiger after entering enclosure at U.K. wildlife park",
-     "desc": "The incident occurred at the Yorkshire Wildlife Park near the city of Doncaster, police said.",
-     "url": "https://www.cbsnews.com/news/yorkshire-wildlife-park-tiger-enclosure-attack/",
-     "via": null
-    },
-    {
-     "id": "toi",
-     "name": "Times of India",
-     "region": "world",
-     "weight": 0.5,
-     "title": "William Chapman: Man who was killed by a tiger at zoo in South Yorkshire has been identified; he was pacing around enclousre with headphones",
-     "desc": "",
-     "url": "https://timesofindia.indiatimes.com/world/uk/william-chapman-man-who-was-killed-by-a-tiger-at-zoo-in-south-yorkshire-has-been-identified-he-was-pacing-around-enclousre-with-headphones/articleshow/134926305.cms",
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "s-20261014-23",
-   "title": "ウクライナへの情報共有継続とトランプ氏表明",
-   "firstSeen": "2026-10-14",
-   "daysSeen": 1,
-   "history": {
-    "2026-10-14": 6
-   },
-   "peak": 6,
-   "worldScore": 6,
-   "worldCoverage": "2/18",
-   "jpScore": 0,
-   "jpCoverage": "0/6",
-   "gap": 6,
-   "japan": false,
-   "outlets": [
     {
      "id": "straits",
      "name": "The Straits Times",
      "region": "world",
      "weight": 0.5,
-     "title": "Trump says US still sharing intel with Ukraine, defends Russian diesel deal",
-     "desc": "WASHINGTON, Oct 13 - President Donald Trump said on Tuesday that the United States continues to share intelligence with Ukraine and is working with both Kyiv and Moscow to bring an end to the war.",
-     "url": "https://www.straitstimes.com/world/united-states/trump-says-us-still-sharing-intel-with-ukraine-defends-russian-diesel-deal",
-     "via": null
-    },
-    {
-     "id": "reuters",
-     "name": "Reuters",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Trump says US still sharing intel with Ukraine, defends Russian diesel deal - Reuters",
-     "desc": "Trump says US still sharing intel with Ukraine, defends Russian diesel deal Reuters",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLTlmdEhoaGFoNXZnVWROaTNiZWVyR2lfelhoYVVaZlRjbFJuaGY5YWRneFZtbnpjQWhtNWkzMTlJQm5JNXpWSTJibE5VVWdZMk5aNDdBNmVlRkc0SWM2djVqTWozaTVrOFk1bWFSQXRtWUE1emdNc3VIckNZUzNGR01IQWhsd3VHcTdqU25jVTl3MlVLTUtkMjI3R3lrZGZuN3BCVlZpTWNZNUN1ZUhRZ1JWRG5pNFRPMUhBa2tVMVg?oc=5",
-     "via": "googlenews"
-    }
-   ]
-  },
-  {
-   "id": "s-20261008-07",
-   "title": "サウジの空港へのフーシ派攻撃でフライト停止",
-   "firstSeen": "2026-10-08",
-   "daysSeen": 3,
-   "history": {
-    "2026-10-08": 11,
-    "2026-10-09": 21,
-    "2026-10-14": 5
-   },
-   "peak": 21,
-   "worldScore": 5,
-   "worldCoverage": "2/18",
-   "jpScore": 0,
-   "jpCoverage": "0/6",
-   "gap": 5,
-   "japan": false,
-   "outlets": [
-    {
-     "id": "guardian",
-     "name": "The Guardian",
-     "region": "world",
-     "weight": 0.45,
-     "title": "Saudi Arabia further suspends flights after latest deadly Houthi attack on airport",
-     "desc": "Energy minister says ‘fear has no place in the Saudi lexicon’ as paramilitary group again breaches stretched defences Why are the Houthis attacking Saudi airports and how are the missiles getting through? Saudi Arabia has been forced to suspend all flights to and from its main international airport in Riyadh until next Saturday after a further round of Houthi missile attacks caused more damage and left one person dead. Some airlines, including Gulf Air, had already said they were cancelling flights until next Saturday. More missiles were fired at Saudi Arabian cities by the Houthis on Monday, ",
-     "url": "https://www.theguardian.com/world/2026/oct/12/saudi-arabia-suspends-flights-latest-deadly-houthi-attack-airport",
-     "via": null
-    },
-    {
-     "id": "cbs",
-     "name": "CBS News",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Iranian-backed Houthi rebels in Yemen claim deadly attacks on Saudi airport",
-     "desc": "Riyadh&#039;s airport was hit twice over the weekend with deadly strikes that killed at least a dozen people, including one American, officials say. Iranian-backed Houthi rebels in Yemen claimed the attacks. Holly Williams reports.",
-     "url": "https://www.cbsnews.com/video/iranian-backed-houthi-rebels-in-yemen-claim-deadly-attacks-on-saudi-airport/",
+     "title": "Spanish NGO postpones Mediterranean rescue mission over fuel costs",
+     "desc": "MADRID, Oct 14 - Spanish humanitarian rescue charity SMH has postponed its next mission in the central Mediterranean until 2027 due to soaring fuel costs, the group said on Wednesday, highlighting the financial pressures facing humanitarian efforts along one of the world's deadliest migration routes.",
+     "url": "https://www.straitstimes.com/world/europe/spanish-ngo-postpones-mediterranean-rescue-mission-over-fuel-costs",
      "via": null
     }
    ]
   },
   {
-   "id": "s-20261014-14",
-   "title": "トランプ氏がプーチン氏とゼレンスキー氏の和平姿勢言及",
-   "firstSeen": "2026-10-14",
+   "id": "s-20261015-14",
+   "title": "シックス・フラッグスでジェットコースター事故",
+   "firstSeen": "2026-10-15",
    "daysSeen": 1,
    "history": {
-    "2026-10-14": 5
+    "2026-10-15": 5
    },
    "peak": 5,
    "worldScore": 5,
@@ -2039,182 +1614,127 @@
    "japan": false,
    "outlets": [
     {
-     "id": "aljazeera",
-     "name": "Al Jazeera",
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.36,
+     "title": "What we know about the deadly Six Flags rollercoaster incident in Georgia",
+     "desc": "Hassan Jihad Ibn Kariem died on Monday after police say he was ejected from a ride at an amusement park.",
+     "url": "https://www.bbc.co.uk/news/articles/cke8r4nmy36qo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
      "region": "world",
      "weight": 0.5,
-     "title": "Trump says Putin and Zelenskyy both want to end Russia’s war on Ukraine",
-     "desc": "Trump says Putin and Zelenskyy both want to end Russia’s war on Ukraine",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/trump-says-putin-and-zelenskyy-both-want-to-end-russias-war-on-ukraine?traffic_source=rss",
+     "title": "Florence’s 'Maricarmen': 94-year-old faces losing her home of 60 years as rent nearly triples",
+     "desc": "The elderly widow, almost blind and using a walking frame still does not know about the eviction; her daughter says her story echoes Maricarmen, a symbol of Spain's fight for housing.",
+     "url": "https://www.euronews.com/2026/10/14/florences-maricarmen-94-year-old-faces-losing-her-home-of-60-years-as-rent-nearly-triples",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261015-20",
+   "title": "パキスタンが治安維持のため非常事態宣言",
+   "firstSeen": "2026-10-15",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-15": 5
+   },
+   "peak": 5,
+   "worldScore": 5,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 5,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "dw",
+     "name": "Deutsche Welle",
+     "region": "world",
+     "weight": 0.5,
+     "title": "How will emergency rule in Pakistan's northwest affect Afghan ties?",
+     "desc": "Pakistan's decision to suspend Khyber Pakhtunkhwa's provincial government could further strain already tense relations between Islamabad and Kabul.",
+     "url": "https://www.dw.com/en/how-will-emergency-rule-in-pakistan-s-northwest-affect-afghan-ties/a-79654262?maca=en-rss-en-world-4025-rdf",
      "via": null
     },
     {
      "id": "npr",
      "name": "NPR",
      "region": "world",
-     "weight": 0.46,
-     "title": "Trump announced a partial Russia-Ukraine ceasefire. Did either country know about it?",
-     "desc": "Ukraine's leader says Russia is continuing to attack Ukraine and is ignoring an \"energy ceasefire\" declared by President Trump.",
-     "url": "https://www.npr.org/2026/10/12/nx-s1-5998808/trump-announced-a-partial-russia-ukraine-ceasefire-did-either-country-know-about-it",
+     "weight": 0.38,
+     "title": "Pakistan imposes emergency rule in former prime minister's stronghold",
+     "desc": "Pakistan has imposed emergency rule in the province governed by the political party of imprisoned former prime minister Imran Khan.",
+     "url": "https://www.npr.org/2026/10/13/nx-s1-5998798/pakistan-imposes-emergency-rule-in-former-prime-ministers-stronghold",
      "via": null
     }
    ]
   },
   {
-   "id": "s-20261012-04",
-   "title": "ウクライナ支援停止警告など米露軽油合意巡る波紋",
-   "firstSeen": "2026-10-12",
-   "daysSeen": 3,
+   "id": "s-20261015-23",
+   "title": "モンブランの標高が測定で変更",
+   "firstSeen": "2026-10-15",
+   "daysSeen": 1,
    "history": {
-    "2026-10-12": 31,
-    "2026-10-13": 32,
-    "2026-10-14": 3
+    "2026-10-15": 5
    },
-   "peak": 32,
-   "worldScore": 3,
-   "worldCoverage": "1/18",
-   "jpScore": 13,
-   "jpCoverage": "1/6",
-   "gap": -10,
+   "peak": 5,
+   "worldScore": 5,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 5,
    "japan": false,
    "outlets": [
     {
-     "id": "reuters",
-     "name": "Reuters",
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.42,
+     "title": "Mont Blanc, the ‘roof of Europe’, loses more than a metre of height in a year",
+     "desc": "Peak of French mountain now 4,807 metres high and fluctuates year by year due to changes in Alpine climate Western Europe’s highest mountain shrank by more than a metre last year. The peak of Mont Blanc in France now stands 4,807.47 metres above sea level, a team of surveyors said on Wednesday, putting “the roof of Europe” 1.29 metres lower than in 2025. The mountain is about 4,792 metres tall but the summit constantly shifts as heat, wind and precipitation change the thickness of snow and ice on top. The height scientists recorded during an expedition last month was 1.88 metres greater than i",
+     "url": "https://www.theguardian.com/environment/2026/oct/14/mont-blanc-loses-metre-height",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
      "region": "world",
      "weight": 0.5,
-     "title": "Trump says Houthis trying to drive up oil prices ahead of US midterm elections - Reuters",
-     "desc": "Trump says Houthis trying to drive up oil prices ahead of US midterm elections Reuters",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUjJueXpwNnRLbk1Db0NkZzBZS0tqUGF4NHU3ZWYxcWRHdVU0WW9uYVZJeUlpUVR2amR3Q0dyd1ZwYTFwZjRkUXU2VWRmX2otWUh5dHBmTW1Tak1iczg5a3pzR21oZTk3S3lzN0NfWmZ4TWRFalFNLVBsdU5vVTFkSDQ4TnNGVDZOcnVTS2FWTzBTbW1pN0ZoamZrRG5fQlc2QXpZWjV3?oc=5",
-     "via": "googlenews"
-    },
-    {
-     "id": "yahoo-world",
-     "name": "Yahoo!ニュース 国際",
-     "region": "jp",
-     "weight": 0.8,
-     "title": "トランプ氏 ウクライナへの情報共有を継続 ロシア産軽油は「米国には供給されない」(テレビ朝日系（ANN）)",
-     "desc": "アメリカのトランプ大統領はロシアとの戦闘を続けるウクライナに対し、情報の共有を継続していると述べました。トランプ大統領「我々は彼ら（ウクライナ）を支援し、情報を共有している。戦争を終わらせたい。だから",
-     "url": "https://news.yahoo.co.jp/articles/cada8073ea0975805a38450c19fb4bc92f6a78a1?source=rss",
+     "title": "Mont Blanc rises by almost two metres, now standing at 4,807.47 metres",
+     "desc": "An altitude that \"is close to the historical value\" measured at the end of the 19th century, but still not enough to draw conclusions about the effects of global warming.",
+     "url": "https://www.euronews.com/2026/10/14/mont-blanc-rises-by-almost-two-metres-now-standing-at-480747-metres",
      "via": null
     }
    ]
   },
   {
-   "id": "s-20261013-21",
-   "title": "九州新幹線が全線で運転見合わせ",
-   "firstSeen": "2026-10-13",
-   "daysSeen": 2,
-   "history": {
-    "2026-10-13": 0,
-    "2026-10-14": 0
-   },
-   "peak": 0,
-   "worldScore": 0,
-   "worldCoverage": "0/18",
-   "jpScore": 23,
-   "jpCoverage": "2/6",
-   "gap": -23,
-   "japan": true,
-   "outlets": [
-    {
-     "id": "asahi",
-     "name": "朝日新聞",
-     "region": "jp",
-     "weight": 0.85,
-     "title": "九州新幹線、14日は通常通りの運行 見合わせの影響、2万人超",
-     "desc": "",
-     "url": "http://www.asahi.com/articles/ASVBD4SQ1VBDTIPE00CM.html?ref=rss",
-     "via": null
-    },
-    {
-     "id": "mainichi",
-     "name": "毎日新聞",
-     "region": "jp",
-     "weight": 0.5,
-     "title": "九州新幹線、14日は始発から全線で運転予定 2万2000人に影響",
-     "desc": "",
-     "url": "https://mainichi.jp/articles/20261013/k00/00m/040/319000c",
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "s-20261007-16",
-   "title": "高市首相が簗農水相の進退に言及「違法性あれば即断」",
-   "firstSeen": "2026-10-07",
-   "daysSeen": 5,
-   "history": {
-    "2026-10-07": 0,
-    "2026-10-08": 0,
-    "2026-10-09": 0,
-    "2026-10-12": 0,
-    "2026-10-14": 0
-   },
-   "peak": 0,
-   "worldScore": 0,
-   "worldCoverage": "0/18",
-   "jpScore": 22,
-   "jpCoverage": "3/6",
-   "gap": -22,
-   "japan": true,
-   "outlets": [
-    {
-     "id": "asahi",
-     "name": "朝日新聞",
-     "region": "jp",
-     "weight": 0.33,
-     "title": "簗農水相の更迭、高市首相が可能性に言及「違法性あれば躊躇しない」",
-     "desc": "",
-     "url": "http://www.asahi.com/articles/ASVBD2F2DVBDUTFK01KM.html?ref=rss",
-     "via": null
-    },
-    {
-     "id": "mainichi",
-     "name": "毎日新聞",
-     "region": "jp",
-     "weight": 0.5,
-     "title": "簗農相に新疑惑、“更迭”巡り高市首相に変化「しっかり考える…」",
-     "desc": "",
-     "url": "https://mainichi.jp/articles/20261013/k00/00m/010/302000c",
-     "via": null
-    },
-    {
-     "id": "jiji",
-     "name": "時事通信",
-     "region": "jp",
-     "weight": 0.5,
-     "title": "高市首相、簗氏進退に言及 「違法性あれば即断」―野党、自発的辞任要求",
-     "desc": "",
-     "url": "https://www.jiji.com/jc/article?k=2026101300638&g=pol&m=rss",
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "s-20261014-25",
-   "title": "Bリーグ総売上1000億円突破、A東京92億円",
-   "firstSeen": "2026-10-14",
+   "id": "s-20261015-29",
+   "title": "ワールドとTSIが経営統合へ",
+   "firstSeen": "2026-10-15",
    "daysSeen": 1,
    "history": {
-    "2026-10-14": 0
+    "2026-10-15": 0
    },
    "peak": 0,
    "worldScore": 0,
    "worldCoverage": "0/18",
-   "jpScore": 20,
+   "jpScore": 17,
    "jpCoverage": "2/6",
-   "gap": -20,
+   "gap": -17,
    "japan": true,
    "outlets": [
     {
      "id": "asahi",
      "name": "朝日新聞",
      "region": "jp",
-     "weight": 0.68,
-     "title": "バスケBリーグの業績が大幅伸長 A東京は売上高92億円で過去最高",
+     "weight": 0.53,
+     "title": "ワールドとTSIが経営統合へ アパレル国内3位に、コスト抑制狙う",
      "desc": "",
-     "url": "http://www.asahi.com/articles/ASVBF2FNQVBFUTQP01TM.html?ref=rss",
+     "url": "http://www.asahi.com/articles/ASVBG3VHBVBGULFA01KM.html?ref=rss",
      "via": null
     },
     {
@@ -2222,9 +1742,143 @@
      "name": "日本経済新聞",
      "region": "jp",
      "weight": 0.5,
-     "title": "Bリーグ総売上1000億円突破、昨季決算 アルバルク東京92億円 - 日本経済新聞",
-     "desc": "Bリーグ総売上1000億円突破、昨季決算 アルバルク東京92億円 日本経済新聞",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jaWdDZkU4cXVFVGtQNXEwa09HVlR0ZHZFN0NvV3B5M0RUWHFZR1NJdXBHQXVIX25hWEVpdnR1OUg1SlhGVlZXdWNmcEZ2bmtLTmhwRXNUVHBrYlpQd0RBQmY4azR0T0t4MTFtMA?oc=5",
+     "title": "ワールドとTSIが経営統合へ アパレル2社、27年3月に持ち株会社設立 - 日本経済新聞",
+     "desc": "ワールドとTSIが経営統合へ アパレル2社、27年3月に持ち株会社設立 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DTFVSLVlVd0hJNnhNMGtPbnVvSWxOWGtCYWlYNzlCb0xNdC1UUkNhTnJoWER0TDZLT2pTVEl3LTNpUVp4UXo2QlJTS0swQWxuMHFQdXZMY2szcENhZFNvZWdqbDRMVnNKbWVyUA?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261015-30",
+   "title": "簗農水相が更迭・辞任、高市政権に打撃",
+   "firstSeen": "2026-10-15",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-15": 0
+   },
+   "peak": 0,
+   "worldScore": 0,
+   "worldCoverage": "0/18",
+   "jpScore": 40,
+   "jpCoverage": "4/6",
+   "gap": -40,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "asahi",
+     "name": "朝日新聞",
+     "region": "jp",
+     "weight": 0.42,
+     "title": "簗農水相更迭、露呈した「高市一強」の弊害 今後の国会運営に影",
+     "desc": "",
+     "url": "http://www.asahi.com/articles/ASVBG3SLGVBGUTFK00LM.html?ref=rss",
+     "via": null
+    },
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "「辞めて済む話ではない」 高市首相の任命責任問う声も―簗農水相辞任で有識者",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026101401145&g=pol&m=rss",
+     "via": null
+    },
+    {
+     "id": "yahoo",
+     "name": "Yahoo!ニュース主要",
+     "region": "jp",
+     "weight": 1,
+     "title": "農相辞表 内閣改造後わずか1カ月",
+     "desc": "",
+     "url": "https://news.yahoo.co.jp/pickup/6598790?source=rss",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "簗和生農相、首相に辞表提出 道路予算カット発言などで引責 - 日本経済新聞",
+     "desc": "簗和生農相、首相に辞表提出 道路予算カット発言などで引責 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YZVdhU3lWOXJCLUtJRnhYVVdFUXNmVkhmbExydlpnMjhENmIyYXJ3V0p4QmN1SFRxTkVXQWttZlpnMTZxN1NnSFE2WmUzQ2xVaExkQmtHTW9IRDhIZlIzZVdGZFhqUXZ1bGhROA?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261015-31",
+   "title": "高市首相の国会答弁や発言が波紋",
+   "firstSeen": "2026-10-15",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-15": 0
+   },
+   "peak": 0,
+   "worldScore": 0,
+   "worldCoverage": "0/18",
+   "jpScore": 17,
+   "jpCoverage": "2/6",
+   "gap": -17,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "化粧など「男性より時間かかる」 高市首相、国会審議巡り吐露",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026101400855&g=pol&m=rss",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "高市首相「化粧や料理で男性より余分に時間」 国会改革めぐり - 日本経済新聞",
+     "desc": "高市首相「化粧や料理で男性より余分に時間」 国会改革めぐり 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SSkdFa05RWm9ZVDlqUEw2LXlXQ0w2UmRDSjdvMXBISkRVbFoyM3pocVItSk9qWVBhNDcyTDFJdEdDWHY3Ri1tWDc0TmJVZHRhT1FxNEJ5NTN1dk1TdTVleWtnS0hjYVkxRkQzbg?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261015-32",
+   "title": "ユーチューバーの男を名誉毀損容疑で逮捕",
+   "firstSeen": "2026-10-15",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-15": 0
+   },
+   "peak": 0,
+   "worldScore": 0,
+   "worldCoverage": "0/18",
+   "jpScore": 17,
+   "jpCoverage": "2/6",
+   "gap": -17,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "ユーチューバー「ＫＥＮＺＯ」逮捕 名誉毀損容疑、被害者死去―京都府警",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026101401214&g=soc&m=rss",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "動画投稿で名誉毀損疑い ユーチューバーの男逮捕 - 日本経済新聞",
+     "desc": "動画投稿で名誉毀損疑い ユーチューバーの男逮捕 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE93aG1KTTQtX3RvZnV6ZE9ZWXpsdk5XNDBwNWF6ak9aSWU0OS1DSTJ2SEt3U2k4U2FCWHV6MW9RUm44bWUyU1Jxb29oTVZDRE9XcFdfeFhYVGlMRjExVXNBeFVYc3JoSTBXWTY1RQ?oc=5",
      "via": "googlenews"
     }
    ]
