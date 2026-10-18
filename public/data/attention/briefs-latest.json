@@ -1,6 +1,6 @@
 {
- "date": "2026-10-16",
- "generatedAt": "2026-10-15T21:51:13.877Z",
+ "date": "2026-10-19",
+ "generatedAt": "2026-10-18T21:49:06.610Z",
  "model": "gemini-3.8-flash",
  "measured": {
   "world": 18,
@@ -8,94 +8,485 @@
  },
  "articles": [
   {
-   "id": "intl-brief-2026-10-16-s-20261008-07",
+   "id": "intl-brief-2026-10-19-s-20261001-16",
    "stream": "intl",
    "depth": "brief",
    "section": "world",
-   "headline": "イエメン暫定首都の宮殿にミサイル攻撃、死傷者発生",
-   "originalTitle": "Five killed in Houthi strike on presidential palace in Aden",
-   "outlet": "ABC Australia",
-   "url": "https://www.abc.net.au/news/2026-10-16/houthis-attack-aden-killing-five-and-wounding-16/107268204",
+   "headline": "仏大統領、全国的な抗議暴動を受け沈静化と秩序を呼びかけ",
+   "originalTitle": "Macron calls for 'calm and order' after riots across France",
+   "outlet": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
    "region": "overseas",
    "category": null,
-   "score": 26,
-   "tier": "interest",
-   "pubDate": "2026-10-15T21:51:13.877Z",
+   "score": 46,
+   "tier": "should",
+   "pubDate": "2026-10-18T21:49:06.610Z",
    "body": null,
-   "summary": "イエメンの反政府勢力フーシ派が南部アデンにある大統領宮殿をミサイルやドローンで攻撃しました。現地当局によると少なくとも5人が死亡し、16人が負傷しました。首相や閣僚らは無事でした。フーシ派はサウジアラビア軍の作戦本部を標的にしたと主張しています。サウジ主導の連合軍側はフーシ派が地域諸国から部品を得ていると非難しました。現場のアルマーシク宮殿は国際承認を受けた暫定政府の拠点です。",
+   "summary": "フランスのマクロン大統領は、全国的な抗議活動が暴動や略奪に発展したことを受け、沈静化と秩序を呼びかけました。生活費や燃料価格の高騰を訴えるデモ隊約55万人が参加し、一部が暴徒化しました。マクロン氏は暴力を正当化できないと非難し、関与者は法廷で裁かれると述べました。パリやリモージュなどで市庁舎への放火や略奪が発生し、約2400人が拘束されました。",
    "sources": [
     {
-     "outlet": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-10-16/houthis-attack-aden-killing-five-and-wounding-16/107268204",
-     "date": "2026-10-16",
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+     "date": "2026-10-19",
      "access": "body",
      "via": null,
-     "note": "Five killed in Houthi strike on presidential palace in Aden"
+     "note": "Macron calls for 'calm and order' after riots across France"
     },
     {
-     "outlet": "BBC",
-     "url": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
-     "date": "2026-10-16",
-     "access": "body",
+     "outlet": "New York Times",
+     "url": "https://www.nytimes.com/2026/10/18/world/france-limoges-fire-arson-protests.html",
+     "date": "2026-10-19",
+     "access": "excerpt",
      "via": null,
-     "note": "Houthi missile attack on Yemeni presidential palace kills two, minister says"
+     "note": "The French City of Limoges Wasn’t Known for Unrest. Then Rioters Set Fire to Its City Hall."
+    },
+    {
+     "outlet": "The Guardian",
+     "url": "https://www.theguardian.com/world/2026/oct/18/french-government-crisis-talks-violent-unrest-policing-macron",
+     "date": "2026-10-19",
+     "access": "excerpt",
+     "via": null,
+     "note": "Macron criticises ‘unbridled violence’ after days of unrest and 2,000 arrests across France"
+    },
+    {
+     "outlet": "NPR",
+     "url": "https://www.npr.org/2026/10/17/nx-s1-6006735/student-protests-widen-into-greater-social-unrest-in-france",
+     "date": "2026-10-19",
+     "access": "excerpt",
+     "via": null,
+     "note": "Student protests widen into greater social unrest in France"
     },
     {
      "outlet": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/15/houthis-target-yemens-presidential-palace-in-aden-with-missiles?traffic_source=rss",
-     "date": "2026-10-16",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/macron-condemns-violence-after-riots-lead-to-looting-and-mass-arrests?traffic_source=rss",
+     "date": "2026-10-19",
      "access": "excerpt",
      "via": null,
-     "note": "At least 5 killed in Houthi attack on Yemen’s presidential palace in Aden"
+     "note": "Macron condemns violence after riots lead to looting and mass arrests"
+    },
+    {
+     "outlet": "Deutsche Welle",
+     "url": "https://www.dw.com/en/france-protesters-clash-with-police-in-nationwide-protests-amid-rising-social-polarization/a-79685584?maca=en-rss-en-world-4025-rdf",
+     "date": "2026-10-19",
+     "access": "excerpt",
+     "via": null,
+     "note": "France: Protesters clash with police in nationwide protests, amid rising social polarization"
     },
     {
      "outlet": "France 24",
-     "url": "https://www.france24.com/en/middle-east/20261015-houthi-attack-on-palace-used-by-yemen-government-in-aden-kills-five",
-     "date": "2026-10-16",
+     "url": "https://www.france24.com/en/france/20261018-macron-says-nothing-justifies-violence-in-protests-during-address-to-nation",
+     "date": "2026-10-19",
+     "access": "headline",
+     "via": null,
+     "note": "🔴 Macron says 'nothing justifies' violence in protests during address to nation"
+    },
+    {
+     "outlet": "Euronews",
+     "url": "https://www.euronews.com/2026/10/18/macron-vows-to-hold-those-who-sought-to-bring-down-the-republic-accountable-after-riots",
+     "date": "2026-10-19",
      "access": "excerpt",
      "via": null,
-     "note": "Houthi attack on palace used by Yemen government in Aden kills five"
+     "note": "Macron vows to hold those who sought to “bring down the Republic” accountable after riots"
     },
     {
      "outlet": "South China Morning Post",
-     "url": "https://www.scmp.com/news/world/middle-east/article/3371065/houthis-launch-deadly-attack-presidential-palace-yemens-aden?utm_source=rss_feed",
-     "date": "2026-10-16",
+     "url": "https://www.scmp.com/news/world/europe/article/3371327/paris-police-new-battles-protesters-and-looters?utm_source=rss_feed",
+     "date": "2026-10-19",
      "access": "excerpt",
      "via": null,
-     "note": "Houthis launch deadly attack on presidential palace in Yemen’s Aden"
+     "note": "Paris police in new battles with protesters and looters"
+    },
+    {
+     "outlet": "CBS News",
+     "url": "https://www.cbsnews.com/news/protests-france-rising-living-costs-students/",
+     "date": "2026-10-19",
+     "access": "excerpt",
+     "via": null,
+     "note": "More than 1,800 arrested in France after protester violence erupts"
     },
     {
      "outlet": "The Straits Times",
-     "url": "https://www.straitstimes.com/world/middle-east/houthis-attack-presidential-palace-complex-in-yemens-aden-pm-unharmed-officials-say",
-     "date": "2026-10-16",
+     "url": "https://www.straitstimes.com/world/europe/macron-condemns-shocking-scenes-of-violence-across-france",
+     "date": "2026-10-19",
      "access": "excerpt",
      "via": null,
-     "note": "Houthis attack presidential palace complex in Yemen’s Aden, PM unharmed, officials say"
+     "note": "Macron denounces ‘unbridled’ violence as France hit by new clashes"
     },
     {
      "outlet": "Reuters",
      "url": null,
-     "date": "2026-10-16",
+     "date": "2026-10-19",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "Houthis attack presidential palace complex in Yemen's Aden, PM unharmed, officials say - Reuters"
+     "note": "Macron condemns \"shocking\" scenes of violence across France - Reuters"
     },
     {
-     "outlet": "The Guardian",
-     "url": "https://www.theguardian.com/world/2026/oct/15/houthi-missiles-strike-aden-yemen",
-     "date": "2026-10-16",
+     "outlet": "Associated Press",
+     "url": null,
+     "date": "2026-10-19",
      "access": "excerpt",
-     "via": null,
-     "note": "Houthi missiles strike Saudi-led forces HQ at presidential palace in Aden"
+     "via": "Google ニュース",
+     "note": "France’s Macron vows to hold accountable those who ‘sought to bring down the Republic’ - AP News"
+    },
+    {
+     "outlet": "Bloomberg",
+     "url": null,
+     "date": "2026-10-19",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "France Struggles to Contain Fallout From Nationwide Protests - Bloomberg.com"
     }
    ],
    "continuity": {
-    "previousDate": "2026-10-08",
-    "previousScore": 26,
-    "note": "4日連続で報じられている"
+    "previousDate": "2026-10-01",
+    "previousScore": 46,
+    "note": "9日連続で報じられている"
    },
    "coverage": {
-    "world": "8/18",
+    "world": "14/18",
+    "jp": "4/6",
+    "worldTotal": 18,
+    "jpTotal": 6
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "gemini-3.8-flash"
+  },
+  {
+   "id": "intl-brief-2026-10-19-s-20261019-01",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "world",
+   "headline": "カナダ軍基地の火災で4人死亡、首相「平時で最悪の悲劇」",
+   "originalTitle": "Carney Says Fire at Canadian Forces Base Wainwright in Alberta Killed 4 and Injured Dozens",
+   "outlet": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/18/world/canada/canadian-army-base-fire-kills-4.html",
+   "region": "overseas",
+   "category": null,
+   "score": 39,
+   "tier": "should",
+   "pubDate": "2026-10-18T21:49:06.610Z",
+   "body": null,
+   "summary": "カナダのアルバータ州にあるウェインライト軍事基地で大規模な火災が発生し、軍人4人が死亡、39人が入院しました。カーニー首相は、平時における国内軍の歴史の中で最悪の悲劇の一つだと述べました。軍によると、訓練場の草原火災が強風によって急速に広がり、演習中の部隊に向かったとされます。国防省は原因の調査を続けており、テロ活動の兆候はないとしています。",
+   "sources": [
+    {
+     "outlet": "New York Times",
+     "url": "https://www.nytimes.com/2026/10/18/world/canada/canadian-army-base-fire-kills-4.html",
+     "date": "2026-10-19",
+     "access": "excerpt",
+     "via": null,
+     "note": "Carney Says Fire at Canadian Forces Base Wainwright in Alberta Killed 4 and Injured Dozens"
+    },
+    {
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
+     "date": "2026-10-19",
+     "access": "body",
+     "via": null,
+     "note": "What we know so far about deadly fire at Canadian military base"
+    },
+    {
+     "outlet": "The Guardian",
+     "url": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
+     "date": "2026-10-19",
+     "access": "excerpt",
+     "via": null,
+     "note": "Four people killed in ‘violent, fast-moving’ fire at Canadian military base"
+    },
+    {
+     "outlet": "NPR",
+     "url": "https://www.npr.org/2026/10/18/nx-s1-6007276/fire-alberta-deadly-canada-military-base",
+     "date": "2026-10-19",
+     "access": "excerpt",
+     "via": null,
+     "note": "Carney says 4 service members killed and dozens injured in fire at Alberta military base"
+    },
+    {
+     "outlet": "Euronews",
+     "url": "https://www.euronews.com/2026/10/18/canada-reports-fatalities-and-injuries-following-incident-at-military-base",
+     "date": "2026-10-19",
+     "access": "excerpt",
+     "via": null,
+     "note": "Canada reports 'fatalities and injuries' following incident at military base"
+    },
+    {
+     "outlet": "CBS News",
+     "url": "https://www.cbsnews.com/news/deadly-incident-fire-alberta-canada-military-base-cfb-wainwright/",
+     "date": "2026-10-19",
+     "access": "excerpt",
+     "via": null,
+     "note": "4 dead after large fire breaks out at Canadian military base, officials say"
+    },
+    {
+     "outlet": "The Straits Times",
+     "url": "https://www.straitstimes.com/world/fire-at-canadian-military-base-kills-seven-cbc-reports",
+     "date": "2026-10-19",
+     "access": "excerpt",
+     "via": null,
+     "note": "Four killed after high winds turn grass fire deadly at Canadian military base, report says"
+    },
+    {
+     "outlet": "Reuters",
+     "url": null,
+     "date": "2026-10-19",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "At least 4 killed in major fire at Canadian military base - Reuters"
+    },
+    {
+     "outlet": "Associated Press",
+     "url": null,
+     "date": "2026-10-19",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Carney says 4 service members killed and dozens injured in fire at Alberta military base - AP News"
+    },
+    {
+     "outlet": "Bloomberg",
+     "url": null,
+     "date": "2026-10-19",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Four Canadian Soldiers Killed in Military Base Fire, Carney Says - Bloomberg.com"
+    },
+    {
+     "outlet": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-10-19/canadian-military-fire-mark-carney/107281574",
+     "date": "2026-10-19",
+     "access": "excerpt",
+     "via": null,
+     "note": "Fatal military base fire among Canada's worst peacetime tragedies, PM says"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "11/18",
+    "jp": "1/6",
+    "worldTotal": 18,
+    "jpTotal": 6
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "gemini-3.8-flash"
+  },
+  {
+   "id": "intl-brief-2026-10-19-s-20261019-03",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "world",
+   "headline": "トランプ氏、イスラエルのネタニヤフ首相支持を表明",
+   "originalTitle": "Trump endorses Netanyahu ahead of Israeli elections, calling him 'great warrior prime minister'",
+   "outlet": "Sky News",
+   "url": "https://news.sky.com/story/trump-endorses-netanyahu-ahead-of-israeli-elections-calling-him-great-warrior-prime-minister-13600658",
+   "region": "overseas",
+   "category": null,
+   "score": 36,
+   "tier": "should",
+   "pubDate": "2026-10-18T21:49:06.610Z",
+   "body": null,
+   "summary": "米国のトランプ大統領は、10月27日に総選挙を控えるイスラエルのネタニヤフ首相への支持を表明しました。自身のSNSでネタニヤフ氏を「偉大な戦士の首相」と称賛し、同氏の党への投票を呼びかけました。トランプ氏はネタニヤフ氏が厳しい反対に直面しながらも耐え抜いたと主張しています。ネタニヤフ氏は支持表明を受け、自らのSNSに投稿するなど歓迎の姿勢を示しました。",
+   "sources": [
+    {
+     "outlet": "Sky News",
+     "url": "https://news.sky.com/story/trump-endorses-netanyahu-ahead-of-israeli-elections-calling-him-great-warrior-prime-minister-13600658",
+     "date": "2026-10-19",
+     "access": "excerpt",
+     "via": null,
+     "note": "Trump endorses Netanyahu ahead of Israeli elections, calling him 'great warrior prime minister'"
+    },
+    {
+     "outlet": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-10-19/trump-endorses-netanyahu-ahead-of-israeli-election/107281646",
+     "date": "2026-10-19",
+     "access": "body",
+     "via": null,
+     "note": "Trump endorses 'great warrior' Netanyahu ahead of Israeli election"
+    },
+    {
+     "outlet": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/18/trump-endorses-netanyahu-in-israeli-legislative-elections?traffic_source=rss",
+     "date": "2026-10-19",
+     "access": "excerpt",
+     "via": null,
+     "note": "Trump endorses Netanyahu in Israeli legislative elections"
+    },
+    {
+     "outlet": "France 24",
+     "url": "https://www.france24.com/en/middle-east/20261018-trump-endorses-embattled-israeli-pm-netanyahu-ahead-of-october-27-election",
+     "date": "2026-10-19",
+     "access": "excerpt",
+     "via": null,
+     "note": "Trump endorses embattled Israeli PM Netanyahu ahead of October 27 election"
+    },
+    {
+     "outlet": "South China Morning Post",
+     "url": "https://www.scmp.com/news/world/middle-east/article/3371326/trump-endorses-ally-netanyahu-israeli-election-praising-great-warrior-prime-minister?utm_source=rss_feed",
+     "date": "2026-10-19",
+     "access": "excerpt",
+     "via": null,
+     "note": "Trump endorses ally Netanyahu in Israeli election, praising ‘great warrior prime minister’"
+    },
+    {
+     "outlet": "CBS News",
+     "url": "https://www.cbsnews.com/news/trump-endorses-israel-prime-minister-benjamin-netanyahu-reelection/",
+     "date": "2026-10-19",
+     "access": "excerpt",
+     "via": null,
+     "note": "Trump endorses Israel&#039;s Netanyahu ahead of reelection bid"
+    },
+    {
+     "outlet": "The Straits Times",
+     "url": "https://www.straitstimes.com/world/united-states/trump-endorses-netanyahu-in-israeli-election",
+     "date": "2026-10-19",
+     "access": "excerpt",
+     "via": null,
+     "note": "Trump endorses Netanyahu in Israeli election"
+    },
+    {
+     "outlet": "Reuters",
+     "url": null,
+     "date": "2026-10-19",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Trump endorses Netanyahu in close Israeli election - Reuters"
+    },
+    {
+     "outlet": "Associated Press",
+     "url": null,
+     "date": "2026-10-19",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection - AP News"
+    },
+    {
+     "outlet": "Bloomberg",
+     "url": null,
+     "date": "2026-10-19",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Trump Endorses Netanyahu for Reelection as Israeli Leader - Bloomberg.com"
+    },
+    {
+     "outlet": "Financial Times",
+     "url": null,
+     "date": "2026-10-19",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Trump endorses Netanyahu ahead of Israeli elections - Financial Times"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "11/18",
+    "jp": "1/6",
+    "worldTotal": 18,
+    "jpTotal": 6
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "gemini-3.8-flash"
+  },
+  {
+   "id": "intl-brief-2026-10-19-s-20261019-02",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "world",
+   "headline": "ヨルダン川西岸で入植者が欧州外交官らを襲撃",
+   "originalTitle": "U.S. Officials Condemn West Bank Attacks as Netanyahu Casts Doubt on Them",
+   "outlet": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/18/world/middleeast/netanyahu-settler-attacks-west-bank-palestinians.html",
+   "region": "overseas",
+   "category": null,
+   "score": 31,
+   "tier": "should",
+   "pubDate": "2026-10-18T21:49:06.610Z",
+   "body": null,
+   "summary": "ヨルダン川西岸で、覆面をしたイスラエル人入植者が欧州の外交団や同行していたフランスの市長を襲撃しました。外交団はオリーブ収穫を行うパレスチナ人を巡る現地情勢を把握するため村を訪れていました。ベルギーやフランス政府、イスラエル軍は暴力を非難しました。一方、イスラエルのネタニヤフ首相府は、イスラエルを中傷する協調工作の一環だと疑問を呈しています。",
+   "sources": [
+    {
+     "outlet": "New York Times",
+     "url": "https://www.nytimes.com/2026/10/18/world/middleeast/netanyahu-settler-attacks-west-bank-palestinians.html",
+     "date": "2026-10-19",
+     "access": "excerpt",
+     "via": null,
+     "note": "U.S. Officials Condemn West Bank Attacks as Netanyahu Casts Doubt on Them"
+    },
+    {
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-10-19",
+     "access": "body",
+     "via": null,
+     "note": "European diplomats attacked by Israeli settlers in West Bank"
+    },
+    {
+     "outlet": "The Guardian",
+     "url": "https://www.theguardian.com/world/2026/oct/18/guardian-reporter-filmed-masked-militants-seconds-before-west-bank-attack-on-french-mayor",
+     "date": "2026-10-19",
+     "access": "excerpt",
+     "via": null,
+     "note": "Guardian reporter filmed masked militants seconds before West Bank attack on French mayor"
+    },
+    {
+     "outlet": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/aje-onl-nf_draft-2-yt-short-oct-18-p-daily-1-181026?traffic_source=rss",
+     "date": "2026-10-19",
+     "access": "excerpt",
+     "via": null,
+     "note": "JERUSALEM DAILY: Settlers attack EU diplomats"
+    },
+    {
+     "outlet": "France 24",
+     "url": "https://www.france24.com/en/video/20261018-israeli-settlers-attack-european-diplomats-beat-french-mayor",
+     "date": "2026-10-19",
+     "access": "excerpt",
+     "via": null,
+     "note": "Israeli settlers attack European diplomats, beat French mayor"
+    },
+    {
+     "outlet": "CBS News",
+     "url": "https://www.cbsnews.com/news/israel-west-bank-heidi-levine-journalist-attack/",
+     "date": "2026-10-19",
+     "access": "excerpt",
+     "via": null,
+     "note": "Huckabee calls for prosecution of journalist&#039;s West Bank attackers"
+    },
+    {
+     "outlet": "Times of India",
+     "url": "https://timesofindia.indiatimes.com/world/middle-east/us-officials-visit-palestinian-christian-town-after-settler-attacks-on-foreign-diplomats/articleshow/135031384.cms",
+     "date": "2026-10-19",
+     "access": "headline",
+     "via": null,
+     "note": "US visit after settler attacks: Officials go to Taybeh; violence keeps rising"
+    },
+    {
+     "outlet": "The Straits Times",
+     "url": "https://www.straitstimes.com/world/middle-east/us-officials-visit-palestinian-village-after-settler-attacks-on-diplomats",
+     "date": "2026-10-19",
+     "access": "excerpt",
+     "via": null,
+     "note": "US officials visit Palestinian village after settler attacks on diplomats"
+    },
+    {
+     "outlet": "Reuters",
+     "url": null,
+     "date": "2026-10-19",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "US officials visit Palestinian village after settler attacks on diplomats - Reuters"
+    },
+    {
+     "outlet": "Sky News",
+     "url": "https://news.sky.com/story/israeli-settlers-attack-european-diplomats-and-french-mayor-in-west-bank-belgium-says-13600419",
+     "date": "2026-10-19",
+     "access": "excerpt",
+     "via": null,
+     "note": "US condemns 'despicable' Israeli settler attack that seriously injured American photographer"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "10/18",
     "jp": "0/6",
     "worldTotal": 18,
     "jpTotal": 6
@@ -105,90 +496,78 @@
    "summarizedBy": "gemini-3.8-flash"
   },
   {
-   "id": "intl-brief-2026-10-16-s-20261016-02",
+   "id": "intl-brief-2026-10-19-s-20261015-02",
    "stream": "intl",
    "depth": "brief",
    "section": "world",
-   "headline": "米大統領、銃乱射犯の銃殺刑ライブ配信計画を撤回",
-   "originalTitle": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
-   "outlet": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
+   "headline": "ウクライナ、スターリンク制限を巡り米政府と対立",
+   "originalTitle": "Ukraine and the U.S. are at odds over Starshield. Here's what to know",
+   "outlet": "NPR",
+   "url": "https://www.npr.org/2026/10/18/nx-s1-6007382/ukraine-us-starshield-starlink-what-to-know-trump",
    "region": "overseas",
    "category": null,
-   "score": 25,
+   "score": 19,
    "tier": "interest",
-   "pubDate": "2026-10-15T21:51:13.877Z",
+   "pubDate": "2026-10-18T21:49:06.610Z",
    "body": null,
-   "summary": "トランプ米大統領は元軍医ニダル・ハサン死刑囚の銃殺刑をライブ配信する計画を中止しました。死刑執行自体は予定通り行われます。2009年の基地銃乱射事件を起こした同死刑囚を巡り、国防総省が配信を計画していました。しかし国内外の政治家や宗教関係者、人権団体などから批判が集中しました。大統領は、多くの善良な人々が見ることを望まないと説明しています。被害者遺族による現地での立ち会いは認められます。",
+   "summary": "ウクライナのゼレンスキー大統領は、衛星通信サービス「スターリンク」の利用制限について、米政府の指示との見方を示しました。ゼレンスキー氏は制限がロシアのドローンや兵器の迎撃任務に支障をきたしていると主張しています。一方、米政府側は遮断命令を否定しています。両者の間では軍事作戦に不可欠な通信網を巡る主張の食い違いが続いています。",
    "sources": [
     {
-     "outlet": "BBC",
-     "url": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
-     "date": "2026-10-16",
+     "outlet": "NPR",
+     "url": "https://www.npr.org/2026/10/18/nx-s1-6007382/ukraine-us-starshield-starlink-what-to-know-trump",
+     "date": "2026-10-19",
      "access": "body",
      "via": null,
-     "note": "Trump calls off livestream of Fort Hood attacker's execution by firing squad"
+     "note": "Ukraine and the U.S. are at odds over Starshield. Here's what to know"
+    },
+    {
+     "outlet": "Deutsche Welle",
+     "url": "https://www.dw.com/en/how-reliant-is-ukraine-on-the-us-controlled-starlink-internet-service/a-79689729?maca=en-rss-en-world-4025-rdf",
+     "date": "2026-10-19",
+     "access": "body",
+     "via": null,
+     "note": "How reliant is Ukraine on the US-controlled Starlink internet service?"
     },
     {
      "outlet": "France 24",
-     "url": "https://www.france24.com/en/video/20261015-former-us-generals-push-to-stop-barbaric-firing-squad-execution-livestream",
-     "date": "2026-10-16",
+     "url": "https://www.france24.com/en/tv-shows/tech-24/20261018-who-capped-starlink-in-ukraine-musk-trump-and-rubio-give-three-different-answers",
+     "date": "2026-10-19",
      "access": "excerpt",
      "via": null,
-     "note": "Former US generals push to stop 'barbaric' firing squad execution livestream"
+     "note": "Who capped Starlink in Ukraine? Musk, Trump and Rubio give three different answers"
     },
     {
-     "outlet": "South China Morning Post",
-     "url": "https://www.scmp.com/news/world/united-states-canada/article/3371056/trump-cancels-planned-pentagon-live-stream-fort-hood-shooters-firing-squad-execution?utm_source=rss_feed",
-     "date": "2026-10-16",
+     "outlet": "CBS News",
+     "url": "https://www.cbsnews.com/news/ukraine-trump-zelenskyy-starlink-russia-war-drones/",
+     "date": "2026-10-19",
      "access": "excerpt",
      "via": null,
-     "note": "Trump scraps livestream for Fort Hood shooter’s execution by firing squad"
-    },
-    {
-     "outlet": "The Straits Times",
-     "url": "https://www.straitstimes.com/world/united-states/trump-says-military-execution-will-not-be-livestreamed",
-     "date": "2026-10-16",
-     "access": "excerpt",
-     "via": null,
-     "note": "Trump says military execution will not be live-streamed"
-    },
-    {
-     "outlet": "Reuters",
-     "url": null,
-     "date": "2026-10-16",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Trump shuts down Hegseth plan to livestream military execution - Reuters"
-    },
-    {
-     "outlet": "Associated Press",
-     "url": null,
-     "date": "2026-10-16",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Trump, after bipartisan backlash, says Pentagon won't livestream execution of Fort Hood shooter - AP News"
+     "note": "Ukraine still can&#039;t intercept drones due to Starlink issues, Zelenskyy says"
     },
     {
      "outlet": "Bloomberg",
      "url": null,
-     "date": "2026-10-16",
+     "date": "2026-10-19",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "Trump Rejects Hegseth’s Bid to Stream Firing Squad Execution - Bloomberg.com"
+     "note": "Zelenskyy Says Starlink Restrictions on Ukraine Look Deliberate - Bloomberg.com"
     },
     {
      "outlet": "Financial Times",
      "url": null,
-     "date": "2026-10-16",
+     "date": "2026-10-19",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "Donald Trump cancels Pete Hegseth’s plan to livestream execution after backlash - Financial Times"
+     "note": "US threatens Europe over Starlink restrictions - Financial Times"
     }
    ],
-   "continuity": null,
+   "continuity": {
+    "previousDate": "2026-10-15",
+    "previousScore": 25,
+    "note": "3日連続で報じられている"
+   },
    "coverage": {
-    "world": "8/18",
+    "world": "6/18",
     "jp": "2/6",
     "worldTotal": 18,
     "jpTotal": 6
@@ -198,514 +577,64 @@
    "summarizedBy": "gemini-3.8-flash"
   },
   {
-   "id": "intl-brief-2026-10-16-s-20261016-03",
+   "id": "intl-brief-2026-10-19-s-20261019-10",
    "stream": "intl",
    "depth": "brief",
    "section": "world",
-   "headline": "ウクライナ、ロシア製油所への攻撃を再開と表明",
-   "originalTitle": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
-   "outlet": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
-   "region": "overseas",
-   "category": null,
-   "score": 21,
-   "tier": "interest",
-   "pubDate": "2026-10-15T21:51:13.877Z",
-   "body": null,
-   "summary": "ウクライナのゼレンスキー大統領はロシアの石油精製施設への攻撃を再開すると表明しました。米国の要請で一時停止していた休戦状態を終了させました。ロシアがウクライナのエネルギー施設への攻撃を継続したためとしています。発表直後、ロシアのリャザン州にある製油所がウクライナのドローン攻撃を受け火災が発生しました。ウクライナ側は米国から情報共有の停止などの圧力を受けていたと不満をあらわにしています。",
-   "sources": [
-    {
-     "outlet": "BBC",
-     "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
-     "date": "2026-10-16",
-     "access": "body",
-     "via": null,
-     "note": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume"
-    },
-    {
-     "outlet": "NPR",
-     "url": "https://www.npr.org/2026/10/15/g-s1-148194/russia-ukraine-war",
-     "date": "2026-10-16",
-     "access": "body",
-     "via": null,
-     "note": "Ukraine resumes attacks on Russian oil refineries, officials say, after brief truce"
-    },
-    {
-     "outlet": "New York Times",
-     "url": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html",
-     "date": "2026-10-16",
-     "access": "excerpt",
-     "via": null,
-     "note": "Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump"
-    },
-    {
-     "outlet": "France 24",
-     "url": "https://www.france24.com/en/video/20261015-we-re-done-ukraine-resumes-strikes-on-russian-oil-refineries-as-only-leverage-for-peace-talks-1",
-     "date": "2026-10-16",
-     "access": "excerpt",
-     "via": null,
-     "note": "'We're done': Ukraine resumes strikes on Russian oil refineries as 'only leverage' for peace talks"
-    },
-    {
-     "outlet": "Financial Times",
-     "url": null,
-     "date": "2026-10-16",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Zelenskyy defies Trump as Ukraine resumes strikes on Russian refineries - Financial Times"
-    }
-   ],
-   "continuity": null,
-   "coverage": {
-    "world": "5/18",
-    "jp": "1/6",
-    "worldTotal": 18,
-    "jpTotal": 6
-   },
-   "bodyAvailable": true,
-   "discussionUrl": null,
-   "summarizedBy": "gemini-3.8-flash"
-  },
-  {
-   "id": "intl-brief-2026-10-16-s-20261008-09",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "world",
-   "headline": "ベネズエラ前大統領夫妻、米法廷で新たな拷問罪に無罪主張",
-   "originalTitle": "Maduro pleads not guilty to new torture-related charges in New York",
-   "outlet": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/cqwyrn1l74zro?at_medium=RSS&at_campaign=rss",
-   "region": "overseas",
-   "category": null,
-   "score": 21,
-   "tier": "interest",
-   "pubDate": "2026-10-15T21:51:13.877Z",
-   "body": null,
-   "summary": "米ニューヨークの連邦裁判所に拘束中のベネズエラ前大統領マドゥロ被告と妻フロレス被告が出廷しました。米検察が追加した拷問共謀などの罪状に対し、両被告は無罪を主張しました。起訴状は、両被告が国民や米国人に対し電気ショックなどの拷問を組織的に指示したと主張しています。被告側は虚偽の告発だと反論し、国家主権による免責を求めて訴訟の棄却を主張しています。公判は2027年6月に予定されています。",
-   "sources": [
-    {
-     "outlet": "BBC",
-     "url": "https://www.bbc.co.uk/news/articles/cqwyrn1l74zro?at_medium=RSS&at_campaign=rss",
-     "date": "2026-10-16",
-     "access": "body",
-     "via": null,
-     "note": "Maduro pleads not guilty to new torture-related charges in New York"
-    },
-    {
-     "outlet": "The Guardian",
-     "url": "https://www.theguardian.com/world/2026/oct/15/nicolas-maduro-torture-allegations-cilia-flores",
-     "date": "2026-10-16",
-     "access": "body",
-     "via": null,
-     "note": "Nicolás Maduro tells New York court new torture allegations are ‘false’"
-    },
-    {
-     "outlet": "France 24",
-     "url": "https://www.france24.com/en/americas/20261015-venezuela-s-nicolas-maduro-and-wife-cilia-flores-deny-us-torture-charges-as-false-accusations",
-     "date": "2026-10-16",
-     "access": "excerpt",
-     "via": null,
-     "note": "Venezuela's Nicolas Maduro and wife Cilia Flores deny US torture charges as 'false accusations'"
-    },
-    {
-     "outlet": "South China Morning Post",
-     "url": "https://www.scmp.com/news/world/americas/article/3371060/venezuelas-maduro-says-new-us-torture-allegations-are-false?utm_source=rss_feed",
-     "date": "2026-10-16",
-     "access": "excerpt",
-     "via": null,
-     "note": "Venezuela’s Maduro says new US torture allegations are ‘false’"
-    },
-    {
-     "outlet": "Times of India",
-     "url": "https://timesofindia.indiatimes.com/world/us/false-accusations-maduro-wife-rejects-fresh-torture-allegations-in-new-york-court/articleshow/134973301.cms",
-     "date": "2026-10-16",
-     "access": "headline",
-     "via": null,
-     "note": "‘False accusations’: Maduro, wife rejects fresh torture allegations in New York court"
-    },
-    {
-     "outlet": "The Straits Times",
-     "url": "https://www.straitstimes.com/world/united-states/venezuelas-maduro-and-wife-plead-not-guilty-to-us-torture-charges",
-     "date": "2026-10-16",
-     "access": "excerpt",
-     "via": null,
-     "note": "Venezuela’s Maduro and wife plead not guilty to US torture charges"
-    }
-   ],
-   "continuity": {
-    "previousDate": "2026-10-08",
-    "previousScore": 35,
-    "note": "3日連続で報じられている"
-   },
-   "coverage": {
-    "world": "6/18",
-    "jp": "1/6",
-    "worldTotal": 18,
-    "jpTotal": 6
-   },
-   "bodyAvailable": true,
-   "discussionUrl": null,
-   "summarizedBy": "gemini-3.8-flash"
-  },
-  {
-   "id": "intl-brief-2026-10-16-s-20261016-04",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "world",
-   "headline": "パキスタン北西部の学校で屋根崩壊、児童ら30人以上死亡",
-   "originalTitle": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
-   "outlet": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
-   "region": "overseas",
-   "category": null,
-   "score": 20,
-   "tier": "interest",
-   "pubDate": "2026-10-15T21:51:13.877Z",
-   "body": null,
-   "summary": "パキスタン北西部ペシャワールにある私立学校で屋根が崩落しました。授業中だった教室の天井が抜け落ち、児童ら30人以上と女性教師1人が死亡しました。50人以上が負傷し、一部は重体です。校舎は老朽化しており仮設の構造だったと指摘されています。地元警察は建物の基準違反がなかったかを調べるため、学校の所有者を逮捕しました。近隣住民らがシャベルなどを使い、がれきの下から救出作業を行いました。",
-   "sources": [
-    {
-     "outlet": "BBC",
-     "url": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
-     "date": "2026-10-16",
-     "access": "body",
-     "via": null,
-     "note": "At least 33 pupils and teacher killed after school roof collapses in Pakistan"
-    },
-    {
-     "outlet": "New York Times",
-     "url": "https://www.nytimes.com/2026/10/15/world/asia/pakistan-school-collapse.html",
-     "date": "2026-10-16",
-     "access": "excerpt",
-     "via": null,
-     "note": "32 Children Killed After School Roof Collapses in Pakistan"
-    },
-    {
-     "outlet": "NPR",
-     "url": "https://www.npr.org/2026/10/15/nx-s1-6003437/school-roof-collapse-pakistan",
-     "date": "2026-10-16",
-     "access": "excerpt",
-     "via": null,
-     "note": "School roof collapse kills at least 29, injures more than 3 dozen in Pakistan"
-    },
-    {
-     "outlet": "CBS News",
-     "url": "https://www.cbsnews.com/news/pakistan-school-collapse-peshawar-student-teacher-deaths/",
-     "date": "2026-10-16",
-     "access": "excerpt",
-     "via": null,
-     "note": "Pakistan school collapse kills almost 30 students and a teacher"
-    },
-    {
-     "outlet": "Associated Press",
-     "url": null,
-     "date": "2026-10-16",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "School roof collapse in Pakistan kills at least 35 and injures more than 50 - AP News"
-    },
-    {
-     "outlet": "The Guardian",
-     "url": "https://www.theguardian.com/world/2026/oct/15/pakistan-peshawar-school-roof-collapse-leaves-students-dead",
-     "date": "2026-10-16",
-     "access": "excerpt",
-     "via": null,
-     "note": "Pakistan school roof collapse kills at least 34 children and teacher"
-    }
-   ],
-   "continuity": null,
-   "coverage": {
-    "world": "6/18",
-    "jp": "0/6",
-    "worldTotal": 18,
-    "jpTotal": 6
-   },
-   "bodyAvailable": true,
-   "discussionUrl": null,
-   "summarizedBy": "gemini-3.8-flash"
-  },
-  {
-   "id": "intl-brief-2026-10-16-s-20261016-01",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "world",
-   "headline": "英仏海峡トンネルの仏側ターミナルでバスと列車衝突、19人負傷",
-   "originalTitle": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
-   "outlet": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
-   "region": "overseas",
-   "category": null,
-   "score": 17,
-   "tier": "interest",
-   "pubDate": "2026-10-15T21:51:13.877Z",
-   "body": null,
-   "summary": "フランス北部カレー近郊の英仏海峡トンネル積み込み施設でミニバスと貨物列車が衝突しました。地元当局によると運転手を含む19人が負傷し、うち2人が重傷を負って搬送されました。全員の命に別条はないとされています。ミニバスはシャトルトレインに乗るトラック運転手を運んでいました。事故原因は調査中ですが、出発しようとした列車にバスが衝突したとみられます。旅客列車ユーロスターの運行に影響はありません。",
-   "sources": [
-    {
-     "outlet": "BBC",
-     "url": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
-     "date": "2026-10-16",
-     "access": "excerpt",
-     "via": null,
-     "note": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured"
-    },
-    {
-     "outlet": "The Guardian",
-     "url": "https://www.theguardian.com/world/2026/oct/15/nineteen-injured-minibus-collision-eurotunnel-calais",
-     "date": "2026-10-16",
-     "access": "body",
-     "via": null,
-     "note": "Nineteen injured in collision between minibus and train on Eurotunnel loading platform"
-    },
-    {
-     "outlet": "Euronews",
-     "url": "https://www.euronews.com/2026/10/15/at-least-19-injured-as-coach-collides-with-train-near-channel-tunnel",
-     "date": "2026-10-16",
-     "access": "excerpt",
-     "via": null,
-     "note": "At least 19 injured as minibus collides with train near Channel Tunnel"
-    },
-    {
-     "outlet": "The Straits Times",
-     "url": "https://www.straitstimes.com/world/europe/nineteen-injured-after-train-and-coach-collide-in-northern-france",
-     "date": "2026-10-16",
-     "access": "excerpt",
-     "via": null,
-     "note": "Nineteen hurt after minibus hits train at French channel tunnel terminal"
-    },
-    {
-     "outlet": "Reuters",
-     "url": null,
-     "date": "2026-10-16",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Nineteen hurt after minibus hits train at French channel tunnel terminal - Reuters"
-    }
-   ],
-   "continuity": null,
-   "coverage": {
-    "world": "5/18",
-    "jp": "0/6",
-    "worldTotal": 18,
-    "jpTotal": 6
-   },
-   "bodyAvailable": true,
-   "discussionUrl": null,
-   "summarizedBy": "gemini-3.8-flash"
-  },
-  {
-   "id": "intl-brief-2026-10-16-s-20261012-01",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "world",
-   "headline": "ホルムズ海峡でタンカー火災、サウジへの攻撃も相次ぐ",
-   "originalTitle": "Saudi Arabia postpones major sporting events amid Houthi attacks",
-   "outlet": "France 24",
-   "url": "https://www.france24.com/en/saudi-arabia-postpones-major-sporting-events-amid-houthi-attacks",
-   "region": "overseas",
-   "category": null,
-   "score": 17,
-   "tier": "interest",
-   "pubDate": "2026-10-15T21:51:13.877Z",
-   "body": null,
-   "summary": "オマーン湾やホルムズ海峡付近でタンカーの火災や商船の沈没が相次いでいます。イラン海軍は追跡装置を切って禁止空域に入った船が炎上したと発表しました。周辺海域では機雷や飛翔体による商船被害が続いています。一方、サウジアラビアではフーシ派が国営石油大手サウジアラムコの本社や空港を攻撃しました。同国内では度重なるインフラ攻撃を受けて主要なスポーツイベントの延期や中止が発表されています。",
-   "sources": [
-    {
-     "outlet": "France 24",
-     "url": "https://www.france24.com/en/saudi-arabia-postpones-major-sporting-events-amid-houthi-attacks",
-     "date": "2026-10-16",
-     "access": "excerpt",
-     "via": null,
-     "note": "Saudi Arabia postpones major sporting events amid Houthi attacks"
-    },
-    {
-     "outlet": "Euronews",
-     "url": "https://www.euronews.com/2026/10/15/another-tanker-catches-fire-near-hormuz-after-two-cargo-ships-sunk-in-attacks",
-     "date": "2026-10-16",
-     "access": "body",
-     "via": null,
-     "note": "Another tanker catches fire near Hormuz after two cargo ships sunk in attacks"
-    },
-    {
-     "outlet": "South China Morning Post",
-     "url": "https://www.scmp.com/news/china/article/3371064/china-bought-half-brazils-oil-exports-iran-war-shut-hormuz-driving-sales-record?utm_source=rss_feed",
-     "date": "2026-10-16",
-     "access": "excerpt",
-     "via": null,
-     "note": "China bought half of Brazil’s oil exports as Iran war shut Hormuz, driving sales to record"
-    },
-    {
-     "outlet": "The Straits Times",
-     "url": "https://www.straitstimes.com/world/middle-east/how-are-yemens-houthis-attacking-saudi-arabia-so-effectively",
-     "date": "2026-10-16",
-     "access": "excerpt",
-     "via": null,
-     "note": "How are Yemen’s Houthis attacking Saudi Arabia so effectively?"
-    },
-    {
-     "outlet": "Reuters",
-     "url": null,
-     "date": "2026-10-16",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "How Aramco learned to keep pumping oil under fire - Reuters"
-    },
-    {
-     "outlet": "Associated Press",
-     "url": null,
-     "date": "2026-10-16",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Iran-backed Houthis strike Saudi oil company Aramco’s headquarters, officials say - AP News"
-    }
-   ],
-   "continuity": {
-    "previousDate": "2026-10-12",
-    "previousScore": 48,
-    "note": "3日連続で報じられている"
-   },
-   "coverage": {
-    "world": "6/18",
-    "jp": "1/6",
-    "worldTotal": 18,
-    "jpTotal": 6
-   },
-   "bodyAvailable": true,
-   "discussionUrl": null,
-   "summarizedBy": "gemini-3.8-flash"
-  },
-  {
-   "id": "intl-brief-2026-10-16-s-20261016-10",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "world",
-   "headline": "世界でハイテク株安、米物価高とAI設備投資負担が重荷",
-   "originalTitle": "Tech market sell-off deepens amid fears over US inflation and AI debt",
+   "headline": "伊ミラノやリスボンで生活費高騰に対する抗議デモ",
+   "originalTitle": "‘We are suffocating’: protests spread to Lisbon and Milan as housing and living cost tensions intensify",
    "outlet": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt",
-   "region": "overseas",
-   "category": null,
-   "score": 16,
-   "tier": "interest",
-   "pubDate": "2026-10-15T21:51:13.877Z",
-   "body": null,
-   "summary": "米国の根強いインフレ指標を受け、世界市場で半導体やAI関連銘柄の売りが広がりました。米国の9月卸売物価指数や消費者物価指数が予想を上回り、米連邦準備制度理事会による利上げへの警戒感が高まりました。韓国の総合株価指数が一時8%超急落し、日本の半導体株や米株式市場の主要指数も軒並み下落しました。エネルギーコストの上昇や、AI関連企業の多額の負債負担に対する投資家の懸念が相場を冷え込ませています。",
-   "sources": [
-    {
-     "outlet": "The Guardian",
-     "url": "https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt",
-     "date": "2026-10-16",
-     "access": "body",
-     "via": null,
-     "note": "Tech market sell-off deepens amid fears over US inflation and AI debt"
-    },
-    {
-     "outlet": "France 24",
-     "url": "https://www.france24.com/en/video/20261015-us-consumer-inflation-hotter-than-expected-as-midterms-loom",
-     "date": "2026-10-16",
-     "access": "excerpt",
-     "via": null,
-     "note": "US consumer inflation hotter than expected as midterms loom"
-    },
-    {
-     "outlet": "Reuters",
-     "url": null,
-     "date": "2026-10-16",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "US chip stocks set to wipe out $2 trillion after latest selloff - Reuters"
-    },
-    {
-     "outlet": "Bloomberg",
-     "url": null,
-     "date": "2026-10-16",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "US Producer Prices Rise by Most in More Than Four Years - Bloomberg.com"
-    },
-    {
-     "outlet": "Financial Times",
-     "url": null,
-     "date": "2026-10-16",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Treasuries rally as investors seek shelter from AI turbulence - Financial Times"
-    }
-   ],
-   "continuity": null,
-   "coverage": {
-    "world": "5/18",
-    "jp": "0/6",
-    "worldTotal": 18,
-    "jpTotal": 6
-   },
-   "bodyAvailable": true,
-   "discussionUrl": null,
-   "summarizedBy": "gemini-3.8-flash"
-  },
-  {
-   "id": "intl-brief-2026-10-16-s-20261007-02",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "world",
-   "headline": "黒海でケミカルタンカーにドローン攻撃、乗組員7人不明",
-   "originalTitle": "Seven crew missing after drone attack leaves tanker ablaze off Romania's coast",
-   "outlet": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.theguardian.com/world/2026/oct/18/lisbon-milan-protests-housing-living-costs",
    "region": "overseas",
    "category": null,
    "score": 15,
    "tier": "interest",
-   "pubDate": "2026-10-15T21:51:13.877Z",
+   "pubDate": "2026-10-18T21:49:06.610Z",
    "body": null,
-   "summary": "黒海のルーマニア沖でケミカルタンカーがドローン攻撃を受けて炎上しました。乗組員12人のうち7人が行方不明となり、救助活動が続いています。ルーマニア大統領は同船を含む2隻が攻撃されたと確認しました。ロシア軍ドローン群の関与が疑われています。ロシア側はウクライナ向けの軍事物資を積んだ船を攻撃したと発表しました。黒海西岸ではブルガリア沖でも商船が攻撃されるなど民間船への被害が相次いでいます。",
+   "summary": "イタリアのミラノやポルトガルのリスボンで、生活費や住宅価格の高騰に抗議するデモが拡大しました。ミラノではデモ隊が警察と衝突し、バリケードに放火するなどして約50人が拘束され、警官2人が負傷しました。イタリアのメローニ首相はフーリガンが混乱を招くために抗議を利用したと非難しました。リスボンでも中心部でテントを設置して抗議する動きが起きています。",
    "sources": [
     {
-     "outlet": "BBC",
-     "url": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss",
-     "date": "2026-10-16",
-     "access": "body",
-     "via": null,
-     "note": "Seven crew missing after drone attack leaves tanker ablaze off Romania's coast"
-    },
-    {
-     "outlet": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/at-least-7-crew-members-missing-after-drone-attacks-on-ships-in-black-sea?traffic_source=rss",
-     "date": "2026-10-16",
-     "access": "body",
-     "via": null,
-     "note": "At least 7 crew members missing after drone attacks on ships in Black Sea"
-    },
-    {
-     "outlet": "Deutsche Welle",
-     "url": "https://www.dw.com/en/romania-2-ships-on-fire-in-black-sea-7-crew-missing/a-79667003?maca=en-rss-en-world-4025-rdf",
-     "date": "2026-10-16",
-     "access": "excerpt",
-     "via": null,
-     "note": "Romania: 2 ships on fire in Black Sea, 7 crew missing"
-    },
-    {
-     "outlet": "France 24",
-     "url": "https://www.france24.com/en/seven-missing-off-romania-after-latest-black-sea-drone-attacks",
-     "date": "2026-10-16",
-     "access": "excerpt",
-     "via": null,
-     "note": "Seven missing off Romania after latest Black Sea drone attacks"
-    },
-    {
      "outlet": "The Guardian",
-     "url": "https://www.theguardian.com/world/2026/oct/15/sailors-missing-drone-strike-tankers-romania-black-sea-coast",
-     "date": "2026-10-16",
+     "url": "https://www.theguardian.com/world/2026/oct/18/lisbon-milan-protests-housing-living-costs",
+     "date": "2026-10-19",
+     "access": "body",
+     "via": null,
+     "note": "‘We are suffocating’: protests spread to Lisbon and Milan as housing and living cost tensions intensify"
+    },
+    {
+     "outlet": "Sky News",
+     "url": "https://news.sky.com/story/second-day-of-violence-in-milan-as-protesters-clash-with-police-13600765",
+     "date": "2026-10-19",
      "access": "excerpt",
      "via": null,
-     "note": "Seven sailors missing after drones strike tankers near Romania’s Black Sea coast"
+     "note": "Second day of violence in Milan as protesters clash with police"
+    },
+    {
+     "outlet": "Euronews",
+     "url": "https://www.euronews.com/2026/10/18/cost-of-living-protests-50-detained-in-milan-clashes-in-turin-and-bologna",
+     "date": "2026-10-19",
+     "access": "excerpt",
+     "via": null,
+     "note": "Cost-of-living protests: 50 detained in Milan, clashes in Turin and Bologna"
+    },
+    {
+     "outlet": "The Straits Times",
+     "url": "https://www.straitstimes.com/world/europe/milan-police-clash-with-protesters-on-second-day-of-unrest",
+     "date": "2026-10-19",
+     "access": "excerpt",
+     "via": null,
+     "note": "Milan police clash with protesters on second day of unrest"
+    },
+    {
+     "outlet": "Reuters",
+     "url": null,
+     "date": "2026-10-19",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Milan police clash with protesters on second day of unrest - Reuters"
     }
    ],
-   "continuity": {
-    "previousDate": "2026-10-07",
-    "previousScore": 18,
-    "note": "4日連続で報じられている"
-   },
+   "continuity": null,
    "coverage": {
     "world": "5/18",
     "jp": "0/6",
@@ -717,51 +646,185 @@
    "summarizedBy": "gemini-3.8-flash"
   },
   {
-   "id": "intl-brief-2026-10-16-s-20261016-08",
+   "id": "intl-brief-2026-10-19-s-20261019-08",
    "stream": "intl",
    "depth": "brief",
    "section": "world",
-   "headline": "インドネシアで森林火災の煙害深刻、ドライアイス散布を実験",
-   "originalTitle": "Indonesia fights fire with dry ice as toxic haze spreads across region",
+   "headline": "ハリケーンがメキシコ太平洋岸に接近、洪水に警戒",
+   "originalTitle": "Hurricane Trudy threatens Mexican coast with flooding, mudslides",
+   "outlet": "South China Morning Post",
+   "url": "https://www.scmp.com/news/world/americas/article/3371318/hurricane-trudy-threatens-mexican-coast-flooding-mudslides?utm_source=rss_feed",
+   "region": "overseas",
+   "category": null,
+   "score": 14,
+   "tier": "interest",
+   "pubDate": "2026-10-18T21:49:06.610Z",
+   "body": null,
+   "summary": "ハリケーン「トルーディ」がメキシコの太平洋岸に大雨と強風をもたらし、当局が警戒を呼びかけています。米国立ハリケーンセンターは、生命を脅かす洪水や土砂崩れが発生する恐れがあると警告しました。ハリケーン警報はコリマ州マンサニヨからハリスコ州カボコリエンテスにかけて発令されています。メキシコ海軍は高波や河川の増水、地滑りに対し、厳重な警戒を促しました。",
+   "sources": [
+    {
+     "outlet": "South China Morning Post",
+     "url": "https://www.scmp.com/news/world/americas/article/3371318/hurricane-trudy-threatens-mexican-coast-flooding-mudslides?utm_source=rss_feed",
+     "date": "2026-10-19",
+     "access": "excerpt",
+     "via": null,
+     "note": "Hurricane Trudy threatens Mexican coast with flooding, mudslides"
+    },
+    {
+     "outlet": "CBS News",
+     "url": "https://www.cbsnews.com/news/hurricane-trudy-mexico-pacific-coast-life-threatening-flooding-mudslides/",
+     "date": "2026-10-19",
+     "access": "body",
+     "via": null,
+     "note": "Hurricane threatens to bring flooding, mudslides to Mexico&#039;s Pacific Coast"
+    },
+    {
+     "outlet": "The Straits Times",
+     "url": "https://www.straitstimes.com/world/hurricane-trudy-lashes-mexicos-pacific-coast-but-is-set-to-weaken-tonight",
+     "date": "2026-10-19",
+     "access": "excerpt",
+     "via": null,
+     "note": "Hurricane Trudy lashes Mexico's Pacific coast, but is set to weaken tonight"
+    },
+    {
+     "outlet": "Reuters",
+     "url": null,
+     "date": "2026-10-19",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Hurricane Trudy lashes Mexico's Pacific coast, but is set to weaken tonight - Reuters"
+    },
+    {
+     "outlet": "Associated Press",
+     "url": null,
+     "date": "2026-10-19",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Hurricane Trudy strengthens to Category 2 as it approaches Mexico coast - AP News"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "5/18",
+    "jp": "0/6",
+    "worldTotal": 18,
+    "jpTotal": 6
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "gemini-3.8-flash"
+  },
+  {
+   "id": "intl-brief-2026-10-19-s-20261014-23",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "world",
+   "headline": "米国がウクライナへの情報共有を再開、ゼレンスキー氏謝意",
+   "originalTitle": "Zelenskyy thanks Trump for resumed intelligence sharing after US Starlink ‘message’",
    "outlet": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/oct/15/indonesia-fires-dry-ice-dropped-toxic-haze-spreads",
+   "url": "https://www.theguardian.com/world/2026/oct/18/killed-injured-russia-ukraine-strikes-power-infrastructure",
+   "region": "overseas",
+   "category": null,
+   "score": 12,
+   "tier": "interest",
+   "pubDate": "2026-10-18T21:49:06.610Z",
+   "body": null,
+   "summary": "ウクライナのゼレンスキー大統領は、ロシアの弾道ミサイル攻撃を防ぐための軍事情報共有を米国が再開したと明らかにしました。ゼレンスキー氏は米国の再開決定に謝意を示しました。一方で一時的な情報停止やスターリンクの速度制限は米政府からのメッセージだったと主張しています。また、米露間のディーゼル輸入や制裁免除の動きはウクライナに打撃を与えるとの懸念も表明しました。",
+   "sources": [
+    {
+     "outlet": "The Guardian",
+     "url": "https://www.theguardian.com/world/2026/oct/18/killed-injured-russia-ukraine-strikes-power-infrastructure",
+     "date": "2026-10-19",
+     "access": "body",
+     "via": null,
+     "note": "Zelenskyy thanks Trump for resumed intelligence sharing after US Starlink ‘message’"
+    },
+    {
+     "outlet": "The Straits Times",
+     "url": "https://www.straitstimes.com/world/europe/us-resumes-intelligence-sharing-with-ukraine-after-pause-zelenskiy-says",
+     "date": "2026-10-19",
+     "access": "body",
+     "via": null,
+     "note": "US resumes intelligence-sharing with Ukraine after pause, Zelenskiy says"
+    },
+    {
+     "outlet": "Reuters",
+     "url": null,
+     "date": "2026-10-19",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Zelenskiy says he spoke to US envoys Witkoff, Kushner - Reuters"
+    },
+    {
+     "outlet": "Bloomberg",
+     "url": null,
+     "date": "2026-10-19",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Zelenskyy Says Speaking to Witkoff, Kushner About Peace Meeting - Bloomberg.com"
+    }
+   ],
+   "continuity": {
+    "previousDate": "2026-10-14",
+    "previousScore": 12,
+    "note": "2日連続で報じられている"
+   },
+   "coverage": {
+    "world": "4/18",
+    "jp": "1/6",
+    "worldTotal": 18,
+    "jpTotal": 6
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "gemini-3.8-flash"
+  },
+  {
+   "id": "intl-brief-2026-10-19-s-20261019-04",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "world",
+   "headline": "印コルカタのヒンズー教祭典で群衆事故、17人以上死亡",
+   "originalTitle": "At Least 19 Dead After Stampede at Indian Religious Event",
+   "outlet": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/17/world/asia/india-deadly-stampede-kolkata.html",
    "region": "overseas",
    "category": null,
    "score": 11,
    "tier": "interest",
-   "pubDate": "2026-10-15T21:51:13.877Z",
+   "pubDate": "2026-10-18T21:49:06.610Z",
    "body": null,
-   "summary": "インドネシアで大規模な森林火災が続き、有害な煙が近隣国へ広がっています。政府は煙霧を抑えるため、南スマトラ州で飛行機からドライアイスを散布する試験を開始しました。これまで散水や人工降雨を行っていましたが被害は収まっていません。今年に入り約90万ヘクタールが焼失し、過去10年で最悪の水準となっています。煙害はシンガポールやマレーシアにも漂い、学校の閉鎖や呼吸器疾患の急増を招いています。",
+   "summary": "インド東部コルカタのヒンズー教祭典で群衆の押し合いが発生し、少なくとも17人が死亡、25人が負傷しました。突然の降雨により、雨宿りをしようとした人々が殺到したことが原因とみられます。警察当局によると、アナウンス後に混乱が生じ、人々が押し合って転倒し将棋倒しになりました。モディ首相は悲惨な事故だと述べ、地元政府が支援を行っていると明らかにしました。",
    "sources": [
     {
-     "outlet": "The Guardian",
-     "url": "https://www.theguardian.com/world/2026/oct/15/indonesia-fires-dry-ice-dropped-toxic-haze-spreads",
-     "date": "2026-10-16",
+     "outlet": "New York Times",
+     "url": "https://www.nytimes.com/2026/10/17/world/asia/india-deadly-stampede-kolkata.html",
+     "date": "2026-10-19",
+     "access": "excerpt",
+     "via": null,
+     "note": "At Least 19 Dead After Stampede at Indian Religious Event"
+    },
+    {
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
+     "date": "2026-10-19",
      "access": "body",
      "via": null,
-     "note": "Indonesia fights fire with dry ice as toxic haze spreads across region"
+     "note": "At least 17 dead in crush at Hindu festival event in India"
     },
     {
-     "outlet": "Sky News",
-     "url": "https://news.sky.com/story/eerie-orange-smog-shrouds-indonesian-cities-13599502",
-     "date": "2026-10-16",
+     "outlet": "Associated Press",
+     "url": null,
+     "date": "2026-10-19",
      "access": "excerpt",
-     "via": null,
-     "note": "Eerie orange smog shrouds Indonesian cities"
-    },
-    {
-     "outlet": "Euronews",
-     "url": "https://www.euronews.com/video/2026/10/15/indonesias-skies-turn-apocalyptic-orange-as-smoke-blankets-singapore",
-     "date": "2026-10-16",
-     "access": "excerpt",
-     "via": null,
-     "note": "Indonesia's skies turn apocalyptic orange as smoke blankets Singapore"
+     "via": "Google ニュース",
+     "note": "Stampede at a popular Hindu festival in eastern India kills 19 - AP News"
     }
    ],
    "continuity": null,
    "coverage": {
     "world": "3/18",
-    "jp": "1/6",
+    "jp": "0/6",
     "worldTotal": 18,
     "jpTotal": 6
    },
@@ -770,53 +833,53 @@
    "summarizedBy": "gemini-3.8-flash"
   },
   {
-   "id": "intl-brief-2026-10-16-s-20261016-15",
+   "id": "intl-brief-2026-10-19-s-20261019-09",
    "stream": "intl",
    "depth": "brief",
-   "section": "gap",
-   "headline": "EU首脳会議、対中貿易赤字や次期中期予算めぐり議論",
-   "originalTitle": "EU summit to focus on China, Ukraine and bloc budget",
-   "outlet": "Deutsche Welle",
-   "url": "https://www.dw.com/en/eu-summit-to-focus-on-china-ukraine-and-bloc-budget/a-79665338?maca=en-rss-en-world-4025-rdf",
+   "section": "world",
+   "headline": "トランプ氏、裁判所の命令に反し公営ゴルフ場改修を推進へ",
+   "originalTitle": "Trump says Washington golf course renovation to start in November, despite judge’s order",
+   "outlet": "The Straits Times",
+   "url": "https://www.straitstimes.com/world/united-states/trump-says-washington-golf-course-renovation-to-start-in-november-despite-judges-order",
    "region": "overseas",
    "category": null,
    "score": 11,
    "tier": "interest",
-   "pubDate": "2026-10-15T21:51:13.877Z",
+   "pubDate": "2026-10-18T21:49:06.610Z",
    "body": null,
-   "summary": "欧州連合の首脳会議がブリュッセルで開幕しました。対中貿易赤字の縮小に向けた対策や、2028年からの次期中期予算が主な議題です。中国企業への公的補助金による市場歪曲に対し、仏独首脳らは強硬な措置を求めています。一方、次期予算を巡っては拠出額を抑えたい国と受取額を重視する国の対立が続いています。来年に控える各国選挙の影響や支出の優先順位を巡り、首脳らの利害調整は難航しています。",
+   "summary": "トランプ米大統領は、首都ワシントンのイーストポトマック・ゴルフ場の全面改修工事を11月に開始すると発表しました。事前の通知命令に反して樹木を伐採したとして連邦判事から批判され、事業は係争となっています。トランプ政権側は担当判事が政府に敵意を示しているとして忌避を求めています。トランプ氏は改修後に世界規模の大会を開催できるコースになると主張しています。",
    "sources": [
     {
-     "outlet": "Deutsche Welle",
-     "url": "https://www.dw.com/en/eu-summit-to-focus-on-china-ukraine-and-bloc-budget/a-79665338?maca=en-rss-en-world-4025-rdf",
-     "date": "2026-10-16",
+     "outlet": "The Straits Times",
+     "url": "https://www.straitstimes.com/world/united-states/trump-says-washington-golf-course-renovation-to-start-in-november-despite-judges-order",
+     "date": "2026-10-19",
      "access": "body",
      "via": null,
-     "note": "EU summit to focus on China, Ukraine and bloc budget"
+     "note": "Trump says Washington golf course renovation to start in November, despite judge’s order"
     },
     {
-     "outlet": "France 24",
-     "url": "https://www.france24.com/en/eu-member-states-set-for-budget-clash",
-     "date": "2026-10-16",
+     "outlet": "Reuters",
+     "url": null,
+     "date": "2026-10-19",
      "access": "excerpt",
-     "via": null,
-     "note": "EU member states set for budget clash"
+     "via": "Google ニュース",
+     "note": "Trump says Washington golf course renovation to start in November, despite judge's order - Reuters"
     },
     {
-     "outlet": "Euronews",
-     "url": "https://www.euronews.com/2026/10/15/inconclusive-sparring-at-eu-summit-puts-budget-timeline-into-question",
-     "date": "2026-10-16",
+     "outlet": "Associated Press",
+     "url": null,
+     "date": "2026-10-19",
      "access": "excerpt",
-     "via": null,
-     "note": "Inconclusive sparring at EU summit puts budget timeline into question"
+     "via": "Google ニュース",
+     "note": "Trump says he will close historic DC golf course for 15 months of renovations - AP News"
     },
     {
-     "outlet": "South China Morning Post",
-     "url": "https://www.scmp.com/news/world/europe/article/3371036/eu-leaders-clash-over-trillion-euro-budget-fears-grow-over-french-election-fallout?utm_source=rss_feed",
-     "date": "2026-10-16",
+     "outlet": "Bloomberg",
+     "url": null,
+     "date": "2026-10-19",
      "access": "excerpt",
-     "via": null,
-     "note": "EU leaders clash over trillion-euro budget as fears grow over French election fallout"
+     "via": "Google ニュース",
+     "note": "Trump Says DC Golf Course Project Moving Forward Despite Lawsuit - Bloomberg.com"
     }
    ],
    "continuity": null,
@@ -831,45 +894,102 @@
    "summarizedBy": "gemini-3.8-flash"
   },
   {
-   "id": "intl-brief-2026-10-16-s-20261016-11",
+   "id": "intl-brief-2026-10-19-s-20261012-27",
    "stream": "intl",
    "depth": "brief",
    "section": "gap",
-   "headline": "ガザへの民間物資搬入が停止、米主導拠点の建設も難航",
-   "originalTitle": "Israel says commercial goods no longer entering Gaza after merchants suspend coordination",
-   "outlet": "The Straits Times",
-   "url": "https://www.straitstimes.com/world/middle-east/israel-says-commercial-goods-no-longer-entering-gaza-after-merchants-suspend-coordination",
+   "headline": "イラン、ホルムズ海峡再開に関する提案維持を表明",
+   "originalTitle": "Iran says offer, conditions to reopen Strait of Hormuz still on",
+   "outlet": "CBS News",
+   "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-yemen-houthis-saudi-arabia/",
    "region": "overseas",
    "category": null,
    "score": 8,
    "tier": "interest",
-   "pubDate": "2026-10-15T21:51:13.877Z",
+   "pubDate": "2026-10-18T21:49:06.610Z",
    "body": null,
-   "summary": "パレスチナ自治区ガザ地区への民間商業物資の搬入が停止しました。イスラエル当局によると、ハマスが課した手数料を巡り地元業者が調整を取りやめたことが原因です。食料不足の悪化が懸念されています。また、トランプ米大統領が主導する機関が計画した国際安定化部隊の拠点建設について、イスラエルが入域を許可せず着工を阻んでいることが明らかになりました。境界封鎖が続いており計画は停滞しています。",
+   "summary": "イランのアラグチ外相は、ホルムズ海峡を7日以内に再開するという米国への提案が依然有効であると述べました。イラン側は港湾封鎖の解除や石油輸出制裁の解除、全地域での停戦などを再開条件としています。米国側は核問題を優先して協議する姿勢を示しており、交渉は停滞しています。アラグチ外相は米国が条件を受け入れれば6日以内に海峡を再開可能だと主張しました。",
    "sources": [
     {
-     "outlet": "The Straits Times",
-     "url": "https://www.straitstimes.com/world/middle-east/israel-says-commercial-goods-no-longer-entering-gaza-after-merchants-suspend-coordination",
-     "date": "2026-10-16",
+     "outlet": "CBS News",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-yemen-houthis-saudi-arabia/",
+     "date": "2026-10-19",
      "access": "body",
      "via": null,
-     "note": "Israel says commercial goods no longer entering Gaza after merchants suspend coordination"
+     "note": "Iran says offer, conditions to reopen Strait of Hormuz still on"
     },
     {
-     "outlet": "Associated Press",
+     "outlet": "The Straits Times",
+     "url": "https://www.straitstimes.com/world/middle-east/iran-urges-us-to-accept-proposal-to-reopen-strait-of-hormuz",
+     "date": "2026-10-19",
+     "access": "body",
+     "via": null,
+     "note": "Iran urges US to accept proposal to reopen Strait of Hormuz"
+    },
+    {
+     "outlet": "Reuters",
      "url": null,
-     "date": "2026-10-16",
+     "date": "2026-10-19",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "Commercial goods are no longer entering Gaza, raising fears of worsening shortages in the territory - AP News"
-    },
+     "note": "Iran urges US to accept proposal to reopen Strait of Hormuz - Reuters"
+    }
+   ],
+   "continuity": {
+    "previousDate": "2026-10-12",
+    "previousScore": 8,
+    "note": "3日連続で報じられている"
+   },
+   "coverage": {
+    "world": "3/18",
+    "jp": "0/6",
+    "worldTotal": 18,
+    "jpTotal": 6
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "gemini-3.8-flash"
+  },
+  {
+   "id": "intl-brief-2026-10-19-s-20261019-21",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "gap",
+   "headline": "リトアニア領空でドローンが爆発、NATO機が緊急発進",
+   "originalTitle": "Possible drone explosion in northern Lithuania near Latvian border",
+   "outlet": "Euronews",
+   "url": "https://www.euronews.com/2026/10/18/possible-drone-explosion-in-northern-lithuania-near-latvian-border",
+   "region": "overseas",
+   "category": null,
+   "score": 8,
+   "tier": "interest",
+   "pubDate": "2026-10-18T21:49:06.610Z",
+   "body": null,
+   "summary": "リトアニア北部の領空にドローンとみられる飛行物体が侵入し、NATO戦闘機が緊急発進しました。飛行物体はラトビア国境近くで爆発し、北部や中部地域の住民に一時避難指示が出されました。ラトビア軍は戦闘機が撃墜したのではなく自爆した可能性があるとしています。リトアニア国防相によると、悪天候のためパイロットは物体を目視確認できませんでした。",
+   "sources": [
     {
-     "outlet": "The Guardian",
-     "url": "https://www.theguardian.com/us-news/2026/oct/14/israel-trump-peace-board-gaza-base",
-     "date": "2026-10-16",
+     "outlet": "Euronews",
+     "url": "https://www.euronews.com/2026/10/18/possible-drone-explosion-in-northern-lithuania-near-latvian-border",
+     "date": "2026-10-19",
      "access": "body",
      "via": null,
-     "note": "Israel blocks construction of key Gaza base created by Trump peace board"
+     "note": "Possible drone explosion in northern Lithuania near Latvian border"
+    },
+    {
+     "outlet": "South China Morning Post",
+     "url": "https://www.scmp.com/news/world/europe/article/3371323/lithuanians-take-shelter-nato-jets-scramble-suspected-drone-explodes?utm_source=rss_feed",
+     "date": "2026-10-19",
+     "access": "excerpt",
+     "via": null,
+     "note": "Lithuanians take shelter, Nato jets scramble as suspected drone explodes"
+    },
+    {
+     "outlet": "Reuters",
+     "url": null,
+     "date": "2026-10-19",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Ukraine 'regrets' possible diversion of its drones over Lithuania, foreign ministry says - Reuters"
     }
    ],
    "continuity": null,
@@ -884,88 +1004,43 @@
    "summarizedBy": "gemini-3.8-flash"
   },
   {
-   "id": "intl-brief-2026-10-16-s-20261016-05",
+   "id": "intl-brief-2026-10-19-s-20261015-07",
    "stream": "intl",
    "depth": "brief",
    "section": "gap",
-   "headline": "ブラジル議会、週労働時間を40時間に短縮する改憲案可決",
-   "originalTitle": "Brazil cuts work week to 40 hours in win for Lula ahead of runoff",
-   "outlet": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/oct/15/brazil-cuts-work-week-to-40-hours-lula-bolsonaro-election-runoff",
-   "region": "overseas",
-   "category": null,
-   "score": 8,
-   "tier": "interest",
-   "pubDate": "2026-10-15T21:51:13.877Z",
-   "body": null,
-   "summary": "ブラジル議会上院は週の法定労働時間の上限を44時間から40時間に短縮する憲法改正案を可決しました。給与を減らさずに週休2日制を保障し、週6日勤務を禁じる内容です。小売業や飲食業など約3000万人の労働者に影響すると試算されています。法案を後押しした左派のルラ大統領にとっては大きな成果となりました。大統領選の決選投票を控える中、対立する右派候補のボウソナロ上院議員も賛成に転じました。",
-   "sources": [
-    {
-     "outlet": "The Guardian",
-     "url": "https://www.theguardian.com/world/2026/oct/15/brazil-cuts-work-week-to-40-hours-lula-bolsonaro-election-runoff",
-     "date": "2026-10-16",
-     "access": "body",
-     "via": null,
-     "note": "Brazil cuts work week to 40 hours in win for Lula ahead of runoff"
-    },
-    {
-     "outlet": "BBC",
-     "url": "https://www.bbc.co.uk/news/articles/cmwy43pp08elo?at_medium=RSS&at_campaign=rss",
-     "date": "2026-10-16",
-     "access": "body",
-     "via": null,
-     "note": "Brazil's Congress approves shorter working week in win for Lula"
-    }
-   ],
-   "continuity": null,
-   "coverage": {
-    "world": "2/18",
-    "jp": "0/6",
-    "worldTotal": 18,
-    "jpTotal": 6
-   },
-   "bodyAvailable": true,
-   "discussionUrl": null,
-   "summarizedBy": "gemini-3.8-flash"
-  },
-  {
-   "id": "intl-brief-2026-10-16-s-20261015-07",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "gap",
-   "headline": "ケニアで2例目のエボラ感染確認、コンゴ流行の接触者",
-   "originalTitle": "Second Ebola Infection Announced in Kenya",
+   "headline": "ケニアでエボラ出血熱の感染者が累計8人に増加",
+   "originalTitle": "Kenya Confirms Four New Ebola Cases",
    "outlet": "New York Times",
-   "url": "https://www.nytimes.com/2026/10/15/world/africa/kenya-ebola-infections.html",
+   "url": "https://www.nytimes.com/2026/10/17/world/africa/kenya-ebola.html",
    "region": "overseas",
    "category": null,
-   "score": 8,
+   "score": 7,
    "tier": "interest",
-   "pubDate": "2026-10-15T21:51:13.877Z",
+   "pubDate": "2026-10-18T21:49:06.610Z",
    "body": null,
-   "summary": "ケニア保健省は同国内で2例目となるエボラ出血熱の感染者を確認したと発表しました。感染したのは先週死亡した国内初の感染者の親族です。患者は隔離施設で経過観察中に発症し、検査で陽性と判定されました。当局は初期段階で隔離されたため市中感染の証拠はないと説明しています。隣国コンゴ民主共和国では5月以降4000人以上が死亡する流行が続いており、周辺地域への感染拡大に対する警戒が続いています。",
+   "summary": "ケニア保健当局は、同国内で新たにエボラ出血熱の感染者が確認され、感染確認が累計8人になったと発表しました。感染した49歳の男性は食器や寝具を清掃する付き添い人で、コンゴから入国後に死亡した患者から感染したとみられます。感染者は隔離され、検査で陽性が確認されました。コンゴで拡大する流行が国境を越えて波及しており、ケニア国内で警戒が高まっています。",
    "sources": [
     {
      "outlet": "New York Times",
-     "url": "https://www.nytimes.com/2026/10/15/world/africa/kenya-ebola-infections.html",
-     "date": "2026-10-16",
+     "url": "https://www.nytimes.com/2026/10/17/world/africa/kenya-ebola.html",
+     "date": "2026-10-19",
      "access": "excerpt",
      "via": null,
-     "note": "Second Ebola Infection Announced in Kenya"
+     "note": "Kenya Confirms Four New Ebola Cases"
     },
     {
-     "outlet": "Euronews",
-     "url": "https://www.euronews.com/2026/10/15/kenya-records-second-ebola-case-as-outbreak-in-congo-keeps-growing",
-     "date": "2026-10-16",
+     "outlet": "The Straits Times",
+     "url": "https://www.straitstimes.com/world/kenya-confirms-eighth-ebola-case-as-regional-outbreak-spreads",
+     "date": "2026-10-19",
      "access": "body",
      "via": null,
-     "note": "Kenya records second Ebola case as outbreak in Congo keeps growing"
+     "note": "Kenya confirms eighth Ebola case as regional outbreak spreads"
     }
    ],
    "continuity": {
     "previousDate": "2026-10-15",
     "previousScore": 8,
-    "note": "2日連続で報じられている"
+    "note": "3日連続で報じられている"
    },
    "coverage": {
     "world": "2/18",
@@ -978,54 +1053,87 @@
    "summarizedBy": "gemini-3.8-flash"
   },
   {
-   "id": "intl-brief-2026-10-16-s-20261012-04",
+   "id": "intl-brief-2026-10-19-s-20261019-11",
    "stream": "intl",
    "depth": "brief",
    "section": "gap",
-   "headline": "米露の軽油取引合意、ウクライナ支援や米選挙めぐり物議",
-   "originalTitle": "How Trump's diesel deal with Russia will impact the United States and Ukraine",
-   "outlet": "Deutsche Welle",
-   "url": "https://www.dw.com/en/how-trump-s-diesel-deal-with-russia-will-impact-the-united-states-and-ukraine/a-79658596?maca=en-rss-en-world-4025-rdf",
+   "headline": "ブラジル大統領選、ルラ氏とボルソナロ氏が初の討論会へ",
+   "originalTitle": "Brazil's Bolsonaro, Lula face off in first debate as supporters fill streets",
+   "outlet": "The Straits Times",
+   "url": "https://www.straitstimes.com/world/brazils-bolsonaro-lula-head-into-first-debate-a-week-before-vote",
    "region": "overseas",
    "category": null,
-   "score": 7,
+   "score": 6,
    "tier": "interest",
-   "pubDate": "2026-10-15T21:51:13.877Z",
+   "pubDate": "2026-10-18T21:49:06.610Z",
    "body": null,
-   "summary": "トランプ米大統領がロシア産軽油の輸入合意を発表し、国内外で波紋が広がっています。合意には対露制裁の一時緩和が含まれます。ウクライナや欧州の同盟国からは反発の声が上がっています。燃料高に不満を持つ米国内の有権者を意識し、11月の中間選挙対策を狙った動きとの見方が出ています。ただし専門家からは、輸入規模が小さく米国内の価格引き下げ効果はほとんど見込めないとの指摘がなされています。",
+   "summary": "ブラジル大統領選の決選投票を前に、ルラ大統領とフラビオ・ボルソナロ上院議員が初のテレビ討論会に臨みます。サンパウロや首都ブラジリアでは、両候補の支持者が街頭に集まり大規模な集会を行いました。第1回投票ではボルソナロ氏が小差で首位に立ち、世論調査でも接戦が続いています。両陣営は第1回投票で棄権した約3300万人の有権者の獲得を目指しています。",
    "sources": [
     {
-     "outlet": "Deutsche Welle",
-     "url": "https://www.dw.com/en/how-trump-s-diesel-deal-with-russia-will-impact-the-united-states-and-ukraine/a-79658596?maca=en-rss-en-world-4025-rdf",
-     "date": "2026-10-16",
+     "outlet": "The Straits Times",
+     "url": "https://www.straitstimes.com/world/brazils-bolsonaro-lula-head-into-first-debate-a-week-before-vote",
+     "date": "2026-10-19",
      "access": "body",
      "via": null,
-     "note": "How Trump's diesel deal with Russia will impact the United States and Ukraine"
+     "note": "Brazil's Bolsonaro, Lula face off in first debate as supporters fill streets"
     },
     {
-     "outlet": "Euronews",
-     "url": "https://www.euronews.com/video/2026/10/15/trumps-russian-diesel-deal-driven-by-dubious-business-motives-latvian-mep-kols-tells-euron",
-     "date": "2026-10-16",
-     "access": "body",
-     "via": null,
-     "note": "Trump’s Russian diesel deal driven by ‘dubious business motives’, Latvian MEP Kols tells Euronews"
-    },
-    {
-     "outlet": "New York Times",
-     "url": "https://www.nytimes.com/video/world/europe/100000011205967/00vid-rv-trump-putin-deal.html",
-     "date": "2026-10-16",
+     "outlet": "Reuters",
+     "url": null,
+     "date": "2026-10-19",
      "access": "excerpt",
-     "via": null,
-     "note": "Why Trump Made a Diesel Deal With Putin"
+     "via": "Google ニュース",
+     "note": "Brazil's Bolsonaro, Lula face off in first debate as supporters fill streets - Reuters"
     }
    ],
-   "continuity": {
-    "previousDate": "2026-10-12",
-    "previousScore": 32,
-    "note": "4日連続で報じられている"
-   },
+   "continuity": null,
    "coverage": {
-    "world": "3/18",
+    "world": "2/18",
+    "jp": "0/6",
+    "worldTotal": 18,
+    "jpTotal": 6
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "gemini-3.8-flash"
+  },
+  {
+   "id": "intl-brief-2026-10-19-s-20261019-13",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "gap",
+   "headline": "ルーマニア軍、黒海の領海上でドローン2機を撃墜",
+   "originalTitle": "Romanian F-16 fighter jets shoot down two drones over Romanian territorial waters",
+   "outlet": "The Straits Times",
+   "url": "https://www.straitstimes.com/world/europe/romanian-f-16-fighter-jets-shoot-down-two-drones-over-romanian-territorial-waters",
+   "region": "overseas",
+   "category": null,
+   "score": 6,
+   "tier": "interest",
+   "pubDate": "2026-10-18T21:49:06.610Z",
+   "body": null,
+   "summary": "ルーマニア国防省は、自国のF16戦闘機が黒海の領海上でドローン2機を撃墜したと発表しました。国防相によると、撃墜されたのはロシア製のジェット推進型ドローンとみられ、戦闘機並みの速度で飛行していました。現場近くのスリナ運河周辺では、数日前にも化学品タンカー2隻が攻撃を受けていました。北大西洋理事会は黒海での抑止策を巡る会議を開く予定です。",
+   "sources": [
+    {
+     "outlet": "The Straits Times",
+     "url": "https://www.straitstimes.com/world/europe/romanian-f-16-fighter-jets-shoot-down-two-drones-over-romanian-territorial-waters",
+     "date": "2026-10-19",
+     "access": "body",
+     "via": null,
+     "note": "Romanian F-16 fighter jets shoot down two drones over Romanian territorial waters"
+    },
+    {
+     "outlet": "Reuters",
+     "url": null,
+     "date": "2026-10-19",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Romanian F-16 fighter jets shoot down two drones over Romanian territorial waters - Reuters"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "2/18",
     "jp": "0/6",
     "worldTotal": 18,
     "jpTotal": 6
