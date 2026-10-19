@@ -1,0 +1,2304 @@
+{
+ "date": "2026-10-20",
+ "generatedAt": "2026-10-19T21:51:33.398Z",
+ "measured": {
+  "world": 18,
+  "jp": 6
+ },
+ "unreachable": [],
+ "ranking": [
+  {
+   "id": "s-20261001-16",
+   "title": "仏でデモ暴徒化、一部都市に夜間外出禁止令",
+   "firstSeen": "2026-10-01",
+   "daysSeen": 10,
+   "history": {
+    "2026-10-01": 15,
+    "2026-10-02": 32,
+    "2026-10-05": 20,
+    "2026-10-06": 28,
+    "2026-10-07": 33,
+    "2026-10-08": 23,
+    "2026-10-09": 25,
+    "2026-10-14": 13,
+    "2026-10-19": 46,
+    "2026-10-20": 35
+   },
+   "peak": 46,
+   "worldScore": 35,
+   "worldCoverage": "12/18",
+   "jpScore": 42,
+   "jpCoverage": "4/6",
+   "gap": -7,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.42,
+     "title": "In pictures: French landmarks damaged and destroyed by violent protesters",
+     "desc": "France is used to protests but the violence and damage seen across the country is shocking many people.",
+     "url": "https://www.bbc.co.uk/news/articles/cmq8n7l0le11o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.53,
+     "title": "French authorities announce partial curfews as PM blames ‘ultra-left’ for exploiting protests – Europe live",
+     "desc": "Curfews to apply to parts of cities including Paris, Nice and Lyon after days of violence on French streets Macron criticises ‘unbridled violence’ after 2,400 arrests across France French PM Lecornu says he has asked prefects to implement “a number of partial curfews” in certain “localised” urban areas to stop further disorder, which he attributes to “the extreme-left” and some criminal elements. We will no doubt hear more on this from local authorities, as in the example of Marseille ( 10:32 ). Continue reading...",
+     "url": "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Protesters block Louvre in support of French student movement",
+     "desc": "French students are now blockading the world’s busiest museum.",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/protesters-block-louvre-in-support-of-french-student-movement?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.88,
+     "title": "France Imposes Curfews in Parts of Paris and Other Cities After Nationwide Rioting",
+     "desc": "The interior minister acknowledged that the police were underprepared for the scale of the riots. But Prime Minister Sébastien Lecornu defended their efforts and pledged to restore order.",
+     "url": "https://www.nytimes.com/2026/10/19/world/europe/france-protests-riots.html",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "🔴 France issues curfew for parts of central Paris",
+     "desc": "",
+     "url": "https://www.france24.com/en/france/20261019-live-french-pm-lecornu-calls-for-partial-curfews-in-cities-hit-by-riots-and-looting",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "France announces partial curfews after weekend of violence",
+     "desc": "It comes after cost-of-living protests descended into widespread violence and looting across France on Saturday. Clashes with police also continued on Sunday in some parts of the country.",
+     "url": "https://www.euronews.com/2026/10/19/french-pm-lecornu-calls-for-regional-authorities-to-impose-partial-curfews",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "France’s PM calls for curfews as nation grapples with unrest",
+     "desc": "The French prime minister called for localised curfews on Monday, as protesters blocked the entrance to the Louvre in Paris and authorities scrambled to stem public discontent that over the weekend saw mass cost-of-living protests spill over into some of the worst street violence in recent years. Prime Minister Sebastien Lecornu huddled with ministers in a crisis meeting after the interior minister said the police “had lost control” during the weekend’s unrest. With the Yellow Vests movement,...",
+     "url": "https://www.scmp.com/news/world/europe/article/3371411/frances-pm-calls-curfews-nation-grapples-unrest?utm_source=rss_feed",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "France vows to crack down after protests spiral out of control",
+     "desc": "French leaders call for local curfews and say an \"ultra-left movement\" was behind widespread violence and vandalism amid anti-government protests.",
+     "url": "https://www.cbsnews.com/news/france-riots-protests-macron-vows-order-pm-urges-curfews/",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "France announces curfews as government grapples with unrest",
+     "desc": "Partial curfews would be enforced on Monday and Tuesday in four northern cities, including Lille, to protect businesses.",
+     "url": "https://www.straitstimes.com/world/europe/france-announces-first-curfews-as-government-grapples-with-unrest",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "France in turmoil after riots and looting: What we know - Reuters",
+     "desc": "France in turmoil after riots and looting: What we know Reuters",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdnU5M25aUmFwSHBYZjhkMFl5RlU1dkZMVTVuSlBWeHZPX01SUGVZUGF3Wm94U2wwUlYzdWxxbGowVXhMM09ON3NFbjV0WElKTFVsZVlGQkprLTZQTGxkaEYwSDBxcHNUMWVDQmczLVlJWHd5Ym5Id2ozZDRENTBvWURQekl2NW9ablROeHI4Z0c4ZFlZM0x0Y2V3ZEFJUQ?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Paris police issue overnight curfew in 2 areas of French capital to try to prevent further disorder - AP News",
+     "desc": "Paris police issue overnight curfew in 2 areas of French capital to try to prevent further disorder AP News",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNTgxVjJGeG9KQlNaNkVXRVV2RzFVdDlSMUJMdjNVbTQ5MnpHZkMtOEdTM0JONUxrRldZU1Jna2l3WkZrM2wxM2VsazJjSVdVX1QxZm1kU2JTNTNwOXFndFdMYXRscEJFYnFQMTZTWWFxUlRod1pUR2dBUThwZllkb2lNTThrZzk4YmtNYWJuaVdPd00?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "France Toughens Protest Response as Officials Admit Failure - Bloomberg",
+     "desc": "France Toughens Protest Response as Officials Admit Failure Bloomberg",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPV3R5RzhnMXBJaFVLbnVBRFpBSXNPTmd1SXBfNU9NMnVZd1hsN090dHc2THRjdGNBbXN6QW5OMUdjME05UlFFYVVlQlhZdzhvNl9PMmlEeExQMlZyY2FKdnBCSXBSN2gxNEpMWFUwOVlkZ2sxS2ZXaXdFUWpoOTRHaEVFRFVRN2ZqTXUxcUx6ZmhXLXpOamxFVGw0UTdJZ0RITTI2d19sY2FxR3BEUnBScEFsamc?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "mainichi",
+     "name": "毎日新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "フランス暴動で一部地域に夜間外出禁止令 首相、各県知事に要請",
+     "desc": "",
+     "url": "https://mainichi.jp/articles/20261019/k00/00m/030/281000c",
+     "via": null
+    },
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "フランス、一部都市の夜間外出禁止へ デモ暴徒から「人・財産守る」―仏首相",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026101900140&g=int&m=rss",
+     "via": null
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.53,
+     "title": "「政府への不満」で拡大…フランス“大規模デモ”一部が暴徒化 欧州各国へ拡大(テレビ朝日系（ANN）)",
+     "desc": "フランスで、学生たちから始まったデモが全土へ拡大し、これまでに2000人以上が逮捕される事態となっています。教育環境の改善を求めるだけでなく、物価高への不満なども重なり、デモはヨーロッパ各国へと波及し",
+     "url": "https://news.yahoo.co.jp/articles/6097c9e91e590220e021c52df309626bfa55aeba?source=rss",
+     "via": null
+    },
+    {
+     "id": "yahoo",
+     "name": "Yahoo!ニュース主要",
+     "region": "jp",
+     "weight": 1,
+     "title": "仏首相 一部に夜間外出禁止令要請",
+     "desc": "",
+     "url": "https://news.yahoo.co.jp/pickup/6599406?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261020-02",
+   "title": "ケニアの餓死カルト指導者に有罪判決",
+   "firstSeen": "2026-10-20",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-20": 32
+   },
+   "peak": 32,
+   "worldScore": 32,
+   "worldCoverage": "8/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 32,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.94,
+     "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
+     "desc": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children.",
+     "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 1,
+     "title": "Kenyan starvation cult leader guilty of murder of 190 children and one adult",
+     "desc": "Paul Mackenzie and his church set up sect that ordered followers to starve themselves and their children, say prosecutors A Kenyan court has found the starvation cult leader Paul Mackenzie and about 30 others guilty of murder over the deaths of ⁠190 children and one adult in one of the world’s worst cult-related disasters in recent history. Mackenzie was arrested in 2023 after police received a tipoff, and weeks later authorities began uncovering bodies in shallow graves in the Shakahola forest near the coast ⁠in south-eastern Kenya. Continue reading...",
+     "url": "https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Kenya convicts cult leader over the murder of 190 children",
+     "desc": "The leader of a Kenyan cult who instructed followers to starve themselves to death to reach heaven has been found guilty",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/kenya-convicts-cult-leader-over-the-murder-of-190-children?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.74,
+     "title": "Cult Leader Convicted of Mass Murder by Court in Kenya",
+     "desc": "Paul Nthenge Mackenzie told his doomsday followers in a remote forest to fast for salvation. He faced trial after hundreds of bodies were exhumed.",
+     "url": "https://www.nytimes.com/2026/10/19/world/africa/kenya-cult-deaths-paul-mackenzie-court-ruling.html",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Kenyan starvation cult leader found guilty of murder of 191 children, 1 adult",
+     "desc": "A Kenyan court on Monday found starvation cult leader ⁠Paul Mackenzie and about 30 others guilty of ⁠murder over the deaths of 190 children and one adult in ⁠one of the world’s worst cult-related disasters in recent history. Mackenzie and his co-accused will be given their sentence on November 6. Mackenzie was arrested in 2023 after police received a tip-off, and weeks later authorities began uncovering bodies in shallow graves in the Shakahola Forest near the coast in southeastern...",
+     "url": "https://www.scmp.com/news/world/africa/article/3371417/kenyan-starvation-cult-leader-found-guilty-murder-191-children-1-adult?utm_source=rss_feed",
+     "via": null
+    },
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 1,
+     "title": "Doomsday cult leader found guilty of murdering 190 children and one adult",
+     "desc": "Doomsday cult leader Paul Mackenzie, his wife Rhoda Maweu, and 29 other co-accused have been found guilty of the murder of 190 children and one adult.",
+     "url": "https://news.sky.com/story/cult-leader-found-guilty-of-ordered-followers-to-starve-their-children-to-death-13600891",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Starvation cult leader found guilty of murder of 190 children",
+     "desc": "Paul Mackenzie is alleged to have incited his acolytes to starve to death in order to \"meet Jesus.\"",
+     "url": "https://www.cbsnews.com/news/kenya-starvation-cult-leader-paul-mackenzie-guilty/",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Kenyan starvation cult leader convicted of deaths of nearly 200 children - Reuters",
+     "desc": "Kenyan starvation cult leader convicted of deaths of nearly 200 children Reuters",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVEVmY0NoY2t3Z1RrS2Q4d3hBWDlORjVJS2s0MF9xSVg2VGNXVXQxY2JKeERGREJtTFVib2d2ZFlvUW9NMHN3M3ZYR1hMZzVZS1hzTm43SjNMaUYyNjVINlVtWmQzTURtaDlKbkY1S1FrWFFiRzhPa21CcFFhLWlTMmx4dzBNdDdqSFoxQWdOOFlTUHdjZEZLdDE0YXdScmhYVVBpd3lyanhXTXl2XzVFV1RheE8?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261015-02",
+   "title": "米ウ間で情報制限や支援を巡り摩擦",
+   "firstSeen": "2026-10-15",
+   "daysSeen": 4,
+   "history": {
+    "2026-10-15": 25,
+    "2026-10-16": 18,
+    "2026-10-19": 19,
+    "2026-10-20": 25
+   },
+   "peak": 25,
+   "worldScore": 25,
+   "worldCoverage": "7/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 25,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.97,
+     "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
+     "desc": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.",
+     "url": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.77,
+     "title": "Trump Is Pushing Ukraine to Surrender to Russia, Zelensky Says",
+     "desc": "President Volodymyr Zelensky said he didn’t want to believe that Washington wanted an end to the war at Ukraine’s expense. “But that’s how it looks,” he added.",
+     "url": "https://www.nytimes.com/2026/10/19/world/europe/trump-zelensky-putin-ukraine-war.html",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Zelensky says Starshield speed limits slowing down frontline response",
+     "desc": "Speed limits on a US military grade satellite system are hindering Ukrainian forces' ability to coordinate drone strikes against Russian forces, President Volodymyr Zelensky said on Monday. Zelensky said frontline units had reported that the Starshield equipment \"stops functioning at speeds of 130-160 kilometres (80-100 miles) per hour in various sectors of the front\". Separately, a Ukrainian army brigade has announced the rescue of a wounded soldier from the front line using an aerial drone, describing the evacuation as the first of its kind. The brigade published a video showing the drone lo",
+     "url": "https://www.france24.com/en/zelensky-says-starshield-speed-limits-slowing-down-frontline-response",
+     "via": null
+    },
+    {
+     "id": "npr",
+     "name": "NPR",
+     "region": "world",
+     "weight": 0.84,
+     "title": "Ukraine and Russia exchange strikes, as relations between Trump and Zelenskyy sour",
+     "desc": "Ukraine carried out a massive drone strikes on Russia, which launched deadly attacks on its smaller neighbor over the weekend.",
+     "url": "https://www.npr.org/2026/10/19/nx-s1-6007371/ukraine-and-russia-exchange-strikes-as-relations-between-trump-and-zelenskyy-sour",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Zelenskyy says it&#039;s Putin who wants an endless war, not him",
+     "desc": "Ukraine&#039;s leader rejects Trump&#039;s accusations, says Putin is refusing peace, not him, and the U.S. military is delaying \"vital supplies.\"",
+     "url": "https://www.cbsnews.com/news/russia-ukraine-war-zelenskyy-trump-putin-strikes-no-intelligence/",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Ukraine's Zelenskiy says US decisions on Ukraine hard to explain",
+     "desc": "Oct 19 - Ukrainian President Volodymyr Zelenskiy said on Monday that decisions taken by the United States on the war in Ukraine, including delays in arms shipments and restrictions on intelligence sharing, were \\\"hard to explain.\\\"",
+     "url": "https://www.straitstimes.com/world/europe/ukraines-zelenskiy-says-us-decisions-on-ukraine-hard-to-explain",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump says Zelenskiy should get somebody else to negotiate to end war - Reuters",
+     "desc": "Trump says Zelenskiy should get somebody else to negotiate to end war Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZkJfbTJUSTNGdHptbTBieXhMaFBhamZFaTJFb2JXVllDUnFyX3U2OG1hbWFTQ0ZlbzVfS2U0bmtOTmk3dWExc3hnc0JxQ1o3V2FkODNjWkRzNDVPOEF3YjQ4YWtWMW9mMXJ6ZGJxS3pUNkxzNVZOTDRXTU05Y0xlOHF0X0xtU2ZBeWJkaTBTNjNnWnU0YWVKbXAzaVVoYjBzRmc4MXNiUkM?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261020-01",
+   "title": "豪議員が車にはねられ重体、襲撃の疑い",
+   "firstSeen": "2026-10-20",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-20": 24
+   },
+   "peak": 24,
+   "worldScore": 24,
+   "worldCoverage": "6/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 24,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 1,
+     "title": "Australian MP critically injured after being hit by car in apparent attack",
+     "desc": "The independent politician is in hospital after what the prime minister says may have been a deliberate attack.",
+     "url": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.68,
+     "title": "Helen Haines: independent MP in critical condition in Melbourne’s Alfred hospital after being struck by car in Wangaratta – follow updates",
+     "desc": "A joint counter-terrorism taskforce is investigating the incident, which Anthony Albanese alleged ‘wasn’t an accident’ ‘Deeply appalled’: politicians condemn alleged attack after Helen Haines critically injured Helen Haines, the principled MP respected across parliament What we know so far Get our new political email , free app or daily news podcast ‘It’s very clear that this was a deliberate act’, PM says The prime minister, Anthony Albanese , said Haines’ alleged attacker “did a U-turn in order to get back to where Helen Haines was” after passing her on the road. It would appear that the dri",
+     "url": "https://www.theguardian.com/australia-news/live/2026/oct/20/helen-haines-independent-mp-alleged-car-attack-wangaratta-melbourne-hospital-ntwnfb",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.65,
+     "title": "Australian Lawmaker Helen Haines Injured After Attack, Prime Minister Says",
+     "desc": "A suspect is in custody and the country’s counterterrorism team was activated after Helen Haines, 65, was struck by a car outside her office.",
+     "url": "https://www.nytimes.com/2026/10/19/world/australia/helen-haines-mp-attacked-wangaratta-australia.html",
+     "via": null
+    },
+    {
+     "id": "dw",
+     "name": "Deutsche Welle",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Australian MP seriously hurt in suspected car attack",
+     "desc": "Helen Haines, an independent federal lawmaker, has been struck by a car in what Australia's prime minister has called an apparent attack.",
+     "url": "https://www.dw.com/en/australian-mp-seriously-hurt-in-suspected-car-attack/a-79697660?maca=en-rss-en-world-4025-rdf",
+     "via": null
+    },
+    {
+     "id": "npr",
+     "name": "NPR",
+     "region": "world",
+     "weight": 1,
+     "title": "Australian prime minister says lawmaker critically injured by car is 'no accident'",
+     "desc": "A car hit an Australian federal independent lawmaker on Monday, critically injuring her in an apparent deliberate attack, Prime Minister Anthony Albanese said. The driver was arrested.",
+     "url": "https://www.npr.org/2026/10/19/g-s1-148737/australia-lawmaker-critically-injured",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Australian prime minister says lawmaker critically injured by car is ‘no accident’ - AP News",
+     "desc": "Australian prime minister says lawmaker critically injured by car is ‘no accident’ AP News",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTTBSLXh6S2JGYWxxTC1fSmFWaS0yRFVuMXhZeUhCZF9oOWtFckREd2htWXZBUXgxRU5oaVM2NGFUSWU3Zm9tWDduOUptSkZ1SnJLQl9tYURxV0w4Ynd1MjlQVnR0bjRaTWFXWXpJZU40SlhGcm1sZkEyZ1c5VklYR0lnVFNDSXBoY0tUNFR2QnpaOWM?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261019-01",
+   "title": "カナダ軍基地の火災で兵士4人が死亡",
+   "firstSeen": "2026-10-19",
+   "daysSeen": 2,
+   "history": {
+    "2026-10-19": 39,
+    "2026-10-20": 22
+   },
+   "peak": 39,
+   "worldScore": 22,
+   "worldCoverage": "7/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 22,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.7,
+     "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
+     "desc": "The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest.",
+     "url": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.8,
+     "title": "Four people killed in ‘violent, fast-moving’ fire at Canadian military base",
+     "desc": "Prime minister Mark Carney describes blaze as ‘one of the worst tragedies for the forces on Canadian soil in peacetime’ Four people have been killed and dozens more seriously injured after a “violent, fast-moving” fire tore through one of Canada’s busiest military training bases in Alberta, the country’s prime minister said on Sunday. Mark Carney called the incident “one of the worst tragedies for the forces on Canadian soil in peacetime”. Continue reading...",
+     "url": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Four soldiers dead, dozens injured in fire at Canada military base",
+     "desc": "Four soldiers were killed and dozens injured in a fire at a military base in Alberta province, one of the worst peacetime tragedies to hit Canada's armed forces on home soil, Prime Minister Mark Carney said Sunday.",
+     "url": "https://www.france24.com/en/video/20261019-four-soldiers-dead-dozens-injured-in-fire-at-canada-military-base",
+     "via": null
+    },
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 0.53,
+     "title": "Four Canadian soldiers killed after grass fire spread 'a kilometre in 36 seconds'",
+     "desc": "The four Canadian soldiers who died during a training exercise at the weekend did so when a grass fire spread \"a kilometre in 36 seconds\", officials said.",
+     "url": "https://news.sky.com/story/four-canadian-soldiers-killed-after-grass-fire-spread-a-kilometre-in-36-seconds-13600915",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "4 dead, dozens injured after fire at Canadian military base, officials say",
+     "desc": "Canada&#039;s defense minister said four service members were killed, and dozens of others were hospitalized, after a wildfire swept through at a military base in Alberta.",
+     "url": "https://www.cbsnews.com/news/deadly-incident-fire-alberta-canada-military-base-cfb-wainwright/",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Carney says cause of fire at Alberta military base still unknown",
+     "desc": "OTTAWA, Oct 19 - Canadian Prime Minister Mark Carney said on Monday that the cause of a fire that killed at least four military members and injured dozens of others in Alberta on Saturday is still unknown.",
+     "url": "https://www.straitstimes.com/world/carney-says-cause-of-fire-at-alberta-military-base-still-unknown",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Grass fire at Canadian military base kills 4 soldiers and critically injures 19 other people - AP News",
+     "desc": "Grass fire at Canadian military base kills 4 soldiers and critically injures 19 other people AP News",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRWZIOVJaUGpyUnFDcG1BTVZmOTRtZ2pvLTBjLVBDMU9fb3huN2x3Q1ZGbTBENURyc0JIdXRJQThHajNORTVlVjVnZjJrUV94VDlGaXJrZWRqQVBlWlBBRmJzVkhUem1NRzl5a05uTzJQWEdVLTNEckFlNFFBb1dmeTQwUmU0YkhFd1laTmI2ZUdtTGlLS1VZM3dPTi14ZVNxX2oxY0dzbw?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261019-28",
+   "title": "加アルバータ州で独立投票実施を問う住民投票",
+   "firstSeen": "2026-10-19",
+   "daysSeen": 2,
+   "history": {
+    "2026-10-19": 5,
+    "2026-10-20": 18
+   },
+   "peak": 18,
+   "worldScore": 18,
+   "worldCoverage": "5/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 18,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.88,
+     "title": "Alberta heads to polls to decide whether to hold vote on separation from Canada",
+     "desc": "Polling suggests most Albertans favour remaining part of the country, although the debate alone has proven divisive.",
+     "url": "https://www.bbc.co.uk/news/articles/cxvgd0ymgzgyo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.82,
+     "title": "‘This is not poker’: Alberta goes to polls in referendum that has exposed divisions, not least among separatists",
+     "desc": "Voters to be asked whether province should remain part of Canada or hold a second, binding independence vote Albertans are going to the polls to decide their place in Canada, in a referendum that has exposed deep divisions within the province, not least in the separatist movement itself. On Monday, voters will respond to the question of whether Alberta should remain in Canada, or hold a second, binding independence referendum. Continue reading...",
+     "url": "https://www.theguardian.com/world/2026/oct/19/alberta-goes-to-polls-in-referendum-divisions-separatists-canada",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.42,
+     "title": "As Alberta Holds a Referendum on Separatism, Premier Danielle Smith Has Alienated Both Sides",
+     "desc": "By hedging her position on secession, Premier Danielle Smith risks a backlash from both her conservative base and from pro-Canada voters.",
+     "url": "https://www.nytimes.com/2026/10/19/world/canada/alberta-referendum-danielle-smith.html",
+     "via": null
+    },
+    {
+     "id": "dw",
+     "name": "Deutsche Welle",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Canada: Alberta votes on holding independence referendum",
+     "desc": "Canada's oil-rich western province of Alberta is not deemed likely to vote in favor of a real breakaway plebiscite. Nevertheless the separatist movement hopes to gain leverage over Mark Carney's government.",
+     "url": "https://www.dw.com/en/canada-alberta-votes-on-holding-independence-referendum/a-79700283?maca=en-rss-en-world-4025-rdf",
+     "via": null
+    },
+    {
+     "id": "npr",
+     "name": "NPR",
+     "region": "world",
+     "weight": 0.69,
+     "title": "Alberta voters weigh future in Canada",
+     "desc": "On Monday voters in the oil-rich Canadian province of Alberta are deciding whether to take the first step toward a future referendum on independence.",
+     "url": "https://www.npr.org/2026/10/18/nx-s1-6004877/alberta-referendum-canada-vote",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261012-23",
+   "title": "イアハート機体の捜索隊、発見物は木と発表",
+   "firstSeen": "2026-10-12",
+   "daysSeen": 3,
+   "history": {
+    "2026-10-12": 7,
+    "2026-10-19": 7,
+    "2026-10-20": 18
+   },
+   "peak": 18,
+   "worldScore": 18,
+   "worldCoverage": "5/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 18,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.67,
+     "title": "Possible wreckage of Amelia Earhart's plane likely to be trees, say researchers",
+     "desc": "Researchers travelled to a remote Pacific Island to confirm whether an object first spotted on satellite imagery in 2020 solved the mystery of the pilot's disappearance.",
+     "url": "https://www.bbc.co.uk/news/articles/cmq5n8x106jdo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.71,
+     "title": "Amelia Earhart researchers leave remote atoll empty-handed after ‘plane debris’ found to be a clump of trees",
+     "desc": "Expedition was drawn to Nikumaroro after spotting what was described as a metallic glint in waters off uninhabited island A US expedition that voyaged to a remote Pacific island in the hope of solving the mystery of what happened to pioneering pilot Amelia Earhart has said an object they suspected to be her plane was a clump of washed-up trees. “Unfortunately, we weren’t able to find that smoking gun,” said Steve Schultz of Purdue University, standing on the sand in front of a blue lagoon on the atoll of Nikumaroro, about halfway between Australia and Hawaii. Continue reading...",
+     "url": "https://www.theguardian.com/us-news/2026/oct/19/amelia-earhart-purdue-expedition-clump-of-trees-nikumaroro-kiribati",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.45,
+     "title": "What to Know About the Search for Amelia Earhart’s Plane",
+     "desc": "A satellite image sent researchers to a remote Pacific atoll, but their findings brought no resolution to the decades-old search. Here’s what to know.",
+     "url": "https://www.nytimes.com/2026/10/19/world/asia/amelia-earhart-plane-search-explained.html",
+     "via": null
+    },
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 0.84,
+     "title": "Object thought to be Amelia Earhart’s missing plane likely just 'large trees', researchers find",
+     "desc": "An expedition to investigate if an anomaly seen on a satellite image of a remote island in the South Pacific was Amelia Earhart’s missing plane has ended without recovering the wreckage.",
+     "url": "https://news.sky.com/story/object-thought-to-be-amelia-earharts-missing-plane-likely-a-collection-of-large-trees-researchers-find-13601021",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Expedition to find Amelia Earhart&#039;s missing plane comes up empty",
+     "desc": "The researchers said what they had hoped was the plane was \"likely a collection of large trees\" that had washed away, leaving a \"single Y-shaped segment.\"",
+     "url": "https://www.cbsnews.com/news/amelia-earhart-missing-plane-not-found-nikumaroro-expedition/",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261019-03",
+   "title": "トランプ氏、イスラエルネタニヤフ首相を支持",
+   "firstSeen": "2026-10-19",
+   "daysSeen": 2,
+   "history": {
+    "2026-10-19": 36,
+    "2026-10-20": 16
+   },
+   "peak": 36,
+   "worldScore": 16,
+   "worldCoverage": "5/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 16,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Netanyahu’s new security doctrine: Regional strategy or election ploy?",
+     "desc": "Experts say Netanyahu&#039;s security doctrine and map of regional alliances serve his political ambitions ahead of elections",
+     "url": "https://www.aljazeera.com/news/2026/10/19/netanyahus-new-security-doctrine-regional-strategy-or-election-ploy?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.82,
+     "title": "Will Trump’s Endorsement of Netanyahu Fire Up His Campaign or Fizzle?",
+     "desc": "President Trump said Benjamin Netanyahu was a “Great Warrior,” as he faces a tough re-election bid for prime minister. But the Trump brand is not what it once was in Israel, analysts say.",
+     "url": "https://www.nytimes.com/2026/10/19/world/middleeast/trump-netanyahu-endorsement-election.html",
+     "via": null
+    },
+    {
+     "id": "npr",
+     "name": "NPR",
+     "region": "world",
+     "weight": 0.61,
+     "title": "Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection",
+     "desc": "Trump said in a post on social media that Netanyahu \"has been a Great Warrior Prime Minister, and an even greater Partner for Peace in combatting the Islamic Republic of Iran.\"",
+     "url": "https://www.npr.org/2026/10/19/g-s1-148731/trump-endorses-netanyahu",
+     "via": null
+    },
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 0.38,
+     "title": "Trump endorses Netanyahu ahead of Israeli elections, calling him 'great warrior prime minister'",
+     "desc": "Donald Trump has endorsed Benjamin Netanyahu ahead of the Israeli elections later this month, calling him a \"great warrior prime minister\".",
+     "url": "https://news.sky.com/story/trump-endorses-netanyahu-ahead-of-israeli-elections-calling-him-great-warrior-prime-minister-13600658",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump endorses Israel&#039;s Netanyahu ahead of reelection bid",
+     "desc": "Israelis are set to vote Oct. 27, in the first national elections since the 2023 Hamas attack on Israel.",
+     "url": "https://www.cbsnews.com/news/trump-endorses-israel-prime-minister-benjamin-netanyahu-reelection/",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261020-04",
+   "title": "イエメンでフーシ派攻撃、訓練中の50人以上死亡",
+   "firstSeen": "2026-10-20",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-20": 15
+   },
+   "peak": 15,
+   "worldScore": 15,
+   "worldCoverage": "5/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 15,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.82,
+     "title": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
+     "desc": "Three missiles hit a camp in government-controlled Shabwa province that officials say was being used as a training centre for new recruits.",
+     "url": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.36,
+     "title": "Houthi attack kills 53 in biggest single loss of life since Yemen civil war reignited",
+     "desc": "More than 200 mostly young people said to be injured after ballistic missile attack on training camp for government forces At least 53 people have been killed in a Houthi ballistic missile attack on a training camp for Yemeni government security forces, making it the largest single loss of life since the country’s civil war reignited in September. The attack on al-Alam camp in the southern Shabwa province was said to have injured more than 200 others, mostly young recruits, and was described as a disaster by the country’s UN-recognised government. The injured were taken from the police and arm",
+     "url": "https://www.theguardian.com/world/2026/oct/19/houthi-attack-yemen-al-alam-camp-biggest-single-loss-of-life-civil-war",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.53,
+     "title": "Houthi Strikes Kill Dozens in Yemeni Desert Military Camp, Officials Say",
+     "desc": "The Iranian-backed militia struck with ballistic missiles deep in government-held central Yemen, in what appeared to be among the deadliest attacks of the renewed war.",
+     "url": "https://www.nytimes.com/2026/10/19/world/middleeast/houthis-strike-yemen-military-camp.html",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Houthi attack kills 53 at Yemen government training camp",
+     "desc": "Fifty-three people ⁠were killed and 200 were ⁠injured in an attack ⁠on Monday by the Iran-aligned Houthis on a government security forces training camp in Yemen’s Shabwa province, according to the local authority, as fighting in the impoverished country intensifies. Video verified by Reuters from Shabwa province ‌showed injured people and bloodied bodies scattered across the ground. The Houthis and the internationally recognised government, which is backed by a Saudi-led coalition, have been...",
+     "url": "https://www.scmp.com/news/world/middle-east/article/3371416/houthi-attack-kills-53-yemen-government-training-camp?utm_source=rss_feed",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Houthi rebels strike Yemen’s government forces, killing at least 53 - AP News",
+     "desc": "Houthi rebels strike Yemen’s government forces, killing at least 53 AP News",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON01aUDFyR0hVZ3ZyLTRLNFpxbGJ4SlBTM0ZyMEpfRFRsZU9UOFZlR0l5TnY2WVBwVmd2TTNVT21pc3FBdVlrd04zRndnNmZoWDFKRUJjWFB0RG5qcllhY2U4bEhVakg5ZHNTQWxRVnE2RjlydXFCb3hmMk5VamV1cmpOYXI5elB4el9NV2ZES1FHdw?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261019-02",
+   "title": "イスラエル警察、西岸で暴行容疑の入植者拘束",
+   "firstSeen": "2026-10-19",
+   "daysSeen": 2,
+   "history": {
+    "2026-10-19": 31,
+    "2026-10-20": 14
+   },
+   "peak": 31,
+   "worldScore": 14,
+   "worldCoverage": "5/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 14,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.39,
+     "title": "Israeli police detain 10 people in rare raid against West Bank settlers",
+     "desc": "Move comes after US photojournalist and group of European diplomats and Palestinians were assaulted in separate attacks Israeli police have detained 10 people in a rare raid against settlers, after a weekend of extreme violence in the occupied West Bank including an attack on US photojournalist Heidi Levine , which she described as an “attempted lynching”. She was knocked down, kicked and beaten by a group of masked Israeli men as she covered the olive harvest in a Palestinian village on Friday. The militants broke four vertebrae and a rip, ripped open her finger so it required surgery and lef",
+     "url": "https://www.theguardian.com/world/2026/oct/19/israeli-police-detain-10-people-in-rare-raid-against-west-bank-settlers",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Israeli police say they arrested 10 in connection with settler attacks",
+     "desc": "Israeli police released a video they say shows the arrest of 10 suspects over weekend settler violence.",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/israeli-police-say-they-arrested-10-in-connection-with-settler-attacks?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.71,
+     "title": "Israeli Police Detain 10 Over Violent Settler Attacks in West Bank",
+     "desc": "Israel has faced pressure, including from the United States, to investigate the attacks. Rights groups say most inquiries into extremist assaults on Palestinians go nowhere.",
+     "url": "https://www.nytimes.com/2026/10/19/world/middleeast/israel-west-bank-settlers-palestinians.html",
+     "via": null
+    },
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 0.46,
+     "title": "Arrests over Israeli settler attacks on US photojournalist and European diplomats in West Bank",
+     "desc": "Ten suspects have been arrested in connection with recent violence in the West Bank including attacks on an ​American ⁠photojournalist and European ⁠diplomats, Israeli police have said.",
+     "url": "https://news.sky.com/story/arrests-over-israeli-settler-attacks-on-us-photojournalist-and-european-diplomats-in-west-bank-13600842",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "U.S. lauds Israel for arresting 10 over West Bank settler attacks",
+     "desc": "Israeli police say they arrested 10 people over alleged Israeli settler attacks on Palestinians and a U.S. journalist as more attacks on Palestinians are reported.",
+     "url": "https://www.cbsnews.com/news/us-israel-west-bank-settler-violence-palestinians-arrests/",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261014-02",
+   "title": "元オープンAI社員の盗聴器設置にサウジ関与か",
+   "firstSeen": "2026-10-14",
+   "daysSeen": 2,
+   "history": {
+    "2026-10-14": 14,
+    "2026-10-20": 13
+   },
+   "peak": 14,
+   "worldScore": 13,
+   "worldCoverage": "4/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 13,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.91,
+     "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
+     "desc": "The Saudi government did not immediately respond to BBC requests for comment.",
+     "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Ex-OpenAI employee accused of planting device has Saudi backing: Prosecutor",
+     "desc": "US federal prosecutors allege the defendant was in frequent contact with unnamed member of royal family.",
+     "url": "https://www.aljazeera.com/economy/2026/10/19/ex-openai-employee-accused-of-planting-device-has-saudi-backing-prosecutor?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Ex-OpenAI employee accused of planting device appears to have Saudi backing, US prosecutors say - Reuters",
+     "desc": "Ex-OpenAI employee accused of planting device appears to have Saudi backing, US prosecutors say Reuters",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNN1EyODdFMHdNVDVJVW5YVW1rWE5YX042MFNLWldLeVJ1UFlydXJYQnB5YlNldDhNdURMRlRGYVZicEp3SkhEaEZ0eXQ2VUhkanA5QVhZeUIyRVg4dW4wbzhmblZvU01PX0hlUUp5YzJZZHBzT0FSemhVN2k1eXVycG1PcnR6TXBUSDZSUERsc3pEamlDR1FCUnRXZk5vaWJVZDVGd2VmNEd6MThaZ3FvcS13MXRIYlo5d1p4S2JYOA?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US prosecutors allege Saudi royal links in OpenAI bugging case - Financial Times",
+     "desc": "US prosecutors allege Saudi royal links in OpenAI bugging case Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNmthanc2d1NfZkhxSUdWaVZhUHBsbmgwbVc1X25vYkRSM3Y3a3BMTTl1cGJOU3hLU21GcmR5bDc0WEZTVG1uWVhwT2Rad1p6YXZ5SElaMzhqelNJd3p2eWlBUlZUcG5qOUZieDZucERMQWEwSElRalJ6M09rRXVYZHd5cHU?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261019-20",
+   "title": "スペイン東部で豪雨・洪水、多数の死者",
+   "firstSeen": "2026-10-19",
+   "daysSeen": 2,
+   "history": {
+    "2026-10-19": 6,
+    "2026-10-20": 13
+   },
+   "peak": 13,
+   "worldScore": 13,
+   "worldCoverage": "4/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 13,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.85,
+     "title": "Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods",
+     "desc": "Trudy weakens to tropical storm after warnings of strong winds and heavy rain, while one person killed in Greece In contrast to the quiet Atlantic hurricane season, there has been ongoing activity in the Pacific, with Trudy being the 22nd and latest named system. The category 2 hurricane remained roughly 100 miles (160km) south-west of the coast of Mexico, meaning the worst of the conditions stayed offshore. However, the US National Hurricane Center put coastal parts of the states of Jalisco, Michoacán and Colima under hurricane warnings, with sustained winds of up to 60-90mph forecast on Sund",
+     "url": "https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Residents hoisted from rooftops amid Spain’s deadly flooding",
+     "desc": "Spain’s military is hoisting residents from the rooftops of their flooded homes.",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/residents-hoisted-from-rooftops-amid-spains-deadly-flooding?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Spain floods kill four as torrential rain inundates eastern regions",
+     "desc": "Torrential rain battered eastern Spain on Monday, killing at least four people in recent days as floodwaters swept away cars, submerged roads and stranded residents. Emergency crews carried out more than 400 rescues in Valencia, where rainfall reached 700 litres per square metre in 24 hours in some areas.",
+     "url": "https://www.france24.com/en/europe/20261019-spain-floods-kill-four-as-torrential-rain-inundates-eastern-regions",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Deadly floods sweep through eastern Spain after torrential rain",
+     "desc": "Torrential rain triggered severe flooding in eastern Spain, sweeping away cars, submerging roads and leaving at least four people dead.",
+     "url": "https://www.euronews.com/video/2026/10/19/deadly-floods-sweep-through-eastern-spain-after-torrential-rain",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261020-06",
+   "title": "スーダンでドローン攻撃、多数の死傷者",
+   "firstSeen": "2026-10-20",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-20": 11
+   },
+   "peak": 11,
+   "worldScore": 11,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 11,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.97,
+     "title": "Drone attack near market kills 80 in Sudan",
+     "desc": "Witness says drone struck twice at transport hub in al-Dibab, in one of deadliest single attacks of war A drone strike near a market in southern Sudan on Sunday evening killed 80 people, mostly commuters catching rides home. Ahmed Wadi, a witness, said the attack in the town of al-Dibab in West Kordofan state left “50 bodies who I helped bury, one of them my own brother Mohamed”. Continue reading...",
+     "url": "https://www.theguardian.com/world/2026/oct/19/drone-attack-market-al-dibab-west-kordofan-sudan",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "160 reported killed in escalating drone attacks across Sudan",
+     "desc": "Rights groups warn increasing attacks by unmanned aircraft are targeting civilians and infrastructure.",
+     "url": "https://www.aljazeera.com/news/2026/10/19/160-reported-killed-in-escalating-drone-attacks-across-sudan?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Drone attacks kill scores in Sudan's West Kordofan state and capital Khartoum",
+     "desc": "At least 80 people were killed in a drone strike near a market in Sudan’s southern West Kordofan state, a medical source and a witness said Monday, in one of the deadliest single attacks since the Sudan war erupted in 2023. A separate drone attack Monday in the capital Khartoum killed four, including three children.",
+     "url": "https://www.france24.com/en/africa/20261019-drone-attack-near-southern-sudan-market-kills-scores",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261020-07",
+   "title": "トランプ氏、米中ロの首脳会談開催に意欲",
+   "firstSeen": "2026-10-20",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-20": 11
+   },
+   "peak": 11,
+   "worldScore": 11,
+   "worldCoverage": "4/18",
+   "jpScore": 19,
+   "jpCoverage": "2/6",
+   "gap": -8,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Russia-China-US summit would prolong the war, Kyiv says",
+     "desc": "Ukrainian ⁠Foreign Minister ​Andrii Sybiha said on ​Monday that a summit between Russia, China ​and the ‌US would ⁠encourage President Vladimir Putin ‌to prolong the war. The ​Wall Street Journal reported that Putin had proposed a ​summit next month ​with US ​President Donald Trump and Chinese President ​Xi Jinping to negotiate an end to the war on terms ⁠that would favour Moscow. FRANCE 24's Monte Francis reports.",
+     "url": "https://www.france24.com/en/russia-china-us-summit-would-prolong-the-war-kyiv-says",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump says he’s open to meeting Xi and Putin in China for nuclear talks",
+     "desc": "US President Donald Trump said on Monday he was open to a three-way meeting with Chinese President Xi Jinping and Russian President Vladimir Putin during his visit to China next month, with nuclear weapons on the agenda. “We would have it to talk about nuclear weapons and denuclearisation,” Trump told reporters outside the White House before travelling to Kansas. “If President Xi wants to have it, I’d have it.” Trump said the proposed meeting was his suggestion and linked it to his November...",
+     "url": "https://www.scmp.com/news/us/article/3371428/trump-says-hes-open-xi-putin-meeting-china-nuclear-talks?utm_source=rss_feed",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump open to Putin, Xi trilateral summit but would focus on nuclear arms",
+     "desc": "“We would schedule a meeting based on the denuclearisation, and that’s a very positive thing for the world,” says the US president.",
+     "url": "https://www.straitstimes.com/world/united-states/trump-says-he-is-open-to-joining-trilateral-meeting-with-xi-putin",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump says he is open to joining trilateral meeting with Xi, Putin - Reuters",
+     "desc": "Trump says he is open to joining trilateral meeting with Xi, Putin Reuters",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQmJWZHJkN1BxLWxRVzZPdmpDV1V6aGVVRk1iNlJkTUU1aVFnRnBKUl81M0FvdDFDc0tHZ0Q0OU1tY3BmZlEyTDVaak1zVDdxZHJzVXp3ZmpyQjhsNU8wNEpobmdWQlNwNzNjQmFzb2hiYWh1Z1R5cGZQamFWajlZNUwzdkdkdEpiWm9jeXVMRUktVWhwMzV4YUI3WmNsaDQ1V2RpdzgyQ0Z2Tzc5dTZV?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "米中ロ首脳会談に前向き トランプ氏",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026102000136&g=int&m=rss",
+     "via": null
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.65,
+     "title": "米中ロ首脳会談開催へ意欲 トランプ氏、核軍縮に関心(共同通信)",
+     "desc": "【ワシントン共同】トランプ米大統領は19日、ロシアのプーチン大統領、中国の習近平国家主席との3カ国首脳会談を実施する可能性に意欲を示した。実現すれば「核兵器や非核化」を協議すると述べ、3カ国の核軍縮交",
+     "url": "https://news.yahoo.co.jp/articles/9bd3cc4379c933f38a9f0adab245b8deac55b42d?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261020-08",
+   "title": "トランプ氏、女性健康研究を推進する大統領令署名",
+   "firstSeen": "2026-10-20",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-20": 11
+   },
+   "peak": 11,
+   "worldScore": 11,
+   "worldCoverage": "4/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 11,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump signs order launching women’s health division at NIH, White House",
+     "desc": "First Lady Melania Trump has championed the executive action as a &#039;transformative moment&#039; for US women&#039;s health.",
+     "url": "https://www.aljazeera.com/news/2026/10/19/trump-signs-order-launching-womens-health-division-at-nih-white-house?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump signs order aimed at boosting women’s health research",
+     "desc": "United States President Donald Trump signed an executive order establishing two bodies to boost women’s health research, address gaps in medical knowledge and improve prevention, diagnosis and treatment.",
+     "url": "https://www.euronews.com/2026/10/19/trump-signs-order-aimed-at-boosting-womens-health-research",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump to create new National Institutes of Health division, task force for women’s health",
+     "desc": "US President Donald ⁠Trump will sign an executive ⁠order alongside first lady Melania Trump on ⁠Monday creating a task force and a National Institutes of Health (NIH) division focused on women’s health, the White House said. The task force will be led by Trump’s White House chief of staff Susie Wiles, who recently announced that she is cancer-free, and US ‌Health Secretary Robert F. Kennedy Jnr, a White House official said. The new Women’s Health Division at NIH will not replace the agency’s...",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3371418/trump-create-new-nih-division-task-force-womens-health?utm_source=rss_feed",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump signs order creating NIH division, task force for women’s health",
+     "desc": "The task force will focus on speeding up diagnosis and improving treatment of women’s health conditions that remain understudied.",
+     "url": "https://www.straitstimes.com/world/united-states/trump-signs-order-creating-nih-division-task-force-for-womens-health",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261015-15",
+   "title": "サウジ、攻撃を受け国際投資会議を延期",
+   "firstSeen": "2026-10-15",
+   "daysSeen": 3,
+   "history": {
+    "2026-10-15": 27,
+    "2026-10-19": 16,
+    "2026-10-20": 11
+   },
+   "peak": 27,
+   "worldScore": 11,
+   "worldCoverage": "4/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 11,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Saudi flagship investment conference pushed to 2027 after Houthi attacks",
+     "desc": "The annual Future Investment Initiative, often dubbed “Davos in the Desert”, was scheduled to take place from Oct 26-29.",
+     "url": "https://www.straitstimes.com/world/middle-east/saudi-arabia-postpones-its-davos-in-the-desert-conference-after-attacks",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Saudi Arabia postpones its 'Davos in the Desert' conference after attacks - Reuters",
+     "desc": "Saudi Arabia postpones its 'Davos in the Desert' conference after attacks Reuters",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaXJvV3ktdmE4WU9ZNjVBcDRBYW9yNXJVYVI3MV83aWtIV0pYN0lGNzM4UlNRZDdpRGs1bGsxR18wcjY5STVhU1Q1VEZJUmRKWFZPUnoxSlpFaThtMzhjRlVIZGl2VVVYYTlYM181N0Jyb0h4ZWRrM2FVZFZsSFRBT1haU0QtdEp5QlZ6dVg2VVpyX2RsaDEzbnN2Q1NvSFc5WW5jT2VmVQ?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Saudis Push Flagship FII Summit to 2027 After Houthi Attacks - Bloomberg",
+     "desc": "Saudis Push Flagship FII Summit to 2027 After Houthi Attacks Bloomberg",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdF91VnB6WVJqWkJRU2JBNUhBQmJnRHF2TlRvRVQxZXVMaG8ta2o4RkhvN1RkYWFLVmdkTGRtYXBLc3JSUDc0cXlpcVBLSzhFTHBxdl9ob3BHXzF1cXhoLUx6TmtVMERGSXc2d2tEYlZNeGwxejUySTNZZWRSVHhSXzZIbW5Fb29WNUY4SnpPSDhPMlRucXBUaEVrVWVDd3l1aTYwZnlDMGgtRDNjWXdzZ0xXVzM?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Saudi Arabia to postpone ‘Davos in the desert’ after Houthi attacks - Financial Times",
+     "desc": "Saudi Arabia to postpone ‘Davos in the desert’ after Houthi attacks Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdXJFUVpFSDlFUGZ0R3lkVUV0ZVBzd3NCR2ZSQ2ppUWxZb21ZZjNoV0VZVHNaME5yQVhKRWZkdHUwby1rbG5sem9Od2RGRDJ4OEhpNnBLcnpMRmdjMlItNkE4R0J0RWlUTHU0dmdONzVvRHN2RVpvbk5XcHVoelIweVBlUlg?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261019-17",
+   "title": "H3ロケット打ち上げ成功、火星衛星探査機を搭載",
+   "firstSeen": "2026-10-19",
+   "daysSeen": 2,
+   "history": {
+    "2026-10-19": 6,
+    "2026-10-20": 11
+   },
+   "peak": 11,
+   "worldScore": 11,
+   "worldCoverage": "3/18",
+   "jpScore": 30,
+   "jpCoverage": "3/6",
+   "gap": -19,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "abc-au",
+     "name": "ABC Australia",
+     "region": "world",
+     "weight": 0.97,
+     "title": "Japan launches first mission to collect samples from Martian moon",
+     "desc": "An international space mission aiming to collect sand and rock from one of Mars's moons is expected to land in Australia once the sample is retrieved.",
+     "url": "https://www.abc.net.au/news/2026-10-20/japan-launches-mission-to-collect-mars-moon-samples/107283312",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Japan launches ambitious robotic mission to Martian moon Phobos",
+     "desc": "Soil samples collected by the MMX probe will shed light on the mysterious origin of the red planet&#039;s two moons, Phobos and Deimos.",
+     "url": "https://www.cbsnews.com/news/japan-launches-ambitious-robotic-mission-to-land-on-martian-moon-phobos-return-samples-to-earth/",
+     "via": null
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Japan launches mission to make first return trip to Mars - Financial Times",
+     "desc": "Japan launches mission to make first return trip to Mars Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdk1aVEdoU3NMaGE3TW9Sd3N4LXJGbnV2WTFXZ2FhcW56Z1d4eXNMLWY2YkRmdGh2T0l4eTM3ZGVsWWNSN2lEZUZSdlFGWVVxS3dfTGVQVWJLY1BDUlVYcXExcG9UNHo2ZFByQ0VOUW5ZSHZKOXR1dHV2dWlldlNJenNzaGs?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "mainichi",
+     "name": "毎日新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "宇宙への扉:中国が猛追する火星探査 日本の戦略はあえて「本体でなく衛星」",
+     "desc": "",
+     "url": "https://mainichi.jp/articles/20261019/k00/00m/040/221000c",
+     "via": null
+    },
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "火星衛星へ、探査機打ち上げ 試料回収、５年で往復―「ＭＭＸ」、Ｈ３搭載・ＪＡＸＡ",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026102000118&g=soc&m=rss",
+     "via": null
+    },
+    {
+     "id": "yahoo",
+     "name": "Yahoo!ニュース主要",
+     "region": "jp",
+     "weight": 0.8,
+     "title": "H3ロケット10号機 打ち上げ成功",
+     "desc": "",
+     "url": "https://news.yahoo.co.jp/pickup/6599414?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261020-03",
+   "title": "ルワンダの政権批判派がウガンダで遺体で発見",
+   "firstSeen": "2026-10-20",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-20": 10
+   },
+   "peak": 10,
+   "worldScore": 10,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 10,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.85,
+     "title": "Exiled critic of Rwandan president found beheaded",
+     "desc": "Former army sergeant major Robert Kabera was a popular YouTuber and singer, who had sought asylum in Uganda.",
+     "url": "https://www.bbc.co.uk/news/articles/c3lylj78777do?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Beheaded body of Rwandan government critic found in Uganda",
+     "desc": "A former Rwandan soldier living in Uganda, where he had become a vocal critic of his government back home, was found decapitated near the Ugandan capital, Kampala, a police spokesperson said on Monday. Rwandan authorities have been accused of assassinating opponents of President Paul Kagame, who has ruled the country with an iron fist since taking power in the aftermath of the 1994 genocide that claimed 800,000 lives, primarily among the Tutsi community. Robert Kabera, a former sergeant who fled...",
+     "url": "https://www.scmp.com/news/world/africa/article/3371423/beheaded-body-rwandan-government-critic-found-uganda?utm_source=rss_feed",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "A Rwandan dissident has been found beheaded in neighboring Uganda - AP News",
+     "desc": "A Rwandan dissident has been found beheaded in neighboring Uganda AP News",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPX0JBOXViV29LUVVfWmlnRldQRWROWU1WOElxOFdSY3dHQTM2MnZFemFaRjBET3pMTjhDVkxJZmxvMHQzckZqMFV1cG5PV3FDajk5UDF1YVRmYmVqQ0p1ckVYb3U5RTJ3TkdhNlFRNUl1bTBRZFR3dkYwekZmekROOER0TFRTSGIxek5QMTRzbWZlVE0tLV94X2dhWkRiVnBQWXVuTTEwV3EtaXZKQzh3?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261020-05",
+   "title": "国連WFP、資金不足でガザ支援を削減",
+   "firstSeen": "2026-10-20",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-20": 10
+   },
+   "peak": 10,
+   "worldScore": 10,
+   "worldCoverage": "4/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 10,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.39,
+     "title": "Funding shortages force World Food Programme to cut aid to Gaza",
+     "desc": "The number of people helped by the UN agency in the Palestinian territory will drop by about a third - from 1.6 million to 1.1 million.",
+     "url": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.3,
+     "title": "Cuts force World Food Programme to end support for half a million Palestinians in Gaza",
+     "desc": "Two-thirds of population face crisis levels of food insecurity and 200,000 people are in danger of famine This winter is likely to deepen hunger for Palestinians in Gaza, after sweeping aid cuts forced the UN’s World Food Programme (WFP) to end support for more than half a million people each month, the agency’s director for Palestine said. More than a year after a Trump-brokered ceasefire came into force, promised reconstruction has not begun, there are few jobs and the vast majority in Gaza still rely on aid to eat. Continue reading...",
+     "url": "https://www.theguardian.com/world/2026/oct/19/cuts-world-food-programme-end-support-palestinians-gaza",
+     "via": null
+    },
+    {
+     "id": "npr",
+     "name": "NPR",
+     "region": "world",
+     "weight": 0.46,
+     "title": "'Life is absolutely brutal in Gaza,' says World Food Programme head",
+     "desc": "The UN's World Food Programme says 1.4 million people in Gaza are suffering acute food shortages and that funding gaps are forcing cutbacks in critical aid, despite the U.S. brokered Hamas-Israel ceasefire.",
+     "url": "https://www.npr.org/2026/10/18/nx-s1-6001709/life-is-absolutely-brutal-in-gaza-says-world-food-programme-head",
+     "via": null
+    },
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 0.61,
+     "title": "UN cuts food aid to half a million Gazans over funding shortages",
+     "desc": "The UN World Food Programme (WFP) has said it is being forced to \"drastically reduce\" aid to Gaza because of funding shortages.",
+     "url": "https://news.sky.com/story/un-cuts-food-aid-to-half-a-million-gazans-over-funding-shortages-13600991",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261013-14",
+   "title": "スターリンク施設の放火事件で容疑者の捜査進む",
+   "firstSeen": "2026-10-13",
+   "daysSeen": 3,
+   "history": {
+    "2026-10-13": 8,
+    "2026-10-19": 6,
+    "2026-10-20": 10
+   },
+   "peak": 10,
+   "worldScore": 10,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 10,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.85,
+     "title": "Fire at Starlink Center in Lithuania Was Sabotage, Officials Say",
+     "desc": "The fire, which did not seriously damage the network, came after similar incidents in Bulgaria and Poland involving the satellite internet provider, a key defense tool for Ukraine’s armed forces.",
+     "url": "https://www.nytimes.com/2026/10/19/world/europe/lithuania-starlink-sabotage-ukraine-russia.html",
+     "via": null
+    },
+    {
+     "id": "dw",
+     "name": "Deutsche Welle",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Bulgaria seeks suspects in Germany after Starlink sabotage",
+     "desc": "A Bulgarian court has issued arrest warrants for two young German nationals suspected of setting fire to Starlink antennas. The case is reminiscent of another in Poland, which Warsaw says was orchestrated by Russia.",
+     "url": "https://www.dw.com/en/bulgaria-seeks-suspects-in-germany-after-starlink-sabotage/a-79706745?maca=en-rss-en-world-4025-rdf",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Bulgarian court approves arrest warrant for two Germans over Starlink fire",
+     "desc": "SOFIA, Oct 19 - A Bulgarian court approved the issuance of a European arrest warrant for two German citizens accused of setting fire to SpaceX Starlink antennas near Sofia, a spokesperson told Reuters.",
+     "url": "https://www.straitstimes.com/world/europe/bulgarian-court-approves-arrest-warrant-for-two-germans-over-starlink-fire",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261020-20",
+   "title": "サウジがバングラデシュ人2人の死刑執行",
+   "firstSeen": "2026-10-20",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-20": 9
+   },
+   "peak": 9,
+   "worldScore": 9,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 9,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.54,
+     "title": "Bangladesh says it was not informed of its citizens' execution by Saudi Arabia",
+     "desc": "Saudi Arabia said it executed two Bangladeshis last week for committing an \"indecent act\" in a mosque.",
+     "url": "https://www.bbc.co.uk/news/articles/cmde83w13p00o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Saudi Arabia executes 2 Bangladeshis over ‘indecent acts’ in holy city of Mecca",
+     "desc": "Saudi Arabia has executed two Bangladeshi nationals, a man and a woman, after they were convicted of committing “indecent acts” in a mosque in the Muslim holy city of Mecca. Bangladesh said it was not informed before the sentences were carried out and has sought information from Saudi Arabia. The Saudi Interior Ministry said the Bangladeshis were executed because of “the gravity and seriousness of their actions in violating the sanctity of both time and place”. It did not elaborate.",
+     "url": "https://www.scmp.com/news/world/middle-east/article/3371424/saudi-arabia-executes-2-bangladeshis-over-indecent-acts-holy-city-mecca?utm_source=rss_feed",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Saudi Arabia executes 2 Bangladeshis over ‘indecent acts,’ and other Mideast news - AP News",
+     "desc": "Saudi Arabia executes 2 Bangladeshis over ‘indecent acts,’ and other Mideast news AP News",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcVpZRGhZT3Y1emJqaU5GbHdkLXM2ckdNLU5ZQ0N6SmU0VVQydW4wMndGb2V1ZzMzRHViTVBtWlNlN0kxclFURFFobVQ2TDFySldKNGF5TktyT3ZpLU54Q1pUMk9qYjM2dWVweW9vdTFvV2NGQ0ZkR00zMmdXWkxlMkZ1ZE5ReFhjM0wybG9mT0dfMGtPZTczaGJINEp5LXJrbEFDWEpjd2h5OHpHdmZFNlk2UUpxQnc?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261020-09",
+   "title": "エクアドルでミサ中に十字架が落下し神父死亡",
+   "firstSeen": "2026-10-20",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-20": 8
+   },
+   "peak": 8,
+   "worldScore": 8,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 8,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.48,
+     "title": "Priest in Ecuador Dies After Crucifix Falls on Him During Livestreamed Mass",
+     "desc": "The Rev. Patricio Alfredo Sánchez Molinari was addressing his congregation in Guayaquil, Ecuador, when a wooden cross detached from a wall and struck him.",
+     "url": "https://www.nytimes.com/2026/10/19/world/americas/ecuador-priest-dies-crucifix.html",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Video: Priest dies after cross falls on him during Mass in Ecuador",
+     "desc": "Ecuadorian priest Patricio Sánchez died after a large cross fell on him while he was celebrating Mass in the city of Guayaquil.",
+     "url": "https://www.euronews.com/video/2026/10/19/video-priest-dies-after-cross-falls-on-him-during-mass-in-ecuador",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Falling crucifix kills priest during livestreamed Mass in Ecuador",
+     "desc": "\"Father, Father! Call an ambulance!\" people at the church could be heard shouting just before a livestreamed broadcast cuts out.",
+     "url": "https://www.cbsnews.com/news/falling-crucifix-kills-priest-livestreamed-mass-ecuador/",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261020-10",
+   "title": "トランプ氏の支持率が過去最低の31%に下落",
+   "firstSeen": "2026-10-20",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-20": 8
+   },
+   "peak": 8,
+   "worldScore": 8,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 8,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump approval hits record-low 31 percent, polls show Republican struggles",
+     "desc": "Reuters/Ipsos poll shows Democrats leading by 12 points in generic US congressional ballot surveys against Republicans.",
+     "url": "https://www.aljazeera.com/news/2026/10/19/trump-approval-hits-record-low-31-percent-polls-show-republican-struggles?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump approval falls to record low of 31% as US midterms near, Reuters/Ipsos poll finds",
+     "desc": "Some 50% of female voters said they would vote Democratic, compared to 32% eyeing Republican candidates.",
+     "url": "https://www.straitstimes.com/world/united-states/trump-approval-falls-to-record-low-of-31-as-midterms-near-reutersipsos-poll-finds",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "EXCLUSIVE: Trump's approval falls to record low of 31% as midterms near, Reuters/Ipsos poll finds - Reuters",
+     "desc": "EXCLUSIVE: Trump's approval falls to record low of 31% as midterms near, Reuters/Ipsos poll finds Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT2FjX0hUODU4WlBWVWtBbDJwVTBPdHVBTFpGTEpTcDhUYjQyaEZ2aE1RQkE1YjZlREp5ZkRFMXU2czFFVFFaQWQ2NmlJNzJVNGtQM0R0YW5fWDZ1Xzh3b0FBWHBfWVA5UFkwRUFic0FMQWJRTnRmY2xuU3N2dXZFai1ydGtVTC13QjdVM2txNTIyN1UzaGhPMFA4OG80dl8xbHFsUE90bmViTkdtSVNtRFhWakZkWWtH?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261020-11",
+   "title": "CNN看板記者のアマンプール氏が退社へ",
+   "firstSeen": "2026-10-20",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-20": 8
+   },
+   "peak": 8,
+   "worldScore": 8,
+   "worldCoverage": "3/18",
+   "jpScore": 13,
+   "jpCoverage": "1/6",
+   "gap": -5,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Christiane Amanpour says she is leaving CNN after 43 years",
+     "desc": "The CNN chief international anchor will leave next year, after the news channel has recently come under the ownership of Skydance.",
+     "url": "https://www.straitstimes.com/world/united-states/christiane-amanpour-says-she-is-leaving-cnn-after-43-years",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Christiane Amanpour to leave CNN after four decades as Ellison era begins - Reuters",
+     "desc": "Christiane Amanpour to leave CNN after four decades as Ellison era begins Reuters",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb1RuM0JKcU9Qaks5eThna1hYUlptN2YyRWlqc2dDX1kySU51MWZPNFd6bXpCVnVPZXptVl80VmlwLU9NbTVrVmNjeWpNUEs4WFFKekVFRGU2NTZJQlZxeEFINFJRa3RmTEVJbnhvUm83R2gyMDVEb3V5cmgxNHFBWnd6OVN5ZlBKQ09HcWJnSlhvM0FxTm9ORkNBdzg4RzJSZzhVWHdROU1oT0d6VEY3LXdLdUV5VkwzZGkxWlVjOTlqcG1l?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Longtime CNN anchor Christiane Amanpour leaving network after a storied career of 43 years - AP News",
+     "desc": "Longtime CNN anchor Christiane Amanpour leaving network after a storied career of 43 years AP News",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPY010bnN5dnNmbmNERVNISlk1WDNSOVJ5MFdQTjE5TVVlNGEzU0s1SS11UTNCa0REZ1ktZTRlNlNsRnVDODYxd0cwSi1IcklScU9kUGZmMExrd3pyNjlxU1JDX2RpYkd5UnJuVTFNdXZWNHB1QnBOc1YyMjFLRkh0eC1xRXM3TWNGMUFaUzZR?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.8,
+     "title": "CNN看板記者、来年退社 C・アマンプールさん(共同通信)",
+     "desc": "【ニューヨーク共同】米CNNテレビの看板記者でチーフ国際アンカーのクリスチャン・アマンプールさん（68）は19日、CNNを来年6月で退社すると発表した。声明で「今後、興味深い新たなプロジェクトに取り組",
+     "url": "https://news.yahoo.co.jp/articles/33c2c249f6451e9ab2090116df4c0ce6f90596c7?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261020-13",
+   "title": "パレスチナ人活動家、送還回避で米最高裁に申立",
+   "firstSeen": "2026-10-20",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-20": 8
+   },
+   "peak": 8,
+   "worldScore": 8,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 8,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Palestinian activist Mahmoud Khalil asks US Supreme Court to review deportation case",
+     "desc": "Columbia University graduate Mahmoud Khalil on Monday asked the US Supreme Court to overturn a ruling that opened the door for US President Donald Trump’s administration to rearrest and deport the Palestinian activist. Khalil’s lawyers asked the justices to take up his case after the Philadelphia-based 3rd US Circuit ‌Court of Appeals ruled that federal immigration law barred a lower-court judge from ordering his release from US Immigration and Customs Enforcement (ICE) custody. Khalil was among...",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3371429/palestinian-activist-mahmoud-khalil-asks-us-supreme-court-review-deportation-case?utm_source=rss_feed",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Palestinian activist Mahmoud Khalil asks US Supreme Court to hear case seeking to avoid re-arrest",
+     "desc": "Oct 19 - Columbia University graduate Mahmoud Khalil on Monday asked the US Supreme Court to overturn a ruling that opened the door for President Donald Trump's administration to re-arrest and deport the Palestinian activist.",
+     "url": "https://www.straitstimes.com/world/middle-east/palestinian-activist-mahmoud-khalil-asks-us-supreme-court-to-hear-case-seeking-to-avoid-re-arrest",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Palestinian activist Mahmoud Khalil asks US Supreme Court to hear case seeking to avoid re-arrest - Reuters",
+     "desc": "Palestinian activist Mahmoud Khalil asks US Supreme Court to hear case seeking to avoid re-arrest Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONEdEOEZBQ0NpQ1doLTl6MmVCd0pTdGdTVXFUcWFPeUJ4S2ZrU3dFMUlXM2tFVnpaNnpFQ0hxMFBGc3FnSGZGSG1OaHNsVGxMaXFpc3NHYzl2V2ZPd3UydHF5VWl2QzhPMEZKeW51NUtIeVZlWGw2aXVhYjJUa2RWVVlZRkxXdGVQWkNlWlh3UVlvVjQxSUZWcUxUVzR4dkpuMzdiTVpiN0c0VmI5N2JjOWlyazA2OFNI?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261019-27",
+   "title": "ルビオ米国務長官、中央アジアで鉱物資源協議",
+   "firstSeen": "2026-10-19",
+   "daysSeen": 2,
+   "history": {
+    "2026-10-19": 6,
+    "2026-10-20": 8
+   },
+   "peak": 8,
+   "worldScore": 8,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 8,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "dw",
+     "name": "Deutsche Welle",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Rubio visits India with a trip to the world's largest oil refinery topping the agenda",
+     "desc": "A visit to India this week by Washington's top diplomat will skip New Delhi and instead include the world's largest oil refinery, which processes massive amounts of Russian crude. Is Trump looking for a new deal?",
+     "url": "https://www.dw.com/en/rubio-visits-india-with-a-trip-to-the-world-s-largest-oil-refinery-topping-the-agenda/a-79699826?maca=en-rss-en-world-4025-rdf",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Rubio puts Trans-Caspian trade and critical minerals at centre of Central Asia talks",
+     "desc": "The US and five Central Asian governments backed closer transport and industrial cooperation at a C5+1 meeting in Samarkand. Rubio also held bilateral talks, while Uzbekistan signed the Artemis Accords.",
+     "url": "https://www.euronews.com/2026/10/19/rubio-puts-trans-caspian-trade-and-critical-minerals-at-centre-of-central-asia-talks",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Rubio pitches US business in Central Asia, says China ties need not suffer",
+     "desc": "US Secretary of State Marco Rubio said on Monday that Washington wanted to compete for business in Central Asia without asking countries to stop working with China, as the United States and five regional governments outlined proposals to deepen cooperation on minerals, transport and technology. Speaking in Samarkand, Uzbekistan, Rubio was asked what Washington could offer as Beijing expanded its presence in the region. “I mean, look, it’s competition, right? We have products, we have companies;...",
+     "url": "https://www.scmp.com/news/us/article/3371420/rubio-pitches-us-business-central-asia-says-china-ties-need-not-suffer?utm_source=rss_feed",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261020-22",
+   "title": "ローマ教皇とゼレンスキー氏が電話会談",
+   "firstSeen": "2026-10-20",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-20": 8
+   },
+   "peak": 8,
+   "worldScore": 8,
+   "worldCoverage": "3/18",
+   "jpScore": 12,
+   "jpCoverage": "1/6",
+   "gap": -4,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Pope Leo XIV holds call with Zelenskyy, Vatican says",
+     "desc": "Chicago-born Leo, 71, has been calling for a humanitarian truce in Oleshky, a city under Russian siege, to allow food and medical aid to arrive and for civilians to be evacuated safely.",
+     "url": "https://www.euronews.com/2026/10/19/pope-leo-xiv-holds-call-with-zelenskyy-vatican-says",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Pope Leo urges Zelensky to cooperate with Russia on aid for Oleshky",
+     "desc": "Residents of the Ukrainian town, occupied by Russian forces since February 2022, have reported a deepening food crisis.",
+     "url": "https://www.straitstimes.com/world/europe/pope-leo-urges-zelenskiy-to-cooperate-with-russia-on-aid-for-oleshky",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Pope Leo urges Zelenskiy to cooperate with Russia on aid for Oleshky - Reuters",
+     "desc": "Pope Leo urges Zelenskiy to cooperate with Russia on aid for Oleshky Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSW9IQmgyc3g5S1pkQnhhdDdwTUtYX3NBdWtHQ3M3b3FuT3NZQWhrcklpYmpWMnhTSUs1Nl9rV0h5dWpNR1Y5M2M5eHFnWHBucWwxVjFzRWZ4bmZMYmZLRDhsNVIxUndMOWl4ODFBNURiT2I3eG83ckgyYVllT2h0dDNxS0s1OTJzOThYZzUxZ3Z5eHFqUkFZSnozcXNaWUlSenc?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.74,
+     "title": "ローマ教皇、孤立の町支援を協議 ゼレンスキー氏と電話会談(共同通信)",
+     "desc": "【ローマ、キーウ共同】ローマ教皇レオ14世は19日、ウクライナのゼレンスキー大統領と電話会談した。ロシアの占領下で孤立し、人道危機にあるウクライナ南部ヘルソン州オレシュキについて協議し、ロシアとウクラ",
+     "url": "https://news.yahoo.co.jp/articles/00b750225d0a9fc339ade40f11ac948743a7f0be?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261013-22",
+   "title": "日本の祭りで死亡事故相次ぎ安全懸念",
+   "firstSeen": "2026-10-13",
+   "daysSeen": 2,
+   "history": {
+    "2026-10-13": 0,
+    "2026-10-20": 7
+   },
+   "peak": 7,
+   "worldScore": 7,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 7,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.74,
+     "title": "Three deaths from float crushes raise safety concerns over Japanese festivals",
+     "desc": "Deputy mayor of Saijo died after becoming trapped under float, days after two similar incidents elsewhere There is mounting concern over the safety of Japan’s traditional festivals after the death of a senior local official who was reportedly crushed beneath a float at the weekend, days after two men died in similar incidents in another part of the country. Akihiro Nabae, the deputy mayor of Saijo, in western Japan, was carrying a giant float with other participants in a festival on Saturday when he became trapped beneath the structure, Agence France-Presse reported. Nabae, 62, was taken to ho",
+     "url": "https://www.theguardian.com/world/2026/oct/19/safety-concerns-japan-traditional-festivals-fatal-accidents",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.59,
+     "title": "Deaths at Danjiri Float Festival Prompt Questions in Japan",
+     "desc": "The vibrant danjiri tradition dates back three centuries, but two recent fatalities have prompted anxiety over whether participants can remain safe.",
+     "url": "https://www.nytimes.com/2026/10/19/world/asia/danjiri-festival-deaths-osaka-japan.html",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261014-01",
+   "title": "ローマ教皇、がん手術後初の公務復帰",
+   "firstSeen": "2026-10-14",
+   "daysSeen": 2,
+   "history": {
+    "2026-10-14": 37,
+    "2026-10-20": 6
+   },
+   "peak": 37,
+   "worldScore": 6,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.33,
+     "title": "Pope Leo XIV thanks wellwishers in first event after cancer surgery",
+     "desc": "The Pope's first event since his lung cancer diagnosis and surgery saw him recite the traditional Angelus prayer from the balcony of the Apostolic Palace.",
+     "url": "https://www.bbc.co.uk/news/videos/cq70px6pjkg5o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "npr",
+     "name": "NPR",
+     "region": "world",
+     "weight": 0.3,
+     "title": "Pope Leo says he will gradually resume duties after cancer surgery",
+     "desc": "Pope Leo XIV thanked thousands of faithful in St. Peter's Square on Sunday for their prayers while he was hospitalized, and said he plans to gradually return to his usual duties.",
+     "url": "https://www.npr.org/2026/10/18/g-s1-148654/pope-leo-says-he-will-gradually-resume-duties-after-cancer-surgery",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Pope Leo says he will resume activities after cancer surgery",
+     "desc": "Pope Leo XIV​ thanked thousands of faithful in St. Peter&#039;s Square on Sunday, one day after being discharged from the hospital for cancer surgery.",
+     "url": "https://www.cbsnews.com/news/pope-leo-cancer-surgery-resume-activities-vatican/",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261020-12",
+   "title": "英やハンガリーなどの学校に爆破予告メール",
+   "firstSeen": "2026-10-20",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-20": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "‘Islamist’ bomb threats sent to hundreds of schools in UK, Hungary, Serbia",
+     "desc": "Hundreds of schools in Northern Ireland, Scotland, Hungary and Serbia were sent bomb threats on Monday, with some evacuated as authorities said the warnings appeared to be a hoax. It is not yet known whether the incidents were connected to each other. “Police investigating the circumstances of threatening emails sent to schools across Northern Ireland this morning … are treating the matter as a hoax,” authorities said. Northern Ireland police said up to 300 schools had received “the same emailed...",
+     "url": "https://www.scmp.com/news/world/europe/article/3371421/islamist-bomb-threats-sent-hundreds-schools-uk-hungary-serbia?utm_source=rss_feed",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Schools in UK, Hungary, Serbia sent hoax bomb warnings",
+     "desc": "Some schools in Northern Ireland were forced to close after receiving emails containing a generalised threat.",
+     "url": "https://www.straitstimes.com/world/europe/schools-in-uk-hungary-serbia-sent-hoax-bomb-warnings",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261020-14",
+   "title": "米政府、中国AI「DeepSeek」の利用禁止へ",
+   "firstSeen": "2026-10-20",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-20": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US orders DeepSeek removed from federal systems, citing national security risks",
+     "desc": "Citing national security concerns, the US government has ordered federal civilian agencies to remove DeepSeek products and any third-party services developed using the Chinese artificial intelligence model from their information systems. In a notice made public on Monday, the Department of Homeland Security (DHS) also barred agencies from acquiring DeepSeek products and services, including those developed by affiliated entities. The notice said that using the company’s products “may result in...",
+     "url": "https://www.scmp.com/news/us/article/3371431/us-orders-deepseek-removed-federal-systems-citing-national-security-risks?utm_source=rss_feed",
+     "via": null
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US Moves to Bar DeepSeek From Federal Agencies and Contracts - Bloomberg",
+     "desc": "US Moves to Bar DeepSeek From Federal Agencies and Contracts Bloomberg",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeEpndkVhZ2dRdTE4ZFRvbWo5MVRaNm01Ym5UejE2a3pScWZSbG1jRmpZVnBYVHlTTjQ5OWVyTEt4a200VnVsZ1FaVmVWTTRpbkhMbmxUaUxrRTRfLXB5TXdKdTctbzJsSkU5ZDZ1NkpDWkZSaUJnNkFoQl9pNU11dHppVHA5WVVUdFRnM19YNnVtWDZJZ3d1eUpfMjJUamR3Nm9XQXplR3BZbzhCOEQtRA?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261020-15",
+   "title": "ブラジル裁判所がMetaにコンテンツ公平性証明命令",
+   "firstSeen": "2026-10-20",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-20": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Brazilian court orders Meta to prove Lula and Bolsonaro get equal treatment",
+     "desc": "A judge also doubled the daily fine for noncompliance with a previous court order governing political content.",
+     "url": "https://www.aljazeera.com/news/2026/10/19/brazilian-court-orders-meta-to-prove-lula-and-bolsonaro-get-equal-treatment?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Brazil court orders Meta to prove it gives Lula, Bolsonaro campaign content equal treatment",
+     "desc": "Brazil’s top electoral court has given Meta 24 hours to prove it is treating campaign content from incumbent President Luiz Inácio Lula da Silva and Senator Flavio Bolsonaro equally on its online platforms, threatening a daily fine for noncompliance. The ruling follows allegations from Lula's campaign that the social media giant is suppressing Lula’s campaign content ahead of Sunday’s closely contested presidential runoff.",
+     "url": "https://www.france24.com/en/americas/20261019-brazil-court-orders-meta-prove-gives-lula-bolsonaro-campaign-content-equal-treatment",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261020-16",
+   "title": "ウクライナ軍、ドローンで負傷兵を空中搬送",
+   "firstSeen": "2026-10-20",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-20": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 13,
+   "jpCoverage": "1/6",
+   "gap": -7,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Injured Ukrainian soldier rescued in first-ever drone evacuation mission",
+     "desc": "The Ukrainian army says it has carried out the world’s first drone evacuation of a wounded soldier from the front line.",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/aje-onl-nf_ukrainian-soldier-rescued-in-drone-evacuation-191026?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Ukraine deploys drone to airlift wounded soldier in 'world-first' operation",
+     "desc": "Ukraine has evacuated a wounded soldier from the front line using an aerial drone in what a Ukrainian army brigade has described as a world-first operation. The successful mission highlights the growing role of unmanned technology in battlefield evacuations as drones continue to shape the conflict between Ukraine and Russia.",
+     "url": "https://www.france24.com/en/europe/20261019-ukraine-deploys-drone-airlift-wounded-soldier-world-first-operation",
+     "via": null
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.77,
+     "title": "無人機で負傷兵を空中搬送 ウクライナ陸軍「世界初」(共同通信)",
+     "desc": "【キーウ共同】ウクライナ陸軍は19日、ロシアとの戦闘が続く前線から負傷兵を無人航空機でつり上げて救助し、安全な場所に避難させることに成功したと発表した。小型の無人地上車両（UGV）を利用した救助はこれ",
+     "url": "https://news.yahoo.co.jp/articles/2d0285b31d8446b3290c44e770289d6cadcd673f?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261020-18",
+   "title": "ロシアの攻撃でウクライナの公園で6人死亡",
+   "firstSeen": "2026-10-20",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-20": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Russian attack kills six at park in Kharkiv region, including three children, Ukraine says",
+     "desc": "KYIV, Oct 19 - A Russian drone attack on Monday killed six people, including three children, in a park in a village in Ukraine's northeastern Kharkiv region, Regional Governor Oleh Syniehubov said.",
+     "url": "https://www.straitstimes.com/world/europe/russian-attack-kills-six-at-park-in-kharkiv-region-including-three-children-ukraine-says",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Russian attack kills six at park in Kharkiv region, including three children, Ukraine says - Reuters",
+     "desc": "Russian attack kills six at park in Kharkiv region, including three children, Ukraine says Reuters",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRmNtTjh5cENNZWdxNHBuWUF6Sk1PSjZQY1NzUWp0MkhUMmZsdl83UkFCem9TTHRqUXFoeHZXcWU2bUc0ZnN0Nnc3NUxERDFzb01Td2FNOEVBRzhOdFdlQ09nYlJHSzlfZEt1V3JUQURYYUg2Wjhqc3FvYzlOZGVXbzdpZmNfT0RzVDVZVjJ2SXlmVURpZmpCTklUMDZHQ1hucFNZdC1DcThVbUFVVFB6YldxMkJYQWNfM0VseHp3UWc1Z3dF?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261020-19",
+   "title": "米高官、ノルウェーでウクライナ協議開催を計画",
+   "firstSeen": "2026-10-20",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-20": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US officials plan to travel to Norway for Ukraine talks, sources say",
+     "desc": "NEW YORK/WASHINGTON/LONDON, Oct 19 - President Donald Trump's son-in-law Jared Kushner and his Middle East envoy Steve Witkoff are set to travel to Norway this week for the next round of negotiations on ending the war in Ukraine, according to three people familiar with the matter.",
+     "url": "https://www.straitstimes.com/world/europe/us-officials-plan-to-travel-to-norway-for-ukraine-talks-sources-say",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US officials plan to travel to Norway for Ukraine talks, sources say - Reuters",
+     "desc": "US officials plan to travel to Norway for Ukraine talks, sources say Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOE4zYUpvQklLdjJ2UnU4NHpYZV9xempmUGVUdnAtOG5KS0dWbXhhb0EzV0M5UDNaUHRYNnY3ZFZuZjVfUDNkWnliYUVDa1R2OFpybEU1eVB6bkpyX3lwSW1uV3ZzVjRYaHNlX3pkelptSkhfTE05TkFlaTI4OUFlZGdBTG96SkxSYmFpSEFETGFkVHBCTlBqZFhDRmVpNjZZTGNRQjJxM0ROdw?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261020-21",
+   "title": "米モスク近くで射殺事件が発生",
+   "firstSeen": "2026-10-20",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-20": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "One killed in US shooting near mosque in Columbus, Ohio",
+     "desc": "Local authorities say mosque was not target of attack.",
+     "url": "https://www.aljazeera.com/news/2026/10/19/us-federal-authorities-responding-to-shooting-at-mosque-in-columbus-ohio?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Federal agents are responding to a reported shooting at a mosque in Columbus, Ohio, officials say - AP News",
+     "desc": "Federal agents are responding to a reported shooting at a mosque in Columbus, Ohio, officials say AP News",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRV8yQ0hzcFRDbkhoWVZyeGJLbnh1eGU0UEZpSk5SUHhLUU45ZlpJcUx3elJZRlc0T2JrRDllWTE4SllpSVBRVG5uV1lYd2dxa1VwQmJMZldYS2hPajZjRDFWSXJhVDM0b29FXzQxQkU2TDltYnNjU1VaN3RaRnhHeHhfbTRLSEZ0MVppcVpuckhFamM?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261015-31",
+   "title": "高市首相、消費減税財源で赤字国債依存を否定",
+   "firstSeen": "2026-10-15",
+   "daysSeen": 2,
+   "history": {
+    "2026-10-15": 0,
+    "2026-10-20": 0
+   },
+   "peak": 0,
+   "worldScore": 0,
+   "worldCoverage": "0/18",
+   "jpScore": 22,
+   "jpCoverage": "3/6",
+   "gap": -22,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "asahi",
+     "name": "朝日新聞",
+     "region": "jp",
+     "weight": 0.33,
+     "title": "消費減税の財源「特例公債に頼らず」 予算委の発言めぐり首相が投稿",
+     "desc": "",
+     "url": "http://www.asahi.com/articles/ASVBM3G9XVBMULFA01HM.html?ref=rss",
+     "via": null
+    },
+    {
+     "id": "mainichi",
+     "name": "毎日新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "高市首相、消費減税の財源は「赤字国債に頼らず」 従来方針強調",
+     "desc": "",
+     "url": "https://mainichi.jp/articles/20261019/k00/00m/010/268000c",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "高市早苗首相、予算編成全体で「国債発行否定せず」 Xに投稿 - 日本経済新聞",
+     "desc": "高市早苗首相、予算編成全体で「国債発行否定せず」 Xに投稿 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYMWNMY1lKM0V3OVNzSVU2b1EwdjFQVVlkSi1yTjdZc3pCdjJaMXdrbUNCVGVpQ0IxR3E4VUswbGtBeTBUblZDakNZOVczOE1KWV9FbE1VNHlJODRPUHp6aVhhemxLb3FDN2FvWA?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261020-17",
+   "title": "ニフティ等に不正アクセス、顧客情報漏洩の恐れ",
+   "firstSeen": "2026-10-20",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-20": 0
+   },
+   "peak": 0,
+   "worldScore": 0,
+   "worldCoverage": "0/18",
+   "jpScore": 18,
+   "jpCoverage": "2/6",
+   "gap": -18,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "asahi",
+     "name": "朝日新聞",
+     "region": "jp",
+     "weight": 0.56,
+     "title": "阪急阪神、ニフティ、ふるさとチョイス【19日判明の不正アクセス】",
+     "desc": "",
+     "url": "http://www.asahi.com/articles/ASVBM3T1KVBMULFA02HM.html?ref=rss",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "ニフティに不正アクセス 最大54万件の顧客情報流出の可能性 - 日本経済新聞",
+     "desc": "ニフティに不正アクセス 最大54万件の顧客情報流出の可能性 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLUEhjRW5vZ2Y1ZjJndk90RFZ3NXZMa1h3VEo2TEt4UUp5SmZ2QjRNX1liVmFEOGRWM2ZQQnhlY0tzeUhyai1waDZTVy1KWTlXdjdrTWNnSS1waGRxMC02Z08zbUQxVHlUM2VUeA?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  }
+ ]
+}
