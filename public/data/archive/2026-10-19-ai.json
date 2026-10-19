@@ -1,0 +1,989 @@
+{
+  "date": "2026-10-19",
+  "stream": "ai",
+  "title": "AI日報",
+  "generatedAt": "2026-10-19T08:24:57.715Z",
+  "model": "gemini-3.8-flash / gemini-3.5-flash-lite / gemini-3.5-flash / openai/gpt-oss-120b",
+  "editorialVersion": 12,
+  "categories": [
+    {
+      "id": "ai",
+      "label": "AI",
+      "desc": "AIモデル・AIサービス・AI企業の動向"
+    },
+    {
+      "id": "it",
+      "label": "IT",
+      "desc": "ソフトウェア開発・ネットサービス・セキュリティ・デバイス・通信（AIが主題のものは除く）"
+    },
+    {
+      "id": "science",
+      "label": "科学",
+      "desc": "研究成果・医療・宇宙・環境・エネルギー技術"
+    }
+  ],
+  "articles": [
+    {
+      "id": "14fec37168d2",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2610/19/2000002357/",
+      "headline": "中国DeepSeek、新モデルV4.1-Flashを公開し一部Astra超えを主張",
+      "originalTitle": "中国DeepSeek、V4.1-Flash新バージョンを公開 一部Astra超えをうたうモデルがオープンに",
+      "outlet": "ITmedia AI+",
+      "region": "domestic",
+      "category": "ai",
+      "score": 92,
+      "tier": "must",
+      "pubDate": "2026-10-19T00:35:40.000Z",
+      "body": null,
+      "summary": "DeepSeekは2026年10月17日（現地時間）にAIモデル「DeepSeek‑V4.1‑Flash」の新バージョン「DeepSeek‑V4.1‑Flash‑1017」の重みをMITライセンスで公開した。MITライセンスは商用利用を含む自由な再配布を許可するオープンソースの許諾形態である。同モデルはWeb版、アプリ、APIで提供され、料金は前バージョンと同様に設定された。\n\n同社が提示したベンチマーク「DeepSWE v1.1」（コーディングエージェント性能を測る指標）では、推論設定「max」時の成功率が77％となり、米OpenAIのGPT‑6 AstraやAnthropicのClaude Opus 5を上回ったと主張している。さらに、自己フィードバックを用いた強化学習により、ゲーム制作や3Dモデリングなど開発プロジェクト全体を担う能力が向上し、出力量とタスク実行時間が前バージョンより削減されたという。これらの性能は同社環境での評価であり、第三者機関による検証はまだ少ない。\n\nHugging Faceの共同創設者トーマス・ウルフ氏はXで、今回の性能向上を高く評価しつつ「独自環境以外での評価がどうなるか」と懸念を示した。第三者によるベンチマーク結果が蓄積されるまで、実際の比較は限定的である。\n\n料金は100万トークン当たり、オフピーク時は入力が0.003ドル（キャッシュヒット）または0.15ドル（キャッシュミス）、出力が0.6ドルで、ピーク時はそれぞれ2倍になる。価格は前バージョンから据え置かれ、商用利用者は従来と同様のコストで利用できる。",
+      "sources": [
+        {
+          "outlet": "ITmedia AI+",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2610/19/2000002357/",
+          "date": "2026-10-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "openai/gpt-oss-120b"
+    },
+    {
+      "id": "b8c765fc30dd",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "science",
+      "url": "https://www.itmedia.co.jp/news/article/2610/19/2000002366/",
+      "headline": "Google、量子コンピュータの魔法状態生成を実機で効率化、エラーを40分の1に減少",
+      "originalTitle": "Google、量子コンピュータの“魔法状態”生成を実機で効率化 エラーを40分の1に",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "science",
+      "score": 91,
+      "tier": "must",
+      "pubDate": "2026-10-19T02:03:41.000Z",
+      "body": null,
+      "summary": "米Googleの量子コンピューティング部門Google Quantum AIは、10月15日（現地時間）に量子プロセッサ「Willow」上で“魔法状態栽培”を実機実証したと発表した。栽培を行わない場合と比較して、エラー率を約40分の1に低減できたことを報告した。実証結果は同日、米科学誌『Science』に掲載された。\n\n魔法状態とは、誤り訂正を可能にするために必要な特殊な量子状態であり、従来は高品質な状態を作るのに量子コンピュータの計算能力の最大95％を費やすと見積もられていた。Googleが提案した“魔法状態栽培”は、チップ上の小領域にノイズを含む状態を注入し、測定でエラーの有無を確認しながら失敗した試行を除去し、エラーの少ない状態を育成する仕組みである。実験では、得られた魔法状態の忠実度が少なくとも99.99％に達し、全試行の約8％がエラーチェックを通過した。この手法はフィルタとして機能し、実用的な計算に必要な量子ビット数を大幅に削減できる可能性がある。\n\n実証過程で測定データが物理法則に反するように見える問題が生じたが、電子機器の特性ドリフトや温度変動によるノイズが原因と判明し、ノイズ抑制制御と新たな評価手法で対処した。さらに、栽培に適した誤り訂正方式“カラー符号”で作成した状態を、より確立された“表面符号”の大領域へ移す“接ぎ木”（grafting）にも成功した。Googleは、実用化には更なる大規模実証が必要であるとし、本成果を誤り訂正可能な実用量子コンピュータへの一歩と位置付けている。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2610/19/2000002366/",
+          "date": "2026-10-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "openai/gpt-oss-120b"
+    },
+    {
+      "id": "ff5578c50024",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.itmedia.co.jp/news/article/2610/19/2000002365/",
+      "headline": "Linuxカーネルに深刻な脆弱性PwnEscapeが発覚、ホストでコード実行の恐れ",
+      "originalTitle": "Linuxカーネルの深刻な脆弱性「PwnEscape」（CVE-2026-99999） ゲストの仮想マシンからホスト側Linux OSに不正なコードを実行できる可能性",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "it",
+      "score": 90,
+      "tier": "must",
+      "pubDate": "2026-10-19T02:04:19.000Z",
+      "body": null,
+      "summary": "2026年10月19日にITmedia NEWSが報じたところによると、Linuxカーネルに存在する脆弱性「PwnEscape」（CVE-2026-99999）は、ゲスト側の仮想マシンからホスト側のLinux OSへ不正なコードを実行できる可能性があるとされ、深刻度スコアは10段階中9.3の「Critical」と評価されている。\n\nこの欠陥はカーネルが検証済みとみなすIPv4ヘッダーのチェックサム関連データが攻撃者に書き換え可能となっている点に起因し、チェックサムを書き換えることで本来想定外のメモリ位置への読み書きを実現できる。Openwallのメーリングリストに投稿された解説によれば、研究環境ではこの手法によりホスト側でコード実行に至ったことが確認されており、KVMだけでなくコンテナ環境でも同様の攻撃が成立すると見込まれている。さらに、メール本文では数週間以内に弱い構成向けのエクスプロイトが、1か月以内にデフォルト構成でも機能するエクスプロイトが出現する可能性が指摘されている。\n\nサービス事業者の対応としては、さくらインターネットが該当するVPSやレンタルサーバの新規申し込みを停止し対策を開始したことが報告されている。AWSはマネージドのコンピュート・コンテナサービスは影響を受けず、顧客側での対応は不要とし、Amazon Linux 2向けには既に修正済みのアップデートが提供されている。Linux仮想マシンを利用する組織や個人は、利用中のサービスが本脆弱性に対してどのような対策を講じているかを確認する必要がある。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2610/19/2000002365/",
+          "date": "2026-10-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "openai/gpt-oss-120b"
+    },
+    {
+      "id": "e06ccd05a67b",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.watch.impress.co.jp/docs/news/2149226.html",
+      "headline": "OpenAI、ChatGPT Slidesでスライド作成と共同編集を開始",
+      "originalTitle": "ChatGPTにスライド作成機能「ChatGPT Slides」 共同編集も",
+      "outlet": "Impress Watch",
+      "region": "domestic",
+      "category": "ai",
+      "score": 88,
+      "tier": "should",
+      "pubDate": "2026-10-19T03:32:49.000Z",
+      "body": null,
+      "summary": "OpenAIはChatGPTに新機能「ChatGPT Slides」を追加し、プレゼンテーション資料の作成・編集が可能になったことを発表した。利用はPro（月額16,800円から）・Business・Enterpriseプランに限定される。ChatGPT Slidesはチャットやアップロードしたファイル、アウトラインを基にスライドを自動生成できる。\n\nテンプレートからの作成に加え、既存のプレゼン資料のデザインやレイアウトを参照して新しいスライドを生成でき、画像はユーザーがアップロードしたものやChatGPTが生成したものが組み込まれる。テキスト・画像・図形・グラフは画面上で直接編集でき、ChatGPTやDots（OpenAIが提供する指示受け取りツール）に修正指示を出すことも可能である。\n\n完成した資料はChatGPT上でプレゼンテーションでき、PowerPoint、PDF、Google スライドへエクスポートできるほか、デスクトップアプリでPowerPointやKeynoteで開き、編集を続行できる。さらに共同編集機能により、チームメンバーとリアルタイムで編集やコメントの共有が可能となっている。",
+      "sources": [
+        {
+          "outlet": "Impress Watch",
+          "url": "https://www.watch.impress.co.jp/docs/news/2149226.html",
+          "date": "2026-10-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "openai/gpt-oss-120b"
+    },
+    {
+      "id": "51c1c9a5e48b",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "headline": "Replit、OpenAIをデフォルトに変更、Anthropicから転換",
+      "originalTitle": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "outlet": "TechCrunch",
+      "region": "overseas",
+      "category": "ai",
+      "score": 86,
+      "tier": "should",
+      "pubDate": "2026-10-17T18:48:08.000Z",
+      "body": null,
+      "summary": "TechCrunch DisruptでReplitのCEOであるAmjad Masadは、同社のAIコーディングプラットフォームでOpenAIのChatGPTをデフォルトモデルに変更し、Anthropicから転換することを発表した。変更の理由はコスト、パフォーマンス、パートナーシップの3点で、Replitは内部ベンチマークと公開ベンチマークの両方で、OpenAIのSolおよびAstraがClaudeよりもアプリケーションをゼロから構築する際に優れていることを確認した。\n\nただし、ユーザーが明示的に選択すればAnthropicのモデルも引き続き利用可能である。これまでReplitはAnthropicのClaudeシリーズを採用し、Anthropic側の上位5顧客の一つとして大きな収益貢献をしていた。\n\nMasadは同時に、企業向け契約が昨年の売上の約2%から今年は約15%に拡大し、全体の売上の50%以上がB2Bであると説明した。さらに、2027年までに企業・政府顧客からの売上が全体の半数以上を占める見込みだと述べた。\n\nまた、AIエージェントの安全な運用には「ハビタット」と呼ばれる環境が必要であり、オーケストレーション、エラー回復、サンドボックス化、ネットワーク、アイデンティティと認可といった要素が揃うことが重要だと強調した。",
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+          "date": "2026-10-17",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "openai/gpt-oss-120b"
+    },
+    {
+      "id": "3ec12874437f",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.watch.impress.co.jp/docs/news/2149147.html",
+      "headline": "BASE子会社Eストアーで約2,335万6千人の顧客情報が漏えい",
+      "originalTitle": "BASE子会社の「Eストアー」、2336万人の情報漏えい",
+      "outlet": "Impress Watch",
+      "region": "domestic",
+      "category": "it",
+      "score": 84,
+      "tier": "should",
+      "pubDate": "2026-10-19T02:22:59.000Z",
+      "body": null,
+      "summary": "BASE子会社のEストアーは、2026年5月21日から8月1日にかけてアプリケーションの脆弱性を悪用した不正アクセスにより、約2,335万6千人と7,858店舗の情報が漏えいしたと発表した。攻撃者はサーバー上で不正プログラムを実行し、データベース情報を外部へ送信していた。\n\n漏えいした情報は、店舗・アフェリエイター向けにECサイト管理画面のIDとパスワード、コンビニ支払い票に記載された販売責任者氏名・店舗名・住所・電話番号・FAX、アフェリエイト登録者のメールアドレスとパスワード、購入者の氏名・住所・電話番号・FAX・メールアドレス・勤務先・任意入力情報、会員IDとパスワード、さらにクレジットカード番号の先頭6桁と下4桁およびカード名義を含む。購入者のパスワードは暗号化されており、カード番号は一部しか保持していないため、攻撃者が決済を行うことはできない。\n\n8月1日に漏えいが判明して以降、攻撃元との通信を遮断し、再発防止策として脆弱性の修正、認証情報のリセット、影響範囲の点検、外部機関によるフォレンジック調査、関係機関への報告を実施した。外部の専門機関は、漏えい情報がダークウェブに流出していないことも確認している。",
+      "sources": [
+        {
+          "outlet": "Impress Watch",
+          "url": "https://www.watch.impress.co.jp/docs/news/2149147.html",
+          "date": "2026-10-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "openai/gpt-oss-120b"
+    },
+    {
+      "id": "5cb4b099cccc",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.itmedia.co.jp/news/article/2610/19/2000002353/",
+      "headline": "AnthropicでAI稼働時間が人間の6倍に達し技術系初級職の採用が激減",
+      "originalTitle": "Anthropic、社内でAIエージェントの稼働時間が人間の6倍に 技術系初級職の採用比率は27％→9％に激減",
+      "outlet": "ITmedia AI+",
+      "region": "domestic",
+      "category": "ai",
+      "score": 82,
+      "tier": "should",
+      "pubDate": "2026-10-18T23:02:13.000Z",
+      "body": null,
+      "summary": "米Anthropicは10月16日、AIが社内の雇用や働き方をどのように変えたかを分析した調査レポートと、従業員と米国一般市民のAIの将来予測を比較したレポートを公開した。同社での雇用に関する分析では、社内のデータや従業員へのインタビューに基づき、AI導入が採用や労働需要に与えた影響が示されている。\n\n社内ではコードの記述やバグの発見をClaude（同社のAIアシスタント）に任せられるようになったことで、技術部門の従業員に占める初級職の比率や採用における初級職の比率が大きく低下した。一方で、自律型と対話型を合わせたAIエージェントの稼働時間は急増し、2026年3月に初めて人間の労働時間を上回った後、8月には対話型エージェントだけでも従業員の労働時間の6倍に達した。\n\n生産性の面では、エンジニア1人当たりのコード変更記録数が半年前の5倍のペースになったほか、法務部門の契約処理数や営業の成約数も増加した。しかし、エージェントの処理が速くなるにつれて人間の注意力がボトルネックとなっており、エージェントを監視・管理する仕組みづくりなどの作業に割く時間の割合が増えている。また、採用においてAIツールの活用実績や候補者の自律性・判断力が重視されるようになっている。\n\nもう1本のレポートでは、AIの能力についての現状認識はおおむね一致したものの、将来の進歩の速さや自分の仕事への影響についてはAnthropicの従業員と米国一般市民の間で大きな認識の差がみられた。ただし、失業率の予測については自動化の度合いを見込む基準が同じであれば両者の予測もほぼ同じであり、AIの利用がさらに広がれば一般の予測も変わる可能性があると分析している。",
+      "sources": [
+        {
+          "outlet": "ITmedia AI+",
+          "url": "https://www.itmedia.co.jp/news/article/2610/19/2000002353/",
+          "date": "2026-10-18",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash-lite"
+    },
+    {
+      "id": "6a083a36de89",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "headline": "ディズニー、Character.AIの従業員多数を雇用へ 合計6000万ドルの年俸を支払う",
+      "originalTitle": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "outlet": "TechCrunch",
+      "region": "overseas",
+      "category": "ai",
+      "score": 78,
+      "tier": "should",
+      "pubDate": "2026-10-18T16:30:00.000Z",
+      "body": null,
+      "summary": "2026年10月18日、チャットボットスタートアップのCharacter.AIが破産申請を行った後、ディズニーが同社の従業員の大半に対し雇用提案を行うことが合意された。ディズニーは少なくとも60名、すなわち全従業員の多数に対し、年間総額約6000万ドル（約80億円）の報酬を支払うとする。\n\n同時に、Character.AIの元CEOであるカランディープ・アナンド氏がディズニーの初のCTO（最高技術責任者）に就任したことが明らかになった。ディズニーはまた、同社の一部資産を2000万ドルで取得する旨の合意も示している。\n\n法的書類によれば、オファーを受けた従業員の「大多数」が受諾したとされるが、今回の取引はスタッキングホース入札（他社がより高額の入札を提示できる最低入札）として扱われており、将来的に別の企業が上回る提案を行う可能性がある。\n\nCharacter.AIは利用者数は多いものの、運営コストの高さや訴訟リスク、規制当局とのやり取りが経営を圧迫していた。具体的には、同社のチャットボットに依存したとされる14歳少年の自殺に関する訴訟や、子どもの安全性に関する政府調査が問題視されていた。",
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+          "date": "2026-10-18",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "openai/gpt-oss-120b"
+    },
+    {
+      "id": "5dcad1111b92",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.itmedia.co.jp/news/article/2610/19/2000002359/",
+      "headline": "Anthropic、株式5％を公益基金へ拠出　企業価値上昇ごとに2％追加",
+      "originalTitle": "Anthropic、株式の5％を公益目的の新組織に拠出 企業価値の上昇に応じて割合を拡大",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "ai",
+      "score": 75,
+      "tier": "should",
+      "pubDate": "2026-10-19T00:38:54.000Z",
+      "body": null,
+      "summary": "Anthropicは2026年10月18日（現地時間）に、自社株式の一部を新組織「Anthropic Public Benefit Fund」に拠出すると発表した。株主の承認を条件に、まず株式の5％を拠出し、企業価値が基準値から50％上昇するたびに取締役会の判断で追加2％を拠出する仕組みとなっている。企業価値が高まるほど公益に充てる株式比率が拡大することになる。\n\n同社はデラウェア州法に基づくPublic Benefit Corporation（公益企業、略称PBC）として、AIの安全性や解釈可能性の研究、医療分野への応用、非営利団体向けのClaude割引サービスなどを行ってきた。新組織は完全子会社のLLC（有限責任会社）として設立され、寄付の形態を柔軟に変更できるようにしている。保有株式は米国内外のロビー活動や政治献金に使用しないことが明記されている。\n\nAnthropicの共同創業者は創業時に保有株式の80％を寄付すると誓約しており、従業員の約半数が同様の制度に参加している。今回の拠出を含めると、同社株式の約20％が公益目的に充てられる見込みで、企業価値が一定水準に達すればさらに上積みされる。組織のガバナンスや追加拠出基準は数カ月以内に公表される予定で、同社は6月にSECへIPO用のForm S‑1草案を提出したことも併せて報告している。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2610/19/2000002359/",
+          "date": "2026-10-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "openai/gpt-oss-120b"
+    },
+    {
+      "id": "13ee789de013",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://lwn.net/Articles/1101143/",
+      "headline": "Linus TorvaldsがLinuxカーネル7.3をリリース",
+      "originalTitle": "Linux 7.3 Released",
+      "outlet": "lwn.net",
+      "region": "overseas",
+      "category": "it",
+      "score": 73,
+      "tier": "should",
+      "pubDate": "2026-10-19T07:23:57.000Z",
+      "body": null,
+      "summary": "Linus Torvaldsは2026年10月19日の日曜午後にLinuxカーネル7.3をリリースした。リリースは予定通りで、翌日から7.4のマージウィンドウが開始される。Torvaldsは年次の家族旅行中で、午前中は船上で過ごし、午後からマージ作業に戻る予定である。\n\n7.3は全ての面で記録的な規模となり、18,765件の非マージコミットが3,021人の開発者から提供された。そのうち807人は初めてカーネル開発に参加した開発者である。これにより開発者層の拡大が示された。\n\n主な変更点として、binfmt_misc（バイナリ形式の自動判別機構）の拡張が行われ、特殊な実行形式のサポートが追加された。大規模システム向けにグループスケジューリングが改善され、スケジューラの性能が向上した。新しいfailfsはすべての操作を意図的に失敗させるテスト用ファイルシステムである。\n\nfchroot()システムコールが導入され、プロセス単位でルートディレクトリを変更できるようになった。BPF（Berkeley Packet Filter）プログラム向けにCPUごとのグローバルデータが提供され、パフォーマンスが向上した。sched_extサブスケジューラ機能が完成し、仮想マシンの作業集合（working‑set）追跡や、ntfs3ファイルシステムの代替データストリームサポート、SMBサーバーの多数の改良が加えられた。",
+      "sources": [
+        {
+          "outlet": "lwn.net",
+          "url": "https://lwn.net/Articles/1101143/",
+          "date": "2026-10-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": "https://news.ycombinator.com/item?id=50149392",
+      "summarizedBy": "openai/gpt-oss-120b"
+    },
+    {
+      "id": "298c8f7b61d9",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.itmedia.co.jp/news/article/2610/19/2000002372/",
+      "headline": "ソースネクスト、情報流出でパスワードが平文になった理由を説明",
+      "originalTitle": "ソースネクスト、パスワードなぜ平文で流出 「暗号化していたが、鍵にアクセスできるシステムに侵入された」",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "it",
+      "score": 72,
+      "tier": "interest",
+      "pubDate": "2026-10-19T03:38:11.000Z",
+      "body": null,
+      "summary": "ソースネクストの会員情報取得APIが不正アクセスを受け、最大約2252万件の氏名や住所、パスワードなどが漏えいした問題で、同社はパスワードが平文で流出したことを認めた。パスワードは暗号化して保存していたものの、復号するための鍵にアクセス可能なシステムに対して不正アクセスが行われたという。\n\nパスワードをハッシュ化していなかった理由について同社は、当該システムの開発時期が古く、当時採用した暗号化方式を継続して使用していたため、最新のハッシュ化方式への移行ができていなかったと説明している。同社は全顧客のパスワードを強制リセットして再設定を求めているが、具体的な対策やAPIの利用目的の詳細は、新たな攻撃を助長するおそれや関係機関による捜査・調査への協力を理由に回答を控えている。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2610/19/2000002372/",
+          "date": "2026-10-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash-lite"
+    },
+    {
+      "id": "895ee6bff7d3",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.publickey1.jp/blog/26/netdotnetupnet.html",
+      "headline": "マイクロソフト、複数バージョンの環境管理ができる「dotnetup」公開",
+      "originalTitle": "マイクロソフト、.NETのツールチェーンマネージャ「dotnetup」プレビュー公開。複数バージョンの.NET環境を管理可能",
+      "outlet": "Publickey",
+      "region": "domestic",
+      "category": "it",
+      "score": 69,
+      "tier": "interest",
+      "pubDate": "2026-10-18T15:35:52.000Z",
+      "body": null,
+      "summary": "マイクロソフトは、.NETの各種コマンドラインツールやコンパイラ、ランタイムなどを含むツールチェーンをまとめてインストールし、バージョン管理ができる「dotnetup」をパブリックプレビューとして公開した。Rustの「rustup」やNode.jsの「nvm」と同様に、開発環境と実行環境の一式をコマンド一発で導入できるほか、開発プロジェクトごとにバージョンの切り替えを行えるのが特徴である。\n\ndotnetupは既存の「dotnet-install」に似ているが、複数のバージョンをインストールして管理できる点に違いがある。主な特徴として、Windows、Mac、Linuxでの一貫した利用、システムフォルダではなくユーザーフォルダに格納されるため管理者権限が不要であること、プレビュー版を含む複数バージョンの共存、特定のメジャーバージョンやリリースチャンネルの追跡アップデート、既存の「global.json」ファイルへの対応などが挙げられている。",
+      "sources": [
+        {
+          "outlet": "Publickey",
+          "url": "https://www.publickey1.jp/blog/26/netdotnetupnet.html",
+          "date": "2026-10-18",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash-lite"
+    },
+    {
+      "id": "568162b981af",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "headline": "米Meta、商業利用規約からウェブスクレイピング関連の文言を削除",
+      "originalTitle": "Meta removes language that raised scraping and AI training concerns",
+      "outlet": "TechCrunch",
+      "region": "overseas",
+      "category": "ai",
+      "score": 68,
+      "tier": "interest",
+      "pubDate": "2026-10-17T21:31:32.000Z",
+      "body": null,
+      "summary": "米Metaは商業利用規約を更新し、ビジネスアカウントを持つ企業のウェブサイトやドキュメントのコンテンツを、自社製品やサービスの提供や開発、AIモデルの訓練などのために使用できるとする規定を盛り込んでいた。法的専門家からは、Metaがビジネスアカウントを持つ出版社のウェブサイトをスクレイピングし、AIモデルの訓練に利用する許可を与えるものだとの指摘が上がっていた。\n\nMetaの広報担当者は、更新された規約はウェブのクロール方法を変更するものではないと主張していたが、その後、該当する規定が削除されたことが報じられた。同社は、統合したクロールに関する規約は広告およびビジネス製品にのみ適用されるものであると説明し、混乱を避けるために規約自体を明確化したとしている。",
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+          "date": "2026-10-17",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash-lite"
+    },
+    {
+      "id": "e0eddf9b45b4",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/18/news004.html",
+      "headline": "AIエージェントの自律化に伴う暴走リスクと人間の承認限界に対しDocker等が対策を提示",
+      "originalTitle": "「11回止めたのに本番DBが消えた」 AIエージェント“6つの暴走”と、人間の承認を増やしても防げない理由",
+      "outlet": "ITmedia AI+",
+      "region": "domestic",
+      "category": "ai",
+      "score": 67,
+      "tier": "interest",
+      "pubDate": "2026-10-17T23:00:00.000Z",
+      "body": null,
+      "summary": "ソフトウェア開発等でAIエージェントの活用が進む一方、本番データベースの全消去など重大なインシデントが発生している。Dockerは、AIエージェントがファイルシステムへの無制限アクセスや過剰な権限継承によって引き起こす暴走リスクを6つのカテゴリーに整理し、開発環境への影響に注意を呼びかけている。\n\n従来は操作ごとに人間が承認する方式が採られていたが、確認要求の多さから内容を吟味せず承認する慣習化が問題視されている。Anthropicの対照実験によると、危険なコマンドのブロック率はAIによる自動判定が89％であったのに対し、人間による手動承認は13.6％にとどまり、人間による確認だけでは安全性を確保できない実態が明らかになった。\n\nこうした事態を受け、Anthropicは「Claude Code」に危険度を自動分類するモードを導入し既定に設定した。Dockerもまた、個別の操作を承認する方式から、AIの動作環境をあらかじめ限定してリアルタイムに制御する「3C（封じ込め、キュレーション、制御）」フレームワークへの移行を提唱している。",
+      "sources": [
+        {
+          "outlet": "ITmedia AI+",
+          "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/18/news004.html",
+          "date": "2026-10-17",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash"
+    },
+    {
+      "id": "fed1c69539da",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/19/news029.html",
+      "headline": "ガートナーが2026年版ハイプサイクルを発表しフロンティアAIなど5項目を期待のピークに指定",
+      "originalTitle": "Newオンプレミス、RAG、SREはもう“幻滅期” 2026年、「過度な期待」のピークにある5項目とは？",
+      "outlet": "ITmedia AI+",
+      "region": "domestic",
+      "category": "it",
+      "score": 66,
+      "tier": "interest",
+      "pubDate": "2026-10-18T23:00:00.000Z",
+      "body": null,
+      "summary": "ガートナージャパンは「日本におけるクラウドとAIのハイプサイクル：2026年」を発表した。外部文書を検索して回答に使う「RAG」や「SRE」などの技術が幻滅期に入った一方で、「フロンティアAI」や「エージェント型AI」を含む5項目が「過度な期待」のピーク期に位置付けられた。\n\n同社は、最先端のAIモデルであるフロンティアAIを、企業の競争力や国家の技術主権を左右する戦略的基盤と定義した。今後はフロンティアAIが各種AIサービスの知能基盤になると予測しており、企業には特定ベンダーへの依存リスクを考慮した総合的なAIガバナンス戦略が求められると指摘している。\n\nさらに、クラウドインフラはAIを中核として設計および運用される「AI駆動型クラウド」へ進化している。テクノロジーの導入にとどまらず、それらを活用して価値に結び付ける人材と組織の育成が企業の競争力を決定づけると分析している。",
+      "sources": [
+        {
+          "outlet": "ITmedia AI+",
+          "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/19/news029.html",
+          "date": "2026-10-18",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash"
+    },
+    {
+      "id": "85ddbdc7a76d",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "science",
+      "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "headline": "スタンフォード大学のサミュエル・キング、AIでウイルス設計の遺伝子設計案を提示",
+      "originalTitle": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "outlet": "MIT Technology Review",
+      "region": "overseas",
+      "category": "science",
+      "score": 65,
+      "tier": "interest",
+      "pubDate": "2026-10-16T18:00:00.000Z",
+      "body": null,
+      "summary": "2026年10月16日、MIT Technology Reviewは有料会員限定でラウンドテーブル映像を公開し、AI担当記者ジェームズ・オドネルがスタンフォード大学・アーク研究所のバイオエンジニアリング博士課程学生サミュエル・キング氏にインタビューした。\n\nキング氏は2025年に生成的AIモデル（新たなデータを自ら作り出す人工知能）を用いて、顕微鏡サイズのウイルスに対する遺伝子設計図（DNA・RNA配列の設計案）を提案した。この手法はまだ実際のウイルスをAIが創出したわけではないが、AIがウイルス設計を支援できることを示した。\n\nインタビューでは、AIが生物学的設計プロセスに与える影響や、将来的にAIが新たな生命形態を創出する可能性について議論された。また、キング氏は同誌が選出した『Innovators Under 35』に選ばれたことも紹介された。\n\n本セッションは音声・映像で視聴可能で、MIT Technology Reviewの購読者のみがアクセスできる。",
+      "sources": [
+        {
+          "outlet": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+          "date": "2026-10-16",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "openai/gpt-oss-120b"
+    },
+    {
+      "id": "e2e4df7cbff1",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.itmedia.co.jp/news/article/2610/19/2000002371/",
+      "headline": "Web検索の過半数が生成AI利用に移行、SEOからGEO対策への転換が急務",
+      "originalTitle": "AIの台頭でWebサイトのアクセス向上策はSEOからGEOにシフト 対応急務に",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "ai",
+      "score": 64,
+      "tier": "interest",
+      "pubDate": "2026-10-19T02:36:10.000Z",
+      "body": null,
+      "summary": "生成AIの急速な普及に伴い、企業のWebサイトなどのアクセス向上策が、従来の検索エンジン最適化である「SEO（検索エンジン最適化）」から、生成AIの回答に引用されるよう最適化する「GEO（生成エンジン最適化）」へシフトしている。サイバーエージェントの研究機関の調査によると、2026年8月時点で検索における生成AIの利用率は52.3％に達し、過半数を占めるに至った。\n\n生成AIの台頭により、ユーザーがAIの要約回答のみで満足し引用先サイトへ移動しない「ゼロクリック検索」が顕著になっている。米Chartbeatの報告では、2025年7月から2026年7月にかけてGoogle検索から各サイトへの流入が約40％減少した。これにより、Webサイトの閲覧数を集める従来のSEO手法だけでは、アクセス数を維持することが困難になりつつある。\n\nGEO対応では単なるキーワード選定は有効でなく、独自のアンケートや実験結果といった一次情報を記載することや、専門家のコメントによる信頼性の提示、AIが理解しやすい簡潔な文章構成などが求められる。また、評価指標も従来のアクセス数から、AIの回答に自社コンテンツが何回引用されたかという回数へと変化すると指摘されている。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2610/19/2000002371/",
+          "date": "2026-10-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash"
+    },
+    {
+      "id": "0e1dd68546be",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/",
+      "headline": "米メタのスマートグラスで不意の録画が発生するバグ、プライバシー懸念が現実化",
+      "originalTitle": "Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality",
+      "outlet": "Ars Technica",
+      "region": "overseas",
+      "category": "it",
+      "score": 63,
+      "tier": "interest",
+      "pubDate": "2026-10-16T19:11:50.000Z",
+      "body": null,
+      "summary": "米メタ（Meta）のスマートグラス「Ray-Ban Meta」において、システム上のバグにより、利用者が意図しない録画や録音が誤って発生する可能性が明らかになった。メタは撮影中にインジケーターライトを点灯させることでプライバシー懸念を和らげようとしていたが、ライトの点灯下でも不意の録画が起き得ることが示された。\n\nこれに先立ち、データ注記企業サマ（Sama）の請負業者が、スマートグラスの着用者や周囲の人々が気づかないうちに撮影されたデータを確認していたと報じられていた。その中には裸のパートナーなどプライベートな活動が含まれており、米国では集団訴訟の認定を求める訴訟やテキサス州司法長官による調査に発展している。\n\nスマートグラスを巡っては、公の場での隠し撮りや同意のないデータ共有への懸念が広がっており、ノルウェーでは一時的な使用禁止を検討する法案も提出されている。今回のバグやデータの取り扱いを巡る問題は、意図しない撮影に対する人々の不安を現実のものとしている。",
+      "sources": [
+        {
+          "outlet": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/",
+          "date": "2026-10-16",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash"
+    },
+    {
+      "id": "4a0b2b80de97",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.itmedia.co.jp/news/article/2610/19/2000002391/",
+      "headline": "ふるさと納税サイト「ふるさとチョイス」が不正アクセスの疑いでサービスを一時停止",
+      "originalTitle": "「ふるさとチョイス」不正アクセスの疑いでサービス停止",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "it",
+      "score": 62,
+      "tier": "interest",
+      "pubDate": "2026-10-19T07:54:24.000Z",
+      "body": null,
+      "summary": "ふるさと納税ポータルサイト「ふるさとチョイス」を運営するトラストバンクは、2026年10月19日、不正アクセスの疑いがある事象を検知したためサービスを一時停止したと発表した。同社は被害拡大の防止と安全確保を最優先とし、専門チームにより事実関係および影響範囲の調査を進めている。今後の対応については、調査結果を踏まえて改めて告知するとしている。\n\nふるさとチョイスは、全国1700を超える自治体と契約し、98万点以上の返礼品を掲載している国内最大級のふるさと納税ポータルサイトである。利用者はサイトを通じて返礼品を検索し、オンラインでふるさと納税の手続きを行うことができる。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2610/19/2000002391/",
+          "date": "2026-10-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash"
+    },
+    {
+      "id": "2270fda6e4be",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.itmedia.co.jp/business/articles/2610/19/news064.html",
+      "headline": "世田谷区が生成AIで約2900時間削減するも確認と修正に新たな負担",
+      "originalTitle": "AI活用で約2900時間削減した世田谷区、しかし「確認と修正の負担」増加 新たな課題どう対応？",
+      "outlet": "ITmedia AI+",
+      "region": "domestic",
+      "category": "ai",
+      "score": 57,
+      "tier": "interest",
+      "pubDate": "2026-10-19T03:00:00.000Z",
+      "body": null,
+      "summary": "生成AIを導入したものの定着しない課題を抱える東京都世田谷区は、AIエージェント機能を備えた業務効率化ツール「Genspark」を導入し、検証を進めている。日常業務の調査や情報収集、資料作成などでAIを活用し、職員の負担軽減や効率化を図る取り組みである。\n\n同区では14業務でAIを活用し、約3カ月間で合計約2900時間の削減につながった。計画の整理や資料作成の効率化が進む一方で、出力された成果物の品質を担保するため、事実関係や権利関係、表現の確認といったレビューや修正の負担が増加する新たな課題も浮き彫りとなった。\n\nAIツールの利用頻度を高めるため、DX推進担当課の職員が各所管課を訪れて業務の困りごとを聞き、AIの使い方を提案する伴走支援を実施してきた。今後は個人による工夫の限界を乗り越え、検証で得られたノウハウや成果を組織全体で共有し、担当者が変わっても業務に組み込める仕組みの構築を目指す。",
+      "sources": [
+        {
+          "outlet": "ITmedia AI+",
+          "url": "https://www.itmedia.co.jp/business/articles/2610/19/news064.html",
+          "date": "2026-10-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash-lite"
+    },
+    {
+      "id": "8ed9d0f1b1f8",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://oro.gay/posts/flatpak-an-insecurity-nightmare/",
+      "headline": "Linuxデスクトップ環境におけるパッケージ形式「Flatpak」の安全性",
+      "originalTitle": "Flatpak – An Insecurity Nightmare",
+      "outlet": "oro.gay",
+      "region": "overseas",
+      "category": "it",
+      "score": 56,
+      "tier": "spare",
+      "pubDate": "2026-10-19T05:11:24.000Z",
+      "body": null,
+      "summary": "Linuxは長年サーバーや組み込み機器などで広く使われてきたが、デスクトップ分野においてはWindowsやmacOSに遅れをとってきた。近年では、デスクトップ環境を現代化する取り組みが進められており、その一つとして2015年にリリースされた「Flatpak」が、サーバー分野のコンテナ技術をデスクトップシステムに応用している。\n\nFlatpakは、アプリケーションを必要な依存関係とともに隔離された環境に閉じ込めるサンドボックス技術を提供し、開発者に対して一貫したAPIやプラットフォームをもたらす。古いアプリケーションが静的な権限に依存していることなどを理由に、Flatpakそのものの安全性を疑問視する声がある一方で、サンドボックスの仕組み自体は機能しており、問題はアプリケーション側にあると主張されている。\n\n古い依存関係の更新やサンドボックスの果たす役割について議論が続く中、Linuxデスクトップを開発者にとって魅力的なプラットフォームにするためには、従来のパッケージ形式から現代的な開発手法への移行が不可欠であるとされている。",
+      "sources": [
+        {
+          "outlet": "oro.gay",
+          "url": "https://oro.gay/posts/flatpak-an-insecurity-nightmare/",
+          "date": "2026-10-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": "https://news.ycombinator.com/item?id=50148601",
+      "summarizedBy": "gemini-3.5-flash-lite"
+    },
+    {
+      "id": "be829f23c5f5",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://crystl.dev/guides/tmux-for-ai-agents/",
+      "headline": "ターミナル多重化ツール「tmux」を活用したAIコーディングエージェントの運用手法",
+      "originalTitle": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+      "outlet": "crystl.dev",
+      "region": "overseas",
+      "category": "ai",
+      "score": 55,
+      "tier": "spare",
+      "pubDate": "2026-10-19T05:55:31.000Z",
+      "body": null,
+      "summary": "AIコーディングエージェントを長期間実行し、ターミナルウィンドウの閉鎖やSSH接続の切断から保護するために、ターミナル多重化ツールである「tmux」が活用されている。tmuxを用いることで、1つのウィンドウ内で複数のエージェントセッションを管理し、スクリプトから入力を送信したり画面を読み取ったりすることが可能になる。\n\nAIコーディングツールであるClaude Codeの機能を利用してワークツリーとtmuxセッションを同時に作成できるほか、手動でプロジェクトごとにセッションやウィンドウを構築してエージェントの動作を監視するレイアウトを設定できる。また、設定ファイルを調整することで、大量の出力履歴の保持やカラー表示の対応、マウス操作によるペイン間の移動などが可能になる。\n\nスクリプトや外部プロセスからエージェントを操作するためには、send-keysコマンドを用いてキー入力をシミュレートし、テキストを送信する手法が用いられる。さらに、capture-paneコマンドによりペインの内容を取得して状態を監視するステータスラインを構築することで、エージェントの稼働状況を把握しながら効率的な運用を実現している。",
+      "sources": [
+        {
+          "outlet": "crystl.dev",
+          "url": "https://crystl.dev/guides/tmux-for-ai-agents/",
+          "date": "2026-10-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": "https://news.ycombinator.com/item?id=50148855",
+      "summarizedBy": "gemini-3.5-flash-lite"
+    },
+    {
+      "id": "5458cd7fddd3",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://gigazine.net/news/20261019&",
+      "headline": "漢字の上に自動でふりがなを表示するフォント「Furifont」が公開",
+      "originalTitle": "漢字に自動でふりがなが付くフォント「Furifont」が登場、フォントを切り替えるだけで読み方を表示可能",
+      "outlet": "GIGAZINE",
+      "region": "domestic",
+      "category": "it",
+      "score": 53,
+      "tier": "spare",
+      "pubDate": "2026-10-19T08:00:00.000Z",
+      "body": null,
+      "summary": "ソフトウェア開発者のアンソニー・フー氏が、日本語の漢字に自動でふりがなを表示するフォント「Furifont」を公開した。特別なプログラムによる文章解析を行わず、フォントを適用するだけで漢字の上に読み方を表示できるのが特徴である。\n\nFurifontはアドビのオープンソースフォント「源ノ角ゴシック」と「源ノ明朝」を基に作られており、数千語の辞書データを利用している。複数の文字を1つの字形として表示する「合字」と呼ばれる仕組みを活用し、あらかじめ漢字とふりがなを組み合わせた字形を登録することで読み方を示している。\n\n文脈によって読み方が変わる単語ではふりがなが表示されない場合があるほか、送り仮名による違いに対応するJavaScriptを用いた補助機能も用意されている。パソコン向けのフォントファイルやウェブサイト向けのファイルのほか、既存のウェブページに適用できるブックマークレットなどが無料で提供されている。",
+      "sources": [
+        {
+          "outlet": "GIGAZINE",
+          "url": "https://gigazine.net/news/20261019&",
+          "date": "2026-10-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash-lite"
+    },
+    {
+      "id": "2fe8eae18f46",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "science",
+      "url": "https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/",
+      "headline": "電力需要の高まりを受けて米国の既存原子力発電所で出力引き上げ計画が進行",
+      "originalTitle": "How much more can nuclear power plants give?",
+      "outlet": "MIT Technology Review",
+      "region": "overseas",
+      "category": "science",
+      "score": 50,
+      "tier": "spare",
+      "pubDate": "2026-10-15T10:00:00.000Z",
+      "body": null,
+      "summary": "人工知能の普及などにともなう電力需要の急増を背景として、米国の既存原子力発電所で出力を高める取り組みが進められている。米国の最大の原子力事業者であるコンステレーションは、6か所の原電にある11基の原子炉で合計約1ギガワットの容量を追加する計画を発表した。また、米エネルギー省はビストラが手がける3か所の原電の近代化改修に向けて、42億ドルの融資を行うことを発表している。\n\n既存の原子炉で出力を引き上げるプロセスはパワーアップレートと呼ばれ、より高濃縮の燃料を使用したり燃料の量を増やしたりして多くの蒸気を発生させ、タービンなどの関連設備をアップグレードするものである。こうした計画の背景にはビッグテックによる巨額の資金提供があり、コンステレーションの計画にはグーグルが、ビストラの計画にはメタがそれぞれ長期間の電力購入契約で合意している。\n\n米国原子力規制委員会は2032年までに2.4ギガワットの出力を原子炉に追加する申請を予想しているが、東海岸を管轄する電力系統運用機関は人工知能に由来して2030年までに約30ギガワットの追加のピーク需要を見込んでいる。既存の原発の出力を最大限に活用することは無駄のない選択肢であるものの、高まる需要に対応するためには将来的には新しい原子炉の建設が必要になるとされている。",
+      "sources": [
+        {
+          "outlet": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/",
+          "date": "2026-10-15",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash-lite"
+    },
+    {
+      "id": "af3efae4fac1",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.watch.impress.co.jp/docs/news/2149235.html",
+      "headline": "オーラが医療機器ソフトウェアに関する品質マネジメント規格の認証を取得",
+      "originalTitle": "OURA、医療機器ソフトウェアに関するISO 13485認証を取得",
+      "outlet": "Impress Watch",
+      "region": "domestic",
+      "category": "it",
+      "score": 49,
+      "tier": "spare",
+      "pubDate": "2026-10-19T04:09:52.000Z",
+      "body": null,
+      "summary": "スマートリングを手がけるŌURAは、同社の品質管理システムが医療機器の品質マネジメントシステム規格である「ISO 13485」の認証を取得したと発表した。ISO 13485は医療機器の安全性と品質の維持を目的とした国際規格であり、製品およびサービスの品質向上を認めるISO 9001をベースに法令遵守やリスクマネジメントの徹底などを求めている。\n\n今回認証を取得した範囲は、生命維持に関わるものとそれ以外の生理学的パラメータをモニタリングおよび分析する、デジタルヘルスアプリケーション向けの医療機器ソフトウェアの設計、開発、製造、流通である。この認証は特定のハードウェアや一般的なウェルネス機能には適用されず、臨床的な安全性や有効性の確立を意味するものではないとしている。\n\nŌURAはこの認証取得をヘルスケアにおける役割の拡大の一環と位置づけており、今後は医療機器ソフトウェアを開発し米国やその他の市場で規制策を評価するための基盤にしていく方針を示している。",
+      "sources": [
+        {
+          "outlet": "Impress Watch",
+          "url": "https://www.watch.impress.co.jp/docs/news/2149235.html",
+          "date": "2026-10-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash-lite"
+    },
+    {
+      "id": "13cfeccc1526",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.itmedia.co.jp/news/article/2610/19/2000002390/",
+      "headline": "帝国データバンクが情報漏えいに関する企業アンケートの結果を発表",
+      "originalTitle": "情報漏えい「経験あり」は企業の16.2％、「発生したか分からない」の声も──帝国データバンク調査",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "it",
+      "score": 48,
+      "tier": "spare",
+      "pubDate": "2026-10-19T07:31:48.000Z",
+      "body": null,
+      "summary": "帝国データバンクは、情報漏えいに関する企業アンケートの結果を発表した。人為ミスやサイバー攻撃によるものを含め、情報漏えいやその可能性のある事案が「発生したことがある」と答えた企業は16.2％であった。直近1年以内の発生は5.5％、1年以上前は10.7％となっており、調査は10月9日から14日にかけてインターネットで実施され、全国1328社から回答を得た。\n\n企業規模別では差が目立ち、「発生したことがある」の割合は大企業で30.2％と全体を大きく上回った。直近1年以内の発生も大企業の8.8％に対し、中小企業は5.0％であった。同社は、大企業ほど扱う情報量やシステム数、従業員数が多いことに加え、漏えいや不正アクセスを検知・把握する体制が整っていることが背景にあるとみている。\n\n一方、「全く発生したことがない」は69.1％、「分からない」は14.8％であった。「分からない」と答えた企業からは専門家がいないために判断できないという声が複数あがり、発生の有無を把握できていない実態も浮かんだ。中小企業からは、対策を求められる中で金銭的や人的な協力を求める声もあがっている。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2610/19/2000002390/",
+          "date": "2026-10-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash-lite"
+    },
+    {
+      "id": "adc02a9526e5",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.watch.impress.co.jp/docs/news/2149225.html",
+      "headline": "JR東日本が赤羽駅などでAIやロボットを活用した駅舎清掃DXの実証実験",
+      "originalTitle": "トイレ清掃も JR東、センサーやAI・ロボットで「駅舎清掃DX」",
+      "outlet": "Impress Watch",
+      "region": "domestic",
+      "category": "ai",
+      "score": 47,
+      "tier": "spare",
+      "pubDate": "2026-10-19T03:50:44.000Z",
+      "body": null,
+      "summary": "JR東日本は、東京の赤羽駅において、AIやIoT、清掃ロボットを活用する「駅舎清掃DX」の実証実験を実施すると発表した。期間は10月27日から2027年1月中旬までとなり、一部の内容は王子駅、十条駅、東十条駅でも実施される。今回の取り組みは、清掃業務の人手不足や品質の維持・向上に対応し、必要な場所を必要なタイミングで清掃する仕組みの実現可能性を検証するものである。\n\n駅改札内のトイレやごみ箱にIoTセンサーを設置し、利用状況や設備の状態を把握するほか、二次元コードを活用した利用者からの清掃依頼の受付も行う。収集したデータを分析して利用頻度や時間帯と清掃需要の関係を明らかにし、清掃計画や作業判断への活用を検証する。また、トイレ内でのフィジカルAI清掃ロボットの試験や、改札内コンコースに仮設するカメラ画像のAI分析による汚物検知の有効性についても確認する。\n\n各種データを一元的に可視化・管理し、清掃運用モデルの構築可能性を検証した上で、有効性が認められた場合には他駅への展開も検討する予定である。本実証実験はJR東日本のほか、JR東日本商事、ソフトバンク、JR東日本環境アクセスの4社で共同して取り組む。",
+      "sources": [
+        {
+          "outlet": "Impress Watch",
+          "url": "https://www.watch.impress.co.jp/docs/news/2149225.html",
+          "date": "2026-10-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash-lite"
+    },
+    {
+      "id": "ad13e7210076",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.404media.co/watch-footage-of-the-flock-search-a-judge-ruled-unconstitutional/",
+      "headline": "米連邦地裁がナンバープレートリーダー捜索を憲法違反と初判断",
+      "originalTitle": "Footage of the Flock search that a judge ruled was uncosntitutional",
+      "outlet": "404media.co",
+      "region": "overseas",
+      "category": "it",
+      "score": 46,
+      "tier": "spare",
+      "pubDate": "2026-10-19T01:55:03.000Z",
+      "body": null,
+      "summary": "米国で車両のナンバープレートリーダーシステムを利用した警察の捜索が令状のない違憲の捜索にあたると、連邦地裁判事が初めて判断を下した。裁判となった事件では、女性が運転していた車両から多量の薬物が発見されたものの、担当の警察官がカリフォルニア州のナンバープレートをつけていたという理由だけで正当な理由なくシステムを検索し、移動履歴を追跡したことが問題視された。裁判所は、個人の移動の全体像に対するプライバシーの期待を侵害するものであり、修正第4条に違反すると認定した。\n\n警察官は車載のラップトップ端末を使い、過去30日間にわたる自動ナンバープレートリーダーの記録を閲覧して運転手に旅程に関する質問を重ねた。裁判所の記録によると、車両は複数の州や民間企業のカメラによって短期間に何度もスキャンされ、全国的なネットワークを形成していた。政府側の弁護士は運転手の説明とデータの間に細かな矛盾があるとして車内捜索の正当性を主張したが、判事は日常的な長距離ドライブで見られるような状況を根拠にしていると指摘した。\n\n裁判所は、違憲な捜索によって得られた移動履歴や車内捜索で発見された証拠のすべてを排除すべきだと命じた。この事例は、日常的に行われているプライバシーを侵害するおそれのある自動監視システムと警察の職務質問のあり方に影響を与えるものとなっている。",
+      "sources": [
+        {
+          "outlet": "404media.co",
+          "url": "https://www.404media.co/watch-footage-of-the-flock-search-a-judge-ruled-unconstitutional/",
+          "date": "2026-10-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": "https://news.ycombinator.com/item?id=50147455",
+      "summarizedBy": "gemini-3.5-flash-lite"
+    },
+    {
+      "id": "ce2de30f63f2",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
+      "headline": "Claude Code向け自律ビルドワークフローSuperliteの開発と性能",
+      "originalTitle": "Superlite: A Faster Alternatie to Superpowers",
+      "outlet": "contextfirst.blog",
+      "region": "overseas",
+      "category": "it",
+      "score": 45,
+      "tier": "spare",
+      "pubDate": "2026-10-19T02:01:16.000Z",
+      "body": null,
+      "summary": "開発者はClaude Code向けの自律ビルドワークフローであるSuperliteを構築した。人間への確認や逐次処理による待ち時間を削減するため、計画を並列処理向けに分割し、複数のエージェントを同時に稼働させる仕組みとなっている。従来の対話型ワークフローと比較して、開発プロセス全体の時間を大幅に短縮することを目指して設計された。\n\nSuperliteは、オーケストレータやコード生成、レビュー、修正を専門とする複数のエージェントを組み合わせることで動作する。最初の設計承認を得た後は、セキュリティ上必要な場合を除き、自動で並列タスクを実行して結果をまとめる。これにより、テストを含むビルド作業を人間の介入を最小限に抑えながら高速に完了させることが可能となっている。",
+      "sources": [
+        {
+          "outlet": "contextfirst.blog",
+          "url": "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
+          "date": "2026-10-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": "https://news.ycombinator.com/item?id=50147492",
+      "summarizedBy": "gemini-3.5-flash-lite"
+    },
+    {
+      "id": "943cdcdc6105",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://kn.itmedia.co.jp/kn/article/2610/19/2000002342/",
+      "headline": "NECが東京都足立区の事例を通じて解説する生成AI活用の鉄則",
+      "originalTitle": "「言い訳文化」から脱却のNECが足立区に伝授した生成AI活用術とは データ活用“逆算”の鉄則",
+      "outlet": "ITmedia AI+",
+      "region": "domestic",
+      "category": "ai",
+      "score": 44,
+      "tier": "spare",
+      "pubDate": "2026-10-18T22:00:00.000Z",
+      "body": null,
+      "summary": "生成AIを実業務に定着させるためには、明確な目的を設定した上で、それをもとに必要なデータを洗い出して活用できる状態に整えることが不可欠である。東京都足立区は、達成すべき目的から逆算してデータを整備し、職員がAIと対話しながら地域特性に合わせた防犯施策案を導き出す仕組みの構築に成功した。\n\n足立区の取り組みを支援した日本電気の担当者が、実務へのAI適用における課題とその解決策を解説している。同社自身も過去の経営危機や、主観的なデータで不都合な事実を隠す社内文化のまん延という課題に直面し、企業文化の変革とデータの一元化を進めてきた歴史を持つ。",
+      "sources": [
+        {
+          "outlet": "ITmedia AI+",
+          "url": "https://kn.itmedia.co.jp/kn/article/2610/19/2000002342/",
+          "date": "2026-10-18",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash-lite"
+    }
+  ],
+  "essays": [],
+  "productionNote": {
+    "reachedOutlets": [
+      "ITmedia AI+",
+      "ITmedia NEWS",
+      "Impress Watch",
+      "TechCrunch",
+      "lwn.net",
+      "Publickey",
+      "MIT Technology Review",
+      "Ars Technica",
+      "oro.gay",
+      "crystl.dev",
+      "GIGAZINE",
+      "404media.co",
+      "contextfirst.blog"
+    ],
+    "unreachedOutlets": [],
+    "excluded": [
+      {
+        "topic": "国際深掘りが当日に扱った3件",
+        "reason": "実行順により先発の系統を優先"
+      }
+    ],
+    "counts": {
+      "deep": 0,
+      "brief": 30,
+      "essays": 0,
+      "chars": 14439
+    },
+    "text": "候補88件から30件を掲載。本文が取れず不採用0件。"
+  }
+}
