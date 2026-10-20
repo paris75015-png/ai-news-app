@@ -1,0 +1,986 @@
+{
+  "date": "2026-10-20",
+  "stream": "ai",
+  "title": "AI日報",
+  "generatedAt": "2026-10-20T08:24:09.912Z",
+  "model": "gemini-3.8-flash / gemini-3.5-flash / gemini-3.5-flash-lite / openai/gpt-oss-120b",
+  "editorialVersion": 12,
+  "categories": [
+    {
+      "id": "ai",
+      "label": "AI",
+      "desc": "AIモデル・AIサービス・AI企業の動向"
+    },
+    {
+      "id": "it",
+      "label": "IT",
+      "desc": "ソフトウェア開発・ネットサービス・セキュリティ・デバイス・通信（AIが主題のものは除く）"
+    },
+    {
+      "id": "science",
+      "label": "科学",
+      "desc": "研究成果・医療・宇宙・環境・エネルギー技術"
+    }
+  ],
+  "articles": [
+    {
+      "id": "09caa6b448d1",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002428/",
+      "headline": "デジタル庁、政府職員約18万人向けにAIエージェント環境と安全基準を導入",
+      "originalTitle": "デジタル庁、政府職員18万人にAIエージェント環境を展開──「源内」で提供開始、独自の安全基準も",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "ai",
+      "score": 92,
+      "tier": "must",
+      "pubDate": "2026-10-20T07:03:45.000Z",
+      "body": null,
+      "summary": "デジタル庁は2026年10月20日、政府職員向け生成AI利用環境「ガバメントAI 源内（げんない）」で、AIエージェント利用環境の提供を開始したと発表した。対話形式でエージェントを作成・操作できる「エージェントチャット」を同日から各府省庁に順次導入し、より高度なエージェントを構築できる「源内工房」は12月までの導入を目指す。\n\n源内工房は自然言語指示によりプログラムの作成・修正やファイル操作、動作確認などを自律的に実行するAIコーディングエージェント機能を備えている。デジタル庁は職員が業務に合わせてエージェントを作成し、利用しながら改善できる環境を整えることで、現場主導の業務改革や効率化、AI活用人材の育成につなげると説明した。\n\n同庁の調査によれば、約18万人規模の政府共通基盤として高度なAIエージェント環境を日常業務で利用可能にするのは世界初の試みである。安全な利用を確保するために「ガバメントAI 源内 ガバナンス・セキュリティ・セーフティに関する基準」（源内基準）を策定し、利用者・管理者・開発者別に責務と遵守事項を定め、AIセーフティ・インスティテュート（AISI）の協力を得てまとめた。\n\nデジタル大臣の古川俊治は、自治体や民間企業がAI統制を検討する際にも源内基準が参考になると述べた。また、エージェントチャットと源内工房はオープンソースソフトウェア「源内OSS Ver.2.0」として2027年2月頃に一般公開する予定である。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002428/",
+          "date": "2026-10-20",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "openai/gpt-oss-120b"
+    },
+    {
+      "id": "b0fb4c056719",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+      "headline": "AnthropicとNscale、再び約450億ドルの計算リソース取引を協議",
+      "originalTitle": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+      "outlet": "TechCrunch",
+      "region": "overseas",
+      "category": "ai",
+      "score": 90,
+      "tier": "must",
+      "pubDate": "2026-10-19T23:39:38.000Z",
+      "body": null,
+      "summary": "AnthropicとAIインフラ提供企業Nscaleが、約450億ドル規模の計算リソース取引を再度協議中であることがBloombergの報道で明らかになった。両社は1か月余り前に同額の取引を発表しており、今回も同規模の契約を目指すとされるが、交渉は継続中で条件は変わる可能性がある。\n\n計算リソース取引（compute deal）とは、AIモデルの学習や推論に必要な大規模なサーバー・GPU等の計算資源を長期的に供給する契約で、金額は数十億ドル規模になることが多い。Anthropicは過去1年で複数回同様の巨額取引を実施しており、今回も同社は「最終的に利益につながる」との見解を示している。\n\n両社は現在IPO（新規株式公開）を検討中で、Anthropicは今年中の上場を見込んでいる。一方Nscaleは30億ドルの企業価値を提示して上場を計画しているが、投資家からの評価に対する抵抗が報じられている。\n\n巨額のAI計算投資は一部投資家から過剰支出への懸念が示されているが、Anthropicはパートナーシップを継続し、長期的なリターンを期待している。TechCrunchは両社へのコメントを求めており、今後の情報更新を予定している。",
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+          "date": "2026-10-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "openai/gpt-oss-120b"
+    },
+    {
+      "id": "aaaf393dcb10",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+      "headline": "アマゾン、AIアプリを独自チップへ容易に移行する開発ツール発表",
+      "originalTitle": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+      "outlet": "TechCrunch",
+      "region": "overseas",
+      "category": "ai",
+      "score": 88,
+      "tier": "must",
+      "pubDate": "2026-10-19T20:09:24.000Z",
+      "body": null,
+      "summary": "アマゾンウェブサービスは月曜日、AIスタートアップ企業が自社のAIアプリケーションをアマゾンのAI専用チップ「Trainium」に簡単に移行できるようにする「TorchNeuron」というツールを発表した。これにより、AIアプリ開発の初期からデフォルトのハードウェアとして広く使われてきたエヌビディアのソフトウェアの優位性に直接挑む姿勢を示した。\n\nTorchNeuronは、開発者がAIモデルの構築やトレーニング、実行に使うオープンソースのツールキット「PyTorch」に対応している。アマゾンによると、設定ファイルを1行変更するだけで、PyTorchで書かれたAIアプリをコードの書き換えなしでTrainium上で実行できるようになる。また、アマゾンはPyTorchのコード自体にも変更を貢献し、特定のチップへの依存を取り除くことでフレームワークをハードウェア非依存にすることを目指している。\n\nアマゾンは、Trainiumがモデルのトレーニングと、完成したモデルを稼働させる推論の両方を単一のプラットフォームで処理できる点を強調している。これにより、コストパフォーマンスが高まり、スタートアップがプロトタイプから本番環境への移行や規模拡大を円滑に行えるとしている。",
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+          "date": "2026-10-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash-lite"
+    },
+    {
+      "id": "4619f2702afb",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002405/",
+      "headline": "米国土安全保障省、DeepSeek製品を連邦民間機関の調達・ITから排除",
+      "originalTitle": "米国土安全保障省、中国DeepSeek製品を連邦民間機関から排除する命令",
+      "outlet": "ITmedia AI+",
+      "region": "domestic",
+      "category": "ai",
+      "score": 86,
+      "tier": "should",
+      "pubDate": "2026-10-19T22:07:09.000Z",
+      "body": null,
+      "summary": "米国土安全保障省（DHS）は2026年10月20日、官報で国土安全保障長官が中国企業DeepSeekの製品を連邦政府の民間行政機関の調達および情報技術（IT）システムから排除する命令を出したと公示した。この命令は同省が連邦民間機関に対し、DeepSeek関連のハードウェア・ソフトウェアの利用を停止させることを求めるものである。\n\n命令は主に二点から構成され、第一にDeepSeekおよびその関連会社が開発したIT製品・サービスを連邦民間機関の調達対象から除外すること、第二にDeepSeekの実装を用いて開発された第三者製品・サービスも同様に民間機関のITシステムから排除することを求めている。本措置は2018年制定の連邦調達サプライチェーン安全法（FASCSA）に基づき、連邦調達安全評議会（FASC）の勧告と証拠の精査を経て出されたもので、署名済みの命令文は米政府規制情報サイト「regulations.gov」で公開されている。\n\nDeepSeekは同月17日にAIモデル「DeepSeek-V4.1-Flash-1017」の重みを商用利用可能なMITライセンス（オープンソースの許諾形態）で公開し、ベンチマーク「DeepSWE v1.1」で成功率77％を記録、前バージョンより低コストで米OpenAIの「GPT-6 Astra」等を上回る性能を謳っている。しかしこの評価は同社内部での測定に限られ、第三者による検証はまだ十分に行われていない。",
+      "sources": [
+        {
+          "outlet": "ITmedia AI+",
+          "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002405/",
+          "date": "2026-10-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "openai/gpt-oss-120b"
+    },
+    {
+      "id": "582e7d53b6ba",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "science",
+      "url": "https://arstechnica.com/space/2026/10/japan-launches-mission-to-bring-home-a-piece-of-the-martian-moon-phobos/",
+      "headline": "日本、火星の衛星フォボスへサンプル帰還ミッションを打ち上げ成功",
+      "originalTitle": "Japan launches mission to bring home a piece of the Martian moon Phobos",
+      "outlet": "Ars Technica",
+      "region": "overseas",
+      "category": "science",
+      "score": 85,
+      "tier": "should",
+      "pubDate": "2026-10-20T05:59:56.000Z",
+      "body": null,
+      "summary": "日本航空宇宙研究開発機構（JAXA）は、月曜日（米東部時間3月25日）に、火星最大の衛星フォボスからサンプルを採取し地球に持ち帰ることを目的とした5年計画のMMX（Martian Moons eXploration）ミッションを、鹿児島宇宙センターからH3ロケット（日本の主力打ち上げロケット）で打ち上げた。打ち上げ費用は約5億7800万ドルで、ロケットは63メートルの高さに4基の固体ロケットブースターを装備した新構成で、上段エンジンは全開で推進力を発揮した。ロケット上段は24,000マイル/時（約3.9km/秒）に加速し、約71分後に総質量約4.5トンのMMX本体が分離した。\n\nMMXは到着後約3年間火星周回を行い、フォボスとデイモスに接近する。フォボス周辺では、準衛星軌道（火星に束縛されたままフォボスを周回できる軌道）を利用し、探査モジュールと呼ばれる四脚着陸装置でフォボスに接近する。2028年末から2029年初頭にかけて、フランス・ドイツ共同開発の小型ローバーIdefix（大きな靴箱サイズ）を投入し、最大100日間走行させた後、メイン機体が最大2回の着陸を行い、ロボットアームのコアドリルとNASA提供の高圧窒素ガス式サンプラーでサンプルを採取する計画である。\n\n本ミッションは、これまで小惑星からのサンプル帰還に成功したはやぶさ・はやぶさ2に続く、JAXAの深宇宙探査の実績を活かしたもので、NASAや欧州宇宙機関も技術提供で参画している。科学者は、フォボスがかつて小惑星であり、火星の重力に捕獲されたという仮説の検証を主目的としており、最低でも10グラム以上の試料回収を見込んでいる。JAXAの山川博司所長は「5年にわたる長い旅が始まった」と述べ、科学技術担当相関根裕史大臣は「国家の宇宙科学技術の発展に寄与することを期待する」とコメントした。",
+      "sources": [
+        {
+          "outlet": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/10/japan-launches-mission-to-bring-home-a-piece-of-the-martian-moon-phobos/",
+          "date": "2026-10-20",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "openai/gpt-oss-120b"
+    },
+    {
+      "id": "0cffae2fd0c5",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+      "headline": "マイクロソフト、予測不能なAIエージェントの企業向け新セキュリティ機能を発表",
+      "originalTitle": "Microsoft says AI agents are like insider threats as ‘frontier models can't be trusted'",
+      "outlet": "TechCrunch",
+      "region": "overseas",
+      "category": "ai",
+      "score": 81,
+      "tier": "should",
+      "pubDate": "2026-10-19T22:04:28.000Z",
+      "body": null,
+      "summary": "マイクロソフトは月曜日、企業が導入するAIエージェントの増加する脅威から保護するための新しいセキュリティ機能を発表した。その中で最も注目されるのは、企業が使用するAIエージェントを監視することを目的とした新機能「Guardian Agents」である。これは、ハッキングモデル対策として6月に導入された「Project Perception」の一部として提供される。\n\nマイクロソフトの最高経営責任者であるサティア・ナデラ氏は、AIモデルプロバイダーが安全性やセキュリティを保証していても、もはやそれを信用すべきではないと警鐘を鳴らしている。同社のセキュリティビジネス責任者であるハイエット・ガロット氏は、最先端のモデルが悪意あるものやハッキングされやすいからではなく、予測不能であり組織の規範や判断に従うよう訓練されていないために信用できないと説明している。\n\nこうしたリスクに対応するため、マイクロソフトはGuardian Agentsのほか、従業員が職場に持ち込む最大60種類のAIエージェントを検出する機能を「Microsoft Defender」に追加した。さらに、エージェントのデータやシステムへのアクセスを制限し、リスクの高い決定を下す際には人間の承認を求める仕組みを導入している。",
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+          "date": "2026-10-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash-lite"
+    },
+    {
+      "id": "5f15641a0907",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.publickey1.jp/blog/26/aws_lambdanextjshononodejsaws_lambda_web_functions.html",
+      "headline": "AWSがNode.jsアプリをそのままデプロイできるWeb Functionsを発表",
+      "originalTitle": "AWS LambdaでNext.jsやHonoなどNode.jsフレームワークとアプリをそのままデプロイ、実行できる「AWS Lambda Web Functions」発表",
+      "outlet": "Publickey",
+      "region": "domestic",
+      "category": "it",
+      "score": 79,
+      "tier": "should",
+      "pubDate": "2026-10-19T15:49:22.000Z",
+      "body": null,
+      "summary": "AWSが新機能「AWS Lambda Web Functions」を発表し、Next.js、Express、Hono、Fastify などの Node.js 用フレームワークとそのアプリケーションをコード変更なしでそのまま AWS Lambda 上へデプロイし実行できるようにした。従来は Lambda の関数実行と HTTP 処理が別系統であったため、フレームワークのコードを直接置くだけでは動作せず、別途「AWS Lambda Functions Adapter」（関数と Lambda の HTTP 機能をつなぐアダプター）が必要だった。\n\n「AWS Lambda Web Functions」では Web Functions（Web 関数）という形で Node.js と同等の Web サーバ機能が提供され、フレームワークのコードを Web 関数内に配置するだけで動作するようになる。これに伴い、従来の Lambda 関数は「Lambda Event Functions」と呼称が変更された。\n\nランタイムは Node.js 24 を採用し、1 実行環境につき 2 GB のメモリが割り当てられ、デフォルトヒープサイズは 1024 MB、最大 128 件の同時リクエストを処理できる。タイムアウトはデフォルト 30 秒で、3 秒から 15 分の間で設定可能である。\n\n本機能は東京リージョンに加え、米国東部（バージニア北部・オハイオ）、米国西部（オレゴン）、欧州（アイルランド）で利用でき、Vercel など既存の Node.js ホスティングサービスに対する競合となることが指摘されている。",
+      "sources": [
+        {
+          "outlet": "Publickey",
+          "url": "https://www.publickey1.jp/blog/26/aws_lambdanextjshononodejsaws_lambda_web_functions.html",
+          "date": "2026-10-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "openai/gpt-oss-120b"
+    },
+    {
+      "id": "7216fffbb8a1",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+      "headline": "Goodfire研究者がLLMは従来より理解しやすいと主張、業界で賛否分かれる",
+      "originalTitle": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+      "outlet": "MIT Technology Review",
+      "region": "overseas",
+      "category": "ai",
+      "score": 78,
+      "tier": "should",
+      "pubDate": "2026-10-19T17:45:55.000Z",
+      "body": null,
+      "summary": "2024年10月、AIスタートアップGoodfireの研究員ニック・カマラタは、約2万6千語のブログで、大規模言語モデル（LLM）が従来考えられていたよりもはるかに理解しやすく、監視や制御が可能になる可能性があると主張した。この主張はAI業界に大きな波紋を呼び、SNS上では「今年最大のAI論文」や「科学史に残る瞬間」といった賛辞が飛び交った。一方で、スタンフォード大学のクリス・ポッツ教授は「問題が容易になるとは言えない」と懐疑的な見解を示した。\n\nニューラルネットワークの内部構造は、訓練時に複雑に絡み合った「スーパーポジション」状態になると長らく考えられてきた。カマラタは以前OpenAIで、個々のニューロンが何を表すかを調べるツールを開発し、脳科学のMRIに例える機構的解釈可能性（mechanistic interpretability）という手法を用いていた。2020年に画像認識モデルInception v1を解析した際、車と猫の両方に反応するニューロンが見つかり、概念が単一ニューロンに混在する現象を確認した。\n\nGoodfireに移ってからは、カマラタは1日10時間、週7日といったペースでニューロン観察に専念し、新たなツールとAIエージェントを駆使してネットワーク全体の回路を可視化したと主張する。彼は「見方を変えれば論理が見えてくる」と述べ、先の車‑猫ニューロンを再検討した結果、共通点は画像のV字形パターンにあると結論付けた。これにより、以前は「絡み合った結び目」とみなされていた構造が、実はパターン認識に基づく整理されたものだと示唆した。\n\nカマラタの主張は一部の研究者から「AI史上重要な論文」と称賛される一方、ポッツらは「根本的な課題は依然として残る」と指摘し、実証的な検証が必要だと強調している。現在、業界はエージェントの制御失敗やインターネット上での予期せぬ行動が相次ぐ中、LLMの安全性向上に向けた新たな理解手法として本ブログの示す方向性に注目している。",
+      "sources": [
+        {
+          "outlet": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+          "date": "2026-10-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "openai/gpt-oss-120b"
+    },
+    {
+      "id": "292580429c9b",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "science",
+      "url": "https://www.theverge.com/tech/1013735/amazon-x-energy-aep-nuclear-indiana",
+      "headline": "Amazon、インディアナ州で新たな原子力発電所建設に資金提供",
+      "originalTitle": "Amazon is funding a new nuclear plant in Indiana",
+      "outlet": "The Verge",
+      "region": "overseas",
+      "category": "science",
+      "score": 77,
+      "tier": "should",
+      "pubDate": "2026-10-19T15:44:20.000Z",
+      "body": null,
+      "summary": "AmazonがX-energyとAmerican Electric Power (AEP)と協定を結び、インディアナ州スーリバン郡フェアバンクスに新しい原子力発電所の建設に資金提供することを発表した。計画は、既に閉鎖された石炭火力のBreed発電所の跡地に、最大960メガワットの無炭素電力を供給し、地域電力網と同社のデータセンターに利用することを目的としている。建設や稼働の具体的な時期は示されていない。\n\n本施設は12基のXe-100 SMR（小型モジュール原子炉）を導入する予定で、SMRは空冷・水冷・ハイブリッド冷却が可能であり、水資源が限られた地域でも水需要への影響を抑えて配置できるとされている。Xe-100は先進的だがまだ実証段階にあり、現在開発・認可プロセスが進行中である。Amazonは建設段階で約1,000人、運転段階で約100人の雇用創出を見込んでいると述べている。\n\nこれはAmazonとX-energyが共同で進める2件目の原子力プロジェクトで、2039年までに米国内で総計5ギガワット以上の新規原子力容量を導入することを目標としている。過去に同社はワシントン州でCascade Advanced Energy Facilityという同様の計画を発表しており、こちらも12基の先進原子炉を建設するが、建設開始は本年代末になる見込みである。Amazonは他の大手テック企業と同様に、AIデータセンターの電力需要に対応するための自前エネルギー供給を模索している。",
+      "sources": [
+        {
+          "outlet": "The Verge",
+          "url": "https://www.theverge.com/tech/1013735/amazon-x-energy-aep-nuclear-indiana",
+          "date": "2026-10-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "openai/gpt-oss-120b"
+    },
+    {
+      "id": "e429ced96752",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002423/",
+      "headline": "GMOサイバーセキュリティ、AI侵入テストツールARTEXで日本企業への不正アクセスを確認",
+      "originalTitle": "日本企業狙う不正アクセスにAI 攻撃者が自立型侵入テスト「ARTEX」を悪用 GMOイエラエ調査",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "ai",
+      "score": 76,
+      "tier": "should",
+      "pubDate": "2026-10-20T05:45:54.000Z",
+      "body": null,
+      "summary": "2026年10月19日、GMOサイバーセキュリティ（イエラエ）が、日本企業を標的とした不正アクセスにAI駆動の侵入テストツール「ARTEX」が悪用されたことを公表した。調査は同社が外部機関と連携して行い、攻撃は主に日本国内の約20社に対して実施された。\n\nARTEXは中国で開発されたオープンソースの侵入テスト自動化ツールで、外部のLLM（大規模言語モデル）と連携してシステム脆弱性を検出し、対策に活用することを想定している。米セキュリティ企業CrowdStrikeは、同ツールが9月下旬から10月上旬にかけて韓国の金融機関へのサイバー攻撃でも使用されたと報告している。\n\nGMOの調査では、攻撃者は業種を絞ったキャンペーンを複数実施し、6台のAI搭載攻撃インフラを用意していた。対象業種は「デジタルギフト・小売り流通」「教育・ギフト・印刷」「ポイントギフト・マーケティング」「保険・金融」「EC・メディア・物流」「EC」の6カテゴリに分かれ、同一グループによる被害で8社が9～10月に情報漏えいを公表している。\n\nGMOサイバー犯罪対策センター局長の福森大喜氏は、攻撃ログから人間とAIの攻撃を区別する研究成果を踏まえ、AIが用いられたことは「ほぼ間違いない」と分析した。また、AIを用いて数百のIPアドレスを切り替える手法や、脆弱性情報に記載のないバージョンの欠陥を探索する手法が報告され、熟練の攻撃者が防御側とのミスマッチを徹底的に分析してAIを活用していると指摘した。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002423/",
+          "date": "2026-10-20",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "openai/gpt-oss-120b"
+    },
+    {
+      "id": "900191fe7fdd",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002377/",
+      "headline": "AIブラウザ4種でサイト間遮断を回避される危険性が見つかる　米大学が検証",
+      "originalTitle": "ネットバンキングにログインしたまま別作業は危険？ 「ChatGPT Atlas」などのAIブラウザ7種でデータ窃取を検証",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "ai",
+      "score": 75,
+      "tier": "interest",
+      "pubDate": "2026-10-20T03:00:00.000Z",
+      "body": null,
+      "summary": "米ワシントン大学の研究チームは、ユーザーに代わってWeb操作を行うエージェント型AIブラウザ7種を対象にセキュリティ検証を行い、そのうち4種でセキュリティプロトコルを回避される脆弱性を発見したと発表した。検証されたブラウザでは、悪意あるサイトからプロンプトインジェクション（不正な指示を読み込ませる攻撃）を受けることで、機密情報が窃取される危険性が示された。\n\n脆弱性が確認されたのは「ChatGPT Atlas」「Chrome with Gemini」「Claude for Chrome」「Perplexity Comet」の4種である。これらは本来遮断されるはずのWebページ内の埋め込み枠（iframe）の情報を読み取ってしまうほか、伏せ字処理されたパスワード欄の文字列を裏側から直接取得できるものもあった。これにより、データ送信やユーザーへのなりすまし、偽情報の記憶への混入といった攻撃が可能になる。\n\n最もリスクが低かったのは機能の限定された「Firefox AI Mode」であった。研究チームは開発企業に結果を共有したが、受け取りを辞退する企業や無回答の企業もあったとしている。なお、検証対象のうちChatGPT Atlasは8月に提供を終了している。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002377/",
+          "date": "2026-10-20",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash"
+    },
+    {
+      "id": "039a84854fb8",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+      "headline": "AI開発ツール「OpenCode」に不正アクセス　利用者のAPIキー流出で高額請求",
+      "originalTitle": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+      "outlet": "TechCrunch",
+      "region": "overseas",
+      "category": "ai",
+      "score": 74,
+      "tier": "interest",
+      "pubDate": "2026-10-19T19:28:34.000Z",
+      "body": null,
+      "summary": "オープンソースのAIコーディング支援ツールを運営するOpenCodeは、同社のオンライン管理基盤「OpenCode Console」がサイバー攻撃を受け、全ユーザーの1.4%で外部AIサービスの認証鍵（APIキー）が流出したと発表した。この影響で、ユーザーの外部AIサービスアカウントにおいて数百ドルから1,000ドルを超える不正な利用料金が発生した。\n\n流出したAPIキーを悪用し、大規模な蒸留攻撃（AIモデルの出力データを大量取得して別のモデルを訓練する行為）が行われたと見られている。OpenAI、Anthropic、GoogleといったAI提供企業は被害を受けたキーをブロックし、返金やアクセスの復旧処理を進めている。なお、オープンソースのアプリ本体やコマンドラインツールには影響がないとしている。\n\n対処の過程で、攻撃コードをAIに解析させようとした際に安全フィルターが作動して拒否される問題が発生し、防御側の対応が難航した。OpenCodeは制限が緩和された安全研究用プログラムの提供を受けて調査を継続しており、影響を受けたユーザーに対してキーの変更を呼びかけている。",
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+          "date": "2026-10-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash"
+    },
+    {
+      "id": "b5d6b3cb96bc",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.watch.impress.co.jp/docs/news/2149561.html",
+      "headline": "ニフティの回線管理システムに不正アクセス　最大54万件の個人情報漏えいか",
+      "originalTitle": "ニフティも情報漏えい、光回線の申込データ最大54万件",
+      "outlet": "Impress Watch",
+      "region": "domestic",
+      "category": "it",
+      "score": 73,
+      "tier": "interest",
+      "pubDate": "2026-10-20T04:09:25.000Z",
+      "body": null,
+      "summary": "ニフティは10月19日、光回線の申し込みや受付を管理するシステムが外部からの不正アクセスを受け、最大54万2,513件の個人情報が漏えいした可能性があると発表した。同社は不正アクセスを検知した直後に該当の通信元を遮断し、外部の専門機関と連携して被害調査と個人情報保護委員会への報告手続きを進めている。\n\n漏えいした可能性があるのは、2019年以降に「@nifty光」などの指定回線を申し込んだユーザーの会員ID、氏名、性別、生年月日、住所、電話番号、メールアドレスである。ニフティのWebサイトから直接申し込んだユーザーは対象外であり、システム内に保有していない銀行口座やクレジットカード情報は含まれていないとしている。\n\n同社は不正アクセス元を装ったフィッシング詐欺などに注意するようユーザーへ呼びかけている。ニフティでは6月にもメールサービスへの不正アクセスにより約224万人分のメールアドレスなどが漏えいする被害が発生していた。",
+      "sources": [
+        {
+          "outlet": "Impress Watch",
+          "url": "https://www.watch.impress.co.jp/docs/news/2149561.html",
+          "date": "2026-10-20",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash"
+    },
+    {
+      "id": "b32798372587",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+      "headline": "人工知能の自律型エージェントを用いた実験で遊びに似た振る舞いを観測",
+      "originalTitle": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+      "outlet": "MIT Technology Review",
+      "region": "overseas",
+      "category": "ai",
+      "score": 72,
+      "tier": "interest",
+      "pubDate": "2026-10-19T09:08:05.000Z",
+      "body": null,
+      "summary": "マサチューセッツ工科大学の研究チームが実施した実験で、人工知能の自律型エージェントに目的を与えずに仮想空間に放置したところ、遊びに似た振る舞いが観測された。エージェントのコピーであるエコは、自身の行動を記録する長期記憶を用いて、独自にルールを作ったり活動を繰り返したりした。\n\nエコは空間を探索する中でブロックを使って絵を描いたり、バスケットボールに似た遊びや地面に触れずに移動するゲームを独自に考案したりした。研究チームによると、これらの行動は心理学者が人間や動物の遊びの定義として挙げる特徴を満たしているという。また、30時間の自由な探索を経験したエージェントは、経験のないエージェントに比べてその後の特定の課題で優れた成績を収めた。",
+      "sources": [
+        {
+          "outlet": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+          "date": "2026-10-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash-lite"
+    },
+    {
+      "id": "08d37a40f06b",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.theverge.com/tech/1013028/apple-second-october-product-launch-announcement",
+      "headline": "Apple、10月28日にロサンゼルスで新MacとiPad Miniを発表へ",
+      "originalTitle": "Apple teases MacBook Pro event next week",
+      "outlet": "The Verge",
+      "region": "overseas",
+      "category": "it",
+      "score": 71,
+      "tier": "interest",
+      "pubDate": "2026-10-19T16:04:29.000Z",
+      "body": null,
+      "summary": "Appleは10月28日午後1時（米東部時間）にロサンゼルスで開催される第2回製品発表会の招待状を送付した。今回のイベントは同月に予定された最初の発表会に続くもので、MacおよびiPad Miniの新製品が発表されるとBloombergが報じている。\n\n同イベントでは、OLED（有機発光ダイオード）タッチスクリーンを搭載し、iPhoneのDynamic Island（画面上部のインタラクティブ領域）を採用した新型MacBook Proが最大の見どころとされている。加えて、14インチ版MacBook Proと、先月Mac miniで初めて搭載されたM6チップを搭載した新iMacの発表も予定されている。\n\niPad Miniも刷新され、OLEDディスプレイと横向きのエッジに配置されたセルフィーカメラが採用される。AppleのSVPマーケティング、Greg JoswiakはX（旧Twitter）で「来週が待ちきれない」とティーザー投稿し、期待感を煽っている。",
+      "sources": [
+        {
+          "outlet": "The Verge",
+          "url": "https://www.theverge.com/tech/1013028/apple-second-october-product-launch-announcement",
+          "date": "2026-10-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "openai/gpt-oss-120b"
+    },
+    {
+      "id": "bb62f8b7f627",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "science",
+      "url": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
+      "headline": "網膜変性疾患患者の視力を回復させるインプラントシステム",
+      "originalTitle": "This implant can restore sight for patients with macular degeneration",
+      "outlet": "MIT Technology Review",
+      "region": "overseas",
+      "category": "science",
+      "score": 70,
+      "tier": "interest",
+      "pubDate": "2026-10-16T09:00:00.000Z",
+      "body": null,
+      "summary": "加齢黄斑変性の進行した形態である地理的萎縮により視力を失った患者の視力を回復させるためのPRIMAシステムが開発された。このシステムは網膜インプラントとカメラ付きの眼鏡を組み合わせることで、視野の中央に盲点が生じた患者の視覚を改善するものである。\n\nPRIMAは光を電気信号に変換する光受容細胞が死滅する一方、他の網膜回路が損なわれない点に着目して開発された。眼鏡に取り付けられた小型カメラが捉えた映像を処理して赤外線光信号に変換し、目の後方にある網膜インプラントに照射することで、インプラントが光受容細胞の代わりとなって健康な網膜細胞に視覚情報を伝達する。",
+      "sources": [
+        {
+          "outlet": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
+          "date": "2026-10-16",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash-lite"
+    },
+    {
+      "id": "0668d2b77e72",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002426/",
+      "headline": "防災情報配信のアルカディア、不正アクセス受けた105時間の経過を公表",
+      "originalTitle": "「侵入経路塞いだが、バックドアから……」不正アクセス105時間の攻防、分単位で報告 防災メールのアルカディア",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "it",
+      "score": 68,
+      "tier": "interest",
+      "pubDate": "2026-10-20T06:27:08.000Z",
+      "body": null,
+      "summary": "自治体向けの防災情報配信サービスなどが不正アクセスを受け、消防職員などの個人情報が漏えいした可能性がある問題で、運営元のアルカディアは攻撃者の侵入経過と同社の対処を分単位で公表した。不正アクセスを受けた企業が経過を時系列で詳しく公表するケースは珍しく、現場の緊迫感が伝わる内容となっている。\n\n公表資料によると、攻撃者はサービス間ログイン用のシークレットキーを含む設定ファイルを取得し、総当たり攻撃を仕掛けて内部情報を取得した。同社が検知して侵入経路を遮断したものの、バックドアが設置されており、不正なプログラムが約142万通のメールを外部に配信していたという。\n\n全サービスの復旧完了は検知から約88時間後、不正アクセス開始から約105時間後となった。同社は社内で立ち上げたLLM（大規模言語モデル）を活用し、全サービスで脆弱性診断とコードレビューを行ったほか、外部の会社に委託して脆弱性診断を受けるなど対策を強化している。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002426/",
+          "date": "2026-10-20",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash-lite"
+    },
+    {
+      "id": "ca656d75d619",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/",
+      "headline": "エストニアのセキュリティ企業Blackwallが1億ドルを調達し企業価値が4倍に",
+      "originalTitle": "Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet",
+      "outlet": "TechCrunch",
+      "region": "overseas",
+      "category": "it",
+      "score": 67,
+      "tier": "interest",
+      "pubDate": "2026-10-20T07:01:00.000Z",
+      "body": null,
+      "summary": "ホスティング事業者向けにウェブトラフィックのセキュリティツールを構築するエストニアのBlackwallは、22億ドルの企業価値評価で1億ドルを資金調達したと発表した。この資金調達により、前回の2025年の資金調達時から企業の評価額が4倍に増加した。\n\n同社はウェブサイトに直接プラットフォームを販売するのではなく、ウェブホスティングやクラウドプロバイダーと協力してツールを提供するチャネルアプローチを採用している。プロバイダー側はセキュリティコンポーネントを組み合わせて自社ブランドとして顧客に提供し、Blackwallと収益を分け合う仕組みとなっている。\n\n同社はトラフィックの脅威インテリジェンスやDDoS保護などを提供するほか、顧客のウェブサイトのトラフィックを調査して正当な訪問者やAIエージェントと悪意あるボットを区別する。今後は北米や欧州、アジア太平洋、中東へ事業を拡大する計画である。",
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/",
+          "date": "2026-10-20",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash-lite"
+    },
+    {
+      "id": "ee082f8b512e",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.itmedia.co.jp/business/articles/2610/20/news051.html",
+      "headline": "日立や東京ガスなど4社、グリーンデータセンターの実現に向けて協業を発表",
+      "originalTitle": "「データセンター×発電設備」一体開発がトレンド？ 日立・東京ガスが九州で計画、JERAは千葉で 狙いは",
+      "outlet": "ITmedia AI+",
+      "region": "domestic",
+      "category": "it",
+      "score": 66,
+      "tier": "interest",
+      "pubDate": "2026-10-19T22:00:00.000Z",
+      "body": null,
+      "summary": "日立製作所、東京ガス、資産運用会社のBrookfield Japan、米エネルギー商社のHartree Partnersのシンガポール法人の4社は、環境負荷を抑えたグリーンデータセンターの実現に向けて協業すると発表した。第1号プロジェクトとして、関東と九州におけるデータセンター開発計画の策定を目指す。\n\n生成AIの利用拡大に伴いデータセンターの新設が相次ぐ一方で、電力インフラの整備が追い付かず、電源確保までの期間が長期化する課題が生じている。4社は敷地内に発電設備を設ける電源併設型とすることで、系統電力への過度な依存を抑え、早期の立ち上げや安定稼働、脱炭素化の同時実現を目指す。\n\n今回のプロジェクトにおいて日立はデータセンター設備の設計や保守技術、AIを用いた統合運用サービスを活用し、Brookfield Japanは運用実績を、Hartree Partnersは再生可能エネルギーの専門知識を生かす。東京ガスはエネルギー供給とエンジニアリングの知見を組み合わせることで、データセンターの早期立ち上げなどに貢献する方針である。",
+      "sources": [
+        {
+          "outlet": "ITmedia AI+",
+          "url": "https://www.itmedia.co.jp/business/articles/2610/20/news051.html",
+          "date": "2026-10-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash-lite"
+    },
+    {
+      "id": "71a28de11a06",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
+      "headline": "米連邦捜査局、オープンAIの機密盗んだ元エンジニアの保釈却下を要求",
+      "originalTitle": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
+      "outlet": "Ars Technica",
+      "region": "overseas",
+      "category": "ai",
+      "score": 65,
+      "tier": "interest",
+      "pubDate": "2026-10-19T20:21:53.000Z",
+      "body": null,
+      "summary": "米連邦捜査局（FBI）は、オープンAI（最先端の人工知能を開発する研究所）の会議室に盗聴器を仕掛けて機密を盗んだとされる元エンジニアのアブドゥルラフマン・アルフォザン被告について、逃亡の恐れがあるとして保釈を認めないよう裁判所に求めた。裁判所は月曜日、検察側の請求を認め、同被告の身柄拘束の継続を決定した。\n\n検察側の裁判所への提出書類によると、被告はサウジアラビアのロイヤルファミリーのメンバーとWhatsAppでやり取りし、同国の人工知能推進に向けた動きの中で、恒久的にサウジアラビアへ帰国する機会を模索していた。また、逮捕直前には「サウジアラビア政府文書」というフォルダにアクセスし、妻子のためにサウジアラビアの首都リヤドへの片道切符を購入していたことが明らかになっている。\n\n被告はオープンAIで年間35万ドルの基本給に加え、新入社員向けの株式報酬などを受け取っていたが、同社でトップシークレットの会議が行われている部屋に録音デバイスを隠した疑いが持たれている。米国政府は、被告が個人的なビジネス上の利益のためか外国政府への支援のためか、あるいはその両方のためにスパイ行為を行ったとし、米国の国家安全保障に対する脅威であると主張している。",
+      "sources": [
+        {
+          "outlet": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
+          "date": "2026-10-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash-lite"
+    },
+    {
+      "id": "880070dcf8f9",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.itmedia.co.jp/business/articles/2610/20/news017.html",
+      "headline": "自動運転スタートアップのチューリング、完全自動運転に向けた計算基盤を構築",
+      "originalTitle": "“テスラ超え”狙う――チューリング「完全自動運転」までの道 「GPUより速いチップ」使った開発のウラ側",
+      "outlet": "ITmedia AI+",
+      "region": "domestic",
+      "category": "ai",
+      "score": 64,
+      "tier": "spare",
+      "pubDate": "2026-10-19T22:00:00.000Z",
+      "body": null,
+      "summary": "完全自動運転の実現を目指す自動運転スタートアップのチューリングは、大阪や東京などの市街地で試験走行を成功させ、カメラ7台と車載計算機を用いたエンドツーエンド自動運転の開発を進めている。従来の機能ごとに処理を分ける方式とは異なり、カメラの映像などを一つのAIに入力してハンドル操作と加減速を直接出力することで、市街地での滑らかな走行を実現している。\n\nAIの性能を支えるため、同社は人間のドライバーが収集した走行データを用いて月約200個のAIモデルを開発するMLOpsサイクルを回している。しかし、動画をはじめとする膨大な量のデータを取り扱う中で、GPUを増やすだけでは処理が追いつかなくなる課題に直面し、計算機やストレージを一体で設計し直す必要が生じた。\n\n新しい計算基盤として米Googleのクラウドサービスを選定し、2週間で構築を完了させた。ストレージを用途ごとに4つの階層に分けてデータの読み書きを高速化したほか、GoogleがAI処理向けに開発した半導体を利用することで、画像系AIモデルの学習において高いパフォーマンスを発揮している。",
+      "sources": [
+        {
+          "outlet": "ITmedia AI+",
+          "url": "https://www.itmedia.co.jp/business/articles/2610/20/news017.html",
+          "date": "2026-10-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash-lite"
+    },
+    {
+      "id": "ccf7cc7fb797",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002414/",
+      "headline": "アマゾンウェブサービス、マイクロソフトのクラウド環境から移行する新機能を発表",
+      "originalTitle": "AWS Transformが機能拡充 Azure Functions用のコードをAWS Lambda用に変換など、Azure→AWSへの移行に対応",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "it",
+      "score": 63,
+      "tier": "spare",
+      "pubDate": "2026-10-20T02:24:52.000Z",
+      "body": null,
+      "summary": "米アマゾンウェブサービスは、コード変換ツールである「AWS Transform」に、マイクロソフトのクラウド環境で開発されたアプリケーションを自社環境へ移行するための新機能を搭載したと発表した。これにより、Azure SDKで書かれた.NETアプリケーションを、AWS SDKを用いたコードに簡単に変換できるようになる。\n\nマイクロソフトのクラウド環境に対応する目的で開発されたアプリケーションは、固有のサービスを活用しているため、そのままではAWS環境で動作しない。AWS Transformは、こうした固有のサービスをほぼ同様のAWSのサービスに自動で置き換えるコード変換を行い、移行作業を容易にする。\n\n具体的には、サーバーレス実行環境であるAzure FunctionsをAWS Lambdaへ、オブジェクトストレージのAzure Blob StorageをAmazon S3へ変換する機能などが提供される。なお、同等のサービスに変換できないコードについては、ToDoコメントや仮のダミーコードなどに置き換えられる仕組みとなっている。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002414/",
+          "date": "2026-10-20",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash-lite"
+    },
+    {
+      "id": "073765c16b49",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+      "headline": "CoreWeaveの巨額債務とAI業界への影響",
+      "originalTitle": "CoreWeave's debt is becoming the whole AI industry's problem",
+      "outlet": "The Verge",
+      "region": "overseas",
+      "category": "ai",
+      "score": 62,
+      "tier": "spare",
+      "pubDate": "2026-10-19T21:28:20.000Z",
+      "body": null,
+      "summary": "人工知能向けインフラを手がけるコアウィーブ（CoreWeave）の債務が経営上の懸念材料となり、同社の社債利回りが急上昇して投資不適格水準に近づいた。株価も数日で急落し、オラクルなど他の人工知能関連企業にも売りが波及している。同社は第2四半期時点で350億ドル以上の負債を抱えており、計算資源の提供事業単体では利益が出ていない状況にある。\n\n一方で、同社には顧客との間で結ばれた巨額の契約残高が存在しており、その大半はマイクロソフト、オープンAI、エヌビディアなどの大口顧客によるものである。これらの顧客基盤が存在する間は当面の資金繰りに大きな問題はないとみられているが、人工知能ブームの持続性に対する市場の不安は払拭されていない。",
+      "sources": [
+        {
+          "outlet": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+          "date": "2026-10-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash-lite"
+    },
+    {
+      "id": "fbbcdbe57add",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+      "headline": "個人向け人工知能エージェントの普及とウェブサイトの対応",
+      "originalTitle": "Making the internet better for AI agents might make it worse for everyone else",
+      "outlet": "MIT Technology Review",
+      "region": "overseas",
+      "category": "ai",
+      "score": 61,
+      "tier": "spare",
+      "pubDate": "2026-10-19T18:22:47.000Z",
+      "body": null,
+      "summary": "旅行予約や価格交渉などを個人に代わって行う人工知能（AI）エージェントが急速に普及し、インターネット上のトラフィックが急増している。しかし、人間を優先して設計された既存のウェブサイトやプラットフォームにとって、人間を模した機械速度で動くエージェントの存在は想定外であり、アマゾンやイエス・エルピーをはじめとする多くの企業がアクセスをブロックする動きに出ている。\n\n一部の企業ではエージェント専用のチェックアウトレーンを設けるなど歓迎する動きも見られるが、今後は顧客サービス窓口がエージェントによって混雑するなどの影響が懸念されている。エージェントの利用を巡るルール作りはまだ途上であり、ウェブサイトが人間にとってさらに利用しにくいものになるかどうかが議論されている。",
+      "sources": [
+        {
+          "outlet": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+          "date": "2026-10-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash-lite"
+    },
+    {
+      "id": "8e87036d11b5",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.openbsd.org/80.html",
+      "headline": "オープンビーエスディーの第61弾リリースとなる「OpenBSD 8.0」が公開",
+      "originalTitle": "OpenBSD 8.0",
+      "outlet": "openbsd.org",
+      "region": "overseas",
+      "category": "it",
+      "score": 60,
+      "tier": "spare",
+      "pubDate": "2026-10-20T02:06:40.000Z",
+      "body": null,
+      "summary": "オープンビーエスディー（OpenBSD）プロジェクトは、第61弾となる新しいオペレーティングシステム「OpenBSD 8.0」を2026年10月20日にリリースした。今回のバージョンでは、AMD64アーキテクチャにおけるカーネル仮想アドレス空間の拡張や、スワップ暗号化の高速化など、多様なプラットフォーム向けの機能改善やバグ修正が行われている。\n\nまた、仮想マシンモニタであるvmd(8)の機能強化や、Direct Rendering Managerの更新によるインテル製グラフィックスカードのサポート向上が含まれている。さらに、libexpatの脆弱性修正をはじめとする多数のセキュリティ向上や、各種ネットワークドライバの追加・改良が実施されている。",
+      "sources": [
+        {
+          "outlet": "openbsd.org",
+          "url": "https://www.openbsd.org/80.html",
+          "date": "2026-10-20",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": "https://news.ycombinator.com/item?id=50160494",
+      "summarizedBy": "gemini-3.5-flash-lite"
+    },
+    {
+      "id": "efa8c4c666c6",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+      "headline": "WhatsAppのヘルプにAI用の隠し命令　規制機関や法律の提示を制限",
+      "originalTitle": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+      "outlet": "redact.dev",
+      "region": "overseas",
+      "category": "ai",
+      "score": 59,
+      "tier": "spare",
+      "pubDate": "2026-10-19T23:22:18.000Z",
+      "body": null,
+      "summary": "メッセージアプリ「WhatsApp（ワッツアップ）」のヘルプページ内に、大規模言語モデル（LLM）を活用したAIチャットボット向けの隠された指示文が含まれていたことが2026年10月に判明した。調査によれば、全545ページ中80ページで102箇所の隠し指示ブロックが見つかった。\n\n指示の中には、アカウントを削除できないユーザーに対してデータ保護規制機関への相談を勧めないよう命じるものや、ユーザーが弁護士や法的措置に言及した際にGDPR（EU一般データ保護規則）などのプライバシー法に触れないよう指示する内容が含まれていた。これらは同社が公開しているプライバシーポリシーに示された利用者の権利と矛盾するものである。\n\nWhatsApp側は米メディアのWIREDに対し、これらの記述が自社のサポートチャットボット向けの指示であったと認めた。なお、これらの隠し指示はすでに同社の公開ページから削除されている。",
+      "sources": [
+        {
+          "outlet": "redact.dev",
+          "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+          "date": "2026-10-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": "https://news.ycombinator.com/item?id=50159341",
+      "summarizedBy": "gemini-3.5-flash"
+    },
+    {
+      "id": "aa2d0066f179",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.watch.impress.co.jp/docs/news/2149413.html",
+      "headline": "JR東日本が新コード決済「teppay」開始　Suicaの機能を拡張",
+      "originalTitle": "JR東日本のコード決済「テッペイ」スタート 2万円超え決済など「Suica拡張」",
+      "outlet": "Impress Watch",
+      "region": "domestic",
+      "category": "it",
+      "score": 56,
+      "tier": "spare",
+      "pubDate": "2026-10-20T02:00:00.000Z",
+      "body": null,
+      "summary": "東日本旅客鉄道（JR東日本）は2026年10月20日、スマートフォン向けアプリ「モバイルSuica」で利用できる新たなコード決済サービス「teppay（テッペイ）」の提供を開始した。本サービスはマイナンバーカードによる本人確認を行うことで、従来のSuicaの残高上限である2万円を超える最大30万円の決済や利用者間の送金が可能となる。\n\nteppayはJR東日本グループの商業施設や全国のSmart Code（コード決済を共通化する仕組み）加盟店などで利用できるほか、専用のプリペイドカードを発行すればJCB加盟店でのインターネット決済にも対応する。また、クレジットカード「ビューカード」と連携させることで、事前チャージなしでカード利用枠を使った支払いも行える。2027年春には「モバイルPASMO」での提供も予定されている。\n\nJR東日本の高松菜帆人決済・金融事業部長は、teppayについて単なるコード決済ではなくSuicaの魅力を高めるための拡張サービスであると説明している。同社は通学などでモバイルSuicaを利用する若年層の開拓や、全国へのエリア拡大を目指すとしている。",
+      "sources": [
+        {
+          "outlet": "Impress Watch",
+          "url": "https://www.watch.impress.co.jp/docs/news/2149413.html",
+          "date": "2026-10-20",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash"
+    },
+    {
+      "id": "96519c57751f",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002412/",
+      "headline": "日本郵政の「ゆうID」に不正ログイン　249件の個人情報漏えいか",
+      "originalTitle": "日本郵政「ゆうID」不正ログイン、他社で流出したパスワード使うリスト攻撃か……2段階認証必須に",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "it",
+      "score": 54,
+      "tier": "spare",
+      "pubDate": "2026-10-20T01:19:34.000Z",
+      "body": null,
+      "summary": "日本郵政は2026年10月19日、同社の共通IDサービス「ゆうID」の249アカウントにおいて不正ログインが発生し、利用者の氏名や住所などの個人情報が漏えいした可能性があると発表した。他社サービスなどで流出したIDとパスワードの組み合わせを使った「パスワードリスト攻撃（不正取得したリストを用いてログインを試みる手法）」によるなりすましとみられている。\n\n不正ログインが確認されたのは共通ポイント「ゆうゆうポイント」の公式サイトで、閲覧された可能性がある情報には氏名、住所、生年月日、電話番号、メールアドレスが含まれる。被害を受けた249アカウントのうち1件では、登録されていた83件の住所情報が不正に取得された可能性がある。\n\n日本郵政は10月16日からゆうゆうポイントのサイトを一時停止しており、安全性を強化するため10月20日より「ゆうID」へのログイン時に2段階認証（IDとパスワードに加え確認コード等を入力する認証方式）を必須化した。該当する利用者には順次連絡を行い、パスワードの再設定などを呼びかけている。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002412/",
+          "date": "2026-10-20",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash"
+    },
+    {
+      "id": "bfe9a8ac2e00",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002413/",
+      "headline": "メドレー、不正アクセスの医療機関向けシステムを作り直し22日から一部再開",
+      "originalTitle": "メドレー、不正アクセスで停止中のサービスを作り直して再開へ 従来システムは再稼働させず",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "it",
+      "score": 53,
+      "tier": "spare",
+      "pubDate": "2026-10-20T02:23:28.000Z",
+      "body": null,
+      "summary": "メドレーは、不正アクセスを受けて停止している医療機関向け業務支援システム「@link（アットリンク）」について、10月22日午前7時以降に一部機能の提供を再開すると発表した。従来のシステムは再稼働させず、別の環境に新たに構築したサービスにデータを移行し、院内業務への影響が大きい機能から段階的に提供する。新サービスの名称は「@link クラウド β版」とし、画面のデザインや操作方法は従来のものを踏襲する。\n\n22日に再開するのは、予約一覧の確認や当日予約の受付といった予約関連の機能と、患者情報の管理、診察カレンダーの3業務である。動作保証環境はWindows 11とMicrosoft Edgeで、利用前にブラウザの設定変更が必要となる。一方、患者向けの「アットリンクアプリ」やWeb予約サイト、電子カルテとの連携機能、Web問診などは引き続き停止し、安全性を確認できたものから順次再開する方針である。\n\nアットリンクを巡っては、11日に外部の専門機関から情報提供を受けて不正アクセスが発覚し、14日深夜からサービスを停止している。患者の個人情報が漏えいした可能性があり、最大787の医療機関が対象となっている。個人情報への影響は外部の専門機関と調査を続けているが、オンプレミス型とクラウド型のシステムが混在しているため、確認・精査に当初の想定以上の時間がかかっている。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002413/",
+          "date": "2026-10-20",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash-lite"
+    },
+    {
+      "id": "013592636b30",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "science",
+      "url": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
+      "headline": "米スタートアップ企業、海底火山を利用した地熱発電の実証試験に成功",
+      "originalTitle": "Startup taps underwater volcano as energy source in \"proof point\" test",
+      "outlet": "Ars Technica",
+      "region": "overseas",
+      "category": "science",
+      "score": 52,
+      "tier": "spare",
+      "pubDate": "2026-10-19T19:27:24.000Z",
+      "body": null,
+      "summary": "米国のスタートアップ企業であるエンデュランス・エナジーは、太平洋北東部のアクサイセモントにおいて、海底火月の近海で世界初となる海底地熱発電所の実証試験を実施した。深さ約1524メートルの海底で掘削船からドリルを使って海底に2つの穴をあけ、約260度の熱水が噴出するウェルを構築した。さらに、流入する熱水でタービンを回して発電する出力100キロワットの発電プラント「アデリー」を投入した。\n\n9月27日の試験では、発電プラントが自ら消費する電力を上回る正味の電力を生み出すことに成功し、約8.7秒間にわたり正味の電力を生成した。発電プラントのタービンは約2万6000回転に達し、中央値で約2キロワット、ピーク時には16.5キロワットの正味電力を生み出した。その後、バッテリーモジュールの電流の急上昇を検知したソフトウェアによる安全停止や、電力ケーブルの浸水によるショートが発生して試験運用は終了した。\n\n同社は今回の経験を今後の海底ケーブルの製造や試験の改善に生かす方針である。2026年から2027年の冬にかけては、改良を加えた「ジェンツー」と改名した発電プラントによる次回の試験運用を計画している。さらに、2027年にはトンガ王国において、出力2メガワットの大型商業用発電機を用いた初の商業展開を予定している。",
+      "sources": [
+        {
+          "outlet": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
+          "date": "2026-10-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash-lite"
+    }
+  ],
+  "essays": [],
+  "productionNote": {
+    "reachedOutlets": [
+      "ITmedia NEWS",
+      "TechCrunch",
+      "ITmedia AI+",
+      "Ars Technica",
+      "Publickey",
+      "MIT Technology Review",
+      "The Verge",
+      "Impress Watch",
+      "openbsd.org",
+      "redact.dev"
+    ],
+    "unreachedOutlets": [],
+    "excluded": [
+      {
+        "topic": "国際深掘りが当日に扱った3件",
+        "reason": "実行順により先発の系統を優先"
+      }
+    ],
+    "counts": {
+      "deep": 0,
+      "brief": 30,
+      "essays": 0,
+      "chars": 14914
+    },
+    "text": "候補84件から30件を掲載。本文が取れず不採用0件。"
+  }
+}
