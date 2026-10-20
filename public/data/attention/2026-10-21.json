@@ -1,0 +1,1319 @@
+{
+ "date": "2026-10-21",
+ "generatedAt": "2026-10-20T23:57:56.637Z",
+ "measured": {
+  "world": 18,
+  "jp": 6
+ },
+ "unreachable": [],
+ "ranking": [
+  {
+   "id": "s-20261001-16",
+   "title": "仏でデモや暴動続く、政府が治安維持強化",
+   "firstSeen": "2026-10-01",
+   "daysSeen": 11,
+   "history": {
+    "2026-10-01": 15,
+    "2026-10-02": 32,
+    "2026-10-05": 20,
+    "2026-10-06": 28,
+    "2026-10-07": 33,
+    "2026-10-08": 23,
+    "2026-10-09": 25,
+    "2026-10-14": 13,
+    "2026-10-19": 46,
+    "2026-10-20": 35,
+    "2026-10-21": 35
+   },
+   "peak": 46,
+   "worldScore": 35,
+   "worldCoverage": "11/18",
+   "jpScore": 14,
+   "jpCoverage": "1/6",
+   "gap": 21,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.97,
+     "title": "Marseille braces for more unrest after protests give way to 'apocalyptic' disorder",
+     "desc": "France's second city saw some of the worst violence as chaos gripped the country on Saturday.",
+     "url": "https://www.bbc.co.uk/news/articles/cm5ynkk570pno?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Italy to deploy 500 troops to Milan after days of protests and looting",
+     "desc": "Government planning tougher security measures as France also says military forces will be deployed Why are people protesting across Europe? Italy’s government is sending 500 soldiers to Milan and vowed a “firm response from the state” after protests against the cost of living descended into clashes with police, vandalism and looting. Further demonstrations are planned on Saturday. The government of the far-right prime minister, Giorgia Meloni, also announced new security measures, including an offence of violent participation in ⁠a demonstration, tougher penalties for ⁠rioters, and financial l",
+     "url": "https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "France riots leave thousands of businesses damaged",
+     "desc": "Weekend riots in France left more than 3,000 businesses damaged with owners facing devastating losses",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/france-riots-leave-thousands-of-businesses-damaged?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.8,
+     "title": "France to Extend Curfews After Calm Night Follows Days of Riots",
+     "desc": "The targeted restrictions are part of a state effort to reassert control after the country’s largest riots in years, as those arrested in the chaos face expedited trials.",
+     "url": "https://www.nytimes.com/2026/10/20/world/europe/france-curfews-riots-protests-extended.html",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Italy announces new security measures after Milan riots, deploying 500 soldiers",
+     "desc": "Italy announced tougher security measures on Tuesday after weekend riots in Milan left more than 100 police officers injured and shops looted. The government will deploy 500 additional soldiers, impose harsher penalties for violent protesters and hold parents financially responsible for damage caused by minors.",
+     "url": "https://www.france24.com/en/europe/20261020-italy-announces-new-security-measures-after-milan-riots-deploying-500-soldiers",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "France vows 'massive' security operation involving military forces for expected weekend protests",
+     "desc": "Some military forces from Operation Sentinelle will be deployed to free up police and gendarmes for the expected demonstrations, French Interior Minister Laurent Nuñez said.",
+     "url": "https://www.euronews.com/2026/10/20/france-vows-massive-security-operation-involving-military-forces-for-expected-weekend-prot",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "France to deploy troops in response to protests after violent riots sweep cities",
+     "desc": "France will reinforce police with troops and mount a huge security operation for more protests planned on Saturday, the government said on Tuesday, acknowledging failures in its response to last weekend’s violence. “The deployment next Saturday will be massive,” Prime Minister Sebastien Lecornu said, adding that the immediate priority was to restore order after rioting and looting swept Paris, Marseille, Lyon and other cities on October 17. In a sometimes rowdy debate, Interior Minister Laurent...",
+     "url": "https://www.scmp.com/news/world/europe/article/3371556/france-deploy-troops-response-protests-after-violent-riots-sweep-cities",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "French government extends curfews after riots sweep across the country",
+     "desc": "French authorities are extending curfews and increasing the police presence in public spaces as President Emmanuel Macron&#039;s government tries to regain control after rioters torched buildings and looted thousands of businesses this weekend.",
+     "url": "https://www.cbsnews.com/news/france-extends-curfews-riots-sweep-country/",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "France braces itself for fresh protests as PM vows ‘massive’ police deployment after riots",
+     "desc": "The government has announced partial curfews in Paris and some other cities.",
+     "url": "https://www.straitstimes.com/world/europe/france-braces-for-fresh-protests-as-pm-vows-massive-police-deployment-after-riots",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "FACT FOCUS: Trump and Republicans blame France's immigrants for riots without evidence - AP News",
+     "desc": "FACT FOCUS: Trump and Republicans blame France's immigrants for riots without evidence AP News",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOckdWX2JkZWpxZFMyak5XSnVpeGN2VUlPMldvNkFJaWUycFI4RlljLU5ZazNRNy1DYWFpdHYxRUlndU1PQ3RCRFRwUnlEdms1ZVc3dW9pWjMxQVNfTm9JbzE3V0M2SnJDV29yZ1p3UUlGVVlZajV3T0xwVExxX2hLRzZ0VXFaczlVdExkaERPZHlDQWswUUFhd0t5NDBuQQ?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Is France spinning out of control? - Financial Times",
+     "desc": "Is France spinning out of control? Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hc3lfQjdLbzJPUVpFMkRJSzQ5eXFBaS1CeE9SS1Z1TjA1dFRVa2ZlY0czMFBnZmhQVFFJRk5QMGR2bzI1dXVWNkhlZFFYNE9UU0pTOEFFblppZEliNmdmc05KMXpFSjBRWExfWjNQZnk?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.82,
+     "title": "仏中部・市庁舎放火 安全保障“警戒対象”の男逮捕(ABEMA TIMES)",
+     "desc": "フランスの抗議デモで歴史的建造物の市庁舎が放火された事件で男が逮捕されました。 中部・リモージュでは17日、抗議デモがきっかけで暴動が発生し、市庁舎が放火されました。【映像】炎をあげ崩れる歴史的建造物",
+     "url": "https://news.yahoo.co.jp/articles/a9bae2a5019813e2f12f81b7d9cd3d310b8efb5b?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261019-28",
+   "title": "アルゼンチンが独立・分離投票を否決",
+   "firstSeen": "2026-10-19",
+   "daysSeen": 3,
+   "history": {
+    "2026-10-19": 5,
+    "2026-10-20": 18,
+    "2026-10-21": 28
+   },
+   "peak": 28,
+   "worldScore": 28,
+   "worldCoverage": "8/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 28,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.85,
+     "title": "'Great result for Canada', says Carney as Alberta votes to reject separatism",
+     "desc": "The Canadian province has voted overwhelmingly to remain part of Canada, though deep political divisions endure.",
+     "url": "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.85,
+     "title": "Alberta voters overwhelmingly reject plan to leave Canada in referendum",
+     "desc": "Result is a victory for prime minister Mark Carney and supporters of Canadian unity Voters in Canada’s Alberta have overwhelmingly rejected a proposal to begin the process of independence, delivering a decisive victory for supporters of Canadian unity and deepening divisions within the separatist movement. With nearly 1.9m votes counted, roughly 76% people supported remaining in Canada, while 24% backed beginning a process toward separation, according to unofficial results from Elections Alberta. Continue reading...",
+     "url": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.59,
+     "title": "As Alberta Rejects Canada Separatism, Carney Gets Much of the Credit",
+     "desc": "Prime Minister Mark Carney won over Canada’s most conservative province by promising a pipeline and campaigning hard, defeating its efforts to secede.",
+     "url": "https://www.nytimes.com/2026/10/20/world/canada/carney-alberta-referendum-trump.html",
+     "via": null
+    },
+    {
+     "id": "dw",
+     "name": "Deutsche Welle",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Canada: Alberta rejects separation bid, CBC projects",
+     "desc": "Voters have decisively rejected a proposal to begin the legal process toward Alberta's independence, dealing a major blow to a movement driven largely by economic grievances.",
+     "url": "https://www.dw.com/en/canada-alberta-rejects-separation-bid-cbc-projects/a-79708520?maca=en-rss-en-world-4025-rdf",
+     "via": null
+    },
+    {
+     "id": "npr",
+     "name": "NPR",
+     "region": "world",
+     "weight": 0.61,
+     "title": "Alberta voters reject a move toward independence in referendum backing Canadian unity",
+     "desc": "Voters in Canada's oil-rich Alberta province overwhelmingly backed remaining in Canada, with early referendum results Tuesday delivering a boost to Prime Minister Carney's push for national unity.",
+     "url": "https://www.npr.org/2026/10/20/nx-s1-6008832/alberta-referendum-canada",
+     "via": null
+    },
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 0.61,
+     "title": "Oil-rich Alberta votes to remain part of Canada in historic referendum",
+     "desc": "Alberta ‌has voted to remain part of Canada in the province's first-ever referendum on separation.",
+     "url": "https://news.sky.com/story/alberta-votes-to-remain-part-of-canada-13601218",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Voters reject separation of Alberta from Canada in referendum",
+     "desc": "The vote was not a referendum on independence from Canada, but it would have begun a process towards possible separation.",
+     "url": "https://www.cbsnews.com/news/canada-alberta-referendum-vote-separation-independence/",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Alberta rejects a move toward independence from Canada in a victory for Carney - AP News",
+     "desc": "Alberta rejects a move toward independence from Canada in a victory for Carney AP News",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSWZucE56Yy02MWJYWDBWQ1RVdEZoa2hZTGdHenVQbGd2Vms5bG5lVU41UmZJbWFCamJYN2dOdGxfM3NTei1oXzZaeENURkJ4alRIOW5tZHIzUHZnT3FubURtSlBaQzZaeWozNHVyc2RodHJYWWJncjl2WE9QNG5jcG94QnpaR0lQdHVzQWFtVVI2alpFX3BvbkZGVGhvUUQ4OWt1QQ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261020-01",
+   "title": "豪議員が車にはねられ重体、男を訴追",
+   "firstSeen": "2026-10-20",
+   "daysSeen": 2,
+   "history": {
+    "2026-10-20": 24,
+    "2026-10-21": 28
+   },
+   "peak": 28,
+   "worldScore": 28,
+   "worldCoverage": "8/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 28,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.91,
+     "title": "Man charged with attack on Australia MP to face court",
+     "desc": "Brendan Nugent's family say they have known Helen Haines, who remains in a critical condition, for more than 20 years.",
+     "url": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.65,
+     "title": "Helen Haines live updates: Brendan Nugent doesn’t apply for bail in first court appearance since alleged attack",
+     "desc": "Independent MP’s condition remains critical on Wednesday after surgery to save her remaining leg ‘Deeply appalled’: politicians condemn alleged attack after Helen Haines critically injured Helen Haines, the principled MP respected across parliament Anthony Albanese has described the police interview on Tuesday with Brendan Nugent as “extensive” but that the motivation of the alleged “violent” attack against Helen Haines is still unknown. Certainly, it’s a reminder that the world is a more dangerous and divided place than it was a generation ago. But I think that Australians do want to see thei",
+     "url": "https://www.theguardian.com/australia-news/live/2026/oct/21/helen-haines-independent-mp-alleged-attack-wangaratta-vigils-court-ntwnfb",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.62,
+     "title": "Australian Lawmaker Helen Haines Remains in Critical Condition After Car Attack",
+     "desc": "Helen Haines, an independent, remained in critical condition after she was struck by a vehicle. A 43-year-old man was charged and will appear in court on Wednesday.",
+     "url": "https://www.nytimes.com/2026/10/20/world/asia/helen-haines-mp-attacked-wangaratta-australia.html",
+     "via": null
+    },
+    {
+     "id": "dw",
+     "name": "Deutsche Welle",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Australian MP seriously hurt in suspected car attack",
+     "desc": "Helen Haines, an independent federal lawmaker, suffered severe injuries in what Australia's prime minister has called a deliberate attack by a man in a car.",
+     "url": "https://www.dw.com/en/australian-mp-seriously-hurt-in-suspected-car-attack/a-79697660?maca=en-rss-en-world-4025-rdf",
+     "via": null
+    },
+    {
+     "id": "npr",
+     "name": "NPR",
+     "region": "world",
+     "weight": 0.46,
+     "title": "Australian prime minister says lawmaker critically injured by car is 'no accident'",
+     "desc": "A car hit an Australian federal independent lawmaker on Monday, critically injuring her in an apparent deliberate attack, Prime Minister Anthony Albanese said. The driver was arrested.",
+     "url": "https://www.npr.org/2026/10/19/g-s1-148737/australia-lawmaker-critically-injured",
+     "via": null
+    },
+    {
+     "id": "abc-au",
+     "name": "ABC Australia",
+     "region": "world",
+     "weight": 0.91,
+     "title": "Police not ruling out further serious charges over Helen Haines attack",
+     "desc": "The Victoria Police and AFP commissioners say they have not ruled out laying further charges against Brendan Nugent over his alleged attack on Indi MP Helen Haines.",
+     "url": "https://www.abc.net.au/news/2026-10-21/victoria-police-and-afp-commissioners-on-helen-haines/107290926",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Man charged in \"targeted\" attack on Australian lawmaker Helen Haines",
+     "desc": "Australian police charged a man on Tuesday over what they alleged was a \"targeted\" attack with a vehicle on independent lawmaker Helen Haines.",
+     "url": "https://www.cbsnews.com/news/australian-man-charged-targeted-attack-lawmaker-helen-haines-who-reportedly-lost-leg/",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Driver charged with intentionally injuring Australian federal lawmaker - AP News",
+     "desc": "Driver charged with intentionally injuring Australian federal lawmaker AP News",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSFFOVnVHa0tBUGhjMHRSUTlkTlQ4clhTSmVkNmpnTXFFRVpsZFprTEplajRtX1hmYmZtVWRLRjdZZXB6ZzVseWtHeG51Q1Rxb21YTUZmOUh3aGpBOGQzYWlpRGhiVXJWZjhwTkJ4STFfbWxZWnRpN0t2a3hxQzNsN0pKMEVsZnBkV085TWNvRkV2VlR2azRaMTB6OTM1ZHlhWGZEYzV3?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261019-19",
+   "title": "アフリカ各地でエボラ出血熱の感染確認",
+   "firstSeen": "2026-10-19",
+   "daysSeen": 2,
+   "history": {
+    "2026-10-19": 6,
+    "2026-10-21": 27
+   },
+   "peak": 27,
+   "worldScore": 27,
+   "worldCoverage": "8/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 27,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.88,
+     "title": "Ebola cases in Kenya highlight US failures amid Trump cuts to key services",
+     "desc": "Opposition to US-led quarantine center in Kenya follows sweeping funding cuts and withdrawal from WHO An eighth person in Kenya has tested positive for the Bundibugyo strain of Ebola in the country’s first-ever cluster of cases of the virus, as the second-largest outbreak in history has killed more than 4,300 and sickened more than 9,000 people in the region. It highlights the diminished role the US has played in the worsening Ebola outbreak by building a controversial quarantine center in Kenya, pulling back health support globally, and banning travelers from certain countries. All of this ha",
+     "url": "https://www.theguardian.com/world/2026/oct/19/ebola-cases-kenya-us-quarantine",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Nigeria confirms first Ebola case amid concerns about continental spread",
+     "desc": "Nigeria&#039;s Health Ministry says a woman who arrived on a flight from Uganda tested positive.",
+     "url": "https://www.aljazeera.com/news/2026/10/20/kenya-confirms-ninth-ebola-case?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.53,
+     "title": "Nigeria Announces First Case of Ebola in Current Outbreak",
+     "desc": "Health officials praised the Nigerian authorities for their transparency in reporting the spread of the virus.",
+     "url": "https://www.nytimes.com/2026/10/20/world/africa/nigeria-ebola-outbreak.html",
+     "via": null
+    },
+    {
+     "id": "dw",
+     "name": "Deutsche Welle",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Nigeria records its first Ebola case, in capital Abuja",
+     "desc": "Nigeria has reported its first known case of Ebola during Africa's latest outbreak originating in the DRC. Health Minister Muhammad Ali Pate said the patient was a woman who had recently flown to Abuja from Uganda.",
+     "url": "https://www.dw.com/en/nigeria-records-its-first-ebola-case-in-capital-abuja/a-79717377?maca=en-rss-en-world-4025-rdf",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Nigeria records first Ebola case as outbreak spreads across Africa",
+     "desc": "Nigeria has confirmed its first Ebola case in Africa's latest outbreak, while Kenya reported its ninth infection, raising fears of further spread across the continent. Africa CDC chief Jean Kaseya warned of an “extremely serious threat” and urged the international community to send funding, medical supplies and health workers.",
+     "url": "https://www.france24.com/en/africa/20261020-nigeria-records-first-ebola-case-as-outbreak-spreads-across-africa",
+     "via": null
+    },
+    {
+     "id": "npr",
+     "name": "NPR",
+     "region": "world",
+     "weight": 0.92,
+     "title": "Nigeria confirms an Ebola case in Abuja as a woman arriving from Uganda tests positive",
+     "desc": "Nigeria is the latest country to report an Ebola case as the outbreak spreads across the region. Kenya confirmed its first case earlier this month and has since recorded nine infections.",
+     "url": "https://www.npr.org/2026/10/20/g-s1-148975/nigeria-confirms-ebola-case",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Nigeria confirms Ebola case in patient who arrived from Uganda",
+     "desc": "ABUJA, Oct 20 - Nigeria's government said on Tuesday there was a case of Ebola in the capital, Abuja, after laboratory tests confirmed the viral infection.",
+     "url": "https://www.straitstimes.com/world/nigeria-confirms-ebola-case-in-patient-who-arrived-from-uganda",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Nigeria confirms Ebola case in patient who arrived from Uganda - Reuters",
+     "desc": "Nigeria confirms Ebola case in patient who arrived from Uganda Reuters",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOczRmaE4xM1NBWWl0dkZiUFNWc3gyR2pPU05ick11alhPNFpfanVNb3dJLWRCQmFNcDlyU1ZmTi1GQVBHN1VjdVprQ0pvMG8yNC1fYWF6QkpoRnFQY1ZSMlpaa2RZN1liNlJzbWFWNTA5MV9PTFF2RXpSTUFBRDJxaWhxcTNySWFEMnNhRXhHVWVGSldjZGcwOHdPWkJ2QUMtNk1VWTZTSV91VG9tMWo1cFQzd2ZtMVMwUDA0Rg?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261020-02",
+   "title": "ケニアの洗脳カルト指導者に有罪判決",
+   "firstSeen": "2026-10-20",
+   "daysSeen": 2,
+   "history": {
+    "2026-10-20": 32,
+    "2026-10-21": 17
+   },
+   "peak": 32,
+   "worldScore": 17,
+   "worldCoverage": "5/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 17,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.65,
+     "title": "Kenya cult leader's children still being starved weeks before trial, son says",
+     "desc": "Dan Mackenzie initially defended his father but now says he felt he had to report his own grandmother.",
+     "url": "https://www.bbc.co.uk/news/articles/c6d7q2rxqxgxo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.94,
+     "title": "Kenyan starvation cult leader guilty of murder of 190 children and one adult",
+     "desc": "Paul Mackenzie and his church set up sect that ordered followers to starve themselves and their children, say prosecutors A Kenyan court has found the starvation cult leader Paul Mackenzie and about 30 others guilty of murder over the deaths of ⁠190 children and one adult in one of the world’s worst cult-related disasters in recent history. Mackenzie was arrested in 2023 after police received a tipoff, and weeks later authorities began uncovering bodies in shallow graves in the Shakahola forest near the coast ⁠in south-eastern Kenya. Continue reading...",
+     "url": "https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children",
+     "via": null
+    },
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 0.46,
+     "title": "Doomsday cult leader found guilty of murdering 190 children and one adult",
+     "desc": "Doomsday cult leader Paul Mackenzie, his wife Rhoda Maweu, and 29 other co-accused have been found guilty of the murder of 190 children and one adult.",
+     "url": "https://news.sky.com/story/cult-leader-found-guilty-of-ordered-followers-to-starve-their-children-to-death-13600891",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Starvation cult leader found guilty of murder of 190 children",
+     "desc": "Paul Mackenzie is alleged to have incited his acolytes to starve to death in order to \"meet Jesus.\"",
+     "url": "https://www.cbsnews.com/news/kenya-starvation-cult-leader-paul-mackenzie-guilty/",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Leader of Kenyan doomsday cult that left more than 400 followers dead convicted of 191 murders - AP News",
+     "desc": "Leader of Kenyan doomsday cult that left more than 400 followers dead convicted of 191 murders AP News",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPak9NUElxak01SC1xVzFnSlNLdTkxaEFsajl0NWE2QVE0b3BXT0VCdS1xTjE1Nzhfa0t1YzZMcTd6V1FfcDRLNlNyY0wwcVRMcjRaN3dvbVM2aTNwZDZZanduYm5XOUlHT0ZiOHRrN25ZMm05eUV0cTNTOHV4YVpJdnFadzVqU3M0NkVLa2VSNXNXTjg?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261021-04",
+   "title": "英警察がイランの諜報活動に関与の男らを再逮捕",
+   "firstSeen": "2026-10-21",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-21": 16
+   },
+   "peak": 16,
+   "worldScore": 16,
+   "worldCoverage": "6/18",
+   "jpScore": 8,
+   "jpCoverage": "1/6",
+   "gap": 8,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "UK police rearrest two men on suspicion of assisting Iran’s intelligence",
+     "desc": "Duo was first arrested for suspected link to incident at US-run airbase used for striking Iran during this year&#039;s war.",
+     "url": "https://www.aljazeera.com/news/2026/10/20/uk-police-re-arrest-two-men-on-suspicion-of-assisting-iranian-intelligence?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.45,
+     "title": "The British Police Rearrest Two in Connection With Alleged Terror Plot",
+     "desc": "The counterterrorism police investigating a threat against an English air base used by U.S. bombers said the two men were working on behalf of Iran.",
+     "url": "https://www.nytimes.com/2026/10/20/world/europe/raf-fairfield-arrests-iran.html",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "UK rearrests duo on suspicion of aiding Iran in alleged plot at US-run airbase",
+     "desc": "British police said on Tuesday that they had rearrested two men on suspicion of assisting Iran’s intelligence service in a suspected plot at a US-run airbase in England last month. Counter Terrorism Policing said the men, a 24-year-old British national and a 25-year-old dual UK-Iranian national, were arrested under the National Security Act. One of the suspects was first arrested on September 27, when the suspected plot against the US-run base at RAF Fairford took place. The airbase in western...",
+     "url": "https://www.scmp.com/news/world/europe/article/3371559/uk-rearrests-duo-suspicion-aiding-iran-alleged-plot-us-run-airbase",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "2 men rearrested for alleged spying for Iran in U.K. air base incident",
+     "desc": "Police said a 24-year-old British national and a 25-year-old dual U.K.-Iranian national were arrested under the National Security Act.",
+     "url": "https://www.cbsnews.com/news/raf-fairford-security-incident-arrests-suspected-spying-iran/",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Two men re-arrested for suspected spying for Iran in airbase scare: UK police",
+     "desc": "The US withdrew all its B-1 bombers from Britain's RAF Fairford over a Sept 27 Iran-related security scare.",
+     "url": "https://www.straitstimes.com/world/europe/uk-police-arrest-pair-on-suspicion-of-helping-iranian-intelligence-over-raf-fairford-incident",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "UK police arrest pair on suspicion of helping Iranian intelligence over RAF Fairford incident - Reuters",
+     "desc": "UK police arrest pair on suspicion of helping Iranian intelligence over RAF Fairford incident Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOWtHNEd1UkNWcGVXUE1HOW96YUlFbUQtRE8xdGstc1FlMTFSR0plZjc0Z21kR3lGczUwaEprd3pUcUtvX0x1VE5Cb28xSWNOd0R2UTM1TklYUFZjZVlJalVuZjRHZ0RpZVJHYVNuREdGeHJDdU9zLTRfTnRuOHNsellBOXBhLTAwSWxMV2g2d3FTa1c1dFNUM1o2c3Q4RWo5bjNpOVN3N25MaW9KZEpHQl9KRDlydlNP?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "mainichi",
+     "name": "毎日新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "英基地付近のテロ準備、男性2人再逮捕 イラン情報機関を支援か",
+     "desc": "",
+     "url": "https://mainichi.jp/articles/20261021/k00/00m/030/002000c",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261020-06",
+   "title": "スーダンでドローン攻撃、多数の死傷者",
+   "firstSeen": "2026-10-20",
+   "daysSeen": 2,
+   "history": {
+    "2026-10-20": 11,
+    "2026-10-21": 15
+   },
+   "peak": 15,
+   "worldScore": 15,
+   "worldCoverage": "4/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 15,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.77,
+     "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
+     "desc": "A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted.",
+     "url": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.91,
+     "title": "Drone attack near market kills 80 in Sudan",
+     "desc": "Witness says drone struck twice at transport hub in al-Dibab, in one of deadliest single attacks of war A drone strike near a market in southern Sudan on Sunday evening killed 80 people, mostly commuters catching rides home. Ahmed Wadi, a witness, said the attack in the town of al-Dibab in West Kordofan state left “50 bodies who I helped bury, one of them my own brother Mohamed”. Continue reading...",
+     "url": "https://www.theguardian.com/world/2026/oct/19/drone-attack-market-al-dibab-west-kordofan-sudan",
+     "via": null
+    },
+    {
+     "id": "dw",
+     "name": "Deutsche Welle",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Sudan drone strike kills around 150 in Abyei market",
+     "desc": "A drone strike hit a market in the Abyei border region disputed by Sudan and South Sudan and killed dozens. The drone caused a large fire when it hit a fuel depot. South Sudanese officials blamed Sudan's military.",
+     "url": "https://www.dw.com/en/sudan-drone-strike-kills-around-150-in-abyei-market/a-79716587?maca=en-rss-en-world-4025-rdf",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "More than 150 killed in Sudan drone strike on disputed Abyei border region",
+     "desc": "At least 153 people have been killed in a drone strike on a market in the disputed Abyei region, where a fire at a nearby fuel depot continued to burn on Tuesday. Local officials blamed Sudan’s military for Monday’s attack, which also left dozens injured.",
+     "url": "https://www.france24.com/en/africa/20261020-more-than-150-killed-sudan-drone-strike-disputed-abyei-border-region",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261021-03",
+   "title": "英国がサウジ防衛へタイフーン戦闘機を派遣",
+   "firstSeen": "2026-10-21",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-21": 15
+   },
+   "peak": 15,
+   "worldScore": 15,
+   "worldCoverage": "5/18",
+   "jpScore": 16,
+   "jpCoverage": "1/6",
+   "gap": -1,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.36,
+     "title": "UK to deploy fighter jets to protect Saudi Arabia from Houthi attacks",
+     "desc": "RAF Typhoon fighters to fly defensive missions over cities and infrastructure in extension of UK support for Riyadh RAF Typhoon fighters are to be used in efforts to protect Saudi Arabia from attack by Yemen’s Houthis, flying protective missions over the country’s cities and critical infrastructure as western allies increase their intervention in the escalating conflict. The operation – the most significant military mission signed off by Andy Burnham as prime minister – will involve RAF pilots attempting to shoot down Houthi missiles and drones, which attacked Saudi airports and oil facilities",
+     "url": "https://www.theguardian.com/uk-news/2026/oct/20/uk-raf-typhoon-fighters-saudi-arabia-houthi-attacks",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "UK to deploy fighter jets to defend Saudi Arabia",
+     "desc": "British Typhoon jets will carry out defensive missions to protect Saudi Arabia from escalating Houthi attacks.",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/aje-onl-nf_uk-to-deploy-fighter-jets-to-defend-saudi-arabia_1-201026?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.82,
+     "title": "UK to Send Fighter Jets to Help Defend Saudi Arabia From Houthi Attacks",
+     "desc": "R.A.F. Typhoon fighter jets will be deployed to protect infrastructure in Saudi Arabia, Britain said, after a spike in attacks by the Iran-backed Houthi militia.",
+     "url": "https://www.nytimes.com/2026/10/20/world/europe/uk-saudi-arabia-houthis-raf-typhoon-fighter-jets.html",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "UK Typhoon fighter jets to fly 'defensive' missions to help protect Saudi Arabia from Houthi attacks",
+     "desc": "British Defence Secretary Wes Streeting branded Houthi attacks on Saudi Arabia as \"absolutely despicable and dangerous for the region.\"",
+     "url": "https://www.euronews.com/2026/10/20/uk-typhoon-fighter-jets-to-fly-defensive-missions-to-help-protect-saudi-arabia-from-houthi",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "UK expands military support for Saudi Arabia against Houthis with ‘defensive’ air patrols - AP News",
+     "desc": "UK expands military support for Saudi Arabia against Houthis with ‘defensive’ air patrols AP News",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdFpJQjVaX2pPYVMybXM3OEQ4ZzRzNEdpc2FVMldTRTVWaVFNQXZQVkZrRmdLNVpKc1RVeS1sbGIzSDJlNE12QkRMR2UxcC1PZWIwcnJXY0Z4T0hEQkxmWnBrNHpkSFZxaWgzZU5pRGM1cGJVUWRISHFraGJaUFFzRnlHYko4UlJpMmFvMVZLc1lFdw?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.94,
+     "title": "英、サウジ防衛にタイフーン戦闘機を派遣へ 激しさを増すフーシの攻撃に対抗(CNN.co.jp)",
+     "desc": "（CNN） 英国は20日、イランを後ろ盾とするイエメンの反政府武装組織フーシの攻撃からサウジアラビアを守るため、戦闘機を派遣する方針を明らかにした。【映像】最新鋭の米空母で火災、甚大な被害が映像で明ら",
+     "url": "https://news.yahoo.co.jp/articles/ed5893a88d640c85f0e47ef27fc84c4a0eba8dad?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261021-01",
+   "title": "スペースXとテスラ、統合を検討",
+   "firstSeen": "2026-10-21",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-21": 14
+   },
+   "peak": 14,
+   "worldScore": 14,
+   "worldCoverage": "4/18",
+   "jpScore": 38,
+   "jpCoverage": "4/6",
+   "gap": -24,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.94,
+     "title": "Elon Musk says Tesla-SpaceX merger being considered",
+     "desc": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
+     "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Musk says SpaceX and Tesla are exploring blockbuster merger deal",
+     "desc": "Elon Musk said SpaceX and Tesla Inc have formed special committees to explore a potential merger, a preliminary step towards what would rank as the largest corporate tie-up of all time. “I do think there’s a lot of merit to combining the companies,” Musk, the chief executive officer of both companies, said on Tuesday on SpaceX’s earnings webcast. “There’s a lot to be gained from cooperating on developing superintelligence software.” Musk said he is not taking part in the committee discussions...",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3371564/musk-says-spacex-and-tesla-are-exploring-blockbuster-merger-deal",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Musk calls Tesla-SpaceX merger a 'good idea' as SpaceX posts first profit as a public company - Reuters",
+     "desc": "Musk calls Tesla-SpaceX merger a 'good idea' as SpaceX posts first profit as a public company Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONHZoMzBtaGg1TmlMN19NRUEzM1lOZkpYb1ZXeWlLTnR4SkxObm1xbDBlN0RsQ2huaHBCMzRxU0VLb3ZPSS1ZeEdhampNY3VNclpoU2xGOWpoQjNfVzVDTHpqOVVRd0pZcVY3eGlpVkxjWTRrMGh4aWtCbVJVVnZ1Nnd1RkU1dFNtcUZCUnVxX1pRWXRTd09QUnpodWJSeEhpS3BKcmxsQkM1aFA1eExGSkNMMVIteV93OXZWa0Q2Vl9yUQ?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Musk Says SpaceX and Tesla Have Begun Exploring a Merger - Bloomberg.com",
+     "desc": "Musk Says SpaceX and Tesla Have Begun Exploring a Merger Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRHNVazdNMUxLOVRTWXdZSW0xVjNCQUtRZHdMckNxbktTTFNIN3Q0Wlh4OU52ai1TUHBjdjJkWjFQRjhwNkFoQTVYVV9ZYVJzbHZOY3RyR3FvS3V1c1ZfNTJZQW1CelNVY1UycFRtX0tmRDlfNnFMZzZ5dFVMZzNscDdjRzlMYXdtRkhLM2JKWk1yRjhPZUVHaGpsejF3WlcyUFFfNXBuWlc0MTVmZnJRUjEzWUE?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "mainichi",
+     "name": "毎日新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "スペースXとテスラ経営統合を検討 マスク氏が委員会設置を表明",
+     "desc": "",
+     "url": "https://mainichi.jp/articles/20261021/k00/00m/030/008000c",
+     "via": null
+    },
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "スペースＸとテスラ、統合議論 マスク氏「良いアイデア」",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026102100209&g=int&m=rss",
+     "via": null
+    },
+    {
+     "id": "yahoo",
+     "name": "Yahoo!ニュース主要",
+     "region": "jp",
+     "weight": 0.8,
+     "title": "SpaceXとテスラ 経営統合を検討",
+     "desc": "",
+     "url": "https://news.yahoo.co.jp/pickup/6599543?source=rss",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "スペースXとテスラ統合協議 イーロン・マスク氏が委員会設置を表明 - 日本経済新聞",
+     "desc": "スペースXとテスラ統合協議 イーロン・マスク氏が委員会設置を表明 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54MEFBelBsbEMwS2gwd3o2eWpRVW5acy1EWWUyZUhNNnNOdXZkczJER28xSjdxTi11ZW9reUZEQkxnby0tNnI1bkhpVTNDc2ZsYTdraHdsNzAzMEVrcVBCVm1mV05iRk41TkRaRw?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261014-23",
+   "title": "ウクライナへの米情報共有が再開",
+   "firstSeen": "2026-10-14",
+   "daysSeen": 3,
+   "history": {
+    "2026-10-14": 6,
+    "2026-10-19": 12,
+    "2026-10-21": 14
+   },
+   "peak": 14,
+   "worldScore": 14,
+   "worldCoverage": "4/18",
+   "jpScore": 7,
+   "jpCoverage": "1/6",
+   "gap": 7,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 1,
+     "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
+     "desc": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington.",
+     "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.48,
+     "title": "US has resumed sharing intelligence with Ukraine about Russian strikes, says Zelenskyy",
+     "desc": "Advance warnings of missile attacks were seemingly suspended last week by the White House, but Ukraine’s president says: ‘Now it works’ The US has resumed sharing intelligence with Kyiv about Russian missile strikes, Volodymyr Zelenskyy said on Tuesday after a meeting with the US envoy Steve Witkoff in Norway. He said Ukraine was again receiving advance warnings of ballistic missile attacks, which were seemingly suspended last week by the White House. “Now it works. It’s great,” he said, adding that the US move would save lives. Continue reading...",
+     "url": "https://www.theguardian.com/world/2026/oct/20/us-has-resumed-sharing-intelligence-with-ukraine-about-russian-strikes-says-zelenskyy",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Zelensky hails resumption of US advance warning of strikes on Ukraine",
+     "desc": "",
+     "url": "https://www.straitstimes.com/world/europe/zelensky-hails-resumption-of-us-advance-warning-of-strikes-on-ukraine",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Zelenskyy says early warning system for Russian missile attacks resumes following call with Rubio - AP News",
+     "desc": "Zelenskyy says early warning system for Russian missile attacks resumes following call with Rubio AP News",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZjBGZWQwSjlYd2Zrc1lncjhvcG5uOGpZOTI2aVhhVHY4YzhDTlNRRWJWTnIzdnk4V1FfVUpTbzNkX3gtOGdwU3VNTTZCdFN3Z055akhaMjNKSDVqY3hXNzM4bmpaU0lQQ0dwTlhIQ0prUUVyRkNtbzhyN3BDOWlIWk02YUItdkI4Nnc3cTJZancxRTk3b2ZSWjd6TlMyN21IUWtXWFUtRjBmaUItQjRGZA?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.39,
+     "title": "ゼレンスキー氏「米国、ロシアの攻撃情報提供を再開」 米特使と会談 米露も21日協議へ(産経新聞)",
+     "desc": "ロシアの侵略を受けるウクライナのゼレンスキー大統領は20日、両国の和平仲介を目指すトランプ米政権のウィットコフ和平交渉担当特使と北欧ノルウェーで会談した。ゼレンスキー氏は会談後、米国がロシアの長距離攻",
+     "url": "https://news.yahoo.co.jp/articles/9339e62d835194f517df909a1ee87be9fbcb1e8b?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261020-04",
+   "title": "イエメンでフーシ派攻撃、多数の死傷者",
+   "firstSeen": "2026-10-20",
+   "daysSeen": 2,
+   "history": {
+    "2026-10-20": 15,
+    "2026-10-21": 12
+   },
+   "peak": 15,
+   "worldScore": 12,
+   "worldCoverage": "4/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 12,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.45,
+     "title": "Houthi missile strike on Yemen camp kills 73 security recruits, local authorities say",
+     "desc": "Three missiles hit a camp in government-controlled Shabwa province on Monday that was being used as a training centre, Yemen's army says.",
+     "url": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.3,
+     "title": "Houthi attack kills 53 in biggest single loss of life since Yemen civil war reignited",
+     "desc": "More than 200 mostly young people said to be injured after ballistic missile attack on training camp for government forces At least 53 people have been killed in a Houthi ballistic missile attack on a training camp for Yemeni government security forces, making it the largest single loss of life since the country’s civil war reignited in September. The attack on al-Alam camp in the southern Shabwa province was said to have injured more than 200 others, mostly young recruits, and was described as a disaster by the country’s UN-recognised government. The injured were taken from the police and arm",
+     "url": "https://www.theguardian.com/world/2026/oct/19/houthi-attack-yemen-al-alam-camp-biggest-single-loss-of-life-civil-war",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.91,
+     "title": "Yemeni City of Taiz Running Out of Essentials as Houthis Close in",
+     "desc": "The Iranian-backed Houthi militia has cut road access to Taiz, one of Yemen’s largest cities, besieging it. Officials there warn of an impending humanitarian disaster.",
+     "url": "https://www.nytimes.com/2026/10/20/world/middleeast/yemen-taiz-houthi-siege.html",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Houthis attack besieged city in Yemen that UN says is at ‘grave risk’ - AP News",
+     "desc": "Houthis attack besieged city in Yemen that UN says is at ‘grave risk’ AP News",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVWhUMVdSQUxmTWt2cWRQZndBeHU4MnlxMkJ1d3dhb2U3LUctcUNzLXR0OGJ6STFtalFnS3JhRTc4bE9PMXI2emZoakN6LWxLc3k5Z2NvRzV2amItdmhkek01ZDlBMWJDZ01iUWZGNjdnbjdIR3JHOXc5LTVnR3hlU3c2NU1SVEIxSW5UY0JQRWRUdw?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261019-17",
+   "title": "日本が火星の月を調査する探査機を打ち上げ",
+   "firstSeen": "2026-10-19",
+   "daysSeen": 3,
+   "history": {
+    "2026-10-19": 6,
+    "2026-10-20": 11,
+    "2026-10-21": 12
+   },
+   "peak": 12,
+   "worldScore": 12,
+   "worldCoverage": "4/18",
+   "jpScore": 8,
+   "jpCoverage": "1/6",
+   "gap": 4,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.62,
+     "title": "Mission blasts off for Mars to grab a piece of its moon",
+     "desc": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth.",
+     "url": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 0.53,
+     "title": "Japan launches mission to Mars to bring back samples from its moon",
+     "desc": "Japan launched a spacecraft towards Mars in a ground-breaking mission to bring back samples from the largest of the planet's two moons.",
+     "url": "https://news.sky.com/story/japan-launches-mission-to-mars-to-bring-back-samples-from-one-of-its-moons-13601139",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Japan launches ambitious robotic mission to Martian moon Phobos",
+     "desc": "Soil samples collected by the MMX probe will shed light on the mysterious origin of the red planet&#039;s two moons, Phobos and Deimos.",
+     "url": "https://www.cbsnews.com/news/japan-launches-ambitious-robotic-mission-to-land-on-martian-moon-phobos-return-samples-to-earth/",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Japan launches spacecraft to mysterious moons of Mars in a bold mission to bring home soil samples - AP News",
+     "desc": "Japan launches spacecraft to mysterious moons of Mars in a bold mission to bring home soil samples AP News",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbThaWjFtd3FZVjVKb2hIcEpITUZlclloelM2TE51a094eTlCQlF4RDllSzM5bjNmejZuNGxZUnVMNjhuMFVEXzFITkxNblNQaUV2M3F6NmJOWnE2NWlZcUVYNU11dEFmS0l1LTFjUi1sR09ydHVsY0YyZkxlamk2OHhOTEo5QURpNGpr?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "Ｈ３能力「すべて出し切る」 初の惑星探査機で―ＭＭＸ",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026102000635&g=soc&m=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261021-02",
+   "title": "NATO、黒海での無人機対策や警戒を強化",
+   "firstSeen": "2026-10-21",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-21": 11
+   },
+   "peak": 11,
+   "worldScore": 11,
+   "worldCoverage": "4/18",
+   "jpScore": 8,
+   "jpCoverage": "1/6",
+   "gap": 3,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.45,
+     "title": "Nato increases Black Sea deployment amid escalating deadly Russian attacks",
+     "desc": "Mounting anxiety as Russia’s war on Ukraine reaches Nato’s borders with targeting of vessels transporting agricultural cargo Nato is deploying additional military assets to the Black Sea amid the recent deadly escalation of Russian attacks on merchant shipping, as five more vessels were attacked on Tuesday. Russia’s military said it ⁠struck ​three cargo vessels in Ukraine’s ⁠port of Reni and two ⁠other cargo vessels en ​route ‌to ‌Odesa. Continue reading...",
+     "url": "https://www.theguardian.com/world/2026/oct/20/nato-black-sea-deployment-escalating-russian-attacks-ships",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "NATO to send additional patrol planes to Black Sea after drone attacks",
+     "desc": "The alliance announces the deployment after a series of deadly drone attacks in the region.",
+     "url": "https://www.aljazeera.com/news/2026/10/20/nato-to-send-additional-patrol-planes-to-black-sea-after-drone-attacks?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "NATO to send ‘additional assets’ to Black Sea after drone attacks off Bulgaria, Romania",
+     "desc": "A series of deadly drone attacks on shipping in the region are apparently linked to Russia's war in Ukraine.",
+     "url": "https://www.straitstimes.com/world/europe/nato-to-send-planes-and-drones-to-black-sea-after-attacks-on-shipping",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "NATO to send planes and drones to Black Sea after attacks on shipping - Reuters",
+     "desc": "NATO to send planes and drones to Black Sea after attacks on shipping Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSTdZakRjOTJLeFp1bjdZQ0p1cGJwSjZEYWwtTG5jZXJ4bnloM0J0bVJROTRKM0xCSENRY1dzbGlfeW1renV1SmpfOS1CYVVMWEU1UWdUQS01SkZCZndJcHpFM240c3VReU95Rkw2Z0Q0R1E0Vlo3cHpGMVcxVVVMQW1yUU5YRUYzQTE5TkhhcDUzZ2FpVnlYMExxOW1XbHJUUjJmMVRLV1p6QVdGb2VKRFY2cmRMMEw5NHQw?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.45,
+     "title": "NATO、黒海で無人機対策強化 船舶への相次ぐ攻撃受け(共同通信)",
+     "desc": "【ブリュッセル共同】北大西洋条約機構（NATO）報道官は20日、黒海で無人機による船舶への攻撃や沿岸の加盟国領空への侵入が相次いでいることを受け、ロシアに近接する地域で態勢を強化したと明らかにした。",
+     "url": "https://news.yahoo.co.jp/articles/4b072428d3f2d8353ec6812b88efeaf334d47a2b?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261021-05",
+   "title": "ボーイングの新型機「737 MAX 10」が認証取得",
+   "firstSeen": "2026-10-21",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-21": 11
+   },
+   "peak": 11,
+   "worldScore": 11,
+   "worldCoverage": "4/18",
+   "jpScore": 8,
+   "jpCoverage": "1/6",
+   "gap": 3,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US regulators certify Boeing 737 Max 10 after years of delay",
+     "desc": "The US Federal Aviation Administration has given final approval for the 737-10, the largest model in Boeing's best-selling Max family. The certification comes more than five years after the narrowbody jet's maiden flight, and marks an important step for the planemaker that's been trying to regain ground following a safety and management crisis. Plus, the French government has offered all businesses affected by the recent riots a interest-free loan of up to 50,000 euros.",
+     "url": "https://www.france24.com/en/tv-shows/business/20261020-us-regulators-certify-boeing-737-max-10-after-years-of-delay",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "FAA certifies Boeing's 737 MAX 10, clearing way for deliveries - Reuters",
+     "desc": "FAA certifies Boeing's 737 MAX 10, clearing way for deliveries Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYzBIbDI0eW5lNzFQYWJEODBXZkQ3MXpXZlJQdVY5X3Z6TGdwQjE1S0NnS0JFQ1RZUkZldjFUbjdndmpEejdtZkxtSDhHZi1VMTc2SGppcWMtTlE5U1haRlJXSEdrT2Rsc28zVGdMQzg5ZUJicW1IY3VwRTdqaC1yeEFqNDBSVkJiNS1wZjFtOUpvSi1ENlRhRncxMDI4bzZlTzJPYlFsNjZnYWx5U3JXRzd1M3ozVEo3RUtJ?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "FAA clears the way for airlines to put Boeing’s long-delayed 737 Max 10 into service - AP News",
+     "desc": "FAA clears the way for airlines to put Boeing’s long-delayed 737 Max 10 into service AP News",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdWh5TEc3UFM1REZCazFzeGJpZTFXblJEdE9wWWFrU2RzbnFKVnRYQTV6MS10V21tVElVaW9jLTlMc3d2YnRSU0drVlR0RWxvam1SUUdHWGRaMG01OUZaM2RFd2lsZmFnc2NLVHBwbm5KOVhSa3ZiZjJfd2NycXRZdFF4SExsWXFlcGQ2NUdCMTIzMmlndlpISHd2RElFVk1nelNV?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Boeing Wins Approval for Largest Variant of Its 737 Max Jet - Bloomberg.com",
+     "desc": "Boeing Wins Approval for Largest Variant of Its 737 Max Jet Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNN2Y4NUMycnVjLVduSVppUHpWYU05eE91SFpDZ3JacDFKN2Fxb2I0RXpZbEp6NkNFX2lXa0gxWmFhWWg4ZXU5LUNSWHozclI1Zzk2eGZkSjVWOXhYd2E5czQzYUpqMktIamROUV9weXJVNmNWamNkbFhmNlkydTl0RUQ4bW1kOGxZcnUzMnFmWldVR250VXdwR0dhSHdjY0xCRkxQQVZqUHNWbXQ3Q2RuY1JhQUF5QQ?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "ボーイング737MAX新型、7年遅れで市場へ 日本はスカイマーク採用 - 日本経済新聞",
+     "desc": "ボーイング737MAX新型、7年遅れで市場へ 日本はスカイマーク採用 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0bUJLQnFZVGtqX29jUWdfOFgtSUlzZzBGZEtJMll1LVpPVEdNSzhUUTdmNGlUOURndmhpenE2ZnNLdUhSU2hFaG1WTWIxaTNHMlhsUUlDRlhYaUtoUjVxdzB3b2o0ZndFQjVINA?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261015-08",
+   "title": "ネットフリックスが弱い売上見通しを発表",
+   "firstSeen": "2026-10-15",
+   "daysSeen": 2,
+   "history": {
+    "2026-10-15": 13,
+    "2026-10-21": 6
+   },
+   "peak": 13,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 8,
+   "jpCoverage": "1/6",
+   "gap": -2,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Netflix co-CEO Sarandos says 'we could do better' after weak forecast - Reuters",
+     "desc": "Netflix co-CEO Sarandos says 'we could do better' after weak forecast Reuters",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQmJuWl84Zk9TanlERndybWRsaTVoaF95bUgzbldjVzJKNzcwZEFEUFh4Z0xVa2o0aGFSSEVJT3d2WENIeURzMWV3VUFTY2NxRWF2WHBjTVRjZURraFVHMkZ6M0pkOXJOb01FYW5OWTdkcmM3WkVFcXR5UC1QbDVqOFRIYWpsc1VxaUdhMENKa0I1S1ZWSk1BZ3BrYmRYVVQ5Q1FpRHBlY1NZbndHMVZnYjBfRnQ3cGktWkcwZ28tVDVQSFNqR1dZaFJGSTJ0b0U?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Netflix Sales Growth to Decline for Fourth Quarter in a Row - Bloomberg.com",
+     "desc": "Netflix Sales Growth to Decline for Fourth Quarter in a Row Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdHFqMFNFbjJDMVBoUURnSjJjeUNaYmtTMUpKd3ZsMzNPZDNfV19XSzhrZWhwN0ZHYUVpVTVuQUtnNWpJT2oxdTA5MDhxcjg1RW9HaVZ1U2ZoNVFWT21PaWhSZW5KalRNTEJLYUNRa1BPSVViX2RuamZuNS1fbmtDelNBWm9FRXlhTkdiTFlFYzNkRFZEcWVKWk5Sb1ptNVlZLWwteGk0R2Q2QllQZnd6YUZFSHg?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "決算:Netflixが4四半期連続で成長鈍化 株価6%安、10~12月売上高12％増 - 日本経済新聞",
+     "desc": "決算:Netflixが4四半期連続で成長鈍化 株価6%安、10~12月売上高12％増 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DakpZMUctdG8wcWRMRk05UURETlRqUUxnLVN6czRMamdwd05adEN4WGZjSGh0SWhLQWhEUVJUMzNZQTdaaHY4ODlxd05mWmQ4UzN6M2g2VTViS1ZvTjQyMVFZLXdHYWdZRHVTag?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261021-06",
+   "title": "ヘンリー英王子、王室との和解を希望",
+   "firstSeen": "2026-10-21",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-21": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 8,
+   "jpCoverage": "1/6",
+   "gap": -2,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "toi",
+     "name": "Times of India",
+     "region": "world",
+     "weight": 0.5,
+     "title": "'Enough drama': Prince Harry says he wants to reconcile with family after years of rift",
+     "desc": "Prince Harry recently opened up about the need for reconciliation with his family, sharing his personal experiences that resonate with many who struggle with familial conflicts. He conveyed his aspirations for nurturing better connections with his father, King Charles III, and brother, Prince William. Harry also reflected on the joyous moments of his children attending a British school, honoring his mother's legacy and embracing a new chapter of healing.",
+     "url": "https://timesofindia.indiatimes.com/world/uk/enough-drama-in-the-world-prince-harry-says-he-wants-to-reconcile-with-family-after-years-of-rift/articleshow/135072445.cms",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Prince Harry says he wants to reconcile with family - Reuters",
+     "desc": "Prince Harry says he wants to reconcile with family Reuters",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd09rVTlScGhTd2JOYXp6QUsyVjhkVF9NMmlOdmszZnFXckZfSGZhdm8yOEh4TS1ORFRXQV9yZlRUc2tqZ2VaM2M0QURVeUNHNnd3bVVxZ1U3MXk1SFBPZGNueXZ6RWVJSmdjYnJRSHR6S1R0bTVxMzNNTDVZYTFIU0t2S1ZHYWtPTm9NenhFaHRSOXJpYmdqWQ?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "mainichi",
+     "name": "毎日新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "ヘンリー英王子、王室との「和解」を希望 帰国後初 米誌に吐露",
+     "desc": "",
+     "url": "https://mainichi.jp/articles/20261021/k00/00m/030/003000c",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261021-07",
+   "title": "ニデック調査委、旧役員らに賠償責任を認定",
+   "firstSeen": "2026-10-21",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-21": 0
+   },
+   "peak": 0,
+   "worldScore": 0,
+   "worldCoverage": "0/18",
+   "jpScore": 17,
+   "jpCoverage": "2/6",
+   "gap": -17,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "asahi",
+     "name": "朝日新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "ニデック旧役員9人に賠償責任、損害276億円 不正会計で調査委",
+     "desc": "",
+     "url": "http://www.asahi.com/articles/ASVBN42RTVBNPLFA004M.html?ref=rss",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "ニデック調査委、歴代5社長に損失先送りの責任認定 損害は276億円 - 日本経済新聞",
+     "desc": "ニデック調査委、歴代5社長に損失先送りの責任認定 損害は276億円 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHeVZheFBicDdDRUlXUldGbWoxMU9fdFRRd1hFR1RXR3J4czFRRVFqdlJTU0xqd0hrQ09MTjdGSmlyWGo0WXRlSENlR1ZCT2I1NXJsbG94Tm8taTc5ejVYTDRlZ1haaGhhcjlwQw?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  }
+ ]
+}
