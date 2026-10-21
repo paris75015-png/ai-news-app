@@ -1,0 +1,480 @@
+{
+  "date": "2026-10-21",
+  "stream": "ai",
+  "title": "AI日報",
+  "generatedAt": "2026-10-21T13:17:41.912Z",
+  "model": "gemini-3.5-flash-lite / openai/gpt-oss-120b",
+  "editorialVersion": 12,
+  "categories": [
+    {
+      "id": "ai",
+      "label": "AI",
+      "desc": "AIモデル・AIサービス・AI企業の動向"
+    },
+    {
+      "id": "it",
+      "label": "IT",
+      "desc": "ソフトウェア開発・ネットサービス・セキュリティ・デバイス・通信（AIが主題のものは除く）"
+    },
+    {
+      "id": "science",
+      "label": "科学",
+      "desc": "研究成果・医療・宇宙・環境・エネルギー技術"
+    }
+  ],
+  "articles": [
+    {
+      "id": "326c051d74a6",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002447/",
+      "headline": "OpenAI、COBOLなど低リソース言語のコーディング能力を大幅向上させ正解率最大97.9％を達成",
+      "originalTitle": "OpenAI、「COBOL」など学習リソースの少ない言語でのコーディング能力が大幅向上 COBOL移行の正解率は最大97.9％に",
+      "outlet": "ITmedia AI+",
+      "region": "domestic",
+      "category": "ai",
+      "score": 92,
+      "tier": "must",
+      "pubDate": "2026-10-21T01:35:42.000Z",
+      "body": null,
+      "summary": "米OpenAIは10月19日、コードやドキュメントが少ないプログラミング言語向けに最新モデルの開発・移行能力が大幅に向上したと発表した。対象言語はCOBOL、Fortran、Visual Basicなどで、これらはPythonやJavaScriptに比べ学習データが乏しいが、金融システムや天気予報、原子炉安全解析など重要インフラを支えている。開発者や企業から、従来のコーディングモデルがこれらの言語を苦手としているとのフィードバックがあったことが本取り組みのきっかけとなった。\n\n評価の一つ「MultiLangBench（20言語でSQLite互換データベースエンジンをゼロから構築させるベンチマーク）」では、推論量最大設定のGPT-6 Astraが平均合格率87.4％を記録し、従来モデルGPT-5.6 Solの26.8％から大幅に伸びた。20言語中19言語で合格率が83％を超え、COBOLは72.1％（GPT-5.6 Solは10.9％）で依然高難度であるが、前モデルを大きく上回った。低コストモデルGPT-6 Lunaは平均40.3％で、APIコスト（モデル呼び出し1回あたりの利用料）は0.77ドルと、GPT-5.6 Solの3.48ドルに比べ約78％低減した。\n\n第二の評価では、COBOLプログラムをC++、Java、Kotlin、Python、Rustへ移行させ、元と同一動作を維持できるかを検証した。推論量低設定のGPT-6.1 Solは正解率86.6％を達成し、同条件のGPT-5.6 Solの5.4％を大きく上回った。推論量を増やすと正解率は97.9％に達し、APIコストはGPT-5.6 Solの61％に抑えられた。OpenAIは本番環境での適用には専門家によるレビューと業務ルールに沿ったテストが必要とし、COBOLは1959年に開発され現在も金融機関や政府機関で広く使用されていることを付記した。",
+      "sources": [
+        {
+          "outlet": "ITmedia AI+",
+          "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002447/",
+          "date": "2026-10-21",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "openai/gpt-oss-120b"
+    },
+    {
+      "id": "4acfb5771661",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002462/",
+      "headline": "PHPの重大な脆弱性に対処、GMO Flatt Securityがパッチ公開前の事前対策を公表",
+      "originalTitle": "PHP緊急脆弱性「php2shell」パッチ今夜11時公開、その前にできる対策は……GMO系セキュリティ企業が提唱【更新】",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "it",
+      "score": 90,
+      "tier": "must",
+      "pubDate": "2026-10-21T09:51:40.000Z",
+      "body": null,
+      "summary": "GMOグループのサイバーセキュリティ企業であるGMO Flatt Securityは10月21日、PHPの重大な脆弱性2件について同日午後11時に予定されている修正パッチ公開前に取れる対策を公式ブログで公開した。PHP開発プロジェクトチームが21日未明に公開したもので、セキュリティ研究者などからは「php2shell」と呼ばれ、外部から任意のコードを実行できるRCE（Remote Code Executionの略で、外部から任意のコードを実行できる仕組み）の脆弱性とみられている。\n\n同社は研究者の投稿内容などから、今回の脆弱性がファイルのアップロードの進ちょくをセッションに記録する機能「Session Upload Progress」に関わるメモリ破壊系のバグであると推定している。この機能を無効化する設定をしておくことは攻撃の緩和につながる可能性があるものの、攻撃自体は完全に回避できないため、根本的な解決にはパッチの即時適用が必要であるとしている。\n\nこれを受けて同社は、パッチ公開前に行うべき対策として、PHPを利用している自社システムの洗い出しや、該当サーバのアップデート手順・動作検証手順の確認、サーバ内のデータの最小化や権限の最小化などを挙げている。これらの事前対応により、攻撃の緩和や盗まれ得るデータの最小化、横展開リスクの低減などに寄与するとみている。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002462/",
+          "date": "2026-10-21",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash-lite"
+    },
+    {
+      "id": "2001ddba75a9",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+      "headline": "eMudhraの中間CA鍵が単一バイトで脆弱、数ミリ秒で復元可能に",
+      "originalTitle": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+      "outlet": "scotthelme.co.uk",
+      "region": "overseas",
+      "category": "it",
+      "score": 88,
+      "tier": "must",
+      "pubDate": "2026-10-21T09:08:08.000Z",
+      "body": null,
+      "summary": "2023年10月17日、セキュリティ研究者がApple、Google、Microsoft、Mozilla、eMudhraに対し、eMudhraが発行した8つの中間証明書のプライベートキーが漏洩していると報告した。Chromeは当夜にCRLSetで該当証明書をブロックし、Mozillaは数時間後にOneCRLで同様に遮断、10月20日にNSSアップデートでeMudhraルート証明書を除外した。Chromeはバージョン43でルートストアから削除する方針を示した。\n\nこれらのキーはP‑384楕円曲線上の秘密鍵dであるが、実際の値は「4」や「56」など1バイトの整数に過ぎなかった。本来は384ビット（約10^115通り）の乱数が必要で、逆算は実質不可能とされる。しかし1バイトであれば0〜255の256通りを順にGに掛け算すれば公開鍵と一致するか確認でき、最大でも255回の計算で復元できるため、数ミリ秒で特定可能である。研究者は全16証明書を即座に総当たりし、すべて成功した。\n\nChromeやFirefoxはCT（証明書透明性）を必須とし、該当証明書はCTに記録されていないため偽証明書がデフォルトで受け入れられることはない。一方、curlやPython、Node、Go、Java、git、各種パッケージマネージャーなどの非ブラウザTLSクライアントはローカルのCAバンドルを信頼し、デフォルトで失効確認やCT検証を行わないため、攻撃者が偽の証明書を用いてコードやアップデートを配布するリスクが残る。今回の鍵漏洩は、ブラウザ以外の広範なクライアントが依然として脆弱であることを示した。",
+      "sources": [
+        {
+          "outlet": "scotthelme.co.uk",
+          "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+          "date": "2026-10-21",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": "https://news.ycombinator.com/item?id=50177916",
+      "summarizedBy": "openai/gpt-oss-120b"
+    },
+    {
+      "id": "c81802dad7e5",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "science",
+      "url": "https://www.watch.impress.co.jp/docs/news/2149987.html",
+      "headline": "NTTが光ファイバとAIで漏水位置を特定、15分で熟練者並み精度",
+      "originalTitle": "NTT、光ファイバとAIで漏水位置を特定 15分で熟練者並み精度",
+      "outlet": "Impress Watch",
+      "region": "domestic",
+      "category": "science",
+      "score": 85,
+      "tier": "should",
+      "pubDate": "2026-10-21T05:35:00.000Z",
+      "body": null,
+      "summary": "NTTは光ファイバセンシングと人工知能（AI）を組み合わせたシステムで、福岡市管工事協同組合と共同し福岡市内の給水管に対する漏水位置特定の実証実験を実施した。実験の結果、漏水位置の水平誤差は75センチメートル以内、正解率は88％に達した。\n\n従来の漏水調査は作業者が耳で聞く音を基に位置を推定し、熟練に数年を要した。 本システムは誤差80センチメートル以内で正解率80％以上という基準を上回り、経験の浅い作業者でも測定からAI解析まで約15分で漏水位置を自動的に特定できた。\n\n実証では光ファイバを平面上に高密度で配置し、給水管直上の路上に敷設して漏水に伴う微弱な振動を5分間測定した。AIは周囲の雑音から漏水振動を抽出し、他地点とは異なる特徴的な振動を検出して漏水位置を推定した。対象となった給水管は地下30センチメートルから120センチメートルに埋設されたものだった。\n\nNTTは今後、AI解析の精度向上と現場での操作性改善を図り、全国の水道事業者や自治体への導入を目指すと述べた。 同社は本技術を活用したサービス化に向けた検証を継続する計画である。",
+      "sources": [
+        {
+          "outlet": "Impress Watch",
+          "url": "https://www.watch.impress.co.jp/docs/news/2149987.html",
+          "date": "2026-10-21",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "openai/gpt-oss-120b"
+    },
+    {
+      "id": "657ab0974b21",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2610/21/news067.html",
+      "headline": "日立、U字トンネル流路採用のGPU冷却プレートで消費電力約30％削減",
+      "originalTitle": "日立がGPU冷却用コールドプレート開発、独自のU字構造で消費電力を約30％削減",
+      "outlet": "ITmedia AI+",
+      "region": "domestic",
+      "category": "it",
+      "score": 78,
+      "tier": "should",
+      "pubDate": "2026-10-21T07:30:00.000Z",
+      "body": null,
+      "summary": "日立製作所は2026年10月21日、東京都千代田区での記者会見にて、生成AI普及に伴うデータセンターの電力消費増大を受け、U字トンネル流路構造を採用したGPU冷却用コールドプレートを開発したと発表した。新プレートは冷却水をGPUの発熱部へ直接供給し、Uターンさせて排出する方式である。これにより冷却設備全体の消費電力を約30％削減できる見込みである。\n\n従来のスカイブフィン構造は冷却水がGPU表面に沿って平行に流れ、流路が長くなるため水温が上昇し均一な冷却が困難だった。新技術では、入口から供給された約40℃の冷却水が数千本の微細孔を通り垂直に発熱部へ流入し、熱を奪った直後にUターンして出力チャンバーへ排出する。冷たい水と温まった水が内部で混合しないため、GPU全体で高い冷却性能を維持できる。\n\nコールドプレートの製造は金属の削り出しなど機械加工を一切行わず、エッチング処理で微細孔を開けた薄銅箔を数十枚重ね、熱圧着で接合する積層構造を採用している。銅箔の枚数や孔パターンを変えるだけで流路の深さや直径を柔軟に設計でき、冷却性能の調整が容易になる。大量生産が可能となり、低コスト化が期待できる。\n\n同社研究開発グループSustainability Innovation R&Dセンタの主管研究長である中津欣也氏は、今回の発表は研究成果としての提示であるが、実機検証を経てできるだけ早く事業化したいと述べた。データセンターの省電力化が急務であることから、早期の社会実装を目指す方針である。詳細な構造や検証結果は後日配信される続報で紹介される予定である。",
+      "sources": [
+        {
+          "outlet": "ITmedia AI+",
+          "url": "https://monoist.itmedia.co.jp/mn/articles/2610/21/news067.html",
+          "date": "2026-10-21",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "openai/gpt-oss-120b"
+    },
+    {
+      "id": "a323e283c5c7",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+      "headline": "OpenAI、AIバイオテックスタートアップOrchestra Bioを買収",
+      "originalTitle": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+      "outlet": "TechCrunch",
+      "region": "overseas",
+      "category": "ai",
+      "score": 76,
+      "tier": "should",
+      "pubDate": "2026-10-20T20:35:10.000Z",
+      "body": null,
+      "summary": "OpenAIが2026年10月20日に、創業4年のAIバイオテックソフトウェアスタートアップOrchestra Bioを買収したことを発表した。取引条件は非公開だが、Orchestraは2025年までに約2000万ドルをAndreessen Horowitz、Atria、8VCなどから調達していた。\n\nOrchestraはAIエージェント（AIが自律的にタスクを実行するプログラム）を開発し、バイオテック企業の創薬プロセスにおける財務管理や臨床試験のスケジュール調整など細部業務を支援している。これにより研究者は手作業でのデータ入力やスケジュール調整に費やす時間を削減できる。\n\nOpenAIは同社のチームと技術を、生命科学研究向けAIモデル「Rosalind（ロザリンド）」および実験計画と結果解析を支援するツール「Rosalind Workbench」に統合する。Rosalindは既にModerna（モデルナ）やNovo Nordisk（ノボノルディスク）を顧客に持ち、今回の買収は大手AIラボが医薬業界向けソフトウェアを拡大する例として位置付けられる。",
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+          "date": "2026-10-20",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "openai/gpt-oss-120b"
+    },
+    {
+      "id": "3969c37b541b",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "science",
+      "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002422/",
+      "headline": "オーストラリアの研究者、サイボーグゴキブリで薬液注射実験で成功率72％を報告",
+      "originalTitle": "人に注射を打てる「サイボーグゴキブリ」の群れが、がれき下の被災者を救助？ 実験成功率72％",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "science",
+      "score": 74,
+      "tier": "should",
+      "pubDate": "2026-10-21T03:00:00.000Z",
+      "body": null,
+      "summary": "オーストラリアのクイーンズランド大学とニューサウスウェールズ大学の研究者らは、被災者に遠隔で薬液を投与できるサイボーグ昆虫「Paraborg（パラメディック・サイボーグ昆虫）」を開発し、2026年9月号の『Advanced Science』に報告した。\n\n本体は大型ゴキブリ（Macropanesthia rhinoceros）に制御基板と自動注射機構（射出と注入の二段階で薬液を投与する仕組み）を搭載し、触角や尾角への電気刺激でオペレーターが歩行や旋回を遠隔操作できる。自動注射は、電気信号でニクロム線を加熱し釣り糸を切断、圧縮バネでシリンジを射出、内部の隔離膜が破れてクエン酸と炭酸水素カリウムが混合し発生した二酸化炭素の圧力で薬液を注入する。\n\n実験では、カメラ搭載の観測型昆虫が被災者を発見し、オペレーターが映像を基に注射型昆虫を標的へ誘導するシナリオで、チェックポイント通過からシリコーン製標的への薬液注入までを25回実施し、成功率は72％（18回）だった。成功のうち12回は頭部が標的に接触した状態で射出され、失敗5回は15〜25cm離れた位置から射出し針が刺さらず、残り2回は急旋回でシリンジが壁に当たったことが原因であった。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002422/",
+          "date": "2026-10-21",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "openai/gpt-oss-120b"
+    },
+    {
+      "id": "f9c43449a313",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002421/",
+      "headline": "AIモデルに1年間ネットショップを経営させる長期運用ベンチマークを研究チームが開発",
+      "originalTitle": "AIに200万円渡してネットショップを1年運営させてみた──Alibabaの研究者らがシミュレーション 資産14倍の例も",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "ai",
+      "score": 72,
+      "tier": "should",
+      "pubDate": "2026-10-21T03:00:00.000Z",
+      "body": null,
+      "summary": "中国のAlibabaの研究者や香港科技大学などに所属する研究者らは、AIモデルに1年間のネットショップ経営を任せ、その長期的なビジネス運用能力を検証した研究報告を発表した。研究チームは、AIモデルが長期にわたって自律的にビジネスを運営する能力を測るベンチマーク「E-Commerce Bench」を開発し、商用およびオープンウェイトを含む18種類のAIモデルを対象に実験を行った。\n\n実験では、AIモデルに10万元の初期資金を与え、18種類のツールを使いながら市場調査や価格交渉、仕入れや資金管理まで自律的に業務を回して365日後の総資産を競わせた。市場ではセールや災害で需要が変動するほか、サプライヤーの約4分の1が詐欺業者として設定されており、計画的に銀行口座へ出金しなければ資金ショートに陥る仕組みとなっている。\n\n18種類のAIモデルでテストした結果、最終資産でトップに立ったのは「GPT-5.6 Sol」で、初期資金を平均約14.3倍に増やした。また、オープンウェイトモデルで最高成績を収めたのはアリババの「Qwen3.8-Max-Preview」で、長期的な学習能力で全モデル中トップとなり最終資産を約4.2倍に増やした一方で、現行のAIモデルが抱える長期運用上の脆さから破産に追い込まれる試行も確認された。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002421/",
+          "date": "2026-10-21",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash-lite"
+    },
+    {
+      "id": "b4da12b64f8b",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2610/21/2000002475/",
+      "headline": "デジタル庁、機械可読性評価ツール「Harunobu」を公開しAI活用例も提示",
+      "originalTitle": "デジタル庁、「神Excel」対策ツールを公開 AIと組み合わせたデータ整備方法も紹介",
+      "outlet": "ITmedia AI+",
+      "region": "domestic",
+      "category": "it",
+      "score": 70,
+      "tier": "should",
+      "pubDate": "2026-10-21T09:42:13.000Z",
+      "body": null,
+      "summary": "デジタル庁は、Excel・CSV・TSV ファイルの機械可読性を 100 点満点で採点するツール「Harunobu（はるのぶ）」を GitHub 上で公開した。行政データをシステムや AI で利用しやすくするためのルールに基づき、ルールベースで判定するため生成 AI の確率的誤りを回避できる。軽量に動作し、人手によるチェックより高速にファイルを処理できることが特徴である。\n\n採点結果は JSON 形式で出力され、外部システムや生成 AI サービスと連携できる。公式ブログでは、ChatGPT を用いて採点結果を元に Excel 加工プログラムを自動生成し、データ整備を行う例が紹介されている。これにより、機械可読なデータへの変換作業を効率化できる。\n\nデジタル庁は、官民問わずセル結合などを多用した「神Excel」ファイルがデータ活用の障壁になると指摘し、Harunobu により作業時間の削減とデータ整備の支援を目指すと述べた。ツール名は江戸時代の浮世絵師・鈴木春信に由来し、複数の版を重ねて作る錦絵になぞらえている。機械可読性のルールを重ねることで、美しい機械可読データを創出するというコンセプトである。\n\nHarunobu はオープンソースとして提供され、利用者は自組織のデータパイプラインに組み込んで評価を自動化できる。今後は評価結果を活用したデータクレンジングや AI 学習データの前処理が期待される。",
+      "sources": [
+        {
+          "outlet": "ITmedia AI+",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2610/21/2000002475/",
+          "date": "2026-10-21",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "openai/gpt-oss-120b"
+    },
+    {
+      "id": "14e67313a75c",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2610/21/2000002457/",
+      "headline": "OpenAI Japan社長、dotsの日本週次利用者数が世界2位と発表",
+      "originalTitle": "OpenAIの常時稼働エージェント「dots」、日本のユーザー数は「世界2位」 「仕事の在り方を大きく変える可能性」と長?社長",
+      "outlet": "ITmedia AI+",
+      "region": "domestic",
+      "category": "ai",
+      "score": 68,
+      "tier": "should",
+      "pubDate": "2026-10-21T06:43:26.000Z",
+      "body": null,
+      "summary": "OpenAI Japanの長﨑忠雄社長は、9月29日に発表された常時稼働型AIエージェント「dots」の日本における週間アクティブユーザー数が世界2位であると、10月20日に開催された開発者向けイベント「DevDay Exchange Tokyo」で説明した。dotsはChatGPTから利用でき、利用者が目標を設定すると周辺情報に応じてタスクを自律的に実行する機能である。\n\n長﨑社長は自身でもdotsを業務に活用し、煩雑な業務からの解放を実感していると述べ、半年から数年後に生活や仕事の在り方を大きく変える可能性があると見通している。また、OpenAIのCTO of Applicationsであるヴィジャイ・ラジ氏らも同イベントでサービスの最新アップデートや活用方法を紹介した。\n\nサイバーエージェントではグループ全体で1200人以上がdotsを利用し、Slack連携や音声通話機能を用いて業務やコーディング支援に活用している。京都府の風のヘリテージの牛木裕美氏も、毎朝の予定やSlack上のやり取りを基にdotsに仕事提案を受け、ソーシャルメディア運用にも利用している。\n\n両社はセキュリティ面でも対策を講じ、サイバーエージェントは機能制限を設けて社内展開し、風のヘリテージはユーザー承認が必要な操作をルール化している。dotsは日本国内で急速に導入が進んでいる。",
+      "sources": [
+        {
+          "outlet": "ITmedia AI+",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2610/21/2000002457/",
+          "date": "2026-10-21",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "openai/gpt-oss-120b"
+    },
+    {
+      "id": "883d3f574cb7",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002472/",
+      "headline": "コドモンやシャドバなど著名ITサービスが緊急メンテへ、PHPの脆弱性影響か",
+      "originalTitle": "著名ITサービス相次いで緊急メンテへ コドモン、シャドバ、BASE、さくらのレンタルサーバなど 「PHP」脆弱性に起因か",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "it",
+      "score": 65,
+      "tier": "interest",
+      "pubDate": "2026-10-21T08:47:19.000Z",
+      "body": null,
+      "summary": "保育園向けSaaSのコドモンや、ゲームのShadowverse: Worlds Beyond、さくらのレンタルサーバといった著名サービスが、相次いで緊急メンテナンスに入ったり予告したりしている。Web開発で広く使われているプログラミング言語のPHPで緊急性の高い脆弱性が見つかった影響とみられている。\n\n他にもネットショップ作成サービスのBASEやレンタルサーバのX Server、オンライン即売会サービスのpictSQUAREなどが同様の対応を取る見込みである。このうちShadowverse: Worlds Beyondやキンブル、pictSQUARE、BASEはPHPの影響であることが各社の発表や取材で判明している。\n\n今回の脆弱性は2件あり、共通脆弱性評価システムであるCVSSのバージョン4.0でいずれも9.2と評価されている。PHPの開発プロジェクトは、日本時間の21日午後11時のセキュリティアップデート公開と同時に詳細や修正版のバージョンを明らかにする予定であり、全てのPHPユーザーに対して事前準備を呼び掛けている。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002472/",
+          "date": "2026-10-21",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash-lite"
+    },
+    {
+      "id": "b6dc13c56c43",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.watch.impress.co.jp/docs/news/2150136.html",
+      "headline": "PLAUD、タスク実行のAIエージェントを搭載したイヤフォン型のPlaud Oneを発表",
+      "originalTitle": "AI録音イヤフォン「Plaud One」 タスク実行のAIエージェント搭載",
+      "outlet": "Impress Watch",
+      "region": "domestic",
+      "category": "ai",
+      "score": 64,
+      "tier": "interest",
+      "pubDate": "2026-10-21T11:00:07.000Z",
+      "body": null,
+      "summary": "AI議事録デバイスブランドのPLAUDは、タスクをこなすAIエージェント機能を統合したイヤフォン型の新製品Plaud Oneを発表した。価格は44,000円で、数量限定で2026年中に発売され、21日から事前予約の受付を開始している。\n\nPlaud Oneのハードウェアはマイクを搭載した無線のイヤフォンと充電ケースで構成されており、ケースにはeSIMが内蔵され世界80以上の国と地域で無料の通信機能を利用できる。イヤフォン単体で最大6時間、充電ケースで最大25時間の録音が可能であり、マイクを使って声で指示するだけで業務をこなすAIエージェント機能に対応している。\n\n同時に提供が開始される新世代のAI基盤であるPlaud Intelligenceは、ユーザーの意図を汲んで資料作成や作業の実行といったタスクを完遂するのが特徴である。過去の会話やプロジェクトの情報を整理・参照するほか、PowerPointやWord文書などの作成機能や外部サービス連携機能を備えている。",
+      "sources": [
+        {
+          "outlet": "Impress Watch",
+          "url": "https://www.watch.impress.co.jp/docs/news/2150136.html",
+          "date": "2026-10-21",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash-lite"
+    },
+    {
+      "id": "16294bb8b7eb",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.watch.impress.co.jp/docs/news/2150119.html",
+      "headline": "SpaceXとテスラの合併についてマスク氏が言及、2026年第3四半期決算も発表",
+      "originalTitle": "SpaceXとテスラの合併にマスク氏が言及「SI時代に大きな意味がある」",
+      "outlet": "Impress Watch",
+      "region": "domestic",
+      "category": "it",
+      "score": 62,
+      "tier": "interest",
+      "pubDate": "2026-10-21T09:50:08.000Z",
+      "body": null,
+      "summary": "宇宙企業SpaceXのイーロン・マスクCEOは20日の米国時間、同社と電気自動車大手のテスラとの合併に向けて特別委員会を設置したと明らかにした。決算会見で言及したもので、スーパーインテリジェンスの時代に入っており合併には大きな意味があると語っている。\n\n同時に発表された2026年第3四半期決算は、売上高が前年同期比161%増の146億ドルとなり、純利益は44億ドルで大幅な収益改善を達成した。スーパーインテリジェンス部門が売上高76億ドルと前年同期比830%増の爆発的な成長を記録し、他社向けのクラウドインフラ供給契約の拡大などが大きく貢献した。\n\nコネクティビティ部門も売上高52億ドルと大きく成長し、一般向けのStarlink契約者数は前期比160万人増の1,360万人となった。宇宙開発部門の売上高は18億ドルとなり、顧客向けの打ち上げを12回実施した。",
+      "sources": [
+        {
+          "outlet": "Impress Watch",
+          "url": "https://www.watch.impress.co.jp/docs/news/2150119.html",
+          "date": "2026-10-21",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash-lite"
+    },
+    {
+      "id": "a4b4bd03240e",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.watch.impress.co.jp/docs/news/2149973.html",
+      "headline": "Memoket、Apple Watchと装着できるAIウェアラブルレコーダーを発売",
+      "originalTitle": "Apple Watchに装着できるAIレコーダ「Memoket Gem」 録音からAI活用までシームレス",
+      "outlet": "Impress Watch",
+      "region": "domestic",
+      "category": "ai",
+      "score": 58,
+      "tier": "interest",
+      "pubDate": "2026-10-21T05:03:54.000Z",
+      "body": null,
+      "summary": "Memoketは21日、会議や日常の会話を録音してAIで文字起こしや要約を作成できる小型デバイス「Memoket Gem（メモケット ジェム）」の販売を開始した。価格は31,980円である。同社はモバイルバッテリーなどを展開するAnkerの元幹部らが立ち上げた企業で、本体重量は約11gとなっており、Apple Watchのバンドに取り付けられるほか、専用リストバンドやクリップ、ネックレスなど複数の装着方法に対応する。\n\n連続録音時間は最大20時間で、本体には最大300時間分の録音データを保存できる。独自開発の長期記憶エンジン「KITE（カイト）」を搭載しており、異なる日時やプロジェクトの会話を関連付けて記憶し、横断的に情報を整理や検索ができる点が特徴である。また、ChatGPTやClaudeなどのAIサービスに加え、カレンダーやSlack、Notionなどの業務ツールとも連携し、録音内容から次の作業につなげることが可能となっている。\n\nAI機能の利用には、毎月300分の文字起こしが使える無料プランのほか、有料のサブスクリプションプランを用意する。録音データは利用者のスマートフォンに保存され、処理が必要な場合にAmazon Web Servicesのクラウド環境を利用し、AIモデルの学習に利用者の同意なくデータは使われない。プライバシーへの配慮として、録音中は本体の赤いランプが点灯する仕組みを採用している。\n\n同社は日本国内での販売拡大に向け、家電量販店などで実際に製品を試せる場所を増やし、法人利用も視野に入れる。日本語サイト開設前からも日本から数百件の予約注文が寄せられたことなどから、日本市場を戦略的に重要な位置づけとしており、今後は販売代理店との協議や日本法人の設立も検討して事業体制を整えていく方針である。",
+      "sources": [
+        {
+          "outlet": "Impress Watch",
+          "url": "https://www.watch.impress.co.jp/docs/news/2149973.html",
+          "date": "2026-10-21",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash-lite"
+    }
+  ],
+  "essays": [],
+  "productionNote": {
+    "reachedOutlets": [
+      "ITmedia AI+",
+      "ITmedia NEWS",
+      "scotthelme.co.uk",
+      "Impress Watch",
+      "TechCrunch"
+    ],
+    "unreachedOutlets": [],
+    "excluded": [],
+    "counts": {
+      "deep": 0,
+      "brief": 14,
+      "essays": 0,
+      "chars": 7926
+    },
+    "text": "候補90件から14件を掲載。本文が取れず不採用0件。"
+  }
+}
