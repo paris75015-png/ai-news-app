@@ -1,0 +1,1675 @@
+{
+ "date": "2026-10-22",
+ "generatedAt": "2026-10-22T00:03:15.433Z",
+ "measured": {
+  "world": 18,
+  "jp": 6
+ },
+ "unreachable": [],
+ "ranking": [
+  {
+   "id": "s-20261014-01",
+   "title": "ローマ教皇の肺がん手術、追加治療不要",
+   "firstSeen": "2026-10-14",
+   "daysSeen": 3,
+   "history": {
+    "2026-10-14": 37,
+    "2026-10-20": 6,
+    "2026-10-22": 35
+   },
+   "peak": 37,
+   "worldScore": 35,
+   "worldCoverage": "10/18",
+   "jpScore": 15,
+   "jpCoverage": "1/6",
+   "gap": 20,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.91,
+     "title": "Pope does not need further treatment after lung cancer surgery",
+     "desc": "Test results have confirmed his diagnosis as a lung adenocarcinoma that was localised.",
+     "url": "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Pope Leo needs no further treatment after cancer surgery, doctors say",
+     "desc": "The 71-year-old leader of the Catholic Church has had the lower lobe of his right lung removed in surgery.",
+     "url": "https://www.aljazeera.com/news/2026/10/21/pope-leo-needs-no-further-treatment-after-cancer-surgery-doctors-say?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.56,
+     "title": "Pope Needs No Further Treatment for Lung Cancer, Doctors Say",
+     "desc": "Test results after the operation showed that the cancer was localized.",
+     "url": "https://www.nytimes.com/2026/10/21/world/europe/pope-leo-cancer.html",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Pope Leo XIV post-op results show no further treatment required as tumour was localised",
+     "desc": "The pontiff needs no further treatment, his doctors said, eight days after an hour-and-a-half operation on his right lung.",
+     "url": "https://www.euronews.com/2026/10/21/pope-leo-xiv-post-op-results-show-no-further-treatment-required-as-tumour-was-localised",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Pope Leo doesn’t need further treatment for lung cancer, doctors say",
+     "desc": "Pope Leo needs no further treatment for lung cancer after follow-up tests confirmed the disease was localised, the Vatican said in a statement on Wednesday. Leo, 71, had the lower lobe of his right lung removed last week in the first major health event of his 17-month pontificate. The surgery confirmed he had adenocarcinoma, the most common type of lung cancer. He left the hospital on Saturday, four days after surgery and well ahead of the week-long hospital stay the Vatican had initially...",
+     "url": "https://www.scmp.com/news/world/europe/article/3371691/pope-leo-doesnt-need-further-treatment-lung-cancer-doctors-say",
+     "via": null
+    },
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 0.91,
+     "title": "Pope Leo's doctors say tests show he needs no further treatment for lung cancer",
+     "desc": "Pope Leo's doctors say final tissue and molecular tests have confirmed his lung cancer was localised, and no further treatment is needed, the Vatican said in a statement.",
+     "url": "https://news.sky.com/story/pope-leos-doctors-say-tests-show-he-needs-no-further-treatment-for-lung-cancer-13602031",
+     "via": null
+    },
+    {
+     "id": "abc-au",
+     "name": "ABC Australia",
+     "region": "world",
+     "weight": 0.85,
+     "title": "Pope Leo will not need further cancer treatment, doctors say",
+     "desc": "Pope Leo will not need further treatment after undergoing surgery for lung cancer last week, his doctors say.",
+     "url": "https://www.abc.net.au/news/2026-10-22/pope-leo-will-not-need-further-cancer-treatment-doctors-say/107295358",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Pope Leo won&#039;t need more treatment after cancer surgery, doctors say",
+     "desc": "Pope Leo XIV will not need any further treatment after having lung cancer surgery, his doctors said in a statement.",
+     "url": "https://www.cbsnews.com/news/pope-leo-further-treatment-lung-cancer-surgery/",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Pope Leo will not need further cancer treatment, doctors say",
+     "desc": "Leo had the lower lobe of his right lung removed in surgery on Oct 13.",
+     "url": "https://www.straitstimes.com/world/europe/pope-leo-will-not-need-further-cancer-treatment-doctors-say",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Pope Leo will not need further cancer treatment, doctors say - Reuters",
+     "desc": "Pope Leo will not need further cancer treatment, doctors say Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMlVPVVl2aWZSajhRUEEtNHQzazA2YU85dHBtQjZ1OWloWTlheGZkRmxTWEVZS3piSkQ0VHppbmQwd1VSY2F5T0Y5MVJXdWNWcUtCSHVHa2FPSGc1dkVzSXV1N3htU1BnV2FVbkh0b0NYX21RdlZyM1V3c3d5dUtHY3NpemdmbWJJRWx5RkdGdy1YbGRPb3A0cnp4T0xoVmpYTGpQSnBJRHZYMnZoS0FNMDZOSWZWS2tUdWNz?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.91,
+     "title": "ローマ教皇、追加の治療必要なし 肺腺がん手術後、医師判断(共同通信)",
+     "desc": "【ローマ共同】ローマ教皇庁（バチカン）は21日、肺腺がんの手術を受けた教皇レオ14世について、組織検査の最終結果として、がんが局所にとどまっていたため、追加の治療は必要ないと医師が判断したことを明らか",
+     "url": "https://news.yahoo.co.jp/articles/cc39ff3d36775744db330fa9ba44d32b251924af?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261012-04",
+   "title": "ウクライナ和平巡り米露ウで協議、和平模索",
+   "firstSeen": "2026-10-12",
+   "daysSeen": 5,
+   "history": {
+    "2026-10-12": 31,
+    "2026-10-13": 32,
+    "2026-10-14": 3,
+    "2026-10-16": 7,
+    "2026-10-22": 30
+   },
+   "peak": 32,
+   "worldScore": 30,
+   "worldCoverage": "10/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 30,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 1,
+     "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+     "desc": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
+     "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.53,
+     "title": "Putin orders release of jailed American as he meets Trump envoy for Ukraine talks",
+     "desc": "Russia frees Stephen Hubbard after US request while Steve Witkoff praises Putin, wanted by ICC as war criminal, as a ‘humanitarian’ US politics live – latest updates Vladimir Putin ordered the release of an American man from a Russian jail as he met Donald Trump’s envoy Steve Witkoff in St Petersburg on Wednesday for fresh talks on ending the war in Ukraine, amid increasingly close relations between Moscow and Washington. Trump had previously asked Putin to free Stephen Hubbard, a 74-year-old former teacher who had spent more than four years in Russian jails on charges of fighting as a mercena",
+     "url": "https://www.theguardian.com/world/2026/oct/21/putin-witkoff-russia-ukraine-trump-stephen-hubbard-release",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Russia willing to resume peace talks with Ukraine, US after Witkoff visit",
+     "desc": "Russian President Vladimir Putin has signalled Moscow is willing in principle to resume talks with Ukraine and the US.",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/russia-willing-to-resume-peace-talks-with-ukraine-us-after-witkoff-visit?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Putin agrees to resume three-way talks with Kyiv and Washington",
+     "desc": "President ⁠Volodymyr Zelenskiy ​said on Wednesday ​that Ukraine supported a US proposal for ​three-way talks ‌with Russia ⁠and the United ‌States at the level ⁠of negotiators to be held as soon ​as possible, preferably ‌no later than early November. Speaking with FRANCE 24's Mark Owen, Grégoire Roos, Director of the Europe, Russia and Eurasia Programme at Chatham House, says that \"it's not clear whether Putin would meet Trump and Zelensky\", adding that \"meeting Zelensky is the last thing that Putin would be prepared to do\".",
+     "url": "https://www.france24.com/en/putin-agrees-to-resume-three-way-talks-with-kyiv-and-washington",
+     "via": null
+    },
+    {
+     "id": "abc-au",
+     "name": "ABC Australia",
+     "region": "world",
+     "weight": 0.45,
+     "title": "Putin agrees to resume peace talks with Ukraine and US",
+     "desc": "Russian President Vladimir Putin agrees to resume US-mediated peace talks with Ukraine as soon as next month, following a meeting with US envoy Steve Witkoff.",
+     "url": "https://www.abc.net.au/news/2026-10-22/putin-agrees-to-resume-three-way-talks-on-ukraine-war/107294994",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Russia says Ukraine must make \"necessary decisions\" to end the war",
+     "desc": "U.S. envoy Steve Witkoff, meeting with Vladimir Putin in Russia, voiced hope for new trilateral talks involving Ukraine, and Moscow indicated the talks could resume in November.",
+     "url": "https://www.cbsnews.com/news/russia-ukraine-war-witkoff-putin-trump-zelenskyy/",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Ukraine’s Zelensky hopes for new peace talks with Russia, US by early November",
+     "desc": "Russia's leader has agreed to resume US-mediated peace talks with Ukraine as soon as November.",
+     "url": "https://www.straitstimes.com/world/europe/ukraines-zelenskiy-hopes-for-new-talks-with-russia-us-by-early-november",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Ukraine's Zelenskiy hopes for new talks with Russia, US by early November - Reuters",
+     "desc": "Ukraine's Zelenskiy hopes for new talks with Russia, US by early November Reuters",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMUpoaHpLeXVSZ015UFRLMU1jOXJDbTN3cGI5Ymo5N2hjWkxyTzF2WDVsNTZTX2pNclQwZHcwY1ZaQ1pacTNncGVWYVJISnA4aHI5YjBlclFvRnBqNlFFNWtwSVVYVHRURU9VS2ZRS3JCN3lycDRnZHFGeEwxeEVLYmJENG40NTNlSFYweUIzWmlOcHpyemxnRk1PVkRURjhTTEtodXAzZUplNG5fZG42VWZwS1NZZ0k?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Russia agrees to resume three-way talks on Ukraine war with Kyiv and Washington, Kremlin says - AP News",
+     "desc": "Russia agrees to resume three-way talks on Ukraine war with Kyiv and Washington, Kremlin says AP News",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMW9MQzVDRzVJcjRnVnpSeW5ZVlhBTEFablZZNTNQNFNkYmhmWjFXR2M4RlNDWldOTlh5TjFSYU5tVHhPSFFidnBtNFVGMEthRjV1TElCVGdQMjZHOXNNLXV6R1F0QVJjYTR6Q0pMbW4xVkFmUDVuQXNoYUJxbUd1TlBaWG4xdlBaYTZQVTJUSEdZXzJXN28xS0praHdNb0t2eUU3clRWTF9fR2ljZW1V?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump envoy proposes Ukraine talks and summit with Putin and Xi - Financial Times",
+     "desc": "Trump envoy proposes Ukraine talks and summit with Putin and Xi Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOd1p2UF8tR01VdUdpamJpaUJvRmt2d0xjTzFKR2ctdjlSbHNWTkwzMDhzYnhXRFM4WGRmOGpLQ0xuZ2xKLUM5cDdWWkRlZjdNemJ3UE12UmhIcjltTEkxUU1BZEd6YkU4UlRHZXN4bm82anZYNHpNX0s5V0pyRFprTG9pc2Y?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261015-22",
+   "title": "メタに約3.8兆円の罰金命令、データプライバシー巡り",
+   "firstSeen": "2026-10-15",
+   "daysSeen": 2,
+   "history": {
+    "2026-10-15": 11,
+    "2026-10-22": 26
+   },
+   "peak": 26,
+   "worldScore": 26,
+   "worldCoverage": "8/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 26,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.77,
+     "title": "Meta fined $25bn for 'lies' over user data privacy",
+     "desc": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
+     "url": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Judge orders Meta to pay $25bn in fines for Facebook privacy violations",
+     "desc": "A jury found Meta guilty of lying to Facebook users in ⁠⁠⁠⁠⁠⁠⁠⁠New Mexico about access to their data.",
+     "url": "https://www.aljazeera.com/news/2026/10/21/judge-orders-meta-to-pay-25bn-in-fines-for-facebook-privacy-violations?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Meta fined $25 billion in New Mexico over Cambridge Analytica scandal",
+     "desc": "A New Mexico judge ordered Meta to pay $25 billion after a jury found the company deceived users in a case linked to the Cambridge Analytica scandal, media reported Wednesday. The ruling follows an $18 billion settlement with 48 other states over similar claims. Meta called the penalty “a tax on speech.”",
+     "url": "https://www.france24.com/en/technology/20261021-meta-fined-25-billion-new-mexico-cambridge-analytica-scandal",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Meta to pay New Mexico a historic US$25 billion in Cambridge Analytica Facebook case",
+     "desc": "Meta Platforms was ordered to pay a groundbreaking US$25 billion civil penalty to the state of New Mexico in a consumer deception case spurred by the Cambridge Analytica scandal. The fine issued by state court Judge Francis Mathew is among the largest verdicts issued in US legal history. The award comes after a jury in Santa Fe determined that Meta had violated the state’s consumer protection over 43 million times based on widely viewed deceptive statements made by the company and its top...",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3371689/meta-pay-new-mexico-historic-us25-billion-cambridge-analytica-case",
+     "via": null
+    },
+    {
+     "id": "abc-au",
+     "name": "ABC Australia",
+     "region": "world",
+     "weight": 0.91,
+     "title": "Meta fined $25b in US for deceiving users about Facebook privacy",
+     "desc": "A judge orders Meta to pay New Mexico $US25 billion after a jury found the company liable for deceiving users about privacy on Facebook.",
+     "url": "https://www.abc.net.au/news/2026-10-22/meta-ordered-to-pay-new-mexico-us25-billion/107294964",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Meta ordered to pay US$25b to New Mexico after jury finds company misled consumers about data privacy",
+     "desc": "he penalty was one of the largest financial penalties against a corporation in US history.",
+     "url": "https://www.straitstimes.com/world/united-states/meta-ordered-to-pay-us25b-to-new-mexico-after-jury-finds-company-misled-consumers-about-data-privacy",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Meta ordered to pay $25 billion penalty to New Mexico in data privacy case - Reuters",
+     "desc": "Meta ordered to pay $25 billion penalty to New Mexico in data privacy case Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYWNTZTVrUDY5dUhLcUduTzg1NGZDUWx1VTNVbFRNV3hOcXo0TG51MDBMRm5WQU9STGRPZGhLNml2dTFMb1h2b1hLelA4QU5KV3pRLWktdDVhOEFxWDY5VW1URmZEVm9QcDg0WEp2Zmo2V1RIcFpCdk1zeFFhdU1VeHl4QUVZeGZxU3ZJLV9UUzZYWG85Ujl0RkRMbGhMd2RBWkdDNnJpbnBNQXduV3FBLXZTYlk2Y2xhVzFSbmthRFJERU0?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Meta to Pay Historic $25 Billion in New Mexico Deception Case - Bloomberg.com",
+     "desc": "Meta to Pay Historic $25 Billion in New Mexico Deception Case Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeFBfX2FYVEtRX1NLVU5tYk80WUx0d1dIc25ORVRyNzJnWndidDdhcXNOSXJaUkFDVE9hbTZmZ1hjSmpxZXg1SlVqT1EyRXJmeHpoaHVEa2Z4SVlzNXl6X2tQX1JYbVpnQjNPWUhpbUJSSkV4Z0dsdGI3NW5xOFR1R1dqcUhCSTZNdEdUUWVqaXJiYmhuZXY2RXpnZlF0UFJBdmxPUTlVZmUxZWxmRWZMdQ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261015-07",
+   "title": "ナイジェリアで初の エボラ出血熱確認",
+   "firstSeen": "2026-10-15",
+   "daysSeen": 4,
+   "history": {
+    "2026-10-15": 7,
+    "2026-10-16": 8,
+    "2026-10-19": 7,
+    "2026-10-22": 26
+   },
+   "peak": 26,
+   "worldScore": 26,
+   "worldCoverage": "8/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 26,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.74,
+     "title": "Nigeria's first Ebola patient holidayed in Uganda, officials say",
+     "desc": "The wife of a diplomat based in Abuja travelled to Kampala for a vacation.",
+     "url": "https://www.bbc.co.uk/news/articles/c62kepvg2x9lo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.94,
+     "title": "Nigeria confirms Ebola case as outbreak spreads into western Africa",
+     "desc": "Case in Africa’s most populous country was detected in a woman who had travelled from Uganda Nigeria has confirmed an Ebola case in its capital, Abuja, after a woman who arrived from Uganda tested positive for the virus, the health ministry said. The woman began showing symptoms on 7 October and was admitted to a hospital in Abuja four days later, where she was later diagnosed with Ebola. It is unclear when she arrived in Nigeria, Africa’s most populous country. Continue reading...",
+     "url": "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Nigeria’s first Ebola case matches DR Congo strain, health officials say",
+     "desc": "The Bundibugyo strain outbreak is the DR Congo&#039;s deadliest ever and has now reached West Africa for the first time.",
+     "url": "https://www.aljazeera.com/news/2026/10/21/nigerias-first-ebola-case-matches-dr-congo-strain-health-officials-say?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.36,
+     "title": "Nigeria Announces First Case of Ebola in Current Outbreak",
+     "desc": "Health officials praised the Nigerian authorities for their transparency in reporting the spread of the virus.",
+     "url": "https://www.nytimes.com/2026/10/20/world/africa/nigeria-ebola-outbreak.html",
+     "via": null
+    },
+    {
+     "id": "dw",
+     "name": "Deutsche Welle",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Nigeria records its first Ebola case, in capital Abuja",
+     "desc": "Nigeria has reported its first known case of Ebola during Africa's latest outbreak originating in the DRC. Health Minister Muhammad Ali Pate said the patient was a woman who had recently flown to Abuja from Uganda.",
+     "url": "https://www.dw.com/en/nigeria-records-its-first-ebola-case-in-capital-abuja/a-79717377?maca=en-rss-en-world-4025-rdf",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "African health ministers to hold Ebola crisis talks as Nigeria confirms first case",
+     "desc": "African health ministers will hold crisis talks on Ebola as Nigeria becomes the fourth country to confirm a case. The patient is now in isolation, while her contacts, including her spouse, a Swiss national, are being monitored.",
+     "url": "https://www.euronews.com/2026/10/21/african-health-ministers-to-hold-ebola-crisis-talks-as-nigeria-confirms-first-case",
+     "via": null
+    },
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 0.65,
+     "title": "Uganda reacts angrily as Nigeria confirms its first Ebola case",
+     "desc": "Nigeria has recorded its first case of Ebola during the current outbreak, the country's health ministry has said - as the virus continues to spread internationally.",
+     "url": "https://news.sky.com/story/nigeria-confirms-ebola-case-as-outbreak-continues-to-spread-13601748",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Nigeria confirms Ebola case in Abuja as woman who arrived from Uganda tests positive - AP News",
+     "desc": "Nigeria confirms Ebola case in Abuja as woman who arrived from Uganda tests positive AP News",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMld1Vl9scHJ2NGVsZkF5QkdRbEdfbHAxcEI5Rm9Nb2tmaWw1MExvZDE1dzRKQml2bnk1YlhfeTVXcEwxaXhnb09VZ0ZlNVBuQk5PNUtCOEFVMUNuYWh6aW5qYXpELXFTTnVsV3FVTktkeGwyeTdJUUhwWVpZQjl5TFBWd2ZlcGJ1bVB4MmZweEVLTS1oaHc?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261022-08",
+   "title": "ロシアが米教師スティーヴン・ハバード氏を解放",
+   "firstSeen": "2026-10-22",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-22": 24
+   },
+   "peak": 24,
+   "worldScore": 24,
+   "worldCoverage": "7/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 24,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.8,
+     "title": "Who Is Stephen James Hubbard, the American Released From Russian Jail?",
+     "desc": "Mr. Hubbard, a 74-year-old teacher, was held for more than four years on what the State Department called fabricated charges.",
+     "url": "https://www.nytimes.com/2026/10/21/world/europe/who-stephen-hubbard-american-russia-prisoner-release.html",
+     "via": null
+    },
+    {
+     "id": "dw",
+     "name": "Deutsche Welle",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Russia frees jailed American Stephen Hubbard during Witkoff talks",
+     "desc": "During talks between Vladimir Putin and Steve Witkoff, Putin announced that jailed American Stephen Hubbard had been released. The Kremlin also said Russia was \"in principle\" ready to resume trilateral talks next month.",
+     "url": "https://www.dw.com/en/russia-frees-jailed-american-stephen-hubbard-during-witkoff-talks/a-79719452?maca=en-rss-en-world-4025-rdf",
+     "via": null
+    },
+    {
+     "id": "npr",
+     "name": "NPR",
+     "region": "world",
+     "weight": 1,
+     "title": "Putin releases American Stephen Hubbard from Russian prison",
+     "desc": "Russian President Vladimir Putin has freed another American, 74-year-old Michigan native Stephen Hubbard, from a Russian prison following a request from President Trump.",
+     "url": "https://www.npr.org/2026/10/21/nx-s1-6010608/putin-releases-american-stephen-hubbard-from-russian-prison",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "American Stephen Hubbard released by Russia, Trump confirms",
+     "desc": "Steve Witkoff lauded Vladimir Putin as \"a humanitarian\" as Russia freed Stephen Hubbard, an American deemed wrongfully detained by the U.S., after more than 4 years in prison.",
+     "url": "https://www.cbsnews.com/news/russia-stephen-hubbard-freed-american-ukraine-war-witkoff-putin/",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Russia frees retired US schoolteacher in goodwill gesture as Putin meets Witkoff",
+     "desc": "Stephen Hubbard was convicted by Russia of mercenary activity in Ukraine in 2022, during a closed-door trial.",
+     "url": "https://www.straitstimes.com/world/united-states/russia-frees-retired-us-schoolteacher-in-goodwill-gesture-as-putin-meets-witkoff",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Russia frees American Stephen Hubbard after over 4 years behind bars - AP News",
+     "desc": "Russia frees American Stephen Hubbard after over 4 years behind bars AP News",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM2pKWm5lTVpmeW5RRHktWU5US2dTSS1fTDhuVjhVUjYyd3I5b3h2QzVfd0pDcm9WM1BFaFpQZENlZVMtdEoyNUQwTEJwTVhyckl0bVBYYzIxcVl1UW5FSzRUVXdIWUV3a214QnVhb1FJSkNjTFFEU0lfTGhtVTdWQ1RDVFpFQmhneWk1UVFBRHlHX3lmY0xTYU5HOTFYdmxYd09meDFTNkg4cmJ2Tlh6UnRFZGoxRlE?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Putin Releases Hostage to US, Earning Praise as Humanitarian - Bloomberg.com",
+     "desc": "Putin Releases Hostage to US, Earning Praise as Humanitarian Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQemQxZ3JXcTlKS1BDQWZ5TzJncUx3QjNlTmY1b0pfejkwcmVPUXhRbEZELXJoTHF5M2Nqc010dGQxczBoWU02bVM0eDJDZVpwZUNFaHg0UFJvMmp5OGRaTTlUWVVNNFlKT1dZNEtMWTNFbGJjRmZLNmxvVlBxZU10eE1DWk1SaDRRZXlMbUpHX3liV1BmMEpSWGtvNk45aFZ1OV95cnVNSzF2UDBMVnE0?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261022-01",
+   "title": "マクロン仏大統領、トランプ氏の発言を批判",
+   "firstSeen": "2026-10-22",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-22": 19
+   },
+   "peak": 19,
+   "worldScore": 19,
+   "worldCoverage": "5/18",
+   "jpScore": 8,
+   "jpCoverage": "1/6",
+   "gap": 11,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.94,
+     "title": "Macron accuses foreign leaders of exploiting French riots",
+     "desc": "The comment is an apparent swipe at Benjamin Netanyahu and Donald Trump, who both face elections in coming weeks.",
+     "url": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.56,
+     "title": "Macron accuses Trump and other foreign leaders of ‘stupid comments’ about France unrest",
+     "desc": "Leaders criticised for spreading misleading information as France prepares for further protests this weekend Emmanuel Macron has accused Donald Trump and other foreign leaders of making “stupid comments” about France’s street unrest for political gain, as the country prepared for more protests this weekend. Speaking during a visit to Qatar, the French president did not name names but said “manipulation of information” after Saturday’s riots had led to “comments that are as unacceptable as they are stupid, from many people, including foreign leaders”. Continue reading...",
+     "url": "https://www.theguardian.com/world/2026/oct/21/macron-trump-foreign-leaders-stupid-comments-france-unrest",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.88,
+     "title": "Macron Says Trump Does Not Like France and Distorts Its Troubles",
+     "desc": "Speaking in Qatar, President Emmanuel Macron railed against foreign leaders who he said had made false claims about unrest in France for their own political ends.",
+     "url": "https://www.nytimes.com/2026/10/21/world/europe/macron-trump-france-protests.html",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Macron rejects Trump’s claims blaming migrants for French riots",
+     "desc": "French President Emmanuel Macron condemned comments by \"foreign leaders\" on the violent protests in France on October 17. He has now arrived in Saudi Arabia as part of his Gulf tour.",
+     "url": "https://www.france24.com/en/video/20261021-macron-rejects-trump-s-claims-blaming-migrants-for-french-riots",
+     "via": null
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Macron hits out at ‘stupid’ Trump remarks about riots in France - Financial Times",
+     "desc": "Macron hits out at ‘stupid’ Trump remarks about riots in France Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSE5YSFNlcnNFSmIxQkhjVjI3N05FQnh0QlZfdHB2Mk5pMzhNSXBLdnRFY19DRDBkWDBRZDFxQ2pVVVZJRXNaS2pUS1ZKSk53a19zWnYtelNkYk5aejZhNUVTazJXMXJnZ0ZmUTZPajBtNkh6R2xiSS0zV3pvNWh5UDB2QmM?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.45,
+     "title": "マクロン大統領、フランスのデモは移民が原因と主張したトランプ大統領を「愚かだ」と批判(中央日報日本語版)",
+     "desc": "フランスのエマニュエル・マクロン大統領は21日（現地時間）、フランスの反政府デモは移民が原因だと主張したドナルド・トランプ米大統領に対し、「容認できず、愚かな発言だ」と厳しく批判した。AP通信などによ",
+     "url": "https://news.yahoo.co.jp/articles/efe67999e32edc50406ed87b270439e7cd9e3826?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261020-06",
+   "title": "スーダンのドローン攻撃で多数の死傷者",
+   "firstSeen": "2026-10-20",
+   "daysSeen": 3,
+   "history": {
+    "2026-10-20": 11,
+    "2026-10-21": 15,
+    "2026-10-22": 15
+   },
+   "peak": 15,
+   "worldScore": 15,
+   "worldCoverage": "4/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 15,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.62,
+     "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
+     "desc": "A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted.",
+     "url": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.91,
+     "title": "Drone Strike Kills More Than 150 in Abyei in Sudan’s Civil War",
+     "desc": "Struggling against each other on the battlefield, the sides in Sudan’s civil war are relying on drones to strike across vast distances, inflicting huge tolls on civilians in the process.",
+     "url": "https://www.nytimes.com/2026/10/21/world/africa/sudan-drone-strikes.html",
+     "via": null
+    },
+    {
+     "id": "dw",
+     "name": "Deutsche Welle",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Sudan drone strike kills around 150 in Abyei market",
+     "desc": "A drone strike hit a market in the Abyei border region disputed by Sudan and South Sudan and killed dozens. The drone caused a large fire when it hit a fuel depot. South Sudanese officials blamed Sudan's military.",
+     "url": "https://www.dw.com/en/sudan-drone-strike-kills-around-150-in-abyei-market/a-79716587?maca=en-rss-en-world-4025-rdf",
+     "via": null
+    },
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 0.74,
+     "title": "At least 153 people killed in drone strike on disputed Sudan-South Sudan region",
+     "desc": "A drone strike on a fuel depot in a disputed region on the Sudan-South Sudan border has killed at least 153 people.",
+     "url": "https://news.sky.com/story/at-least-153-people-killed-in-drone-strike-on-disputed-sudan-south-sudan-region-13601817",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261019-28",
+   "title": "アルバータ州の住民投票、カナダ残留支持",
+   "firstSeen": "2026-10-19",
+   "daysSeen": 4,
+   "history": {
+    "2026-10-19": 5,
+    "2026-10-20": 18,
+    "2026-10-21": 28,
+    "2026-10-22": 15
+   },
+   "peak": 28,
+   "worldScore": 15,
+   "worldCoverage": "4/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 15,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.56,
+     "title": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
+     "desc": "The overwhelming vote by Alberta to stay in Canada gives Mark Carney political capital to focus on remaking the country's economy, writes the BBC's Lyse Doucet.",
+     "url": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.88,
+     "title": "Alberta voters overwhelmingly reject plan to leave Canada in referendum",
+     "desc": "Result is a victory for prime minister Mark Carney and supporters of Canadian unity Voters in Canada’s Alberta have overwhelmingly rejected a proposal to begin the process of independence, delivering a decisive victory for supporters of Canadian unity and deepening divisions within the separatist movement. With nearly 1.9m votes counted, roughly 76% people supported remaining in Canada, while 24% backed beginning a process toward separation, according to unofficial results from Elections Alberta. Continue reading...",
+     "url": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.71,
+     "title": "As Alberta Rejects Canada Separatism, Carney Gets Much of the Credit",
+     "desc": "Prime Minister Mark Carney won over Canada’s most conservative province by promising a pipeline and campaigning hard, defeating its efforts to secede.",
+     "url": "https://www.nytimes.com/2026/10/20/world/canada/carney-alberta-referendum-trump.html",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Alberta voters overwhelmingly reject separation process in a victory for Carney - AP News",
+     "desc": "Alberta voters overwhelmingly reject separation process in a victory for Carney AP News",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNam5EME1Qam5lQmc2X3BhcDgzXzdMaWJLa1V2akVCc0c2dnJlZmo4bjZ5NEdXZmMxNHp6d1kxV3hEY2QwbkZraktnS1V5a3ItMUFvZmlxb0daZUppSHdqdjBvdUNrNVNueGo0TlROS21OeGl4OTBwM0RlanJuT2pGZjllNWxHMS0wOVFtRV9DOHA0TzZWbkotTGJXMzJHcjJFOHVFbkhnOUk?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261020-01",
+   "title": "豪議員が車にはねられ負傷、捜査進む",
+   "firstSeen": "2026-10-20",
+   "daysSeen": 3,
+   "history": {
+    "2026-10-20": 24,
+    "2026-10-21": 28,
+    "2026-10-22": 14
+   },
+   "peak": 28,
+   "worldScore": 14,
+   "worldCoverage": "4/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 14,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.88,
+     "title": "'Targeted' attack on much-loved MP leaves Australian town heartbroken",
+     "desc": "Locals describe the MP, who had to have both legs amputated, as a genuinely kind person who fought for the community.",
+     "url": "https://www.bbc.co.uk/news/articles/cmgr8q88r5eqo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.71,
+     "title": "Labor, Coalition and crossbench MPs afraid at home and work after alleged attack on Helen Haines",
+     "desc": "Home and office safety a common concern in Australian federal police and Asio safety briefings with politicians following alleged attack on MP Helen Haines Get our new political email , free app or daily news podcast Security agencies will review safety precautions for MPs’ homes and offices after numerous federal politicians told police and Asio in safety briefings that they were worried about widening threats after the alleged attack on Helen Haines. The Labor government and politicians across the parliament are still considering how they will respond when they return to Canberra next week, ",
+     "url": "https://www.theguardian.com/australia-news/2026/oct/22/politicians-say-they-are-paying-thousands-for-own-security-upgrades-amid-rising-threats-ntwnfb",
+     "via": null
+    },
+    {
+     "id": "dw",
+     "name": "Deutsche Welle",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Australian MP Helen Haines loses both legs after car attack as suspect appears in court",
+     "desc": "Doctors have amputated both of Helen Haines legs after the Australian lawmaker was hit in an apparent deliberate attack. The suspected driver involved in the attack has appeared in court.",
+     "url": "https://www.dw.com/en/australian-mp-helen-haines-loses-both-legs-after-car-attack-as-suspect-appears-in-court/a-79697660?maca=en-rss-en-world-4025-rdf",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Australian politician who was hit by car has lost both legs - AP News",
+     "desc": "Australian politician who was hit by car has lost both legs AP News",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbVd2UnVhbVJ3OC1vUXFFU2RfZ1NTNU1uY2xPNFpkVi12X3RIcHpzM2NUcWZBNjJxNkJsRHJTZzY1bEVfanczWDhxVGlaTnNnVUFOVDZzc0RabjJ3ZTN4MzhyUmdYOW5FSE9QTkRVdDFQYW1mdVNfMGd6cW01TExoUnFlSjVFX1l2UWJhcG5nWVFQckNuUm9EUml4WFM?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261022-05",
+   "title": "カナダ製パブリッシャー、AI使用巡り作家との契約解除",
+   "firstSeen": "2026-10-22",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-22": 14
+   },
+   "peak": 14,
+   "worldScore": 14,
+   "worldCoverage": "5/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 14,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Canadian publisher drops writer Thelyson Orelien over AI use in novel",
+     "desc": "Publisher Boreal says investigations confirmed the Haitian-Canadian Thelyson Orelien used AI in his breakthrough novel.",
+     "url": "https://www.aljazeera.com/news/2026/10/21/canadian-publisher-cuts-ties-with-best-selling-writer-orelien-over-ai-use?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.53,
+     "title": "Thélyson Orélien&#39;s Quebec Publisher Cuts Ties Over A.I. Accusations",
+     "desc": "Thélyson Orélien, a celebrated novelist, used artificial intelligence while writing a breakout book, his publisher says.",
+     "url": "https://www.nytimes.com/2026/10/21/world/canada/thelyson-orelien-ai-publisher.html",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Canadian publisher drops author Orelien after confirming he used AI in debut novel",
+     "desc": "The Canadian publisher representing Thélyson Orélien on Wednesday said it had dropped the prize-nominated writer over new information indicating that he did use artificial intelligence to write his acclaimed debut.",
+     "url": "https://www.france24.com/en/culture/20261021-canadian-publisher-drops-author-orelien-after-confirming-he-used-ai-in-debut-novel",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Thélyson Orélien row: publisher says AI used to write 'C'était ça ou mourir'",
+     "desc": "The Quebec author has been at the centre of a controversy for weeks. On Wednesday, his Canadian publisher Les Éditions du Boréal admitted that AI was indeed used to write his latest novel.",
+     "url": "https://www.euronews.com/2026/10/21/thelyson-orelien-row-publisher-says-ai-used-to-write-cetait-ca-ou-mourir",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Canadian publisher says Thelyson Orelien used AI to write award-winning book, ends relationship - Reuters",
+     "desc": "Canadian publisher says Thelyson Orelien used AI to write award-winning book, ends relationship Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWHJjNGwwdFdCWEo1NlJGa3R4cG1GalQ2N0RGYWFMdGZaWWZWcDVTTlN4bmVfWlhROTQzeGo1MTcyZzk4TmI5Tk1UeW5xRnllQ21NdHVFU2JqZGNIdVp4aFhkY0ZNNEtRYWRZTHBGNnE1OW96ZHliSDE2Y0EwbGZ5UzBZQ0VjR1dUMGY4d2pNQVl2eGt2OHZwRGt5ZVg4UklCQlpCeEg0VHJzMGpfNlhKeHQ3MTNpUzdjaW5vbzh5MTE0empEUXVCdw?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261022-09",
+   "title": "米政府、サウジ駐在職員らに退避命令",
+   "firstSeen": "2026-10-22",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-22": 14
+   },
+   "peak": 14,
+   "worldScore": 14,
+   "worldCoverage": "5/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 14,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US orders departure of personnel from Saudi Arabia, citing Houthi threat",
+     "desc": "US State Department says Iran-aligned Houthis have &#039;increasingly ⁠⁠engaged in hostilities&#039; against Saudi Arabia.",
+     "url": "https://www.aljazeera.com/news/2026/10/21/us-orders-departure-of-personnel-from-saudi-arabia-citing-houthi-threat?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US orders diplomats to leave Saudi Arabia amid Houthi strikes",
+     "desc": "The US State Department has ordered some diplomats and family members to depart ‌from its missions in Saudi Arabia and plans to withdraw family members from a number of other US missions in the region, US officials told Reuters. The order came as attacks in Saudi Arabia killed at least one person and injured eight others at a civilian airport in Dammam and two people were killed in a drone attack on an oilfield. US State Department spokesman Tommy Pigott said in a post on social media ⁠that the...",
+     "url": "https://www.scmp.com/news/world/middle-east/article/3371698/us-orders-diplomats-leave-saudi-arabia-amid-houthi-strikes",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "U.S. ordering some government staff to depart Saudi Arabia",
+     "desc": "The U.S. military has also been quietly reducing its footprint at posts in the Middle East due to regional threats from the Houthis and direct threats from Iran, CBS News has learned.",
+     "url": "https://www.cbsnews.com/news/us-saudi-arabia-ordered-departure-houthis/",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US orders diplomats to depart Saudi Arabia amid Houthi strikes",
+     "desc": "It comes after an escalation of the fighting in Yemen, opening another front in the Middle East conflict.",
+     "url": "https://www.straitstimes.com/world/us-preparing-to-issue-ordered-departure-of-some-personnel-from-gulf-embassies-say-us-officials",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "EXCLUSIVE: US orders diplomats to depart Saudi Arabia amid Houthi strikes - Reuters",
+     "desc": "EXCLUSIVE: US orders diplomats to depart Saudi Arabia amid Houthi strikes Reuters",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONDg0WFNBeGFxeHpUVUsya2RYd0k3XzF6bXU3eGpZVnh2T25MWHVsQzVrbE9PNEdaWnpfN1dmRmtxajMtbl8yZ29EWUxYaXAxcnkxcFN1NEVDLVE3bUtkR0NwZDVPN2haVXFERXRUeHRnQ2QyVDhVdjBNa2FIUFVDOWFicGJOQVVWR0JFMnZSM0NLV09nZHk5UzA2LTgtbmFEVnlYZDI1Uk9ic1hyLTZ0Z2NKbWI5QWgtWWE3ZzV4eE11bmpCcGstTFAzQnVGUQ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261022-02",
+   "title": "メキシコ、米ドラッグ摘発巡り検察官を訴追",
+   "firstSeen": "2026-10-22",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-22": 10
+   },
+   "peak": 10,
+   "worldScore": 10,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 10,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.82,
+     "title": "Ex-prosecutor charged with treason in Mexico over US drug raid",
+     "desc": "César Jáuregui Moreno is accused of allowing US agents to join a raid on a suspected drugs lab in April.",
+     "url": "https://www.bbc.co.uk/news/articles/ckx2qpw4rjd7o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Mexico charges prosecutor with treason over US involvement in drug raid",
+     "desc": "The participation of US agents in an April drug operation has raised questions about whether Mexico&#039;s laws were upheld.",
+     "url": "https://www.aljazeera.com/news/2026/10/21/mexico-charges-prosecutor-with-treason-over-us-involvement-in-drug-raid?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Mexico levies rare treason charge against ex-official over US drug operation",
+     "desc": "MEXICO CITY, Oct 21 - Mexican federal prosecutors charged a former state prosecutor with treason on Wednesday after accusing him of allowing US personnel to take part in a drug operation in northern Mexico without the federal government's approval.",
+     "url": "https://www.straitstimes.com/world/mexico-revives-rare-treason-charge-against-former-state-prosecutor",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261022-10",
+   "title": "EU、極右グループの欧州議会事務所を家宅捜索",
+   "firstSeen": "2026-10-22",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-22": 8
+   },
+   "peak": 8,
+   "worldScore": 8,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 8,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "dw",
+     "name": "Deutsche Welle",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Raids at far-right group's offices at European Parliament",
+     "desc": "Authorities searched the Patriots for Europe's European Parliament offices in a long-running funding inquiry. The group says the charges pertain to its predecessor and there is \"no legal continuity\" between the two.",
+     "url": "https://www.dw.com/en/raids-at-far-right-group-s-offices-at-european-parliament/a-79724631?maca=en-rss-en-world-4025-rdf",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "EU prosecutors search European Parliament offices of far-right group",
+     "desc": "The far-right European Parliament group of French presidential frontrunner Marine Le Pen's party said Wednesday EU prosecutors were searching its offices as part of a graft probe into its now-defunct predecessor. The Patriots for Europe group said the European Public Prosecutor's Office (EPPO) had been searching its administrative offices in Brussels and Strasbourg \"since this morning\". FRANCE 24's Dave Keating reports from Strasbourg.",
+     "url": "https://www.france24.com/en/eu-prosecutors-search-european-parliament-offices-of-far-right-group",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "EU prosecutors raid far-right group's offices in €4 million funds scandal",
+     "desc": "The searches are linked to an probe into the alleged misuse of more than €4 million by the now-defunct Identity and Democracy group, whose debts Patriots for Europe could be forced to repay.",
+     "url": "https://www.euronews.com/2026/10/21/eu-prosecutors-raid-far-right-groups-offices-in-4-million-funds-scandal",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261022-11",
+   "title": "米最高裁、トランスジェンダー受刑者の医療制限認めず",
+   "firstSeen": "2026-10-22",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-22": 8
+   },
+   "peak": 8,
+   "worldScore": 8,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 8,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "toi",
+     "name": "Times of India",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US top court nixes Trump admin's bid to restrict medical care for transgender inmates",
+     "desc": "",
+     "url": "https://timesofindia.indiatimes.com/world/us/us-top-court-nixes-trump-admins-bid-to-restrict-medical-care-for-transgender-inmates/articleshow/135096276.cms",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Supreme Court won't allow Trump administration restrictions on transgender inmates - Reuters",
+     "desc": "Supreme Court won't allow Trump administration restrictions on transgender inmates Reuters",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOb05XM3ZlNDVMQU42NUZWTWl0TF95di1wZTVSOVBxYVkwNWEyTDdWZjhvaGdwbFE1M1JNTEVhMkNxcFFBczZzZUI4blV5bGNxMnRrX1djZ3BrZTlvYXpxMG0zTmNJWE0wRkMzY19OYUlMX1YwXy1XeDg2NUJtOWNGeGxia2xjUDlfdnJTaWJzUHotZlRIQ1VRMXJydm11eW9VTm44bVlWTnE4cFRDNnVGQmwxNkxzbDgzUEhXTQ?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Supreme Court rebuffs Trump administration restrictions on medical care for transgender inmates - AP News",
+     "desc": "Supreme Court rebuffs Trump administration restrictions on medical care for transgender inmates AP News",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOFRhSTJyT3RrVXFVUzRQRnpqUndyLTduTjdsVGdNdFQzandyVk5DRU1tcUZaX0xWWW4ycmxYSmpzcmN6UjJ1Mk0ycGpSOHVtZlJOaWo1b1J0RVlnelJJa3dTYWg2M1RYN3M3UVk2MHU1cUM3TUpETkpfWUI2eDl2amNLQzBJWDVxa1lxZEtBWlJYNFBrRDM1V3ZUQ29NTmRI?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261022-16",
+   "title": "ニューメキシコ州、エプスタイン氏関係者を提訴",
+   "firstSeen": "2026-10-22",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-22": 8
+   },
+   "peak": 8,
+   "worldScore": 8,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 8,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "New Mexico sues to stop payouts to Jeffrey Epstein's lawyer, accountant",
+     "desc": "Oct 21 - New Mexico has filed a civil lawsuit to block payments from Jeffrey Epstein's estate to the late sex offender's lawyer and accountant, and to recover damages for survivors of his alleged sexual abuse, the state's top law enforcement official said on Wednesday.",
+     "url": "https://www.straitstimes.com/world/new-mexico-sues-jeffrey-epsteins-former-lawyer-and-accountant",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "New Mexico sues to stop payouts to Jeffrey Epstein's lawyer, accountant - Reuters",
+     "desc": "New Mexico sues to stop payouts to Jeffrey Epstein's lawyer, accountant Reuters",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMlFNc2V2YVRPNHBBM0xYLUxXdjd2MnFjVV9NUnA1Vk5QODV5Z2tiMEVJV1drUXZSMFdzOUFGYV8yQkx3WUYwejRYM2FyNzFTc0E0SVV6UFd3TEh5MlpNQWxrNWJXMHc1OXhfb2k4VUlBamgtS0lwdGY4TVU2dWdDVHAxT0dNYkEwalhsVjNlUUlJNGwySUoyRmQ0NmtfY2lIX3hCYzFZd2FrVnlFNGRn?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "New Mexico attorney general accuses Epstein attorney, accountant of abuse cover-up at ranch - AP News",
+     "desc": "New Mexico attorney general accuses Epstein attorney, accountant of abuse cover-up at ranch AP News",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa3NydUNob1RqQVYxNUhyZHhCcFlsV2txQ3pMVWxCT0oyWEJHT2JkbzV0WHRFYVF6OWRnVU1KaVZsNV9oY25IU19SZWNEUWJ6T1A5aXJaZlZVUDBjNDVnTEJDdy1yU3JFbkdBX2EwZ2RudzRMc0VxbEpSTGI3Xy1LSGVJUXVNaDBtMktSYXdQcnJlQjNnUmFR?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261021-01",
+   "title": "テスラとスペースXの統合を検討",
+   "firstSeen": "2026-10-21",
+   "daysSeen": 2,
+   "history": {
+    "2026-10-21": 14,
+    "2026-10-22": 7
+   },
+   "peak": 14,
+   "worldScore": 7,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 7,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.68,
+     "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
+     "desc": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
+     "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Obviously SpaceX and Tesla Will Merge - Bloomberg.com",
+     "desc": "Obviously SpaceX and Tesla Will Merge Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVXJXMXJsUGhrbjFKSi12akt0Y1M2VHlKWlByV195bmZ1RGZTYm9rUjlHX3V2QWlhRkRuRzVOM3BmN05Sb2FuQ3NIOU1hNklvdFVfc1c0ZE5qV0tfY0ZpWTZVREJIUzgxd0NZZkVwZXhlLTdyWHYtWks2b1FKTGF6aHhqX3h3SUE3QXhpR2FEZnl3M0wyMUQ3QWVn?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261022-06",
+   "title": "ウクライナの首都キーウ等にミサイル攻撃",
+   "firstSeen": "2026-10-22",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-22": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Six injured in Russian missile attack on Ukrainian capital, Kyiv",
+     "desc": "Homes, a petrol station and transport equipment were also damaged.",
+     "url": "https://www.straitstimes.com/world/europe/ukrainian-capital-under-missile-attack-explosions-seen-in-city",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Six injured in Russian missile attack on Ukrainian capital - Reuters",
+     "desc": "Six injured in Russian missile attack on Ukrainian capital Reuters",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZGRlYThKZW5JNEE0N2pYaVZRaVozOGRaTjhpeHRaVWFEQVZXLWcxc2hNY0VqT0JlcW5ZQUVZLTgyenltX1h0NXR5cmcxN1VjSjNkcm9vbk1DTkR6bVVKNmljX0xMOWRncVY4UEc2VUNhRmw0eHJnTklSZGlzYzdDSi1RRkhZTVhVSVIzeFRJRW1tTmhmM194QkZPeFppQzliNDVQQ3Y5SEJsdHdOQmtVeVNFWm91bWhvOXRHMzhrQQ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261022-07",
+   "title": "エルサルバドル、ハイチのギャングによる人質事件受け対応へ",
+   "firstSeen": "2026-10-22",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-22": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "El Salvador says Haiti gangs holding 4 force members hostage, announces new rescue mission",
+     "desc": "Oct 21 - El Salvador's President Nayib Bukele on Wednesday said that Haitian gangs were holding four Salvadaron members of an international UN-backed security force hostage, and that he had launched a military operation to being them back unharmed.",
+     "url": "https://www.straitstimes.com/world/el-salvador-says-haiti-gangs-holding-4-force-members-hostage-announces-new-rescue-mission",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "El Salvador says Haiti gangs holding 4 force members hostage, announces new rescue mission - Reuters",
+     "desc": "El Salvador says Haiti gangs holding 4 force members hostage, announces new rescue mission Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWXFZb1FxUlowcWMwdURfWXIyRlQ0Q09mOWltdHd1bVR5V2I4Mlg4LTNKbmNCQ2RURk90MjMwVXlSRFYxZVJ0ZEJMN0JMRlNiNS1qOEZITmtNRjdkU204QUtEV2ZkVlEzdUR5T2pHSENXcjFzN0pkelBfRV9DZXE1RU9waFlRVVJLYXcwcnNnZ1RFelNwSW83ZVBLRE9YbDdLblhveDJwTVZic1RGOWMxWUZhZ3V2Y3JLa0tVdUQ4VzZjeVk?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261022-12",
+   "title": "コロンビアで大規模なコカイン押収",
+   "firstSeen": "2026-10-22",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-22": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Colombia seizes 7.6 tonnes of cocaine in biggest haul in a decade",
+     "desc": "Colombian authorities have seized 7.6 tonnes of cocaine at the Caribbean port of Cartagena",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/colombia-seizes-7-6-tonnes-of-cocaine-in-biggest-haul-in-a-decade?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Colombia seizes 7.6 tonnes of Netherlands-bound cocaine at Cartagena port",
+     "desc": "Separately, two Dutch nationals wanted by prosecutors in the Netherlands have been arrested in Colombia.",
+     "url": "https://www.euronews.com/2026/10/21/colombia-seizes-76-tonnes-of-netherlands-bound-cocaine-at-cartagena-port",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261022-13",
+   "title": "UAE外交官が国連事務総長選に立候補",
+   "firstSeen": "2026-10-22",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-22": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 8,
+   "jpCoverage": "1/6",
+   "gap": -2,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Senior UAE diplomat Lana Nusseibeh enters race for UN chief",
+     "desc": "DUBAI, Oct 21 - Senior UAE diplomat Lana Nusseibeh entered the race to become the next United Nations secretary-general on Wednesday, injecting a prominent Middle Eastern candidate into a contest that has struggled to produce a consensus choice among the Security Council’s most powerful members.",
+     "url": "https://www.straitstimes.com/world/middle-east/senior-uae-diplomat-lana-nusseibeh-enters-race-for-un-chief",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "EXCLUSIVE: Senior UAE diplomat Lana Nusseibeh enters race for UN chief - Reuters",
+     "desc": "EXCLUSIVE: Senior UAE diplomat Lana Nusseibeh enters race for UN chief Reuters",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORl9ZNjNjcFpVTWt6R2RicGZDYy01UzhzSFcwWFNXUGtZaGZCUUhOSXdyMjg2aXlDYVFnNGQ4VVJ1dXhyV3NxQmV4RmRWRE9uWnBhSUp4STlYSmtWMFotWlhiMHZFeWR4N29BbkZzZjMtTS04MGo0MXVWS2pyZURsOENFbnZaUXNkQjBlQUFRa2JySnEtWF9ERGxQNzdGZw?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "mainichi",
+     "name": "毎日新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "UAE、女性外交官を国連事務総長選に推薦 有力候補に浮上か",
+     "desc": "",
+     "url": "https://mainichi.jp/articles/20261022/k00/00m/030/005000c",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261022-14",
+   "title": "米議員、ロシアの民主党ターゲット巡るブリーフィング言及",
+   "firstSeen": "2026-10-22",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-22": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Lawmakers say US briefing showed Russia targeting Democrats with misinformation",
+     "desc": "They said Moscow was waging the same kind of campaign seen in three previous US elections.",
+     "url": "https://www.straitstimes.com/world/united-states/lawmakers-say-us-briefing-showed-russia-targeting-democrats-with-misinformation",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Lawmakers say US briefing showed Russia targeting Democrats with misinformation - Reuters",
+     "desc": "Lawmakers say US briefing showed Russia targeting Democrats with misinformation Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRFJLUEhfVDJRWmZsVlVqRnB3WHlMUFZOeXJoNUF3WjhsNVJ6SUI2ajNxck5SUHBLTTI5dzhvV1JkaF9OS2R6SjQ0bnFpV011blVVQ1hKVkpMRkx6OHpqR1JJM1BGY2hYVExYQ1hUb01JV0tMc0FTNFIyY3dpTjFQNVVtNXozb1VjSkMwU1h6UWJ6TEFWRVE1cjJYVjQ5QTNPX2hpUDJabEhWbldxNjZqdFJEb1pjQjJjbm1TVDViWFNvQQ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261022-15",
+   "title": "ベネズエラ、選挙後の投資誘致目指す",
+   "firstSeen": "2026-10-22",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-22": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Venezuela to attract investors after elections, Branson says",
+     "desc": "Oct 21 - British billionaire and Virgin Group owner Richard Branson said on Wednesday that Venezuela will attract more foreign investors once the country holds elections, as the South American nation seeks to boost capital inflows in sectors like oil and gas.",
+     "url": "https://www.straitstimes.com/world/europe/venezuela-to-attract-investors-after-elections-branson-says",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Venezuela to attract investors after elections, Branson says - Reuters",
+     "desc": "Venezuela to attract investors after elections, Branson says Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYjM3czJkMGVZSHMzXzBkcUhRV204bGpXZm9MaDhEeFNlNFl0RHI0SHVBU1JnMklWaDF6NnVXY1doajRyUUhGbHZZVnNiaVVScnFaY1FaSEJGdVBqbmxoVFk5RnBraTJEM2hmb29wbGRMRFpibjRJdmszTTNTSWczTlpLODhyaGRzNF9xdjV3Wk40QmxIUzRRN1M4dzVEZWdISnVfRXNSY2dfOFk?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261022-17",
+   "title": "トランプ派組織、米重要選挙に向け巨額支援",
+   "firstSeen": "2026-10-22",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-22": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump’s MAGA Inc unleashes US$277m in last-ditch bid to save Republicans in key US races",
+     "desc": "Several races in the November midterm elections are key to Republicans' chances of keeping control of Congress.",
+     "url": "https://www.straitstimes.com/world/united-states/trumps-maga-inc-unleashes-us277m-in-last-ditch-bid-to-save-republicans-in-key-us-races",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump's MAGA Inc unleashes $277 million last-ditch effort to save Republicans in key US races - Reuters",
+     "desc": "Trump's MAGA Inc unleashes $277 million last-ditch effort to save Republicans in key US races Reuters",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQ2lJMDRnenpmU3ZEajk0Ync0TWxqNVEzcmdJa1hzLXd6Zmdzazc3ZHIxamNIZjdDa01IVkh2b24yQVEyb2NXcXVzSG9aN01JTU9GVXlCYzJHREJOdGpkb2ljdDE3RndrUnRtdHNHTzh6b3VfTEJnbmNTTDhmUWx1eTRKUklCVTh6ZEowSDZXbTdFVkJoZU10OWFfa0hLQU96WlRDRk9MNXBKSmx3cGxRWlRjMUxfNTBDUDdVemI2Njh2R3RHLUx2R3NEcDk?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261022-03",
+   "title": "南アフリカでサメ襲撃、遊泳中の女性死亡",
+   "firstSeen": "2026-10-22",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-22": 5
+   },
+   "peak": 5,
+   "worldScore": 5,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 5,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.53,
+     "title": "Swimmer, 65, killed in shark attack off South Africa's east coast",
+     "desc": "Janine Lochrenberg, 65, was out on her daily morning swim with her club when she was attacked, her family tell the BBC.",
+     "url": "https://www.bbc.co.uk/news/articles/cqx297pxg1djo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 0.39,
+     "title": "Swimmer killed in shark attack in South Africa",
+     "desc": "A 65-year-old woman was killed in a shark attack at a popular beach on South Africa's southeastern coast, local authorities said.",
+     "url": "https://news.sky.com/story/woman-65-killed-in-shark-attack-in-south-africa-13601492",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261022-04",
+   "title": "仏の歴史的市庁舎で火災、容疑者逮捕",
+   "firstSeen": "2026-10-22",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-22": 5
+   },
+   "peak": 5,
+   "worldScore": 5,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 5,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.45,
+     "title": "Suspect arrested after historic town hall set alight - French media",
+     "desc": "The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday.",
+     "url": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 0.48,
+     "title": "Suspect arrested in France after fire at historic city hall",
+     "desc": "A man has been arrested after a fire at the town hall of Limoges, according to French media.",
+     "url": "https://news.sky.com/story/suspect-arrested-in-france-after-fire-at-limoges-city-hall-13601372",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261022-18",
+   "title": "プログラミング言語「PHP」に重大な脆弱性発覚",
+   "firstSeen": "2026-10-22",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-22": 3
+   },
+   "peak": 3,
+   "worldScore": 3,
+   "worldCoverage": "1/18",
+   "jpScore": 42,
+   "jpCoverage": "4/6",
+   "gap": -39,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "What is PHP and why did it take government websites offline? - Reuters",
+     "desc": "What is PHP and why did it take government websites offline? Reuters",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ0lJS1lzVTBUNTJULVVJZGpTR0NwcXN3SkpEQVgzQ19CaGZxNlFGWEFGU1lRTjhyYjE2RDZDTUJqMGNyQXpnaWhMbGlhLV9qZU1HSmt4WGJlMXlJLWVRNDIwY3FPdjNMSUc3UzhLWWM0N19ubjROa3pjWHJraVNJa05EeUR2WHRSbDVhN3EzWHE3UkVPUVlPN3AxMjdMSkJXdnZfRQ?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "プログラミング言語「ＰＨＰ」に脆弱性 世界のサイト７割が危険に",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026102200196&g=int&m=rss",
+     "via": null
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.71,
+     "title": "米FBI、PHP欠陥に注意喚起 「機密データ侵害の恐れ」(共同通信)",
+     "desc": "【ワシントン共同】米連邦捜査局（FBI）は21日、プログラミング言語「PHP」にシステムの重大な欠陥に当たる脆弱性が見つかった問題を巡り、機密データやネットワークが侵害される恐れがあると注意喚起した。",
+     "url": "https://news.yahoo.co.jp/articles/e7cb44788c72540840227c0512fd721cd4d866e2?source=rss",
+     "via": null
+    },
+    {
+     "id": "yahoo",
+     "name": "Yahoo!ニュース主要",
+     "region": "jp",
+     "weight": 0.8,
+     "title": "PHPに欠陥 欧州各国でサイト遮断",
+     "desc": "",
+     "url": "https://news.yahoo.co.jp/pickup/6599650?source=rss",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "プログラム言語「PHP」欠陥、世界でサイト停止 AIが脆弱性発見 - 日本経済新聞",
+     "desc": "プログラム言語「PHP」欠陥、世界でサイト停止 AIが脆弱性発見 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQdHgxaTFrN3lzaXF1NmcxRUNQZl94T0VQbW9ZYXFlRWx4MjJ1UE00V1UwQ3ZrTjBDemdveWFtR0lXQnNsZy0tZkZDMHJ1WUZWQ0ZUUTJBNGU3eUkxa0RsZWkwSkZoM1BBMFltZg?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261022-19",
+   "title": "イオンのサイトに不正アクセス、情報流出調査",
+   "firstSeen": "2026-10-22",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-22": 0
+   },
+   "peak": 0,
+   "worldScore": 0,
+   "worldCoverage": "0/18",
+   "jpScore": 17,
+   "jpCoverage": "2/6",
+   "gap": -17,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "asahi",
+     "name": "朝日新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "イオングループ13社の42サイトに不正アクセス 情報流出は調査中",
+     "desc": "",
+     "url": "http://www.asahi.com/articles/ASVBP457VVBPULFA02GM.html?ref=rss",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "イオン、ウェブサイトに不正アクセス 個人情報流出の有無を調査 - 日本経済新聞",
+     "desc": "イオン、ウェブサイトに不正アクセス 個人情報流出の有無を調査 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02N3BCSFg1S0dlb25fRndndFZ1TXF1c09rSnQ5R3RRQ05CRWRlZmF4aWdZZnd0UGZmM1FFaU9tWnp3SWQ5N2oxSWlKcDUtVnpUaGRsUHJwUElGa0k1RHlpTEZCdkViN1BlWVc1eA?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261009-22",
+   "title": "コミックシーモアで最大420万件の個人情報流出の恐れ",
+   "firstSeen": "2026-10-09",
+   "daysSeen": 3,
+   "history": {
+    "2026-10-09": 0,
+    "2026-10-16": 0,
+    "2026-10-22": 0
+   },
+   "peak": 0,
+   "worldScore": 0,
+   "worldCoverage": "0/18",
+   "jpScore": 23,
+   "jpCoverage": "2/6",
+   "gap": -23,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "asahi",
+     "name": "朝日新聞",
+     "region": "jp",
+     "weight": 0.85,
+     "title": "20府県警の警察官ら12万5千件の個人情報流出か 氏名やアドレス",
+     "desc": "",
+     "url": "http://www.asahi.com/articles/ASVBP3SVBVBPUTIL02JM.html?ref=rss",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "「コミックシーモア」、会員情報など最大420万件流出 不正アクセスで - 日本経済新聞",
+     "desc": "「コミックシーモア」、会員情報など最大420万件流出 不正アクセスで 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pdGsyN0tKYzdaVWFHd2o1OGtXaXJ3X01JRFNJNHBSRUVvYVo0Y3BRTG1BRGRmVTZUYkFBR05Jbm9EZjk5S1ZPRDB6dV9kUWxIczB4czBlUUp6aUFsOHlEc1Z3YjVCOUdLS29fUw?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  }
+ ]
+}
