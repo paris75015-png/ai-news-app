@@ -1,6 +1,6 @@
 {
- "date": "2026-10-22",
- "generatedAt": "2026-10-22T00:03:15.433Z",
+ "date": "2026-10-23",
+ "generatedAt": "2026-10-23T00:00:54.374Z",
  "measured": {
   "world": 18,
   "jp": 6
@@ -8,848 +8,39 @@
  "unreachable": [],
  "ranking": [
   {
-   "id": "s-20261014-01",
-   "title": "ローマ教皇の肺がん手術、追加治療不要",
-   "firstSeen": "2026-10-14",
-   "daysSeen": 3,
-   "history": {
-    "2026-10-14": 37,
-    "2026-10-20": 6,
-    "2026-10-22": 35
-   },
-   "peak": 37,
-   "worldScore": 35,
-   "worldCoverage": "10/18",
-   "jpScore": 15,
-   "jpCoverage": "1/6",
-   "gap": 20,
-   "japan": false,
-   "outlets": [
-    {
-     "id": "bbc",
-     "name": "BBC",
-     "region": "world",
-     "weight": 0.91,
-     "title": "Pope does not need further treatment after lung cancer surgery",
-     "desc": "Test results have confirmed his diagnosis as a lung adenocarcinoma that was localised.",
-     "url": "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo?at_medium=RSS&at_campaign=rss",
-     "via": null
-    },
-    {
-     "id": "aljazeera",
-     "name": "Al Jazeera",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Pope Leo needs no further treatment after cancer surgery, doctors say",
-     "desc": "The 71-year-old leader of the Catholic Church has had the lower lobe of his right lung removed in surgery.",
-     "url": "https://www.aljazeera.com/news/2026/10/21/pope-leo-needs-no-further-treatment-after-cancer-surgery-doctors-say?traffic_source=rss",
-     "via": null
-    },
-    {
-     "id": "nyt",
-     "name": "New York Times",
-     "region": "world",
-     "weight": 0.56,
-     "title": "Pope Needs No Further Treatment for Lung Cancer, Doctors Say",
-     "desc": "Test results after the operation showed that the cancer was localized.",
-     "url": "https://www.nytimes.com/2026/10/21/world/europe/pope-leo-cancer.html",
-     "via": null
-    },
-    {
-     "id": "euronews",
-     "name": "Euronews",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Pope Leo XIV post-op results show no further treatment required as tumour was localised",
-     "desc": "The pontiff needs no further treatment, his doctors said, eight days after an hour-and-a-half operation on his right lung.",
-     "url": "https://www.euronews.com/2026/10/21/pope-leo-xiv-post-op-results-show-no-further-treatment-required-as-tumour-was-localised",
-     "via": null
-    },
-    {
-     "id": "scmp",
-     "name": "South China Morning Post",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Pope Leo doesn’t need further treatment for lung cancer, doctors say",
-     "desc": "Pope Leo needs no further treatment for lung cancer after follow-up tests confirmed the disease was localised, the Vatican said in a statement on Wednesday. Leo, 71, had the lower lobe of his right lung removed last week in the first major health event of his 17-month pontificate. The surgery confirmed he had adenocarcinoma, the most common type of lung cancer. He left the hospital on Saturday, four days after surgery and well ahead of the week-long hospital stay the Vatican had initially...",
-     "url": "https://www.scmp.com/news/world/europe/article/3371691/pope-leo-doesnt-need-further-treatment-lung-cancer-doctors-say",
-     "via": null
-    },
-    {
-     "id": "sky",
-     "name": "Sky News",
-     "region": "world",
-     "weight": 0.91,
-     "title": "Pope Leo's doctors say tests show he needs no further treatment for lung cancer",
-     "desc": "Pope Leo's doctors say final tissue and molecular tests have confirmed his lung cancer was localised, and no further treatment is needed, the Vatican said in a statement.",
-     "url": "https://news.sky.com/story/pope-leos-doctors-say-tests-show-he-needs-no-further-treatment-for-lung-cancer-13602031",
-     "via": null
-    },
-    {
-     "id": "abc-au",
-     "name": "ABC Australia",
-     "region": "world",
-     "weight": 0.85,
-     "title": "Pope Leo will not need further cancer treatment, doctors say",
-     "desc": "Pope Leo will not need further treatment after undergoing surgery for lung cancer last week, his doctors say.",
-     "url": "https://www.abc.net.au/news/2026-10-22/pope-leo-will-not-need-further-cancer-treatment-doctors-say/107295358",
-     "via": null
-    },
-    {
-     "id": "cbs",
-     "name": "CBS News",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Pope Leo won&#039;t need more treatment after cancer surgery, doctors say",
-     "desc": "Pope Leo XIV will not need any further treatment after having lung cancer surgery, his doctors said in a statement.",
-     "url": "https://www.cbsnews.com/news/pope-leo-further-treatment-lung-cancer-surgery/",
-     "via": null
-    },
-    {
-     "id": "straits",
-     "name": "The Straits Times",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Pope Leo will not need further cancer treatment, doctors say",
-     "desc": "Leo had the lower lobe of his right lung removed in surgery on Oct 13.",
-     "url": "https://www.straitstimes.com/world/europe/pope-leo-will-not-need-further-cancer-treatment-doctors-say",
-     "via": null
-    },
-    {
-     "id": "reuters",
-     "name": "Reuters",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Pope Leo will not need further cancer treatment, doctors say - Reuters",
-     "desc": "Pope Leo will not need further cancer treatment, doctors say Reuters",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMlVPVVl2aWZSajhRUEEtNHQzazA2YU85dHBtQjZ1OWloWTlheGZkRmxTWEVZS3piSkQ0VHppbmQwd1VSY2F5T0Y5MVJXdWNWcUtCSHVHa2FPSGc1dkVzSXV1N3htU1BnV2FVbkh0b0NYX21RdlZyM1V3c3d5dUtHY3NpemdmbWJJRWx5RkdGdy1YbGRPb3A0cnp4T0xoVmpYTGpQSnBJRHZYMnZoS0FNMDZOSWZWS2tUdWNz?oc=5",
-     "via": "googlenews"
-    },
-    {
-     "id": "yahoo-world",
-     "name": "Yahoo!ニュース 国際",
-     "region": "jp",
-     "weight": 0.91,
-     "title": "ローマ教皇、追加の治療必要なし 肺腺がん手術後、医師判断(共同通信)",
-     "desc": "【ローマ共同】ローマ教皇庁（バチカン）は21日、肺腺がんの手術を受けた教皇レオ14世について、組織検査の最終結果として、がんが局所にとどまっていたため、追加の治療は必要ないと医師が判断したことを明らか",
-     "url": "https://news.yahoo.co.jp/articles/cc39ff3d36775744db330fa9ba44d32b251924af?source=rss",
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "s-20261012-04",
-   "title": "ウクライナ和平巡り米露ウで協議、和平模索",
-   "firstSeen": "2026-10-12",
-   "daysSeen": 5,
-   "history": {
-    "2026-10-12": 31,
-    "2026-10-13": 32,
-    "2026-10-14": 3,
-    "2026-10-16": 7,
-    "2026-10-22": 30
-   },
-   "peak": 32,
-   "worldScore": 30,
-   "worldCoverage": "10/18",
-   "jpScore": 0,
-   "jpCoverage": "0/6",
-   "gap": 30,
-   "japan": false,
-   "outlets": [
-    {
-     "id": "bbc",
-     "name": "BBC",
-     "region": "world",
-     "weight": 1,
-     "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
-     "desc": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
-     "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
-     "via": null
-    },
-    {
-     "id": "guardian",
-     "name": "The Guardian",
-     "region": "world",
-     "weight": 0.53,
-     "title": "Putin orders release of jailed American as he meets Trump envoy for Ukraine talks",
-     "desc": "Russia frees Stephen Hubbard after US request while Steve Witkoff praises Putin, wanted by ICC as war criminal, as a ‘humanitarian’ US politics live – latest updates Vladimir Putin ordered the release of an American man from a Russian jail as he met Donald Trump’s envoy Steve Witkoff in St Petersburg on Wednesday for fresh talks on ending the war in Ukraine, amid increasingly close relations between Moscow and Washington. Trump had previously asked Putin to free Stephen Hubbard, a 74-year-old former teacher who had spent more than four years in Russian jails on charges of fighting as a mercena",
-     "url": "https://www.theguardian.com/world/2026/oct/21/putin-witkoff-russia-ukraine-trump-stephen-hubbard-release",
-     "via": null
-    },
-    {
-     "id": "aljazeera",
-     "name": "Al Jazeera",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Russia willing to resume peace talks with Ukraine, US after Witkoff visit",
-     "desc": "Russian President Vladimir Putin has signalled Moscow is willing in principle to resume talks with Ukraine and the US.",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/russia-willing-to-resume-peace-talks-with-ukraine-us-after-witkoff-visit?traffic_source=rss",
-     "via": null
-    },
-    {
-     "id": "france24",
-     "name": "France 24",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Putin agrees to resume three-way talks with Kyiv and Washington",
-     "desc": "President ⁠Volodymyr Zelenskiy ​said on Wednesday ​that Ukraine supported a US proposal for ​three-way talks ‌with Russia ⁠and the United ‌States at the level ⁠of negotiators to be held as soon ​as possible, preferably ‌no later than early November. Speaking with FRANCE 24's Mark Owen, Grégoire Roos, Director of the Europe, Russia and Eurasia Programme at Chatham House, says that \"it's not clear whether Putin would meet Trump and Zelensky\", adding that \"meeting Zelensky is the last thing that Putin would be prepared to do\".",
-     "url": "https://www.france24.com/en/putin-agrees-to-resume-three-way-talks-with-kyiv-and-washington",
-     "via": null
-    },
-    {
-     "id": "abc-au",
-     "name": "ABC Australia",
-     "region": "world",
-     "weight": 0.45,
-     "title": "Putin agrees to resume peace talks with Ukraine and US",
-     "desc": "Russian President Vladimir Putin agrees to resume US-mediated peace talks with Ukraine as soon as next month, following a meeting with US envoy Steve Witkoff.",
-     "url": "https://www.abc.net.au/news/2026-10-22/putin-agrees-to-resume-three-way-talks-on-ukraine-war/107294994",
-     "via": null
-    },
-    {
-     "id": "cbs",
-     "name": "CBS News",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Russia says Ukraine must make \"necessary decisions\" to end the war",
-     "desc": "U.S. envoy Steve Witkoff, meeting with Vladimir Putin in Russia, voiced hope for new trilateral talks involving Ukraine, and Moscow indicated the talks could resume in November.",
-     "url": "https://www.cbsnews.com/news/russia-ukraine-war-witkoff-putin-trump-zelenskyy/",
-     "via": null
-    },
-    {
-     "id": "straits",
-     "name": "The Straits Times",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Ukraine’s Zelensky hopes for new peace talks with Russia, US by early November",
-     "desc": "Russia's leader has agreed to resume US-mediated peace talks with Ukraine as soon as November.",
-     "url": "https://www.straitstimes.com/world/europe/ukraines-zelenskiy-hopes-for-new-talks-with-russia-us-by-early-november",
-     "via": null
-    },
-    {
-     "id": "reuters",
-     "name": "Reuters",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Ukraine's Zelenskiy hopes for new talks with Russia, US by early November - Reuters",
-     "desc": "Ukraine's Zelenskiy hopes for new talks with Russia, US by early November Reuters",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMUpoaHpLeXVSZ015UFRLMU1jOXJDbTN3cGI5Ymo5N2hjWkxyTzF2WDVsNTZTX2pNclQwZHcwY1ZaQ1pacTNncGVWYVJISnA4aHI5YjBlclFvRnBqNlFFNWtwSVVYVHRURU9VS2ZRS3JCN3lycDRnZHFGeEwxeEVLYmJENG40NTNlSFYweUIzWmlOcHpyemxnRk1PVkRURjhTTEtodXAzZUplNG5fZG42VWZwS1NZZ0k?oc=5",
-     "via": "googlenews"
-    },
-    {
-     "id": "ap",
-     "name": "Associated Press",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Russia agrees to resume three-way talks on Ukraine war with Kyiv and Washington, Kremlin says - AP News",
-     "desc": "Russia agrees to resume three-way talks on Ukraine war with Kyiv and Washington, Kremlin says AP News",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMW9MQzVDRzVJcjRnVnpSeW5ZVlhBTEFablZZNTNQNFNkYmhmWjFXR2M4RlNDWldOTlh5TjFSYU5tVHhPSFFidnBtNFVGMEthRjV1TElCVGdQMjZHOXNNLXV6R1F0QVJjYTR6Q0pMbW4xVkFmUDVuQXNoYUJxbUd1TlBaWG4xdlBaYTZQVTJUSEdZXzJXN28xS0praHdNb0t2eUU3clRWTF9fR2ljZW1V?oc=5",
-     "via": "googlenews"
-    },
-    {
-     "id": "ft",
-     "name": "Financial Times",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Trump envoy proposes Ukraine talks and summit with Putin and Xi - Financial Times",
-     "desc": "Trump envoy proposes Ukraine talks and summit with Putin and Xi Financial Times",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOd1p2UF8tR01VdUdpamJpaUJvRmt2d0xjTzFKR2ctdjlSbHNWTkwzMDhzYnhXRFM4WGRmOGpLQ0xuZ2xKLUM5cDdWWkRlZjdNemJ3UE12UmhIcjltTEkxUU1BZEd6YkU4UlRHZXN4bm82anZYNHpNX0s5V0pyRFprTG9pc2Y?oc=5",
-     "via": "googlenews"
-    }
-   ]
-  },
-  {
-   "id": "s-20261015-22",
-   "title": "メタに約3.8兆円の罰金命令、データプライバシー巡り",
-   "firstSeen": "2026-10-15",
-   "daysSeen": 2,
-   "history": {
-    "2026-10-15": 11,
-    "2026-10-22": 26
-   },
-   "peak": 26,
-   "worldScore": 26,
-   "worldCoverage": "8/18",
-   "jpScore": 0,
-   "jpCoverage": "0/6",
-   "gap": 26,
-   "japan": false,
-   "outlets": [
-    {
-     "id": "bbc",
-     "name": "BBC",
-     "region": "world",
-     "weight": 0.77,
-     "title": "Meta fined $25bn for 'lies' over user data privacy",
-     "desc": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
-     "url": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
-     "via": null
-    },
-    {
-     "id": "aljazeera",
-     "name": "Al Jazeera",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Judge orders Meta to pay $25bn in fines for Facebook privacy violations",
-     "desc": "A jury found Meta guilty of lying to Facebook users in ⁠⁠⁠⁠⁠⁠⁠⁠New Mexico about access to their data.",
-     "url": "https://www.aljazeera.com/news/2026/10/21/judge-orders-meta-to-pay-25bn-in-fines-for-facebook-privacy-violations?traffic_source=rss",
-     "via": null
-    },
-    {
-     "id": "france24",
-     "name": "France 24",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Meta fined $25 billion in New Mexico over Cambridge Analytica scandal",
-     "desc": "A New Mexico judge ordered Meta to pay $25 billion after a jury found the company deceived users in a case linked to the Cambridge Analytica scandal, media reported Wednesday. The ruling follows an $18 billion settlement with 48 other states over similar claims. Meta called the penalty “a tax on speech.”",
-     "url": "https://www.france24.com/en/technology/20261021-meta-fined-25-billion-new-mexico-cambridge-analytica-scandal",
-     "via": null
-    },
-    {
-     "id": "scmp",
-     "name": "South China Morning Post",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Meta to pay New Mexico a historic US$25 billion in Cambridge Analytica Facebook case",
-     "desc": "Meta Platforms was ordered to pay a groundbreaking US$25 billion civil penalty to the state of New Mexico in a consumer deception case spurred by the Cambridge Analytica scandal. The fine issued by state court Judge Francis Mathew is among the largest verdicts issued in US legal history. The award comes after a jury in Santa Fe determined that Meta had violated the state’s consumer protection over 43 million times based on widely viewed deceptive statements made by the company and its top...",
-     "url": "https://www.scmp.com/news/world/united-states-canada/article/3371689/meta-pay-new-mexico-historic-us25-billion-cambridge-analytica-case",
-     "via": null
-    },
-    {
-     "id": "abc-au",
-     "name": "ABC Australia",
-     "region": "world",
-     "weight": 0.91,
-     "title": "Meta fined $25b in US for deceiving users about Facebook privacy",
-     "desc": "A judge orders Meta to pay New Mexico $US25 billion after a jury found the company liable for deceiving users about privacy on Facebook.",
-     "url": "https://www.abc.net.au/news/2026-10-22/meta-ordered-to-pay-new-mexico-us25-billion/107294964",
-     "via": null
-    },
-    {
-     "id": "straits",
-     "name": "The Straits Times",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Meta ordered to pay US$25b to New Mexico after jury finds company misled consumers about data privacy",
-     "desc": "he penalty was one of the largest financial penalties against a corporation in US history.",
-     "url": "https://www.straitstimes.com/world/united-states/meta-ordered-to-pay-us25b-to-new-mexico-after-jury-finds-company-misled-consumers-about-data-privacy",
-     "via": null
-    },
-    {
-     "id": "reuters",
-     "name": "Reuters",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Meta ordered to pay $25 billion penalty to New Mexico in data privacy case - Reuters",
-     "desc": "Meta ordered to pay $25 billion penalty to New Mexico in data privacy case Reuters",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYWNTZTVrUDY5dUhLcUduTzg1NGZDUWx1VTNVbFRNV3hOcXo0TG51MDBMRm5WQU9STGRPZGhLNml2dTFMb1h2b1hLelA4QU5KV3pRLWktdDVhOEFxWDY5VW1URmZEVm9QcDg0WEp2Zmo2V1RIcFpCdk1zeFFhdU1VeHl4QUVZeGZxU3ZJLV9UUzZYWG85Ujl0RkRMbGhMd2RBWkdDNnJpbnBNQXduV3FBLXZTYlk2Y2xhVzFSbmthRFJERU0?oc=5",
-     "via": "googlenews"
-    },
-    {
-     "id": "bloomberg",
-     "name": "Bloomberg",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Meta to Pay Historic $25 Billion in New Mexico Deception Case - Bloomberg.com",
-     "desc": "Meta to Pay Historic $25 Billion in New Mexico Deception Case Bloomberg.com",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeFBfX2FYVEtRX1NLVU5tYk80WUx0d1dIc25ORVRyNzJnWndidDdhcXNOSXJaUkFDVE9hbTZmZ1hjSmpxZXg1SlVqT1EyRXJmeHpoaHVEa2Z4SVlzNXl6X2tQX1JYbVpnQjNPWUhpbUJSSkV4Z0dsdGI3NW5xOFR1R1dqcUhCSTZNdEdUUWVqaXJiYmhuZXY2RXpnZlF0UFJBdmxPUTlVZmUxZWxmRWZMdQ?oc=5",
-     "via": "googlenews"
-    }
-   ]
-  },
-  {
-   "id": "s-20261015-07",
-   "title": "ナイジェリアで初の エボラ出血熱確認",
-   "firstSeen": "2026-10-15",
-   "daysSeen": 4,
-   "history": {
-    "2026-10-15": 7,
-    "2026-10-16": 8,
-    "2026-10-19": 7,
-    "2026-10-22": 26
-   },
-   "peak": 26,
-   "worldScore": 26,
-   "worldCoverage": "8/18",
-   "jpScore": 0,
-   "jpCoverage": "0/6",
-   "gap": 26,
-   "japan": false,
-   "outlets": [
-    {
-     "id": "bbc",
-     "name": "BBC",
-     "region": "world",
-     "weight": 0.74,
-     "title": "Nigeria's first Ebola patient holidayed in Uganda, officials say",
-     "desc": "The wife of a diplomat based in Abuja travelled to Kampala for a vacation.",
-     "url": "https://www.bbc.co.uk/news/articles/c62kepvg2x9lo?at_medium=RSS&at_campaign=rss",
-     "via": null
-    },
-    {
-     "id": "guardian",
-     "name": "The Guardian",
-     "region": "world",
-     "weight": 0.94,
-     "title": "Nigeria confirms Ebola case as outbreak spreads into western Africa",
-     "desc": "Case in Africa’s most populous country was detected in a woman who had travelled from Uganda Nigeria has confirmed an Ebola case in its capital, Abuja, after a woman who arrived from Uganda tested positive for the virus, the health ministry said. The woman began showing symptoms on 7 October and was admitted to a hospital in Abuja four days later, where she was later diagnosed with Ebola. It is unclear when she arrived in Nigeria, Africa’s most populous country. Continue reading...",
-     "url": "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest",
-     "via": null
-    },
-    {
-     "id": "aljazeera",
-     "name": "Al Jazeera",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Nigeria’s first Ebola case matches DR Congo strain, health officials say",
-     "desc": "The Bundibugyo strain outbreak is the DR Congo&#039;s deadliest ever and has now reached West Africa for the first time.",
-     "url": "https://www.aljazeera.com/news/2026/10/21/nigerias-first-ebola-case-matches-dr-congo-strain-health-officials-say?traffic_source=rss",
-     "via": null
-    },
-    {
-     "id": "nyt",
-     "name": "New York Times",
-     "region": "world",
-     "weight": 0.36,
-     "title": "Nigeria Announces First Case of Ebola in Current Outbreak",
-     "desc": "Health officials praised the Nigerian authorities for their transparency in reporting the spread of the virus.",
-     "url": "https://www.nytimes.com/2026/10/20/world/africa/nigeria-ebola-outbreak.html",
-     "via": null
-    },
-    {
-     "id": "dw",
-     "name": "Deutsche Welle",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Nigeria records its first Ebola case, in capital Abuja",
-     "desc": "Nigeria has reported its first known case of Ebola during Africa's latest outbreak originating in the DRC. Health Minister Muhammad Ali Pate said the patient was a woman who had recently flown to Abuja from Uganda.",
-     "url": "https://www.dw.com/en/nigeria-records-its-first-ebola-case-in-capital-abuja/a-79717377?maca=en-rss-en-world-4025-rdf",
-     "via": null
-    },
-    {
-     "id": "euronews",
-     "name": "Euronews",
-     "region": "world",
-     "weight": 0.5,
-     "title": "African health ministers to hold Ebola crisis talks as Nigeria confirms first case",
-     "desc": "African health ministers will hold crisis talks on Ebola as Nigeria becomes the fourth country to confirm a case. The patient is now in isolation, while her contacts, including her spouse, a Swiss national, are being monitored.",
-     "url": "https://www.euronews.com/2026/10/21/african-health-ministers-to-hold-ebola-crisis-talks-as-nigeria-confirms-first-case",
-     "via": null
-    },
-    {
-     "id": "sky",
-     "name": "Sky News",
-     "region": "world",
-     "weight": 0.65,
-     "title": "Uganda reacts angrily as Nigeria confirms its first Ebola case",
-     "desc": "Nigeria has recorded its first case of Ebola during the current outbreak, the country's health ministry has said - as the virus continues to spread internationally.",
-     "url": "https://news.sky.com/story/nigeria-confirms-ebola-case-as-outbreak-continues-to-spread-13601748",
-     "via": null
-    },
-    {
-     "id": "ap",
-     "name": "Associated Press",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Nigeria confirms Ebola case in Abuja as woman who arrived from Uganda tests positive - AP News",
-     "desc": "Nigeria confirms Ebola case in Abuja as woman who arrived from Uganda tests positive AP News",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMld1Vl9scHJ2NGVsZkF5QkdRbEdfbHAxcEI5Rm9Nb2tmaWw1MExvZDE1dzRKQml2bnk1YlhfeTVXcEwxaXhnb09VZ0ZlNVBuQk5PNUtCOEFVMUNuYWh6aW5qYXpELXFTTnVsV3FVTktkeGwyeTdJUUhwWVpZQjl5TFBWd2ZlcGJ1bVB4MmZweEVLTS1oaHc?oc=5",
-     "via": "googlenews"
-    }
-   ]
-  },
-  {
-   "id": "s-20261022-08",
-   "title": "ロシアが米教師スティーヴン・ハバード氏を解放",
-   "firstSeen": "2026-10-22",
+   "id": "s-20261023-01",
+   "title": "チベットでM7の地震、16人死亡",
+   "firstSeen": "2026-10-23",
    "daysSeen": 1,
    "history": {
-    "2026-10-22": 24
+    "2026-10-23": 23
    },
-   "peak": 24,
-   "worldScore": 24,
+   "peak": 23,
+   "worldScore": 23,
    "worldCoverage": "7/18",
    "jpScore": 0,
    "jpCoverage": "0/6",
-   "gap": 24,
-   "japan": false,
-   "outlets": [
-    {
-     "id": "nyt",
-     "name": "New York Times",
-     "region": "world",
-     "weight": 0.8,
-     "title": "Who Is Stephen James Hubbard, the American Released From Russian Jail?",
-     "desc": "Mr. Hubbard, a 74-year-old teacher, was held for more than four years on what the State Department called fabricated charges.",
-     "url": "https://www.nytimes.com/2026/10/21/world/europe/who-stephen-hubbard-american-russia-prisoner-release.html",
-     "via": null
-    },
-    {
-     "id": "dw",
-     "name": "Deutsche Welle",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Russia frees jailed American Stephen Hubbard during Witkoff talks",
-     "desc": "During talks between Vladimir Putin and Steve Witkoff, Putin announced that jailed American Stephen Hubbard had been released. The Kremlin also said Russia was \"in principle\" ready to resume trilateral talks next month.",
-     "url": "https://www.dw.com/en/russia-frees-jailed-american-stephen-hubbard-during-witkoff-talks/a-79719452?maca=en-rss-en-world-4025-rdf",
-     "via": null
-    },
-    {
-     "id": "npr",
-     "name": "NPR",
-     "region": "world",
-     "weight": 1,
-     "title": "Putin releases American Stephen Hubbard from Russian prison",
-     "desc": "Russian President Vladimir Putin has freed another American, 74-year-old Michigan native Stephen Hubbard, from a Russian prison following a request from President Trump.",
-     "url": "https://www.npr.org/2026/10/21/nx-s1-6010608/putin-releases-american-stephen-hubbard-from-russian-prison",
-     "via": null
-    },
-    {
-     "id": "cbs",
-     "name": "CBS News",
-     "region": "world",
-     "weight": 0.5,
-     "title": "American Stephen Hubbard released by Russia, Trump confirms",
-     "desc": "Steve Witkoff lauded Vladimir Putin as \"a humanitarian\" as Russia freed Stephen Hubbard, an American deemed wrongfully detained by the U.S., after more than 4 years in prison.",
-     "url": "https://www.cbsnews.com/news/russia-stephen-hubbard-freed-american-ukraine-war-witkoff-putin/",
-     "via": null
-    },
-    {
-     "id": "straits",
-     "name": "The Straits Times",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Russia frees retired US schoolteacher in goodwill gesture as Putin meets Witkoff",
-     "desc": "Stephen Hubbard was convicted by Russia of mercenary activity in Ukraine in 2022, during a closed-door trial.",
-     "url": "https://www.straitstimes.com/world/united-states/russia-frees-retired-us-schoolteacher-in-goodwill-gesture-as-putin-meets-witkoff",
-     "via": null
-    },
-    {
-     "id": "ap",
-     "name": "Associated Press",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Russia frees American Stephen Hubbard after over 4 years behind bars - AP News",
-     "desc": "Russia frees American Stephen Hubbard after over 4 years behind bars AP News",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM2pKWm5lTVpmeW5RRHktWU5US2dTSS1fTDhuVjhVUjYyd3I5b3h2QzVfd0pDcm9WM1BFaFpQZENlZVMtdEoyNUQwTEJwTVhyckl0bVBYYzIxcVl1UW5FSzRUVXdIWUV3a214QnVhb1FJSkNjTFFEU0lfTGhtVTdWQ1RDVFpFQmhneWk1UVFBRHlHX3lmY0xTYU5HOTFYdmxYd09meDFTNkg4cmJ2Tlh6UnRFZGoxRlE?oc=5",
-     "via": "googlenews"
-    },
-    {
-     "id": "bloomberg",
-     "name": "Bloomberg",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Putin Releases Hostage to US, Earning Praise as Humanitarian - Bloomberg.com",
-     "desc": "Putin Releases Hostage to US, Earning Praise as Humanitarian Bloomberg.com",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQemQxZ3JXcTlKS1BDQWZ5TzJncUx3QjNlTmY1b0pfejkwcmVPUXhRbEZELXJoTHF5M2Nqc010dGQxczBoWU02bVM0eDJDZVpwZUNFaHg0UFJvMmp5OGRaTTlUWVVNNFlKT1dZNEtMWTNFbGJjRmZLNmxvVlBxZU10eE1DWk1SaDRRZXlMbUpHX3liV1BmMEpSWGtvNk45aFZ1OV95cnVNSzF2UDBMVnE0?oc=5",
-     "via": "googlenews"
-    }
-   ]
-  },
-  {
-   "id": "s-20261022-01",
-   "title": "マクロン仏大統領、トランプ氏の発言を批判",
-   "firstSeen": "2026-10-22",
-   "daysSeen": 1,
-   "history": {
-    "2026-10-22": 19
-   },
-   "peak": 19,
-   "worldScore": 19,
-   "worldCoverage": "5/18",
-   "jpScore": 8,
-   "jpCoverage": "1/6",
-   "gap": 11,
+   "gap": 23,
    "japan": false,
    "outlets": [
     {
      "id": "bbc",
      "name": "BBC",
-     "region": "world",
-     "weight": 0.94,
-     "title": "Macron accuses foreign leaders of exploiting French riots",
-     "desc": "The comment is an apparent swipe at Benjamin Netanyahu and Donald Trump, who both face elections in coming weeks.",
-     "url": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
-     "via": null
-    },
-    {
-     "id": "guardian",
-     "name": "The Guardian",
-     "region": "world",
-     "weight": 0.56,
-     "title": "Macron accuses Trump and other foreign leaders of ‘stupid comments’ about France unrest",
-     "desc": "Leaders criticised for spreading misleading information as France prepares for further protests this weekend Emmanuel Macron has accused Donald Trump and other foreign leaders of making “stupid comments” about France’s street unrest for political gain, as the country prepared for more protests this weekend. Speaking during a visit to Qatar, the French president did not name names but said “manipulation of information” after Saturday’s riots had led to “comments that are as unacceptable as they are stupid, from many people, including foreign leaders”. Continue reading...",
-     "url": "https://www.theguardian.com/world/2026/oct/21/macron-trump-foreign-leaders-stupid-comments-france-unrest",
-     "via": null
-    },
-    {
-     "id": "nyt",
-     "name": "New York Times",
-     "region": "world",
-     "weight": 0.88,
-     "title": "Macron Says Trump Does Not Like France and Distorts Its Troubles",
-     "desc": "Speaking in Qatar, President Emmanuel Macron railed against foreign leaders who he said had made false claims about unrest in France for their own political ends.",
-     "url": "https://www.nytimes.com/2026/10/21/world/europe/macron-trump-france-protests.html",
-     "via": null
-    },
-    {
-     "id": "france24",
-     "name": "France 24",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Macron rejects Trump’s claims blaming migrants for French riots",
-     "desc": "French President Emmanuel Macron condemned comments by \"foreign leaders\" on the violent protests in France on October 17. He has now arrived in Saudi Arabia as part of his Gulf tour.",
-     "url": "https://www.france24.com/en/video/20261021-macron-rejects-trump-s-claims-blaming-migrants-for-french-riots",
-     "via": null
-    },
-    {
-     "id": "ft",
-     "name": "Financial Times",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Macron hits out at ‘stupid’ Trump remarks about riots in France - Financial Times",
-     "desc": "Macron hits out at ‘stupid’ Trump remarks about riots in France Financial Times",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSE5YSFNlcnNFSmIxQkhjVjI3N05FQnh0QlZfdHB2Mk5pMzhNSXBLdnRFY19DRDBkWDBRZDFxQ2pVVVZJRXNaS2pUS1ZKSk53a19zWnYtelNkYk5aejZhNUVTazJXMXJnZ0ZmUTZPajBtNkh6R2xiSS0zV3pvNWh5UDB2QmM?oc=5",
-     "via": "googlenews"
-    },
-    {
-     "id": "yahoo-world",
-     "name": "Yahoo!ニュース 国際",
-     "region": "jp",
-     "weight": 0.45,
-     "title": "マクロン大統領、フランスのデモは移民が原因と主張したトランプ大統領を「愚かだ」と批判(中央日報日本語版)",
-     "desc": "フランスのエマニュエル・マクロン大統領は21日（現地時間）、フランスの反政府デモは移民が原因だと主張したドナルド・トランプ米大統領に対し、「容認できず、愚かな発言だ」と厳しく批判した。AP通信などによ",
-     "url": "https://news.yahoo.co.jp/articles/efe67999e32edc50406ed87b270439e7cd9e3826?source=rss",
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "s-20261020-06",
-   "title": "スーダンのドローン攻撃で多数の死傷者",
-   "firstSeen": "2026-10-20",
-   "daysSeen": 3,
-   "history": {
-    "2026-10-20": 11,
-    "2026-10-21": 15,
-    "2026-10-22": 15
-   },
-   "peak": 15,
-   "worldScore": 15,
-   "worldCoverage": "4/18",
-   "jpScore": 0,
-   "jpCoverage": "0/6",
-   "gap": 15,
-   "japan": false,
-   "outlets": [
-    {
-     "id": "bbc",
-     "name": "BBC",
-     "region": "world",
-     "weight": 0.62,
-     "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
-     "desc": "A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted.",
-     "url": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
-     "via": null
-    },
-    {
-     "id": "nyt",
-     "name": "New York Times",
      "region": "world",
      "weight": 0.91,
-     "title": "Drone Strike Kills More Than 150 in Abyei in Sudan’s Civil War",
-     "desc": "Struggling against each other on the battlefield, the sides in Sudan’s civil war are relying on drones to strike across vast distances, inflicting huge tolls on civilians in the process.",
-     "url": "https://www.nytimes.com/2026/10/21/world/africa/sudan-drone-strikes.html",
+     "title": "Powerful earthquake hits Tibet killing 16 people, reports say",
+     "desc": "The quake hit a mountainous, sparsely-populated region in north-eastern Tibet.",
+     "url": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss",
      "via": null
     },
-    {
-     "id": "dw",
-     "name": "Deutsche Welle",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Sudan drone strike kills around 150 in Abyei market",
-     "desc": "A drone strike hit a market in the Abyei border region disputed by Sudan and South Sudan and killed dozens. The drone caused a large fire when it hit a fuel depot. South Sudanese officials blamed Sudan's military.",
-     "url": "https://www.dw.com/en/sudan-drone-strike-kills-around-150-in-abyei-market/a-79716587?maca=en-rss-en-world-4025-rdf",
-     "via": null
-    },
-    {
-     "id": "sky",
-     "name": "Sky News",
-     "region": "world",
-     "weight": 0.74,
-     "title": "At least 153 people killed in drone strike on disputed Sudan-South Sudan region",
-     "desc": "A drone strike on a fuel depot in a disputed region on the Sudan-South Sudan border has killed at least 153 people.",
-     "url": "https://news.sky.com/story/at-least-153-people-killed-in-drone-strike-on-disputed-sudan-south-sudan-region-13601817",
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "s-20261019-28",
-   "title": "アルバータ州の住民投票、カナダ残留支持",
-   "firstSeen": "2026-10-19",
-   "daysSeen": 4,
-   "history": {
-    "2026-10-19": 5,
-    "2026-10-20": 18,
-    "2026-10-21": 28,
-    "2026-10-22": 15
-   },
-   "peak": 28,
-   "worldScore": 15,
-   "worldCoverage": "4/18",
-   "jpScore": 0,
-   "jpCoverage": "0/6",
-   "gap": 15,
-   "japan": false,
-   "outlets": [
-    {
-     "id": "bbc",
-     "name": "BBC",
-     "region": "world",
-     "weight": 0.56,
-     "title": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
-     "desc": "The overwhelming vote by Alberta to stay in Canada gives Mark Carney political capital to focus on remaking the country's economy, writes the BBC's Lyse Doucet.",
-     "url": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo?at_medium=RSS&at_campaign=rss",
-     "via": null
-    },
-    {
-     "id": "guardian",
-     "name": "The Guardian",
-     "region": "world",
-     "weight": 0.88,
-     "title": "Alberta voters overwhelmingly reject plan to leave Canada in referendum",
-     "desc": "Result is a victory for prime minister Mark Carney and supporters of Canadian unity Voters in Canada’s Alberta have overwhelmingly rejected a proposal to begin the process of independence, delivering a decisive victory for supporters of Canadian unity and deepening divisions within the separatist movement. With nearly 1.9m votes counted, roughly 76% people supported remaining in Canada, while 24% backed beginning a process toward separation, according to unofficial results from Elections Alberta. Continue reading...",
-     "url": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
-     "via": null
-    },
-    {
-     "id": "nyt",
-     "name": "New York Times",
-     "region": "world",
-     "weight": 0.71,
-     "title": "As Alberta Rejects Canada Separatism, Carney Gets Much of the Credit",
-     "desc": "Prime Minister Mark Carney won over Canada’s most conservative province by promising a pipeline and campaigning hard, defeating its efforts to secede.",
-     "url": "https://www.nytimes.com/2026/10/20/world/canada/carney-alberta-referendum-trump.html",
-     "via": null
-    },
-    {
-     "id": "ap",
-     "name": "Associated Press",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Alberta voters overwhelmingly reject separation process in a victory for Carney - AP News",
-     "desc": "Alberta voters overwhelmingly reject separation process in a victory for Carney AP News",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNam5EME1Qam5lQmc2X3BhcDgzXzdMaWJLa1V2akVCc0c2dnJlZmo4bjZ5NEdXZmMxNHp6d1kxV3hEY2QwbkZraktnS1V5a3ItMUFvZmlxb0daZUppSHdqdjBvdUNrNVNueGo0TlROS21OeGl4OTBwM0RlanJuT2pGZjllNWxHMS0wOVFtRV9DOHA0TzZWbkotTGJXMzJHcjJFOHVFbkhnOUk?oc=5",
-     "via": "googlenews"
-    }
-   ]
-  },
-  {
-   "id": "s-20261020-01",
-   "title": "豪議員が車にはねられ負傷、捜査進む",
-   "firstSeen": "2026-10-20",
-   "daysSeen": 3,
-   "history": {
-    "2026-10-20": 24,
-    "2026-10-21": 28,
-    "2026-10-22": 14
-   },
-   "peak": 28,
-   "worldScore": 14,
-   "worldCoverage": "4/18",
-   "jpScore": 0,
-   "jpCoverage": "0/6",
-   "gap": 14,
-   "japan": false,
-   "outlets": [
-    {
-     "id": "bbc",
-     "name": "BBC",
-     "region": "world",
-     "weight": 0.88,
-     "title": "'Targeted' attack on much-loved MP leaves Australian town heartbroken",
-     "desc": "Locals describe the MP, who had to have both legs amputated, as a genuinely kind person who fought for the community.",
-     "url": "https://www.bbc.co.uk/news/articles/cmgr8q88r5eqo?at_medium=RSS&at_campaign=rss",
-     "via": null
-    },
-    {
-     "id": "guardian",
-     "name": "The Guardian",
-     "region": "world",
-     "weight": 0.71,
-     "title": "Labor, Coalition and crossbench MPs afraid at home and work after alleged attack on Helen Haines",
-     "desc": "Home and office safety a common concern in Australian federal police and Asio safety briefings with politicians following alleged attack on MP Helen Haines Get our new political email , free app or daily news podcast Security agencies will review safety precautions for MPs’ homes and offices after numerous federal politicians told police and Asio in safety briefings that they were worried about widening threats after the alleged attack on Helen Haines. The Labor government and politicians across the parliament are still considering how they will respond when they return to Canberra next week, ",
-     "url": "https://www.theguardian.com/australia-news/2026/oct/22/politicians-say-they-are-paying-thousands-for-own-security-upgrades-amid-rising-threats-ntwnfb",
-     "via": null
-    },
-    {
-     "id": "dw",
-     "name": "Deutsche Welle",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Australian MP Helen Haines loses both legs after car attack as suspect appears in court",
-     "desc": "Doctors have amputated both of Helen Haines legs after the Australian lawmaker was hit in an apparent deliberate attack. The suspected driver involved in the attack has appeared in court.",
-     "url": "https://www.dw.com/en/australian-mp-helen-haines-loses-both-legs-after-car-attack-as-suspect-appears-in-court/a-79697660?maca=en-rss-en-world-4025-rdf",
-     "via": null
-    },
-    {
-     "id": "ap",
-     "name": "Associated Press",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Australian politician who was hit by car has lost both legs - AP News",
-     "desc": "Australian politician who was hit by car has lost both legs AP News",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbVd2UnVhbVJ3OC1vUXFFU2RfZ1NTNU1uY2xPNFpkVi12X3RIcHpzM2NUcWZBNjJxNkJsRHJTZzY1bEVfanczWDhxVGlaTnNnVUFOVDZzc0RabjJ3ZTN4MzhyUmdYOW5FSE9QTkRVdDFQYW1mdVNfMGd6cW01TExoUnFlSjVFX1l2UWJhcG5nWVFQckNuUm9EUml4WFM?oc=5",
-     "via": "googlenews"
-    }
-   ]
-  },
-  {
-   "id": "s-20261022-05",
-   "title": "カナダ製パブリッシャー、AI使用巡り作家との契約解除",
-   "firstSeen": "2026-10-22",
-   "daysSeen": 1,
-   "history": {
-    "2026-10-22": 14
-   },
-   "peak": 14,
-   "worldScore": 14,
-   "worldCoverage": "5/18",
-   "jpScore": 0,
-   "jpCoverage": "0/6",
-   "gap": 14,
-   "japan": false,
-   "outlets": [
     {
      "id": "aljazeera",
      "name": "Al Jazeera",
      "region": "world",
      "weight": 0.5,
-     "title": "Canadian publisher drops writer Thelyson Orelien over AI use in novel",
-     "desc": "Publisher Boreal says investigations confirmed the Haitian-Canadian Thelyson Orelien used AI in his breakthrough novel.",
-     "url": "https://www.aljazeera.com/news/2026/10/21/canadian-publisher-cuts-ties-with-best-selling-writer-orelien-over-ai-use?traffic_source=rss",
-     "via": null
-    },
-    {
-     "id": "nyt",
-     "name": "New York Times",
-     "region": "world",
-     "weight": 0.53,
-     "title": "Thélyson Orélien&#39;s Quebec Publisher Cuts Ties Over A.I. Accusations",
-     "desc": "Thélyson Orélien, a celebrated novelist, used artificial intelligence while writing a breakout book, his publisher says.",
-     "url": "https://www.nytimes.com/2026/10/21/world/canada/thelyson-orelien-ai-publisher.html",
-     "via": null
-    },
-    {
-     "id": "france24",
-     "name": "France 24",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Canadian publisher drops author Orelien after confirming he used AI in debut novel",
-     "desc": "The Canadian publisher representing Thélyson Orélien on Wednesday said it had dropped the prize-nominated writer over new information indicating that he did use artificial intelligence to write his acclaimed debut.",
-     "url": "https://www.france24.com/en/culture/20261021-canadian-publisher-drops-author-orelien-after-confirming-he-used-ai-in-debut-novel",
+     "title": "Magnitude 7 earthquake kills 16 people in China’s Tibet, Xinhua reports",
+     "desc": "The powerful earthquake has injured 32 others so far, local medics report.",
+     "url": "https://www.aljazeera.com/news/2026/10/22/magnitude-7-earthquake-kills-16-people-in-chinas-tibet-xinhua-reports?traffic_source=rss",
      "via": null
     },
     {
@@ -857,9 +48,39 @@
      "name": "Euronews",
      "region": "world",
      "weight": 0.5,
-     "title": "Thélyson Orélien row: publisher says AI used to write 'C'était ça ou mourir'",
-     "desc": "The Quebec author has been at the centre of a controversy for weeks. On Wednesday, his Canadian publisher Les Éditions du Boréal admitted that AI was indeed used to write his latest novel.",
-     "url": "https://www.euronews.com/2026/10/21/thelyson-orelien-row-publisher-says-ai-used-to-write-cetait-ca-ou-mourir",
+     "title": "China: Panic as 7.0-magnitude earthquake rocks Tibet",
+     "desc": "A powerful magnitude 7.0 earthquake struck Baqen County in Nagqu, in southwest China’s Tibet Autonomous Region, at 10.33 pm on Thursday 22 October, according to the China Earthquake Networks Center.",
+     "url": "https://www.euronews.com/video/2026/10/22/china-panic-as-70-magnitude-earthquake-rocks-tibet",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "16 killed, 32 hurt after magnitude 7 earthquake strikes China’s Tibet",
+     "desc": "At least 16 people were killed and 32 more injured when a strong 7.0-magnitude earthquake struck China’s western Tibet autonomous region late on Thursday, state news agency Xinhua said, citing local authorities. More than 300 houses collapsed in the earthquake, which struck on Thursday at 10.33pm. Officials were still evaluating the damage, and disaster relief work was ongoing, Xinhua said. The epicentre of the quake was located in a mountainous area about 190km (120 miles) east-northeast of...",
+     "url": "https://www.scmp.com/news/china/article/3371831/casualties-reported-after-70-quake-strikes-chinas-tibet",
+     "via": null
+    },
+    {
+     "id": "abc-au",
+     "name": "ABC Australia",
+     "region": "world",
+     "weight": 0.8,
+     "title": "UN sends warning as satellite detects greenhouse gas plumes over Gorgon plant",
+     "desc": "Satellite monitoring has detected huge plumes of methane above one of Australia's largest gas complexes, triggering a United Nations alert and enquiries by state authorities.",
+     "url": "https://www.abc.net.au/news/2026-10-23/large-methane-plumes-above-chevron-gorgon-project-investigation/107288658",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "At least 16 dead when powerful 7.0 magnitude earthquake strikes Tibet",
+     "desc": "It was the biggest earthquake in the region in the last five years, China&#039;s national broadcaster CCTV said.",
+     "url": "https://www.cbsnews.com/news/powerful-earthquake-tibet-china/",
      "via": null
     },
     {
@@ -867,47 +88,285 @@
      "name": "Reuters",
      "region": "world",
      "weight": 0.5,
-     "title": "Canadian publisher says Thelyson Orelien used AI to write award-winning book, ends relationship - Reuters",
-     "desc": "Canadian publisher says Thelyson Orelien used AI to write award-winning book, ends relationship Reuters",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWHJjNGwwdFdCWEo1NlJGa3R4cG1GalQ2N0RGYWFMdGZaWWZWcDVTTlN4bmVfWlhROTQzeGo1MTcyZzk4TmI5Tk1UeW5xRnllQ21NdHVFU2JqZGNIdVp4aFhkY0ZNNEtRYWRZTHBGNnE1OW96ZHliSDE2Y0EwbGZ5UzBZQ0VjR1dUMGY4d2pNQVl2eGt2OHZwRGt5ZVg4UklCQlpCeEg0VHJzMGpfNlhKeHQ3MTNpUzdjaW5vbzh5MTE0empEUXVCdw?oc=5",
+     "title": "Earthquake of magnitude 7 strikes China's Tibet, killing 16, Xinhua reports - Reuters",
+     "desc": "Earthquake of magnitude 7 strikes China's Tibet, killing 16, Xinhua reports Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaUlEUG80aTRoVHhfOFptUTJYZHpwWE1LT0hURTlrM1JpejJqZ0pEYnJUSG1zbWk4RUVmMnpnMXVlU05LUXdoWjNrMXAxYS1HR051VDBVZ2FqQ1RHOUs4aVFGcExLTDFJVHg4QUhpUDNlNkxud2dldEFQYXA0bUs1eThHS1lVWm4zUm5kQ2NQcGxKQ0E3N3gyZnUtVk5GNENkVXc?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261023-02",
+   "title": "フランスで暴動続く、デモ禁止や夜間外出禁止令も",
+   "firstSeen": "2026-10-23",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-23": 18
+   },
+   "peak": 18,
+   "worldScore": 18,
+   "worldCoverage": "5/18",
+   "jpScore": 6,
+   "jpCoverage": "1/6",
+   "gap": 12,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.68,
+     "title": "Paris extends curfew as Marseille and Lyon ban protests after riots",
+     "desc": "Protests will only be allowed in some towns and cities if organised by unions, and top museums will be closed on Saturday.",
+     "url": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.68,
+     "title": "Reader Q&A: What’s next for France after a weekend of riots? Ask our Europe columnists",
+     "desc": "At 3pm BST / 4pm CEST Friday 23 Oct , Guardian Europe columnists Rokhaya Diallo and Alexander Hurst will be live taking questions from our readers about the riots and protests in France. Send your questions by email now to conversations@theguardian.com , or join the discussion on Friday After weeks of protests and a weekend of riots in which a town hall was set ablaze, 2,000-plus shops were looted, 2,300 people were arrested and 1,000 police injured, the repercussions for France – for its society and its economy – continue. Allegations of police brutality surfaced, and the violent protests unn",
+     "url": "https://www.theguardian.com/world/live/2026/oct/21/france-riots-protests-reader-questions-rokhaya-dallio-alexander-hurst",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.94,
+     "title": "In the Wake of Riots, the French Authorities Ban Some Protests",
+     "desc": "President Emmanuel Macron said the move was necessary “so that calm prevails.”",
+     "url": "https://www.nytimes.com/2026/10/22/world/europe/france-protests-macron.html",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Curfew imposed in certain areas of Paris every night until Monday morning",
+     "desc": "The curfew has been extended in certain areas of Paris, every night from 11:00 p.m. to 6:00 a.m. until Monday morning. The measure has been in force since the violence and looting of the weekend, according to an order from the Paris police prefecture published Thursday. A Paris protest Thursday organised by students -- who had held four weeks of protests before the October 17 rallies -- went ahead with hundreds attending after a police ban was overturned by an emergency court injunction. FRANCE 24's Mark Owen speaks with Alice Cohen-Morzadec, International Spokesperson of \"L'Union étudiante.\"",
+     "url": "https://www.france24.com/en/curfew-imposed-in-certain-areas-of-paris-every-night-until-monday-morning",
+     "via": null
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Macron warns some protests will be banned - Financial Times",
+     "desc": "Macron warns some protests will be banned Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ1F0Q0pjZlYxRHJBbUg3bW1lZEl1TVJCaFNYenYtTm16VXZOZHEya3NTUFM5LWMtNzdhQ3BlTGcxU3VIR0d6Rnh4OEh2RWxYb1hJMzVXYl9kdEI0OUlTUVdPbHhIeWhEUm4tRTgySWRpNzgzVUxNLWJ1ZlVDci1Kd18wN1U?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.33,
+     "title": "仏マルセイユで24日のデモ全面禁止 公共交通は24時間全休 夜間外出も原則禁止へ(テレビ朝日系（ANN）)",
+     "desc": "24日、フランス全土で大規模な抗議デモが予定されている中、南部マルセイユの当局はこの日の抗議デモをすべて禁止すると決定しました。今月17日、フランス各地で抗議デモをきっかけとした暴動が起き、無関係の商",
+     "url": "https://news.yahoo.co.jp/articles/48c698a66403de26327343d6cdb0873075ac8eb9?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261014-23",
+   "title": "トランプ氏、ウクライナのスターリンク制限解除をマスク氏に要請",
+   "firstSeen": "2026-10-14",
+   "daysSeen": 4,
+   "history": {
+    "2026-10-14": 6,
+    "2026-10-19": 12,
+    "2026-10-21": 14,
+    "2026-10-23": 16
+   },
+   "peak": 16,
+   "worldScore": 16,
+   "worldCoverage": "5/18",
+   "jpScore": 14,
+   "jpCoverage": "1/6",
+   "gap": 2,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.97,
+     "title": "Trump says Musk has restored access to Ukraine's Starlink network",
+     "desc": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
+     "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "toi",
+     "name": "Times of India",
+     "region": "world",
+     "weight": 0.5,
+     "title": "'He put it back': Trump says Ukraine's Starlink restored, stays silent on Musk",
+     "desc": "Ukraine depends heavily on Starlink for communications between military units, coordinating operations and receiving early warnings during Russian missile attacks. The satellite-based network also supports the use of drones, which Ukraine deploys both to strike Russian targets and to defend against incoming attacks. Disruptions to connectivity can therefore affect the military's ability to operate drones and respond to Russian assaults.",
+     "url": "https://timesofindia.indiatimes.com/world/us/he-put-it-back-trump-says-ukraines-starlink-access-restored-stays-silent-on-musk/articleshow/135130030.cms",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump says Musk restored Ukraine’s Starlink access, declines to say if they spoke",
+     "desc": "The Starlink system was working more normally on Oct 22, according to US and Ukrainian officials.",
+     "url": "https://www.straitstimes.com/world/europe/trump-asks-musk-to-lift-ukraine-starlink-restrictions-wsj-reports",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump says Musk restored Ukraine's Starlink access, declines to say if they spoke - Reuters",
+     "desc": "Trump says Musk restored Ukraine's Starlink access, declines to say if they spoke Reuters",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeVl2TFdMRGk3SHRydndCTVJDMm5QSV91MEtxODd1aE5QNmxXSk4tV0FmVUlYcUpwU3JieHB1MFNCbXlNMnY0eEtvMnh4UnpsZURBaWNacmFBRjVLZHdNNk1pY0NyU1lwREdkNnNmNlY4UU9MMHZ1c2Z3cnBNM01PcExkYVlaaVRpWkNCcGpfdHc3eFRQMGxRU3pPM2tEbmp5Z1ZJSFgyZ3IyNWxIYXFCa2lsQmt4Zjgwd1F2MnZR?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump Called Musk to Lift Ukraine Starlink Limits, WSJ Says - Bloomberg.com",
+     "desc": "Trump Called Musk to Lift Ukraine Starlink Limits, WSJ Says Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTFJPZnQ3YUlWNWUzVHVDSHpUQThqYkwzbDdxMFdDLUhiVmZrNGR5OTRuZ2MzNlRnOW55YjRFSGthNUdzN1JYU2xTT3BDNjhxVXVTSWJ3QktiZ0x5bFhJZTFRbTltWlRxM0RCelR6VUpNc19ULVE1aFJDTkdobXNSaUFRRXFsQTNHWmt0X2JNRFVxRGFMZ1pjZWRKMW42V2Y3ZkxuaVFzcXpYWnkzN1BVM0tR?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.82,
+     "title": "「ウクライナの『スターシールド』制限を解除すべき」…トランプ大統領がマスク氏に電話（2）(中央日報日本語版)",
+     "desc": "議会が問題視しているのはこれだけではない。最近、トランプ氏がロシア産原油の輸入国などに制裁を科す、いわゆる「グラハム法」の施行を猶予したことについて、連邦下院議員22人が15日、トランプ氏に書簡を送り",
+     "url": "https://news.yahoo.co.jp/articles/3135f7c114a4bd9999dc5b65b699a4a2a2eb6fb0?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261023-04",
+   "title": "俳優のトム・スコットさん死去、93歳",
+   "firstSeen": "2026-10-23",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-23": 15
+   },
+   "peak": 15,
+   "worldScore": 15,
+   "worldCoverage": "5/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 15,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Emmy-winning US actor Tom Skerritt, known for ‘Top Gun’ and ‘Picket Fences’, dies at 93",
+     "desc": "US actor Tom Skerritt, known for his roles as the doomed caption in 1979's \"Alien\", a tough flight instructor in the 1986 megahit “Top Gun” and who won an Emmy award winner for his work in the television series “Picket Fences”, has died at 93, his family said in a statement.",
+     "url": "https://www.france24.com/en/culture/20261022-emmy-winning-us-actor-tom-skerritt-top-gun-and-picket-fences-dies-93",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Tom Skerritt, star of Alien and Top Gun, dies at 93",
+     "desc": "Versatile actor Tom Skerritt, who starred in Hollywood megahits including the sci-fi classic Alien, the ⁠war comedy M*A*S*H, and the action drama Top Gun, ⁠has died at the age of 93. Skerritt, a Detroit native ⁠whose Hollywood career spanned from the 1960s to the 2020s, died on Wednesday of natural causes, his family said in a statement. “While the world knew Tom through his remarkable acting career, we knew him for his humour, curiosity, wisdom, generosity and the love he brought into our...",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3371834/tom-skerritt-star-alien-and-top-gun-dies-93",
+     "via": null
+    },
+    {
+     "id": "abc-au",
+     "name": "ABC Australia",
+     "region": "world",
+     "weight": 0.68,
+     "title": "US actor Tom Skerritt, who starred in Top Gun and Alien, dies aged 93",
+     "desc": "Emmy award-winning actor Tom Skerritt, known for his roles in TV series Picket Fences and films such as Top Gun and Alien, has died aged 93.",
+     "url": "https://www.abc.net.au/news/2026-10-23/us-actor-tom-skerritt-top-gun-alien-dies-93/107299410",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Actor Tom Skerritt, star of 'Alien' and 'Top Gun,' dies at 93 - Reuters",
+     "desc": "Actor Tom Skerritt, star of 'Alien' and 'Top Gun,' dies at 93 Reuters",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbjdPNUJYaFEyX0ZYclFkenVMQ1A3OV9lTEdDUFpsQ1kyV3dRM0I3X1h1M2Z3ZldVSWczQUgzYXZydEVOSGI2dzVnZWliS2JpeWxKQk1ZeU56bS1Oc2gtS2NuTUVQV0JwWDNhWFJnVlhJcDlWZF9LcXluOVMzT2Q3a3VZZy03VlB4TmozTVJKc292UEx3blE?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Tom Skerritt, Emmy-winning actor with roles in 'Picket Fences,' 'Alien' and 'Top Gun,' dies at 93 - AP News",
+     "desc": "Tom Skerritt, Emmy-winning actor with roles in 'Picket Fences,' 'Alien' and 'Top Gun,' dies at 93 AP News",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPREl5elBqdzNqdzRjZ2c1UTVpZ0c0UzdDeXdtZVM3VEtxaXhqTTNUXzdPY1R1QlF5TlFvMlAyQm9HSzlsV3E1MFpyOWNDeUtvV3FUTGdHV0ZwSnE3Mk9JVjhIM3JjSnlDWFpvNl9ULTB4ODAza1VfV01yZlhCYk5GSG4ybw?oc=5",
      "via": "googlenews"
     }
    ]
   },
   {
    "id": "s-20261022-09",
-   "title": "米政府、サウジ駐在職員らに退避命令",
+   "title": "サウジ空港への攻撃で死者、米政府が職員退避命令",
    "firstSeen": "2026-10-22",
-   "daysSeen": 1,
+   "daysSeen": 2,
    "history": {
-    "2026-10-22": 14
+    "2026-10-22": 14,
+    "2026-10-23": 14
    },
    "peak": 14,
    "worldScore": 14,
-   "worldCoverage": "5/18",
+   "worldCoverage": "4/18",
    "jpScore": 0,
    "jpCoverage": "0/6",
    "gap": 14,
    "japan": false,
    "outlets": [
     {
-     "id": "aljazeera",
-     "name": "Al Jazeera",
+     "id": "bbc",
+     "name": "BBC",
      "region": "world",
      "weight": 0.5,
-     "title": "US orders departure of personnel from Saudi Arabia, citing Houthi threat",
-     "desc": "US State Department says Iran-aligned Houthis have &#039;increasingly ⁠⁠engaged in hostilities&#039; against Saudi Arabia.",
-     "url": "https://www.aljazeera.com/news/2026/10/21/us-orders-departure-of-personnel-from-saudi-arabia-citing-houthi-threat?traffic_source=rss",
+     "title": "Two killed in Houthi attack on airport in eastern Saudi Arabia, authorities say",
+     "desc": "It is the latest in a series of attacks by the Houthi movement targeting airports and other sites in the kingdom.",
+     "url": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
      "via": null
     },
     {
-     "id": "scmp",
-     "name": "South China Morning Post",
+     "id": "guardian",
+     "name": "The Guardian",
      "region": "world",
      "weight": 0.5,
-     "title": "US orders diplomats to leave Saudi Arabia amid Houthi strikes",
-     "desc": "The US State Department has ordered some diplomats and family members to depart ‌from its missions in Saudi Arabia and plans to withdraw family members from a number of other US missions in the region, US officials told Reuters. The order came as attacks in Saudi Arabia killed at least one person and injured eight others at a civilian airport in Dammam and two people were killed in a drone attack on an oilfield. US State Department spokesman Tommy Pigott said in a post on social media ⁠that the...",
-     "url": "https://www.scmp.com/news/world/middle-east/article/3371698/us-orders-diplomats-leave-saudi-arabia-amid-houthi-strikes",
+     "title": "Some US diplomats told to leave Saudi Arabia amid Houthi attacks",
+     "desc": "Similar withdrawals from UAE, Jordan, Qatar and Bahrain reported as concerns grow about restart of war on Iran after US midterm elections The US state department has ordered some diplomats and the families of US government employees to leave Saudi Arabia as the gulf kingdom faces a barrage of near-daily attacks, with at least three people killed at an airport and oilfield. Attacks on “civilian airports and other critical infrastructure” by the Iranian-supported Houthis in Yemen were highlighted as the reason for the drawdown. The state department spokesperson, Tommy Pigott, said: “The safety a",
+     "url": "https://www.theguardian.com/world/2026/oct/22/us-diplomats-told-to-leave-saudi-arabia-amid-houthi-attacks",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 1,
+     "title": "Houthi Strike on Saudi Airport Kills 2 as U.S. Tells Some Diplomats to Leave",
+     "desc": "The airport is in Dammam, which is near the headquarters of oil giant Saudi Aramco. For weeks, Yemen’s Iran-backed Houthi militia has been attacking the kingdom’s aviation and energy sectors.",
+     "url": "https://www.nytimes.com/2026/10/22/world/middleeast/saudi-houthis-yemen-dammam-airport.html",
      "via": null
     },
     {
@@ -919,15 +378,259 @@
      "desc": "The U.S. military has also been quietly reducing its footprint at posts in the Middle East due to regional threats from the Houthis and direct threats from Iran, CBS News has learned.",
      "url": "https://www.cbsnews.com/news/us-saudi-arabia-ordered-departure-houthis/",
      "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261022-18",
+   "title": "プログラミング言語PHPに重大な脆弱性",
+   "firstSeen": "2026-10-22",
+   "daysSeen": 2,
+   "history": {
+    "2026-10-22": 3,
+    "2026-10-23": 13
+   },
+   "peak": 13,
+   "worldScore": 13,
+   "worldCoverage": "4/18",
+   "jpScore": 8,
+   "jpCoverage": "1/6",
+   "gap": 5,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.85,
+     "title": "PHP Security Flaw Sets Off Global Rush to Patch, Leaving Websites Offline",
+     "desc": "Governments and businesses around the world scrambled to prevent hackers from exploiting a vulnerability in PHP, a popular programming language.",
+     "url": "https://www.nytimes.com/2026/10/22/world/php-vulnerability-websites-cybersecurity-ai.html",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "PHP security flaw: Why websites across Europe went dark and what it means for you",
+     "desc": "AI models uncovered what OpenAI calls \"one of the most impactful\" security bugs in recent memory, hidden in PHP for more than a decade. From a Pokémon sleep tracker to the Dutch parliament, websites went dark worldwide to stay ahead of hackers.",
+     "url": "https://www.euronews.com/2026/10/22/php-security-flaw-why-websites-across-europe-went-dark-and-what-it-means-for-you",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Rush is on to patch a software vulnerability that could impact 70% of websites worldwide - AP News",
+     "desc": "Rush is on to patch a software vulnerability that could impact 70% of websites worldwide AP News",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQXNid0stVGgtZWpqaVMyd01mNVgzZndaWHhnUTlFT3FKQW1PZ0daVDBfMWxSbThxUzdCSnFNT2U3YWFnMjZvMDVnVFVyUW1DZENvWnFZZU5jRFNCUnlsRE4zU25FZzNpUEUxcDhUYUs3Um1ZZW5tUEc1Z2FwdUF1d2lqVXZ1Z0JyVVkxR1FrZVJ4QTZVX3J4cGZRN2ZiUQ?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Websites taken offline in race to patch PHP security flaw - Financial Times",
+     "desc": "Websites taken offline in race to patch PHP security flaw Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNnllMzVYUk1RYWFNNFY1MGRiSUpLYVh1eV9sdTdOeHFVVEp6cGxVQ0xld1hQTHpvOHlRdFhEOVFqdEMyQXZQU1pkbk9nd1padGRWbDJVTUljTm42akQ3VjFlOFRGb3d5QnZnVHNyYlV6UC1LVFZNTXpFRktBRVdSNHdVcWo?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "PHP欠陥でサイト止めた日本、止めなかった米国 脆弱性は8月に発見 - 日本経済新聞",
+     "desc": "PHP欠陥でサイト止めた日本、止めなかった米国 脆弱性は8月に発見 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0dzlMU3pQRHNrN2p0SXhZekpDWjRaUDZPRy1nMkJab2NhbVYxdlVUdUFOZFVFcjRHdFZVVkk1QkY4TzNPVGdBZ3k3RnJYd3hSRHFtU2RUdllwSkRKWVVsNG5OSWc0U1VGY3dIeQ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261022-06",
+   "title": "ロシアがキーウなどにミサイル攻撃、和平交渉巡り",
+   "firstSeen": "2026-10-22",
+   "daysSeen": 2,
+   "history": {
+    "2026-10-22": 6,
+    "2026-10-23": 13
+   },
+   "peak": 13,
+   "worldScore": 13,
+   "worldCoverage": "5/18",
+   "jpScore": 6,
+   "jpCoverage": "1/6",
+   "gap": 7,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.3,
+     "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+     "desc": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
+     "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.62,
+     "title": "Russia bombards Kyiv with missiles hours after agreeing to resume talks with Ukraine",
+     "desc": "Experts say Russia is trying to destroy energy infrastructure before winter and US ‘appeasement and flattery’ will not achieve peace Russia has carried out a massive “demonstrative” attack on Ukraine, bombarding Kyiv with ballistic missiles just hours after Vladimir Putin said he had agreed to resume trilateral negotiations after talks with the US envoy Steve Witkoff. Overnight, Moscow pounded the Ukrainian capital, killing at least two people and wounding 22, including four children. Targets included the southern bridge over the Dnipro River, civilian houses, energy infrastructure, an ambulan",
+     "url": "https://www.theguardian.com/world/2026/oct/22/russia-missile-attack-kyiv-hours-after-agreeing-to-talks-ukraine",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "‘No change’ in Russia’s attitude on war shown by deadly attacks, Zelensky says",
+     "desc": "Russia’s latest attacks on Ukraine show there has been “no real change” in Moscow’s attitude towards the war, Ukrainian President Volodymyr Zelensky said Thursday. The deadly strikes came just hours after Russian President Vladimir Putin told US envoy Steve Witkoff his country was ready to resume trilateral talks with Washington and Kyiv.",
+     "url": "https://www.france24.com/en/europe/20261022-no-change-russia-attitude-war-after-deadly-attacks-zelensky-says",
+     "via": null
     },
     {
      "id": "straits",
      "name": "The Straits Times",
      "region": "world",
      "weight": 0.5,
-     "title": "US orders diplomats to depart Saudi Arabia amid Houthi strikes",
-     "desc": "It comes after an escalation of the fighting in Yemen, opening another front in the Middle East conflict.",
-     "url": "https://www.straitstimes.com/world/us-preparing-to-issue-ordered-departure-of-some-personnel-from-gulf-embassies-say-us-officials",
+     "title": "Ukraine’s Zelensky says fresh Russian strikes show ‘no change’ in Kremlin position",
+     "desc": "Moscow fired a wave of ballistic missiles into Ukraine just after US envoy Steve Witkoff met Russia's leader.",
+     "url": "https://www.straitstimes.com/world/europe/ukraines-zelensky-says-fresh-russian-strikes-show-no-change-in-kremlin-position",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Russian missiles pound Kyiv as Moscow says over 800 Ukrainian drones downed - AP News",
+     "desc": "Russian missiles pound Kyiv as Moscow says over 800 Ukrainian drones downed AP News",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeldMenNBb3pveGlrZmlGLXZkaWNZaEhBUHMwSWh4dm5ZQW1IRWxEVGRxbFVDeUdwTnh2WW1jSXJ3T2U1cmh4cTR5bC1DSXdOSzJZb3hFaGNBNlAtclluMU4zMVBEVWpua1A2S2dBbXdjeWo1SFNUWGNvZ1dRRXhKSk4xTjlYUXFXNVM4NFctSmdxVHRqcjZrOWF4allidw?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.36,
+     "title": "終戦交渉を再開するというが……ロシア・ウクライナ、相手国の首都にミサイル・ドローン攻撃(中央日報日本語版)",
+     "desc": "ロシアとウクライナが米国の仲介による3者間の終戦交渉の再開に前向きな姿勢を示す一方で、互いの首都を標的とした攻撃を継続した。ロシアの空爆でウクライナでは7人が死亡し、ウクライナもモスクワに向けて大規模",
+     "url": "https://news.yahoo.co.jp/articles/0fb6b72bf1620e8868762060f229e55572e56d22?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261023-05",
+   "title": "国際刑事機関(ICC)がEUの人権賞を受賞、トランプ氏批判の中",
+   "firstSeen": "2026-10-23",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-23": 13
+   },
+   "peak": 13,
+   "worldScore": 13,
+   "worldCoverage": "4/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 13,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US-sanctioned ICC wins Sakharov Prize, EU’s top human rights award",
+     "desc": "The prize comes less than two weeks after US President Donald Trump announced sanctions against the court.",
+     "url": "https://www.aljazeera.com/news/2026/10/22/us-sanctioned-icc-wins-sakharov-prize-eus-top-human-rights-award?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.91,
+     "title": "International Criminal Court Wins E.U.’s Top Human Rights Prize",
+     "desc": "The win is a show of support for the International Criminal Court as the Trump administration moves to thwart its work.",
+     "url": "https://www.nytimes.com/2026/10/22/world/europe/icc-sarkharov-eu-trump-sanctions-human-rights.html",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Targeted by Trump, International Criminal Court wins top EU rights prize",
+     "desc": "Facing US sanctions, the International Criminal Court was on Thursday awarded the European Union's top rights prize, in a show of support that risks upsetting President Donald Trump. \"The European Union is built on respect for multilateralism and international institutions, and this prize recognises the important work of the court in upholding international law and justice,\" said European Parliament chief Roberta Metsola in announcing the award. The ICC thanked the European Parliament for giving it the Sakharov Prize \"at a time when the Court and its officials face unprecedented challenges\". F",
+     "url": "https://www.france24.com/en/targeted-by-trump-international-criminal-court-wins-top-eu-rights-prize",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "European Union awards top rights prize to International Criminal Court days after Trump sanctions - AP News",
+     "desc": "European Union awards top rights prize to International Criminal Court days after Trump sanctions AP News",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeUlQcXVrZnNtRVFtb0d0VldXeG1ya1htcVJyMXVjVklUYTZIZ0p6NXRORTdhY3dtLVRJbDdkSXN3Zm1NUnNTbkFrRVlnWng4VUJ6NVFselBpS0ZrNkhJdTlONVVnbVhYQnhrQ0thRW9oYmk3S1lEQmJaLTJadmhOdV9fSmwzN2diNVU0M0NwWFRITUxuTGlmQjhMdlNFOVZVbks4Wk9jZ2Z6Q1hE?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261023-07",
+   "title": "トランプ氏、NBAレブロン氏の国歌斉発言を批判",
+   "firstSeen": "2026-10-23",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-23": 13
+   },
+   "peak": 13,
+   "worldScore": 13,
+   "worldCoverage": "4/18",
+   "jpScore": 8,
+   "jpCoverage": "1/6",
+   "gap": 5,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "What is the history behind Trump’s LeBron blast over US national anthem?",
+     "desc": "What led to LeBron James being labelled a disgrace by US President Donald Trump, who says NBA star disgraced anthem?",
+     "url": "https://www.aljazeera.com/sports/2026/10/22/what-led-to-the-trump-lebron-feud-over-us-national-anthem?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump blasts basketball star LeBron James for not standing still during US anthem",
+     "desc": "US President Donald Trump on Thursday accused LeBron James of disrespecting the United States after the NBA star appeared to continue his warm-ups while the national anthem was performed before Philadelphia’s season opener on Tuesday. “I said right from the beginning that he’s no good, a TOTAL DISGRACE,” Trump said of James in a social media post sharing the video. “LeBron James should apologize to all of those Great American Warriors and Heroes who died for the American Flag, and all that our...",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3371833/trump-blasts-basketball-star-lebron-james-not-standing-still-during-us-anthem",
+     "via": null
+    },
+    {
+     "id": "abc-au",
+     "name": "ABC Australia",
+     "region": "world",
+     "weight": 0.91,
+     "title": "Trump calls LeBron 'total disgrace' over perceived anthem disrespect",
+     "desc": "LeBron James incites the ire of the United States president for his actions during the national anthem in the Philadelphia 76ers' season opener.",
+     "url": "https://www.abc.net.au/news/2026-10-23/basketball-donald-trump-accuses-lebron-james-anthem-disrespect/107300334",
      "via": null
     },
     {
@@ -935,37 +638,166 @@
      "name": "Reuters",
      "region": "world",
      "weight": 0.5,
-     "title": "EXCLUSIVE: US orders diplomats to depart Saudi Arabia amid Houthi strikes - Reuters",
-     "desc": "EXCLUSIVE: US orders diplomats to depart Saudi Arabia amid Houthi strikes Reuters",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONDg0WFNBeGFxeHpUVUsya2RYd0k3XzF6bXU3eGpZVnh2T25MWHVsQzVrbE9PNEdaWnpfN1dmRmtxajMtbl8yZ29EWUxYaXAxcnkxcFN1NEVDLVE3bUtkR0NwZDVPN2haVXFERXRUeHRnQ2QyVDhVdjBNa2FIUFVDOWFicGJOQVVWR0JFMnZSM0NLV09nZHk5UzA2LTgtbmFEVnlYZDI1Uk9ic1hyLTZ0Z2NKbWI5QWgtWWE3ZzV4eE11bmpCcGstTFAzQnVGUQ?oc=5",
+     "title": "Trump says LeBron James showed disrespect during US national anthem - Reuters",
+     "desc": "Trump says LeBron James showed disrespect during US national anthem Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONUV5LXBkNzVYX1RiRXhLcVRpZ0JZRUVSdk00N2oyQVg2NUZ5Z1lzMnRXU2JxTUVxaUE5d1IxUzlKRXVrSTAtWHVnQXJIYTdSSFZaWEg3MERLTTJhY1lUTFdNT21ORUwxLVAxc3J4VmJnX0w0cU0xZjRHZzV2QlpFbzRUNERZaHJpWWxnVFN0elhCR05yVnBkMTJWdWhKMzF4UWQxSERNMXc?oc=5",
      "via": "googlenews"
+    },
+    {
+     "id": "yahoo",
+     "name": "Yahoo!ニュース主要",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "米大統領 レブロン「無礼」と批判",
+     "desc": "",
+     "url": "https://news.yahoo.co.jp/pickup/6599769?source=rss",
+     "via": null
     }
    ]
   },
   {
-   "id": "s-20261022-02",
-   "title": "メキシコ、米ドラッグ摘発巡り検察官を訴追",
-   "firstSeen": "2026-10-22",
-   "daysSeen": 1,
+   "id": "s-20261020-06",
+   "title": "スーダンでドローン攻撃、多数の死傷者",
+   "firstSeen": "2026-10-20",
+   "daysSeen": 4,
    "history": {
-    "2026-10-22": 10
+    "2026-10-20": 11,
+    "2026-10-21": 15,
+    "2026-10-22": 15,
+    "2026-10-23": 12
    },
-   "peak": 10,
-   "worldScore": 10,
+   "peak": 15,
+   "worldScore": 12,
    "worldCoverage": "3/18",
    "jpScore": 0,
    "jpCoverage": "0/6",
-   "gap": 10,
+   "gap": 12,
    "japan": false,
    "outlets": [
     {
      "id": "bbc",
      "name": "BBC",
      "region": "world",
-     "weight": 0.82,
-     "title": "Ex-prosecutor charged with treason in Mexico over US drug raid",
-     "desc": "César Jáuregui Moreno is accused of allowing US agents to join a raid on a suspected drugs lab in April.",
-     "url": "https://www.bbc.co.uk/news/articles/ckx2qpw4rjd7o?at_medium=RSS&at_campaign=rss",
+     "weight": 1,
+     "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
+     "desc": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes.",
+     "url": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.62,
+     "title": "Drone Strike Kills More Than 150 in Abyei in Sudan’s Civil War",
+     "desc": "Struggling against each other on the battlefield, the sides in Sudan’s civil war are relying on drones to strike across vast distances, inflicting huge tolls on civilians in the process.",
+     "url": "https://www.nytimes.com/2026/10/21/world/africa/sudan-drone-strikes.html",
+     "via": null
+    },
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 0.53,
+     "title": "At least 153 people killed in drone strike on disputed Sudan-South Sudan region",
+     "desc": "A drone strike on a fuel depot in a disputed region on the Sudan-South Sudan border has killed at least 153 people.",
+     "url": "https://news.sky.com/story/at-least-153-people-killed-in-drone-strike-on-disputed-sudan-south-sudan-region-13601817",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261023-03",
+   "title": "フランスで初のシャモンダウイルス感染を確認",
+   "firstSeen": "2026-10-23",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-23": 11
+   },
+   "peak": 11,
+   "worldScore": 11,
+   "worldCoverage": "3/18",
+   "jpScore": 18,
+   "jpCoverage": "2/6",
+   "gap": -7,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.36,
+     "title": "First human case of Shamonda virus detected in France, officials say",
+     "desc": "The disease, which usually affects cattle, has been identified in a patient who died in early October.",
+     "url": "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.59,
+     "title": "Shamonda virus detected in human for first time in France",
+     "desc": "Investigations under way to determine whether virus normally found in livestock contributed to man’s death A man in France has become the first human known to have contracted Shamonda virus, with investigations under way to explore whether it contributed to his death. Shamonda virus is a type of bunyavirus and is spread by bites from infected midges. According to the Austrian Agency for Health and Food Safety , in animals such as cattle, sheep and goats it can cause diarrhoea, lack of appetite and a decline in milk yield, “as well as abortions and congenital abnormalities in newborn calves, la",
+     "url": "https://www.theguardian.com/world/2026/oct/22/shamonda-virus-detected-in-human-first-time-france",
+     "via": null
+    },
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 1,
+     "title": "France reports first Shamonda virus case in human who later died",
+     "desc": "The first human case of the Shamonda virus has been detected in France in a person who later died, according to authorities.",
+     "url": "https://news.sky.com/story/france-reports-first-shamonda-virus-case-in-human-who-later-died-13602182",
+     "via": null
+    },
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "「シャモンダウイルス」、フランスで初のヒト感染 患者は死亡",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026102201182&g=int&m=rss",
+     "via": null
+    },
+    {
+     "id": "yahoo",
+     "name": "Yahoo!ニュース主要",
+     "region": "jp",
+     "weight": 0.6,
+     "title": "シャモンダウイルス 仏でヒト感染",
+     "desc": "",
+     "url": "https://news.yahoo.co.jp/pickup/6599754?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261023-06",
+   "title": "セルビア大統領選を控え大規模集会や最終遊説",
+   "firstSeen": "2026-10-23",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-23": 11
+   },
+   "peak": 11,
+   "worldScore": 11,
+   "worldCoverage": "4/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 11,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.56,
+     "title": "Rocky campaign nears end as Serbia prepares for watershed election – as it happened",
+     "desc": "It’s the last day of the electoral campaign in Serbia today ahead of this Sunday’s closely contested parliamentary election As we are waiting for Macron , first details of the planned police response to this weekend’s protests are emerging. Junior interior minister, Jean-Didier Berger , said that the police presence will be “20% higher” than last weekend, with reinforcements from the army, elite police forces and gendarmerie. Continue reading...",
+     "url": "https://www.theguardian.com/world/live/2026/oct/22/france-protests-emmanuel-macron-ukraine-energy-attacks-latest-europe-news-updates",
      "via": null
     },
     {
@@ -973,9 +805,9 @@
      "name": "Al Jazeera",
      "region": "world",
      "weight": 0.5,
-     "title": "Mexico charges prosecutor with treason over US involvement in drug raid",
-     "desc": "The participation of US agents in an April drug operation has raised questions about whether Mexico&#039;s laws were upheld.",
-     "url": "https://www.aljazeera.com/news/2026/10/21/mexico-charges-prosecutor-with-treason-over-us-involvement-in-drug-raid?traffic_source=rss",
+     "title": "Thousands gather at final student-led rally ahead of Serbia election",
+     "desc": "The student movement aims to end Vucic&#039;s 14 years of rule at Sunday&#039;s vote, as he holds a rival rally across town.",
+     "url": "https://www.aljazeera.com/news/2026/10/22/thousands-gather-at-final-student-led-rally-ahead-of-serbia-election?traffic_source=rss",
      "via": null
     },
     {
@@ -983,22 +815,139 @@
      "name": "The Straits Times",
      "region": "world",
      "weight": 0.5,
-     "title": "Mexico levies rare treason charge against ex-official over US drug operation",
-     "desc": "MEXICO CITY, Oct 21 - Mexican federal prosecutors charged a former state prosecutor with treason on Wednesday after accusing him of allowing US personnel to take part in a drug operation in northern Mexico without the federal government's approval.",
-     "url": "https://www.straitstimes.com/world/mexico-revives-rare-treason-charge-against-former-state-prosecutor",
+     "title": "Around 150,000 rally in Belgrade as Serbia heads to pivotal poll",
+     "desc": "They are seeking to oust the party of veteran leader Aleksandar Vucic on Oct 25.",
+     "url": "https://www.straitstimes.com/world/europe/around-150000-rally-in-belgrade-as-serbia-heads-to-pivotal-poll",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Huge crowds gather at final pre-election rally of Serbia’s students - AP News",
+     "desc": "Huge crowds gather at final pre-election rally of Serbia’s students AP News",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMUI4d2ZmWWpZQ05HTFZ4YnNoYUZWRm1sUmNIZEF2UktNWHExLW8xWVZFNUNaQklLcFI4am5IaER4YXR1aUdYRjZ4MEczUFhLVGV6cjI4LWZDeXBybURkOUlVdk9Bc29CYVNpSktCeHBGRFhxX1pYcHM2WHBaakE5dUFfZmVoYjBDLUNjOVdtUmc5aUxuRFVvY2k5TjQ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261023-08",
+   "title": "イタリアのトラック運転手ストライキ、物流や生産に影響",
+   "firstSeen": "2026-10-23",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-23": 11
+   },
+   "peak": 11,
+   "worldScore": 11,
+   "worldCoverage": "4/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 11,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Italy Experiences Food and Fuel Shortages After Truckers on Strike Block Roads",
+     "desc": "Truckers protesting high gas prices have prevented deliveries to parts of southern Italy, leading to empty shelves and dry pumps.",
+     "url": "https://www.nytimes.com/2026/10/22/world/europe/italy-protests-shortages-truckers.html",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Italy's trucker protests halt buffalo mozzarella production, cost producers €3m",
+     "desc": "A daily update on the latest business and economic news.",
+     "url": "https://www.france24.com/en/tv-shows/business/20261022-italy-s-trucker-protests-halt-buffalo-mozzarella-production-cost-producers-%E2%82%AC3m",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Meloni government approves aid for transport, farming and fishing sectors amid intense pressure from truckers",
+     "desc": "On Thursday, Giorgia Meloni's government approved the aid bill after truckers staged a protest against the spiralling cost-of-living crisis and high fuel prices. The protests have brought many critical sectors and services, including food deliveries, to a standstill.",
+     "url": "https://www.euronews.com/2026/10/22/meloni-government-approves-aid-for-transport-farming-and-fishing-sectors-amid-intense-pres",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Millions in cheese revenue lost as protest hits Italy’s buffalo mozzarella output",
+     "desc": "A truckers’ protest in southern Italy has halted the production of the famed buffalo mozzarella, causing an estimated loss of €3 million (US$3.37 million) in just 24 hours as the milk cannot reach dairies in the Naples region and the finished cheese cannot reach customers, an official said. The week-long strike by truck drivers over the high cost of diesel driven up by the Iran war has also blocked deliveries of other basic goods to supermarkets and left fuel pumps empty in much of southern...",
+     "url": "https://www.scmp.com/news/world/europe/article/3371830/millions-cheese-revenue-lost-protest-hits-italys-buffalo-mozzarella-output",
      "via": null
     }
    ]
   },
   {
-   "id": "s-20261022-10",
-   "title": "EU、極右グループの欧州議会事務所を家宅捜索",
-   "firstSeen": "2026-10-22",
+   "id": "s-20261023-09",
+   "title": "モデナ社の悪性黒色腫ワクチンデータ巡り株価下落",
+   "firstSeen": "2026-10-23",
    "daysSeen": 1,
    "history": {
-    "2026-10-22": 8
+    "2026-10-23": 8
    },
    "peak": 8,
+   "worldScore": 8,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 8,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Moderna sheds about $24 billion as cancer vaccine data triggers 'sell-the-news' retreat - Reuters",
+     "desc": "Moderna sheds about $24 billion as cancer vaccine data triggers 'sell-the-news' retreat Reuters",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZ1BOSzI0YXVMYUM4c0N6R0RJcXV5d09ud1JYNTdDR19TTHR4WDVMWGdaeXd4Z3pqa3ZNdlY1Q1pKRXd5NlIyZm1aeUVvOTM0V3RwMkRVRjRRZ0w5ZVZKcjd3UUFUVS01WXVNajJram9Lc1U5YklRR3BrR2t6VUxKZkNScF84Q0dwbE9zZmpGT2gyMVZvelZ3ekZqS0FjSzdFdnh2TnYxU1JLYW1lLU10LW4zVkUxS0w2emotdVh5aVVnVmpHcHE5akhOTV9idEpqWS1oOWJTLU9WZEJVRUE?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Moderna, Merck Shares Fall After Possible Melanoma Data Leak - Bloomberg.com",
+     "desc": "Moderna, Merck Shares Fall After Possible Melanoma Data Leak Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSGF1R0FYdlVEamdsa29mMjBOQ2tQVXk0LWlfRmxOSXhSMTRqQnNXUDVJZVgwQ21KUGFwTVJqajFQT0w5WlZES2ZaLVQxOG85SjhDLUhtM2hJbU5jWWt2dnc2YWhPejRuc0FMOUw3TjdRU3Y2bGlYNVA2ZEQtWFpHcmJYTnpiVi1MdTJIWFpNRGRxQmlEVUFWNnRTLThDbXgwalZQaWx0NmlXV1BCazI0TG5tVDU?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Moderna shares sink after leaked cancer data missed expectations - Financial Times",
+     "desc": "Moderna shares sink after leaked cancer data missed expectations Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVjM1THhqb3Itbm5fNFl3bzFIYkFiUlJsU1hxalRuWEJWb2RhLWxNV0pud2J6R2ZibHNKai16YWU1MUM3WmFPbVBLTU85WHJMTzZYY1d4T0Q3bWNQN1NNNEJXWWcxQlZyMlpSV3hfN0VzXzcxVDJDQ09STUtMRWVhdm9XN20?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261022-08",
+   "title": "ロシアが米国のスティーヴン・ハバード氏を解放",
+   "firstSeen": "2026-10-22",
+   "daysSeen": 2,
+   "history": {
+    "2026-10-22": 24,
+    "2026-10-23": 8
+   },
+   "peak": 24,
    "worldScore": 8,
    "worldCoverage": "3/18",
    "jpScore": 0,
@@ -1011,141 +960,45 @@
      "name": "Deutsche Welle",
      "region": "world",
      "weight": 0.5,
-     "title": "Raids at far-right group's offices at European Parliament",
-     "desc": "Authorities searched the Patriots for Europe's European Parliament offices in a long-running funding inquiry. The group says the charges pertain to its predecessor and there is \"no legal continuity\" between the two.",
-     "url": "https://www.dw.com/en/raids-at-far-right-group-s-offices-at-european-parliament/a-79724631?maca=en-rss-en-world-4025-rdf",
+     "title": "Russia frees jailed American Stephen Hubbard during Witkoff talks",
+     "desc": "During talks between Vladimir Putin and Steve Witkoff, Putin announced that jailed American Stephen Hubbard had been released. The Kremlin also said Russia was \"in principle\" ready to resume trilateral talks next month.",
+     "url": "https://www.dw.com/en/russia-frees-jailed-american-stephen-hubbard-during-witkoff-talks/a-79719452?maca=en-rss-en-world-4025-rdf",
      "via": null
     },
     {
-     "id": "france24",
-     "name": "France 24",
+     "id": "cbs",
+     "name": "CBS News",
      "region": "world",
      "weight": 0.5,
-     "title": "EU prosecutors search European Parliament offices of far-right group",
-     "desc": "The far-right European Parliament group of French presidential frontrunner Marine Le Pen's party said Wednesday EU prosecutors were searching its offices as part of a graft probe into its now-defunct predecessor. The Patriots for Europe group said the European Public Prosecutor's Office (EPPO) had been searching its administrative offices in Brussels and Strasbourg \"since this morning\". FRANCE 24's Dave Keating reports from Strasbourg.",
-     "url": "https://www.france24.com/en/eu-prosecutors-search-european-parliament-offices-of-far-right-group",
+     "title": "Stephen Hubbard returns to U.S. after Russian detention",
+     "desc": "Stephen Hubbard, an American who&#039;d been detained by Russia for more than four years, has landed back in the U.S., President Trump said. Ramy Inocencio has more.",
+     "url": "https://www.cbsnews.com/video/stephen-hubbard-returns-to-u-s-after-russian-detention/",
      "via": null
-    },
-    {
-     "id": "euronews",
-     "name": "Euronews",
-     "region": "world",
-     "weight": 0.5,
-     "title": "EU prosecutors raid far-right group's offices in €4 million funds scandal",
-     "desc": "The searches are linked to an probe into the alleged misuse of more than €4 million by the now-defunct Identity and Democracy group, whose debts Patriots for Europe could be forced to repay.",
-     "url": "https://www.euronews.com/2026/10/21/eu-prosecutors-raid-far-right-groups-offices-in-4-million-funds-scandal",
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "s-20261022-11",
-   "title": "米最高裁、トランスジェンダー受刑者の医療制限認めず",
-   "firstSeen": "2026-10-22",
-   "daysSeen": 1,
-   "history": {
-    "2026-10-22": 8
-   },
-   "peak": 8,
-   "worldScore": 8,
-   "worldCoverage": "3/18",
-   "jpScore": 0,
-   "jpCoverage": "0/6",
-   "gap": 8,
-   "japan": false,
-   "outlets": [
-    {
-     "id": "toi",
-     "name": "Times of India",
-     "region": "world",
-     "weight": 0.5,
-     "title": "US top court nixes Trump admin's bid to restrict medical care for transgender inmates",
-     "desc": "",
-     "url": "https://timesofindia.indiatimes.com/world/us/us-top-court-nixes-trump-admins-bid-to-restrict-medical-care-for-transgender-inmates/articleshow/135096276.cms",
-     "via": null
-    },
-    {
-     "id": "reuters",
-     "name": "Reuters",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Supreme Court won't allow Trump administration restrictions on transgender inmates - Reuters",
-     "desc": "Supreme Court won't allow Trump administration restrictions on transgender inmates Reuters",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOb05XM3ZlNDVMQU42NUZWTWl0TF95di1wZTVSOVBxYVkwNWEyTDdWZjhvaGdwbFE1M1JNTEVhMkNxcFFBczZzZUI4blV5bGNxMnRrX1djZ3BrZTlvYXpxMG0zTmNJWE0wRkMzY19OYUlMX1YwXy1XeDg2NUJtOWNGeGxia2xjUDlfdnJTaWJzUHotZlRIQ1VRMXJydm11eW9VTm44bVlWTnE4cFRDNnVGQmwxNkxzbDgzUEhXTQ?oc=5",
-     "via": "googlenews"
     },
     {
      "id": "ap",
      "name": "Associated Press",
      "region": "world",
      "weight": 0.5,
-     "title": "Supreme Court rebuffs Trump administration restrictions on medical care for transgender inmates - AP News",
-     "desc": "Supreme Court rebuffs Trump administration restrictions on medical care for transgender inmates AP News",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOFRhSTJyT3RrVXFVUzRQRnpqUndyLTduTjdsVGdNdFQzandyVk5DRU1tcUZaX0xWWW4ycmxYSmpzcmN6UjJ1Mk0ycGpSOHVtZlJOaWo1b1J0RVlnelJJa3dTYWg2M1RYN3M3UVk2MHU1cUM3TUpETkpfWUI2eDl2amNLQzBJWDVxa1lxZEtBWlJYNFBrRDM1V3ZUQ29NTmRI?oc=5",
+     "title": "Russia frees American Stephen Hubbard after over 4 years behind bars - AP News",
+     "desc": "Russia frees American Stephen Hubbard after over 4 years behind bars AP News",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM2pKWm5lTVpmeW5RRHktWU5US2dTSS1fTDhuVjhVUjYyd3I5b3h2QzVfd0pDcm9WM1BFaFpQZENlZVMtdEoyNUQwTEJwTVhyckl0bVBYYzIxcVl1UW5FSzRUVXdIWUV3a214QnVhb1FJSkNjTFFEU0lfTGhtVTdWQ1RDVFpFQmhneWk1UVFBRHlHX3lmY0xTYU5HOTFYdmxYd09meDFTNkg4cmJ2Tlh6UnRFZGoxRlE?oc=5",
      "via": "googlenews"
     }
    ]
   },
   {
-   "id": "s-20261022-16",
-   "title": "ニューメキシコ州、エプスタイン氏関係者を提訴",
+   "id": "s-20261022-07",
+   "title": "エルサルバドル大統領、ハイチのギャングに警告",
    "firstSeen": "2026-10-22",
-   "daysSeen": 1,
-   "history": {
-    "2026-10-22": 8
-   },
-   "peak": 8,
-   "worldScore": 8,
-   "worldCoverage": "3/18",
-   "jpScore": 0,
-   "jpCoverage": "0/6",
-   "gap": 8,
-   "japan": false,
-   "outlets": [
-    {
-     "id": "straits",
-     "name": "The Straits Times",
-     "region": "world",
-     "weight": 0.5,
-     "title": "New Mexico sues to stop payouts to Jeffrey Epstein's lawyer, accountant",
-     "desc": "Oct 21 - New Mexico has filed a civil lawsuit to block payments from Jeffrey Epstein's estate to the late sex offender's lawyer and accountant, and to recover damages for survivors of his alleged sexual abuse, the state's top law enforcement official said on Wednesday.",
-     "url": "https://www.straitstimes.com/world/new-mexico-sues-jeffrey-epsteins-former-lawyer-and-accountant",
-     "via": null
-    },
-    {
-     "id": "reuters",
-     "name": "Reuters",
-     "region": "world",
-     "weight": 0.5,
-     "title": "New Mexico sues to stop payouts to Jeffrey Epstein's lawyer, accountant - Reuters",
-     "desc": "New Mexico sues to stop payouts to Jeffrey Epstein's lawyer, accountant Reuters",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMlFNc2V2YVRPNHBBM0xYLUxXdjd2MnFjVV9NUnA1Vk5QODV5Z2tiMEVJV1drUXZSMFdzOUFGYV8yQkx3WUYwejRYM2FyNzFTc0E0SVV6UFd3TEh5MlpNQWxrNWJXMHc1OXhfb2k4VUlBamgtS0lwdGY4TVU2dWdDVHAxT0dNYkEwalhsVjNlUUlJNGwySUoyRmQ0NmtfY2lIX3hCYzFZd2FrVnlFNGRn?oc=5",
-     "via": "googlenews"
-    },
-    {
-     "id": "ap",
-     "name": "Associated Press",
-     "region": "world",
-     "weight": 0.5,
-     "title": "New Mexico attorney general accuses Epstein attorney, accountant of abuse cover-up at ranch - AP News",
-     "desc": "New Mexico attorney general accuses Epstein attorney, accountant of abuse cover-up at ranch AP News",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa3NydUNob1RqQVYxNUhyZHhCcFlsV2txQ3pMVWxCT0oyWEJHT2JkbzV0WHRFYVF6OWRnVU1KaVZsNV9oY25IU19SZWNEUWJ6T1A5aXJaZlZVUDBjNDVnTEJDdy1yU3JFbkdBX2EwZ2RudzRMc0VxbEpSTGI3Xy1LSGVJUXVNaDBtMktSYXdQcnJlQjNnUmFR?oc=5",
-     "via": "googlenews"
-    }
-   ]
-  },
-  {
-   "id": "s-20261021-01",
-   "title": "テスラとスペースXの統合を検討",
-   "firstSeen": "2026-10-21",
    "daysSeen": 2,
    "history": {
-    "2026-10-21": 14,
-    "2026-10-22": 7
+    "2026-10-22": 6,
+    "2026-10-23": 7
    },
-   "peak": 14,
+   "peak": 7,
    "worldScore": 7,
-   "worldCoverage": "2/18",
+   "worldCoverage": "3/18",
    "jpScore": 0,
    "jpCoverage": "0/6",
    "gap": 7,
@@ -1155,145 +1008,41 @@
      "id": "bbc",
      "name": "BBC",
      "region": "world",
-     "weight": 0.68,
-     "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
-     "desc": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
-     "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+     "weight": 0.39,
+     "title": "El Salvador's president threatens Haitian gangs over military hostages",
+     "desc": "Four members of the so-called Gang Suppression Force have been missing since Sunday.",
+     "url": "https://www.bbc.co.uk/news/articles/cq33xpjekve4o?at_medium=RSS&at_campaign=rss",
      "via": null
     },
     {
-     "id": "bloomberg",
-     "name": "Bloomberg",
+     "id": "nyt",
+     "name": "New York Times",
      "region": "world",
-     "weight": 0.5,
-     "title": "Obviously SpaceX and Tesla Will Merge - Bloomberg.com",
-     "desc": "Obviously SpaceX and Tesla Will Merge Bloomberg.com",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVXJXMXJsUGhrbjFKSi12akt0Y1M2VHlKWlByV195bmZ1RGZTYm9rUjlHX3V2QWlhRkRuRzVOM3BmN05Sb2FuQ3NIOU1hNklvdFVfc1c0ZE5qV0tfY0ZpWTZVREJIUzgxd0NZZkVwZXhlLTdyWHYtWks2b1FKTGF6aHhqX3h3SUE3QXhpR2FEZnl3M0wyMUQ3QWVn?oc=5",
-     "via": "googlenews"
-    }
-   ]
-  },
-  {
-   "id": "s-20261022-06",
-   "title": "ウクライナの首都キーウ等にミサイル攻撃",
-   "firstSeen": "2026-10-22",
-   "daysSeen": 1,
-   "history": {
-    "2026-10-22": 6
-   },
-   "peak": 6,
-   "worldScore": 6,
-   "worldCoverage": "2/18",
-   "jpScore": 0,
-   "jpCoverage": "0/6",
-   "gap": 6,
-   "japan": false,
-   "outlets": [
-    {
-     "id": "straits",
-     "name": "The Straits Times",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Six injured in Russian missile attack on Ukrainian capital, Kyiv",
-     "desc": "Homes, a petrol station and transport equipment were also damaged.",
-     "url": "https://www.straitstimes.com/world/europe/ukrainian-capital-under-missile-attack-explosions-seen-in-city",
+     "weight": 0.39,
+     "title": "El Salvador’s President Issues Harsh Warning to Haitian Gangs After 4 Soldiers Are Abducted",
+     "desc": "Four members of El Salvador’s military were abducted Sunday in Haiti, and their president wants them back.",
+     "url": "https://www.nytimes.com/2026/10/21/world/americas/el-salvador-military-haiti-gangs.html",
      "via": null
     },
     {
-     "id": "reuters",
-     "name": "Reuters",
+     "id": "npr",
+     "name": "NPR",
      "region": "world",
-     "weight": 0.5,
-     "title": "Six injured in Russian missile attack on Ukrainian capital - Reuters",
-     "desc": "Six injured in Russian missile attack on Ukrainian capital Reuters",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZGRlYThKZW5JNEE0N2pYaVZRaVozOGRaTjhpeHRaVWFEQVZXLWcxc2hNY0VqT0JlcW5ZQUVZLTgyenltX1h0NXR5cmcxN1VjSjNkcm9vbk1DTkR6bVVKNmljX0xMOWRncVY4UEc2VUNhRmw0eHJnTklSZGlzYzdDSi1RRkhZTVhVSVIzeFRJRW1tTmhmM194QkZPeFppQzliNDVQQ3Y5SEJsdHdOQmtVeVNFWm91bWhvOXRHMzhrQQ?oc=5",
-     "via": "googlenews"
-    }
-   ]
-  },
-  {
-   "id": "s-20261022-07",
-   "title": "エルサルバドル、ハイチのギャングによる人質事件受け対応へ",
-   "firstSeen": "2026-10-22",
-   "daysSeen": 1,
-   "history": {
-    "2026-10-22": 6
-   },
-   "peak": 6,
-   "worldScore": 6,
-   "worldCoverage": "2/18",
-   "jpScore": 0,
-   "jpCoverage": "0/6",
-   "gap": 6,
-   "japan": false,
-   "outlets": [
-    {
-     "id": "straits",
-     "name": "The Straits Times",
-     "region": "world",
-     "weight": 0.5,
-     "title": "El Salvador says Haiti gangs holding 4 force members hostage, announces new rescue mission",
-     "desc": "Oct 21 - El Salvador's President Nayib Bukele on Wednesday said that Haitian gangs were holding four Salvadaron members of an international UN-backed security force hostage, and that he had launched a military operation to being them back unharmed.",
-     "url": "https://www.straitstimes.com/world/el-salvador-says-haiti-gangs-holding-4-force-members-hostage-announces-new-rescue-mission",
-     "via": null
-    },
-    {
-     "id": "reuters",
-     "name": "Reuters",
-     "region": "world",
-     "weight": 0.5,
-     "title": "El Salvador says Haiti gangs holding 4 force members hostage, announces new rescue mission - Reuters",
-     "desc": "El Salvador says Haiti gangs holding 4 force members hostage, announces new rescue mission Reuters",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWXFZb1FxUlowcWMwdURfWXIyRlQ0Q09mOWltdHd1bVR5V2I4Mlg4LTNKbmNCQ2RURk90MjMwVXlSRFYxZVJ0ZEJMN0JMRlNiNS1qOEZITmtNRjdkU204QUtEV2ZkVlEzdUR5T2pHSENXcjFzN0pkelBfRV9DZXE1RU9waFlRVVJLYXcwcnNnZ1RFelNwSW83ZVBLRE9YbDdLblhveDJwTVZic1RGOWMxWUZhZ3V2Y3JLa0tVdUQ4VzZjeVk?oc=5",
-     "via": "googlenews"
-    }
-   ]
-  },
-  {
-   "id": "s-20261022-12",
-   "title": "コロンビアで大規模なコカイン押収",
-   "firstSeen": "2026-10-22",
-   "daysSeen": 1,
-   "history": {
-    "2026-10-22": 6
-   },
-   "peak": 6,
-   "worldScore": 6,
-   "worldCoverage": "2/18",
-   "jpScore": 0,
-   "jpCoverage": "0/6",
-   "gap": 6,
-   "japan": false,
-   "outlets": [
-    {
-     "id": "aljazeera",
-     "name": "Al Jazeera",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Colombia seizes 7.6 tonnes of cocaine in biggest haul in a decade",
-     "desc": "Colombian authorities have seized 7.6 tonnes of cocaine at the Caribbean port of Cartagena",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/colombia-seizes-7-6-tonnes-of-cocaine-in-biggest-haul-in-a-decade?traffic_source=rss",
-     "via": null
-    },
-    {
-     "id": "euronews",
-     "name": "Euronews",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Colombia seizes 7.6 tonnes of Netherlands-bound cocaine at Cartagena port",
-     "desc": "Separately, two Dutch nationals wanted by prosecutors in the Netherlands have been arrested in Colombia.",
-     "url": "https://www.euronews.com/2026/10/21/colombia-seizes-76-tonnes-of-netherlands-bound-cocaine-at-cartagena-port",
+     "weight": 0.46,
+     "title": "Bukele says military operation launched to rescue Salvadorans held by gangs in Haiti",
+     "desc": "El Salvador's President Nayib Bukele said Wednesday he had launched a military operation to rescue four Salvadoran aviation technicians kidnapped by gangs in Haiti.",
+     "url": "https://www.npr.org/2026/10/22/nx-s1-6012029/bukele-military-operation-haiti",
      "via": null
     }
    ]
   },
   {
-   "id": "s-20261022-13",
-   "title": "UAE外交官が国連事務総長選に立候補",
-   "firstSeen": "2026-10-22",
+   "id": "s-20261023-10",
+   "title": "米メタ、巨額AI投資への警戒感から株価急落",
+   "firstSeen": "2026-10-23",
    "daysSeen": 1,
    "history": {
-    "2026-10-22": 6
+    "2026-10-23": 6
    },
    "peak": 6,
    "worldScore": 6,
@@ -1304,342 +1053,47 @@
    "japan": false,
    "outlets": [
     {
-     "id": "straits",
-     "name": "The Straits Times",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Senior UAE diplomat Lana Nusseibeh enters race for UN chief",
-     "desc": "DUBAI, Oct 21 - Senior UAE diplomat Lana Nusseibeh entered the race to become the next United Nations secretary-general on Wednesday, injecting a prominent Middle Eastern candidate into a contest that has struggled to produce a consensus choice among the Security Council’s most powerful members.",
-     "url": "https://www.straitstimes.com/world/middle-east/senior-uae-diplomat-lana-nusseibeh-enters-race-for-un-chief",
-     "via": null
-    },
-    {
      "id": "reuters",
      "name": "Reuters",
      "region": "world",
      "weight": 0.5,
-     "title": "EXCLUSIVE: Senior UAE diplomat Lana Nusseibeh enters race for UN chief - Reuters",
-     "desc": "EXCLUSIVE: Senior UAE diplomat Lana Nusseibeh enters race for UN chief Reuters",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORl9ZNjNjcFpVTWt6R2RicGZDYy01UzhzSFcwWFNXUGtZaGZCUUhOSXdyMjg2aXlDYVFnNGQ4VVJ1dXhyV3NxQmV4RmRWRE9uWnBhSUp4STlYSmtWMFotWlhiMHZFeWR4N29BbkZzZjMtTS04MGo0MXVWS2pyZURsOENFbnZaUXNkQjBlQUFRa2JySnEtWF9ERGxQNzdGZw?oc=5",
+     "title": "Steep bill for AI buildout punishes Meta, other tech favorites - Reuters",
+     "desc": "Steep bill for AI buildout punishes Meta, other tech favorites Reuters",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaG4yYUM1ZzJnZmtpWnhIUVEzU01PRmxZM1BDRDJLazA1dkdaX3k0Z2pPMHJJUi1HUEM2OF9oV1JzSFh3d1dEU0dzc3JMQWRCeDhRa2JvNGVBbVluUlY4UGY3REoyWVZkTFBZT3BGa0swX2s1RzY3MDM5ZWlBTm1wYVBYNEt5M2VlTFoyRVNTTXJUaUVVYzVNcUtQQ2hfUW9nalZGbQ?oc=5",
      "via": "googlenews"
     },
     {
-     "id": "mainichi",
-     "name": "毎日新聞",
-     "region": "jp",
-     "weight": 0.5,
-     "title": "UAE、女性外交官を国連事務総長選に推薦 有力候補に浮上か",
-     "desc": "",
-     "url": "https://mainichi.jp/articles/20261022/k00/00m/030/005000c",
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "s-20261022-14",
-   "title": "米議員、ロシアの民主党ターゲット巡るブリーフィング言及",
-   "firstSeen": "2026-10-22",
-   "daysSeen": 1,
-   "history": {
-    "2026-10-22": 6
-   },
-   "peak": 6,
-   "worldScore": 6,
-   "worldCoverage": "2/18",
-   "jpScore": 0,
-   "jpCoverage": "0/6",
-   "gap": 6,
-   "japan": false,
-   "outlets": [
-    {
-     "id": "straits",
-     "name": "The Straits Times",
+     "id": "ft",
+     "name": "Financial Times",
      "region": "world",
      "weight": 0.5,
-     "title": "Lawmakers say US briefing showed Russia targeting Democrats with misinformation",
-     "desc": "They said Moscow was waging the same kind of campaign seen in three previous US elections.",
-     "url": "https://www.straitstimes.com/world/united-states/lawmakers-say-us-briefing-showed-russia-targeting-democrats-with-misinformation",
-     "via": null
-    },
-    {
-     "id": "reuters",
-     "name": "Reuters",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Lawmakers say US briefing showed Russia targeting Democrats with misinformation - Reuters",
-     "desc": "Lawmakers say US briefing showed Russia targeting Democrats with misinformation Reuters",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRFJLUEhfVDJRWmZsVlVqRnB3WHlMUFZOeXJoNUF3WjhsNVJ6SUI2ajNxck5SUHBLTTI5dzhvV1JkaF9OS2R6SjQ0bnFpV011blVVQ1hKVkpMRkx6OHpqR1JJM1BGY2hYVExYQ1hUb01JV0tMc0FTNFIyY3dpTjFQNVVtNXozb1VjSkMwU1h6UWJ6TEFWRVE1cjJYVjQ5QTNPX2hpUDJabEhWbldxNjZqdFJEb1pjQjJjbm1TVDViWFNvQQ?oc=5",
+     "title": "Nasdaq tumbles while Treasuries soar as Meta rekindles AI spending fears - Financial Times",
+     "desc": "Nasdaq tumbles while Treasuries soar as Meta rekindles AI spending fears Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcjc2Qnc1OUdYaTRkWFNLc1N4MGhZUEk0QWg5UXdkaDdyMF9qcjV2WUFPaW1JeU5oT3VZaTdPdHBpQUYxTy1fb3ctS3NUaWRuS0F3VlJaME9ZVXp2cFJIVEtIaXZUN01PaS1fRi0wQUtaN0VnMzdxMEh0cldyTHRFSVY2czE?oc=5",
      "via": "googlenews"
-    }
-   ]
-  },
-  {
-   "id": "s-20261022-15",
-   "title": "ベネズエラ、選挙後の投資誘致目指す",
-   "firstSeen": "2026-10-22",
-   "daysSeen": 1,
-   "history": {
-    "2026-10-22": 6
-   },
-   "peak": 6,
-   "worldScore": 6,
-   "worldCoverage": "2/18",
-   "jpScore": 0,
-   "jpCoverage": "0/6",
-   "gap": 6,
-   "japan": false,
-   "outlets": [
-    {
-     "id": "straits",
-     "name": "The Straits Times",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Venezuela to attract investors after elections, Branson says",
-     "desc": "Oct 21 - British billionaire and Virgin Group owner Richard Branson said on Wednesday that Venezuela will attract more foreign investors once the country holds elections, as the South American nation seeks to boost capital inflows in sectors like oil and gas.",
-     "url": "https://www.straitstimes.com/world/europe/venezuela-to-attract-investors-after-elections-branson-says",
-     "via": null
-    },
-    {
-     "id": "reuters",
-     "name": "Reuters",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Venezuela to attract investors after elections, Branson says - Reuters",
-     "desc": "Venezuela to attract investors after elections, Branson says Reuters",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYjM3czJkMGVZSHMzXzBkcUhRV204bGpXZm9MaDhEeFNlNFl0RHI0SHVBU1JnMklWaDF6NnVXY1doajRyUUhGbHZZVnNiaVVScnFaY1FaSEJGdVBqbmxoVFk5RnBraTJEM2hmb29wbGRMRFpibjRJdmszTTNTSWczTlpLODhyaGRzNF9xdjV3Wk40QmxIUzRRN1M4dzVEZWdISnVfRXNSY2dfOFk?oc=5",
-     "via": "googlenews"
-    }
-   ]
-  },
-  {
-   "id": "s-20261022-17",
-   "title": "トランプ派組織、米重要選挙に向け巨額支援",
-   "firstSeen": "2026-10-22",
-   "daysSeen": 1,
-   "history": {
-    "2026-10-22": 6
-   },
-   "peak": 6,
-   "worldScore": 6,
-   "worldCoverage": "2/18",
-   "jpScore": 0,
-   "jpCoverage": "0/6",
-   "gap": 6,
-   "japan": false,
-   "outlets": [
-    {
-     "id": "straits",
-     "name": "The Straits Times",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Trump’s MAGA Inc unleashes US$277m in last-ditch bid to save Republicans in key US races",
-     "desc": "Several races in the November midterm elections are key to Republicans' chances of keeping control of Congress.",
-     "url": "https://www.straitstimes.com/world/united-states/trumps-maga-inc-unleashes-us277m-in-last-ditch-bid-to-save-republicans-in-key-us-races",
-     "via": null
-    },
-    {
-     "id": "reuters",
-     "name": "Reuters",
-     "region": "world",
-     "weight": 0.5,
-     "title": "Trump's MAGA Inc unleashes $277 million last-ditch effort to save Republicans in key US races - Reuters",
-     "desc": "Trump's MAGA Inc unleashes $277 million last-ditch effort to save Republicans in key US races Reuters",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQ2lJMDRnenpmU3ZEajk0Ync0TWxqNVEzcmdJa1hzLXd6Zmdzazc3ZHIxamNIZjdDa01IVkh2b24yQVEyb2NXcXVzSG9aN01JTU9GVXlCYzJHREJOdGpkb2ljdDE3RndrUnRtdHNHTzh6b3VfTEJnbmNTTDhmUWx1eTRKUklCVTh6ZEowSDZXbTdFVkJoZU10OWFfa0hLQU96WlRDRk9MNXBKSmx3cGxRWlRjMUxfNTBDUDdVemI2Njh2R3RHLUx2R3NEcDk?oc=5",
-     "via": "googlenews"
-    }
-   ]
-  },
-  {
-   "id": "s-20261022-03",
-   "title": "南アフリカでサメ襲撃、遊泳中の女性死亡",
-   "firstSeen": "2026-10-22",
-   "daysSeen": 1,
-   "history": {
-    "2026-10-22": 5
-   },
-   "peak": 5,
-   "worldScore": 5,
-   "worldCoverage": "2/18",
-   "jpScore": 0,
-   "jpCoverage": "0/6",
-   "gap": 5,
-   "japan": false,
-   "outlets": [
-    {
-     "id": "bbc",
-     "name": "BBC",
-     "region": "world",
-     "weight": 0.53,
-     "title": "Swimmer, 65, killed in shark attack off South Africa's east coast",
-     "desc": "Janine Lochrenberg, 65, was out on her daily morning swim with her club when she was attacked, her family tell the BBC.",
-     "url": "https://www.bbc.co.uk/news/articles/cqx297pxg1djo?at_medium=RSS&at_campaign=rss",
-     "via": null
-    },
-    {
-     "id": "sky",
-     "name": "Sky News",
-     "region": "world",
-     "weight": 0.39,
-     "title": "Swimmer killed in shark attack in South Africa",
-     "desc": "A 65-year-old woman was killed in a shark attack at a popular beach on South Africa's southeastern coast, local authorities said.",
-     "url": "https://news.sky.com/story/woman-65-killed-in-shark-attack-in-south-africa-13601492",
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "s-20261022-04",
-   "title": "仏の歴史的市庁舎で火災、容疑者逮捕",
-   "firstSeen": "2026-10-22",
-   "daysSeen": 1,
-   "history": {
-    "2026-10-22": 5
-   },
-   "peak": 5,
-   "worldScore": 5,
-   "worldCoverage": "2/18",
-   "jpScore": 0,
-   "jpCoverage": "0/6",
-   "gap": 5,
-   "japan": false,
-   "outlets": [
-    {
-     "id": "bbc",
-     "name": "BBC",
-     "region": "world",
-     "weight": 0.45,
-     "title": "Suspect arrested after historic town hall set alight - French media",
-     "desc": "The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday.",
-     "url": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
-     "via": null
-    },
-    {
-     "id": "sky",
-     "name": "Sky News",
-     "region": "world",
-     "weight": 0.48,
-     "title": "Suspect arrested in France after fire at historic city hall",
-     "desc": "A man has been arrested after a fire at the town hall of Limoges, according to French media.",
-     "url": "https://news.sky.com/story/suspect-arrested-in-france-after-fire-at-limoges-city-hall-13601372",
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "s-20261022-18",
-   "title": "プログラミング言語「PHP」に重大な脆弱性発覚",
-   "firstSeen": "2026-10-22",
-   "daysSeen": 1,
-   "history": {
-    "2026-10-22": 3
-   },
-   "peak": 3,
-   "worldScore": 3,
-   "worldCoverage": "1/18",
-   "jpScore": 42,
-   "jpCoverage": "4/6",
-   "gap": -39,
-   "japan": false,
-   "outlets": [
-    {
-     "id": "reuters",
-     "name": "Reuters",
-     "region": "world",
-     "weight": 0.5,
-     "title": "What is PHP and why did it take government websites offline? - Reuters",
-     "desc": "What is PHP and why did it take government websites offline? Reuters",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ0lJS1lzVTBUNTJULVVJZGpTR0NwcXN3SkpEQVgzQ19CaGZxNlFGWEFGU1lRTjhyYjE2RDZDTUJqMGNyQXpnaWhMbGlhLV9qZU1HSmt4WGJlMXlJLWVRNDIwY3FPdjNMSUc3UzhLWWM0N19ubjROa3pjWHJraVNJa05EeUR2WHRSbDVhN3EzWHE3UkVPUVlPN3AxMjdMSkJXdnZfRQ?oc=5",
-     "via": "googlenews"
-    },
-    {
-     "id": "jiji",
-     "name": "時事通信",
-     "region": "jp",
-     "weight": 0.5,
-     "title": "プログラミング言語「ＰＨＰ」に脆弱性 世界のサイト７割が危険に",
-     "desc": "",
-     "url": "https://www.jiji.com/jc/article?k=2026102200196&g=int&m=rss",
-     "via": null
-    },
-    {
-     "id": "yahoo-world",
-     "name": "Yahoo!ニュース 国際",
-     "region": "jp",
-     "weight": 0.71,
-     "title": "米FBI、PHP欠陥に注意喚起 「機密データ侵害の恐れ」(共同通信)",
-     "desc": "【ワシントン共同】米連邦捜査局（FBI）は21日、プログラミング言語「PHP」にシステムの重大な欠陥に当たる脆弱性が見つかった問題を巡り、機密データやネットワークが侵害される恐れがあると注意喚起した。",
-     "url": "https://news.yahoo.co.jp/articles/e7cb44788c72540840227c0512fd721cd4d866e2?source=rss",
-     "via": null
-    },
-    {
-     "id": "yahoo",
-     "name": "Yahoo!ニュース主要",
-     "region": "jp",
-     "weight": 0.8,
-     "title": "PHPに欠陥 欧州各国でサイト遮断",
-     "desc": "",
-     "url": "https://news.yahoo.co.jp/pickup/6599650?source=rss",
-     "via": null
     },
     {
      "id": "nikkei",
      "name": "日本経済新聞",
      "region": "jp",
      "weight": 0.5,
-     "title": "プログラム言語「PHP」欠陥、世界でサイト停止 AIが脆弱性発見 - 日本経済新聞",
-     "desc": "プログラム言語「PHP」欠陥、世界でサイト停止 AIが脆弱性発見 日本経済新聞",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQdHgxaTFrN3lzaXF1NmcxRUNQZl94T0VQbW9ZYXFlRWx4MjJ1UE00V1UwQ3ZrTjBDemdveWFtR0lXQnNsZy0tZkZDMHJ1WUZWQ0ZUUTJBNGU3eUkxa0RsZWkwSkZoM1BBMFltZg?oc=5",
-     "via": "googlenews"
-    }
-   ]
-  },
-  {
-   "id": "s-20261022-19",
-   "title": "イオンのサイトに不正アクセス、情報流出調査",
-   "firstSeen": "2026-10-22",
-   "daysSeen": 1,
-   "history": {
-    "2026-10-22": 0
-   },
-   "peak": 0,
-   "worldScore": 0,
-   "worldCoverage": "0/18",
-   "jpScore": 17,
-   "jpCoverage": "2/6",
-   "gap": -17,
-   "japan": true,
-   "outlets": [
-    {
-     "id": "asahi",
-     "name": "朝日新聞",
-     "region": "jp",
-     "weight": 0.5,
-     "title": "イオングループ13社の42サイトに不正アクセス 情報流出は調査中",
-     "desc": "",
-     "url": "http://www.asahi.com/articles/ASVBP457VVBPULFA02GM.html?ref=rss",
-     "via": null
-    },
-    {
-     "id": "nikkei",
-     "name": "日本経済新聞",
-     "region": "jp",
-     "weight": 0.5,
-     "title": "イオン、ウェブサイトに不正アクセス 個人情報流出の有無を調査 - 日本経済新聞",
-     "desc": "イオン、ウェブサイトに不正アクセス 個人情報流出の有無を調査 日本経済新聞",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02N3BCSFg1S0dlb25fRndndFZ1TXF1c09rSnQ5R3RRQ05CRWRlZmF4aWdZZnd0UGZmM1FFaU9tWnp3SWQ5N2oxSWlKcDUtVnpUaGRsUHJwUElGa0k1RHlpTEZCdkViN1BlWVc1eA?oc=5",
+     "title": "米ナスダック急落2.6%安 メタは一時8%安、AI巨額投資に警戒再燃 - 日本経済新聞",
+     "desc": "米ナスダック急落2.6%安 メタは一時8%安、AI巨額投資に警戒再燃 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrNWJZZjhaX2pEeDZUVGxDNFR2MmZzeTNnTi1fVG1pQ3lCQ2JnWERfUXlLQUhRWUdqUFBrc3czRjkwMVBaYVExWl9MUGt1OFBzMDctb2tHck85aE9JVUpoRTQ4S2o5emZmTzdPdQ?oc=5",
      "via": "googlenews"
     }
    ]
   },
   {
    "id": "s-20261009-22",
-   "title": "コミックシーモアで最大420万件の個人情報流出の恐れ",
+   "title": "デジ庁や通信事業者などで個人情報流出・不正アクセス相次ぐ",
    "firstSeen": "2026-10-09",
-   "daysSeen": 3,
+   "daysSeen": 4,
    "history": {
     "2026-10-09": 0,
     "2026-10-16": 0,
-    "2026-10-22": 0
+    "2026-10-22": 0,
+    "2026-10-23": 0
    },
    "peak": 0,
    "worldScore": 0,
@@ -1650,13 +1104,13 @@
    "japan": true,
    "outlets": [
     {
-     "id": "asahi",
-     "name": "朝日新聞",
+     "id": "yahoo",
+     "name": "Yahoo!ニュース主要",
      "region": "jp",
-     "weight": 0.85,
-     "title": "20府県警の警察官ら12万5千件の個人情報流出か 氏名やアドレス",
+     "weight": 0.9,
+     "title": "デジ庁HPの問い合わせ内容漏洩か",
      "desc": "",
-     "url": "http://www.asahi.com/articles/ASVBP3SVBVBPUTIL02JM.html?ref=rss",
+     "url": "https://news.yahoo.co.jp/pickup/6599763?source=rss",
      "via": null
     },
     {
@@ -1664,10 +1118,86 @@
      "name": "日本経済新聞",
      "region": "jp",
      "weight": 0.5,
-     "title": "「コミックシーモア」、会員情報など最大420万件流出 不正アクセスで - 日本経済新聞",
-     "desc": "「コミックシーモア」、会員情報など最大420万件流出 不正アクセスで 日本経済新聞",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pdGsyN0tKYzdaVWFHd2o1OGtXaXJ3X01JRFNJNHBSRUVvYVo0Y3BRTG1BRGRmVTZUYkFBR05Jbm9EZjk5S1ZPRDB6dV9kUWxIczB4czBlUUp6aUFsOHlEc1Z3YjVCOUdLS29fUw?oc=5",
+     "title": "デジタル庁、問い合わせフォーム入力情報1万件超が漏洩か - 日本経済新聞",
+     "desc": "デジタル庁、問い合わせフォーム入力情報1万件超が漏洩か 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FSl9IV0ljdVF4cjNQcnl3Y2hzbU5aT3lnb181UWtoMEdmemcwY2FyOEd5TU5NLUhhMVhyN29PNVBySl83RFQ5ZU9HVWJQTnNhVUt6SUJYUDZxSnJIYXZEWlpHeXU4ekQ2S05pbg?oc=5",
      "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261023-11",
+   "title": "ANAHD、エア・ドゥとAIRDOに追加出資へ",
+   "firstSeen": "2026-10-23",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-23": 0
+   },
+   "peak": 0,
+   "worldScore": 0,
+   "worldCoverage": "0/18",
+   "jpScore": 16,
+   "jpCoverage": "2/6",
+   "gap": -16,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "asahi",
+     "name": "朝日新聞",
+     "region": "jp",
+     "weight": 0.45,
+     "title": "ANA、エア・ドゥとソラシドに追加出資へ 連結子会社化を目指す",
+     "desc": "",
+     "url": "http://www.asahi.com/articles/ASVBQ22R8VBQULFA002M.html?ref=rss",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "ANAHD、ソラシドエアとAIRDOに追加出資検討 赤字国内線立て直し - 日本経済新聞",
+     "desc": "ANAHD、ソラシドエアとAIRDOに追加出資検討 赤字国内線立て直し 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HOGxwdk5XYmFRcEE2SWprUFBMS0RLR2RmYWl4MGxIRVJacWtwa3dSVDhQdmg4azN0U093SVRXeE5SRnJRNURvelVDTWI3SUFEZFBHUkNiRlYtYi1uQU5rSjFQbVZGNERrN3M1MQ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261023-12",
+   "title": "大成建設・鹿島に国交省が営業停止処分の方針",
+   "firstSeen": "2026-10-23",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-23": 0
+   },
+   "peak": 0,
+   "worldScore": 0,
+   "worldCoverage": "0/18",
+   "jpScore": 22,
+   "jpCoverage": "2/6",
+   "gap": -22,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "asahi",
+     "name": "朝日新聞",
+     "region": "jp",
+     "weight": 0.53,
+     "title": "大成建設・鹿島の土木民間工事を営業停止へ リニア談合で国交省方針",
+     "desc": "",
+     "url": "http://www.asahi.com/articles/ASVBQ2W6JVBQULFA01CM.html?ref=rss",
+     "via": null
+    },
+    {
+     "id": "yahoo",
+     "name": "Yahoo!ニュース主要",
+     "region": "jp",
+     "weight": 0.8,
+     "title": "大成建設・鹿島 国交省が処分方針",
+     "desc": "",
+     "url": "https://news.yahoo.co.jp/pickup/6599759?source=rss",
+     "via": null
     }
    ]
   }
