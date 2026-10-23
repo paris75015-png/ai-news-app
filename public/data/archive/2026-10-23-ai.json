@@ -1,0 +1,980 @@
+{
+  "date": "2026-10-23",
+  "stream": "ai",
+  "title": "AI日報",
+  "generatedAt": "2026-10-23T13:03:00.357Z",
+  "model": "gemini-3.8-flash / gemini-3.5-flash / gemini-3.5-flash-lite / openai/gpt-oss-120b",
+  "editorialVersion": 12,
+  "categories": [
+    {
+      "id": "ai",
+      "label": "AI",
+      "desc": "AIモデル・AIサービス・AI企業の動向"
+    },
+    {
+      "id": "it",
+      "label": "IT",
+      "desc": "ソフトウェア開発・ネットサービス・セキュリティ・デバイス・通信（AIが主題のものは除く）"
+    },
+    {
+      "id": "science",
+      "label": "科学",
+      "desc": "研究成果・医療・宇宙・環境・エネルギー技術"
+    }
+  ],
+  "articles": [
+    {
+      "id": "d73c3fbf5a8b",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "headline": "OpenAI、最大30億ドル調達を目指し時価総額1.25兆ドルで資金調達ラウンドを進める",
+      "originalTitle": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "outlet": "TechCrunch",
+      "region": "overseas",
+      "category": "ai",
+      "score": 92,
+      "tier": "must",
+      "pubDate": "2026-10-22T22:08:24.000Z",
+      "body": null,
+      "summary": "OpenAIは、CoatueとUAEの投資家が主導する資金調達ラウンドで、最大30億ドルを、時価総額1.25兆ドル（プレマネーバリュエーション）で調達しようとしているとCNBCが報じた。これは、同社がIPO（新規株式公開）を先行させるよりもプライベート資金調達に注力する方針であることを示す。\n\n同社は3月の直近ラウンドでポストマネー評価額8520億ドルとされ、6月に機密的にIPO書類を提出している。今回の評価額が1兆ドルを超えると、史上最高のプライベート企業価値となる。Bloombergの先月の報道では評価額1.4兆ドルとされていたが、条件は交渉中で変わる可能性がある。\n\nUAEからの資金は、同社への計算資源供給の取引と結びつく可能性があるとされ、OpenAIはコメントを拒否した。さらに、この高評価は同業のAnthropic（アンソロピック）のIPO計画にも影響を与える可能性がある。Anthropicは1.5兆ドルから2兆ドルの評価額を目指すと報じられている。\n\nAnthropicは5月に650億ドルを調達し、評価額9650億ドルで資金調達を完了した後、同様に6月に機密IPO書類を提出した。市場関係者はOpenAIの高評価がAI業界全体の上場基準を引き上げると見ている。",
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+          "date": "2026-10-22",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "openai/gpt-oss-120b"
+    },
+    {
+      "id": "df790954c73a",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002553/",
+      "headline": "佐川急便、最大約5323万件の個人情報流出の可能性を不正アクセスで公表",
+      "originalTitle": "佐川への不正アクセス、最大5323万件の個人情報流出か 9月末のサイバー攻撃で続報",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "it",
+      "score": 88,
+      "tier": "must",
+      "pubDate": "2026-10-23T08:38:23.000Z",
+      "body": null,
+      "summary": "佐川急便は2026年9月30日午前7時30分に不正アクセスを検知し、同日公表した荷物問い合わせサービスが攻撃対象となったことを発表した。10月23日の第5報で、約100日間にわたり同社が取り扱った荷物情報等が最大約5323万件流出した可能性があると明らかにした。流出の有無は現在も調査中である。\n\n流出したとみられる情報は、荷物の送り主・届け先の氏名・住所・電話番号、運賃契約を結んだ法人・個人顧客の同様の情報、そして会員制Webサービス「スマートクラブ」登録者の氏名・住所・電話番号・メールアドレス・会員IDである。クレジットカード情報やパスワードは含まれていないとされている。\n\n被害拡大防止のため、同社は荷物追跡サービスや集荷受付など複数のWebサービスを一時停止した。荷物追跡サービスは10月23日に再開したが、法人向け追跡APIや飛脚宅配便受付、商品回収返金サービス、受取先変更サービスなどは依然として停止中で、再開時期は未定とした。\n\n現在、外部の専門機関と連携し原因や影響範囲の詳細調査と再発防止策の検討を進めている。利用者には佐川急便を装った不審なメールやSMS、電話への注意喚起が行われている。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002553/",
+          "date": "2026-10-23",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "openai/gpt-oss-120b"
+    },
+    {
+      "id": "9423c8063b2e",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "science",
+      "url": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
+      "headline": "ModernaとMerck、個別化mRNAワクチンでメラノーマの再発・死亡リスクを42%低減",
+      "originalTitle": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
+      "outlet": "Ars Technica",
+      "region": "overseas",
+      "category": "science",
+      "score": 86,
+      "tier": "must",
+      "pubDate": "2026-10-22T22:12:19.000Z",
+      "body": null,
+      "summary": "本試験は、患者自身のがん細胞に含まれる最大34種の特異的変異配列をコードした合成mRNA（intismeran、別名mRNA‑4157）をKeytruda（ペムブロリズマブ）と併用した個別化ワクチンの有効性を評価した第3相試験である。ワクチンは、腫瘍細胞と正常細胞の遺伝配列を比較し、がん特有の変異を抽出してmRNAに組み込むことで作製された。\n\n主要評価項目は再発フリー生存期間（RFS）と遠隔転移フリー生存期間（DMFS）である。2年後の解析で、intismeran‑Keytruda併用群は対照のKeytruda＋プラセボ群に比し、再発または死亡リスクが42%減少し、再発なしで生存している割合は82%対70%であった。遠隔転移または死亡リスクは38%減少し、遠隔転移なしで生存している割合は88.5%対80%であった。\n\n本試験の効果は、5年期間の第2相試験で報告された再発・死亡リスク49%減、遠隔転移・死亡リスク59%減よりはやや小さいが、Merck Research LaboratoriesのDean Li社長は「切除後メラノーマ患者に対する標準治療Keytrudaに比し、臨床的に有意なRFS・DMFSの改善を示した初の第3相試験であり、免疫療法以降の最も重要な進展の一つ」と述べている。",
+      "sources": [
+        {
+          "outlet": "Ars Technica",
+          "url": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
+          "date": "2026-10-22",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "openai/gpt-oss-120b"
+    },
+    {
+      "id": "618636840d4f",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.watch.impress.co.jp/docs/news/2150851.html",
+      "headline": "Anthropic、Claude全機能をGoogle Cloudで法人向けに提供開始",
+      "originalTitle": "「Claude」全機能がGoogle Cloudから利用可能に",
+      "outlet": "Impress Watch",
+      "region": "domestic",
+      "category": "ai",
+      "score": 84,
+      "tier": "should",
+      "pubDate": "2026-10-23T10:23:05.000Z",
+      "body": null,
+      "summary": "22日（米国時間）、Anthropicは同社が管理・運用する形でGoogle Cloud上でAIチャットボット「Claude」の提供を開始したと発表した。法人顧客を主な対象とし、Claude APIの全機能セットがグローバルに利用可能になる。これにより、Google Cloudのインフラ上でAnthropicのモデルを直接呼び出すことができる。\n\n本サービスは「Anthropic managed」方式で、最新機能やベータ版への即日アクセスが可能である点が特徴で、利用料は既存のGoogle Cloudコミットメントから自動的に消化される。請求はGoogle Cloudにまとめられ、Googleアカウントと統合して管理できる。利用可能なエージェント機能には長時間稼働するClaude Managed Agents（beta）やCode execution、Computer use、Agent skills、Advisor strategy（beta）などが含まれ、システムやナレッジベースへの接続はFiles API、Citations、Web search、web fetch、MCP connector（beta）で実現できる。\n\n提供されるモデルはClaude Opus 5.5のFast Mode、Fable 5.1、Opus 5.5、Sonnet 5.5、Haiku 5.5で、開発者向け環境「Claude Console」へのアクセスも可能である。従来からある「Google managed」オプションは、データ処理者をGoogle Cloudに指定したいユーザーや厳格なデータ居住要件に対応するために引き続き選択できる。なお、OpenAIのモデルも21日から同様にGoogle Cloudで利用できるようになっている。",
+      "sources": [
+        {
+          "outlet": "Impress Watch",
+          "url": "https://www.watch.impress.co.jp/docs/news/2150851.html",
+          "date": "2026-10-23",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "openai/gpt-oss-120b"
+    },
+    {
+      "id": "49672d89136f",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/",
+      "headline": "インドの証明書機関eMudra、極端に弱いTLS証明書発行問題でSSL事業から撤退",
+      "originalTitle": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
+      "outlet": "Ars Technica",
+      "region": "overseas",
+      "category": "it",
+      "score": 78,
+      "tier": "should",
+      "pubDate": "2026-10-22T20:17:52.000Z",
+      "body": null,
+      "summary": "インド拠点の証明書機関eMudra Ltd.は、同社が発行した8件の中間TLS証明書に、ビット長が3〜8ビットという極端に弱いプライベートキーが使用されていたことが判明したとして、木曜日にグローバルなSSL/TLS事業から撤退すると発表した。\n\n同社の取締役会は、コンプライアンスコストの増大と事業が全収益の1％に過ぎないこと、さらに無料でTLS証明書を提供する組織の台頭により投資回収が困難になったと説明した。加えて、ソーシャルメディアでの批判が過剰に拡大したことも撤退判断の要因とされた。\n\n問題となった証明書は、NISTが定めるP‑384楕円曲線暗号のプライベートキーは通常384ビット（約2^384通り）であるべきところ、実際には3ビットから8ビットの鍵が使用され、最強でも256通りしかなかった。鍵のビット長は4、56、66、115、155、156、230、237ビットと報告され、数ミリ秒で容易に解読できた。\n\neMudraは「本件に関するソーシャルメディアでの拡散は、SSL/TLSが当社事業に占める位置に対して不釣り合いな注目を集めている」とコメントし、詳細な審議の結果、株主の利益を考慮して事業から撤退することが最善と結論付けた。",
+      "sources": [
+        {
+          "outlet": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/",
+          "date": "2026-10-22",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "openai/gpt-oss-120b"
+    },
+    {
+      "id": "1437b0ebe886",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+      "headline": "Canva、デザインを事前に計画するAI画像生成モデル『Canva Craft』を発表",
+      "originalTitle": "Canva’s first AI image model plans designs before generating them",
+      "outlet": "The Verge",
+      "region": "overseas",
+      "category": "ai",
+      "score": 77,
+      "tier": "should",
+      "pubDate": "2026-10-22T21:51:25.000Z",
+      "body": null,
+      "summary": "Canvaは、デザインを事前に計画してから画像を生成するAI画像生成モデル「Canva Craft」を発表した。モデルは二段階のアーキテクチャを採用し、最初にレイアウトを設計したうえで画像を生成することで「精度・一貫性・制御性」を高めると説明された。発表は同社の公式発表で木曜日に行われた。\n\nCanva Craftは最大2K解像度、30種類以上のアスペクト比に対応し、SNS投稿やマーケティング資料だけでなく、リアルなシーンやデジタルアート、環境イメージなど多様な画像を生成できる。二段階システムにより、文字が読みやすくオブジェクトの配置が正確な複雑画像の生成が可能になる。生成された画像は「Dream Lab」メニューから利用できる。\n\n同モデルはCanvaのコンテンツライブラリに蓄積された「数百万件の人間が作成したテンプレート」を学習データとして使用した。Design Arena（AI画像生成モデルの性能をクラウドソーシングで評価するベンチマーク）では、現在ベスト4位にランクインしており、上位はOpenAIのGPT-Image系モデルである。Canvaは入力・出力のモデレーション、プライバシー・安全性の管理、レポート機能を備えていると述べた。さらに、オープンなModel Context Protocol（AIエージェントがモデルに接続するためのプロトコル）を通じてAIエージェントとの連携や、将来的に「Craft‑fast」・「Craft‑ultrafast」など高速版の提供を計画している。\n\nCanva Craftは全ユーザーに対してグローバルに提供されており、左側メニューの三点リーダーから「Dream Lab」を選択することで利用できる。現在は追加料金なしで試用できる。",
+      "sources": [
+        {
+          "outlet": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+          "date": "2026-10-22",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "openai/gpt-oss-120b"
+    },
+    {
+      "id": "9627b1a85b06",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "science",
+      "url": "https://www.watch.impress.co.jp/docs/news/2150343.html",
+      "headline": "NTTとJAXA、低軌道衛星で通信容量を従来比2倍以上に拡大し超広域IoT実験に成功",
+      "originalTitle": "NTTとJAXA、低軌道衛星で高速伝送や“超広域IoT”を目指す実験に成功",
+      "outlet": "Impress Watch",
+      "region": "domestic",
+      "category": "science",
+      "score": 76,
+      "tier": "should",
+      "pubDate": "2026-10-23T06:00:00.000Z",
+      "body": null,
+      "summary": "NTTはJAXAと共同で、低軌道衛星に搭載したMIMO/IoT技術「LEOMI」の実証実験を2024年4月から軌道上で実施し、通信容量が従来の単一アンテナ方式の2倍以上に拡大できることを確認した。実証はRAISE-4（レイズ・フォー）に搭載された本技術を用いて行われた。\n\nこの低軌道衛星MIMO技術により、気象や海洋観測、災害予測において高精細画像やレーダーデータの高速伝送が可能になると説明されている。また、同技術はHAPSや気球などの飛翔体への搭載も検討されている。\n\n衛星センシング技術の実証では、既存LPWA規格（920 MHz帯）のIoT機器が同一周波数で同時送信された場合でも、衛星経由で地上局が2つの信号を正常に分離でき、時間や周波数が重なる「同時衝突」問題を回避できることが確認された。これにより、圏外にある多数のIoT機器を大規模に収容できる基盤が示された。\n\nNTTとJAXAは、2027年3月までに定常運用を行い、2026年度内に技術確立を目指す「超広域衛星IoTプラットフォーム」の実現を目指すと発表した。実用化時期は本技術を組み込んだ衛星の打ち上げ次第で未定である。",
+      "sources": [
+        {
+          "outlet": "Impress Watch",
+          "url": "https://www.watch.impress.co.jp/docs/news/2150343.html",
+          "date": "2026-10-23",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "openai/gpt-oss-120b"
+    },
+    {
+      "id": "f4a2e5aea95d",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002551/",
+      "headline": "ラクス子会社のメール配信サービスで全契約者情報が漏えい、横浜市やJR四国など多数が影響",
+      "originalTitle": "メール配信サービスの契約者情報全て漏えい 横浜市やJR四国などに影響 ラクス子会社に不正アクセス",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "it",
+      "score": 74,
+      "tier": "should",
+      "pubDate": "2026-10-23T08:32:46.000Z",
+      "body": null,
+      "summary": "2026年10月21日、クラウドサービス事業のラクスは、子会社ラクスライトクラウドが提供するメール配信サービス「ブラストメール」への不正アクセスが発生し、顧客情報が外部に流出したことを発表した。全契約者の登録情報が対象となり、横浜市やJR四国など複数の自治体・企業が影響を受けている。\n\n漏えいした情報は、会社名・担当者名・電話番号・メールアドレス・請求先メールアドレス・契約・支払い履歴などの販売管理システム上のデータである。加えて一部契約者については、メールマガジン等の配信先リストも流出したが、クレジットカード番号は含まれていない。\n\n同社の説明によると、攻撃者はAPI用サーバ2台に侵入しコマンドを実行、販売管理システムやサービスのデータベースに接続して情報を取得したという。侵入経路の詳細は現在調査中である。ブラストメールは21日午前0時30分からサービスを停止し、再開時期は未定である。\n\n影響は多岐にわたり、新潟日報社は約25万3000人分の会員情報が漏えいしたとし、H.I.S.ホテルホールディングスは約14万人の会員氏名とメールアドレスが流出した可能性を公表した。東北電力フロンティア、JR四国、横浜市のボランティア応募者、ECサイト運営者なども同様に情報が漏えいした可能性があるとし、二次被害防止のため不審なメールへの注意を呼び掛けている。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002551/",
+          "date": "2026-10-23",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "openai/gpt-oss-120b"
+    },
+    {
+      "id": "62eeb50322c6",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://techcrunch.com/2026/10/22/arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia/",
+      "headline": "The Browser Company、Arcブラウザを2026年12月22日に終了しDiaへ移行",
+      "originalTitle": "Arc browser sunsets December 22 as The Browser Company doubles down on Dia",
+      "outlet": "TechCrunch",
+      "region": "overseas",
+      "category": "it",
+      "score": 73,
+      "tier": "should",
+      "pubDate": "2026-10-22T20:01:51.000Z",
+      "body": null,
+      "summary": "The Browser Companyは、AI時代におけるセキュリティ維持コストの増大を理由に、デザイン志向のArcブラウザを2026年12月22日にサービス終了し、AIファーストの新ブラウザDiaへユーザーを誘導することを発表した。会社は「ブラウザの安全確保には継続的かつ専念した作業が必要であり、AIの進展でその負担は増す」と説明した。\n\n終了手続きは三段階で実施される。まず新規Arcアカウントの作成は即時停止し、11月23日にはiOS・Android向けArc SearchのAI機能（「Browse for Me」等）が削除され、サインインやタブ同期も不可になるがローカルブラウザとしては動作を続ける。最終的に12月22日にはMacとWindows版が完全に停止し、アカウントは無効化、個人データは30日以内に削除され、Arc SearchはGoogle Playからも削除される。移行先のDiaは、ArcのコアエンジンであるArc Development Kit（ADK）という社内専用SDKを基盤に構築されており、速度・安定性・セキュリティのベンチマークでArcを上回ると同社は主張している。\n\nDiaへの移行時には、Arcの主要機能が引き継がれる。作業環境と個人環境を切り替える「Spaces」は「Profiles」に名称変更され、縦型タブはサイドバー表示のオプションとして残る。フォルダは「Pinned Tab Groups」と呼ばれ、パスワード、ブックマーク、拡張機能、履歴は自動的に転送される。CEOのJosh Millerは、ADKが同社の知的財産であり、オープンソース化にはADK全体の公開が必要と指摘した。Arcは2025年に開発が停止され、同年に同社はAtlassianに6億1000万ドルで買収されたが、ユーザー層は限定的で、主流のChrome代替としては期待に届かなかったと報じられている。",
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/22/arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia/",
+          "date": "2026-10-22",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "openai/gpt-oss-120b"
+    },
+    {
+      "id": "ec73a13041d6",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/",
+      "headline": "電気自動車大手の米リビアン、自動運転技術強化に向け英スタートアップを買収",
+      "originalTitle": "Rivian buys world model startup to accelerate self-driving ambitions",
+      "outlet": "TechCrunch",
+      "region": "overseas",
+      "category": "ai",
+      "score": 72,
+      "tier": "should",
+      "pubDate": "2026-10-22T21:05:05.000Z",
+      "body": null,
+      "summary": "電気自動車（EV）メーカーの米リビアンは、人工知能（AI）を活用して画像や動画を実物そっくりの3次元世界に変換する技術を持つ英国のスタートアップ企業サーード・ディメンションを買収した。買収額は非公開となっており、主に英国を拠点とする同社の15人の従業員は、ジェームズ・フィルビンが率いるリビアンの自動運転・AIチームに統合される。今回の買収により、リビアンはロンドンにあるAI拠点を拡大する機会も得ることになる。\n\nサーード・ディメンションは2024年に最高経営責任者（CEO）のトルガ・カルトとピョートル・ソコルスキによって設立され、ベンチャーキャピタルから7百万ドルのシード資金を調達していた。同社の技術は元々ビデオゲームの開発を迅速化するために構築されたものだったが、防衛や自動運転車など他の応用分野も見据えられていた。リビアンのもとでは、高度運転支援機能や、ウーバーのアプリ上で展開する予定のロボタクシー向け自動運転システムの開発加速に技術が活用される。\n\n自動運転車の開発においてシミュレーションは、システムを訓練・検証するための重要なツールである。従来のシミュレーターはゲームエンジンに基づき合成データを利用することが多く、現実世界との間に差が生じる課題があった。サーード・ディメンションの技術はAIを使って物理世界を再現し、リビアンが顧客車両から収集する大量の現実世界のデータと組み合わせることで、カメラアングルや天候条件などを自由に変更できる強力なシミュレーターとして機能する。\n\nリビアンは現在、高速道路でハンドルから手を離すことができる運転支援ソフトウェアを提供しており、年末までには一般道でもハンドル操作なしで走行できるバージョンのリリースを計画している。さらに、2028年にウーバーのアプリで提供開始予定であるSUV「R2」のロボタクシー版に向けて完全自動運転の開発を進めている。サーード・ディメンションの技術により、現実世界で稀にしか起きない複雑な走行条件を待つことなくシミュレーションすることが可能になる。",
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/",
+          "date": "2026-10-22",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash-lite"
+    },
+    {
+      "id": "47234b822080",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games/",
+      "headline": "Switch 2で自作ソフトの実行を可能にする部分脱獄が実証される",
+      "originalTitle": "Switch 2 security takes a hit as hackers unlock homebrew access",
+      "outlet": "Ars Technica",
+      "region": "overseas",
+      "category": "it",
+      "score": 68,
+      "tier": "interest",
+      "pubDate": "2026-10-22T22:25:33.000Z",
+      "body": null,
+      "summary": "セキュリティ研究者のSammy Hajhamid氏が、任天堂のゲーム機「Switch 2」において、ソフトウェアのみで動作する部分的なジェイルブレイク（脱獄）に成功したと発表した。このハックにより、システム上の一般権限にあたるユーザーランドへのアクセスが可能となり、自作プログラム（homebrew）の実行やゲームデータの改造、セーブデータのバックアップが行える状態になったとしている。\n\n今回のハックは、初代Switch向けに配信されているプログラミングソフト「SmileBasic 4（プチコン4）」の言語インタプリタに存在する脆弱性を突いたものである。研究者はAIモデルを利用して検証を行い、配列要素の削除時に生じる整数オーバーフローを発見した。これによりシステムメモリの特定領域への読み書きが可能となり、さらにファイルシステム関連モジュールの脆弱性を組み合わせることで、ネイティブコードの実行権限を獲得したとされる。",
+      "sources": [
+        {
+          "outlet": "Ars Technica",
+          "url": "https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games/",
+          "date": "2026-10-22",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash"
+    },
+    {
+      "id": "27825e300358",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://openai.com/index/decisions-api",
+      "headline": "OpenAIがGPT-6 Lunaを活用したDecisions APIの一般提供を開始",
+      "originalTitle": "Build more responsive apps with the Decisions API",
+      "outlet": "OpenAI",
+      "region": "overseas",
+      "category": "ai",
+      "score": 67,
+      "tier": "interest",
+      "pubDate": "2026-10-22T19:00:00.000Z",
+      "body": null,
+      "summary": "OpenAIは、大規模言語モデル「GPT-6 Luna」を活用してリアルタイムに近い高速な意思決定を実現する「Decisions API」の一般提供を開始した。本APIは、入力データの分類やリクエストの割り振りのように選択肢が限られた判断処理に特化しており、従来のResponses APIを介した処理と比べて最大10倍の高速化を実現している。\n\nベータ版からの更新として、音声会話機能「GPT-Live」との直接連携やプロンプトキャッシング、1リクエストあたり最大400件の質問処理に対応した。回答形式には、条件の真偽確率を推定する形式や、事前に指定した選択肢から一つを選ぶ形式、段階的な基準で評価する形式の3種類が用意されている。料金体系は入力トークン数のみに基づく従量制となっている。",
+      "sources": [
+        {
+          "outlet": "OpenAI",
+          "url": "https://openai.com/index/decisions-api",
+          "date": "2026-10-22",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash"
+    },
+    {
+      "id": "f9f2dc0d34e2",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002558/",
+      "headline": "パーク24がタイムズカーの情報漏えいで146万件に対象3000円の見舞金支給へ",
+      "originalTitle": "タイムズカー、3000円の見舞金支払いへ 免許証画像漏えいの146万件対象 55億円の特損計上",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "it",
+      "score": 66,
+      "tier": "interest",
+      "pubDate": "2026-10-23T10:05:39.000Z",
+      "body": null,
+      "summary": "パーク24は、グループ会社が運営するカーシェアリングサービス「タイムズカー」で発生した個人情報漏えい問題において、運転免許証などの画像データへの不正アクセスおよび外部送信が確認された利用者146万4800件に対し、3000円相当の見舞金を支払うと発表した。これに伴い対応費用として約55億円の特別損失を計上する見込みとなり、2026年10月期の連結純利益予想を440億円から385億円へ下方修正した。\n\n対象となる画像データは暗号化されているものの、将来的に解読されるリスクを否定できないことから見舞金の支払いが決定された。また追加調査により、会員Webシステム「タイムズクラブ」においても脆弱性を悪用された情報漏えいが確認されている。再発防止策として同社は、これまで一定期間保管していた本人確認書類の画像を、会員登録完了後に速やかに削除する運用へ切り替える方針を示している。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002558/",
+          "date": "2026-10-23",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash"
+    },
+    {
+      "id": "912bebdba51d",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002513/",
+      "headline": "あいまいな指示を受けたコーディングAIの振る舞いに関する調査結果",
+      "originalTitle": "“あいまいな指示”を入力されたAIは安全なコーディングができない？ 香港科技大などが調査",
+      "outlet": "ITmedia AI+",
+      "region": "domestic",
+      "category": "ai",
+      "score": 64,
+      "tier": "interest",
+      "pubDate": "2026-10-23T03:00:00.000Z",
+      "body": null,
+      "summary": "香港科技大学などに所属する研究者らは、詳細が足りずあいまいな指示を受けたコーディングAIがどのような振る舞いをするかを調査した研究報告を発表した。従来の評価はタスクを最後まで完了できたかを測定してきたが、ブランチの削除やロールバックなどの運用作業で、詳細が足りない指示を与えたときにAIが安全に作業を行えるかはあまり検証されてこなかった。\n\n研究チームが開発したベンチマーク「UnderspecBench」を用いた実験では、AIエージェントは指示があいまいで不十分な場合、人間に質問して確認するのではなく、文脈から勝手に推測して作業を強行する傾向があることが判明した。実際に行動を起こしたケースの半数以上で、間違った対象を操作したり、ユーザーが意図した以上に広範囲のシステムを変更したりするなどのミスを犯していた。\n\n特に操作対象の指定があいまいないになるほどミスの発生率が急増し、失敗時の影響範囲が大きくなってもAIのミスの割合はほぼ変わらなかった。また、デプロイやトラフィック制御、インフラ設定や監視といったタスクでは、必要以上に広い範囲へ操作が及ぶ割合が高くなり、タスクの種類によってやりすぎの起きやすさが変化した。",
+      "sources": [
+        {
+          "outlet": "ITmedia AI+",
+          "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002513/",
+          "date": "2026-10-23",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash-lite"
+    },
+    {
+      "id": "e7817df0f1c1",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "science",
+      "url": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
+      "headline": "軍用犬の開発と装備提供を目指す新興企業ウォーターハウンドが誕生",
+      "originalTitle": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
+      "outlet": "TechCrunch",
+      "region": "overseas",
+      "category": "science",
+      "score": 63,
+      "tier": "interest",
+      "pubDate": "2026-10-22T23:15:00.000Z",
+      "body": null,
+      "summary": "コッサル・バイオサイエンシズのベン・ラム氏とアンダリルのパーマー・ラッキー氏は、米国軍や法執行機関、緊急対応チーム向けに軍用犬を遺伝子工学で開発することを目指し、「ウォーターハウンド」を立ち上げた。セコイアやCIAなどの米情報機関が支援するベンチャー企業イン・キュー・テルなどから2億ドルの資金調達を行い、企業価値は12億ドルと評価されている。\n\nウォーターハウンドの犬はまだ存在せず、爆発物検知や捜索など人間にとって危険で機械にとって困難な任務を担う予定である。同社は、米軍の作業犬の8割以上が欧州から調達されており、その半分未満しか任務に適していない現状を指摘し、コッサルの技術を用いて過酷な任務に適した特性を持つ犬を遺伝子工学で作り出す方針を掲げている。\n\nベルジアン・マリノアやジャーマン・シェパードといった優れた作業犬の細胞株をバイオバンクに保存し、性能を向上させる遺伝子の追加や削除を行って新しいタイプの犬を作り出す。また、アンダリルは防護ベストやゴーグルなどのソフトウェアおよびハードウェアを提供し、状況認識や連携を支援して犬とハンドラーの安全性を高める計画である。",
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
+          "date": "2026-10-22",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash-lite"
+    },
+    {
+      "id": "29a87826b845",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+      "headline": "メタの新利用規約の変更後もニュースサイトのスクレイピング懸念が残る",
+      "originalTitle": "Meta's AI could still scrape news sites, legal experts say",
+      "outlet": "The Verge",
+      "region": "overseas",
+      "category": "ai",
+      "score": 62,
+      "tier": "interest",
+      "pubDate": "2026-10-22T20:32:05.000Z",
+      "body": null,
+      "summary": "米メタは、ニュースサイトなどを対象にAIモデルの訓練に自由に使用できるかのような表現が含まれていたビジネス利用規約を修正した。しかし、法律の専門家からは、これらの変更だけでは懸念に対処するには不十分であるとの指摘が上がっている。\n\n当初の規約では、ビジネスアカウントに関連付けられたウェブサイトからメタが「あらゆるコンテンツ」を製品の開発、調査、訓練に使用できると記載されていた。出版業界からの激しい反発を受け、メタは製品の「訓練」にスクレイピングしたコンテンツを使用するという文言を削除した。\n\nしかし法律の専門家は、改訂版の規約でもメタがスクレイピングしたコンテンツを使用してあらゆる「ビジネス製品」を開発することが依然として許可されていると指摘している。「開発」という言葉にはAIビジネス製品の「訓練」が含まれるほど広範である可能性があるとしている。一方でメタは、今回の更新はニュースサイトのスクレイピングを目的としたものではなく、コンテンツ所有者はロボット排除基準であるrobots.txtを利用して選好を示せると主張している。",
+      "sources": [
+        {
+          "outlet": "The Verge",
+          "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+          "date": "2026-10-22",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash-lite"
+    },
+    {
+      "id": "724bb9eec32d",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "science",
+      "url": "https://arstechnica.com/space/2026/10/latest-estimate-for-starship-launches-required-to-support-a-moon-landing-22/",
+      "headline": "米航空宇宙局の安全パネル委員が月面着陸に要するスペースXのスターシップ打ち上げ回数は約22回と指摘",
+      "originalTitle": "Latest estimate for Starship launches required to support a Moon landing? 22.",
+      "outlet": "Ars Technica",
+      "region": "overseas",
+      "category": "science",
+      "score": 61,
+      "tier": "interest",
+      "pubDate": "2026-10-22T21:52:31.000Z",
+      "body": null,
+      "summary": "米航空宇宙局（NASA）の諮問機関である宇宙安全諮問パネルのプレコート委員が、アルテミス4号計画において有人月面着陸を実現するためには、スペースXの宇宙船スターシップへの燃料補給を含めて約22回の打ち上げが必要になるとの見解を示した。月面着陸に向けた燃料補給の回数が増えるほどミッション成功の確率は下がるという懸念に基づく試算となっている。\n\n一方、スペースXの創業者であるイーロンマスクは、ソーシャルメディア上でNASAの安全パネルによる見積もりは正確ではなく、実際の打ち上げ回数は6回から8回程度になると反論している。軌道上での極低温メタンや液体酸素の蒸発量、推進剤の移送効率などには依然として不確実性が残されており、必要な推進剤の質量から算出される打ち上げ回数については関係者の間で見解が分かれている。",
+      "sources": [
+        {
+          "outlet": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/10/latest-estimate-for-starship-launches-required-to-support-a-moon-landing-22/",
+          "date": "2026-10-22",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash-lite"
+    },
+    {
+      "id": "94cd4ca5fb66",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+      "headline": "インドライブ、ポニー・アイやエヌビディアと組み2027年にカザフスタンで自動運転タクシー試験へ",
+      "originalTitle": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+      "outlet": "TechCrunch",
+      "region": "overseas",
+      "category": "ai",
+      "score": 60,
+      "tier": "interest",
+      "pubDate": "2026-10-23T04:00:00.000Z",
+      "body": null,
+      "summary": "乗客と運転手が運賃を交渉できる仕組みで知られる配車サービスのインドライブは、中国の自動運転企業であるポニー・アイおよびエヌビディアと覚書を締結し、2027年上半期にカザフスタンの首都アスタナで自動運転タクシーの試験運用を開始する計画を発表した。最初の段階では安全管理者を乗せた状態で試験を行い、将来的な完全無人での運行を目指す。\n\nこの提携のもとでポニー・アイは第7世代の自動運転車を提供し、エヌビディアはAI技術やハイペリオン・プラットフォーム、ハロス安全システムを供給する。アスタナの厳しい冬の気象条件は自動運転システムの評価に適した環境であり、インドライブは資本効率を抑えたパートナーシップを通じて、新興市場における手頃な価格の自動運転モビリティの展開を模索している。",
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+          "date": "2026-10-23",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash-lite"
+    },
+    {
+      "id": "515bea56e524",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
+      "headline": "ハンドメイド市場のエツイがプラットフォーム上の粗悪な生成AIコンテンツの規制を強化",
+      "originalTitle": "Etsy is cracking down on AI slop listings",
+      "outlet": "The Verge",
+      "region": "overseas",
+      "category": "ai",
+      "score": 59,
+      "tier": "interest",
+      "pubDate": "2026-10-23T00:09:58.000Z",
+      "body": null,
+      "summary": "ハンドメイド商品の売買プラットフォームを運営するエツイは、プラットフォーム上で増加する粗悪な生成AI関連の出品を削減するため、人工知能の利用に関するより厳しい新しい方針を発表した。多くの購入者が生成AIによるコンテンツを見分けられないと不満を抱いており、出品者が誤解を招く形でAIを使用することへの懸念が高まったことが背景にある。\n\n新しい方針のもとでは、すべての出品において実際の商品を現実の背景で捉えた未加工の写真を少なくとも1枚掲載することが義務付けられ、写真が物理的な商品を正確に表していなければならない。また、編み図やレシピなどの機能的なガイドについては、生成AIによる作成ではなく出品者自身の作品であることを求め、ボットによる出品も禁止される。なお、生成AIで作られた芸術作品の販売自体は引き続き許可されるが、AI製であることを明示する必要がある。",
+      "sources": [
+        {
+          "outlet": "The Verge",
+          "url": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
+          "date": "2026-10-23",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash-lite"
+    },
+    {
+      "id": "097c1d813a7c",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/23/news030.html",
+      "headline": "Google Cloudのロポポロ氏が解説するAI駆動開発とエージェントハーネスの極意",
+      "originalTitle": "プロンプトガチャはもう古い――「ハーネスの父」が明かす、AI駆動開発の極意",
+      "outlet": "ITmedia AI+",
+      "region": "domestic",
+      "category": "ai",
+      "score": 58,
+      "tier": "interest",
+      "pubDate": "2026-10-23T03:45:00.000Z",
+      "body": null,
+      "summary": "Googleは2026年9月、AIエージェントによる開発をテーマにした解説動画の要約ブログ記事を公開した。ゲストとして出演したGoogle Cloudのソフトウェアエンジニアであるライアン・ロポポロ氏は、大規模言語モデル（LLM）と組み合わせる「エージェントハーネス」について解説した。\n\nエージェントハーネスとは、LLMを取り巻くモデル以外の全てを指し、質問の意図をくみ取ってツールに問い合わせ、得られたコンテキストをプロンプトに組み込んで根拠のある回答を生成させる仕組みである。ロポポロ氏は、個々のコード行を書くのではなく、自然言語を使って成果物が基準を満たしているかを判断する開発手法を実践している。\n\nハーネスエンジニアリングの中心的な課題は、エージェントが長期間にわたって一貫した作業を続けられるようにすることである。独自のハーネスを作り込むと技術的負債になり得るため、標準的なハーネスを利用し、ツールとコンテキストの品質向上に力を注ぐことが重要であるとされる。",
+      "sources": [
+        {
+          "outlet": "ITmedia AI+",
+          "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/23/news030.html",
+          "date": "2026-10-23",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash-lite"
+    },
+    {
+      "id": "ba6fa07d677a",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+      "headline": "ウーバーがOpenAIと連携し全従業員向けにChatGPT Workを導入",
+      "originalTitle": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "outlet": "OpenAI",
+      "region": "overseas",
+      "category": "ai",
+      "score": 57,
+      "tier": "spare",
+      "pubDate": "2026-10-22T00:00:00.000Z",
+      "body": null,
+      "summary": "ウーバーは、ChatGPT Enterprise内で従業員の幅広い業務を支援するエージェント「ChatGPT Work」を全社的に導入すると発表した。今回の展開により、ウーバーの世界中の従業員3万人以上が同ツールを利用できるようになる。\n\n1000人の従業員による初期パイロットから規模を拡大し、複雑で多段階にわたるタスクを処理して完成された成果物を提供するエージェント型プラットフォームへのアクセスを各チームに提供する。ChatGPT Workは、Google Drive、Gmail、Google Calendar、Slackなどの日常的なツールと連携し、情報収集や会議資料の準備、プレゼンテーションの作成、データ分析などを横断的に実行できる。\n\nウーバーの全社導入では、OpenAIのフロンティアモデルのポートフォリオにアクセスし、デフォルトの機能として展開されるGPT-6.1 Solなどが活用される。音声や画像生成といったマルチモーダル機能もサポートされ、社内のAIスキルライブラリや専用の従業員トレーニングとともに導入が進められる。",
+      "sources": [
+        {
+          "outlet": "OpenAI",
+          "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+          "date": "2026-10-22",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash-lite"
+    },
+    {
+      "id": "c158c6af767d",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2610/23/news010.html",
+      "headline": "AI時代のサイバー攻撃と重要システムにおけるマイクロサービス化の必要性",
+      "originalTitle": "なぜ、重要システムは“分割”すべきなのか？ AI攻撃から守り切れない時代、IT部門が考えるべき「備え」とは",
+      "outlet": "ITmedia AI+",
+      "region": "domestic",
+      "category": "it",
+      "score": 56,
+      "tier": "spare",
+      "pubDate": "2026-10-22T23:00:00.000Z",
+      "body": null,
+      "summary": "生成AIの急速な進化に伴い、脆弱性の発見から攻撃の実行までをAIが自律的に担う事例が報告されており、攻撃を100％防ぐことは困難になっている。重要ITシステムの設計においては、侵入を前提とした被害の最小化と対応力の向上が求められている。\n\nシステムを「守る」だけでなく、マイクロサービス（MS）を活用してデータをサービス単位に分散して保持することが有効である。データを分割すれば、一部が攻撃されても情報がひも付いた形で流出するのを防ぎ、トラブル時の影響範囲を限定して迅速な復旧が可能になる。\n\nさらに、API単位で状態遷移図を定義し直すことや、設計情報を一元的に蓄積するリポジトリ化が重要となる。完全な自動化を目指すのではなく、AIを活用しながら段階的に詳細化し、生産性と品質を継続的に改善していくアプローチが求められている。",
+      "sources": [
+        {
+          "outlet": "ITmedia AI+",
+          "url": "https://www.itmedia.co.jp/enterprise/articles/2610/23/news010.html",
+          "date": "2026-10-22",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash-lite"
+    },
+    {
+      "id": "8be08f64c9ca",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2610/23/2000002368/",
+      "headline": "PFNが自社LLM「PLaMo」の活用事例を展示、官公庁や教育・採用分野で導入進む",
+      "originalTitle": "広がる「国産AI」活用事例 PFNの「PLaMo」にみる“ハマりどころ”",
+      "outlet": "ITmedia AI+",
+      "region": "domestic",
+      "category": "ai",
+      "score": 55,
+      "tier": "spare",
+      "pubDate": "2026-10-22T23:00:00.000Z",
+      "body": null,
+      "summary": "Preferred Networks（PFN）は、展示会において独自開発の大規模言語モデル（LLM：大量のテキストデータを学習したAIモデル）「PLaMo」の活用事例を公開した。PLaMoは海外モデルをベースにせず一から開発されたモデルであり、デジタル庁のAI基盤「源内」や自治体向け生成AIプラットフォーム「QommonsAI」など、官公庁や自治体での導入が進んでいる。データを自社外に出したくない需要に対し、オンプレミス（自社環境でのシステム運用）での提供も行われている。\n\n教育分野では、小論文対策サービス「ろんじろう」において生徒の文章添削や助言にPLaMoが活用されている。日本語の文脈を深く理解する能力が求められる用途で強みを発揮する一方、評価項目の設定などはアプリ側に切り分ける設計が重要とされる。また採用支援サービス「タレスカAI面接」では、面接結果の評価分析にPLaMoが使われており、用途に応じてモデルを使い分ける運用が行われている。\n\nこのほかブースでは、画像とテキストを同時に処理する視覚言語モデル「PLaMo-VL」や、PFN子会社が手がける業務用自律搬送ロボット「カチャカEvo」の実機デモも披露された。工場等での荷物搬送において台車の下に潜り込んで運ぶ動作などが実演された。",
+      "sources": [
+        {
+          "outlet": "ITmedia AI+",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2610/23/2000002368/",
+          "date": "2026-10-22",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash"
+    },
+    {
+      "id": "edef63b51aed",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://openai.com/index/building-chatgpt-ad-stack",
+      "headline": "OpenAIがChatGPT向け広告システムを構築、回答生成と分離し関連性を評価",
+      "originalTitle": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "outlet": "OpenAI",
+      "region": "overseas",
+      "category": "ai",
+      "score": 54,
+      "tier": "spare",
+      "pubDate": "2026-10-21T07:00:00.000Z",
+      "body": null,
+      "summary": "OpenAIは、ChatGPT向けに独自構築した広告配信システムの仕組みを公開した。従来の広告システムが単一の検索やページ閲覧イベントに対応するのに対し、ChatGPTでは複数回のやり取りを通じてユーザーの目的が変化する。このため、会話全体を通じた文脈やユーザーの意図を把握し、最適なタイミングで広告を表示する専用の基盤が開発された。ChatGPTの広告事業は開始から200日未満で年換算売上高が10億ドルに達したとしている。\n\nこのシステムは、追加学習（モデル構築後の再学習）を施した独自の大規模言語モデル（LLM）「オーケストレーター」が制御を担う。オーケストレーターは会話の内容を要約して検索用のデータに変換し、外部ツールを順次呼び出すことで、候補の選定、予算やポリシーによる絞り込み、関連性や質の評価、最終的なオークションまでを実行する仕組みである。\n\n信頼性の確保に向け、広告の選定処理はChatGPTの通常回答を生成するシステムとは完全に分離された別のサービスとして動作する。広告システムが遅延や停止をした場合でも回答生成には影響せず、ChatGPTの回答内容自体に広告が介入しない構造になっている。ユーザーや広告主にとって明確に有益であると判断された場合にのみ、広告が表示される仕組みとなっている。",
+      "sources": [
+        {
+          "outlet": "OpenAI",
+          "url": "https://openai.com/index/building-chatgpt-ad-stack",
+          "date": "2026-10-21",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash"
+    },
+    {
+      "id": "2aedd54f3eb3",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+      "headline": "企業AI活用ではモデル選択より運用基盤「サービングハーネス」の構築が重要に",
+      "originalTitle": "Designing an AI serving harness built to last",
+      "outlet": "MIT Technology Review",
+      "region": "overseas",
+      "category": "ai",
+      "score": 53,
+      "tier": "spare",
+      "pubDate": "2026-10-22T21:17:29.000Z",
+      "body": null,
+      "summary": "企業におけるAI活用の競争優位性は、使用するAIモデルの性能そのものから、モデルを安定かつ経済的に運用するための周辺システム「サービングハーネス」の設計へと移行しつつある。実稼働環境では、単にモデルの回答精度が高いだけではなく、応答の遅延（レイテンシ）や同時処理能力、GPUの利用効率、インフラコストといった実運用の制約を満たすことが不可欠となる。\n\nサービングハーネスは、アーキテクチャ設計、メモリ管理、スケジューリング、推論の最適化などで構成される。例えばAIが文章を生成する推論処理では、過去の文脈情報を保持するKV（キー・バリュー）キャッシュが急増し、計算力に空きがあってもGPUメモリの不足によってシステムが停止・遅延することがある。そのため、単に最適化手法を集めるのではなく、システム全体の致命的なボトルネックを特定して順次改善していく設計手法が求められる。\n\nモデルやハードウェア、最適化技術が急速に進化する中で、企業は技術革新のたびにシステムを作り直すのではなく、業務上の要件やサービスレベル目標に合わせて柔軟に統合・評価できる運用基盤を投資対象として重視すべきだとされている。",
+      "sources": [
+        {
+          "outlet": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+          "date": "2026-10-22",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash"
+    },
+    {
+      "id": "f6e854c4cceb",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.theverge.com/gadgets/1017144/global-pc-shipments-dropped-q3-2026-ram",
+      "headline": "2026年第3四半期のグローバルPC出荷台数が前年同期比21パーセント減少",
+      "originalTitle": "PC shipments dropped over 20 percent in Q3 due to RAM price hikes",
+      "outlet": "The Verge",
+      "region": "overseas",
+      "category": "it",
+      "score": 52,
+      "tier": "spare",
+      "pubDate": "2026-10-22T21:30:39.000Z",
+      "body": null,
+      "summary": "カウンターポイント・リサーチの調査によると、2026年第3四半期のグローバルPC出荷台数は前年同期比で21パーセント減少した。数カ月に及ぶ価格高騰が需要に打撃を与えた結果であり、IDCやオムディアの以前の報告とも一致している。また、同四半期のスマートフォン出荷台数も14年ぶりの低水準を記録した。\n\nカウンターポイントは、出荷台数減少の要因としてRAM、SSD、インテル、AMD、クアルコムなどのチップといったコンポーネントの価格高騰を挙げている。第2四半期まで2年以上連続で増加していたPC出荷だが、部品価格の上昇によりマックブックからラズベリーパイまであらゆる製品で値上がりが起きている。一部の企業は価格インフレを吸収しやすい構成への移行を進めており、DDR4 RAMや4GBのGPUといった古い技術を復活させる動きもある。\n\n前年同期比での急激な落ち込みには、Windows 10のサポート終了期限に向けた駆け込み需要や関税関連の在庫調整の反動も含まれている。さらに今後の市場について、グローバル出荷台数は2026年第4四半期に27パーセント急減し、2027年もほぼ横ばいで推移すると予測されており、市場の安定化を回復と混同すべきではないと指摘されている。",
+      "sources": [
+        {
+          "outlet": "The Verge",
+          "url": "https://www.theverge.com/gadgets/1017144/global-pc-shipments-dropped-q3-2026-ram",
+          "date": "2026-10-22",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash-lite"
+    },
+    {
+      "id": "f3573839734e",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2610/23/news021.html",
+      "headline": "富士ソフトとダイドーが自然言語で操作できる協働ロボット向けパッケージを開発",
+      "originalTitle": "声で動く協働ロボット フィジカルAIの検証ハードルを下げるパッケージ登場",
+      "outlet": "ITmedia AI+",
+      "region": "domestic",
+      "category": "ai",
+      "score": 49,
+      "tier": "spare",
+      "pubDate": "2026-10-22T22:30:00.000Z",
+      "body": null,
+      "summary": "富士ソフトとダイドーは、協働ロボット向けに「フィジカルAIスタートパッケージ」を共同で開発し、2027年1月から本格的な受注活動を開始すると発表した。両社は名古屋市内で行われたイベントで実機デモを披露し、2028年度に年間100台の販売を目指す。価格はハードウェアや基本ソフトウェア込みで1200万円程度を想定している。\n\n少子高齢化による労働力不足を背景に、センサーやカメラのデータを基にAIがロボットを自律制御するフィジカルAIへの関心が高まっている。このパッケージはファナックの協働ロボット「CRXシリーズ」やエヌビディアのGPU搭載PC、カメラ、ソフトウェアなどで構成されており、人が自然言語で指示を出すとAIが音声を理解してカメラ画像から対象物を見分け、ロボットがつかんで指定場所へ運ぶ。\n\n外部ネットワークに接続せずオンプレミス環境で稼働し、ROS 2やPythonの基本スキルがあればカスタマイズが可能である。ダイドーは生産ラインへの即時導入ではなく、実機検証やPoC（概念実証）をすぐに始められる開発環境として提供する方針を示しており、今後は模倣学習や未知物体の異常検知などのパッケージも順次開発する予定である。",
+      "sources": [
+        {
+          "outlet": "ITmedia AI+",
+          "url": "https://monoist.itmedia.co.jp/mn/articles/2610/23/news021.html",
+          "date": "2026-10-22",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash-lite"
+    },
+    {
+      "id": "e896a4d3e9e0",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002557/",
+      "headline": "チケット販売サイトを装った偽の当選メールやフィッシング詐欺が急増",
+      "originalTitle": "「チケット当選」装う詐欺メールが急増中──イープラスやローチケ、ぴあかたる手口 フィッシングの専門家に対策を聞いた",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "it",
+      "score": 48,
+      "tier": "spare",
+      "pubDate": "2026-10-23T09:40:58.000Z",
+      "body": null,
+      "summary": "チケット販売サイトのイープラスを装い、抽選に当選したとして支払いを促すフィッシングメッセージが届いたというユーザーの投稿がXで注目を集めている。偽メールはプレオーダーの抽選当選を名目にして支払いを求め、リンク先にはアマゾン・ウェブ・サービス（AWS）のクラウドサービスのURLが使われている。同様の手口はローソンチケットやチケットぴあをかたるものでも相次いで確認されている。\n\nフィッシング対策協議会の集計によると、イープラスをかたるフィッシング報告は直近の約1カ月間で約6.5倍に急増した。攻撃者は名乗る企業を短期間で次々に切り替えており、詐取の成功率やメールの到達率を基準に選んでいるとみられている。チケット販売各社は注意喚起を随時更新しており、送信元ドメインやリンク先の確認を求めている。\n\n同協議会は偽メールの見極めは基本的に困難であるとして、メールやSMSの記載されたリンクを直接開かない対策を勧めている。手続きが必要な場合は公式のスマートフォンアプリやブックマークからアクセスすることが推奨される。万一情報を入力してしまった場合には、直ちにパスワードの変更やクレジットカードの利用停止手続きを行い、必要に応じて警察などの捜査機関に相談するよう呼びかけられている。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002557/",
+          "date": "2026-10-23",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash-lite"
+    },
+    {
+      "id": "34c2ac92a05d",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002546/",
+      "headline": "セルシスがクリスタの一部機能を予告なく停止する可能性、データの事前保存を要請",
+      "originalTitle": "クリスタ、脆弱性対応で一部サービス「予告なく停止」の可能性 データの事前ダウンロード呼び掛け",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "it",
+      "score": 46,
+      "tier": "spare",
+      "pubDate": "2026-10-23T06:27:38.000Z",
+      "body": null,
+      "summary": "ペイントソフト「CLIP STUDIO PAINT（クリスタ）」を開発するセルシスは2026年10月22日、Web技術の脆弱性に対応するため、予告なく緊急メンテナンスを行い各種サービスを停止する可能性があると発表した。ソフト自体の利用は継続できるものの、クラウド機能などに影響が出る見込みである。\n\nメンテナンス時に利用できなくなる可能性があるのは、クラウド上の作品や設定の同期、「CLIP STUDIO ASSETS（素材をダウンロード・購入できるサービス）」での素材購入やダウンロード、新規ログインや製品購入などである。すでに認証済みのライセンスは継続して使用可能としている。同社はユーザーに対し、必要な作品データや素材をあらかじめダウンロードしておくなどの対策を呼びかけている。\n\n同社は対応対象となる技術の名前を明かしていないが、10月21日にはプログラミング言語「PHP」で緊急レベルの脆弱性2件が公表されていた。これに伴い、国内の他社サービスでも相次いで緊急メンテナンスが実施されていた。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002546/",
+          "date": "2026-10-23",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash"
+    },
+    {
+      "id": "3b545aebcc22",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://gigazine.net/news/20261023&",
+      "headline": "MicrosoftのSurface Laptop Ultraに搭載された磁石式USB端子の仕様が判明",
+      "originalTitle": "MicrosoftのSurface Laptop Ultraに搭載された「マグネット式USB Type-Cコネクタ」とは一体何なのか？",
+      "outlet": "GIGAZINE",
+      "region": "domestic",
+      "category": "it",
+      "score": 45,
+      "tier": "spare",
+      "pubDate": "2026-10-23T12:00:00.000Z",
+      "body": null,
+      "summary": "マイクロソフトは2026年10月7日、NVIDIAの新型SoC（単一のチップにCPUやグラフィックなどの機能を統合した半導体）であるRTX Sparkを搭載したノートPC「Surface Laptop Ultra」を発表した。同製品には「Magnetic Connect」と呼ばれるマグネット式のUSB Type-Cコネクタが採用されており、ガジェット系メディアのLTT Labsがその特徴や構造を分析している。\n\nMagnetic Connectは磁石を利用してスムーズな着脱を可能にする仕組みで、本体のポートには通常のUSB Type-Cケーブルも挿して使用できる。一方、専用のMagnetic Connectケーブルはコネクタ両側に磁石が配置され、端子の長さが標準の約6.65ミリメートルに対して約4.9ミリメートルと短く、根元が約1ミリメートル広がっているため、一般的なUSB Type-Cポートには差し込めない。\n\nまた、磁石による接触部分を確保するため、本体側のポートは従来のUSB Type-Cポートと比較して少なくとも2倍の面積を必要とする。専用ケーブルのコネクタ先端部分は横側が欠けた形状になっており、斜めに引き抜いた際に突起が破損するのを防ぐ設計とみられている。",
+      "sources": [
+        {
+          "outlet": "GIGAZINE",
+          "url": "https://gigazine.net/news/20261023&",
+          "date": "2026-10-23",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash"
+    }
+  ],
+  "essays": [],
+  "productionNote": {
+    "reachedOutlets": [
+      "TechCrunch",
+      "ITmedia NEWS",
+      "Ars Technica",
+      "Impress Watch",
+      "The Verge",
+      "OpenAI",
+      "ITmedia AI+",
+      "MIT Technology Review",
+      "GIGAZINE"
+    ],
+    "unreachedOutlets": [],
+    "excluded": [],
+    "counts": {
+      "deep": 0,
+      "brief": 30,
+      "essays": 0,
+      "chars": 15326
+    },
+    "text": "候補96件から30件を掲載。本文が取れず不採用2件。"
+  }
+}
