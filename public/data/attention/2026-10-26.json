@@ -1,0 +1,2603 @@
+{
+ "date": "2026-10-26",
+ "generatedAt": "2026-10-25T23:21:39.302Z",
+ "measured": {
+  "world": 18,
+  "jp": 6
+ },
+ "unreachable": [],
+ "ranking": [
+  {
+   "id": "s-20261026-02",
+   "title": "ベネズエラ野党指導者のマチャド氏が帰国",
+   "firstSeen": "2026-10-26",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-26": 53
+   },
+   "peak": 53,
+   "worldScore": 53,
+   "worldCoverage": "15/18",
+   "jpScore": 35,
+   "jpCoverage": "4/6",
+   "gap": 18,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.94,
+     "title": "Venezuelan opposition leader María Machado returns after months in exile",
+     "desc": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
+     "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.94,
+     "title": "Exiled opposition leader María Corina Machado returns to Venezuela",
+     "desc": "Nobel peace prize winner’s return after almost a year in exile is unlikely to please interim president Delcy Rodríguez The Venezuelan opposition leader, María Corina Machado, has announced she has returned to Venezuela almost a year after she left the country to receive the Nobel peace prize. “I’m here. With you,” she wrote on X on Sunday lunchtime. Continue reading...",
+     "url": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Venezuela’s opposition leader Maria Corina Machado returns from exile",
+     "desc": "The Nobel laureate&#039;s homecoming follows national protests demanding free elections.",
+     "url": "https://www.aljazeera.com/news/2026/10/25/venezuelas-opposition-leader-maria-corina-machado-returns-from-exile?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.97,
+     "title": "María Corina Machado Returns to Venezuela",
+     "desc": "After nearly 10 months in exile, Ms. Machado, a Nobel laureate, came back to challenge leaders who have sidelined her and press for new elections.",
+     "url": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Opposition leader Machado returns to Venezuela after 10 months in exile",
+     "desc": "Venezuelan opposition leader Maria Corina Machado announced on Sunday that she has returned to her homeland following almost a year in exile, after covertly leaving Venezuela in late 2025 to receive the Nobel Peace Prize. She returns as doubts about her country’s democratic future and the role of the US are growing.",
+     "url": "https://www.france24.com/en/americas/20261025-opposition-leader-machado-returns-to-venezuela-after-10-months-in-exile",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "María Corina Machado back in Venezuela after 10 months in exile",
+     "desc": "The opposition leader was last in Venezuela in in December 2025, after which she left to receive the Nobel Peace Prize in Oslo. Since then, she has carried out much of her political activity from the United States and Panama.",
+     "url": "https://www.euronews.com/2026/10/25/maria-corina-machado-back-in-venezuela-after-nearly-10-months-in-exile",
+     "via": null
+    },
+    {
+     "id": "npr",
+     "name": "NPR",
+     "region": "world",
+     "weight": 0.84,
+     "title": "Venezuela's opposition leader María Corina Machado returns after months in exile",
+     "desc": "Machado announced her arrival on social media, writing \"I am here. With you.\"",
+     "url": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Venezuela opposition leader Machado returns home after fraught year in exile",
+     "desc": "Venezuelan opposition leader Maria Corina Machado returned home on Sunday after nearly a year away, and after several failed attempts to return that strained her ties with US President Donald Trump’s administration. “I’m here. With you all,” the Nobel Peace Prize-winner wrote on social media. She appeared at a church in western Lara state, according to images shared by her press team, and was greeted by bystanders who sang the national anthem and shouted “liberty!” as she left in an ‌SUV, a...",
+     "url": "https://www.scmp.com/news/world/americas/article/3372094/venezuelas-opposition-leader-maria-corina-machado-returns-after-months-exile",
+     "via": null
+    },
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 0.8,
+     "title": "Exiled opposition leader announces shock return to Venezuela",
+     "desc": "Venezuelan opposition leader Maria Corina Machado has returned ‌to the country nearly a year after her daring escape.",
+     "url": "https://news.sky.com/story/exiled-venezuelan-opposition-leader-announces-shock-return-to-the-country-13603692",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Venezuela opposition leader María Corina Machado returns to country",
+     "desc": "Machado covertly snuck out of the South American country in December with a private U.S. rescue team to accept the 2025 Nobel Peace Prize in Norway.",
+     "url": "https://www.cbsnews.com/news/venezuela-opposition-maria-corina-machado-return/",
+     "via": null
+    },
+    {
+     "id": "toi",
+     "name": "Times of India",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Nobel laureate, Venezuela opposition leader Machado returns after exile",
+     "desc": "",
+     "url": "https://timesofindia.indiatimes.com/world/rest-of-world/i-am-here-with-you-nobel-laureate-venezuela-opposition-leader-machado-returns-after-nearly-a-year-in-exile/articleshow/135197260.cms",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Venezuela opposition leader Maria Corina Machado returns home after months in exile",
+     "desc": "Machado's return risks complicating the US administration’s Venezuela strategy.",
+     "url": "https://www.straitstimes.com/world/venezuela-opposition-leader-maria-corina-machado-returns-to-venezuela",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Venezuela opposition leader Machado returns home after fraught year away - Reuters",
+     "desc": "Venezuela opposition leader Machado returns home after fraught year away Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS3JPM2RsSG1DcVg1NFh3Y3ljUXp3MmJSTU9QTWEycDVTN1lRelFGSEk5MWlxdjlBazcwRERzME9ieWFxRE5lbGZQZXA3WU5aMXdqTDctQ08yUkw3b243YnE1Vnp4bUxVLTZLQTJ0U21UemtpWURfSGNsa05mazRFVXIyLXQta0R4dGdqdDRXd3laMXFBLUNrSGNlVUNDUm5kM1Ytb3ZCQjhQVlJJdWpXWm9hWWYxalVQ?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Venezuela's opposition leader Machado returns after months in exile, as doubts over democracy deepen - AP News",
+     "desc": "Venezuela's opposition leader Machado returns after months in exile, as doubts over democracy deepen AP News",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYzc4d3hfVTk4Q0w5QlFPbV9hSTlxdTBKMkxkX0x0bU9DZ3FOdUFyNnZDN2pPXzNRQjloaVRPd1BZZnVJY0ZhQVVoczlCUTBzbUx2cFh0NWZPX1JULV9QODF4YjRjSGVlb3NvZVkyQWo5dGtTam40NDR0VWFubEFtNW5BQ080Wk10T05hVjRya1NDWVhzbnY3Z2xQdWVCN1k4QTZaS1FkeTZIUVVYakNsUHVScFE?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Machado Returns to Venezuela to Urge Democratic Transition - Bloomberg.com",
+     "desc": "Machado Returns to Venezuela to Urge Democratic Transition Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeW1CUXJVQi15akYydHpTSjViRXRPWUhDLXpYdU1mRjh6WTI3WHJMdjg5akJrR1VsTW44eGRVaUpoSmdWa3hxMmNUNzlBUU1KaWVsV2lPd285bWhYdFFYTndhTUZPX2FVUWU0MWhyV3U1dFM5Q3NBS3lfQWVuRWh1bER1bjZ1dFJhdTRfVk9qTGxWRmdSMVFBTEQyaHpOLTdzSk1zOHNSY3lieW44b0JBT3BTcTU?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "asahi",
+     "name": "朝日新聞",
+     "region": "jp",
+     "weight": 0.3,
+     "title": "ノーベル賞のマチャド氏、ベネズエラ帰国が実現 授賞式で出国以来",
+     "desc": "",
+     "url": "http://www.asahi.com/articles/ASVBT5VTHVBTSFVU3S9M.html?ref=rss",
+     "via": null
+    },
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "ベネズエラ野党指導者が帰国 ノーベル平和賞受賞者、約１０カ月ぶり",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026102600119&g=int&m=rss",
+     "via": null
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.82,
+     "title": "ノーベル平和賞のマチャド氏がベネズエラに帰国 トランプ氏「すてきな女性、無事を願う」(産経新聞)",
+     "desc": "【ワシントン＝杉本康士】ベネズエラ野党は25日、ノーベル平和賞を昨年受賞した同党指導者のマリア・コリナ・マチャド氏が帰国したと発表した。マチャド氏は反米左派マドゥロ政権から出国を禁じられていたが、昨年",
+     "url": "https://news.yahoo.co.jp/articles/7467be1031cfbca92e8eac315e91e20f7ec1d8e7?source=rss",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "ノーベル平和賞のマチャド氏、ベネズエラ帰国 1年前に脱出以来 - 日本経済新聞",
+     "desc": "ノーベル平和賞のマチャド氏、ベネズエラ帰国 1年前に脱出以来 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMZkpnNDlJN2ZPenJKNTIxMjZGeWJnUnVZN3pnRXJ2SXBSZENGQWdSbjdyT205MjFNaXpzT0ZHdzNQSUtYV3dsVWp6VEZjLUhYWGF6cWpqZkNmdkp0RGZLV1NyY1VsTkY3cVVuTg?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261019-11",
+   "title": "ブラジル大統領選の決選投票が実施",
+   "firstSeen": "2026-10-19",
+   "daysSeen": 2,
+   "history": {
+    "2026-10-19": 6,
+    "2026-10-26": 47
+   },
+   "peak": 47,
+   "worldScore": 47,
+   "worldCoverage": "14/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 47,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.45,
+     "title": "Who are the candidates in Brazil's presidential election?",
+     "desc": "Voters in Sunday's election are choosing between two very different candidates, as Americas correspondent Ione Wells reports from Rio de Janeiro.",
+     "url": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 1,
+     "title": "Brazil runoff live updates: ballot count resumes after two-hour voting extension",
+     "desc": "Polls officially close after Brazilian ⁠supreme court ordered the extension Sunday as Flávio Bolsonaro and Luiz Inácio Lula da Silva await results The local electoral court ordered the immediate restoration of 100% of the bus fleet and ordered the arrest of the municipal transport secretary, Pablo Souza, on suspicion of an electoral offence and disobeying court orders. The arrest warrant could not be carried out, however, because he is in Paris on what the city government described as an “official mission”, and is not expected to return to Brazil until Monday. Late in the afternoon, Flávio Bol",
+     "url": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Brazil election results 2026 live: Vote counting begins for Lula, Bolsonaro",
+     "desc": "Legal challenges are likely, as the voting extension adds tension to Brazil&#039;s polarised political landscape.",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-results-2026-live-polls-close-in-lula-bolsonaro-face-off?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 1,
+     "title": "Live Updates: Polls Close in Brazil as Presidential Race Comes to Chaotic Close",
+     "desc": "The leftist president, Luiz Inácio Lula da Silva, accused officials in some areas of slowing transit. His opponent, Flávio Bolsonaro, a Trump ally, said flooding was hampering his voters. Polling places were kept open an extra two hours.",
+     "url": "https://www.nytimes.com/live/2026/10/25/world/brazil-election",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Lula's Legacy, Flavio's Future?",
+     "desc": "A coin-flip election in Brazil, with little separating the country's left-wing President, Lula, and his right-wing rival, Flávio Bolsonaro. The results of the run-off vote will become clear in a few hours.",
+     "url": "https://www.france24.com/en/tv-shows/spotlight/20261025-lula-s-legacy-flavio-s-future",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Brazil: long queues and river journeys mark decisive presidential vote",
+     "desc": "Brazilians headed to the polls on Sunday to choose between Lula and Flávio Bolsonaro. From canoe journeys in the Amazon to long queues in Rio and a Lula doll in Brasília, voters turned out for the presidential runoff.",
+     "url": "https://www.euronews.com/video/2026/10/25/brazil-long-queues-and-river-journeys-mark-decisive-presidential-vote",
+     "via": null
+    },
+    {
+     "id": "npr",
+     "name": "NPR",
+     "region": "world",
+     "weight": 1,
+     "title": "U.S. influence in Latin America at stake in runoff election in Brazil",
+     "desc": "A polarizing presidential election runoff in Latin America's largest economy and biggest democracy pits leftist Lula da Silva's legacy against Trump ally Flavio Bolsonaro, son of the former Brazilian president.",
+     "url": "https://www.npr.org/2026/10/25/nx-s1-6011223/u-s-influence-in-latin-america-at-stake-in-runoff-election-in-brazil",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Brazil’s election left hanging as judge extends vote after polls close, sparking chaos",
+     "desc": "A Supreme Court justice in Brazil ordered polls in the presidential run-off to stay open for two more hours on Sunday, minutes after voting had officially ended at 5pm Brasilia time (4am on Monday in Hong Kong). The order left election officials across China’s biggest trading partner in Latin America unsure whether to reopen polling stations or send their machines to be counted. Justice Cristiano Zanin, who was President Luiz Inacio Lula da Silva’s lawyer before joining the court in 2023, acted...",
+     "url": "https://www.scmp.com/news/world/americas/article/3372096/brazil-pauses-presidential-vote-count-after-supreme-court-extends-voting-hours",
+     "via": null
+    },
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Brazilians head to the polls with left-winger and son of Trump ally neck and neck",
+     "desc": "Brazilians are going to the polls today to elect a president in a run-off vote that is being closely watched around the world.",
+     "url": "https://news.sky.com/story/brazilians-go-to-polls-today-with-luiz-inacio-lula-da-silva-and-flavio-bolsonaro-neck-and-neck-13603442",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Brazil counts votes in presidential runoff between Lula and Flávio Bolsonaro",
+     "desc": "Brazilians are choosing between President Luiz Inácio Lula da Silva and Flávio Bolsonaro in a polarizing presidential election.",
+     "url": "https://www.cbsnews.com/news/brazil-presidential-runoff-lula-flavio-bolsonaro/",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "What are Brazilian voters' main concerns?",
+     "desc": "SAO PAULO, Oct 25 - Brazilians headed to the ballot box on Sunday, in a runoff vote that pits right-wing Senator Flavio Bolsonaro, the eldest son of former President Jair Bolsonaro, against leftist President Luiz Inacio Lula da Silva.",
+     "url": "https://www.straitstimes.com/world/what-are-brazilian-voters-main-concerns",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Brazil votes in a tense Lula vs Bolsonaro runoff with US influence over Latin America at stake - AP News",
+     "desc": "Brazil votes in a tense Lula vs Bolsonaro runoff with US influence over Latin America at stake AP News",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSElINHZmYXlEYkdaa0FvWkZVOVU3Tm4yQmdjZ2tXMXJveURKTkt6TVJDN2lEc2ozZTM5M0F3cWZsamgwa2ZtVFRKajJuU1NXd21kVGdad2hBdnJwdlZLOXFrNjhTbFZIZE5QX2tzYUhrendRVTFuSHpjcU85NEotX29VdjJvd3hvZmlfaUlHSnl0Ym9IYjROMm5tblBjbXNTYzAxLTdRTjJqcDlQTU0yZUlB?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Brazil Extends Voting by Two Hours After Briefly Starting Count - Bloomberg.com",
+     "desc": "Brazil Extends Voting by Two Hours After Briefly Starting Count Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYnpIMV9neGJ2SHBlWmNYS1l2VVFpcVQyUnlSTHdWc2pRckNBUUkxMG1OZHhDaExvRUpDSzY1UWpiX3RZdEtOUUlobGVRSGM0cEJiTDJES1VVMV8wTS02M0h5Qi1OU3lCWEVXM3psSVV4UGU0TTdrRTlIdzdJMjRvMFFsY3U3MVo0d2FNZEVDSFJGTUxYd0tyR3VkTFdmZDFnNlNSUml1WmV4NVFab2pEOWZnTQ?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Brazil’s Supreme Court extends voting as transport complaints mar election - Financial Times",
+     "desc": "Brazil’s Supreme Court extends voting as transport complaints mar election Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSUtkRzlheDZmNmlaN09RME5QLUs3UjJTcWZ3RjhwVDhTNUpRYm9VU0FvSWNHaVJzWUNMOU1XZkFFWjRtTFlxSkhDaWVlazNtODhJSE0wZlhXM214Z1dPXzJzOHZWTGhGaFYwRmVTNEZZWWl3MkJPajVzMzA4U21tVDlub1Y?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261026-01",
+   "title": "セルビア総選挙で与党敗北、ブチッチ氏認める",
+   "firstSeen": "2026-10-26",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-26": 46
+   },
+   "peak": 46,
+   "worldScore": 46,
+   "worldCoverage": "13/18",
+   "jpScore": 19,
+   "jpCoverage": "3/6",
+   "gap": 27,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 1,
+     "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
+     "desc": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+     "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.65,
+     "title": "Wild scenes of celebration in Belgrade as Vučić concedes Serbian election – Europe live",
+     "desc": "Student List movement projected to have 138 seats in the new parliament, well clear of the 126 required for majority, to Vučić’s 104 Serbian leader Aleksandar Vučić concedes defeat in fiercely contested parliamentary election The latest turnout projection by Ipsos/Cesid suggests a turnout of 60.8% by 5pm local time (4pm UK), with three hours still to go until the polling stations close. That’s more than 13 percentage points higher than in 2023, and would be the highest turnout since mid-2000s. “ What hasn’t motivated me? There isn’t a single reason I could give that would keep me from showing ",
+     "url": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Serbia’s Vucic concedes election defeat to student-led movement",
+     "desc": "Vucic says the opposition Student List is projected to win a parliamentary majority after nearly two years of protests.",
+     "url": "https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.94,
+     "title": "Aleksandar Vucic Concedes Defeat in Serbian Election",
+     "desc": "“It is clear that we have lost these elections,” Aleksandar Vucic said in a surprisingly early speech congratulating his opponents.",
+     "url": "https://www.nytimes.com/2026/10/25/world/europe/serbia-vucic-election-defeat.html",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Serbia's Vucic concedes defeat in historic snap election with record turnout",
+     "desc": "Serbia's Aleksandar Vucic conceded defeat in an historic election on Sunday following a near to 70% turnout at polling stations – the highest since the break-up of Yugoslavia in 1992. The snap election followed nearly two years of student-led demonstrations against perceived corruption and authoritarianism triggered by the deaths of 16 people when a train station canopy collapsed in the ‌city of Novi Sad in 2024.",
+     "url": "https://www.france24.com/en/europe/20261025-serbia-s-vucic-concedes-defeat-in-historic-snap-election-with-record-turnout",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Serbia: crowds celebrate in Belgrade after Vučić admits defeat",
+     "desc": "Crowds celebrated in Belgrade after President Aleksandar Vučić conceded defeat for his ruling party in Serbia's snap parliamentary election, following nearly two years of student-led demonstrations.",
+     "url": "https://www.euronews.com/video/2026/10/25/serbia-crowds-celebrate-in-belgrade-after-vucic-admits-defeat",
+     "via": null
+    },
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 0.9,
+     "title": "Serbia's pro-Russian leader urges supporters to avoid 'killings' after election defeat",
+     "desc": "Serbia's long-serving pro-Russian leader has urged his supporters to avoid \"killings\" after he conceded defeat to a student-led movement at the election.",
+     "url": "https://news.sky.com/story/student-protest-movement-aims-to-defeat-ex-serbian-leader-in-parliamentary-election-13603462",
+     "via": null
+    },
+    {
+     "id": "abc-au",
+     "name": "ABC Australia",
+     "region": "world",
+     "weight": 0.77,
+     "title": "Serbian president concedes defeat to student-led movement in election",
+     "desc": "Serbia's elections came after almost two years of student-led demonstrations against perceived corruption and creeping authoritarianism.",
+     "url": "https://www.abc.net.au/news/2026-10-26/serbia-election-vucic-defeat-student-protest/107307808",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Vucic concedes defeat in Serbia&#039;s parliamentary election",
+     "desc": "Aleksandar Vucic, who denounced the oppositional student movement as a foreign-led attempt to unseat him, led with virtually absolute power for 14 years.",
+     "url": "https://www.cbsnews.com/news/serbia-election-aleksandar-vucic-concedes-defeat/",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Reactions to election victory of Serbia's Student List",
+     "desc": "BELGRADE, Oct 25 - Serbia's Aleksandar Vucic conceded defeat to a student-led protest movement in a historic election on Sunday that ends his long grip on power and heralds a new political era in the Balkan country.",
+     "url": "https://www.straitstimes.com/world/europe/reactions-to-election-victory-of-serbias-student-list",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Serbia's Vucic concedes defeat to student led movement in parliamentary election - Reuters",
+     "desc": "Serbia's Vucic concedes defeat to student led movement in parliamentary election Reuters",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTUU3TDlMRjZDVkdXVmplZVo5NHhmeGM5NUd5bkx3R2dJVTVBNjVaMmtkYkpJNHZDT1VNMzJTdjVWRG1VUFVMMW83ZmtnU2pOd2RsNlBlcEw5RldCZWNvT3hya3cyVGdacXg3cWd0cUlKYmdrM0JPZzFwSmJISUh0TWhZbVRzMFdfdS1ZZ1R2a2hKdERiQnZXX2pqY2RmV2NnYnZ1UE91eGFQT1pkLUk5eHRHbFVMWDRpWVl3QXA1dw?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Serbia’s strongman leader Vucic concedes defeat to student-led movement in seismic political shift - AP News",
+     "desc": "Serbia’s strongman leader Vucic concedes defeat to student-led movement in seismic political shift AP News",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZV9RN2t0QWZJWXdXekhjZVNLbU9Xek1ibDZsQTVpMmszTWtzMjdpbTlCeTJEZE1SdkJobXVsWUxLT24tMlY2b1N5bWZCc3dEeDJ5MVduRUhnN3NQLUh2UXRBX0Y1ci1tanJXY1N1OWNMVkdVd1BlR0Y3UFM4eFZ1UEgtS3pXWHI5RmY2TXRlc0d6OEFQ?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Serbia’s ex-president Vučić concedes defeat to Student List in parliamentary poll - Financial Times",
+     "desc": "Serbia’s ex-president Vučić concedes defeat to Student List in parliamentary poll Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQelhfN3RVaHZGZzZRSE03Z19FZU50SlFMYVMyYlRxVkdZV0s0NGhwVko4WDZRR0FFSnU3elR5Mm1Yb20yOEJjY2ZSbHk5eWpFUTh1bXZHc20wMWl3eDVSWGZjSzF2a3J6b2FsWWRqeDJiVmFIMnNrdW1TUUdqenE4Y1RWeS0?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "asahi",
+     "name": "朝日新聞",
+     "region": "jp",
+     "weight": 0.33,
+     "title": "セルビア総選挙、学生主導勢力が強権与党倒す 14年ぶり政権交代へ",
+     "desc": "",
+     "url": "http://www.asahi.com/articles/ASVBT77BYVBTBQBQ1V0M.html?ref=rss",
+     "via": null
+    },
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "新興勢力の勝利確実 前大統領が敗北認める―セルビア議会選",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026102600133&g=int&m=rss",
+     "via": null
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.33,
+     "title": "セルビア与党敗北宣言、14年ぶり政権交代(共同通信)",
+     "desc": "【ベオグラード共同】旧ユーゴスラビアのセルビアで25日に議会選が投開票され、中道右派の与党セルビア進歩党を率いるブチッチ前大統領は敗北を宣言した。14年ぶりの政権交代が実現する見通しとなった。",
+     "url": "https://news.yahoo.co.jp/articles/481c73ed4976937def2ae9afa6e4ea9d6c79d942?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261026-03",
+   "title": "イスラエル総選挙を前に攻防激化",
+   "firstSeen": "2026-10-26",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-26": 42
+   },
+   "peak": 42,
+   "worldScore": 42,
+   "worldCoverage": "13/18",
+   "jpScore": 21,
+   "jpCoverage": "2/6",
+   "gap": 21,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.97,
+     "title": "Deeply divided Israel braces for pivotal election",
+     "desc": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
+     "url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.42,
+     "title": "‘Gaza’s suffering has become campaign fodder’: Palestinians fear the worst from Israel election",
+     "desc": "Humanitarian catastrophe largely ignored as rivals Gadi Eisenkot and Benjamin Netanyahu vow to end Hamas rule As Israel prepares to go to the polls , Palestinians in Gaza are bracing for an outcome that could shape their future, knowing their fate rests with the country that has reduced much of the territory to rubble and killed nearly 75,000 people. Gaza, where nearly a million displaced Palestinians face dire sanitary conditions, water shortages and the constant threat of Israeli strikes, has been largely absent from the election campaign . Continue reading...",
+     "url": "https://www.theguardian.com/world/2026/oct/25/gaza-suffering-campaign-fodder-palestinians-fear-worst-israel-election",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US and Israel elections: New leaders, same policies?",
+     "desc": "Israeli governments change. US presidents come and go. But settlement expansion on occupied Palestinian land continues.",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/us-and-israel-elections-new-leaders-same-policies?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.82,
+     "title": "Israel’s High-Stakes Election: What to Know",
+     "desc": "Israelis head to the polls on Tuesday for an election that will determine the country’s next prime minister. But it can take weeks, months or longer to form a new government.",
+     "url": "https://www.nytimes.com/2026/10/25/world/middleeast/israels-high-stakes-election-what-to-know.html",
+     "via": null
+    },
+    {
+     "id": "dw",
+     "name": "Deutsche Welle",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Gadi Eisenkot campaigns on Moroccan roots in challenge to Netanyahu",
+     "desc": "As Israel prepares to vote, Gadi Eisenkot is leveraging his Moroccan heritage in Likud strongholds such as Sderot. From historical divides to October 7, identity and trauma are redefining the city's political loyalties.",
+     "url": "https://www.dw.com/en/gadi-eisenkot-campaigns-on-moroccan-roots-in-challenge-to-netanyahu/a-79747193?maca=en-rss-en-world-4025-rdf",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Israel: Demonstrators rally against government ahead of election",
+     "desc": "In Israel, the anti-Netanyahu movement is mobilising. Thousands gathered in Tel Aviv on Friday to protest against the Israeli government, just three days ahead of a general election widely seen as a referendum on Prime Minister Benjamin Netanyahu.",
+     "url": "https://www.france24.com/en/israel-demonstrators-rally-against-government-ahead-of-election",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Israel orders West Bank crossings to close on election day following Hebron shooting",
+     "desc": "The move comes as part of a wider clampdown in the occupied West Bank after two Israeli soldiers were killed by Palestinian gunmen in the city of Hebron earlier this week.",
+     "url": "https://www.euronews.com/2026/10/25/israel-orders-west-bank-crossings-to-close-on-election-day-following-hebron-shooting",
+     "via": null
+    },
+    {
+     "id": "npr",
+     "name": "NPR",
+     "region": "world",
+     "weight": 0.92,
+     "title": "This center-right former general could unseat Netanyahu as Prime Minister in Israel",
+     "desc": "A former Israeli general is the main center-right challenger hoping to unseat Prime Minister Benjamin Netanyahu in Israeli elections this week.",
+     "url": "https://www.npr.org/2026/10/25/nx-s1-6011185/this-center-right-former-general-could-unseat-netanyahu-as-prime-minister-in-israel",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Netanyahu warns Iran may try to disrupt election, says ‘don’t test us’",
+     "desc": "Israeli Prime Minister Benjamin Netanyahu said Iran and its allies might try to disrupt Tuesday’s Israeli elections, warning the Islamic republic against any hostile acts. The premier has campaigned heavily on his security credentials, touting the war he launched against Iran in February alongside the United States and suggesting that he alone can see it through. “We have intelligence signs that our enemies, Iran and its proxies, could challenge us with attacks in order to disrupt the...",
+     "url": "https://www.scmp.com/news/world/middle-east/article/3372091/netanyahu-warns-iran-may-try-disrupt-election-says-dont-test-us",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Israel to close West Bank crossings before elections amid military operation",
+     "desc": "The Israeli military&#039;s operation comes in response to a gun attack that killed two Israeli soldiers and wounded three others in the West Bank.",
+     "url": "https://www.cbsnews.com/news/israel-military-operation-west-bank-elections/",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Netanyahu warns Iran may try to disrupt Israeli election, says ‘don’t test us’",
+     "desc": "Netanyahu has campaigned heavily on his security credentials.",
+     "url": "https://www.straitstimes.com/world/middle-east/netanyahu-warns-iran-may-try-to-disrupt-israeli-election-says-dont-test-us",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Billionaire Trump backer says Ben-Gvir, Smotrich should not serve in next Israeli government - Reuters",
+     "desc": "Billionaire Trump backer says Ben-Gvir, Smotrich should not serve in next Israeli government Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSlk2VkFXVkdJWWhnUXFnSFNuN25YOHpiSHdWczV3X3BHQURLcVhtVzdIVXlRbE5CWU9KSG45dkNqemxwZXBSRHpMR2hkdmhRSFhrNkpHU2dZa2RNbm1hQ3dMTUQtWGlIbElrNHhrb2Zsem4xY19hOHoxNmNlMjJPb3BUd2YybklKZXREeVNKZVNBRGJHTW5jcG5LaVdzZUhLTExFT3ZBV0Nwc29NRXhZXzJFbkRQTjR5UDQ5dVo4b2Jhcm5oVzF3ekt0MA?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Benjamin Netanyahu - AP News",
+     "desc": "Benjamin Netanyahu AP News",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXTllFQUh1RklaanJvME5aZjcyVWdOMW5tM0xxcV9pQTBWbExzaDJWYmdSUmZYeEpfcjQzdGhjTGlVRTZaWWcxTlRvVXZTWHJmX3g4?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "ネタニヤフ首相に賛否 与党牙城で支持離れも―イスラエル総選挙",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026102500266&g=int&m=rss",
+     "via": null
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.74,
+     "title": "イスラエル総選挙 AI動画で投票影響も(ABEMA TIMES)",
+     "desc": "総選挙を2日後に控えるイスラエルでは、各党が生成AIを使ったネガティブキャンペーンを展開していて、投票行動にも影響が出るとの指摘が出ています。【映像】選挙に関するAI動画（複数カット） イスラエルにあ",
+     "url": "https://news.yahoo.co.jp/articles/00a4b018a11157370b3cbbe1bb06e07c3131010e?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261023-02",
+   "title": "フランスで抗議デモ激化、1300人以上逮捕",
+   "firstSeen": "2026-10-23",
+   "daysSeen": 2,
+   "history": {
+    "2026-10-23": 18,
+    "2026-10-26": 32
+   },
+   "peak": 32,
+   "worldScore": 32,
+   "worldCoverage": "10/18",
+   "jpScore": 8,
+   "jpCoverage": "1/6",
+   "gap": 24,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.71,
+     "title": "More than 1,300 arrested as clashes follow another day of mass protests across France",
+     "desc": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.",
+     "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.59,
+     "title": "Macron accused of putting France’s right to protest at risk with ‘vandal’s law’",
+     "desc": "Making innocent protesters liable for damage would be bad for rule of law and play into far-right hands, say opponents Emmanuel Macron has been accused by trade unions of trying to curb the fundamental French right to protest as the government fast-tracks a bill to make protesters pay for damage caused by vandalism at street demonstrations even if they did not directly cause it themselves. The French president, who leaves office next spring, has faced more than a month of protests in which high-school students have blockaded schools demanding a response to teacher absences, repairs to decrepit",
+     "url": "https://www.theguardian.com/world/2026/oct/25/macrons-vandals-pay-bill-puts-right-to-protest-at-risk",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "The narrative battle over France’s unrest",
+     "desc": "Student protests, police violence and French media obsessed with &#039;barbarians&#039;.",
+     "url": "https://www.aljazeera.com/video/the-listening-post/2026/10/25/the-narrative-battle-over-frances-unrest?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.88,
+     "title": "A Day After Renewed Street Clashes in France, Relief and Anxiety Mix",
+     "desc": "While the police kept a lid on vandalism, the huge number of protesters and France’s fraught politics suggest unrest could grow.",
+     "url": "https://www.nytimes.com/2026/10/25/world/europe/france-protests-macron-lepen.html",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "France: 1.314 arrested during protests across the country",
+     "desc": "France saw another day of nationwide protests on Saturday, with more than 400,000 people taking to the streets over the rising cost of living and school funding. Most marches remained peaceful, a week after riots and looting hit several cities. However, police say more than 1,300 people were arrested nationwide as violence broke out on the sidelines of demonstrations. Caroline Baum has more.",
+     "url": "https://www.france24.com/en/france-1-314-arrested-during-protests-across-the-country",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "More than 1,300 arrests across France as protesters clashed with police",
+     "desc": "Some 70,000 law enforcement officers were mobilised ahead of Saturday's planned protests after authorities bolstered security following last weekend's riots.",
+     "url": "https://www.euronews.com/2026/10/25/almost-1000-arrests-across-france-as-protesters-clashed-with-police",
+     "via": null
+    },
+    {
+     "id": "npr",
+     "name": "NPR",
+     "region": "world",
+     "weight": 0.53,
+     "title": "Protests roil France once again as police seek to quell violence",
+     "desc": "Hundreds of thousands turned out across France to protest everything from the lack of school funding to economic inequality. Police also were out in force to prevent a repeat of last week's violence.",
+     "url": "https://www.npr.org/2026/10/24/nx-s1-6014520/protests-roil-france-once-again-as-police-seek-to-quell-violence",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "More than 1,000 arrested in France as protesters and police clash",
+     "desc": "While demonstrations throughout France were largely peaceful, police reported clashes with protesters Saturday evening.",
+     "url": "https://www.cbsnews.com/news/paris-france-new-protests-riots-museums-shops/",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "French protest groups demand more rallies as Macron faces tough choices",
+     "desc": "The Interior Ministry said 410,000 people took part in the Oct 24 marches.",
+     "url": "https://www.straitstimes.com/world/europe/french-protest-groups-demand-more-rallies-as-macron-faces-tough-choices",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "French protest groups demand more rallies as Macron faces tough choices - Reuters",
+     "desc": "French protest groups demand more rallies as Macron faces tough choices Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQmJMN1JUSWphZktVT1hXNmhHdXJYblhCMjFhREdZTzR2ZWhKdWgwRnB1enEwWFp3TWxJY2hvN0tQX0RpSXBFdFJVRUJiYzBvMWJiMTRrUWs4U0tRdE1YQ0xSdmZabkFGWTNROWZLQjBrc1l1LURSU2d1NG1aMXRVTmpHRXpUTHFYR0hzU3VEem9tX3JPWExBZXRidV83VmZYY2g3cTBZX0tkb2pzb3hZVUt0dnhWalN1?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.48,
+     "title": "再び燃え上がる欧州…フランスで41万人がデモ、イタリアではコロッセオに侵入(中央日報日本語版)",
+     "desc": "フランス市民が劣悪な公共環境や物価高に抗議するため、24日（現地時間）、再び街頭に繰り出した。軍隊まで動員したフランス当局の強硬措置により、17日のような混乱は起きなかったものの、黒い服と覆面姿の過激",
+     "url": "https://news.yahoo.co.jp/articles/2eca035acbae2ab40c316aa3f9a6e65394162486?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261015-02",
+   "title": "マスク氏、ウクライナのスターリンク制限を説明",
+   "firstSeen": "2026-10-15",
+   "daysSeen": 5,
+   "history": {
+    "2026-10-15": 25,
+    "2026-10-16": 18,
+    "2026-10-19": 19,
+    "2026-10-20": 25,
+    "2026-10-26": 21
+   },
+   "peak": 25,
+   "worldScore": 21,
+   "worldCoverage": "7/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 21,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.91,
+     "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+     "desc": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
+     "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.77,
+     "title": "Elon Musk Says Ukraine Violated Starlink’s Rules",
+     "desc": "The comments came after the disruption in the country’s satellite service. Earlier, Ukraine said drones using Starshield, the Pentagon-funded service, were back to normal speeds.",
+     "url": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
+     "via": null
+    },
+    {
+     "id": "npr",
+     "name": "NPR",
+     "region": "world",
+     "weight": 0.38,
+     "title": "Musk says SpaceX did restrict Starlink, as Ukraine says the tech has been restored",
+     "desc": "Musk said Ukraine had been violating Starlink's terms by using it for military activity, as Ukrainian President Volodymyr Zelenskyy said normal operating speeds have returned.",
+     "url": "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions",
+     "via": null
+    },
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 0.3,
+     "title": "Starlink back to 'the level ⁠we need' in Ukraine, Zelenskyy says",
+     "desc": "The Starlink satellite system is back to operating at the speed Ukraine needs after slowing down for more than a week, damaging Kyiv's ability to defend itself from Russian attacks, Ukraine's President Volodymyr Zelenskyy said.",
+     "url": "https://news.sky.com/story/starlink-back-to-the-level-we-need-in-ukraine-president-zelenskyy-says-13603095",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "SpaceX satellite system back up to full speed in Ukraine, officials say",
+     "desc": "Ukrainian leaders confirmed Saturday that the country&#039;s access to SpaceX technologies Starlink and Starshield have been restored to full speed, shortly after Elon Musk admitted to slowing Starlink down.",
+     "url": "https://www.cbsnews.com/video/spacex-satellite-system-back-up-to-full-speed-in-ukraine-officials-say/",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Ukraine disputes Elon Musk’s claim that its military violated Starlink’s terms of service - AP News",
+     "desc": "Ukraine disputes Elon Musk’s claim that its military violated Starlink’s terms of service AP News",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ1drdjlPWDVYNS1BaWpPZ2hYZDRSMjlIbGt1ZXNUQmgxdmk0cDJMalJqa05RWERiakhXSXVsWE5COHZMWEdJM0pWZFdwYzJ5WHdZMUh3Q0E3RW1xVmMwczBFeWlCTlRtUU1MWGVjYVQyOVRmQWtycUU5N2J1enVTa29kS2tSZUNFY25GWGpZSmN2aHhPMWNZNkxpb2NULXFkQ3BINlo2eE5LY05ob09oVHFXcmUwZw?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Musk’s Starlink Explanation Challenged by Texas GOP Lawmaker Dan Crenshaw - Bloomberg.com",
+     "desc": "Musk’s Starlink Explanation Challenged by Texas GOP Lawmaker Dan Crenshaw Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORkx3V01SN0Q0b3Z2dDBsWGdJeUgxNk5LSXl0YzUyZmNnSG5NQW9MSlR2cnZuVnk5QnlzM0lMVWQydTBFcjFlaVp0QWUwM3FvTl9TX1hITDdHa2FrN0JiRXdGdjM0VzFxTXNNcXpScFlfOFBWWk9jUTdQbnpubmx6VV9lTGphdVI4Q0x3NTdGMk1hSC1TWEN1d3h4VHpJbU0xTnpIMTZBUWdGQk5oRmtLVA?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261026-06",
+   "title": "仏ルペン氏が大統領選への出馬を表明",
+   "firstSeen": "2026-10-26",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-26": 19
+   },
+   "peak": 19,
+   "worldScore": 19,
+   "worldCoverage": "7/18",
+   "jpScore": 22,
+   "jpCoverage": "2/6",
+   "gap": -3,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Marine Le Pen vows French ‘renaissance’ as far right eyes seat of power",
+     "desc": "National Rally&#039;s Le Pen launches presidential campaign against backdrop of protests and social, economic discontent.",
+     "url": "https://www.aljazeera.com/news/2026/10/25/marine-le-pen-vows-a-french-renaissance-as-far-right-eyes-seat-of-power?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Marine Le Pen launches presidential campaign in Orléans",
+     "desc": "RN candidate Marine Le Pen officially launched her campaign for the French presidential election on Sunday, October 25, at a rally in Orléans.",
+     "url": "https://www.france24.com/en/video/20261025-marine-le-pen-launches-presidential-campaign-in-orl%C3%A9ans",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Marine Le Pen launches presidential campaign with vow to restore 'rule of law'",
+     "desc": "At a large rally in Orléans, the far-right frontrunner called for a \"rebirth of France\" and promised to restore \"rule of law\" after another weekend of protests across the country.",
+     "url": "https://www.euronews.com/2026/10/25/marine-le-pen-launches-presidential-campaign-with-vow-to-restore-rule-of-law",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "France’s Le Pen vows to restore ‘rule of law’ at presidential campaign launch",
+     "desc": "Marine Le Pen, France’s far-right candidate to succeed President Emmanuel Macron next year, vowed in her first campaign speech on Sunday to “restore the rule of law” if elected next year. Le Pen - the front runner in the polls - seems to be benefiting from the convulsions France has been going through for weeks, punctuated by mass cost-of-living rallies and some violent clashes on Saturday and the previous week. “We are going to restore the rule of law,” she said, after looting and arson on the...",
+     "url": "https://www.scmp.com/news/world/europe/article/3372092/frances-le-pen-vows-restore-rule-law-presidential-campaign-launch",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "France’s far-right leader Marine Le Pen launches presidential bid as protests rattle the nation",
+     "desc": "Addressing a crowd of cheering supporters, she promised “zero tolerance” policing and said restoring security was the state’s first duty.",
+     "url": "https://www.straitstimes.com/world/europe/frances-le-pen-launches-presidential-bid-as-protests-rattle-the-nation",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "France's Le Pen launches presidential bid as protests rattle the nation - Reuters",
+     "desc": "France's Le Pen launches presidential bid as protests rattle the nation Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdHlyYlVtZ3dZV1ZlUmdLeFZGczB3NnU2R0R4QWxrZEw2SFBoU2l5ckpyblc2NGgxNmdXdFEwdGw3RExIaFFPNkdlVDF1XzRrNFI3Y0g5WFR0MkpZMUpOMW9nZ1ZYQ3VvR2dKRXF1QV9HSE5ZTGtPZkJEYlVNMTdkTWNzeDNqLVFMZXVNQW8wODNRUnBQVjdJNXgxT2p0OURoU0hreHZWako?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Le Pen vows to revive oil prospecting in France, calling 2017 ban \"stupid\" - AP News",
+     "desc": "Le Pen vows to revive oil prospecting in France, calling 2017 ban \"stupid\" AP News",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYTAwN0hYNWlxcGRhbjJNREJIRDI5M0ZYTDhUTXItemNJSDRieUJHMGJSdDBBNTJ4a3ZGdTYwY3BJb3dYa1I1TVd0RjJqSUw0T3lZai1iZ2RhWDUzdUs2c0d2ODFPeDlvZDBWX2NkTW1KOGtUTXROODFUZEw4bk1uczRtdk9SZWpTLV9BOHNMQVhIT3o1Qng1Q3lyS0Y?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.8,
+     "title": "極右政党ルペン氏、治安回復訴え 来春の仏大統領選に向け暴動非難(共同通信)",
+     "desc": "【オルレアン共同】来春のフランス大統領選に出馬表明している極右政党「国民連合（RN）」のマリーヌ・ルペン氏は25日、中部オルレアンで開かれた同党の大会で演説した。17日に国内各地で発生したデモに伴う大",
+     "url": "https://news.yahoo.co.jp/articles/3afc702c24a9613027f0306aad0151f8fbab226e?source=rss",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "フランス暴動、極右ルペン氏「追い風」 27年大統領選で治安争点に浮上 - 日本経済新聞",
+     "desc": "フランス暴動、極右ルペン氏「追い風」 27年大統領選で治安争点に浮上 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yZ3JPc2tENFdQRUVQQWZlY0ZEQXBjMWYxZThpdGZkUmJkX2M5ekpDcThEbS0wWWFWZ3BNTHY2Y0FYb2wwWTE3TW1ELWxMLU5YSnJJVnlpci11UmFFbzNlSEtKM0NVb0JqVlJpSw?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261026-16",
+   "title": "米司法長官、アラスカ上院選訴訟で介入否定",
+   "firstSeen": "2026-10-26",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-26": 14
+   },
+   "peak": 14,
+   "worldScore": 14,
+   "worldCoverage": "5/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 14,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US Attorney General Todd Blanche defends Alaska Senate election lawsuit",
+     "desc": "The Department of Justice has faced criticism that its lawsuit is aimed at blocking a Democratic victory in a key race.",
+     "url": "https://www.aljazeera.com/news/2026/10/25/us-attorney-general-todd-blanche-defends-alaska-senate-election-lawsuit?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump ‘not trying to meddle’ in Alaska election results by suing over Senate race: Blanche",
+     "desc": "Attorney General Todd Blanche on Sunday defended the Trump administration’s lawsuit to block certification of Alaska’s Senate results if Republican incumbent Dan Sullivan loses the race and argued that the legal challenge was a necessary step to avoid confusing voters in the closely watched midterm race. US President Donald Trump, who said on Friday that he was “the one that said do it”, is not trying to overturn state election results “in any way, shape or form” on the cusp of the November 3...",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3372093/trump-not-trying-meddle-alaska-election-results-suing-over-senate-race-blanche",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Transcript: Attorney General Todd Blanche on \"Face the Nation with Margaret Brennan,\" Oct. 25, 2026",
+     "desc": "The following is the transcript of the interview with Attorney General Todd Blance that aired on \"Face the Nation with Margaret Brennan\" on Oct. 25, 2026.",
+     "url": "https://www.cbsnews.com/news/todd-blanche-attroney-general-face-the-nation-transcript-10-25-2026/",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump has no designs on taking over state elections, says US attorney-general",
+     "desc": "The DOJ has sued to stop Alaska from certifying the results of its US Senate race if the Republican candidate loses narrowly.",
+     "url": "https://www.straitstimes.com/world/united-states/trump-has-no-designs-on-taking-over-state-elections-us-attorney-general-says",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump has no designs on taking over state elections, US attorney general says - Reuters",
+     "desc": "Trump has no designs on taking over state elections, US attorney general says Reuters",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPR19Yc2l5X25vdWYzZlFqeGxlOU1sMElDSFBGVmcyNXhjY2VjR0tDWFEwdE5jZGx5LWladUd4Z2FVaENKaTl3bW5jdkppT1o0SWdCcUhWcGJoMHY5eWFvQmhrMng2TzY2Y0ViZW9UMHZDbG9Kems4bTFSLU9LSnkwNVItaWE5Qmp5b3BxUmxud1ptdTZmMHJFRlRBSThfRU9YdUZvdkdKWk1Edm9lTTM4eFFsT2otVzktaHZYcTM1Vjc3LUlz?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261020-19",
+   "title": "11月に米ウロ3カ国高官協議を開催へ",
+   "firstSeen": "2026-10-20",
+   "daysSeen": 2,
+   "history": {
+    "2026-10-20": 6,
+    "2026-10-26": 14
+   },
+   "peak": 14,
+   "worldScore": 14,
+   "worldCoverage": "4/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 14,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Ukraine's Zelenskyy confirms trilateral talks with Russia and US to take place in November",
+     "desc": "The trilateral talks aim to restart stalled peace talks between Ukraine and Russia, with the latter's invasion well into its fifth year.",
+     "url": "https://www.euronews.com/2026/10/25/ukraines-zelenskyy-confirms-trilateral-talks-with-russia-and-us-to-take-place-in-november",
+     "via": null
+    },
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 1,
+     "title": "Talks between Ukraine, Russia and US to be held next month",
+     "desc": "A meeting between Ukraine, Russia and the US will take place next month, President Volodymyr Zelenskyy said.",
+     "url": "https://news.sky.com/story/meeting-between-ukraine-russia-and-us-to-be-held-next-month-zelenskyy-says-13603718",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Zelensky says trilateral US-Ukraine-Russia meeting to take place in November",
+     "desc": "“We are ready to talk. If it’s a territorial issue, it must be addressed at a leadership level,” says the Ukrainian president.",
+     "url": "https://www.straitstimes.com/world/europe/zelensky-says-trilateral-us-ukraine-russia-meeting-to-take-place-in-november",
+     "via": null
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Rubio Plans Trilateral Negotiations Over Ukraine, Johnson Says - Bloomberg.com",
+     "desc": "Rubio Plans Trilateral Negotiations Over Ukraine, Johnson Says Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdUxmelN3QlhvUWRCU0FGTGxyZzFwWDVqRVhBMjhzR1BnaDBYNVhhOTRXT3B5NHVpdXVHZVRUV3VuVHFHemNic0d4ejdlSWhSMVFTUUpETXhxM3FTZ2x2S0VDU2FSVkhvSWdTUFdsRjJRdi1nVVprZGxJRy1BVXVzdnJQeVktTGxiZlVVeVlVeS1ydFM0c1VIaVF3WllYVGFndE1JQ1owWFVUVjVGWTF2NWZ3?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261019-10",
+   "title": "イタリア各地で物価高に抗議する大規模デモ",
+   "firstSeen": "2026-10-19",
+   "daysSeen": 2,
+   "history": {
+    "2026-10-19": 15,
+    "2026-10-26": 13
+   },
+   "peak": 15,
+   "worldScore": 13,
+   "worldCoverage": "4/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 13,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.71,
+     "title": "Italy’s Young Protesters Return to the Streets",
+     "desc": "Fed up with the political establishment and rising cost of living, demonstrators hoped to make their message heard after violence overshadowed protests last weekend.",
+     "url": "https://www.nytimes.com/live/2026/10/24/world/france-protests-riots/milan-youth-protests",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Thousands march across Italy as protests bring isolated clashes with police",
+     "desc": "Demonstrations took place in Italy on Saturday over the rising cost of living. No serious clashes were reported, with nine people arrested nationwide.",
+     "url": "https://www.euronews.com/2026/10/25/thousands-march-across-italy-as-protests-bring-isolated-clashes-with-police",
+     "via": null
+    },
+    {
+     "id": "npr",
+     "name": "NPR",
+     "region": "world",
+     "weight": 0.61,
+     "title": "Soldiers guard center of Milan as thousands of protesters march in cities across Europe",
+     "desc": "While protests in France have claimed most international attention, large demonstrations also rocked many European cities Saturday from Milan to Rome to Madrid, Lisbon and Tirana.",
+     "url": "https://www.npr.org/2026/10/25/nx-s1-6016126/thousands-of-protesters-across-europe",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Soldiers guard center of Milan as thousands of protesters march in cities across Europe - AP News",
+     "desc": "Soldiers guard center of Milan as thousands of protesters march in cities across Europe AP News",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUV9xQTg4SlhqSXJkZEM3YXRLVGhsdFpYM0xRZU1yWHdMUGNxZ1BfU2NVb3BrUnVSZ29oYU5PUHpOTHRnaVd3U2RyZHozNUJLZHh5WU9leDRDc3BpT0tQY1FxX1lFNThkYzViNl9CeUtGaU1qcVdXQmRMR1lLblhFZnFRNzJuZHBLWWdROWhVTQ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261026-05",
+   "title": "オバマ氏、米中間選挙演説でトランプ氏批判",
+   "firstSeen": "2026-10-26",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-26": 12
+   },
+   "peak": 12,
+   "worldScore": 12,
+   "worldCoverage": "4/18",
+   "jpScore": 5,
+   "jpCoverage": "1/6",
+   "gap": 7,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.74,
+     "title": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
+     "desc": "Obama said the election was \"the last best chance to at least rein in some of the foolishness of this administration\".",
+     "url": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Midterms: Obama campaigns for Democrats, slams Trump",
+     "desc": "At a rally in Ohio this Saturday, former US president Barack Obama said that Americans were facing higher costs because of decisions made by the administration, including what he described as \"an unnecessary war that nobody asked for and nobody voted for.\"",
+     "url": "https://www.france24.com/en/video/20261025-midterms-obama-campaigns-for-democrats-slams-trump-1",
+     "via": null
+    },
+    {
+     "id": "abc-au",
+     "name": "ABC Australia",
+     "region": "world",
+     "weight": 0.36,
+     "title": "Obama jokes about El-Sayed's 'big guns' as he rallies Detroit",
+     "desc": "Even \"serious\" news outlets such as Axios and The Guardian have reported that El-Sayed is part of the Democrats' midterm strategy of \"bringing sexy back\".",
+     "url": "https://www.abc.net.au/news/2026-10-26/obama-jokes-about-el-sayed-s-big-guns-as-he-rallies-detroit/107306918",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Obama, in Midwest, assails 'cruelty' and indecency from Trump and his allies in the midterm campaign - AP News",
+     "desc": "Obama, in Midwest, assails 'cruelty' and indecency from Trump and his allies in the midterm campaign AP News",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZkp6bHg5OWk2TXZXZndoNmVFcGlkRmktbEtieHpmckduS1BiSFB6dHN4N3dnamM2YUc0OVQ1d2VMSGZOUS1qQzRmRFZuZV9sQ0d5cjBwS1JJemtkRFBIZGdBSFpKVDd0bzdCWEpXSkJkZWE2ek9Pd1E1MXpSN0NVNUQ0enlqcEV6bFFhT1dJNWVjeUlxZHRjZFhtazV5TnpCZlBlUEc0eXA3SGZzQkdn?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.3,
+     "title": "現元米大統領が火花 上院激戦の中西部州で(共同通信)",
+     "desc": "【ポートヒューロン共同】11月3日の米中間選挙に向けて、共和党のトランプ大統領は25日、上院選が激戦となっている中西部ミシガン州で演説した。前日には野党民主党のオバマ元大統領が同州入りし、対イラン作戦",
+     "url": "https://news.yahoo.co.jp/articles/d560a58e898ec02ddfa9bc34904e62da72e471e6?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261026-15",
+   "title": "ブルガリア大統領選、低投票率で決選投票へ",
+   "firstSeen": "2026-10-26",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-26": 11
+   },
+   "peak": 11,
+   "worldScore": 11,
+   "worldCoverage": "4/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 11,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Bulgaria election heads to a run-off amid low voter turnout",
+     "desc": "Bulgarians will now choose between President Iliana Yotova and former caretaker Prime Minister Andrey Gyurov next week.",
+     "url": "https://www.aljazeera.com/news/2026/10/25/bulgaria-election-heads-to-a-run-off-amid-low-voter-turnout?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "dw",
+     "name": "Deutsche Welle",
+     "region": "world",
+     "weight": 0.5,
+     "title": "In Bulgaria, record low voter turnout triggers a November 1 presidential run-off in a poll colored by divisions over Ukraine war",
+     "desc": "Low voter turnout has triggered a run-off for the Bulgarian presidency. The vote was colored by strong divisions over Russia's war in Ukraine, and Sofia's relations with the Kremlin.",
+     "url": "https://www.dw.com/en/in-bulgaria-record-low-voter-turnout-triggers-a-november-1-presidential-run-off-in-a-poll-colored-by-divisions-over-ukraine-war/a-79753496?maca=en-rss-en-world-4025-rdf",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Bulgaria's Yotova narrowly leads Gyurov in first round of presidential election, according to exit polls",
+     "desc": "The campaign has focused on Russia’s invasion of Ukraine and an increase in drone attacks on commercial vessels off Bulgaria's coast in the Black Sea, as well as rising energy prices and inflation.",
+     "url": "https://www.euronews.com/2026/10/25/bulgaria-votes-for-president-in-election-dominated-by-ukraine-war-and-the-economy",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Presidential race in Bulgaria heads to run-off after record low turnout",
+     "desc": "The presidential election in Bulgaria on Sunday ended inconclusively, with the next head of state to be picked in a run-off, according to election officials. A record low turnout, attributed by observers to a general mistrust in politicians resulting in voter apathy, will pit two contrasting political visions against each other in a highly polarised contest on November 1. In a surprisingly strong performance, the candidate of the pro-Western reformist opposition, Andrey Gyurov, will face the...",
+     "url": "https://www.scmp.com/news/world/europe/article/3372095/presidential-race-bulgaria-heads-run-after-record-low-turnout",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261026-22",
+   "title": "英国、カナダ主導の防衛銀行参加を見送り",
+   "firstSeen": "2026-10-26",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-26": 11
+   },
+   "peak": 11,
+   "worldScore": 11,
+   "worldCoverage": "4/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 11,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Britain will not join Canada's defence bank, source says",
+     "desc": "Oct 25 - Britain will not join the Canada-led Defence Security and Resilience Bank, according to a source familiar with the matter, but the two countries said they would develop a framework for cooperation between their respective defence-funding initiatives.",
+     "url": "https://www.straitstimes.com/world/europe/britain-will-not-join-canadas-defence-bank-source-says",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Britain will not join Canada's defence bank, source says - Reuters",
+     "desc": "Britain will not join Canada's defence bank, source says Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdUt0ejc0NEtPd0U5enNlek5yek5Jak91bUlPdGtLY3FzQ2I3THJXTkhpVFYtdVZPUjZwRnY5ZnBGcmp3dGh1d2d2dlBvNExnTlRKZ2pPamp1X0ZBQzNib2ZGcFJZX3FBdWZsUEV6UkhNWG1WYzc1Y3ZBY1Y3X01qaURXejBwWUZIcHZrMDlWd3ptX2ZKX0wwTEJmci1fOWt5My1IZlY2cURXYVE?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "UK’s Healey Ends Talks with Canada to Merge Defense Banks - Bloomberg.com",
+     "desc": "UK’s Healey Ends Talks with Canada to Merge Defense Banks Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRVhNMzlDdzJpanVwdUJRQlVyZ0hWM1FKUTJGc2VXbGIzM1BRdENlckdmSGNJZmZxU3ZlTHBkdG8yUnNNZlpWVkdSNU1Ha0tpUU9kX3FBN3BOMGxTSFduTzN4Q3JpbkZ2b0Q0dmNjU0JJZHlFbVl0NWNvM2lNVldKQ195NFVuQzhyUm13cjBud3R2Sy1jZldnRmxnOHhQb3YxNXhYUVpwMzRrOS0x?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Britain will not join Canada-led defence bank - Financial Times",
+     "desc": "Britain will not join Canada-led defence bank Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWHRPaHg5RUpPbUx3enZOa2p6V0NLRHkzRzZFN3BTUlI2VmtNcjZKTXdxZENJb2xjbDU0N1JVY25VWFBLVXd3WmZCb3JOZUxNeFJRTXV4c0RvVUhBTkZVbkpVQ0FwUGVSUkh1N01JZ1Y5Q1R0VzE1YmJGX1pXY1d4OGJxWjg?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261026-04",
+   "title": "パリ郊外の銃撃事件容疑者を精神鑑定へ",
+   "firstSeen": "2026-10-26",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-26": 10
+   },
+   "peak": 10,
+   "worldScore": 10,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 10,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.88,
+     "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
+     "desc": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said.",
+     "url": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Suspected Trappes gunman moved to police psychiatric unit",
+     "desc": "French President Emmanuel Macron, who visited Trappes on Friday, has described the shooting as a \"racist terrorist attack.\"",
+     "url": "https://www.euronews.com/2026/10/25/suspected-trappes-gunman-moved-to-police-psychiatric-unit",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Deadly shooting in Paris suburb investigated as terrorism, officials say",
+     "desc": "A gunman opened fire from his car in the Paris suburb of Trappes on Friday, in what authorities described as a racially motivated act of terrorism.",
+     "url": "https://www.cbsnews.com/news/gunman-terrorist-attack-paris-suburb/",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261026-07",
+   "title": "ヒトラーゆかりの山荘で火災、男を逮捕",
+   "firstSeen": "2026-10-26",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-26": 10
+   },
+   "peak": 10,
+   "worldScore": 10,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 10,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.65,
+     "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
+     "desc": "Some 200 emergency personnel were deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
+     "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.68,
+     "title": "‘Eagle’s Nest,’ Nazi-Era Guesthouse in German Alps, Is Gutted by Fire",
+     "desc": "The police said on Saturday that the structure, a tourist attraction for decades, was probably not salvageable. A man was arrested in connection with the blaze.",
+     "url": "https://www.nytimes.com/2026/10/24/world/europe/eagles-nest-fire-nazi-germany.html",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "1 arrested after fire at Hitler&#039;s Eagle&#039;s Nest mountain retreat",
+     "desc": "Police said firefighting efforts were hampered due to local conditions.",
+     "url": "https://www.cbsnews.com/news/hitler-eagles-nest-mountain-retreat-fire-nazi/",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261026-08",
+   "title": "メーガン妃の父親巡る疑惑で対応検討",
+   "firstSeen": "2026-10-26",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-26": 10
+   },
+   "peak": 10,
+   "worldScore": 10,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 10,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.85,
+     "title": "Signs suggest Thomas Markle Sr may be ‘sex offender of the grossest kind’, says Philippine minister",
+     "desc": "Exclusive: Forensic analysis of found images continues as Meghan’s father denies possessing child sexual abuse images All signs point to Thomas Markle Sr being a “possible sex offender of the grossest kind” although a full forensic investigation will give a “definitive picture”, the Philippine interior minister has told the Guardian. Authorities in the south-east Asian country are analysing digital images allegedly belonging to the estranged father of the Duchess of Sussex that were said to have been found at his former home in Cebu. Meghan’s half-brother, Thomas Markle Jr, reported to authori",
+     "url": "https://www.theguardian.com/uk-news/2026/oct/25/thomas-markle-sr-philippines-investigation",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Philippines plan ‘appropriate legal action’ against Thomas Markle",
+     "desc": "Philippine police are investigating a laptop found alongside images of child abuse at the former home of Meghan Markle’s estranged father, with “full results” expected in a week, the country’s interior minister told reporters. Thomas Markle, whose daughter is married to Britain’s Prince Harry, had been living in Cebu in the Philippines until reportedly returning to the US earlier this year. Philippine interior minister Jonvic Remulla said the country planned to take “appropriate legal actions”...",
+     "url": "https://www.scmp.com/news/asia/southeast-asia/article/3372089/philippines-plan-appropriate-legal-action-against-thomas-markle",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "U.K. police confirm it received letter with claims against Meghan&#039;s father",
+     "desc": "On Friday, it was reported that Meghan&#039;s father, Thomas Markle, is under investigation by authorities in the Philippines for alleged possession of child sexual abuse materials.",
+     "url": "https://www.cbsnews.com/news/uk-police-letter-claims-meghan-duchess-sussex-thomas-markle-allegations/",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261026-09",
+   "title": "金正恩氏が新橋を渡り訪中",
+   "firstSeen": "2026-10-26",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-26": 10
+   },
+   "peak": 10,
+   "worldScore": 10,
+   "worldCoverage": "3/18",
+   "jpScore": 17,
+   "jpCoverage": "1/6",
+   "gap": -7,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.82,
+     "title": "Kim Jong-un crosses newly opened bridge into China",
+     "desc": "North Korean leader travels over New Yalu River Bridge to meet senior Communist party member Kim Jong-un has visited China, inaugurating a bridge that connects the two countries and saying he hopes to expand cooperation with his neighbour. The North Korean leader arrived in the Chinese border city of Dandong on Saturday after crossing the New Yalu River Bridge, according to South Korea’s unification ministry, which handles affairs related to North Korea, and China’s official Xinhua news agency. Continue reading...",
+     "url": "https://www.theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Kim Jong Un visits China to open new bridge, reaffirm ties",
+     "desc": "The North Korean leader used the trip to reaffirm ties with its powerful neighbor.",
+     "url": "https://www.cbsnews.com/news/north-korea-kim-jong-un-china-visit-bridge/",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "North Korean leader Kim Jong Un visits China to inaugurate a new cross-border bridge - AP News",
+     "desc": "North Korean leader Kim Jong Un visits China to inaugurate a new cross-border bridge AP News",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX0I1TVQybGpFam8xeDVVN1NTdVFha1Q3Und2cjhZbHJnMG1CekZFTWEyMXI2VFNTVHF0MlF5ekIxM3plalZMVU9jVjZHanE2WnozM2xQN2x6WDA2NHh1NUVXRXIwZ2JVczFsQjZ5aXY2VU9tRk1kRWg2bDZpSlJKVzVFaVlhOFc0N0pnOUp0cWVwREY0b1JlZ2xSbw?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 1,
+     "title": "金正恩氏、新鴨緑江大橋渡り突如訪中…血盟の誇示か、朝米会談への布石か(ハンギョレ新聞)",
+     "desc": "北朝鮮の金正恩（キム・ジョンウン）国務委員長による24日の突然の訪中の背景に関心が集まっている。両国の血盟関係を強調する動きだとの解釈と、今後の朝米接触の布石ではないかとの観測が示されている。 金委員",
+     "url": "https://news.yahoo.co.jp/articles/7a2a3de1678e64a3f97297c1d711e6a2fe91e2e3?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261026-14",
+   "title": "暴風雨が欧州北部を直撃、停電など被害",
+   "firstSeen": "2026-10-26",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-26": 10
+   },
+   "peak": 10,
+   "worldScore": 10,
+   "worldCoverage": "4/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 10,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.3,
+     "title": "Two dead and 160,000 properties without power as Storm Boelo batters UK",
+     "desc": "Man aged 60 and another in his 20s killed by falling trees in Scotland and London as Met Office reports gusts of up to 84mph Two people have been killed and more than 160,000 properties have been left without power as Storm Boelo continues to batter the UK. Two men, one aged 60 and the other in his 20s, were killed by falling trees on Sunday, police said. The 60-year-old died in south-west Scotland while the man in his 20s was killed in London . Continue reading...",
+     "url": "https://www.theguardian.com/uk-news/2026/oct/25/storm-boelo-warnings-scotland-northern-ireland-north-of-england-high-winds-uk",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Storms batter northern Europe, cutting power to more than 150,000 homes and disrupting road and air transport",
+     "desc": "Storms Austen and Boelo caused major disruption over the weekend across northern Europe with temporary power cuts to 150,000 homes, people in injured by falling trees and flights and ferries cancelled in several countries from Scotland to Denmark.",
+     "url": "https://www.euronews.com/2026/10/25/storms-batter-northern-europe-cutting-power-to-more-than-150000-homes-and-disrupting-road-",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Storms batter northern Europe, hitting power supplies, flights and phones",
+     "desc": "Storms battered northern Europe on Sunday cutting power to more than 150,000 homes, forcing the cancellation of hundreds of flights and silencing phone networks. Winds of up to 135km (84 miles) an hour were recorded in Argyll and Bute in western Scotland and fallen trees and power cables blocked roads and rail lines across the country. More than 82,000 homes in Britain, nearly 60,000 in France and at least 10,000 in Germany had power cuts inflicted by the passage of storms Boelo and Austen...",
+     "url": "https://www.scmp.com/news/world/europe/article/3372090/storms-batter-northern-europe-hitting-power-supplies-flights-and-phones",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Storms batter Europe hitting power supplies, flights and phones",
+     "desc": "Winds of up to 135 kmh were recorded in Argyll and Bute in western Scotland.",
+     "url": "https://www.straitstimes.com/world/europe/storm-boelo-lashes-britain-cutting-power-and-cancelling-flights",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261026-11",
+   "title": "アウディ、米ジョージア州に新工場建設へ",
+   "firstSeen": "2026-10-26",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-26": 9
+   },
+   "peak": 9,
+   "worldScore": 9,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 9,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.53,
+     "title": "Volkswagen to build $4bn Audi SUV factory in US despite job cuts at home",
+     "desc": "VW investment, creating 4,500 jobs in Georgia, comes amid Trump’s damaging tariffs, intense Chinese competition and costly shift towards EVs Audi has said it will spend $4bn (£3bn) to build its first factory in the US, as its parent company, Volkswagen, struggles with the impact of steep tariffs imposed by Donald Trump. The German brand’s chief executive, Gernot Döllner, joined Trump on stage at a campaign rally on Saturday night to announce the factory in Macon, Georgia, in an unusual move by a big European brand just days before the US midterm elections. Continue reading...",
+     "url": "https://www.theguardian.com/business/2026/oct/25/volkswagen-to-build-4bn-audi-suv-factory-in-us-despite-job-cuts-at-home",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Audi's first US production plant: carmaker strikes deal with Trump",
+     "desc": "Audi is planning its first car factory in the United States, with the Ingolstadt-based manufacturer set to invest billions in a new plant in Georgia.",
+     "url": "https://www.euronews.com/2026/10/25/audis-first-us-production-plant-carmaker-strikes-deal-with-trump",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump announces at a Georgia campaign rally that Audi will build a new auto factory in the state - AP News",
+     "desc": "Trump announces at a Georgia campaign rally that Audi will build a new auto factory in the state AP News",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRTFJejhGVHpHM3RQVWQ4UzVmaWJfSUVsUkJJaENrN1h0bjA0aHhvaDVvREd0QllZQnU1Q3J4RnBKNmg3aVRWRWxBeDNuMmdQRVpKamNEWmQ4bnlxYzJGVTRMdGpjaU5kNGZ1Skt5VE5WNi1Sa1d5UENGVUo1dko1YVM4OGFMcENiTHVBU2RTV0psdks0ZkVzU0N4Nm5IM3BhY2R4ZEN3?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261026-12",
+   "title": "イスラエル軍、ヘブロンで住民を強制立ち退き",
+   "firstSeen": "2026-10-26",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-26": 8
+   },
+   "peak": 8,
+   "worldScore": 8,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 8,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.48,
+     "title": "Israeli soldiers raze neighbourhood in Hebron, driving families from homes",
+     "desc": "PM Benjamin Netanyahu vows ‘to destroy this place’ in retaliation for militant attack on army checkpoint Israeli troops have levelled a neighbourhood in Hebron, driving out hundreds of families in collective punishment for a militant attack on an army checkpoint outside the West Bank city, local Palestinian authorities said. The Hebron municipality estimated that 35 hectares (86 acres) had been destroyed or marked for destruction and about 1,500 people had been evicted from their homes by Saturday afternoon in the district of Ein Deir Baha. The whole city of 250,000 people was sealed off by ch",
+     "url": "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Jerusalem Daily: Israel expels thousands from Hebron",
+     "desc": "Jerusalem Daily: Israel expels thousands from Hebron",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/jerusalem-daily-israel-expels-thousands-from-hebron?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "West Bank: Families forcibly displaced in Hebron",
+     "desc": "More Palestinian families have been displaced in the occupied West Bank as Israeli forces continue operations in Hebron, following a deadly shooting that killed two Israeli soldiers on Friday. With elections scheduled for Tuesday, Prime Minister Benjamin Netanyahu has vowed a heavy response to the attack. Morgaene Ayre has the latest.",
+     "url": "https://www.france24.com/en/west-bank-families-forcibly-displaced-in-hebron",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261015-15",
+   "title": "サウジ、フーシ派の脅威のなか首都空港再開",
+   "firstSeen": "2026-10-15",
+   "daysSeen": 4,
+   "history": {
+    "2026-10-15": 27,
+    "2026-10-19": 16,
+    "2026-10-20": 11,
+    "2026-10-26": 8
+   },
+   "peak": 27,
+   "worldScore": 8,
+   "worldCoverage": "2/18",
+   "jpScore": 19,
+   "jpCoverage": "2/6",
+   "gap": -11,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.85,
+     "title": "Saudi Arabia Reopens Riyadh Airport Even as Houthis Threaten Further Strikes",
+     "desc": "The Houthis, an Iran-backed Yemeni militia, launched several deadly attacks on the airport this month.",
+     "url": "https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Saudi says Riyadh airport partly reopens despite renewed Houthi threats",
+     "desc": "Kingdom intercepts another wave of missiles and drones from Iran-aligned militants on Oct 25.",
+     "url": "https://www.straitstimes.com/world/middle-east/saudi-says-riyadh-airport-partly-reopens-despite-renewed-houthi-threats",
+     "via": null
+    },
+    {
+     "id": "mainichi",
+     "name": "毎日新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "サウジ首都空港、一部再開 フーシ派は「安全ではない」と警告",
+     "desc": "",
+     "url": "https://mainichi.jp/articles/20261026/k00/00m/030/023000c",
+     "via": null
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.65,
+     "title": "サウジ、リヤド空港再開初日にフーシ派攻撃…「ミサイル・ドローン撃墜」(中央日報日本語版)",
+     "desc": "イエメンの反政府組織「フーシ派」の攻撃で閉鎖されていたサウジアラビアの首都リヤドにあるキング・ハーリド国際空港が2週間ぶりに運航を再開した25日（現地時間）、フーシ派によるミサイル・ドローン攻撃が相次",
+     "url": "https://news.yahoo.co.jp/articles/f07d3c23912e50fe392ce241d14f87ca421d27de?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261026-20",
+   "title": "トランプ氏、イランへの対処方針検討に言及",
+   "firstSeen": "2026-10-26",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-26": 8
+   },
+   "peak": 8,
+   "worldScore": 8,
+   "worldCoverage": "3/18",
+   "jpScore": 10,
+   "jpCoverage": "1/6",
+   "gap": -2,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump says he&#039;s weighing deal with Iran against action to \"finish them off\"",
+     "desc": "President Trump said he&#039;s deciding between reaching an agreement with Tehran and taking action to \"finish them off.\"",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-oil-gas-prices-strait-of-hormuz-midterms/",
+     "via": null
+    },
+    {
+     "id": "toi",
+     "name": "Times of India",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump gears up for Iran escalation after US polls; Tehran says position unchanged",
+     "desc": "US President Donald Trump has signaled potential military action against Iran following the upcoming midterm elections. The US has increased its military presence in the Persian Gulf with additional aircraft and troops. Iran is reportedly preparing for retaliation against US and allied interests in the region. Both Trump and Israeli Prime Minister Netanyahu may view renewed conflict as a political strategy.",
+     "url": "https://timesofindia.indiatimes.com/world/us/trump-gears-up-for-iran-escalation-after-us-polls/articleshow/135197451.cms",
+     "via": null
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump Says Decision Time Nears on Iran: Deal or ‘Finish It Off’ - Bloomberg.com",
+     "desc": "Trump Says Decision Time Nears on Iran: Deal or ‘Finish It Off’ Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSWlhSjFRRmFoTWYxSW82enFyZlljYXNEQ1d2TXpFYnRIZmh2N3dCdTZTT3RUWE1zTENzcU9Sd2JnU2FhcS0weVg0NTdFZGF6SXlxRnREMzdQUUpQTlV6Ulk3N195SjdWQ29od0trQzdLamd4ZW9zX1pucEg1bHJjekNrLXdSaHZvQnNoLUczTUkzeEhGSVhNUEVGU1FUXzdiTnFWdHktbzd4TWhITDZNYg?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.62,
+     "title": "NYT「米中間選挙を前に脅威と恐怖が高まる…イランとの全面戦争再燃の恐れ」(中央日報日本語版)",
+     "desc": "最近、米国とイランの間で緊張が高まる中、両国が再び全面戦争に突入する危険性が増していると、米紙ニューヨーク・タイムズ（NYT）が25日（現地時間）に報じた。NYTは、米中間選挙とイスラエル総選挙を前に",
+     "url": "https://news.yahoo.co.jp/articles/b958de41b205cd9dc405017cb5b9a7c3cca11db0?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261026-24",
+   "title": "加BC州選挙で保守党が約1世紀ぶり勝利",
+   "firstSeen": "2026-10-26",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-26": 8
+   },
+   "peak": 8,
+   "worldScore": 8,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 8,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Conservative party wins first election in nearly a century in British Columbia",
+     "desc": "Oct 25 - The opposition Conservative Party won an election in the Canadian province of British Columbia for the first time in nearly 100 years, promising to ramp up liquefied natural gas production, provisional results showed on Sunday.",
+     "url": "https://www.straitstimes.com/world/conservative-party-wins-first-election-in-nearly-a-century-in-british-columbia",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Conservative party wins first election in nearly a century in British Columbia - Reuters",
+     "desc": "Conservative party wins first election in nearly a century in British Columbia Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOHhCM1BKZmZMYUt0TUx3V01rR3czUm5CMUNRNlZNT09oaUxOd0ItWEFZSlhlN3RoeG5aQWcyZElRdEs2cHRMZlpwT1dKRWEwdDBSa2t0bndDakI2TktMRkpkSEVLRGdHdmpFYnZieW51MFM1THF5SWlURC05NVkwWUtiVHRrTlBQQzBqY1loVkdZeFJjRHNtajFUZXRrN2hDRmVxZk12dERMU191NTBjNEFEUVR1OUdIT3hLQmcyNWo?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Mark Carney’s energy ambitions boosted by Conservative victory in British Columbia - Financial Times",
+     "desc": "Mark Carney’s energy ambitions boosted by Conservative victory in British Columbia Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSXBWeUtra0pVY0ZUWWY1R1RmS3JTZkhSeHZkSXJKd3ZrMVo0TURORW4yaThrY2pnOERzaWNsdTJQRktYM3BjaE43OTEtYnhUVTVVME5lM3dHemYwcnRsb2Z3QzBFU3BpMTNwWGNFYUtZT2dOSzF5M1RLeVlXMk1xelFCb0Y?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261026-13",
+   "title": "ヨルダンの教会で銃撃事件、多数死傷",
+   "firstSeen": "2026-10-26",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-26": 7
+   },
+   "peak": 7,
+   "worldScore": 7,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 7,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.39,
+     "title": "Nine killed and 40 injured after gunmen open fire at church funeral in Jordan",
+     "desc": "Footage broadcast on state TV shows three attackers approaching Greek Orthodox church and firing shots Nine people have been killed after gunmen opened fire at a funeral at a church in Jordan in a rare attack ⁠on the country’s Christian minority. Authorities described the attack on Friday as a terrorist act by extremists. Continue reading...",
+     "url": "https://www.theguardian.com/world/2026/oct/24/seven-killed-and-40-injured-after-gunmen-open-fire-at-church-funeral-in-jordan",
+     "via": null
+    },
+    {
+     "id": "npr",
+     "name": "NPR",
+     "region": "world",
+     "weight": 0.3,
+     "title": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40",
+     "desc": "Footage broadcast on Jordanian state television showed three gunmen firing shots at a Greek Orthodox church in the city of Karak on Friday.",
+     "url": "https://www.npr.org/2026/10/24/nx-s1-6015414/shooting-church-jordan",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Jordan church attack survivor says her cousin died before her eyes - Reuters",
+     "desc": "Jordan church attack survivor says her cousin died before her eyes Reuters",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVTFxbDBEOEdFZFEwX29PZzd0QTNuYm11VXE5ekQ1bUgtQjVGeU1lbHdjVG9BR21DcENBLU5BeWFCeERYd2Y4bWp4OHFEclBuWlRUQ3ltUkduNFlQOXNwSTV6ZHJ4Qi02ZGQyakE1a0lfNldTM2RBQ3dVbEJHcWpSWE96b3FKUWstUjh6aExqcTdPMmdhMkRpbEhjcEtpak5YMmFfOThiTmh4ZGd5Z2lGMk1Ucjh0U2lDQjlRZQ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261022-07",
+   "title": "ハイチ発見の遺体は人質否定、エルサルバドル",
+   "firstSeen": "2026-10-22",
+   "daysSeen": 3,
+   "history": {
+    "2026-10-22": 6,
+    "2026-10-23": 7,
+    "2026-10-26": 6
+   },
+   "peak": 7,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.8,
+     "title": "El Salvador president says bodies found in Haiti are not those of hostages",
+     "desc": "Nayib Bukele says bodies delivered to soldiers are \"not our men\" amid search for Salvadorans abducted last week.",
+     "url": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.33,
+     "title": "Remains Found in Haiti During Hunt for Missing Salvadoran Soldiers",
+     "desc": "El Salvador had sent hundreds of troops to find the four men, who disappeared six days ago. The president of El Salvador denied the bodies were those of his soldiers.",
+     "url": "https://www.nytimes.com/2026/10/24/world/americas/salvadoran-soldiers-haiti-dead.html",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261015-07",
+   "title": "ケニアでエボラ出血熱による2人目の死者",
+   "firstSeen": "2026-10-15",
+   "daysSeen": 5,
+   "history": {
+    "2026-10-15": 7,
+    "2026-10-16": 8,
+    "2026-10-19": 7,
+    "2026-10-22": 26,
+    "2026-10-26": 6
+   },
+   "peak": 26,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.62,
+     "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+     "desc": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
+     "url": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "dw",
+     "name": "Deutsche Welle",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Uganda says it has no active Ebola cases, but infections in Kenya and Nigeria are prompting fresh scrutiny",
+     "desc": "Health officials are investigating whether Ebola patients in Kenya and Nigeria crossed paths at Uganda's main airport as conflicting accounts cloud the source of one infection.",
+     "url": "https://www.dw.com/en/uganda-says-it-has-no-active-ebola-cases-but-infections-in-kenya-and-nigeria-are-prompting-fresh-scrutiny/a-79741580?maca=en-rss-en-world-4025-rdf",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261026-10",
+   "title": "ポルトガル警察、住宅問題デモのキャンプ撤去",
+   "firstSeen": "2026-10-26",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-26": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.56,
+     "title": "Portuguese police with dogs and batons dismantle housing protest camps",
+     "desc": "More than 30 people arrested as officers clear at least 100 tents in central Lisbon and about 50 in Porto Police in Portugal have dismantled housing protest camps in Lisbon and Porto, baton-charging campaigners in the early hours of Sunday and arresting more than 30 people. The raids were the latest incident in days of clashes between police and campaigners who – inspired by similar camps in Spain – had sought to pitch tents in central squares to protest against the country’s deepening housing crisis. Continue reading...",
+     "url": "https://www.theguardian.com/world/2026/oct/25/police-portugal-dogs-batons-dismantle-housing-protest-camps",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Demonstrators wounded as police break up Lisbon and Porto housing protest camps",
+     "desc": "The ongoing confrontation between police and protesters demanding affordable housing turned violent overnight. Police again moved in against protest camps in Lisbon and Porto in the early hours of Sunday, with several arrests and injuries reported.",
+     "url": "https://www.euronews.com/2026/10/25/demonstrators-wounded-as-police-break-up-lisbon-and-porto-housing-protest-camps",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261019-19",
+   "title": "ウガンダ、コンゴ帰国者にエボラ隔離措置",
+   "firstSeen": "2026-10-19",
+   "daysSeen": 3,
+   "history": {
+    "2026-10-19": 6,
+    "2026-10-21": 27,
+    "2026-10-26": 6
+   },
+   "peak": 27,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Uganda orders 21-day Ebola quarantine for citizens returning from DR Congo",
+     "desc": "Kampala says country is Ebola free, but Swiss authorities believe a woman diagnosed in Nigeria was infected in Uganda.",
+     "url": "https://www.aljazeera.com/news/2026/10/25/uganda-orders-21-day-ebola-quarantine-for-citizens-returning-from-dr-congo?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Uganda imposes 21-day quarantine on citizens returning from Congo",
+     "desc": "KAMPALA, Oct 25 - Ugandan citizens returning to the country with a history of travel to Democratic Republic of Congo will be quarantined for 21 days, Health Minister Chris Baryomunsi said on Sunday as Uganda tightened Ebola precautions.",
+     "url": "https://www.straitstimes.com/world/uganda-imposes-21-day-quarantine-on-citizens-returning-from-congo",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261026-17",
+   "title": "バーナム英首相、対EU移動の自由議論に言及",
+   "firstSeen": "2026-10-26",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-26": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "UK Prime Minister Andy Burnham wants 'honest discussion' on return to EU free movement",
+     "desc": "Ahead of next month's UK-EU summit, Burnham said he favours an 'honest discussion' about the divisive issue of re-adapting free movement between the UK and the EU. But in an interview in London Sunday Times, he ruled out ever joining the Schengen zone or adopting the Euro.",
+     "url": "https://www.euronews.com/2026/10/25/uk-prime-minister-andy-burnham-wants-honest-discussion-on-return-to-eu-free-movement",
+     "via": null
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Andy Burnham stokes Brexit debate ahead of UK-EU summit - Financial Times",
+     "desc": "Andy Burnham stokes Brexit debate ahead of UK-EU summit Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUVFVc1ZQTXdBREhTWk90TjJGZTMtOXpqX1dqVkZ2TmZoUDRyZjk1TUZUQzZrRnhuc0JXYzJIczdwaXhhVGlHT2k4d3J1RVZwaFEyd09Tc3NHNGl5M0NfZnNXWk8zR3NCRTFUZDRWVlg1Z2hUTXRNcTVPbFZVWlRvMVlmYXE?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261026-18",
+   "title": "トランプ氏、イスラム教徒の米上院候補に反対",
+   "firstSeen": "2026-10-26",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-26": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump cites 9/11 in urging Michigan voters to oppose Muslim Senate candidate El-Sayed",
+     "desc": "US President Donald Trump at a Sunday campaign rally ratcheted up his push to link US Senate candidate Abdul El-Sayed to Muslim extremists, comparing him to the September 11 attackers while saying Democrats would let violent anti-American terrorists into the United States. “I’m here to keep a jihadist, Muslim Brotherhood member from becoming a United States senator,” Trump told a receptive audience in Port Huron, Michigan. If he ‌wins, El-Sayed would be the first Muslim elected to the US Senate....",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3372097/trump-cites-9/11-urging-michigan-voters-oppose-muslim-senate-candidate-el-sayed",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump invokes 9/11 in urging Michigan voters to oppose Muslim Senate candidate El-Sayed - Reuters",
+     "desc": "Trump invokes 9/11 in urging Michigan voters to oppose Muslim Senate candidate El-Sayed Reuters",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbW50b2RKQnYxQ3pEY21lOWdDMTNwTmN6cDFsS1lKVmpWcDZ2U25TVGlELXpFMkZoOXJhU1R4WUF5NHNISmNKejJ2VnFnckRaUWlrVi04SFQxT2xOS19qQWM0ZkZsVmlpOFBjUVlNN3gxU2Y4aTRsZGtLRXZfWlVSV0xoSXd1em0xUUlfZzlIVDJGOElMdlpvVVY3ZGFDcjRGaDRQMlVR?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261015-04",
+   "title": "ローマ教皇、イエメンでの暴力停止を呼びかけ",
+   "firstSeen": "2026-10-15",
+   "daysSeen": 3,
+   "history": {
+    "2026-10-15": 28,
+    "2026-10-19": 31,
+    "2026-10-26": 6
+   },
+   "peak": 31,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "toi",
+     "name": "Times of India",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Pope Leo urges end to Yemen violence after lung cancer surgery",
+     "desc": "",
+     "url": "https://timesofindia.indiatimes.com/world/rest-of-world/pope-leo-urges-end-to-yemen-violence-after-lung-cancer-surgery/articleshow/135192155.cms",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Pope Leo calls for Yemen violence to end, in address two weeks after surgery",
+     "desc": "hE was particularly concerned about the humanitarian situation in the south-western Yemeni city of Taiz.",
+     "url": "https://www.straitstimes.com/world/europe/pope-leo-calls-for-yemen-violence-to-end-in-address-two-weeks-after-surgery",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261014-23",
+   "title": "米ミサイル攻撃警告のウクライナ提供が再開",
+   "firstSeen": "2026-10-14",
+   "daysSeen": 5,
+   "history": {
+    "2026-10-14": 6,
+    "2026-10-19": 12,
+    "2026-10-21": 14,
+    "2026-10-23": 16,
+    "2026-10-26": 6
+   },
+   "peak": 16,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Zelensky says US warnings on ballistic strikes have fully resumed",
+     "desc": "The warnings are critical to Ukraine's air defences.",
+     "url": "https://www.straitstimes.com/world/europe/zelenskiy-says-us-warnings-on-ballistic-strikes-have-fully-resumed",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Zelenskiy says US warnings on ballistic strikes have fully resumed - Reuters",
+     "desc": "Zelenskiy says US warnings on ballistic strikes have fully resumed Reuters",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVlJXU0EwamQyaDFJX05mT0UxSlNjMlBZTG9DN184ejRsOWMtSmJiVUtsVW1fV2NlVFBmUG1TVV9UVmRYZm5WcFhpOU9EV3hZWXF4R2ZFMVFkOUFPUmxOQTRMR2R6WGlFVVIyTDZJNTZqajFxaVphUjlhM3JqMkVRUUJKWTJqbm5aT0pkYmJqU3poanNDM0tkRkVvOUwySmx1UUdsZkR5MlVQVjRRU18ycnRDbDBscmpxTDdHYUFrUQ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261026-21",
+   "title": "アルジェリア、ニジェールへ部隊派遣へ",
+   "firstSeen": "2026-10-26",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-26": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
+     "desc": "ALGIERS, Oct 25 - Algeria's parliament approved a resolution on Sunday authorising the deployment of army units to Niger, a parliamentary statement said, in what would mark Algeria's first foreign troop deployment since it sent forces to support Egypt in the 1973 war.",
+     "url": "https://www.straitstimes.com/world/middle-east/algeria-to-send-troops-to-niger-in-first-foreign-deployment-since-1973",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Algeria to send troops to Niger in first foreign deployment since 1973 - Reuters",
+     "desc": "Algeria to send troops to Niger in first foreign deployment since 1973 Reuters",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPU0lJZ29paHVHYVJsR1ZCMnJ4MHFia1VjMjZMc2VFWDFfUHdjUVlNUXplaUQzTWdMc0gzRV8zLTBIQWg5R1ctZEN4M0RRWEVKbmllZEVXc1BpQ2FmMXF3TGNlenVnOEc1bEN0R0FvMklJWXNCLWNtTmlGMTc1Yi1sb1VHbF9mMm1OcVYtVFF6MmJLVmE3aHV2NzdNdzI0cEFURnR3eDd1VkpTeTNEOF9J?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261022-16",
+   "title": "米中間選挙でエプスタイン問題巡り追及",
+   "firstSeen": "2026-10-22",
+   "daysSeen": 2,
+   "history": {
+    "2026-10-22": 8,
+    "2026-10-26": 6
+   },
+   "peak": 8,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Epstein haunts GOP in US midterms as Democrats vow fresh probes",
+     "desc": "Any probe would ripple well beyond Washington, with Wall Street and corporate USA already bracing for a wave of Democratic investigations.",
+     "url": "https://www.straitstimes.com/world/united-states/epstein-haunts-gop-in-us-midterms-as-democrats-vow-fresh-probes",
+     "via": null
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Epstein Haunts GOP in Midterms as Democrats Vow Fresh Probes - Bloomberg.com",
+     "desc": "Epstein Haunts GOP in Midterms as Democrats Vow Fresh Probes Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVTh0Sm1CWV9obk5XOWlFSlJ6Zk5HWDNEc0hZU01mZTBuZ0RWZVR1UW9Ib0M4RWRnOEhfVDl6V1RDWmhLUWVWei1jWGRvRVByeTBZYk5XQkJ5WDMzRXZINlM2SVJ0WnVJMFVKbnVyQlhhNl9VRzNLZTZobzBwdGhETWZTQzBIOEpkOXRQb3FxbW04bHVCS0FMOC1OM0ZGemFfRUpoMF84LUI2VWVBc1BkVw?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261026-23",
+   "title": "チェコで公共メディア改革に抗議デモ",
+   "firstSeen": "2026-10-26",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-26": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Thousands protest Czech government’s public media overhaul after rushed vote",
+     "desc": "Critics said the government's move to abolish household fees will leave broadcasters vulnerable to political pressure.",
+     "url": "https://www.straitstimes.com/world/europe/thousands-protest-czech-governments-public-media-overhaul-after-rushed-vote",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Thousands protest Czech government's public media overhaul after rushed vote - Reuters",
+     "desc": "Thousands protest Czech government's public media overhaul after rushed vote Reuters",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNU3NtVE4za2c1ckhEX0F1Vm5FTExqYnIwRExMVkJvT2owY21CZFlLWFh5bGF1eWlaX0w2RUVua0hrVHcwQnRXTXh5NFlNbF9pektuU1Bzc2hrV1VuYWJpOEZLSlVId3Q4dmZicnlNX2t4M3RPdFA0NHNlQ2tRY2JibzZRaFAtQmF5LVNKbEhuYXdLcHZUcjIxRl9reWdpZlJUX2Vkd2M3aXlsMUwyQ1ljZnlWMFdycEpoTjJzLUoyUFJfWlkwZGZvX2hjOGVpRlE?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261015-03",
+   "title": "アルバニア首都で抗議デモが継続",
+   "firstSeen": "2026-10-15",
+   "daysSeen": 3,
+   "history": {
+    "2026-10-15": 16,
+    "2026-10-19": 22,
+    "2026-10-26": 6
+   },
+   "peak": 22,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Fresh protests in Tirana, despite new measures to curb unrest",
+     "desc": "TIRANA, Oct 25 - Protesters poured onto the streets of Tirana on Sunday hours after Prime Minister Edi Rama announced new measures to stem a wave of anti-government demonstrations.",
+     "url": "https://www.straitstimes.com/world/europe/fresh-protests-in-tirana-despite-new-measures-to-curb-unrest",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Fresh protests in Tirana, despite new measures to curb unrest - Reuters",
+     "desc": "Fresh protests in Tirana, despite new measures to curb unrest Reuters",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcmxpeUR1eDhSRi12WWFqNjJpTWNpWll5NVVqQTFHQ2x1b3hMRE13WGhvTFFDdWJfU3lFVGlkSF9yMjhlMFY1eWFfX05Sa08wQ0NUMnpRQW81aGZ1NktFc21jNThEUU80R3BKZGExZGFlVFNwcWZtU1VSMzUydWtSZ3V2TTJKbEx3TktrVE5STUxGWmRQcXVSVHlhb3o?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261026-19",
+   "title": "沖縄の女性殺害事件で米兵を起訴",
+   "firstSeen": "2026-10-26",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-26": 3
+   },
+   "peak": 3,
+   "worldScore": 3,
+   "worldCoverage": "1/18",
+   "jpScore": 28,
+   "jpCoverage": "2/6",
+   "gap": -25,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US Marine indictment in Okinawa murder trial renews anti-base movement",
+     "desc": "Prosecutors indicted a 20-year-old US Marine on Sunday on suspicion of robbing and murdering a woman in Okinawa earlier this month as the case renews anti-base sentiment among locals burdened with hosting the bulk of US military installations in Japan. Devin Ballard, who is stationed at Futenma Air Base, is charged with killing the woman by wrapping a phone cord around her neck at a hotel in Naha, the capital of the southern island prefecture, and taking her backpack containing a wallet on...",
+     "url": "https://www.scmp.com/news/asia/east-asia/article/3372075/us-marine-indictment-okinawa-murder-trial-renews-anti-base-movement",
+     "via": null
+    },
+    {
+     "id": "asahi",
+     "name": "朝日新聞",
+     "region": "jp",
+     "weight": 0.88,
+     "title": "米兵を強盗殺人の罪で起訴 事件後に基地へ戻り、着替えて外出か",
+     "desc": "",
+     "url": "http://www.asahi.com/articles/ASVBR2R8PVBRUTIL00LM.html?ref=rss",
+     "via": null
+    },
+    {
+     "id": "yahoo",
+     "name": "Yahoo!ニュース主要",
+     "region": "jp",
+     "weight": 0.8,
+     "title": "女性殺害 米兵関与一部ほのめかす",
+     "desc": "",
+     "url": "https://news.yahoo.co.jp/pickup/6600136?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261015-31",
+   "title": "世論調査で高市内閣支持率は横ばい",
+   "firstSeen": "2026-10-15",
+   "daysSeen": 3,
+   "history": {
+    "2026-10-15": 0,
+    "2026-10-20": 0,
+    "2026-10-26": 0
+   },
+   "peak": 0,
+   "worldScore": 0,
+   "worldCoverage": "0/18",
+   "jpScore": 25,
+   "jpCoverage": "3/6",
+   "gap": -25,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "asahi",
+     "name": "朝日新聞",
+     "region": "jp",
+     "weight": 0.48,
+     "title": "世論調査からみた高市内閣 政権1年で変わる支持率の足元",
+     "desc": "",
+     "url": "http://www.asahi.com/articles/ASVBR2GH7VBRUTFK00JM.html?ref=rss",
+     "via": null
+    },
+    {
+     "id": "mainichi",
+     "name": "毎日新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "「次の首相にふさわしい人」 高市氏がトップ 毎日新聞世論調査",
+     "desc": "",
+     "url": "https://mainichi.jp/articles/20261025/k00/00m/010/211000c",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "高市内閣支持率、横ばい62% 簗前農相の辞任「首相対応に問題」48% - 日本経済新聞",
+     "desc": "高市内閣支持率、横ばい62% 簗前農相の辞任「首相対応に問題」48% 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KbnJjRmZMbkpKNmZ6WHoyUXU0ZGN6T3hyV2FTUEtNZFVWTkV3LVI5MDNOLUhaNi1kMTk1Ukg5cnhKRnlvQ3R1NnZNWTVJVmhuci0ydzc0UFRRam52VzloTk5TczJUTkZsN1ZwdQ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261026-25",
+   "title": "兵庫県議補選で元副知事の片山氏が落選",
+   "firstSeen": "2026-10-26",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-26": 0
+   },
+   "peak": 0,
+   "worldScore": 0,
+   "worldCoverage": "0/18",
+   "jpScore": 14,
+   "jpCoverage": "2/6",
+   "gap": -14,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "asahi",
+     "name": "朝日新聞",
+     "region": "jp",
+     "weight": 0.36,
+     "title": "斎藤知事支えた片山氏敗れる 自民系前市議が初当選 兵庫県議補選",
+     "desc": "",
+     "url": "http://www.asahi.com/articles/ASVBQ45SSVBQOXIE01MM.html?ref=rss",
+     "via": null
+    },
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "片山元副知事が落選 斎藤氏の元側近―兵庫県議補選",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026102500449&g=pol&m=rss",
+     "via": null
+    }
+   ]
+  }
+ ]
+}
