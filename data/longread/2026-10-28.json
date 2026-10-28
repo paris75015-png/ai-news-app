@@ -1,0 +1,187 @@
+{
+ "date": "2026-10-28",
+ "theme": {
+  "id": "society",
+  "label": "社会"
+ },
+ "generatedAt": "2026-10-28T00:45:57.645Z",
+ "model": "gemini-3.5-flash",
+ "trial": true,
+ "feeds": [
+  {
+   "feed": "The Conversation",
+   "ok": true,
+   "count": 15
+  },
+  {
+   "feed": "The Guardian（長文読み物）",
+   "ok": true,
+   "count": 4
+  },
+  {
+   "feed": "The Guardian（社会）",
+   "ok": true,
+   "count": 22
+  },
+  {
+   "feed": "Spiegel International",
+   "ok": true,
+   "count": 1
+  },
+  {
+   "feed": "BBC",
+   "ok": true,
+   "count": 25
+  },
+  {
+   "feed": "Deutsche Welle",
+   "ok": true,
+   "count": 10
+  },
+  {
+   "feed": "Al Jazeera",
+   "ok": true,
+   "count": 25
+  }
+ ],
+ "counts": {
+  "articles": 102,
+  "topics": 29
+ },
+ "alsoRan": [
+  {
+   "topic": "筋トレブームの歴史的背景と現代のトレンド",
+   "outlets": 1,
+   "jpCount": 0,
+   "priority": 3.2
+  },
+  {
+   "topic": "遺伝子選別技術と優生学をめぐる倫理的議論",
+   "outlets": 1,
+   "jpCount": 0,
+   "priority": 3.2
+  },
+  {
+   "topic": "ロンドン・オックスフォード街の歩行者天国化",
+   "outlets": 1,
+   "jpCount": 4,
+   "priority": 3.2
+  },
+  {
+   "topic": "英国における介護手当制度の改革議論",
+   "outlets": 1,
+   "jpCount": 0,
+   "priority": 1.6
+  },
+  {
+   "topic": "サッカーのエムバペ選手による毛沢東発言騒動",
+   "outlets": 1,
+   "jpCount": 26,
+   "priority": 0.9
+  }
+ ],
+ "topics": [
+  {
+   "rank": 1,
+   "topic": "パプリカの色による栄養価や風味の違い",
+   "theme": "society",
+   "priority": 3.2,
+   "world": {
+    "outlets": [
+     "The Conversation"
+    ],
+    "analysisOutlets": [
+     "The Conversation"
+    ],
+    "firstDate": "2026-10-22",
+    "lastDate": "2026-10-22"
+   },
+   "jp": {
+    "query": "パプリカ 色 栄養",
+    "count": 0,
+    "headlines": []
+   },
+   "bodyCount": 1,
+   "sources": [
+    {
+     "outlet": "The Conversation",
+     "kind": "analysis",
+     "date": "2026-10-22",
+     "url": "https://theconversation.com/whats-the-difference-between-green-yellow-and-red-capsicums-its-more-than-what-you-see-292116",
+     "headline": "What’s the difference between green, yellow and red capsicums? It’s more than what you see",
+     "access": "body",
+     "text": "Raw, grilled, roasted, stuffed – there are many ways to enjoy capsicums, also called bell peppers, sweet peppers or paprika.\nCapsicums originated in Central and South America and belong to the nightshade family along with tomatoes and eggplants.\nLike tomatoes, we consider capsicums a vegetable because they’re lower in sugar than most fruits and are usually eaten in savoury dishes. But botanically speaking, capsicums are a fruit – more specifically, a berry – because they develop from a flower and contain seeds.\nSpicy chilli peppers such as jalapeño, bird’s eye and many others are also a type of capsicum. What makes these spicy is the molecule capsaicin, which activates heat and pain receptors on our tongue. Capsicums are sometimes called sweet peppers because they don’t contain capsaicin.\nYou might think green, yellow, orange and red are different types of capsicum, but they’re all actually the same fruit. All capsicums start out green, and their colour changes to yellow, then orange and finally red as they ripen.\nBut the difference between the colours isn’t just superficial – it affects nutrition, flavour and more.\nThe link between colour and flavour\nFirst, let’s bust the myth that a capsicum with three bumps on the bottom is “male” and one with four bumps is “female”, and therefore sweeter. This is entirely false. Fruits don’t come with male and female parts the way flowers do. A capsicum will typically have two to five lobes (bumps). The shape mostly depends on the genetics of the plant and doesn’t affect the flavour.\nBut colour does affect a capsicum’s flavour because this reflects how ripe the capsicum was when it was picked.\nA capsicum starts out green because it contains lots of chlorophyll, the pigment that makes plants green. Chlorophyll is the plant chemical of photosynthesis and makes energy for the capsicum to grow. As a capsicum ripens, chlorophyll breaks down and is replaced by carotenoids: yellow, orange and red pigments. Green capsicums also contain some carotenoids, but these colours are hidden by chlorophyll.\nGreen capsicums are ready to be picked about eight weeks after planting. Because they are not ripe, they are slightly bitter with a firm, crunchy texture. They suit stir-fries, fajitas, casseroles and add crunch to salads.\nYellow and orange capsicums are in the middle of ripening and are picked roughly two (yellow) and three (orange) weeks after green capsicums. These have a mild, sweet flavour. They are quite crisp when raw – great for adding colour to salads and lunchboxes. They soften when cooked, so are also good on the barbecue.\nRed capsicums are the ripest, having stayed on the plant four weeks longer than green capsicums. They are the sweetest and richest in flavour, and the softest when cooked. They are excellent for roasting, soups and dips.\nGreen capsicums are the firmest, so they’re great for stir fries.\nvicinoaj/Getty Images\nColour affects nutrients too\nAll capsicums have several health benefits and are nutrient rich. They contain lots of vitamin C and antioxidants such as flavonoids, phenolic compounds and carotenoids. Capsicums are also a good source of fibre, which supports digestive health.\nBut there are differences in nutritional benefits based on colour, and whether you eat the peppers raw or cooked.\nCarotenoids – particularly capsanthin, beta-carotene, lutein, violaxanthin and zeaxanthin – impact the colour of capsicums based on the proportions in which they’re present. All carotenoids and chlorophyll are antioxidants, but with different health benefits.\nGreen, yellow and orange capsicums are rich in lutein, violaxanthin and zeaxanthin. These are essential for eye health and protect against age-related macular degeneration and cataracts.\nCompound Interest, CC BY-NC-ND\nOrange and red capsicums have the highest vitamin C and beta-carotene. Beta-carotene gets converted to vitamin A in the body, which is important for good cell health, vision, and immune and cognitive functions.\nRed capsicums contain the most capsanthin, the carotenoid with the strongest antioxidant activity. This protects our body’s cells against damaging free radical chemicals.\nFor all capsicums, cooking increases the availability of carotenoids and polyphenols but reduces vitamin C. For the greatest nutritional benefits, it’s best to eat a combination of raw and cooked capsicums of different colours.\nIn fact, eating a rainbow of fruits and vegetables provides many beneficial compounds. We have measured carotenoids in the skin using a non-invasive device to assess vegetable intake, because most Australians don’t eat enough fruit and vegetables.\nPeppers can also have more than one colour at the same time.\nIrina Khabarova/Getty Images\nAll capsicums are good capsicums\nIt’s interesting to note a capsicum’s colour can also affect its price.\nGreen capsicums are usually the cheapest because they’re picked earlier, which makes them cheaper to grow. Red capsicums remain on the plant the longest, increasing growing costs. However, yellow capsicums are typically the most expensive, as they’re harder to grow with a shorter picking period.\nA cheaper and equally healthy option is “imperfect” capsicums. Two-toned capsicums, for example part green and part orange, provide a greater mix of different carotenoids. Malformed capsicums are only imperfect in appearance, not flavour or health benefits.\nUltimately, all capsicums, whether red, green, yellow or orange, and raw or cooked, are a nutritious choice.",
+     "method": "direct"
+    }
+   ]
+  },
+  {
+   "rank": 2,
+   "topic": "韓流ドラマにおけるアフリカのステレオタイプ",
+   "theme": "society",
+   "priority": 3.2,
+   "world": {
+    "outlets": [
+     "The Conversation"
+    ],
+    "analysisOutlets": [
+     "The Conversation"
+    ],
+    "firstDate": "2026-10-22",
+    "lastDate": "2026-10-22"
+   },
+   "jp": {
+    "query": "韓流ドラマ アフリカ 描写",
+    "count": 0,
+    "headlines": []
+   },
+   "bodyCount": 1,
+   "sources": [
+    {
+     "outlet": "The Conversation",
+     "kind": "analysis",
+     "date": "2026-10-22",
+     "url": "https://theconversation.com/how-k-dramas-use-africa-as-a-backdrop-to-boost-south-koreas-image-292171",
+     "headline": "How K-dramas use Africa as a backdrop to boost South Korea’s image",
+     "access": "body",
+     "text": "The success of South Korean popular music or K-pop continues to power the Hallyu Wave, a term that describes the global obsession with the country’s pop culture production.\nBut before K-pop came the spread of K-drama, TV series from the country, starting in the late 1990s. By 2024 the melodrama Queen of Tears ranked as the most watched Korean series on Netflix, becoming the 14th most watched show of all time on the streaming service. It followed on the success of many other hits like Crash Landing on You and Marry My Husband.\nK-drama has led to the development of another trend: Africa repeatedly appears as a homogeneous place full of savage danger or childish immaturity, and in need of a Korean saviour.\nAs a scholar of film and media, with a specific interest in global Black art and film practices, I recently studied how and why Africa became this trope in K-drama. This is particularly true in rags-to-riches romance stories and melodramas.\nI traced Africa’s presence in three K-dramas – Shooting Stars (2022), Marry My Husband (2024) and Queen of Tears (2024). In them, Africa appears in three different negative ways:\nin need of charity\na place of rebellion and savagery\na place of punishment for a “troubled” child.\nMy intention wasn’t to say why these portrayals are bad, but rather to understand what they reveal about South Korea. How they function as a scale for measuring and emphasising South Korea’s own development.\nNo longer the poor post-war country of the late 1950s, South Korea can now position itself among leading world powers. It has grown in the global economic and cultural landscapes.\nYet, as I argue in my study, what allows countries like this to define their developmental status is their ability to distinguish themselves from Africa. I propose that Africa’s presence in K-dramas is as a place maker, or specifically image-maker. Africa’s “savage” presence serves as a way of distinguishing the emerging soft power of South Korea, where what benefits the country’s global image is the ability to provide aid to Africa.\nA place to do good\nIn his book On the Postcolony, Cameroonian philosopher Achille Mbembe describes Africa as Europe’s “signifier”. This means that the way Europe comes to know and define itself is only possible through how it defines itself against Africa.\nBut my study contributes to showing that this is not just the case in the west. The ever-growing presence of eastern soft powers such as China and South Korea means that longstanding stereotypes of Africa have found new sites of replenishment.\nThere are some major threads that connected Africa’s presence in the K-dramas I studied. One is its portrayal as a place where non-Africans could go to build character by participating in volunteer work as part of an NGO. In Marry my Husband, for example, the show’s antagonist Oh Yu-ra loses her job in the family business and is sent to “join a volunteer foundation in Africa to build character”.\nIn Shooting Stars, this idea of Africa as the epicentre of charity is even more apparent. The show’s opening sequence features the main character digging wells in Africa. He’s accompanied by smiling village children and a sound that one viewer described as “Lion King music”.\nIn both shows, South Korea is personified through the characters sent to Africa. While Yu-ra is sent as punishment, the character in Shooting Stars is an actor whose volunteer trip aids in his public image in South Korea. Africa becomes what builds the image and character of others, but only by being relegated to a cliché.\nYu-ra’s punishment shows how Africa becomes the K-drama’s vessel to hold the unwanted or defamed of other nations. It collects what disrupts the happiness of romance and, by extension, of nation-making, in South Korea. This figuration of the continent reappears in Queen of Tears.\nA lawless continent\nQueen of Tears does not follow the Asian-saviour-in-Africa trope. Instead, it presents Africa as a place for youthful inhibitions, with no sense of order or rule of law. The ideal place for the kinds of behaviours that might be illegal in the more “civilized” South Korean society that the character exists in.\nIn Africa’s brief cameo in the show’s third episode, the younger brother of the show’s protagonist, Soo-Cheol, reminisces on his rebellious days:\nI’m reminded of when I went to Africa. My twenties were filled with wildness and barbarism.\nWhen chided that he stayed in his hotel for most of the trip, Soo-Cheol comments, “I had enough of the wildness just looking out of the window.”\nA character recalls being sent to Africa.\nScreengrab/tvN/Studio Dragon/Queen of Tears\nHere, Africa is understood in proximity to danger and savagery. Is it that there are no crime, criminals, or places and people in need of saving in South Korea? The obvious answer is no, but as my study finds, when viewed through these shows, the answer reads more like, “Compared to Africa, yes.”\nWhere will Africa go next?\nThis treatment of Africa began long before the shows in my study. Africa’s character-building qualities appear, for example, in the 2018 film Burning. The film’s female protagonist goes on a “soul-searching” quest to find life’s greater meaning.\nIn unscripted variety shows, African immigrants living in South Korea, like Sam Okyere or Jonathan Yiombi, often feature as hosts or guests, but not without their share of racist backlash.\nOkyere, for example, was subject to racist comments after criticising a video of South Korean students recreating a popular video from his home country, Ghana. The same happened to Yiombi after South Korea was eliminated from the football World Cup because the DRC, his country of birth, defeated Uzbekistan, indirectly causing South Korea to be eliminated.\nFor better or worse, Africa’s metaphorical and literal presence has come to occupy South Korea’s cultural and aesthetic imagination. Despite Africa also being a continent full of modern urban life, cultural riches and innovation, the clichés remain.\nRead more:\nStreaming giants have helped bring Korean dramas to the world – but much is lost in translation\nThis presence is only possible through the expected and invented image of the savage, helpless and primitive, who is in need, even after independence, of more civilising. And not only from western colonial powers, but also from the growing economies of the east.\nA symbol of lack\nK-dramas are increasingly popular in Africa, yet when constantly viewed this way, Hallyu’s success in Africa comes with a heavy representational price.\nDespite their engagement with K-drama, African audiences can only ever seem to see themselves represented through a colonial gaze that benefits South Korea’s pursuit of global power. Africa then, while continuing to build South Korea’s cultural capital, can only ever exist as a symbol of lack.",
+     "method": "direct"
+    }
+   ]
+  },
+  {
+   "rank": 3,
+   "topic": "米国における死刑執行の増加傾向とその背景",
+   "theme": "society",
+   "priority": 3.2,
+   "world": {
+    "outlets": [
+     "The Conversation"
+    ],
+    "analysisOutlets": [
+     "The Conversation"
+    ],
+    "firstDate": "2026-10-22",
+    "lastDate": "2026-10-22"
+   },
+   "jp": {
+    "query": "アメリカ 死刑執行 増加",
+    "count": 0,
+    "headlines": []
+   },
+   "bodyCount": 1,
+   "sources": [
+    {
+     "outlet": "The Conversation",
+     "kind": "analysis",
+     "date": "2026-10-22",
+     "url": "https://theconversation.com/americas-death-penalty-why-executions-are-rising-again-294709",
+     "headline": "America’s death penalty: why executions are rising again",
+     "access": "body",
+     "text": "After two decades of decline, the number of executions in the United States began rising sharply again in 2025. Last year, 47 people were put to death – the highest number in more than 15 years. So far in 2026, another 31 people have been executed.\nThe resurgence comes amid renewed controversy over capital punishment, following the failed execution of Christa Pike in Tennessee and a proposal to livestream a military execution, which President Donald Trump subsequently walked back.\nBut according to Carolyn Strange, emeritus professor of history at the Australian National University, these controversies have striking precedents in American history.\nPike is not the first person to survive an execution attempt. In 1946, Willie Francis survived the electric chair in Louisiana. After an unsuccessful legal challenge, the state executed him in 1947.\nStrange says the history of capital punishment in the US is marked by repeated attempts to make executions more humane – or at least appear that way. From the electric chair to lethal injections, new methods were introduced with the promise of making death quicker and more efficient.\nLethal injection, for example, has the appearance of an ordinary medical procedure. “It seems normal, it seems clean, it seems clinical, civilised,” Strange says.\nYet Pike’s case raises questions about whether the method has lived up to that promise.\nStrange also argues it’s misleading to talk about a single American approach to the death penalty.\nIt’s really better to talk about the death penalty in the disunited states.\nWhile some states abolished capital punishment more than a century ago, others continue to embrace it. Florida, under governor Ron DeSantis, has been responsible for a substantial share of the recent rise in executions. In 2025, Florida carried out 19 executions – 40% of the year’s total.\nAnd while support in the US for the death penalty has declined over recent decades, the issue remains deeply divisive. For Strange, the history of capital punishment reveals something fundamental about American politics:\nThe most important thing is that capital punishment and the death penalty is about politics, not justice.\nDisclosure statement\nCarolyn Strange does not work for, consult, own shares in or receive funding from any company or organisation that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment.\nCredits\nThis episode of The Conversation Weekly was written and produced by Grace Jennings-Edquist and Justin Bergman, with production help from Gemma Ware and Isabelle Podwinski. Mixing by Dan Semo and theme music by Neeta Sarl.\nNewsclips in this episode from PBS News Hour, WSMV, KCRA 3 and CBS News.\nListen to The Conversation Weekly via any of the apps listed above, download it directly via our RSS feed or find out how else to listen here. A transcript of this episode is available via the Apple Podcasts or Spotify apps.",
+     "method": "direct"
+    }
+   ]
+  }
+ ]
+}
