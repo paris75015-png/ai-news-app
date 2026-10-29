@@ -1,0 +1,855 @@
+{
+  "date": "2026-10-29",
+  "stream": "ai",
+  "title": "AI日報",
+  "generatedAt": "2026-10-29T14:51:08.540Z",
+  "model": "gemini-3.5-flash-lite / gemini-3.5-flash / openai/gpt-oss-120b",
+  "editorialVersion": 12,
+  "categories": [
+    {
+      "id": "ai",
+      "label": "AI",
+      "desc": "AIモデル・AIサービス・AI企業の動向"
+    },
+    {
+      "id": "it",
+      "label": "IT",
+      "desc": "ソフトウェア開発・ネットサービス・セキュリティ・デバイス・通信（AIが主題のものは除く）"
+    },
+    {
+      "id": "science",
+      "label": "科学",
+      "desc": "研究成果・医療・宇宙・環境・エネルギー技術"
+    }
+  ],
+  "articles": [
+    {
+      "id": "eebb63f2228b",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
+      "headline": "Google、Gemini 4 Carbon提供開始し59点獲得で指標1位と発表",
+      "originalTitle": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
+      "outlet": "artificialanalysis.ai",
+      "region": "overseas",
+      "category": "ai",
+      "score": 92,
+      "tier": "must",
+      "pubDate": "2026-10-29T12:41:56.000Z",
+      "body": null,
+      "summary": "GoogleはGemini 4 Carbonを選択ユーザー向けに提供開始し、Artificial Analysis Intelligence Index v5で59点を獲得して1位となったことを発表した。複雑な推論、知識、科学タスクで上位の評価を受け、他のGeminiシリーズと比較してコーディングや知識作業のスコアは向上したものの、全領域でトップではない。\n\n同指数のコーディングエージェント部門であるArtificial Analysis Coding Agent Indexでは、Claude Opus 5.5に3点差で2位となり、Terminal‑Bench 4.0とFrontierCode v1.1でもClaude Opus 5.5に次ぐ順位を維持した。Googleは過去この分野で低評価だったため、今回の順位上昇は特筆すべき改善と評価されている。\n\n知識作業評価（AA‑Briefcase）では、Gemini 4 Carbon（high）がEloスコア1609を記録し、前モデルGemini 4 Argon（high）の1483から126点上昇した。プレゼンテーションスコアは293 Elo上昇し、分析品質は120点向上したが、Grok 4.7やMuse Wonder、Kimi K3.1 Proなどにはまだ劣る。\n\n標準価格は1Mトークンあたり$4/$20で、現在50％割引が適用されている。Intelligence Indexタスクあたりのコストは$7.76でClaude Opus 5.5（$10.04）より約23％安く、使用トークン数も29％少ない。コンテキストウィンドウは1Mトークン、テキスト・画像・動画・音声入力に対応し、出力はテキストのみである。",
+      "sources": [
+        {
+          "outlet": "artificialanalysis.ai",
+          "url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
+          "date": "2026-10-29",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": "https://news.ycombinator.com/item?id=50288019",
+      "summarizedBy": "openai/gpt-oss-120b"
+    },
+    {
+      "id": "b126d7721238",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+      "headline": "Microsoft、Azure売上を33.2億ドルで公表　前年同期比48％増",
+      "originalTitle": "Microsoft just shared Azure's actual revenue in dollars: $33.2 billion",
+      "outlet": "TechCrunch",
+      "region": "overseas",
+      "category": "it",
+      "score": 88,
+      "tier": "must",
+      "pubDate": "2026-10-28T21:58:32.000Z",
+      "body": null,
+      "summary": "Microsoftは2023年7月から9月の四半期におけるAzureの売上を、初めてドル金額で33.2億ドルと公表した。これは前年同期比で48％増加したことを示す。Azureの売上額が明らかになったことで、投資家はAmazon Web ServicesやGoogle Cloudと直接比較できるようになった。\n\n同じ期間にAlphabetが報告したGoogle Cloudの売上は30.7億ドルで、Azureをわずかに上回っている。Google CloudはWorkspaceのサブスクリプションも含むため、売上は前年からほぼ倍増し、成長率はAzureの約2倍に達した。AzureはMicrosoft全体の四半期売上92.3億ドルの約36％を占めている。\n\n分析家が予想した32.3億ドルを約850百万ドル上回り、成長率はCFOのエイミー・フッドが予測した44〜45％を上回った。Azureは企業がコンピューティングリソースをレンタルし、アプリケーションやSaaS（サービスとしてのソフトウェア）を実行し、AIモデルを構築・運用するプラットフォームで、同社最大かつ最速成長の製品群と位置付けられている。\n\n本四半期から導入された新セグメント「Agents and Infra」にはAzureとMicrosoft 365のクラウド事業が含まれ、売上は76.8億ドルで前年同期比25％増加した。AWS（Amazon Web Services）との競争は依然として激しいが、各社が実際のドル額を開示したことで、クラウド市場の争奪戦が本格化した。",
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+          "date": "2026-10-28",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "openai/gpt-oss-120b"
+    },
+    {
+      "id": "7135ad155906",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002681/",
+      "headline": "Oracle Cloud、2027年からGoogle TPUサービス提供へ",
+      "originalTitle": "Oracle CloudがGoogle TPU導入へ 2027年に提供を開始",
+      "outlet": "ITmedia AI+",
+      "region": "domestic",
+      "category": "ai",
+      "score": 85,
+      "tier": "must",
+      "pubDate": "2026-10-29T01:12:13.000Z",
+      "body": null,
+      "summary": "OracleはGoogleが開発したAI専用プロセッサ「Google TPU」をOracle Cloud Infrastructureに導入し、2027年からサービス提供を開始すると発表した。発表は米国ラスベガスで開催された年次イベント「Oracle AI World 2026」の基調講演で行われた。Google TPUは機械学習やAI処理向けにGoogleが設計・開発したプロセッサである。\n\nOracleはデータセンター内で電力供給、冷却、ネットワークなどのインフラを整備し、Google TPUを大規模に展開できる環境を提供すると説明した。これによりOracle Cloud利用者はNVIDIA GPU以外のAIアクセラレータを選択でき、AI処理性能の多様化が期待される。現在、AWS、Microsoft Azure、Google Cloudが独自のAIプロセッサで競争している中での戦略的な動きである。\n\nGoogleは先週、機械学習やAI処理に用いられる代表的ライブラリPyTorchをGoogle TPUにネイティブ対応させた「TorchTPU」をオープンソースで公開した。これによりユーザーはTensorFlow以外のフレームワークでもTPU上でAI処理が可能になる。Oracle CloudでのTPU提供開始は、両社にとってAIインフラ市場でのシェア拡大につながると期待されている。",
+      "sources": [
+        {
+          "outlet": "ITmedia AI+",
+          "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002681/",
+          "date": "2026-10-29",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "openai/gpt-oss-120b"
+    },
+    {
+      "id": "779b541ff77b",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://mistral.ai/news/mistral-large-4-oss/",
+      "headline": "Mistralが1兆パラメータモデル「Mistral Large 4」の重みを公開した",
+      "originalTitle": "Mistral Large 4 (Le Chonk) is now Open Weight",
+      "outlet": "mistral.ai",
+      "region": "overseas",
+      "category": "ai",
+      "score": 79,
+      "tier": "should",
+      "pubDate": "2026-10-29T14:13:21.000Z",
+      "body": null,
+      "summary": "Mistralは1兆パラメータのマルチモーダルモデル「Mistral Large 4（Le Chonk）」の重みを公開した。モデルは欧州のインフラでスクラッチから訓練され、オープンウェイトで提供されるため、組織は自前でカスタマイズ・ホスティングできる。公開は3週間前のプレビュー版を受け、フィードバックを反映した改良版である。\n\n改良によりコーディングベンチマークでトップクラスの性能を示し、FrontierCodeやTerminal‑Benchでそれぞれ19.7％と41％のスコアを取得した。トークン効率も向上し、同等のタスクで平均47％少ないトークンで済む。人工分析コーディングエージェント指数でも48％のスコアでGLM‑5.3と同等だが、トークン使用量は半分以下である。\n\nサイバー防御分野でも性能が向上し、Artificial Analysis Cyber Indexで51％のスコアを記録した。モデルは脆弱性の検出・再現・パッチ適用を高精度で実行し、悪意あるサイバーリクエストに対しては96.6％の拒否率を示す。これにより防御的なサイバータスクに特化したガードレールが備わっている。\n\nコストと性能のバランスを調整できるよう、低・中・高の3つの推論モードを提供し、低モードはシンプルタスク向け、中モードは日常的なタスク、高モードは高精度が必要なケースに適用できる。開発者は用途に応じて最適なモードを選択でき、推論コストの削減が可能になる。",
+      "sources": [
+        {
+          "outlet": "mistral.ai",
+          "url": "https://mistral.ai/news/mistral-large-4-oss/",
+          "date": "2026-10-29",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": "https://news.ycombinator.com/item?id=50289418",
+      "summarizedBy": "openai/gpt-oss-120b"
+    },
+    {
+      "id": "e43227d543cd",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2610/29/2000002728/",
+      "headline": "OpenAI、ChatGPTのPro・Businessプランに月最大500ドル分のAPI利用枠を追加",
+      "originalTitle": "ChatGPTのPro・Businessプランで「API利用」可能に 月最大500ドル分",
+      "outlet": "ITmedia AI+",
+      "region": "domestic",
+      "category": "ai",
+      "score": 76,
+      "tier": "should",
+      "pubDate": "2026-10-29T08:46:39.000Z",
+      "body": null,
+      "summary": "米OpenAIは2026年10月28日（現地時間）に、ChatGPTのProプランとBusinessプランに対し、同社のAPIを利用できる特典を追加したことを発表した。対象ユーザーは月額料金に応じた上限まで、月最大500ドル（約7万9000円）分のAPI利用枠が付与される。無料プランやGo、Plus、Enterprise、Eduプランは対象外である。\n\nProプランは月額100ドル、200ドル、500ドルの3段階があり、各プランは支払額と同等のAPI利用枠が毎月付与される。Businessプランはシート単位で、スタンダードシートは月20ドル、プレミアムシートは月100ドル分が割り当てられ、1ワークスペース全体での上限は月500ドルに設定されている。\n\n特典を受け取るには、ChatGPTアカウントとAPIアカウントを同一のメールアドレスでログインし、設定画面で利用設定を行う必要がある。これにより、対象プランの利用者は追加料金なしでAPI呼び出しが可能となり、アプリケーション開発やデータ分析などの用途でコスト削減が期待できる。",
+      "sources": [
+        {
+          "outlet": "ITmedia AI+",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2610/29/2000002728/",
+          "date": "2026-10-29",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "openai/gpt-oss-120b"
+    },
+    {
+      "id": "60c269dfa54e",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
+      "headline": "Eugenia Kuyda氏創業のWabi、55億円調達で評価額12.5億ドルに上昇",
+      "originalTitle": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
+      "outlet": "TechCrunch",
+      "region": "overseas",
+      "category": "ai",
+      "score": 75,
+      "tier": "should",
+      "pubDate": "2026-10-29T14:35:26.000Z",
+      "body": null,
+      "summary": "Wabiが55億円（約5500万ドル）の資金調達に成功し、企業価値は12.5億ドルとなったことを報じる。創業者はEugenia Kuydaで、以前はAIコンパニオン「Replika」を立ち上げた。Wabiは当初、プロンプトでアプリを作成できるプラットフォームとして開始したが、先月からAIメッセンジャーへと方向転換した。\n\n新バージョン「Wabi 2.0」は、ユーザーの個人エージェントとして、食事プランやレストラン検索、デートプラン、フィットネス計画、クイズゲームなどのミニアプリを自動生成できるとされる。ミニアプリは特定のタスクを実行する小規模なアプリケーションを指す。\n\n資金調達はIVPが主導し、Andreessen Horowitz（a16z）、Forerunner、Amazon Alexa Fundなどが参加した。投資家にはShopify CEOのTobi Lütke、Salesforce CEOのMarc Benioff、元Yahoo!長官のMarissa Mayer、元Twitter CEOのDick Costolo、The ChainsmokersのAlex Pallも含まれる。IVPのAlex Limは、Kuyda氏がAIの将来像を的確に捉えており、テキストボックスやコマンドラインを超えるインタラクションを実現するビジョンを持つと評価した。\n\nAIエージェント市場は現在活況で、同様にInstinctが10億ドル評価で資金調達したほか、Tolanも3000万ドルを調達している。Wabiの新たなエージェント機能は、投資家が期待する成長領域と位置付けられている。",
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
+          "date": "2026-10-29",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "openai/gpt-oss-120b"
+    },
+    {
+      "id": "c546a70dbf99",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+      "headline": "DeepgramがDailyのPipecat取得、オープンソース維持で音声AI基盤を強化",
+      "originalTitle": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
+      "outlet": "TechCrunch",
+      "region": "overseas",
+      "category": "ai",
+      "score": 74,
+      "tier": "should",
+      "pubDate": "2026-10-29T13:00:00.000Z",
+      "body": null,
+      "summary": "DeepgramがDailyを買収し、オープンソースの音声AIフレームワークPipecatを取得したことを発表した。取引金額は非公開だが、Pipecatは引き続きオープンソースとして提供される。\n\nPipecatは音声・動画ストリームを管理し、音声認識（STT：音声をテキストに変換）や大規模言語モデル（LLM：テキスト生成・理解）・音声合成（TTS：テキストを音声に変換）などのモジュールを組み合わせて遅延を低減するフレームワークである。Dailyは同フレームワークを支えるホスト型インフラを提供してきた。\n\nDailyはTiger Globalらから総額6200万ドル以上の資金調達を受け、Deepgramは今年130億ドル規模のシリーズCでユニコーン化した。両社は2016年に同じY Combinatorバッチに所属していた。Daily共同創業者のKwindla Kramerは、DeepgramのCEO Scott StephensonがPipecatを永続的にオープンソースかつベンダーニュートラルに保つ姿勢と、両社のエンジニア文化が合致したことが選択理由だと語った。\n\nStephensonは、開発者が任意の音声認識・合成モデルやLLMを組み合わせてエージェントを構築できるようエコシステムを開放したいと述べた。今回の買収により、Deepgramはリアルタイム音声・動画インフラを統合したエージェント構築を支援する「Real-Time Context Standard（RCS）」というオープンプロトコルも共同で提供する。RCSは音声から抽出したコンテキスト情報や応答の音声指示をメタデータとして定義し、モデル間の連携を標準化する。",
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+          "date": "2026-10-29",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "openai/gpt-oss-120b"
+    },
+    {
+      "id": "287beac00dd1",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.publickey1.jp/blog/26/aioracle_cloudoracle_app_composeroracle_ai_world_2026.html",
+      "headline": "オラクルがAIで業務アプリを自動生成する「Oracle App Composer」を発表",
+      "originalTitle": "オラクル、社員が業務アプリをAIで自動作成、Oracle Cloud上で共有できる「Oracle App Composer」発表。Oracle AI World 2026",
+      "outlet": "Publickey",
+      "region": "domestic",
+      "category": "ai",
+      "score": 73,
+      "tier": "should",
+      "pubDate": "2026-10-28T15:39:53.000Z",
+      "body": null,
+      "summary": "オラクルは米国ラスベガスで開催中の年次イベント「Oracle AI World 2026」において、社員が業務アプリをAIで自動的に生成し、Oracle Cloudにデプロイして利用できるサービス「Oracle App Composer」の提供を発表した。本サービスは生成されたアプリケーションを社内で共有できる点を特徴としている。\n\n利用者はチャット画面に作成したいアプリの要件を指示するだけで、OpenAIが開発したコード生成AIであるCodex（自然言語指示からプログラムコードを自動生成する技術）がコードを生成する。生成されたコードはセキュリティチェックを経てOracle Cloudにデプロイされ、社内ユーザーはURLを通じてアプリを利用できる。さらに情報部門は管理画面からアプリの所有者設定や利用状況の監視、長期間未使用のアプリの廃止といった一括管理が可能となる。\n\nOracle App Composerは2027年春のリリースを予定しており、同時に企業内の業務アプリ開発プロセスの効率化を目指す。リリース後は既存の開発ツールと併用でき、AI支援による迅速なプロトタイプ作成が期待される。",
+      "sources": [
+        {
+          "outlet": "Publickey",
+          "url": "https://www.publickey1.jp/blog/26/aioracle_cloudoracle_app_composeroracle_ai_world_2026.html",
+          "date": "2026-10-28",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "openai/gpt-oss-120b"
+    },
+    {
+      "id": "3f6aed5e053e",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.watch.impress.co.jp/docs/news/2152365.html",
+      "headline": "ドコモSMTBネット銀行が法人向けAIのテストを開始、振込や資金繰りを支援",
+      "originalTitle": "ドコモSMTBネット銀行、法人向けAIエージェント 振込や資金繰り支援",
+      "outlet": "Impress Watch",
+      "region": "domestic",
+      "category": "ai",
+      "score": 72,
+      "tier": "should",
+      "pubDate": "2026-10-29T09:50:16.000Z",
+      "body": null,
+      "summary": "ドコモSMTBネット銀行は、法人向けアプリ内で利用できるAIエージェント「NEOBANK ai BIZ」のベータテストを開始した。本サービスは案内を受けた一部の法人顧客が対象であり、利用者はアプリから応募して参加する。チャットや音声による対話を通じて生成AI（文章などを処理する人工知能）が利用者の目的を把握し、銀行取引や各種手続きに必要な情報や画面を提示する仕組みである。\n\n振込の手続きでは、対話によって振込先や金額を確認しながら操作を支援する。複数の振込先を一括で指定することや、請求書などの画像を読み込ませて振り込み内容を伝えることも可能である。ただし、最終的な取引操作は内容を確認した利用者自身が行う。\n\nさらに、資金繰りの支援機能も備えている。直近の入出金明細から残高推移などを分析し、資金不足が予測される場合には事業性融資商品を案内する。このほか明細のカテゴリ別表示や各種手続きの案内、定期的な振込の自動化支援などを提供し、ベータテストでの意見をもとに正式提供へ向けてサービス品質を改善していくとしている。",
+      "sources": [
+        {
+          "outlet": "Impress Watch",
+          "url": "https://www.watch.impress.co.jp/docs/news/2152365.html",
+          "date": "2026-10-29",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash"
+    },
+    {
+      "id": "cbf465a12e8a",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.publickey1.jp/blog/26/javascriptbunprettier300prettier.html",
+      "headline": "JavaScriptランタイム「Bun」にPrettier互換の高速フォーマッタが搭載",
+      "originalTitle": "JavaScriptランタイムの「Bun」がPrettier互換で300倍以上高速なフォーマッタに。Prettier設定ファイルもそのまま利用可能",
+      "outlet": "Publickey",
+      "region": "domestic",
+      "category": "it",
+      "score": 71,
+      "tier": "should",
+      "pubDate": "2026-10-27T15:27:52.000Z",
+      "body": null,
+      "summary": "Anthropicが開発するJavaScript（プログラミング言語）の実行環境「Bun」の新機能として、コード整形ツール「Prettier」と互換性を持つフォーマッタが搭載された。2026年10月22日にリリースされたBunのバージョン1.4.4において、「bun fmt」コマンドで起動するフォーマッタ機能が追加された。フォーマッタとは、コードを整形して見かけを統一し、読みやすくするツールである。\n\n今回搭載された「bun fmt」は、代表的なフォーマッタであるPrettierのテストを99％以上クリアする互換実装である。Prettierの設定ファイルや、別のフォーマッタであるoxfmtの設定ファイルをそのまま利用できる。同社によると、実行速度はPrettierと比較して最大320倍高速であり、消費メモリも5分の1以下であると説明されている。\n\n対応するプログラミング言語等はJavaScriptのほか、TypeScript、CSS、HTML、JSON、YAML、Markdownなど20種類である。Bunは基本的にはランタイムであるが、当初からファイルをまとめるバンドラなどの機能を備えた統合ツールの側面を持っていた。今回の機能追加により、統合ツールとしての側面がさらに強化された。",
+      "sources": [
+        {
+          "outlet": "Publickey",
+          "url": "https://www.publickey1.jp/blog/26/javascriptbunprettier300prettier.html",
+          "date": "2026-10-27",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash"
+    },
+    {
+      "id": "3db98cc0808f",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.watch.impress.co.jp/docs/news/2152300.html",
+      "headline": "GoogleとXREALが95g以下のXRグラスを発売、日本では11月2日に登場",
+      "originalTitle": "95g以下のXRグラス「XREAL AURA」、11月2日発売",
+      "outlet": "Impress Watch",
+      "region": "domestic",
+      "category": "it",
+      "score": 70,
+      "tier": "interest",
+      "pubDate": "2026-10-29T06:56:29.000Z",
+      "body": null,
+      "summary": "GoogleとXREALは10月28日、Android XRを搭載した拡張現実（XR）用グラス「XREAL AURA」を米国、カナダ、韓国で発売した。日本国内では11月2日に発売され、11月中旬から出荷が開始される。価格はメモリとストレージ容量の違いにより、229,800円と269,800円に設定されている。\n\n同製品はGoogleおよびクアルコムとの協業により開発された光学シースルー（OST）方式のXRグラスである。処理を担当するコンピューティングパックとグラス本体をケーブルで分離する構造を採用したことで、95g以下という軽量なフレームを実現した。コンピューティングパックにはクアルコムの「Snapdragon Reality Elite」プロセッサやバッテリーが組み込まれている。\n\n空間内に複数のアプリを配置して同時に作業できるほか、Bluetooth機器の接続にも対応する。また、Googleの生成AI「Gemini」との連携機能も備えており、ユーザーが見ている内容を共有して指示を受けたり、ウィンドウを整理したりすることが可能である。",
+      "sources": [
+        {
+          "outlet": "Impress Watch",
+          "url": "https://www.watch.impress.co.jp/docs/news/2152300.html",
+          "date": "2026-10-29",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash"
+    },
+    {
+      "id": "61af86ffd88d",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.watch.impress.co.jp/docs/news/2152234.html",
+      "headline": "LINEヤフーがショッピング機能の「AIベスト提案」を開始、条件別ランキングを表示",
+      "originalTitle": "Yahoo!ショッピング、AI商品比較が進化 条件別にランキング",
+      "outlet": "Impress Watch",
+      "region": "domestic",
+      "category": "ai",
+      "score": 69,
+      "tier": "interest",
+      "pubDate": "2026-10-29T04:26:35.000Z",
+      "body": null,
+      "summary": "LINEヤフーは、「Yahoo!ショッピング」において、生成AI（人工知能）が商品を比較して購入を支援する機能「AIベスト提案」の提供を順次開始した。従来の機能を刷新したもので、利用者が重視する条件に応じて商品をランキング形式で一覧表示する。\n\n同機能では、希望する条件を指定すると、AIが対象となる商品を約10秒で抽出し、「価格」「お届け」「評価」「ベスト」という4つの観点から比較・提案を行う。「価格」タブでは商品価格だけでなく、クーポン割引や獲得ポイント、送料を反映して算出するため、ユーザーごとに最適な順位が提示される。\n\n「お届け」タブでは配送予定が早い順、「評価」タブではレビュー評価が高い順に商品を表示し、「ベスト」タブではこれら3つの要素をもとに総合順位を算出する。なお、本機能にはOpenAIのAPI（外部機能を利用するための仕組み）が活用されている。",
+      "sources": [
+        {
+          "outlet": "Impress Watch",
+          "url": "https://www.watch.impress.co.jp/docs/news/2152234.html",
+          "date": "2026-10-29",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash"
+    },
+    {
+      "id": "962c7969833f",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.itmedia.co.jp/business/articles/2610/29/news050.html",
+      "headline": "アドバンテストの第2四半期決算が過去最高を更新、AI市場の拡大で通期予想を上方修正",
+      "originalTitle": "AI半導体市場「メガサイクル局面だ」 アドバンテスト好決算、CEOが語る「CPU」「光電融合」への期待とワクワク",
+      "outlet": "ITmedia AI+",
+      "region": "domestic",
+      "category": "it",
+      "score": 68,
+      "tier": "interest",
+      "pubDate": "2026-10-29T01:05:00.000Z",
+      "body": null,
+      "summary": "半導体試験装置メーカー大手のアドバンテストは10月28日の決算説明会で、2026年度第2四半期決算（売上高4777億円、営業利益2668億円）が過去最高を記録したと発表した。これに伴い、通期の業績予想を上方修正し、売上高1兆8630億円、営業利益9670億円を見込むとした。\n\n同社のダグラス・ラフィーバ経営執行役員Group CEOは、AI（人工知能）半導体市場が需要の拡大が続く「メガサイクル」と呼ばれる高成長局面にあると説明した。特に、自律的に多段階の推論を行うエージェント型AIの台頭により、従来のGPU（画像処理用半導体）だけでなく、汎用的な処理を担うCPU（中央処理装置）の需要が想定を超えて急増しており、成長の主要因となっている。\n\nさらに、半導体チップの伝送に光を用いる光電融合技術「CPO（Co-Packaged Optics）」の拡大も同社への追い風になると見解を示した。CPO製品は高い品質管理のため試験時間が長くなることから、同技術の成長に伴い試験装置に対する需要が将来的に大きく拡大すると期待を寄せている。",
+      "sources": [
+        {
+          "outlet": "ITmedia AI+",
+          "url": "https://www.itmedia.co.jp/business/articles/2610/29/news050.html",
+          "date": "2026-10-29",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash"
+    },
+    {
+      "id": "8d54603e159c",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002722/",
+      "headline": "全日本空輸の予約情報に不正アクセス、共通の委託先経由で個人情報をのぞき見た痕跡",
+      "originalTitle": "ANAの予約情報に不正アクセス、JALと同じ委託先経由で 個人情報をのぞき見た痕跡も",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "it",
+      "score": 64,
+      "tier": "interest",
+      "pubDate": "2026-10-29T07:37:03.000Z",
+      "body": null,
+      "summary": "全日本空輸は10月29日、同社便の予約情報に不正アクセスがあったと発表した。旅客サービスシステムの提供元であるスペインのアマデウスからの報告で発覚し、第三者が一部顧客の個人情報を参照した形跡があるという。\n\n同社はアマデウスと連携して影響範囲の特定を進めており、詳細が判明次第、対象の顧客に知らせる方針である。対象の人数や情報の項目、不正アクセスの時期については明らかにされていない。\n\nアマデウスのシステムを巡っては、日本航空や日本トランスオーシャン航空も約9万2000人分の予約情報に不正アクセスがあったと発表している。また韓国の大韓航空とアシアナ航空も、一部顧客の予約番号が流出した形跡があると発表している。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002722/",
+          "date": "2026-10-29",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash-lite"
+    },
+    {
+      "id": "186b083368ec",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002714/",
+      "headline": "松屋フーズが公式アプリとWebサイトを停止、外部からの不正アクセスを検知",
+      "originalTitle": "松屋の公式アプリとWebサイトが停止 不正アクセスを検知、モバイルオーダーや弁当予約も使えず",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "it",
+      "score": 62,
+      "tier": "interest",
+      "pubDate": "2026-10-29T06:08:11.000Z",
+      "body": null,
+      "summary": "牛丼チェーン「松屋」を運営する松屋フーズと松屋フーズホールディングスは10月29日までに、外部からの不正アクセスを検知したとして、松屋公式アプリやWebサイトなどを停止していると発表した。これに伴い、公式アプリ内の弁当予約サービス「松弁ネット」、モバイルオーダー、宅配サービスの「松弁デリバリー」が利用できない状態となっている。\n\n同社は原因と影響範囲の特定を進め、被害の拡大防止と安全性の確認に取り組んでいる。確認状況や復旧の見通しについては改めて知らせるとしている。\n\nソーシャルメディア上では28日午後7時ごろから、松屋アプリで注文できないといった投稿が相次いだ。同社は同日午後10時41分に公式アカウントで、緊急メンテナンスのため公式サイトなどを停止していると投稿していた。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002714/",
+          "date": "2026-10-29",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash-lite"
+    },
+    {
+      "id": "2edbed3c6b1b",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002717/",
+      "headline": "ソニー生命保険に不正アクセス、契約者などの個人情報約38万5000件が漏えい",
+      "originalTitle": "ソニー生命に不正アクセス、個人情報約38.5万件漏えい 氏名や住所、契約内容など",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "it",
+      "score": 61,
+      "tier": "interest",
+      "pubDate": "2026-10-29T06:21:40.000Z",
+      "body": null,
+      "summary": "ソニー生命保険は10月28日、契約者専用サイトが不正アクセスを受け、同社が保険代理店として扱ったメディケア生命保険の契約者と被保険者の個人情報約38万5000件が漏えいしたと発表した。不正アクセスを受けたのは「お客さまWEBサービス」などのシステムである。\n\n流出したのは氏名、生年月日、性別、住所、電話番号、証券番号、契約内容であり、マイナンバー、クレジットカード情報、保険料振替口座情報は含まれていない。不正アクセスは27日に判明し、同社は対象システムへの外部からのアクセスを遮断し関連サービスを停止した。\n\n28日時点で顧客情報が不正使用された事実は確認されておらず、同社は既に金融庁へ報告を行っている。今後は詳細を調査しつつ、対象の顧客に対して順次連絡する方針である。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002717/",
+          "date": "2026-10-29",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash-lite"
+    },
+    {
+      "id": "0a1f1dbb4f23",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002708/",
+      "headline": "PayPayが偽アプリによる不正送金に注意呼びかけ　遠隔操作の設定許可が原因",
+      "originalTitle": "「PayPay連携の銀行から、お金全部盗られた」被害報告……原因と対策は？ PayPayに聞いた",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "it",
+      "score": 59,
+      "tier": "interest",
+      "pubDate": "2026-10-29T10:28:06.000Z",
+      "body": null,
+      "summary": "PayPayと紐付けた銀行口座から身に覚えのないチャージや送金が行われる被害について、PayPay社はマルウェア（悪意のあるプログラム）に感染した端末からの不正送金が増加していると発表した。被害の多くは、公式のアプリストア以外のWebサイトや広告から配布された偽アプリが原因とされる。偽アプリを通じて端末がマルウェアに感染すると、第三者にスマートフォンを遠隔操作され、不正送金が行われるおそれがある。\n\nPayPayは24時間体制で人工知能や専任スタッフによる取引監視を行っており、不審な取引の遮断を強化したことで被害は減少傾向にあるとしている。ユーザー向けの対策として、Google Playなどの信頼できるストア以外からアプリをインストールしないことや、外部からの遠隔操作を可能にする設定や権限を許可しないことを挙げている。不審な送金を発見した場合は、補償手続きの確認と申請を呼びかけている。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002708/",
+          "date": "2026-10-29",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash"
+    },
+    {
+      "id": "0a34f0c5a460",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002729/",
+      "headline": "楽天カードがネット決済の本人認証をワンタイムパスワードに統一へ　27年2月から",
+      "originalTitle": "楽天カード、本人認証をワンタイムパスワードに統一 27年2月から順次",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "it",
+      "score": 58,
+      "tier": "interest",
+      "pubDate": "2026-10-29T09:57:37.000Z",
+      "body": null,
+      "summary": "楽天カードは、オンライン決済時における本人認証サービス「3Dセキュア（カード決済時に本人確認を行う仕組み）」について、固定パスワードによる認証を2027年2月から順次廃止すると発表した。不正利用の防止を目的としており、今後は一度限り有効なワンタイムパスワード方式へと認証方法を統一する。対象はプリペイドカードを除くすべての楽天カードである。\n\n現在固定パスワードを使用している会員に対しては、2027年1月31日までに会員専用サイト「楽天e-NAVI」から切替手続きを行うよう呼びかけている。期限までに手続きを完了しなかった場合や、携帯電話番号が未登録で切り替えができない場合は、一部の店舗やサイトで楽天カードが利用できなくなる可能性があるとしている。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002729/",
+          "date": "2026-10-29",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash"
+    },
+    {
+      "id": "1100a8db5990",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.watch.impress.co.jp/docs/news/2152322.html",
+      "headline": "東武鉄道が「TJライナー」で顔認証による改札乗車を開始へ　11月5日から",
+      "originalTitle": "東武鉄道、「TJライナー」も顔認証改札に対応",
+      "outlet": "Impress Watch",
+      "region": "domestic",
+      "category": "it",
+      "score": 57,
+      "tier": "interest",
+      "pubDate": "2026-10-29T08:06:14.000Z",
+      "body": null,
+      "summary": "東武鉄道は、東武東上線の座席指定制有料列車「TJライナー」において、顔認証のみで乗車できる生体認証サービスを11月5日から開始する。対象となるのは池袋駅を発車する下り列車である。日立製作所と共同で提供する生体認証プラットフォーム「SAKULaLa（サクララ）」を活用し、利用者はスマートフォンやICカードを取り出すことなく改札を通過できるようになる。\n\n利用にあたっては、事前にSAKULaLaのWebサイトで運転免許証やマイナンバーカードを用いて顔画像を登録し、公式チケット販売サイトで座席指定券を購入する際にIDを連携させる必要がある。東武鉄道はサービス開始を記念し、12月25日までに本サービスを利用したユーザーへポイントを進呈するキャンペーンも実施するとしている。",
+      "sources": [
+        {
+          "outlet": "Impress Watch",
+          "url": "https://www.watch.impress.co.jp/docs/news/2152322.html",
+          "date": "2026-10-29",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash"
+    },
+    {
+      "id": "6e564b957d29",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://gigazine.net/news/20261029&",
+      "headline": "高性能PCでローカルAIを共有する環境に向けてOllamaなどを構築",
+      "originalTitle": "Windowsの高性能PCで動くローカルAIをブラウザからみんなで利用できる環境を「Ollama＋Open WebUI」で構築してみた",
+      "outlet": "GIGAZINE",
+      "region": "domestic",
+      "category": "ai",
+      "score": 56,
+      "tier": "interest",
+      "pubDate": "2026-10-29T14:00:00.000Z",
+      "body": null,
+      "summary": "1台の高性能PCをAIサーバーにし、ブラウザからローカルAIを複数人で共有する環境の構築に向けて、ソフトウェアであるOllamaとOpen WebUIの導入手順が公開された。Ollamaはローカル環境でAIモデルを実行するソフトであり、Open WebUIはAIをブラウザから操作・管理できるようにするソフトである。\n\nOllamaの導入では、Intel製グラフィックボードを搭載したPCにおいてコマンドを用いて設置し、AIモデルであるQwen3.8-27Bを起動した。動作確認の後、AIエージェントの処理に必要なコンテキストサイズ（AIが一度に処理できる情報量）を64kに拡大する設定変更を行った。\n\n続いて、コンテナ管理ソフトであるDockerを用いてOpen WebUIを導入した。管理者アカウントの作成を完了させるとOllamaとの自動連携が行われ、ブラウザの画面上からローカルAIに対して正常に指示を出せる状態が確認された。",
+      "sources": [
+        {
+          "outlet": "GIGAZINE",
+          "url": "https://gigazine.net/news/20261029&",
+          "date": "2026-10-29",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash"
+    },
+    {
+      "id": "2373b0b46c19",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2610/29/2000002719/",
+      "headline": "GitHubの言語調査でTypeScriptが首位維持、AI利用が急成長を後押し",
+      "originalTitle": "今、最も使われているプログラミング言語は？ AIコーディングでPython超えて急成長",
+      "outlet": "ITmedia AI+",
+      "region": "domestic",
+      "category": "it",
+      "score": 53,
+      "tier": "spare",
+      "pubDate": "2026-10-29T07:16:51.000Z",
+      "body": null,
+      "summary": "米GitHubは2026年10月28日に発表した年次レポートにおいて、開発プラットフォームであるGitHub上で貢献した開発者が最も多いプログラミング言語のランキングを公開した。1位はTypeScriptとなり、2025年12月にPythonを抜いてから首位を維持している。2位はPython、3位はJavaScriptであった。\n\n同社は、プログラムの変更要求であるプルリクエストにおいてAIの関与が検出された割合がTypeScriptで最も高かったと報告した。この結果から、同言語の急速な成長にはAIの活用が深く影響している可能性を指摘している。\n\nまた、2026年9月までの12か月間におけるコード変更の送信数は179億回となり、過去2年間の合計を超えた。同社はAIモデルの進歩や、自動で開発を補佐するコーディングエージェントの普及が開発活動の活発化につながっていると分析している。",
+      "sources": [
+        {
+          "outlet": "ITmedia AI+",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2610/29/2000002719/",
+          "date": "2026-10-29",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash"
+    },
+    {
+      "id": "6dfa5b80ac5f",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://kn.itmedia.co.jp/kn/article/2610/29/2000002688/",
+      "headline": "2027年度のIT国家試験刷新に向けた調査で現場の評価が三分",
+      "originalTitle": "「高度なAIスキル」だけではもう食えない？ IT人材が答えた「これからの必須スキル」",
+      "outlet": "ITmedia AI+",
+      "region": "domestic",
+      "category": "it",
+      "score": 50,
+      "tier": "spare",
+      "pubDate": "2026-10-29T01:57:42.000Z",
+      "body": null,
+      "summary": "情報処理推進機構が2027年度からのIT国家試験制度の改変に向けた計画を公表したことを受け、キーマンズネットは企業のIT担当者205件を対象とした意識調査を実施した。2026年10月に実施された本調査では、制度刷新に対する認知度や期待度、今後必要とされるスキルについての意識が明らかになった。\n\n制度刷新の認知度については、内容を含めて知っていた割合が37.6％であったのに対し、知らなかったという回答も36.1％に上った。刷新への評価は、期待しているが32.2％、期待していないが33.8％、内容を知らないため判断できないが33.2％となり、現場の意見はほぼ三分される結果となった。\n\n期待する理由としてAIやデータ活用など実務に即した出題への刷新が挙げられた一方、期待しない層からは既存資格との難易度比較や価値の分かりづらさが懸念された。今後のスキル獲得においては、セキュリティやクラウド、AIといった専門領域への関心が高まっている。",
+      "sources": [
+        {
+          "outlet": "ITmedia AI+",
+          "url": "https://kn.itmedia.co.jp/kn/article/2610/29/2000002688/",
+          "date": "2026-10-29",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash"
+    },
+    {
+      "id": "62ce31c09834",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.watch.impress.co.jp/docs/news/2152204.html",
+      "headline": "Amazonが「Alexa+」に対応したスマートディスプレイなどの新Echo端末を発表",
+      "originalTitle": "デバイス集中管理の「Echo Show 16」や新フォトフレーム Alexa+新デバイス",
+      "outlet": "Impress Watch",
+      "region": "domestic",
+      "category": "it",
+      "score": 47,
+      "tier": "spare",
+      "pubDate": "2026-10-29T05:30:00.000Z",
+      "body": null,
+      "summary": "Amazonは米国時間2026年10月28日、次世代AIアシスタントサービス「Alexa+」に対応したEchoシリーズの新製品群を発表した。16型スマートディスプレイの「Echo Show 16」は、広角カメラやナイトビジョン機能を備え、簡易的な見守りカメラとしても利用できる。新たに搭載された「Alexa Home Map」機能により、自宅の3Dマップ上で接続されたスマート家電などのデバイスを直接操作できるのが特徴である。\n\n併せて発表された「Alexa Photo Frame」は、10インチの画面でAmazon Photosの写真と自動同期し、AIが笑顔などの適切な写真を選別して表示するスマートフォトフレームである。また、カメラを内蔵し部屋の音響に合わせてサウンドを自動調整する「Echo Studio with Home Camera」や、スマートホーム規格に対応したスマートハブを初搭載した第6世代の「Echo Dot」も登場した。\n\nさらに、日本でも発売される「Echo Time」は、3.2インチの画面を持つスマートクロックで、センサー機能により室内の温度計測や睡眠モニターが可能である。価格はEcho Show 16が499.99ドルから、Alexa Photo Frameが229.99ドル、Echo Dotが17,980円、Echo Timeが35,980円となっている。",
+      "sources": [
+        {
+          "outlet": "Impress Watch",
+          "url": "https://www.watch.impress.co.jp/docs/news/2152204.html",
+          "date": "2026-10-29",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash"
+    },
+    {
+      "id": "de776ba7f26a",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002727/",
+      "headline": "鎌倉市が路線バスの減便対応を優先するため公共ライドシェア実証実験の見送りを発表",
+      "originalTitle": "神奈川・鎌倉市が「公共ライドシェア」実証実験見送り 路線バス大幅減便で代替運行に注力",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "it",
+      "score": 40,
+      "tier": "spare",
+      "pubDate": "2026-10-29T08:14:22.000Z",
+      "body": null,
+      "summary": "神奈川県鎌倉市は、交通空白地域の解消に向けて2026年11月から予定していた「公共ライドシェア」の実証実験について、2026年度の実施を見送ると発表した。公共ライドシェアとは、自治体やNPO法人などが運営主体となり、一般ドライバーが自家用車を使って乗客を有償で送迎する国の制度である。市は約4,546万円の予算を計上し、JR大船駅周辺などで実験を行う計画であった。\n\n見送りの理由は、京浜急行バスが運行する鎌倉駅と鎌倉山を結ぶ路線が、12月1日から大幅に減便されるためである。同路線はこれまで平日38便、土日祝日28便が運行されていたが、平日8便のみに縮小される。市はこの路線の維持を最優先とし、市民の移動手段を確保するための代替交通の臨時運行に注力する方針に転換した。\n\n減便となる路線は、2027年3月上旬から江ノ電バスへ引き継がれる予定である。引き継ぎまでの間、市は約2,000万円を投じてマイクロバスを平日16便、土日祝日24便運行する。市は代替交通の確保を優先することで、地域住民の生活への影響を最小限に抑える考えである。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002727/",
+          "date": "2026-10-29",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash"
+    },
+    {
+      "id": "86b2fe10bb3a",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002723/",
+      "headline": "KDDIスマートドローンが郵便局やコンビニを拠点としたドローンインフラ構築を推進",
+      "originalTitle": "ローソン・郵便局が「ドローン基地」に 回線はStarlinkで ドローンインフラを急ピッチで作るKDDI",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "it",
+      "score": 39,
+      "tier": "spare",
+      "pubDate": "2026-10-29T07:58:02.000Z",
+      "body": null,
+      "summary": "KDDIスマートドローンは、物流やインフラ点検、災害対応などを遠隔操作で支援する「空のAI労働力」の普及に向け、全国的なインフラ整備を進めている。同社はドローンの離着陸や充電を行う拠点「ドローンポート」の確保に向け、全国の郵便局やコンビニエンスストア「ローソン」との連携を強化している。大阪府池田市のローソン店舗や石川県の珠洲郵便局などで拠点の設置と運用実証が進められている。\n\n通信面では、米SpaceXの衛星通信サービス「Starlink（スターリンク）」とドローンの直接通信技術を活用する。これにより、電波が届かない山間部や被災地といった通信圏外の地域でも遠隔運航が可能となり、2027年中のサービス開始を目指している。また、テレビ朝日と共同で実施した実証実験では、大規模地震の発生直後に遠隔地からドローンを即座に飛ばし、ヘリコプター取材よりも大幅に早い時間で現場の状況をリアルタイム撮影できることを確認した。\n\n一方で、機体の開発・運用費用や飛行ルートの事前設定にかかるコストが普及に向けた課題となっている。日本郵便の担当者は、航路の定期便化や1人のオペレーターによる複数機の同時運航などを進めることで省人化を図り、運航コストの削減を目指すとしている。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002723/",
+          "date": "2026-10-29",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash"
+    },
+    {
+      "id": "d2590a79bac6",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002647/",
+      "headline": "フェンダーのギター形状に著作権認める判決　ヤマハなど大手にも影響拡大",
+      "originalTitle": "ギターの「形」は誰のもの？ ヤマハにも警告、Fenderが“ストラト著作権”で仕掛けた知財攻勢",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "it",
+      "score": 35,
+      "tier": "spare",
+      "pubDate": "2026-10-29T06:00:00.000Z",
+      "body": null,
+      "summary": "ドイツの地方裁判所が、米国の楽器メーカーであるフェンダーのエレキギター「ストラトキャスター」のボディーデザインに対し、著作権による保護を認める判決を下した。フェンダーはこの判決を機に知財攻勢を強めており、中国メーカーによる完全模倣品への法的措置だけでなく、自社デザインに類似した製品を展開する日本のヤマハなどの大手メーカーに対しても警告書を送付している。\n\nストラトキャスターは1954年の発売から70年近くが経過しており、意匠権（デザインを保護する権利）の存続期間は既に満了している。そのため、これまで他社によるコピーモデルや類似製品の販売が長年定着していた。本家メーカーは公認の廉価版ブランドの展開などで対抗してきたが、今回の判決は「意匠権の失効後はデザインの模倣が可能」という従来の前提を覆すものであり、業界内に大きな影響を与えている。\n\nヤマハへの警告は「PACIFICA（パシフィカ）」シリーズなどが対象とみられるが、ダブルカッタウェイ（ネックの付け根にある三日月状のえぐれ）などの類似形状全般が禁止されるわけではない。今後はストラトキャスター独自の創作性をどの程度模倣したかが争点となる。なお、ドイツでの判決が直ちに日本で効力を持つわけではないが、欧州向けに輸出を行うメーカーには現実的なリスクが生じている。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002647/",
+          "date": "2026-10-29",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "gemini-3.5-flash"
+    }
+  ],
+  "essays": [],
+  "productionNote": {
+    "reachedOutlets": [
+      "artificialanalysis.ai",
+      "TechCrunch",
+      "ITmedia AI+",
+      "mistral.ai",
+      "Publickey",
+      "Impress Watch",
+      "ITmedia NEWS",
+      "GIGAZINE"
+    ],
+    "unreachedOutlets": [],
+    "excluded": [],
+    "counts": {
+      "deep": 0,
+      "brief": 26,
+      "essays": 0,
+      "chars": 12551
+    },
+    "text": "候補97件から26件を掲載。本文が取れず不採用0件。"
+  }
+}
