@@ -1,6 +1,6 @@
 {
- "date": "2026-10-28",
- "generatedAt": "2026-10-28T00:34:33.882Z",
+ "date": "2026-10-29",
+ "generatedAt": "2026-10-29T01:04:31.412Z",
  "model": "gemini-3.5-flash",
  "measured": {
   "world": 18,
@@ -8,114 +8,150 @@
  },
  "articles": [
   {
-   "id": "intl-brief-2026-10-28-s-20261028-01",
+   "id": "intl-brief-2026-10-29-s-20261027-08",
    "stream": "intl",
    "depth": "brief",
    "section": "world",
-   "headline": "イスラエル総選挙、出口調査で与野党が接戦",
-   "originalTitle": "Live Updates: Exit Polls Suggest No Clear Winner in Pivotal Israeli Election",
-   "outlet": "New York Times",
-   "url": "https://www.nytimes.com/live/2026/10/27/world/israel-elections",
+   "headline": "ボルソナロ氏が米国へ出国、自らを正当な指導者と主張",
+   "originalTitle": "Brazilian political drama unfolds as defeated Flavio Bolsonaro arrives in Miami",
+   "outlet": "NPR",
+   "url": "https://www.npr.org/2026/10/28/nx-s1-6020518/brazilian-political-drama-unfolds-as-defeated-flavio-bolsonaro-arrives-in-miami",
    "region": "overseas",
    "category": null,
-   "score": 32,
-   "tier": "should",
-   "pubDate": "2026-10-28T00:34:33.882Z",
+   "score": 54,
+   "tier": "must",
+   "pubDate": "2026-10-29T01:04:31.412Z",
    "body": null,
-   "summary": "イスラエルで総選挙の投開票が行われ、出口調査でネタニヤフ首相の与党ブロックとアイゼンコット元軍参謀総長率いる野党ブロックの獲得議席数が並ぶ接戦となっています。両勢力ともに過半数の61議席に届かない見通しで、政権樹立に向けた連立工作が長期化する可能性があります。アラブ系政党が18議席を獲得する見通しで、政権の行方を左右する鍵を握るとみられます。両陣営はそれぞれ勝利や相手の敗北を主張しています。",
+   "summary": "ブラジルの大統領選で敗北したフレービオ・ボルソナロ氏が、家族とともに米マイアミに到着しました。同氏はパスポート返納命令が出される中で米国へ移動し、自らを正当な指導者だと主張しています。現地では複数の捜査に直面しており、選挙で不当な扱いを受けたとして訴えています。メディアは同氏の逃亡や自称について大きく報じています。",
    "sources": [
     {
-     "outlet": "New York Times",
-     "url": "https://www.nytimes.com/live/2026/10/27/world/israel-elections",
-     "date": "2026-10-28",
+     "outlet": "NPR",
+     "url": "https://www.npr.org/2026/10/28/nx-s1-6020518/brazilian-political-drama-unfolds-as-defeated-flavio-bolsonaro-arrives-in-miami",
+     "date": "2026-10-29",
      "access": "body",
      "via": null,
-     "note": "Live Updates: Exit Polls Suggest No Clear Winner in Pivotal Israeli Election"
+     "note": "Brazilian political drama unfolds as defeated Flavio Bolsonaro arrives in Miami"
+    },
+    {
+     "outlet": "Sky News",
+     "url": "https://news.sky.com/story/flavio-bolsonaro-insists-he-is-leader-of-brazil-despite-losing-election-run-off-13605006",
+     "date": "2026-10-29",
+     "access": "excerpt",
+     "via": null,
+     "note": "Flavio Bolsonaro insists he is 'leader of Brazil' despite losing election run-off"
+    },
+    {
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-10-29",
+     "access": "excerpt",
+     "via": null,
+     "note": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami"
+    },
+    {
+     "outlet": "The Guardian",
+     "url": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat",
+     "date": "2026-10-29",
+     "access": "excerpt",
+     "via": null,
+     "note": "Flávio Bolsonaro calls himself the ‘leader of Brazil’ after fleeing to Miami"
+    },
+    {
+     "outlet": "New York Times",
+     "url": "https://www.nytimes.com/2026/10/28/world/americas/flavio-bolsonaro-us-miami-brazil-trump.html",
+     "date": "2026-10-29",
+     "access": "excerpt",
+     "via": null,
+     "note": "Flávio Bolsonaro Lands in Miami After Fleeing Brazil"
     },
     {
      "outlet": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/27/no-clear-mandate-projected-in-israel-election-whats-next?traffic_source=rss",
-     "date": "2026-10-28",
-     "access": "body",
+     "url": "https://www.aljazeera.com/news/2026/10/28/whats-next-for-brazils-flavio-bolsonaro-after-election-defeat?traffic_source=rss",
+     "date": "2026-10-29",
+     "access": "excerpt",
      "via": null,
-     "note": "No clear mandate projected in Israel election: What’s next?"
+     "note": "What’s next for Brazil’s Flavio Bolsonaro after election defeat?"
+    },
+    {
+     "outlet": "Deutsche Welle",
+     "url": "https://www.dw.com/en/flavio-bolsonaro-lands-in-us-declares-himself-leader-of-brazil/a-79788659?maca=en-rss-en-world-4025-rdf",
+     "date": "2026-10-29",
+     "access": "excerpt",
+     "via": null,
+     "note": "Flavio Bolsonaro lands in US, declares himself 'leader' of Brazil"
     },
     {
      "outlet": "France 24",
-     "url": "https://www.france24.com/en/middle-east/20261027-israel-election-record-turnout-netanyahu-eisenkot-deadlock",
-     "date": "2026-10-28",
+     "url": "https://www.france24.com/en/tv-shows/a-propos/20261028-flavio-bolsonaro-claims-he-is-brazil-s-true-leader-after-fleeing-to-us",
+     "date": "2026-10-29",
      "access": "excerpt",
      "via": null,
-     "note": "Israel election: Record turnout as Netanyahu and Eisenkot remain deadlocked"
-    },
-    {
-     "outlet": "Euronews",
-     "url": "https://www.euronews.com/video/2026/10/28/israel-opposition-supporters-celebrate-narrow-lead-in-exit-polls",
-     "date": "2026-10-28",
-     "access": "excerpt",
-     "via": null,
-     "note": "Israel: opposition supporters celebrate narrow lead in exit polls"
+     "note": "Flavio Bolsonaro claims he is Brazil's true leader after fleeing to US"
     },
     {
      "outlet": "South China Morning Post",
-     "url": "https://www.scmp.com/news/world/middle-east/article/3372354/israel-exit-polls-show-election-deadlock-netanyahus-fate-balance",
-     "date": "2026-10-28",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3372478/defeated-brazilian-presidential-candidate-flavio-bolsonaro-and-his-family-land-miami",
+     "date": "2026-10-29",
      "access": "excerpt",
      "via": null,
-     "note": "Israel opposition holds narrow edge over Netanyahu in first election projections"
+     "note": "Flavio Bolsonaro lands in Miami, declares himself rightful leader of Brazil"
     },
     {
      "outlet": "CBS News",
-     "url": "https://www.cbsnews.com/news/israel-election-exit-polls-stalemate/",
-     "date": "2026-10-28",
+     "url": "https://www.cbsnews.com/news/brazil-flavio-bolsonaro-u-s-visa-presidential-election-loss/",
+     "date": "2026-10-29",
      "access": "excerpt",
      "via": null,
-     "note": "Israeli election exit polls show race headed toward stalemate"
+     "note": "Flávio Bolsonaro leaves Brazil, lands in U.S. after election loss"
+    },
+    {
+     "outlet": "Times of India",
+     "url": "https://timesofindia.indiatimes.com/world/rest-of-world/flvio-bolsonaro-declares-himself-brazils-true-president-vows-to-lead-opposition-from-us/articleshow/135280305.cms",
+     "date": "2026-10-29",
+     "access": "headline",
+     "via": null,
+     "note": "Flávio Bolsonaro claims Brazil election fraud, declares himself ‘true president-elect’"
     },
     {
      "outlet": "The Straits Times",
-     "url": "https://www.straitstimes.com/world/middle-east/oppositions-gadi-eisenkot-says-israel-has-chosen-change-hopes-to-form-government",
-     "date": "2026-10-28",
+     "url": "https://www.straitstimes.com/world/flavio-bolsonaros-escape-to-the-us-how-it-happened",
+     "date": "2026-10-29",
      "access": "excerpt",
      "via": null,
-     "note": "Opposition’s Gadi Eisenkot says Israel has chosen change, hopes to form government"
+     "note": "Flavio Bolsonaro’s escape to the US: How it happened"
+    },
+    {
+     "outlet": "Reuters",
+     "url": null,
+     "date": "2026-10-29",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Flavio Bolsonaro declares himself rightful president-elect of Brazil - Reuters"
+    },
+    {
+     "outlet": "Associated Press",
+     "url": null,
+     "date": "2026-10-29",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Brazil's Flávio Bolsonaro and family will get US visas after election loss, State Department says - AP News"
     },
     {
      "outlet": "Bloomberg",
      "url": null,
-     "date": "2026-10-28",
+     "date": "2026-10-29",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "Israeli Opposition Leads Netanyahu After Inconclusive Vote - Bloomberg.com"
-    },
-    {
-     "outlet": "Financial Times",
-     "url": null,
-     "date": "2026-10-28",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "No clear winner in Israeli parliamentary election, exit polls suggest - Financial Times"
-    },
-    {
-     "outlet": "BBC",
-     "url": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
-     "date": "2026-10-28",
-     "access": "excerpt",
-     "via": null,
-     "note": "Watch: What happens now after close vote in Israeli election?"
-    },
-    {
-     "outlet": "The Guardian",
-     "url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
-     "date": "2026-10-28",
-     "access": "excerpt",
-     "via": null,
-     "note": "Israel election live: Netanyahu and Eisenkot opposition blocs tied in latest exit polls"
+     "note": "Private Jet Firm Used by Bolsonaro Had Sparked Scandal for Milei - Bloomberg"
     }
    ],
-   "continuity": null,
+   "continuity": {
+    "previousDate": "2026-10-27",
+    "previousScore": 54,
+    "note": "3日連続で報じられている"
+   },
    "coverage": {
-    "world": "11/18",
+    "world": "15/18",
     "jp": "3/6",
     "worldTotal": 18,
     "jpTotal": 6
@@ -125,86 +161,114 @@
    "summarizedBy": "gemini-3.5-flash"
   },
   {
-   "id": "intl-brief-2026-10-28-s-20261014-23",
+   "id": "intl-brief-2026-10-29-s-20261029-01",
    "stream": "intl",
    "depth": "brief",
    "section": "world",
-   "headline": "ウクライナ南部で局地的停戦が発効、支援拡大へ",
-   "originalTitle": "Ceasefire extended across Ukraine's Kherson region, officials say",
+   "headline": "スペインの高速鉄道衝突事故で少なくとも68人が死亡",
+   "originalTitle": "High-speed train crash kills at least 68 people in Spain",
    "outlet": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
    "region": "overseas",
    "category": null,
-   "score": 25,
-   "tier": "interest",
-   "pubDate": "2026-10-28T00:34:33.882Z",
+   "score": 40,
+   "tier": "should",
+   "pubDate": "2026-10-29T01:04:31.412Z",
    "body": null,
-   "summary": "ウクライナ南部のロシア占領下にあるオレシュキで、人道支援目的の局地的停戦が発効しました。米国のメラニア・トランプ大統領夫人らが仲介したもので、双方は停戦が維持されていると発表しました。停戦区域はヘルソン州全体へ拡大され、数十万人の孤立住民へ食料や医薬品を運ぶ安全な通路が確保されます。今後は支援物資の供給に続き、退避希望者の避難が予定されています。",
+   "summary": "スペイン中部で高速列車同士が衝突し、少なくとも68人が死亡、多数が負傷しました。停車中の列車に別の列車が追突したことで発生しました。運輸相は、コンピュータの不具合と人為的な指示ミスが原因であると説明しています。現地では事故への怒りから抗議デモも起きています。各メディアは悲惨な現場の状況や経緯を詳しく報じています。",
    "sources": [
     {
      "outlet": "BBC",
-     "url": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
-     "date": "2026-10-28",
+     "url": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-10-29",
      "access": "body",
      "via": null,
-     "note": "Ceasefire extended across Ukraine's Kherson region, officials say"
+     "note": "High-speed train crash kills at least 68 people in Spain"
     },
     {
      "outlet": "New York Times",
-     "url": "https://www.nytimes.com/2026/10/26/world/europe/ukraine-oleshky-ceasefire-russia-war.html",
-     "date": "2026-10-28",
-     "access": "excerpt",
+     "url": "https://www.nytimes.com/live/2026/10/28/world/spain-train-crash-toledo",
+     "date": "2026-10-29",
+     "access": "body",
      "via": null,
-     "note": "Cease-Fire Brokered by Melania Trump Begins in Ukrainian City of Oleshky"
+     "note": "At Least 68 Killed in Train Crash in Spain, Officials Say"
     },
     {
      "outlet": "NPR",
-     "url": "https://www.npr.org/2026/10/27/g-s1-150037/russia-ukraine-war",
-     "date": "2026-10-28",
+     "url": "https://www.npr.org/2026/10/28/nx-s1-6020217/spain-train-disaster",
+     "date": "2026-10-29",
      "access": "excerpt",
      "via": null,
-     "note": "Local ceasefire brokered by Melania Trump starts in southern Ukraine"
+     "note": "Dozens are dead in a high-speed train crash in Spain"
     },
     {
      "outlet": "The Guardian",
-     "url": "https://www.theguardian.com/world/2026/oct/27/oleshky-truce-ukraine-russia-putin",
-     "date": "2026-10-28",
+     "url": "https://www.theguardian.com/world/live/2026/oct/28/spain-train-crash-toledo-europe-latest-news-updates",
+     "date": "2026-10-29",
      "access": "excerpt",
      "via": null,
-     "note": "Oleshky truce appears to hold as two European leaders have ‘frank’ call with Putin"
+     "note": "Death toll rises to 68 with dozens injured after high-speed train collision in Spain – as it happened"
+    },
+    {
+     "outlet": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-10-29/spain-train-crash-urda-village-supports-victims/107321724",
+     "date": "2026-10-29",
+     "access": "excerpt",
+     "via": null,
+     "note": "Crash survivors recount chaotic scenes in Europe's worst train disaster since 2013"
+    },
+    {
+     "outlet": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/riot-police-deployed-in-madrid-as-protests-erupt-over-deadly-train-crash?traffic_source=rss",
+     "date": "2026-10-29",
+     "access": "excerpt",
+     "via": null,
+     "note": "Riot police deployed in Madrid as protests erupt over deadly train crash"
+    },
+    {
+     "outlet": "France 24",
+     "url": "https://www.france24.com/en/spain-rail-crash-came-after-train-ordered-to-go-in-error-minister",
+     "date": "2026-10-29",
+     "access": "excerpt",
+     "via": null,
+     "note": "Spain rail crash came after train ordered to go in error: minister"
+    },
+    {
+     "outlet": "Euronews",
+     "url": "https://www.euronews.com/video/2026/10/29/spain-madrid-mourns-train-crash-victims-as-rescuers-work-through-the-night",
+     "date": "2026-10-29",
+     "access": "excerpt",
+     "via": null,
+     "note": "Spain: Madrid mourns train crash victims as rescuers work through the night"
+    },
+    {
+     "outlet": "CBS News",
+     "url": "https://www.cbsnews.com/news/spain-train-crash-toledo-urda/",
+     "date": "2026-10-29",
+     "access": "excerpt",
+     "via": null,
+     "note": "High-speed train crash in Spain kills at least 68, dozens injured"
     },
     {
      "outlet": "The Straits Times",
-     "url": "https://www.straitstimes.com/world/europe/ukraine-russia-say-us-brokered-truce-holding-in-ravaged-city-of-oleshky",
-     "date": "2026-10-28",
+     "url": "https://www.straitstimes.com/world/europe/what-we-know-about-the-deadly-train-crash-in-spain",
+     "date": "2026-10-29",
      "access": "excerpt",
      "via": null,
-     "note": "Ukraine, Russia say US-brokered truce holding in ravaged city of Oleshky"
+     "note": "What we know about the deadly train crash in Spain"
     },
     {
      "outlet": "Associated Press",
      "url": null,
-     "date": "2026-10-28",
+     "date": "2026-10-29",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "Localized Ukraine ceasefire brokered by Melania Trump starts as Nordic leaders speak to Putin - AP News"
-    },
-    {
-     "outlet": "Financial Times",
-     "url": null,
-     "date": "2026-10-28",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Russia and Ukraine begin local ceasefire in frontline city - Financial Times"
+     "note": "High-speed train collision kills at least 68 in Spain’s 2nd deadly rail crash this year - AP News"
     }
    ],
-   "continuity": {
-    "previousDate": "2026-10-14",
-    "previousScore": 25,
-    "note": "6日連続で報じられている"
-   },
+   "continuity": null,
    "coverage": {
-    "world": "7/18",
+    "world": "11/18",
     "jp": "1/6",
     "worldTotal": 18,
     "jpTotal": 6
@@ -214,70 +278,74 @@
    "summarizedBy": "gemini-3.5-flash"
   },
   {
-   "id": "intl-brief-2026-10-28-s-20261020-19",
+   "id": "intl-brief-2026-10-29-s-20261029-03",
    "stream": "intl",
    "depth": "brief",
    "section": "world",
-   "headline": "フィンランドとノルウェーの首脳がプーチン氏と電話会談",
-   "originalTitle": "Norway and Finland leaders hold rare call with Putin",
+   "headline": "燃料費高騰により世界一周客船がカンボジアで運航停止",
+   "originalTitle": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
    "outlet": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
    "region": "overseas",
    "category": null,
    "score": 19,
    "tier": "interest",
-   "pubDate": "2026-10-28T00:34:33.882Z",
+   "pubDate": "2026-10-29T01:04:31.412Z",
    "body": null,
-   "summary": "フィンランドのストゥブ大統領とノルウェーのストーレ首相が、ロシアのプーチン大統領と電話会談を行いました。ウクライナでの和平交渉に向け直接意思を伝える目的で約90分間開催されました。両首脳は対話の必要性を強調したものの、意見の大きな隔たりが示されました。欧州内では直接対話への慎重論や反発もあり、評価が分かれています。会談はウクライナや米国と事前協議の上で実施されました。",
+   "summary": "世界一周を目指していた豪華客船の運航が、燃料費の急騰によりカンボジアで停止しました。乗客約200人が現地に取り残される事態となっています。運航会社は燃料コストが想定を超えて急増したため資金が底をついたと説明しています。会社は搭乗者への一時的な生活手配や事業の再編を進める計画ですが、航海の再開は見通せていません。",
    "sources": [
     {
      "outlet": "BBC",
-     "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
-     "date": "2026-10-28",
+     "url": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-10-29",
      "access": "body",
      "via": null,
-     "note": "Norway and Finland leaders hold rare call with Putin"
+     "note": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs"
+    },
+    {
+     "outlet": "Sky News",
+     "url": "https://news.sky.com/story/cruise-ship-mv-odyssey-stranded-in-cambodia-after-soaring-fuel-costs-13604720",
+     "date": "2026-10-29",
+     "access": "excerpt",
+     "via": null,
+     "note": "Cruise ship left stranded in Cambodia after 'soaring fuel costs'"
+    },
+    {
+     "outlet": "NPR",
+     "url": "https://www.npr.org/2026/10/28/nx-s1-6020180/us-cruise-ship-ends-voyage-passengers-lose-homes",
+     "date": "2026-10-29",
+     "access": "excerpt",
+     "via": null,
+     "note": "A U.S. cruise ship ends voyage due to fuel costs and passengers lose their homes"
+    },
+    {
+     "outlet": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/28/fuel-costs-force-us-cruise-ship-to-suspend-multi-year-voyage-in-cambodia?traffic_source=rss",
+     "date": "2026-10-29",
+     "access": "excerpt",
+     "via": null,
+     "note": "Fuel costs force US cruise ship to suspend multiyear voyage in Cambodia"
+    },
+    {
+     "outlet": "CBS News",
+     "url": "https://www.cbsnews.com/video/cruise-ship-passengers-stranded-operator-says-ran-out-money-fuel-costs/",
+     "date": "2026-10-29",
+     "access": "excerpt",
+     "via": null,
+     "note": "Cruise ship passengers stranded after operator says it ran out of money due to fuel costs"
     },
     {
      "outlet": "New York Times",
-     "url": "https://www.nytimes.com/2026/10/27/world/europe/norway-finland-putin-call.html",
-     "date": "2026-10-28",
+     "url": "https://www.nytimes.com/2026/10/28/travel/endless-cruise-suspended-villa-vie-passengers.html",
+     "date": "2026-10-29",
      "access": "excerpt",
      "via": null,
-     "note": "European Leaders Split Over Phone Call to Putin"
-    },
-    {
-     "outlet": "Euronews",
-     "url": "https://www.euronews.com/2026/10/27/putin-call-pits-finland-and-norway-against-denmark-and-sweden",
-     "date": "2026-10-28",
-     "access": "excerpt",
-     "via": null,
-     "note": "Putin call pits Finland and Norway against Denmark and Sweden"
-    },
-    {
-     "outlet": "Financial Times",
-     "url": null,
-     "date": "2026-10-28",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Vladimir Putin lectures Nordic leaders on Russian history - Financial Times"
-    },
-    {
-     "outlet": "The Guardian",
-     "url": "https://www.theguardian.com/world/live/2026/oct/27/russia-ukraine-oleshky-serbia-france-europe-latest-news-updates",
-     "date": "2026-10-28",
-     "access": "excerpt",
-     "via": null,
-     "note": "Kyiv hopes for ‘new momentum’ in peace talks after Finnish and Norwegian leaders’ call with Putin – as it happened"
+     "note": "An ‘Endless’ Cruise Around the World Is Suspended, Leaving Passengers Stranded"
     }
    ],
-   "continuity": {
-    "previousDate": "2026-10-20",
-    "previousScore": 19,
-    "note": "3日連続で報じられている"
-   },
+   "continuity": null,
    "coverage": {
-    "world": "5/18",
+    "world": "6/18",
     "jp": "1/6",
     "worldTotal": 18,
     "jpTotal": 6
@@ -287,265 +355,74 @@
    "summarizedBy": "gemini-3.5-flash"
   },
   {
-   "id": "intl-brief-2026-10-28-s-20261028-04",
+   "id": "intl-brief-2026-10-29-s-20261029-08",
    "stream": "intl",
    "depth": "brief",
    "section": "world",
-   "headline": "英チャールズ国王がカリブ海を訪問、奴隷制の遺産協議へ",
-   "originalTitle": "King Charles to discuss legacy of slavery with Commonwealth leaders at summit",
+   "headline": "EUとカナダが首脳会談前の声明案から准会員構想を削る",
+   "originalTitle": "EU backs away from offer to Canada to start ‘associate member’ talks",
    "outlet": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/oct/28/king-charles-confirms-he-will-discuss-legacy-of-slavery-at-commonwealth-summit",
+   "url": "https://www.theguardian.com/world/2026/oct/28/european-union-canada",
    "region": "overseas",
    "category": null,
-   "score": 18,
+   "score": 19,
    "tier": "interest",
-   "pubDate": "2026-10-28T00:34:33.882Z",
+   "pubDate": "2026-10-29T01:04:31.412Z",
    "body": null,
-   "summary": "英国のチャールズ国王がカリブ海諸国の訪問を開始し、バハマに到着しました。訪問先では過去の奴隷貿易に対する謝罪や賠償を求める声が高まっています。国王は演説で過去の大変な苦難を認めつつ、コモンウェルス首脳会議で奴隷制の遺産について議論すると表明しました。これに対し現地の賠償委員会は、過去の責任や補償に十分踏み込んでいないとして批判しています。",
+   "summary": "欧州連合（EU）とカナダの首脳会談を前に、共同声明の草案から准会員という表現が削除されました。一部加盟国からの反発を受け、よりゆるやかな連携を示す表現へと書き換えられています。両国は貿易や技術などでの協力深化を目指していますが、明確な定義のない准会員枠組みの導入は見送られる見通しです。",
    "sources": [
     {
      "outlet": "The Guardian",
-     "url": "https://www.theguardian.com/world/2026/oct/28/king-charles-confirms-he-will-discuss-legacy-of-slavery-at-commonwealth-summit",
-     "date": "2026-10-28",
+     "url": "https://www.theguardian.com/world/2026/oct/28/european-union-canada",
+     "date": "2026-10-29",
      "access": "body",
      "via": null,
-     "note": "King Charles to discuss legacy of slavery with Commonwealth leaders at summit"
-    },
-    {
-     "outlet": "New York Times",
-     "url": "https://www.nytimes.com/2026/10/27/world/europe/king-charles-caribbean-tour-uk-commonwealth.html",
-     "date": "2026-10-28",
-     "access": "excerpt",
-     "via": null,
-     "note": "King Charles Faces High Stakes Test With Caribbean Tour"
-    },
-    {
-     "outlet": "France 24",
-     "url": "https://www.france24.com/en/americas/20261027-king-charles-slavery-apology-caribbean-tour",
-     "date": "2026-10-28",
-     "access": "excerpt",
-     "via": null,
-     "note": "King Charles confronts calls for slavery apology during Caribbean tour"
-    },
-    {
-     "outlet": "South China Morning Post",
-     "url": "https://www.scmp.com/news/world/americas/article/3372358/king-charles-arrives-bahamas-faces-demands-reparations-pay-us-what-you-owe-us",
-     "date": "2026-10-28",
-     "access": "excerpt",
-     "via": null,
-     "note": "King Charles arrives in Bahamas, faces demands for reparations: ‘pay us what you owe us’"
-    },
-    {
-     "outlet": "The Straits Times",
-     "url": "https://www.straitstimes.com/world/charles-tackles-thorny-legacy-of-slavery-on-caribbean-trip",
-     "date": "2026-10-28",
-     "access": "excerpt",
-     "via": null,
-     "note": "Charles tackles thorny legacy of slavery on Caribbean trip"
-    }
-   ],
-   "continuity": null,
-   "coverage": {
-    "world": "5/18",
-    "jp": "0/6",
-    "worldTotal": 18,
-    "jpTotal": 6
-   },
-   "bodyAvailable": true,
-   "discussionUrl": null,
-   "summarizedBy": "gemini-3.5-flash"
-  },
-  {
-   "id": "intl-brief-2026-10-28-s-20261028-02",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "world",
-   "headline": "サッカーのエムバペ選手、毛沢東氏への発言を謝罪",
-   "originalTitle": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
-   "outlet": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
-   "region": "overseas",
-   "category": null,
-   "score": 16,
-   "tier": "interest",
-   "pubDate": "2026-10-28T00:34:33.882Z",
-   "body": null,
-   "summary": "フランス代表のサッカー選手キリアン・エムバペ氏が、元中国最高指導者の毛沢東氏を独裁者と呼んだことについて謝罪しました。出演した番組内でインターネットのミーム画像に触れた際の発言が反発を呼び、中国企業との契約解除に発展していました。エムバペ氏は配慮を欠いた発言により多くの人々を傷つけたと説明しました。これを受けてスペインのラ・リーガも公式に遺憾の意を表明しています。",
-   "sources": [
-    {
-     "outlet": "BBC",
-     "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
-     "date": "2026-10-28",
-     "access": "body",
-     "via": null,
-     "note": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China"
-    },
-    {
-     "outlet": "Sky News",
-     "url": "https://news.sky.com/story/french-football-star-kylian-mbappe-dropped-by-chinese-brands-after-dictator-remark-13604279",
-     "date": "2026-10-28",
-     "access": "excerpt",
-     "via": null,
-     "note": "Mbappe apologises for 'ill-judged' Mao remark after being dropped by Chinese brands"
-    },
-    {
-     "outlet": "Associated Press",
-     "url": null,
-     "date": "2026-10-28",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Soccer star Kylian Mbappé apologizes for apparent reference to Mao as a ‘dictator’ - AP News"
-    },
-    {
-     "outlet": "Financial Times",
-     "url": null,
-     "date": "2026-10-28",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Chinese brands put boot into Kylian Mbappé after viral ‘dictator’ meme - Financial Times"
-    }
-   ],
-   "continuity": null,
-   "coverage": {
-    "world": "4/18",
-    "jp": "2/6",
-    "worldTotal": 18,
-    "jpTotal": 6
-   },
-   "bodyAvailable": true,
-   "discussionUrl": null,
-   "summarizedBy": "gemini-3.5-flash"
-  },
-  {
-   "id": "intl-brief-2026-10-28-s-20261028-05",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "world",
-   "headline": "アレクサンダー兄弟３人に禁錮30年の判決",
-   "originalTitle": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
-   "outlet": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
-   "region": "overseas",
-   "category": null,
-   "score": 16,
-   "tier": "interest",
-   "pubDate": "2026-10-28T00:34:33.882Z",
-   "body": null,
-   "summary": "米国の裁判所は、性トラフィッキングなどの罪に問われたアレクサンダー兄弟３人に対し、それぞれ禁錮30年の判決を言い渡しました。被告らは不動産王などの社会的地位を利用し、女性たちに薬物を盛って性的暴行を加えたとして有罪判決を受けていました。被害女性たちは法廷で受けたトラウマや被害の深刻さを訴えました。被告側は無罪を主張し減刑を求めましたが、厳罰が下されました。",
-   "sources": [
-    {
-     "outlet": "BBC",
-     "url": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
-     "date": "2026-10-28",
-     "access": "body",
-     "via": null,
-     "note": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case"
-    },
-    {
-     "outlet": "South China Morning Post",
-     "url": "https://www.scmp.com/news/world/united-states-canada/article/3372357/alexander-brothers-each-get-30-years-prison-drugging-raping-women",
-     "date": "2026-10-28",
-     "access": "excerpt",
-     "via": null,
-     "note": "Alexander brothers each get 30 years in prison for drugging, raping women"
-    },
-    {
-     "outlet": "The Straits Times",
-     "url": "https://www.straitstimes.com/world/alexander-brothers-get-30-years-each-in-prison-after-sex-trafficking-convictions",
-     "date": "2026-10-28",
-     "access": "excerpt",
-     "via": null,
-     "note": "Alexander brothers get 30 years each in prison after sex trafficking convictions"
-    },
-    {
-     "outlet": "Associated Press",
-     "url": null,
-     "date": "2026-10-28",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Alexander brothers each get 30 years in prison after women speak of being drugged and raped by them - AP News"
-    },
-    {
-     "outlet": "Bloomberg",
-     "url": null,
-     "date": "2026-10-28",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Alexander Brothers Each Get 30 Years for Sex Trafficking - Bloomberg.com"
-    }
-   ],
-   "continuity": null,
-   "coverage": {
-    "world": "5/18",
-    "jp": "0/6",
-    "worldTotal": 18,
-    "jpTotal": 6
-   },
-   "bodyAvailable": true,
-   "discussionUrl": null,
-   "summarizedBy": "gemini-3.5-flash"
-  },
-  {
-   "id": "intl-brief-2026-10-28-s-20261028-09",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "world",
-   "headline": "トランプ米大統領、ベネズエラ産原油の積載船を公開",
-   "originalTitle": "Trump shows off tanker with ‘1m barrels of oil’ and floats Venezuela as 51st state",
-   "outlet": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/oct/27/trump-oil-tanker-venezuela",
-   "region": "overseas",
-   "category": null,
-   "score": 16,
-   "tier": "interest",
-   "pubDate": "2026-10-28T00:34:33.882Z",
-   "body": null,
-   "summary": "トランプ米大統領はテキサス州での演説で、ベネズエラから運ばれた原油100万バレルを積んだタンカーを公開しました。政権交代後の同国政府との石油協定を歴史的勝利と称賛し、将来的に同国が米国の51番目の州になる可能性にも触れました。米国内で高騰する燃料価格を押し下げると主張しています。国務長官も中国やロシアへの牽制として協定を擁護しました。",
-   "sources": [
-    {
-     "outlet": "The Guardian",
-     "url": "https://www.theguardian.com/us-news/2026/oct/27/trump-oil-tanker-venezuela",
-     "date": "2026-10-28",
-     "access": "body",
-     "via": null,
-     "note": "Trump shows off tanker with ‘1m barrels of oil’ and floats Venezuela as 51st state"
+     "note": "EU backs away from offer to Canada to start ‘associate member’ talks"
     },
     {
      "outlet": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/27/trump-showcases-venezuelan-oil-as-he-seeks-to-rally-voters-in-texas?traffic_source=rss",
-     "date": "2026-10-28",
+     "url": "https://www.aljazeera.com/economy/2026/10/28/canada-eu-summit-what-do-both-sides-want-and-whats-at-stake?traffic_source=rss",
+     "date": "2026-10-29",
      "access": "body",
      "via": null,
-     "note": "Trump showcases Venezuelan oil as he seeks to rally voters in Texas"
+     "note": "Canada-EU summit: What do both sides want, and what’s at stake?"
     },
     {
-     "outlet": "South China Morning Post",
-     "url": "https://www.scmp.com/news/china/diplomacy/article/3372347/rubio-invokes-china-russia-defend-disputed-venezuela-oil-deal",
-     "date": "2026-10-28",
+     "outlet": "France 24",
+     "url": "https://www.france24.com/en/europe/20261029-canada-and-eu-drop-associate-membership-plan-in-bid-to-deepen-ties",
+     "date": "2026-10-29",
      "access": "excerpt",
      "via": null,
-     "note": "Rubio invokes China, Russia to defend disputed Venezuela oil deal"
+     "note": "Canada and EU drop associate membership plan in bid to deepen ties"
+    },
+    {
+     "outlet": "Euronews",
+     "url": "https://www.euronews.com/2026/10/28/eu-removes-mention-of-associate-membership-from-canada-declaration",
+     "date": "2026-10-29",
+     "access": "excerpt",
+     "via": null,
+     "note": "EU removes mention of ‘associate membership’ from Canada declaration"
     },
     {
      "outlet": "Reuters",
      "url": null,
-     "date": "2026-10-28",
+     "date": "2026-10-29",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "Trump says he will visit tanker in Texas with first oil from Venezuela deal - Reuters"
+     "note": "Canada, European Union officials drop 'associate member' from joint summit declaration - Reuters"
     },
     {
-     "outlet": "Associated Press",
+     "outlet": "Financial Times",
      "url": null,
-     "date": "2026-10-28",
+     "date": "2026-10-29",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "Trump and Rubio plan to visit oil tanker carrying Venezuelan crude in Texas - AP News"
+     "note": "EU spars over ‘associate member’ label for Canada on eve of Carney summit - Financial Times"
     }
    ],
    "continuity": null,
    "coverage": {
-    "world": "5/18",
+    "world": "6/18",
     "jp": "0/6",
     "worldTotal": 18,
     "jpTotal": 6
@@ -555,255 +432,56 @@
    "summarizedBy": "gemini-3.5-flash"
   },
   {
-   "id": "intl-brief-2026-10-28-s-20261028-03",
+   "id": "intl-brief-2026-10-29-s-20261029-02",
    "stream": "intl",
    "depth": "brief",
    "section": "world",
-   "headline": "英軍基地の不審事案で２人訴追、イラン関与の疑い",
-   "originalTitle": "Two men charged over RAF Fairford air base incident, with one accused of assisting foreign intelligence",
-   "outlet": "Euronews",
-   "url": "https://www.euronews.com/2026/10/27/two-men-charged-over-raf-fairford-air-base-incident-with-one-accused-of-assisting-foreign-",
-   "region": "overseas",
-   "category": null,
-   "score": 14,
-   "tier": "interest",
-   "pubDate": "2026-10-28T00:34:33.882Z",
-   "body": null,
-   "summary": "英国の国家安全保障法に基づき、空軍基地近くで不審な動きをしたとして男２人が訴追されました。１人はイランとみられる外国情報機関を支援した罪に問われています。事件は米空軍が使用するフェアフォード基地近くで発生し、複数車両の不審情報を受けて逮捕されました。イラン側は同基地が米軍の作戦に使われているとして警告していました。残り５人の容疑者についても捜査が続いています。",
-   "sources": [
-    {
-     "outlet": "Euronews",
-     "url": "https://www.euronews.com/2026/10/27/two-men-charged-over-raf-fairford-air-base-incident-with-one-accused-of-assisting-foreign-",
-     "date": "2026-10-28",
-     "access": "body",
-     "via": null,
-     "note": "Two men charged over RAF Fairford air base incident, with one accused of assisting foreign intelligence"
-    },
-    {
-     "outlet": "South China Morning Post",
-     "url": "https://www.scmp.com/news/world/europe/article/3372342/2-men-charged-uk-helping-iran-over-air-force-base-incident",
-     "date": "2026-10-28",
-     "access": "excerpt",
-     "via": null,
-     "note": "2 men charged in UK with helping Iran over air force base incident"
-    },
-    {
-     "outlet": "CBS News",
-     "url": "https://www.cbsnews.com/news/uk-raf-fairford-terror-plot-iran-2-men-charged-security-offenses/",
-     "date": "2026-10-28",
-     "access": "excerpt",
-     "via": null,
-     "note": "U.K. charges 2 men linked to alleged terror plot against air base"
-    },
-    {
-     "outlet": "Times of India",
-     "url": "https://timesofindia.indiatimes.com/world/uk/2-men-charged-with-national-security-offences-over-suspected-iran-linked-plot-at-us-air-base-in-uk/articleshow/135242654.cms",
-     "date": "2026-10-28",
-     "access": "headline",
-     "via": null,
-     "note": "2 men charged with national security offences over suspected Iran-linked plot at US air base in UK"
-    },
-    {
-     "outlet": "Associated Press",
-     "url": null,
-     "date": "2026-10-28",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "2 men charged with UK national security offenses over incident at US-run military base in England - AP News"
-    }
-   ],
-   "continuity": null,
-   "coverage": {
-    "world": "5/18",
-    "jp": "0/6",
-    "worldTotal": 18,
-    "jpTotal": 6
-   },
-   "bodyAvailable": true,
-   "discussionUrl": null,
-   "summarizedBy": "gemini-3.5-flash"
-  },
-  {
-   "id": "intl-brief-2026-10-28-s-20261028-06",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "world",
-   "headline": "エジプト裁判所、独立系報道メディアの閉鎖命令",
-   "originalTitle": "Egypt court fines journalist Lina Attalah and orders news site's closure",
-   "outlet": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
-   "region": "overseas",
-   "category": null,
-   "score": 14,
-   "tier": "interest",
-   "pubDate": "2026-10-28T00:34:33.882Z",
-   "body": null,
-   "summary": "エジプトの裁判所は、独立系ニュースサイト「マダ・マスル」に対し無許可運営を理由に閉鎖を命じました。編集長のリナ・アタラ氏には罰金と禁錮１年の判決が下され、一時拘束されました。人権団体は報道の自由への深刻な打撃だと批判しています。同メディアはライセンス申請を続けていましたが放置されていました。エジプトではジャーナリストへの締め付けが強化されています。",
-   "sources": [
-    {
-     "outlet": "BBC",
-     "url": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
-     "date": "2026-10-28",
-     "access": "body",
-     "via": null,
-     "note": "Egypt court fines journalist Lina Attalah and orders news site's closure"
-    },
-    {
-     "outlet": "New York Times",
-     "url": "https://www.nytimes.com/2026/10/27/world/europe/egypt-press-crackdown-mada-masr-attalah.html",
-     "date": "2026-10-28",
-     "access": "excerpt",
-     "via": null,
-     "note": "Egyptian Court Orders News Site Closed as Critics Warn of a Crackdown"
-    },
-    {
-     "outlet": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/27/egypt-orders-closure-of-leading-independent-news-site-mada-masr?traffic_source=rss",
-     "date": "2026-10-28",
-     "access": "excerpt",
-     "via": null,
-     "note": "Egypt orders closure of leading independent news site Mada Masr"
-    },
-    {
-     "outlet": "Associated Press",
-     "url": null,
-     "date": "2026-10-28",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Court orders closure of one of Egypt’s last independent media outlets - AP News"
-    }
-   ],
-   "continuity": null,
-   "coverage": {
-    "world": "4/18",
-    "jp": "0/6",
-    "worldTotal": 18,
-    "jpTotal": 6
-   },
-   "bodyAvailable": true,
-   "discussionUrl": null,
-   "summarizedBy": "gemini-3.5-flash"
-  },
-  {
-   "id": "intl-brief-2026-10-28-s-20261026-13",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "world",
-   "headline": "ヨルダンがシリア国内を空爆、教会襲撃に報復",
-   "originalTitle": "Jordan Says Its Deadly Strikes in Syria Targeted Islamic State",
-   "outlet": "New York Times",
-   "url": "https://www.nytimes.com/2026/10/27/world/middleeast/jordan-syria-strikes-attack.html",
-   "region": "overseas",
-   "category": null,
-   "score": 13,
-   "tier": "interest",
-   "pubDate": "2026-10-28T00:34:33.882Z",
-   "body": null,
-   "summary": "ヨルダン軍がシリア国内の過激派組織イスラム国（IS）施設を空爆し、シリア側で民間人を含む致死傷者が出ました。ヨルダン国内で発生した教会襲撃事件への報復措置として実施されました。シリア政府は主権侵害だとして抗議し、国境検問所を一時閉鎖しました。ヨルダン側は民間人の犠牲に遺憾を示しつつ、過激派の脅威に対する防衛策であると主張しています。",
-   "sources": [
-    {
-     "outlet": "New York Times",
-     "url": "https://www.nytimes.com/2026/10/27/world/middleeast/jordan-syria-strikes-attack.html",
-     "date": "2026-10-28",
-     "access": "excerpt",
-     "via": null,
-     "note": "Jordan Says Its Deadly Strikes in Syria Targeted Islamic State"
-    },
-    {
-     "outlet": "BBC",
-     "url": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
-     "date": "2026-10-28",
-     "access": "body",
-     "via": null,
-     "note": "Jordan carries out deadly strike in Syria in retaliation for church attack"
-    },
-    {
-     "outlet": "Euronews",
-     "url": "https://www.euronews.com/2026/10/27/unacceptable-violation-syria-condemns-jordan-airstrikes",
-     "date": "2026-10-28",
-     "access": "excerpt",
-     "via": null,
-     "note": "'Unacceptable violation': Syria condemns Jordan airstrikes"
-    },
-    {
-     "outlet": "Associated Press",
-     "url": null,
-     "date": "2026-10-28",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Jordan acknowledges Syrian civilian deaths in strikes it says killed IS extremists - AP News"
-    }
-   ],
-   "continuity": {
-    "previousDate": "2026-10-26",
-    "previousScore": 24,
-    "note": "3日連続で報じられている"
-   },
-   "coverage": {
-    "world": "4/18",
-    "jp": "0/6",
-    "worldTotal": 18,
-    "jpTotal": 6
-   },
-   "bodyAvailable": true,
-   "discussionUrl": null,
-   "summarizedBy": "gemini-3.5-flash"
-  },
-  {
-   "id": "intl-brief-2026-10-28-s-20261019-19",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "gap",
-   "headline": "アフリカのエボラ感染者が１万人突破、コンゴ集中",
-   "originalTitle": "Ebola cases in DRC surpass 10,000 as nurse treating patients is killed by machete-wielding mob",
+   "headline": "セルビアのイスラエル大使館前で警察官襲撃の男が射殺される",
+   "originalTitle": "Knife attacker shot dead by police outside Israeli embassy",
    "outlet": "Sky News",
-   "url": "https://news.sky.com/story/ebola-cases-in-democratic-republic-of-congo-surpass-10000-as-nurse-treating-patients-is-killed-by-machete-wielding-mob-13604219",
+   "url": "https://news.sky.com/story/serbia-knife-attacker-shot-dead-by-police-outside-israeli-embassy-in-belgrade-13604683",
    "region": "overseas",
    "category": null,
-   "score": 12,
+   "score": 16,
    "tier": "interest",
-   "pubDate": "2026-10-28T00:34:33.882Z",
+   "pubDate": "2026-10-29T01:04:31.412Z",
    "body": null,
-   "summary": "アフリカにおけるエボラ出血熱の感染者数が１万人を超えたことが保健当局の発表で分かれました。感染の大半はコンゴ民主共和国に集中しており、ナイジェリアやケニアにも拡大しています。承認された治療薬がない中、欧州病気予防管理センターは支援のため現地へ専門家チームを派遣しました。医療従事者が襲撃される事件も発生しており、流行阻止に向けた活動が難航しています。",
+   "summary": "セルビアの首都ベオグラードにあるイスラエル大使館前で、警備中の警察官を襲撃した男が射殺されました。襲撃者は刃物を所持していた未成年者で、治安当局の監視対象になっていたと報告されています。当局は本件をテロ攻撃と認定し、最高レベルの警戒態勢を敷きました。過激派組織への支持を示していたとの発表も出ています。",
    "sources": [
     {
      "outlet": "Sky News",
-     "url": "https://news.sky.com/story/ebola-cases-in-democratic-republic-of-congo-surpass-10000-as-nurse-treating-patients-is-killed-by-machete-wielding-mob-13604219",
-     "date": "2026-10-28",
+     "url": "https://news.sky.com/story/serbia-knife-attacker-shot-dead-by-police-outside-israeli-embassy-in-belgrade-13604683",
+     "date": "2026-10-29",
      "access": "excerpt",
      "via": null,
-     "note": "Ebola cases in DRC surpass 10,000 as nurse treating patients is killed by machete-wielding mob"
+     "note": "Knife attacker shot dead by police outside Israeli embassy"
     },
     {
-     "outlet": "France 24",
-     "url": "https://www.france24.com/en/africa/20261027-africa-ebola-outbreak-tops-10-000-cases-mainly-dr-congo",
-     "date": "2026-10-28",
+     "outlet": "New York Times",
+     "url": "https://www.nytimes.com/2026/10/28/world/europe/knife-wielding-attacker-fatally-shot-outside-israeli-embassy-in-serbia.html",
+     "date": "2026-10-29",
      "access": "excerpt",
      "via": null,
-     "note": "Africa's Ebola outbreak tops 10,000 cases, mainly in DR Congo"
+     "note": "Knife-Wielding Attacker Fatally Shot Outside Israeli Embassy in Serbia"
     },
     {
-     "outlet": "Euronews",
-     "url": "https://www.euronews.com/2026/10/27/european-disease-control-center-sends-experts-to-nigeria-while-ebola-cases-surpass-10000-i",
-     "date": "2026-10-28",
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
+     "date": "2026-10-29",
      "access": "excerpt",
      "via": null,
-     "note": "European disease control center sends experts to Nigeria while Ebola cases surpass 10,000 in Congo"
+     "note": "Serbian shot dead after attacking officer outside Israeli embassy, minister says"
     },
     {
-     "outlet": "Associated Press",
-     "url": null,
-     "date": "2026-10-28",
+     "outlet": "Deutsche Welle",
+     "url": "https://www.dw.com/en/serbian-police-shoot-dead-assailant-at-israeli-embassy/a-79782905?maca=en-rss-en-world-4025-rdf",
+     "date": "2026-10-29",
      "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Congo’s Ebola outbreak tops 10,000 cases as authorities race to slow the spread in African countries - AP News"
+     "via": null,
+     "note": "Serbian police shoot dead assailant at Israeli Embassy"
     }
    ],
-   "continuity": {
-    "previousDate": "2026-10-19",
-    "previousScore": 27,
-    "note": "4日連続で報じられている"
-   },
+   "continuity": null,
    "coverage": {
     "world": "4/18",
     "jp": "0/6",
@@ -815,54 +493,66 @@
    "summarizedBy": "gemini-3.5-flash"
   },
   {
-   "id": "intl-brief-2026-10-28-s-20261020-06",
+   "id": "intl-brief-2026-10-29-s-20261029-12",
    "stream": "intl",
    "depth": "brief",
-   "section": "gap",
-   "headline": "スーダンで無人機攻撃相次ぐ、大規模停電や市民被害",
-   "originalTitle": "Sudan paramilitary drone strikes cause mass power cuts in eastern states",
-   "outlet": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/oct/26/sudan-paramilitary-drone-strikes-rapid-support-forces-power-cuts-eastern-states",
+   "section": "world",
+   "headline": "国連総会が米のキューバ経済封鎖撤廃を決議も賛成国は減少",
+   "originalTitle": "UN votes to condemn embargo of Cuba despite US lobbying push",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/28/un-votes-to-condemn-embargo-of-cuba-despite-us-lobbying-push?traffic_source=rss",
    "region": "overseas",
    "category": null,
-   "score": 11,
+   "score": 14,
    "tier": "interest",
-   "pubDate": "2026-10-28T00:34:33.882Z",
+   "pubDate": "2026-10-29T01:04:31.412Z",
    "body": null,
-   "summary": "スーダンで無人機による攻撃が相次ぎ、インフラや市民への被害が拡大しています。即応支援部隊（RSF）が軍統制下の発電所５箇所を攻撃し、東部で大規模停電が発生しました。一方、南ダルフール州の市場に対する空爆では100人以上が死亡しました。人権団体などは軍の関与を指摘しています。インフラ破壊により人道危機がさらに深刻化しています。",
+   "summary": "国連総会は、米国によるキューバへの経済封鎖を非難し撤廃を求める決議案を賛成多数で可決しました。同様の決議は長年採択されていますが、今回の賛成国数は過去30年で最低となりました。米国による外交圧力や経済規制の強化を背景に、棄権や反対に転じる国が増加しています。米朝双方の国連代表が激しく対立する場面もありました。",
    "sources": [
     {
-     "outlet": "The Guardian",
-     "url": "https://www.theguardian.com/world/2026/oct/26/sudan-paramilitary-drone-strikes-rapid-support-forces-power-cuts-eastern-states",
-     "date": "2026-10-28",
+     "outlet": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/28/un-votes-to-condemn-embargo-of-cuba-despite-us-lobbying-push?traffic_source=rss",
+     "date": "2026-10-29",
      "access": "body",
      "via": null,
-     "note": "Sudan paramilitary drone strikes cause mass power cuts in eastern states"
+     "note": "UN votes to condemn embargo of Cuba despite US lobbying push"
     },
     {
-     "outlet": "Times of India",
-     "url": "https://timesofindia.indiatimes.com/world/rest-of-world/over-100-killed-113-injured-in-drone-strike-on-sudan-market/articleshow/135245811.cms",
-     "date": "2026-10-28",
+     "outlet": "Euronews",
+     "url": "https://www.euronews.com/2026/10/28/support-for-un-vote-to-end-us-embargo-on-cuba-falls-to-30-year-low",
+     "date": "2026-10-29",
      "access": "body",
      "via": null,
-     "note": "Over 100 killed, 113 injured in drone strike on Sudan market"
+     "note": "Support for UN vote to end US embargo on Cuba falls to 30-year low"
+    },
+    {
+     "outlet": "South China Morning Post",
+     "url": "https://www.scmp.com/news/world/americas/article/3372494/un-condemns-us-embargo-cuba-more-nations-sit-out-after-trump-pressure",
+     "date": "2026-10-29",
+     "access": "excerpt",
+     "via": null,
+     "note": "UN condemns US embargo of Cuba, but more nations sit out after Trump pressure"
+    },
+    {
+     "outlet": "Reuters",
+     "url": null,
+     "date": "2026-10-29",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "US sways more countries to oppose UN resolution condemning its Cuba embargo - Reuters"
     },
     {
      "outlet": "Associated Press",
      "url": null,
-     "date": "2026-10-28",
+     "date": "2026-10-29",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "More than 100 people killed in Sudanese army drone attack on market says Sudanese rights group - AP News"
+     "note": "US and Cuban officials engage in a shouting match during a UN debate over the economic embargo - AP News"
     }
    ],
-   "continuity": {
-    "previousDate": "2026-10-20",
-    "previousScore": 15,
-    "note": "5日連続で報じられている"
-   },
+   "continuity": null,
    "coverage": {
-    "world": "3/18",
+    "world": "5/18",
     "jp": "0/6",
     "worldTotal": 18,
     "jpTotal": 6
@@ -872,45 +562,313 @@
    "summarizedBy": "gemini-3.5-flash"
   },
   {
-   "id": "intl-brief-2026-10-28-s-20261028-07",
+   "id": "intl-brief-2026-10-29-s-20261029-13",
    "stream": "intl",
    "depth": "brief",
-   "section": "gap",
-   "headline": "米軍が太平洋で麻薬疑惑船を空爆、５人死亡",
-   "originalTitle": "US military says strike on alleged drug vessel in eastern Pacific kills five people",
-   "outlet": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/oct/27/us-military-strike-vessel-eastern-pacific",
+   "section": "world",
+   "headline": "ロシアのプーチン大統領がアフリカ首脳会議で結束を呼びかける",
+   "originalTitle": "Putin: Russia is African continent’s best partner, not ‘colonial’ West",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/putin-russia-is-african-continents-best-partner-not-colonial-west?traffic_source=rss",
    "region": "overseas",
    "category": null,
-   "score": 10,
+   "score": 14,
    "tier": "interest",
-   "pubDate": "2026-10-28T00:34:33.882Z",
+   "pubDate": "2026-10-29T01:04:31.412Z",
    "body": null,
-   "summary": "米軍は東太平洋で麻薬密輸に関与したとされる船を空爆し、５人を追加で殺害したと発表しました。トランプ政権下での同様の攻撃は70回を超え、犠牲者は240人以上に達しています。米政府はカルテルとの武装闘争だと主張しています。しかし、明確な証拠が開示されないまま民間人を標的にしているとして、人権団体から裁判外の殺害であると批判されています。",
+   "summary": "ロシアのモスクワでロシア・アフリカ首脳会議が開かれ、プーチン大統領がアフリカ諸国との関係強化を呼びかけました。同氏は欧米諸国を「植民地主義的」と批判し、ロシアこそが最も信頼できるパートナーだと主張しました。ウクライナ侵攻後に欧米と対立する中、ロシアはアフリカでの外交や経済の影響力拡大を図っています。",
    "sources": [
     {
-     "outlet": "The Guardian",
-     "url": "https://www.theguardian.com/us-news/2026/oct/27/us-military-strike-vessel-eastern-pacific",
-     "date": "2026-10-28",
+     "outlet": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/putin-russia-is-african-continents-best-partner-not-colonial-west?traffic_source=rss",
+     "date": "2026-10-29",
      "access": "body",
      "via": null,
-     "note": "US military says strike on alleged drug vessel in eastern Pacific kills five people"
+     "note": "Putin: Russia is African continent’s best partner, not ‘colonial’ West"
     },
     {
-     "outlet": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/27/us-says-it-killed-five-people-in-strike-on-alleged-drug-boat?traffic_source=rss",
-     "date": "2026-10-28",
+     "outlet": "Deutsche Welle",
+     "url": "https://www.dw.com/en/russia-in-africa-what-is-putin-hoping-to-achieve/a-79781858?maca=en-rss-en-world-4025-rdf",
+     "date": "2026-10-29",
      "access": "body",
      "via": null,
-     "note": "US says it killed five people in strike on alleged drug boat"
+     "note": "Russia in Africa: What is Putin hoping to achieve?"
+    },
+    {
+     "outlet": "France 24",
+     "url": "https://www.france24.com/en/russia-woos-african-leaders-at-moscow-summit",
+     "date": "2026-10-29",
+     "access": "excerpt",
+     "via": null,
+     "note": "Russia woos African leaders at Moscow summit"
+    },
+    {
+     "outlet": "South China Morning Post",
+     "url": "https://www.scmp.com/news/world/russia-central-asia/article/3372483/russias-putin-woos-african-leaders-summit-slams-colonial-west",
+     "date": "2026-10-29",
+     "access": "excerpt",
+     "via": null,
+     "note": "Russia’s Putin woos African leaders at summit, slams ‘colonial’ West"
+    },
+    {
+     "outlet": "Associated Press",
+     "url": null,
+     "date": "2026-10-29",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Putin seeks to expand ties with African countries at Russia-Africa summit - AP News"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "5/18",
+    "jp": "1/6",
+    "worldTotal": 18,
+    "jpTotal": 6
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "gemini-3.5-flash"
+  },
+  {
+   "id": "intl-brief-2026-10-29-s-20261029-14",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "world",
+   "headline": "米FRBが政策金利の据え置きを決定、高インフレは継続",
+   "originalTitle": "Fed leaves interest rates unchanged despite inflation in the US",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/economy/2026/10/28/fed-leaves-interest-rates-unchanged-despite-inflation-in-the-us?traffic_source=rss",
+   "region": "overseas",
+   "category": null,
+   "score": 14,
+   "tier": "interest",
+   "pubDate": "2026-10-29T01:04:31.412Z",
+   "body": null,
+   "summary": "米連邦準備理事会（FRB）は、政策金利を3.75〜4.00％で据え置くことを決定しました。米中間選挙を直前に控え、市場の予想通りの据え置きとなりました。一方で、インフレ率の上昇が続いており、決定会合では追加利上げを求める一部メンバーとの意見の割れもみられました。FRBは経済活動が強いペースで拡大しているとの認識を示しています。",
+   "sources": [
+    {
+     "outlet": "Al Jazeera",
+     "url": "https://www.aljazeera.com/economy/2026/10/28/fed-leaves-interest-rates-unchanged-despite-inflation-in-the-us?traffic_source=rss",
+     "date": "2026-10-29",
+     "access": "body",
+     "via": null,
+     "note": "Fed leaves interest rates unchanged despite inflation in the US"
+    },
+    {
+     "outlet": "Euronews",
+     "url": "https://www.euronews.com/2026/10/28/fed-holds-rates-days-before-us-midterms-as-two-officials-push-for-another-hike",
+     "date": "2026-10-29",
+     "access": "body",
+     "via": null,
+     "note": "Fed holds rates days before US midterms as two officials push for another hike"
+    },
+    {
+     "outlet": "South China Morning Post",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3372489/us-fed-holds-interest-rates-steady-despite-surging-inflation",
+     "date": "2026-10-29",
+     "access": "excerpt",
+     "via": null,
+     "note": "US Fed holds interest rates steady despite surging inflation"
+    },
+    {
+     "outlet": "Bloomberg",
+     "url": null,
+     "date": "2026-10-29",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "US Stock Futures Decline, Fed Keeps Rates Steady: Markets Wrap - Bloomberg"
+    },
+    {
+     "outlet": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-10-29/asx-markets-business-live-news-29-october-2026/107321622",
+     "date": "2026-10-29",
+     "access": "excerpt",
+     "via": null,
+     "note": "Live: US staring down December and March rate hikes as Fed leaves rates on hold"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "5/18",
+    "jp": "4/6",
+    "worldTotal": 18,
+    "jpTotal": 6
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "gemini-3.5-flash"
+  },
+  {
+   "id": "intl-brief-2026-10-29-s-20261029-11",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "world",
+   "headline": "英政府が秋季予算案を発表、銀行課税強化や家計支援を盛り込む",
+   "originalTitle": "Five key takeaways from the UK Autumn Budget",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/economy/2026/10/28/five-key-takeaways-from-the-uk-autumn-budget?traffic_source=rss",
+   "region": "overseas",
+   "category": null,
+   "score": 13,
+   "tier": "interest",
+   "pubDate": "2026-10-29T01:04:31.412Z",
+   "body": null,
+   "summary": "英国のヒーリー財務相が秋季予算案を発表し、物価高に苦しむ世帯への支援策を打ち出しました。エネルギー価格高騰への対策として約2000万世帯に定額支給を行う一方、銀行の利益に対する増税などを財源に充てます。中東情勢に伴う燃料価格の上昇が家計を圧迫する中、政府は生活水準の防衛と経済成長の両立を目指しています。",
+   "sources": [
+    {
+     "outlet": "Al Jazeera",
+     "url": "https://www.aljazeera.com/economy/2026/10/28/five-key-takeaways-from-the-uk-autumn-budget?traffic_source=rss",
+     "date": "2026-10-29",
+     "access": "body",
+     "via": null,
+     "note": "Five key takeaways from the UK Autumn Budget"
+    },
+    {
+     "outlet": "Euronews",
+     "url": "https://www.euronews.com/2026/10/28/uk-budget-heres-five-key-takeaways-from-the-chancellors-speech",
+     "date": "2026-10-29",
+     "access": "body",
+     "via": null,
+     "note": "UK budget: Here’s five key takeaways from the Chancellor’s speech"
+    },
+    {
+     "outlet": "Associated Press",
+     "url": null,
+     "date": "2026-10-29",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "UK seeks to give households ‘breathing space’ this winter over Iran war energy price spike - AP News"
+    },
+    {
+     "outlet": "Financial Times",
+     "url": null,
+     "date": "2026-10-29",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Budget in brief: what you need to know - Financial Times"
+    },
+    {
+     "outlet": "The Guardian",
+     "url": "https://www.theguardian.com/uk-news/2026/oct/28/budget-2026-healey-hikes-taxes-on-banks-and-landlords-to-fund-100-handouts-to-20m-households",
+     "date": "2026-10-29",
+     "access": "excerpt",
+     "via": null,
+     "note": "Budget 2026: Healey hikes taxes on banks and landlords to fund £100 handouts to 20m households"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "5/18",
+    "jp": "0/6",
+    "worldTotal": 18,
+    "jpTotal": 6
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "gemini-3.5-flash"
+  },
+  {
+   "id": "intl-brief-2026-10-29-s-20261029-16",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "world",
+   "headline": "911テロやマドゥロ氏の裁判を担当した米連邦判事が92歳で死去",
+   "originalTitle": "Top US federal judge who handled 9/11, Trump, Maduro cases dies aged 92",
+   "outlet": "France 24",
+   "url": "https://www.france24.com/en/americas/20261028-top-us-federal-judge-who-handled-9-11-trump-maduro-cases-dies-aged-92",
+   "region": "overseas",
+   "category": null,
+   "score": 11,
+   "tier": "interest",
+   "pubDate": "2026-10-29T01:04:31.412Z",
+   "body": null,
+   "summary": "米国の著名な連邦裁判官であるアルビン・ヘラースタイン氏が92歳で死去しました。同氏は米同時多発テロ事件に関する訴訟や、失脚したベネズエラのマドゥロ前大統領に対する裁判など、多くの重大事件を担当してきました。高齢になりながらも精力的に法務に携わり、裁判所で重要な役割を果たし続けた人物として知られています。",
+   "sources": [
+    {
+     "outlet": "France 24",
+     "url": "https://www.france24.com/en/americas/20261028-top-us-federal-judge-who-handled-9-11-trump-maduro-cases-dies-aged-92",
+     "date": "2026-10-29",
+     "access": "excerpt",
+     "via": null,
+     "note": "Top US federal judge who handled 9/11, Trump, Maduro cases dies aged 92"
+    },
+    {
+     "outlet": "South China Morning Post",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3372488/92-year-old-us-judge-handling-maduro-case-dies",
+     "date": "2026-10-29",
+     "access": "excerpt",
+     "via": null,
+     "note": "92-year-old US judge handling Maduro case dies"
     },
     {
      "outlet": "The Straits Times",
-     "url": "https://www.straitstimes.com/world/united-states/us-says-five-dead-in-strike-on-alleged-drug-smuggling-boat",
-     "date": "2026-10-28",
+     "url": "https://www.straitstimes.com/world/united-states/92-year-old-us-judge-handling-nicolas-maduro-case-dies",
+     "date": "2026-10-29",
      "access": "excerpt",
      "via": null,
-     "note": "US says five dead in strike on alleged drug-smuggling boat"
+     "note": "92-year-old US judge handling Nicolas Maduro case dies"
+    },
+    {
+     "outlet": "Reuters",
+     "url": null,
+     "date": "2026-10-29",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Alvin Hellerstein, federal judge who oversaw Trump, Maduro and September 11 cases, dies at 92 - Reuters"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "4/18",
+    "jp": "0/6",
+    "worldTotal": 18,
+    "jpTotal": 6
+   },
+   "bodyAvailable": false,
+   "discussionUrl": null,
+   "summarizedBy": "gemini-3.5-flash"
+  },
+  {
+   "id": "intl-brief-2026-10-29-s-20261029-07",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "gap",
+   "headline": "ウクライナ・ヘルソン州で救援活動のための停戦区域が拡大",
+   "originalTitle": "Ceasefire extended across Ukraine's Kherson region, officials say",
+   "outlet": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
+   "region": "overseas",
+   "category": null,
+   "score": 9,
+   "tier": "interest",
+   "pubDate": "2026-10-29T01:04:31.412Z",
+   "body": null,
+   "summary": "ウクライナ南部のヘルソン州で、包囲された町への支援を目的とした一時停戦が州全体に拡大しました。ロシア占領下のオレシュキでは長期間水や食料が不足しており、住民の避難や救援物資の搬入が計画されています。仲介に関わった関係者によると、停戦合意は両軍によって遵守されており、現場では戦闘が停止しています。",
+   "sources": [
+    {
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
+     "date": "2026-10-29",
+     "access": "body",
+     "via": null,
+     "note": "Ceasefire extended across Ukraine's Kherson region, officials say"
+    },
+    {
+     "outlet": "Deutsche Welle",
+     "url": "https://www.dw.com/en/evacuation-from-oleshky-how-are-preparations-going/a-79790001?maca=en-rss-en-world-4025-rdf",
+     "date": "2026-10-29",
+     "access": "body",
+     "via": null,
+     "note": "Evacuation from Oleshky: How are preparations going?"
+    },
+    {
+     "outlet": "The Straits Times",
+     "url": "https://www.straitstimes.com/world/europe/in-ukraines-kherson-brief-ceasefire-brings-rare-respite",
+     "date": "2026-10-29",
+     "access": "excerpt",
+     "via": null,
+     "note": "In Ukraine’s Kherson, brief ceasefire brings rare respite"
     }
    ],
    "continuity": null,
@@ -925,37 +883,37 @@
    "summarizedBy": "gemini-3.5-flash"
   },
   {
-   "id": "intl-brief-2026-10-28-s-20261028-11",
+   "id": "intl-brief-2026-10-29-s-20261029-06",
    "stream": "intl",
    "depth": "brief",
    "section": "gap",
-   "headline": "ウクライナ軍、パイプラインを活用し奪還作戦",
-   "originalTitle": "Ukraine's Zelenskiy says territory recaptured, forces on the offensive",
-   "outlet": "The Straits Times",
-   "url": "https://www.straitstimes.com/world/europe/ukraines-zelenskiy-says-territory-recaptured-forces-on-the-offensive",
+   "headline": "フィンランドとノルウェーの首脳がプーチン大統領と電話会談",
+   "originalTitle": "European Leaders Split Over Phone Call to Putin",
+   "outlet": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/27/world/europe/norway-finland-putin-call.html",
    "region": "overseas",
    "category": null,
-   "score": 6,
+   "score": 7,
    "tier": "interest",
-   "pubDate": "2026-10-28T00:34:33.882Z",
+   "pubDate": "2026-10-29T01:04:31.412Z",
    "body": null,
-   "summary": "ウクライナのゼレンスキー大統領は、地下のガスパイプラインを利用してロシア軍の裏をかく作戦を展開し、領土を奪還したと明らかにしました。北東部クピャンスク近郊での作戦を含め、複数の攻勢が進行中であると説明しています。戦況はここ最近で最も強固な状態にあると強調しました。あわせて防衛力を高めるため、欧米諸国に対して防空システムの追加供与を強く求めています。",
+   "summary": "フィンランドの大統領とノルウェーの首相が、ロシアのプーチン大統領と合同で電話会談を行いました。ウクライナ紛争の停戦に向けた交渉において、直接意思を伝達することを目的としています。両首脳は欧州全体を代表するものではなく隣国としての対話だと説明し、双方の主張には依然として大きな隔たりがあると述べています。",
    "sources": [
     {
-     "outlet": "The Straits Times",
-     "url": "https://www.straitstimes.com/world/europe/ukraines-zelenskiy-says-territory-recaptured-forces-on-the-offensive",
-     "date": "2026-10-28",
-     "access": "body",
+     "outlet": "New York Times",
+     "url": "https://www.nytimes.com/2026/10/27/world/europe/norway-finland-putin-call.html",
+     "date": "2026-10-29",
+     "access": "excerpt",
      "via": null,
-     "note": "Ukraine's Zelenskiy says territory recaptured, forces on the offensive"
+     "note": "European Leaders Split Over Phone Call to Putin"
     },
     {
-     "outlet": "Reuters",
-     "url": null,
-     "date": "2026-10-28",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Ukraine's Zelenskiy says territory recaptured, forces on the offensive - Reuters"
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-10-29",
+     "access": "body",
+     "via": null,
+     "note": "Norway and Finland leaders hold rare call with Putin"
     }
    ],
    "continuity": null,
@@ -970,37 +928,127 @@
    "summarizedBy": "gemini-3.5-flash"
   },
   {
-   "id": "intl-brief-2026-10-28-s-20261028-12",
+   "id": "intl-brief-2026-10-29-s-20261029-17",
    "stream": "intl",
    "depth": "brief",
    "section": "gap",
-   "headline": "トランプ米大統領、中間選挙結果の受入に条件",
-   "originalTitle": "Trump says he’ll respect US midterm results if elections are ‘honest’",
-   "outlet": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/trump-says-hell-respect-us-midterm-results-if-elections-are?traffic_source=rss",
+   "headline": "欧州天然ガス価格が2022年以来の100ユーロを突破",
+   "originalTitle": "EU natural gas prices top €100 for first time since 2022",
+   "outlet": "France 24",
+   "url": "https://www.france24.com/en/tv-shows/business/20261028-eu-natural-gas-prices-top-%E2%82%AC100-for-first-time-since-2022",
    "region": "overseas",
    "category": null,
    "score": 6,
    "tier": "interest",
-   "pubDate": "2026-10-28T00:34:33.882Z",
+   "pubDate": "2026-10-29T01:04:31.412Z",
    "body": null,
-   "summary": "トランプ米大統領は、11月の中間選挙結果を受け入れるか問われ、公正な選挙である場合のみに応じると発言しました。与党・共和党が議会の過半数を失う可能性が取り沙汰される中、不当性を主張する根拠を事前に作る狙いがあるとみられます。世論調査ではインフレへの不満などから与党への逆風が強まっています。野党が勝利した場合も拒否権を行使して対応すると述べました。",
+   "summary": "欧州の指標となる天然ガス価格が、1メガワット時あたり100ユーロを超えました。この水準に達するのは2022年のエネルギー危機以来となります。イランでの紛争に伴う液化天然ガスの供給混乱や、冬を前とした在庫の遅れが価格を押し上げています。欧州委員会は市民や経済にとって厳しい冬になると警戒を強めています。",
    "sources": [
     {
-     "outlet": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/trump-says-hell-respect-us-midterm-results-if-elections-are?traffic_source=rss",
-     "date": "2026-10-28",
+     "outlet": "France 24",
+     "url": "https://www.france24.com/en/tv-shows/business/20261028-eu-natural-gas-prices-top-%E2%82%AC100-for-first-time-since-2022",
+     "date": "2026-10-29",
      "access": "excerpt",
      "via": null,
-     "note": "Trump says he’ll respect US midterm results if elections are ‘honest’"
+     "note": "EU natural gas prices top €100 for first time since 2022"
     },
     {
-     "outlet": "The Straits Times",
-     "url": "https://www.straitstimes.com/world/united-states/trump-says-will-respect-us-midterm-results-if-theyre-honest",
-     "date": "2026-10-28",
+     "outlet": "Euronews",
+     "url": "https://www.euronews.com/2026/10/28/european-gas-price-crosses-100-for-first-time-since-2022-as-eu-warns-of-new-crisis",
+     "date": "2026-10-29",
      "access": "body",
      "via": null,
-     "note": "Trump says he will respect US midterm results ‘if they’re honest’"
+     "note": "European gas price crosses €100 for first time since 2022 as EU warns of new crisis"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "2/18",
+    "jp": "0/6",
+    "worldTotal": 18,
+    "jpTotal": 6
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "gemini-3.5-flash"
+  },
+  {
+   "id": "intl-brief-2026-10-29-s-20261029-18",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "gap",
+   "headline": "韓国当局がグーグルとアップルに計637億ウォンの制裁金",
+   "originalTitle": "South Korea fines Google, Apple for pushing app developers onto their payment systems",
+   "outlet": "Euronews",
+   "url": "https://www.euronews.com/2026/10/28/south-korea-fines-google-apple-for-pushing-app-developers-onto-their-payment-systems",
+   "region": "overseas",
+   "category": null,
+   "score": 6,
+   "tier": "interest",
+   "pubDate": "2026-10-29T01:04:31.412Z",
+   "body": null,
+   "summary": "韓国の通信規制当局は、グーグルとアップルに対し合わせて637億ウォンの制裁金を科しました。自社のアプリ内決済システムの利用をアプリ開発者に事実上強制したことなどが違法と判断されました。両社は外部決済への手数料を高く設定するなどの手法で抜け道を制限していたとされ、当局は是正計画の提出を命じています。",
+   "sources": [
+    {
+     "outlet": "Euronews",
+     "url": "https://www.euronews.com/2026/10/28/south-korea-fines-google-apple-for-pushing-app-developers-onto-their-payment-systems",
+     "date": "2026-10-29",
+     "access": "body",
+     "via": null,
+     "note": "South Korea fines Google, Apple for pushing app developers onto their payment systems"
+    },
+    {
+     "outlet": "Associated Press",
+     "url": null,
+     "date": "2026-10-29",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "South Korea fines Google and Apple over unfair app market practices - AP News"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "2/18",
+    "jp": "0/6",
+    "worldTotal": 18,
+    "jpTotal": 6
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "gemini-3.5-flash"
+  },
+  {
+   "id": "intl-brief-2026-10-29-s-20261029-24",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "gap",
+   "headline": "トランプ米大統領が石油・ガス採掘のメタン排出規制撤廃を表明",
+   "originalTitle": "Trump rolls back methane rules for US oil and gas industry",
+   "outlet": "Euronews",
+   "url": "https://www.euronews.com/2026/10/28/trump-rolls-back-methane-rules-for-us-oil-and-gas-industry",
+   "region": "overseas",
+   "category": null,
+   "score": 6,
+   "tier": "interest",
+   "pubDate": "2026-10-29T01:04:31.412Z",
+   "body": null,
+   "summary": "トランプ米大統領は、石油および天然ガス生産者に対するメタン排出規制を撤廃すると発表しました。前政権が導入した規制を取り払うことで、エネルギー生産費用を大きく削減し消費者価格を抑える狙いがあります。メタンは温室効果が極めて高いため、今回の規制緩和に対する環境保護上の懸念も強まっています。",
+   "sources": [
+    {
+     "outlet": "Euronews",
+     "url": "https://www.euronews.com/2026/10/28/trump-rolls-back-methane-rules-for-us-oil-and-gas-industry",
+     "date": "2026-10-29",
+     "access": "body",
+     "via": null,
+     "note": "Trump rolls back methane rules for US oil and gas industry"
+    },
+    {
+     "outlet": "Associated Press",
+     "url": null,
+     "date": "2026-10-29",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Trump says he’s ending restrictions on climate-warming methane from oil drilling - AP News"
     }
    ],
    "continuity": null,
