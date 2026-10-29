@@ -1,0 +1,273 @@
+{
+ "date": "2026-10-29",
+ "theme": {
+  "id": "conflict",
+  "label": "紛争・安全保障"
+ },
+ "generatedAt": "2026-10-29T01:16:57.892Z",
+ "model": "gemini-3.5-flash-lite",
+ "trial": true,
+ "feeds": [
+  {
+   "feed": "Foreign Policy",
+   "ok": true,
+   "count": 25
+  },
+  {
+   "feed": "War on the Rocks",
+   "ok": true,
+   "count": 10
+  },
+  {
+   "feed": "The Diplomat",
+   "ok": true,
+   "count": 25
+  },
+  {
+   "feed": "Meduza",
+   "ok": true,
+   "count": 25
+  },
+  {
+   "feed": "BBC",
+   "ok": true,
+   "count": 25
+  },
+  {
+   "feed": "Deutsche Welle",
+   "ok": true,
+   "count": 12
+  },
+  {
+   "feed": "Al Jazeera",
+   "ok": true,
+   "count": 25
+  }
+ ],
+ "counts": {
+  "articles": 147,
+  "topics": 13
+ },
+ "alsoRan": [
+  {
+   "topic": "ベオグラードのイスラエル大使館前での警備官襲撃事件",
+   "outlets": 3,
+   "jpCount": 15,
+   "priority": 3.6
+  },
+  {
+   "topic": "タイ南部における暴力の再燃と治安情勢",
+   "outlets": 1,
+   "jpCount": 0,
+   "priority": 3.2
+  },
+  {
+   "topic": "国際的なジハード主義組織の動向とテロ対策",
+   "outlets": 1,
+   "jpCount": 0,
+   "priority": 3.2
+  },
+  {
+   "topic": "大西洋を越えた米欧間の防衛協力とNATOの枠組み",
+   "outlets": 1,
+   "jpCount": 18,
+   "priority": 2.4
+  },
+  {
+   "topic": "軍事作戦および調達におけるAIシステムの活用",
+   "outlets": 1,
+   "jpCount": 30,
+   "priority": 1.8
+  }
+ ],
+ "topics": [
+  {
+   "rank": 1,
+   "topic": "アフガニスタンにおけるタリバン政権と反体制勢力",
+   "theme": "conflict",
+   "priority": 4.8,
+   "world": {
+    "outlets": [
+     "War on the Rocks",
+     "Meduza"
+    ],
+    "analysisOutlets": [
+     "War on the Rocks"
+    ],
+    "firstDate": "2026-10-27",
+    "lastDate": "2026-10-28"
+   },
+   "jp": {
+    "query": "アフガニスタン タリバン 抵抗勢力",
+    "count": 2,
+    "headlines": [
+     "月刊ドットワールドTV #26振り返り アフガン女性たちの抵抗と日常を記録する - ドットワールド",
+     "タリバン打倒は「不可能」 対抗勢力指導者、民主化交渉訴え - 山陽新聞"
+    ]
+   },
+   "bodyCount": 2,
+   "sources": [
+    {
+     "outlet": "War on the Rocks",
+     "kind": "analysis",
+     "date": "2026-10-27",
+     "url": "https://warontherocks.com/the-anti-taliban-resistance-has-survived-can-it-win/",
+     "headline": "The Anti-Taliban Resistance Has Survived. Can It Win?",
+     "access": "body",
+     "text": "As the Taliban enters its sixth year in power, it remains more powerful than it was before the Sept. 11 attacks. The Taliban’s flag flies in all of Afghanistan’s 34 provinces. While only Russia has formally recognized the group as the country’s government, China and the United Arab Emirates have officially accredited or accepted Taliban ambassadors and exchanged diplomatic staff, with Pakistan, Qatar, Iran, Kazakhstan, Uzbekistan, Turkmenistan, and Turkey establishing de facto working relationships with the Sunni Deobandi group. Even its archrival, the Islamic State in Afghanistan, has seen its attack activity decline after years of counter-terrorism operations.However, beneath the surface and far from the spotlight, the anti-Taliban resistance — a motley crew of over a dozen groups led by former leaders of the previous government — has survived despite having neither an established cross-border military sanctuary nor an overt state sponsor, two key ingredients for a successful insurgency. In the last two years, these groups have multiplied, and the tempo and geographical reach of their attacks have expanded.Despite the anti-Taliban resistance’s modest gains, Western governments should consider preliminary public engagements with resistance leaders if Pakistan’s outreach bears fruit and the groups gain traction after unifying, while making future support contingent on their ability to seize and hold territory. Maintaining these relationships, many dating back more than 20 years, will preserve the West’s options should Pakistan’s relationship with the Taliban continue to deteriorate or should the Taliban prove unwilling or unable to constrain al-Qaeda’s external operations from its training camps in Afghanistan.The Resistance LandscapeThe anti-Taliban resistance began shortly after the fall of the previous government, when forces loyal to Ahmad Massoud, the son of the legendary Ahmad Shah Massoud, and former First Vice President Amrullah Saleh attempted to hold out in the Panjshir Valley. However, aided by recently captured American weapons and equipment, the Taliban routed the fledgling group less than a month after the fall of Kabul.Massoud’s National Resistance Front was the first group to emerge from the wreckage of the fall of Kabul. The overwhelming majority of its attacks have focused on his father’s Jamiat-e-Islami strongholds in Panjshir, Baghlan, Takhar, Badakhshan, and other northern provinces. Massoud remains the most internationally recognized resistance leader, regularly traveling abroad to represent the interests of those opposed to Taliban rule.Former Afghan National Army Chief of General Staff Yasin Zia’s is the second-oldest and most established anti-Taliban resistance group. Zia, also a former governor of Takhar, has conducted attacks not only in his stronghold of northern Afghanistan but also in predominantly Pashtun areas, including Nuristan, Kunar, and even Kandahar and Helmand, suggesting a wider operational reach than Massoud’s National Resistance Front.Lt. Gen. Sami Sadat, the former commander of the 215th Corps in Helmand, leads the Afghan United Front, a recent entry onto the battlefield that began combat operations on Aug. 1, 2026. Sadat’s group has hit the ground running, claiming over 60 guerrilla attacks through September — consisting mostly of ambushes and assassinations — with a significant focus on southern Afghanistan. This underscores Sadat’s intention to challenge the Taliban in its spiritual stronghold. Sadat, who testified before Congress following the fall of Kabul, maintains ties to the Republican Party.Besides these three groups, which conduct the bulk of attacks, there are Saleh’s Afghan Green Trend, the National Mobilization Front, the National Independence Front, the Homeland Soldiers Front, the Afghanistan Republican Front, the New Horizon Organization, the Freedom and Justice Movement, the Afghan Liberation Movement, and many more.While these groups individually conduct a small percentage of the overall attacks claimed by the resistance, in aggregate, their attacks rival those of the big three. For example, in early October, the National Mobilization Front — a small group that has been conducting attacks since 2023 — claimed responsibility for assassinating a senior Taliban official in Nangarhar.The anti-Taliban resistance groups regularly claim attacks across Afghanistan. However, many of these claims cannot be independently verified, despite the groups frequently posting footage of their attacks on social media. A tally of verified attacks and incidents documented in successive U.N. reports establishes a minimum of 438 across reporting periods between November 2023 and July 2026.In my conversations with these groups’ leaders, they’re quick to say those numbers are undercounted because they cannot disclose all their attacks for operational security reasons or because the methods of the U.N. Assistance Mission in Afghanistan are too restrictive. Regardless, these verified attacks demonstrate that the resistance’s operations are not merely social media inventions.Overall, attack claims have increased in 2026, with at least four new groups helping bolster the anti-Taliban resistance’s numbers and the tempo of its attacks. However, these attacks have yet to translate into an existential challenge to Taliban control, and the groups have not secured lasting control over any district. Before these groups can evolve into a more significant challenge, they will need to unify and focus their operations on a coherent strategy.The Limits of FragmentationAnti-Taliban resistance groups are diverse, led by Pashtuns, Tajiks, and Hazaras. Their leaders are either former Afghan government officials or military leaders from the previous government. Most of the groups’ charters describe their aim as restoring democracy and human rights to Afghanistan. Despite these similarities, they remain independent actors fighting without an overarching strategy to accomplish a goal they all share: the overthrow of the Taliban.While the anti-Taliban resistance is not a unified entity, Massoud, Zia, and Sadat have all welcomed each other’s presence on the battlefield as brothers in arms. The National Resistance Front underscored this sentiment recently by releasing a press statement praising the Afghanistan Freedom Front’s recent fighting. The Afghanistan Freedom Front and National Resistance Front also recently released a statement warning the United Nations of pending attacks. National Resistance Front and Afghanistan Freedom Front officials have attended conferences of the Vienna Process for a Democratic Afghanistan, which seek to foster democracy and the rule of law in Afghanistan.Nevertheless, this fragmentation prevents the groups from pooling resources and manpower, which are at a premium without official state sponsorship or sanctuaries.More importantly, the lack of unity harkens back to the previous government’s greatest weakness. While the Taliban grew stronger and began to encircle various provincial capitals, ministers fought petty turf battles. There were even gun battles during political conferences.Much ink has been spilled about the supposed factions inside the Taliban, with Interior Minister Sirajuddin Haqqani versus Taliban Supreme Leader Hibatullah Akhunzada being the latest manifestation of a long-told tale. Yet for all the supposed infighting inside the Taliban, they have remained a unified front against its enemies, something the anti-Taliban resistance should remember.While having former Afghan general officers and leaders willing to subordinate themselves to another’s command might be a bridge too far, the resistance could at least follow in its forefathers’ footsteps and form an umbrella organization, like the Islamic Unity of Afghanistan Mujahideen, also known as the Peshawar Seven. During the Soviet war in Afghanistan, the Peshawar Seven was an alliance of seven Sunni Afghan mujahedeen political and guerrilla parties based in Peshawar, Pakistan.The alliance played a key role in the diplomatic arena, presenting a unified front on the global stage and providing an umbrella for the distribution of foreign assistance. Its constituent parties received much-needed weapons and equipment through Pakistan’s Inter-Services Intelligence, supported by the U.S. Operation Cyclone and Saudi assistance.Although the Peshawar Seven allowed the resistance to present a common front to the outside world and receive critical financial and material assistance, it did not eliminate competition for power, which often turned bloody. Pakistan’s powerful intelligence service favored Gulbuddin Hekmatyar’s party, strengthening a more fundamentalist Islamist organization at the expense of other groups. In July 1989, after Soviet forces had withdrawn, Hekmatyar’s forces ambushed and killed 30 members of Ahmad Shah Massoud’s Shura-ye Nazar, Jamiat-e-Islami’s military wing, in Takhar province, foreshadowing the bloody civil war that would follow the fall of the Soviet-backed government of Mohammad Najibullah. Moreover, the Afghan Interim Government — formed by the seven parties in 1989 as an alternative to the Najibullah regime — excluded important constituencies, including supporters of former King Zahir Shah and Iran-based Shiite parties, undermining its legitimacy. Different foreign patrons also backed rival factions, with Pakistan favoring Hekmatyar, Saudi Arabia supporting Abdul Rabb al Rasul Sayyaf’s Ittihad-e-Islami Bara-yi Azadi Afghanistan, and Iran backing Shiite parties outside the Peshawar Seven.A contemporary umbrella organization would need agreement on a political process designed to keep these groups from fighting each other, while including Afghanistan’s broader ethnic and religious communities. A leadership shura led by a respected elder could help head off potential conflict and establish rules for power sharing. Foreign patrons should also construct a common mechanism for distributing assistance instead of favoring their preferred faction. These arrangements would show the Afghan populace that these new groups are dedicated to avoiding their predecessors’ bloody footsteps. An umbrella organization could also focus on creating a government in exile that would help attract international assistance and focus these disparate groups’ efforts on securing a foothold in Badakhshan.All Eyes on BadakhshanFor five years, the anti-Taliban resistance has focused overwhelmingly on guerrilla attacks. Despite the apparent success of many of these attacks, the resistance has not yet secured a portion of Afghanistan under its rule.Over the last three months, the Afghanistan Freedom Front, National Resistance Front, and Afghan United Front have all conducted guerrilla attacks in Badakhshan. The National Resistance Front claimed responsibility for the Aug. 13 assassination of the mayor of Faizabad, while the Afghanistan Freedom Front has conducted sustained engagements for months in Zibak district. Even smaller groups have notched important victories. On July 17, 2026, the Homeland Soldiers Front — led by a former Afghan National Army commander — briefly captured the Yaftali Sufla district center in Badakhshan, marking a rare reported temporary loss of a district center since the Taliban consolidated control in 2021.Badakhshan offers the anti-Taliban resistance an attractive location to wrest control of a district from the Taliban. First, its terrain could provide sanctuary for anti-Taliban resistance groups. One of Afghanistan’s most remote provinces, Badakhshan contains vast mountain ranges and isolated valleys where limited roads make it difficult for any central government to exercise consistent control.Badakhshan also has a long resistance tradition and plenty of local grievances that provide fertile ground for recruitment. The Northern Alliance used bases in Badakhshan, as well as in Panjshir and Takhar provinces, to resist Taliban rule following the Taliban",
+     "method": "direct"
+    },
+    {
+     "outlet": "Meduza",
+     "kind": "report",
+     "date": "2026-10-28",
+     "url": "https://meduza.io/en/cards/why-russia-still-classifies-the-taliban-as-a-terrorist-organization-after-suspending-its-ban-on-the-group",
+     "headline": "Why Russia still classifies the Taliban as a terrorist organization after suspending its ban on the group",
+     "access": "body",
+     "text": "1What happened?We found that in March 2026, the National Antiterrorism Committee published “Collected Information on the Activities of Organizations Designated as Terrorist in the Russian Federation.” Staff at the FSB Research Center prepared it “to inform the public about the crimes” committed by these groups.The collection covers every terrorist organization added to the FSB’s list by the summer of 2024, including the Taliban movement.The Taliban also remains on the list of extremists and terrorists maintained by Rosfinmonitoring, Russia’s financial intelligence agency. In the latest version, dated October 23, it appears alongside other movements designated as criminal in Russia:144. TAGANROG REPUBLIC MOVEMENT* , ;145. TALIBAN MOVEMENT* , ;146. TVER LAND MOVEMENT* (TVER PEOPLE’S REPUBLIC; TVER REPUBLIC)2Wait, didn’t the Russian authorities stop treating the Taliban as a banned organization?That’s right. On April 17, 2025, Russia’s Supreme Court granted a request from the Prosecutor General’s Office to suspend the ban on the Taliban’s activities.This procedure was added to Russia’s Federal Law on Countering Terrorism only in January of that year. And it was devised specifically for the Taliban!3I see. So the FSB’s collection was just out of date by the time it was published!No. The collection already mentions the Supreme Court’s ruling on the Taliban; it even specifies that the ruling took effect on May 20, 2025.Yet the authors continue to call the Taliban movement an international terrorist organization. In the relevant sections, they describe its ideological tenets, propaganda tools, and criminal activities. Here’s how the security service’s experts describe the movement’s main goals and objectives:The goals are to overthrow secular rule in Afghanistan and establish a state governed by Sharia law. This goal was largely achieved after the movement came to power in 2023. As the fundamentalist state consolidates its position in Afghanistan, efforts are being made to establish relations with foreign countries, including the Russian Federation.4This is confusing… Didn’t the FSB remove the Taliban from its terrorist list in line with the Supreme Court’s ruling?No! The Taliban remains on the unified federal list of terrorist organizations maintained by the security service. Its entry now mentions both Supreme Court rulings: the one banning its activities in 2003 and the one suspending that ban 22 years later.Entry No.Organization nameCourt that issued the ruling (judgment), date of the ruling (judgment) and case number (if any), date the ruling (judgment) took legal effect11“Taliban Movement”Supreme Court of the Russian Federation, February 14, 2003, No. GKPI 03-116, took effect March 4, 2003\nBan on activities suspended. Supreme Court of the Russian Federation, April 17, 2025, No. AKPI25-174s, took effect May 20, 20255But surely the second ruling overturns the first one entirely!That’s not the case either. The Russian Supreme Court’s 2003 ruling had two parts:Designating the Taliban movement and more than a dozen other groups as terrorist organizationsBanning their activities in RussiaOn the basis of the foregoing and pursuant to Articles 194, 195, and 198 of the Civil Procedure Code of the Russian Federation, the Supreme Court of the Russian Federationrules:The application of the Prosecutor General of the Russian Federation is granted. The following organizations are designated as terrorist organizations: “Supreme Military Majlis al-Shura of the United Mujahideen Forces of the Caucasus,” “Congress of the Peoples of Ichkeria and Dagestan,” “The Base” (“Al-Qaeda”), “Asbat al-Ansar,” “Holy War” (“Al-Jihad” or “Egyptian Islamic Jihad”), “Islamic Group” (“Al-Gama’a al-Islamiyya”), “Muslim Brotherhood” (“Al-Ikhwan al-Muslimun”), “Islamic Liberation Party” (“Hizb ut-Tahrir al-Islami”), “Lashkar-e-Taiba,” “Islamic Group” (“Jamaat-e-Islami”), ”Taliban Movement,” “Islamic Party of Turkestan” (formerly the “Islamic Movement of Uzbekistan”), “Social Reform Society” (“Jamiyat al-Islah al-Ijtimai”), “Revival of Islamic Heritage Society” (“Jamiyat Ihya al-Turath al-Islami”), and “House of the Two Saints” (“Al-Haramain”). Their activities in the Russian Federation are banned.The 2025 ruling could address only the second part. And it doesn’t lift the ban — it merely suspends it. In effect, the suspension is temporary, and the law allows the Russian authorities to change their minds at any time. They wouldn’t need to add the Taliban to the terrorist list again. They would only need to revoke the court-ordered suspension.6So technically, the Taliban is a terrorist organization that’s legal in Russia?Yes. It’s the first and so far the only organization with this status.Russian authorities concluded that the movement had renounced terrorism, and they legalized it. Yet they still formally consider the Taliban a terrorist organization. The 2025 amendments also specifically stated that suspending the ban would not trigger a review of past criminal cases involving the Taliban.7Is that also why the Taliban remains on Rosfinmonitoring’s list?No, it should have been removed from that list long ago. In 2025, suspending a ban became one of the grounds for removing an organization from the list of extremists and terrorists. We don’t know why that still hasn’t happened. But Rosfinmonitoring is sometimes slow to remove people from the list even after they die.Because the Taliban is still on the list, Russian banks, for example, remain prohibited from doing business with it.The law on combating terrorist financing does allow the movement to apply to have itself removed from the list. Rosfinmonitoring would then have two weeks to remove it or explain its refusal. We don’t know whether the Taliban has tried to use this procedure.At Meduza, we are committed to transparency about our use of artificial intelligence in the newsroom. The story you’re reading was written by one of our living, breathing journalists and translated from Russian using an AI model configured to follow our strict editorial standards. This translation process is the result of extensive testing and refinements to ensure our English-language coverage is timely and accurate. A Meduza editor reviews every draft before publication.If you find any errors in this translation, please contact us at [email protected].To read Meduza’s exclusive content in English, please subscribe to our newsletter.",
+     "method": "direct"
+    }
+   ]
+  },
+  {
+   "rank": 2,
+   "topic": "ロシアのウクライナ侵攻地オレシキーからの住民避難と一時休戦",
+   "theme": "conflict",
+   "priority": 4.8,
+   "world": {
+    "outlets": [
+     "Meduza",
+     "BBC",
+     "Deutsche Welle"
+    ],
+    "analysisOutlets": [],
+    "firstDate": "2026-10-27",
+    "lastDate": "2026-10-28"
+   },
+   "jp": {
+    "query": "ウクライナ オレシキー 避難 休戦",
+    "count": 2,
+    "headlines": [
+     "ホワイトハウスは、ロシアとウクライナが「危険な罠」とされるオレシュキーで停戦合意に達したと発表した。 - Vietnam.vn",
+     "ロシアとウクライナ、メラニア・トランプ氏のおかげで局地的な停戦合意に達する - Laodong.vn"
+    ]
+   },
+   "bodyCount": 5,
+   "sources": [
+    {
+     "outlet": "Meduza",
+     "kind": "report",
+     "date": "2026-10-28",
+     "url": "https://meduza.io/en/news/2026/10/28/russian-military-plane-to-transport-evacuees-from-occupied-ukrainian-town-through-russia-and-belarus-documents-show",
+     "headline": "Russian military plane to transport evacuees from occupied Ukrainian town through Russia and Belarus, documents show",
+     "access": "body",
+     "text": "Residents of Oleshky in Ukraine’s Kherson region who want to evacuate to Ukraine will be flown to Belarus aboard a Russian Defense Ministry aircraft, according to documents shown in photographs published by Fox News.The documents say a Ukrainian delegation led by the country’s ombudsman, Dmytro Lubinets, will accompany the residents. The plane will first take them to Anapa. From there, they will fly to Gomel, Belarus, on October 31.The published excerpt does not specify how the residents will travel from Gomel to Ukraine.The document also mentions further “repatriation operations” from cities in the Kherson region. These will take place “at least once a month, with assistance and coordination from U.S. first lady Melania Trump.”Over the past several months, Russian-controlled Oleshky has been on the verge of a humanitarian catastrophe: The city has been under constant shelling, and leaving has been virtually impossible because most roads are mined.In late October, Russia and Ukraine agreed to a localized ceasefire mediated by Melania Trump to allow residents to leave the city. The ceasefire took effect on October 27 and is expected to last until November 1.At Meduza, we are committed to transparency about our use of artificial intelligence in the newsroom. The story you’re reading was written by one of our living, breathing journalists and translated from Russian using an AI model configured to follow our strict editorial standards. This translation process is the result of extensive testing and refinements to ensure our English-language coverage is timely and accurate. A Meduza editor reviews every draft before publication.If you find any errors in this translation, please contact us at [email protected].To read Meduza’s exclusive content in English, please subscribe to our newsletter.",
+     "method": "direct"
+    },
+    {
+     "outlet": "Meduza",
+     "kind": "report",
+     "date": "2026-10-27",
+     "url": "https://meduza.io/en/feature/2026/10/27/trapped-without-food-electricity-or-medicine-civilians-in-occupied-oleshky-finally-have-a-chance-to-escape-but-even-those-wishing-to-go-to-ukraine-will-reportedly-be-taken-to-russia-first",
+     "headline": "Trapped without food, electricity, or medicine, civilians in occupied Oleshky finally have a chance to escape. But even those wishing to go to Ukraine will reportedly be taken to Russia first.",
+     "access": "body",
+     "text": "At Meduza, we are committed to transparency about our use of artificial intelligence in the newsroom. The story you’re reading was written by one of our living, breathing journalists and translated from Russian using an AI model configured to follow our strict editorial standards. This translation process is the result of extensive testing and refinements to ensure our English-language coverage is timely and accurate. A Meduza editor reviews every draft before publication.If you find any errors in this translation, please contact us at [email protected].To read Meduza’s exclusive content in English, please subscribe to our newsletter.",
+     "method": "direct"
+    },
+    {
+     "outlet": "BBC",
+     "kind": "report",
+     "date": "2026-10-27",
+     "url": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
+     "headline": "Ceasefire extended across Ukraine's Kherson region, officials say",
+     "access": "body",
+     "text": "Image source, Reuters/HandoutImage caption, The people of Oleshky have had no electricity for years and no access to food or waterByPaul KirbyEurope digital editorOlga Malchevska and Dan Johnsonin KyivA ceasefire that began with the aim of getting food and medicine to the Russian-occupied Ukrainian city of Oleshky has been extended across the wider southern region of Kherson, according to sources.Several thousand residents are trapped in the city with no access to food, water and electricity. On one side is the Dnipro river, while Russian forces are on the other and all the roads out are too dangerous.However, no breaches of the truce that began early on Tuesday have so far been reported.US First Lady Melania Trump, who helped broker the ceasefire along with Pope Leo XIV, said on Tuesday that the area involved had been expanded to provide \"safe passage\" for humanitarian convoys.Figure caption, What we know about Ukraine-Russia truce in Oleshky, brokered by Melania TrumpThat was later corroborated by the press secretary to Ukraine's public ombudsman, and by Oleksandr Tolokonnikov, deputy head of Kherson, who said Russian shelling had stopped both in Kherson city, which is in Ukrainian hands, and the wider region.Under the deal, the ceasefire will be followed by deliveries of humanitarian aid to Oleshky and then evacuations, planned for Friday, for anyone wishing to leave.An estimated 1,700 to 2,000 people remain in Oleshky itself and a few thousand more in surrounding areas.Many residents have resorted to cooking garden weeds to survive, telling the BBC they are suffering extreme hunger and want to leave.Both sides said the ceasefire was being observed. Kremlin spokesman Dmitry Peskov said everything was proceeding \"according to plan\", and paid tribute to US mediation and in particular representatives of Melania Trump.Ukrainian Foreign Minister Andrii Sybiha said if the ceasefire produced results, it could \"pave the way for other steps in the peace process\".A key official in President Volodymyr Zelensky's parliamentary party, David Arakhamia, said it would continue until 22:59 Ukrainian time on Sunday 1 November, and described the truce as the \"largest de-escalation since 2022\".Before the war Oleshky was home to 24,000 people, but it was seized by Russia during the first days of its full-scale invasion in February 2022.No shops are open, and the city has had no electricity, gas or water since the Kakhovka Dam was blown up in 2023, flooding the area and killing many people in Oleshky itself.Conditions have become so desperate that not only is getting supplies into the city extremely difficult, but escaping is too risky because the routes out of Oleshky have been mined and subject to drone attack.One woman told the BBC she had stepped on a landmine and was currently in hospital where she had undergone two operations: \"I don't know how long I will have to spend there,\" she said, worried about not being able to join the evacuation.Pope Leo appealed earlier this month to Russia's President Vladimir Putin to allow food and medical aid into Oleshky as well as a safe evacuation, and urged his Ukrainian counterpart Volodymyr Zelensky to co-operate with Moscow over a ceasefire.Then the White House said last week that Melania Trump had secured a ceasefire.On Tuesday, the US first lady said on X that the area covered by the ceasefire \"has expanded beyond Oleshky, within the Kherson region, to provide safe passage for the humanitarian convoys\".Image source, Ksenia ArkhipovaImage caption, These residents were able to get out of Oleshky in spring this yearThe current truce is supposed to enable roads to be cleared of mines for supplies to get into the city possibly on Thursday, and for residents to have safe passage out in an evacuation planned for Friday.Russia's defence ministry said units from the army's Dnepr group had been conducting \"engineering reconnaissance\" and clearing main access roads into the village of \"explosive and booby-trap devices\".Many details on the evacuation plans are unclear, and residents are wary of trusting officials with their names and addresses. However, a local volunteer told the BBC that about 500 people had already expressed interest by Tuesday afternoon.Vladimir Saldo, the Russian-installed head of occupied areas of Kherson, said temporary accommodation had been prepared in the region itself as well as Russian-annexed Crimea and across the Russian border in the Rostov, Krasnodar and Stavropol regions.Saldo told Russian media that most Oleshky residents wanted to leave the city and stay in Russia, although his account has not been corroborated on the ground.Image source, Ombudsman Dmytro LubinetsImage caption, Oleshky has been under Russian occupation since 2022 and its people are now trappedIt is hard to make contact with people there as communication is patchy and many are reluctant to speak of the situation in fear of reprisals from the Russians.Those residents or relatives who have spoken to the BBC have expressed fears that Russia may not allow them to return to Ukraine, or might examine their phones and online activity for signs of Ukrainian support, which could put them in danger.Ukraine's military general staff urged people not to trust unverified reports or spread rumours about \"the routes, time and place of the movement of people and humanitarian convoys\".Zelensky has warned that routes out of Oleshky that are demined by Russia will ensure that those civilians leaving Oleshky will \"head towards Russia and stay there\". He said some residents would get to Ukrainian-controlled territory \"one way or another\", and that ideally anyone trapped would be able to reach their destination and evacuate to Ukraine.One resident called Serhii, who fled Oleshky through minefields around three weeks ago, said he had eventually returned to Ukraine via Russia and Belarus. He called for a route across the River Dnipro that avoided Russian-occupied territory, saying \"you simply cannot trust the Russian Federation\".However, bridges across the River Dnipro have been destroyed and sources say the riverbank is also mined and dangerous, so crossing into Ukrainian-controlled territory appears impossible.Across the river, in Kherson city, no explosions have been heard and no drone-related injuries reported since 03:00 (01:00 GMT) on Tuesday and cars and pedestrians have been moving freely, according to local reports.\"Judging from the fact that more people are walking around, it feels a bit calmer,\" Galina Kyrychenko, a resident in the city, told public broadcaster Suspilne.Additional reporting by Anastasiia Levchenko in Kyiv.",
+     "method": "direct"
+    },
+    {
+     "outlet": "BBC",
+     "kind": "report",
+     "date": "2026-10-27",
+     "url": "https://www.bbc.co.uk/news/videos/c687z5ne1w4ro?at_medium=RSS&at_campaign=rss",
+     "headline": "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
+     "access": "body",
+     "text": "Fighting in the Russian-occupied Ukrainian city of Oleshky has stopped after a truce, which the White House said was secured by US First Lady. The truce is meant to allow aid deliveries and a civilian evacuation on Friday. But residents have told the BBC they were weary of the ceasefire as the evacuation routes could potentially take them through Crimea and Russia. BBC's Ukraine correspondent, Dan Johnson, has more details.Read more on this story here.",
+     "method": "direct"
+    },
+    {
+     "outlet": "Deutsche Welle",
+     "kind": "report",
+     "date": "2026-10-28",
+     "url": "https://www.dw.com/en/evacuation-from-oleshky-how-are-preparations-going/a-79790001?maca=en-rss-en-world-4025-rdf",
+     "headline": "Evacuation from Oleshky: How are preparations going?",
+     "access": "body",
+     "text": "Since a ceasefire took effect in the Russian-occupied town of Oleshky in Ukraine's Kherson region on October 27, preparations have been underway to evacuate residents trapped there.\nFollowing Russia's occupation of the town in 2022 and the flooding caused by the destruction of the nearby Kakhovka dam in 2023, residents were cut off from the outside world. All access routes to Oleshky, which lies on the Dnipro River, had been mined. Former Oleshky residents who managed to escape and talked to DW described hunger, no access to medicine, and no electricity or water. About 2,000 people are still living in the town.\nAccording to the Save Ukraine Foundation, it has rescued at least 300 civilians from Oleshky over the past six months. DW spoke with lawyer Myroslava Kharchenko, who works for the organization, about preparations for the upcoming evacuation.\nDW: A ceasefire is already in effect in Oleshky. Do you know whether any evacuation efforts have begun?\nMyroslava Kharchenko: No, we do not have that information yet. What we do know is that the ceasefire came into effect on October 27 at 3 a.m. Kyiv time, which is 4 a.m. in Russia. Mine-clearing operations on the road began at around 8 a.m. What is happening inside Oleshky itself, however, is entirely within the military's remit. Everyone involved in this operation has been asked to maintain strict confidentiality. Any careless remark or action could jeopardize the entire evacuation effort.\nWhat I can see is that information is being actively collected through closed internal local chat groups. Registration lists and application forms are being shared, and people are filling them out themselves. Organizers are contacting those who previously requested evacuation to verify details such as their date of birth and current place of residence. They are also asking people to provide contact information for neighbors or relatives who may be nearby or in the same building, because communications are extremely unreliable.\nThe organizers are also collecting information about the health conditions of those planning to leave. Among them are people who are ill, have limited mobility, or are recovering from recent injuries, including blast and mine-related wounds. We therefore expect those organizing the evacuation to ensure that medical assistance is available for those who need it.\nHow exactly is the evacuation expected to take place? Will people be evacuated through Russian-controlled territory or via the Dnipro River? Have any routes already been agreed upon?\nAs far as we know, a river route would be extremely dangerous. We have not heard any confirmation that such an option has been approved. It therefore appears likely that the evacuation route will pass through the temporarily occupied Ukrainian territory and possibly through Russia before people are able to reach Ukraine. For security reasons, however, none of these details are being made public.\nWhat do you know about the number of people expected to be evacuated?\nWe are actually very pleased that the evacuation is not expected to take place in a single day. That is important because we hope that those who manage to leave safely during the first stage will serve as an example for others.\nPeople still trapped in Oleshky are extremely afraid. There have already been numerous provocations, and this is not the first attempt to establish such a route or humanitarian corridor.\nAs a result, there is a great deal of suspicion. Those concerns are based largely on uncertainty, and some people may choose not to leave during the initial phase of the evacuation. Overall, however, we estimate that around 500 people may eventually be evacuated.\nOleshky ceasefire comes into effect in Ukraine warTo view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video\nHow would you assess the role of Melania Trump in making this evacuation possible?\nWe are immensely grateful to Melania Trump for drawing attention to the humanitarian catastrophe currently unfolding in Oleshky. What is taking place there is in fact genocide committed by the Russian Federation.\nWe are thankful for her efforts and hope they will help make this evacuation possible. We will be even more grateful once most people are safely removed from the combat zone and arrive in Ukrainian government-controlled territory.\nMyroslava Kharchenko from the Save Ukraine FoundationImage: DW Novosti\nWhen could the physical evacuation of civilians begin?\nI can't say how long it will take. What seems clear, however, is that time will be needed to clear mines from the roads leading into the city. We also understand that many streets inside Oleshky are mined, so additional work will be required to make routes within the city safe.\nThere is a hospital from which people need to be evacuated. Nearby is a morgue where bodies also need to be recovered.\nI do not know whether that will be included as part of this humanitarian corridor, but it is undoubtedly important. The bodies need to be identified and the causes of death established. That process will also take time, regardless of how quickly the military is able to work.\nIt is difficult to make any predictions because, as you can see, everything is being conducted under strict secrecy. Statements from both the Russian and Ukrainian sides have been extremely cautious, and that is clearly justified under the circumstances.",
+     "method": "direct"
+    }
+   ]
+  },
+  {
+   "rank": 3,
+   "topic": "イラン戦争および中東情勢をめぐる議論",
+   "theme": "conflict",
+   "priority": 4.5,
+   "world": {
+    "outlets": [
+     "Foreign Policy",
+     "War on the Rocks",
+     "Al Jazeera"
+    ],
+    "analysisOutlets": [
+     "Foreign Policy",
+     "War on the Rocks"
+    ],
+    "firstDate": "2026-10-26",
+    "lastDate": "2026-10-29"
+   },
+   "jp": {
+    "query": "イラン 戦争 ホルムズ",
+    "count": 44,
+    "headlines": [
+     "イラン戦争が飛び火!! マンデブ海峡が「第3次世界大戦」の火種になる!? フーシ派が要衝を占拠し、欧州軍まで出動!! - Yahoo!ニュース",
+     "「ネタニヤフはなぜ戦争をやめないのか」その理由を暴く衝撃ドキュメンタリー、映画『ネタニヤフ調書 汚職と戦争』 - JBpress",
+     "ロシアがイラン戦争の抑制に寄与する可能性 - アラブニュース",
+     "イランは「誠意」示す必要、ホルムズ海峡開放と威嚇停止を＝カタール - Reuters",
+     "イランとサウジなど防衛協定3カ国が会合 外交的解決を模索か - 朝日新聞"
+    ]
+   },
+   "bodyCount": 3,
+   "sources": [
+    {
+     "outlet": "Foreign Policy",
+     "kind": "analysis",
+     "date": "2026-10-28",
+     "url": "https://foreignpolicy.com/2026/10/28/change-mind-iran-war/",
+     "headline": "How to Not Change Your Mind",
+     "access": "body",
+     "text": "We are all fallible and life is uncertain, so sometimes we believe things that turn out to be mistaken and we recommend policies that don’t work out as we expected. When this happens, we ought to admit we were wrong, try to figure out why, revise our beliefs accordingly, and then formulate new ideas about what to do in light of our enhanced understanding. In a perfect world, decision-makers, pundits, scholars, and ordinary citizens would be good Bayesians: We’d start with a set of prior beliefs, update them as new evidence accumulates, and adjust our behavior accordingly.\nIn the real world, of course, that happens less often than it should, which is one reason why policies that are visibly failing can be hard to change and why past mistakes keep getting repeated. As historian Barbara Tuchman put it in her book The March of Folly, decision-makers sometimes succumb to a kind of “mental standstill” that “fixes the principles and boundaries governing a political problem.” Both policymakers and pundits are often loath to admit that they made a mistake, even when it is abundantly clear that they were off-base. (For my own attempts to do better, see here and here). Just look at all those enthusiastic cheerleaders for war with Iran who confidently predicted that it would be quick, cheap, and yield nothing but positive results. How many of them have ‘fessed up and admitted that maybe, just maybe, they missed something? Instead of owning their mistakes, some of the loudest voices inside and outside the policy world keep insisting that they were right all along.\nWe are all fallible and life is uncertain, so sometimes we believe things that turn out to be mistaken and we recommend policies that don’t work out as we expected. When this happens, we ought to admit we were wrong, try to figure out why, revise our beliefs accordingly, and then formulate new ideas about what to do in light of our enhanced understanding. In a perfect world, decision-makers, pundits, scholars, and ordinary citizens would be good Bayesians: We’d start with a set of prior beliefs, update them as new evidence accumulates, and adjust our behavior accordingly.\nIn the real world, of course, that happens less often than it should, which is one reason why policies that are visibly failing can be hard to change and why past mistakes keep getting repeated. As historian Barbara Tuchman put it in her book The March of Folly, decision-makers sometimes succumb to a kind of “mental standstill” that “fixes the principles and boundaries governing a political problem.” Both policymakers and pundits are often loath to admit that they made a mistake, even when it is abundantly clear that they were off-base. (For my own attempts to do better, see here and here). Just look at all those enthusiastic cheerleaders for war with Iran who confidently predicted that it would be quick, cheap, and yield nothing but positive results. How many of them have ‘fessed up and admitted that maybe, just maybe, they missed something? Instead of owning their mistakes, some of the loudest voices inside and outside the policy world keep insisting that they were right all along.\nThere are several time-honored ways to avoid having to admit you were wrong, and to keep from having to rethink your core beliefs about how the world works. Here are some common ways to defend your views in the face of predictive or analytic failure.\nNo 1: “I was right, but my advice wasn’t followed as I recommended.”\nThe classic way to conceal a prescriptive blunder is to argue that those charged with implementing the plan failed to pursue it as you intended. For instance, if you were in favor of the United States attacking Iran, you can now argue that it should have attacked the country sooner or harder; the problem was that your advice wasn’t followed enough.\nOr you can argue that the policy would have worked if Washington had just stayed the course—success was within its grasp, but then those in charge got cold feet and pulled the plug too soon. Or just blame failure on inept commanders, feckless allies, or other circumstances beyond your control, and hope that no one points out that you should have taken those possibilities into account beforehand.\nNo. 2: “I was right, we were just unlucky.”\nA closely related alternative is to say that your analysis was correct, but some random problem (the sudden death of a key foreign ally, bad weather, a random blunder by a subordinate, etc.) turned a potential success into an ignominious debacle. Who could have anticipated that three of the eight helicopters attempting to rescue U.S. hostages in Iran in April 1980 would experience mechanical problems, or that a helicopter and C-130 transport would subsequently collide during a refueling operation? When your recommendations don’t pan out, you can always try blaming fate.\nNo. 3: “Just wait: I will be proven right eventually.”\nOne of the things that makes it hard to hold people accountable for bad decisions is the time-horizon problem: At what point do we judge a policy to be a success or a failure? Even in the unlikely event that we all agreed on the criteria for evaluating outcomes, what looks like a blunder at first sometimes looks much better with hindsight. By the same logic, actions that looks good at first are sometimes recognized as serious missteps later on.\nFor example, that “Mission Accomplished” moment back in 2003 was clearly premature, and a seeming moment of triumph for President George W. Bush turned into a significant embarrassment when the occupation of Iraq went south. Similarly, NATO enlargement seemed like a winning strategy during its early stages—Poland, Hungary, and the Czech Republic joined and Russia didn’t do much in response—but its open-ended character looks more dubious now that Ukraine has been engulfed in war for nearly five years, and the Cassandras who cautioned against it in the 1990s now seem prophetic. Because the ultimate effects of a given policy may not be fully known until a lot of time has passed, it is easy for people to cling to their original beliefs and insist that history will eventually prove them right.\nNo. 4: “Shift the goalposts.”\nWhen a given policy doesn’t deliver the promised results, its defenders can say that the real goal was something completely different and that the net effect of the action in question is still positive.\nIf the goal in attacking Iraq in 2003 was eliminating its weapons of mass destruction and it turns out there weren’t any, just say the real goal was spreading liberty or helping the Kurds. If the goal of attacking Iran in 2026 was regime change and that clearly didn’t happen, just say the real aim was to completely destroy Iran’s nuclear capabilities. If this goal wasn’t achieved either, then talk about how Iran’s navy has been mostly sunk and describe all the facilities and weapons that have been damaged or destroyed. If imposing tariffs willy-nilly was supposed to bring back manufacturing jobs and that’s not happening, say the real goal was to generate revenues to reduce the deficit, or strengthen the dollar, or get other states to invest more in the United States, or whatever. If you keep shifting the goalposts, you may never have to consider whether maybe, just maybe, your entire program is wrong-headed and the worldview on which it rests it needs to be rethought.\nNo. 5: “The policy is working, and any reports that it isn’t are ‘fake news.’”\nIf you really don’t want to admit that you were mistaken or be forced to contemplate changing your mind, you can argue that reports of failure are simply mistaken or at least greatly exaggerated. You can blame your political opponents of bad faith or accuse them of falling for enemy propaganda. Or you can tell critics that your information is better than theirs, perhaps because it is based on secret or classified information to which they are not privy. “If you knew what I knew, you’d agree with me” is one of the oldest debating tricks in the business, and it’s also an effective way for insiders to avoid having to face the possibility that they are wrong.\nWhen you see someone making one or more of these arguments, it is impossible to know for certain whether they are being sincere or disingenuous. Sometimes they really do believe that they were (and are) right, but in other cases, they may understand that they were wrong but are merely trying to salvage their own reputations or bamboozle the public into not blaming them for a debacle.\nMoreover, the various defenses listed above aren’t always wrong. Sometimes a necessary war takes longer to win than one might have expected, but it was still the right thing to do, and it makes sense to stay the course. Sometimes the failure of a good plan was due to bad luck and not much more. Sometimes the merits of a controversial and costly action only become clear with the passage of time, and sometimes a given action can produce a broadly positive outcome even if all its original objectives weren’t achieved. And on rare occasions, outsiders really do misunderstand what’s going on and falsely label successes as failures.\nBut if one of your predictions or recommendations does not go as you expected and you find yourself using any or all of the above arguments to justify your earlier advocacy, you should at a minimum ask yourself the Mother of All Awkward Questions: might I be wrong? And if you decide that is indeed the case, the next step is to figure out where you weren’t off-course? Even if my analysis made seemed logical, and had a solid evidentiary base, did it rest on a critical assumption that turned to be incorrect? Did I indulge in worst-case assumptions when weighing the options I rejected, but then rely on wishful thinking and misplaced confidence when making the case for the policy I preferred?\nMedical professionals and well-run militaries do this sort of “after-action” assessment as a matter of routine, but it’s far from common practice in most of the foreign policy community both in the United States and elsewhere. Maybe that explains why Bad Ideas never die no matter how often they are refuted, and why smart and well-credentialed experts keep repeating past mistakes.",
+     "method": "direct"
+    },
+    {
+     "outlet": "War on the Rocks",
+     "kind": "analysis",
+     "date": "2026-10-26",
+     "url": "https://warontherocks.com/tensions-rise/",
+     "headline": "Tensions Rise",
+     "access": "body",
+     "text": "Welcome to The Adversarial. Every other week, we’ll provide you with expert analysis on America’s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***IranIndications of a return to direct hostilities are increasing. The United States is evacuating more troops and diplomatic staff and their families from the region, moving a third aircraft carrier strike group to the Middle East, and reportedly preparing strike options. Ahead of Israeli elections on Oct. 27, Israeli Prime Minister Benjamin Netanyahu has been campaigning on toppling the Iranian regime, after reportedly contemplating another round of major strikes earlier this month.Diplomatic efforts have stalled. Senior officials from Pakistan, Saudi Arabia, and Turkey met with Iranian representatives in Tehran on Oct. 26. Pakistan has been involved in mediation efforts throughout the conflict, but the participation of Saudi Arabia’s defense minister, Prince Khalid bin Salman, marked Riyadh’s interest in avoiding another round of fighting. However, there is little indication that Iran’s terms have significantly softened, despite the continued U.S. naval blockade and sanctions that are helping drive the Iranian economy into a nearly 8 percent contraction this year. Nor are there signs that the White House will accept Iranian terms, despite the economic and political pressure of high oil prices and an unpopular war.President Donald Trump had promised that the United States would not attack Iran before U.S. elections on Nov. 3, but there is little to prevent renewed hostilities after that date. Tehran does not trust Trump to wait even that long. While Iranians are suffering under ever-increasing economic pressure, the war has strengthened hardliners, and the regime appears emboldened by its own survival and ability to exert leverage. It is unclear precisely what objectives Trump and Netanyahu seek to accomplish through a new round of strikes, but both have expressed impatience with any other\nMembers-Only ContentThis article is reserved for War on the Rocks members. Join our community to unlock exclusive insights and analysis.",
+     "method": "direct"
+    },
+    {
+     "outlet": "Al Jazeera",
+     "kind": "report",
+     "date": "2026-10-29",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks?traffic_source=rss",
+     "headline": "Iran war live: Tehran presses 7-day Hormuz plan; Trump denies peace talks",
+     "access": "body",
+     "text": "Live updates, Foreign Minister Abbas Araghchi says Iran is in ‘close contact’ with mediators on ideas to implement its seven-day plan to reopen the Strait of Hormuz.Published On 29 Oct 2026\nIran’s Foreign Minister Abbas Araghchi says Tehran remains “in close and ongoing contact” with mediators on ideas to implement its seven-day plan to reopen the Strait of Hormuz.\nUS President Donald Trump denies media reports that said he directed Vice President JD Vance to begin peace talks with Iran, saying the contact was about Tehran’s need for “help with medical supplies”.",
+     "method": "direct"
+    }
+   ]
+  }
+ ]
+}
