@@ -1,43 +1,95 @@
 $ node pipeline/attention/fetch.mjs
 OK  world BBC                        25件  Crypto giant Binance attempting to recov
 OK  world The Guardian               25件  Sinkholes, scarred land and scapegoats: 
-OK  world Al Jazeera                 25件  US appeals court again rejects Trump bid
+OK  world Al Jazeera                 25件  Swiss supreme court upholds Liberian ex-
 OK  world New York Times             25件  U.S. to Send Dozens Back to Afghanistan,
 OK  world Deutsche Welle             10件  Smuggling, power, profit: Irregular migr
 OK  world France 24                  24件  UN nature summit approves two key agreem
 OK  world Euronews                   25件  Polish president turns back mid-flight a
 OK  world NPR                        10件  Blockchain intelligence firms link North
-OK  world South China Morning Post   25件  Can Connie Chan become San Francisco’s f
+OK  world South China Morning Post   25件  The flaw in Australia’s ‘China threat’ t
 OK  world Sky News                   8件  Crypto industry suffers 'largest bank he
-OK  world ABC Australia              25件  Wall Street drops to worst day since Jun
-OK  world CBS News                   20件  Pope Leo becomes first pontiff to vote i
+OK  world ABC Australia              25件  Series set for epic finale as Aussie bat
+OK  world CBS News                   21件  How hard is it to recover the $6 billion
 OK  world Times of India             20件  Trump's Halloween surprise sparks panic 
 OK  world The Straits Times          25件  Saudi-led coalition says it downs Houthi
 OK  world Reuters                    25件  US approves $2.1 billion Patriot missile
 OK  world Associated Press           25件  Patrick Stewart, legendary actor of ‘Sta
-OK  world Bloomberg                  25件  Nasdaq 100 Hits Third Correction of 2026
+OK  world Bloomberg                  25件  Apple Overtakes Nvidia to Become World’s
 OK  world Financial Times            25件  CD&R pursues buyout of $40bn card proces
 OK  jp    朝日新聞                       25件  同窓会の5カ月後、妻は殺された 逮捕から1年、見えぬ心の内
-OK  jp    毎日新聞                       20件  第51回社会人野球日本選手権 審判員一覧
+OK  jp    毎日新聞                       20件  「天草四郎に会いに来て」 天草諸島で学ぶキリシタンの歴史
 OK  jp    時事通信                       10件  中国人民銀、翌日物を主要政策金利に 市場重視、国際標準へ
-OK  jp    Yahoo!ニュース 国際              25件  米、迎撃ミサイル売却承認 ウクライナに、3千億円超(共同通信)
+OK  jp    Yahoo!ニュース 国際              25件  【11.3 アメリカ中間選挙現地ルポ】"トランプの命綱"テキサス州「反エリート票
 OK  jp    Yahoo!ニュース主要               8件  31日関東-北海道で天気急変に注意
 OK  jp    日本経済新聞                     25件  世界のメモリー大手、営業利益が初の米テック超え AI需要が急増 - 日本経済新聞
 
 到達 24/24 → data/attention/2026-10-31-headlines.json
 $ node pipeline/attention/rank.mjs
-見出し 505件（24媒体）をまとめます。引き継ぎ候補 154件
-[claude] claude-haiku-5-5: claude: Failed to authenticate. API Error: 401 Invalid bearer token
-[claude] 失敗。30秒待って再試行（1/1回目）
-[claude] claude-haiku-5-5: claude: Failed to authenticate. API Error: 401 Invalid bearer token
-[claude] 合計 {"model":"claude-haiku-5-5","calls":2,"failures":2,"inputTokens":0,"outputTokens":0,"cacheReadTokens":0,"ms":6752}
-file:///home/runner/work/ai-news-app/ai-news-app/pipeline/gemini.js:115
-      if (res.is_error) throw new Error(`claude: ${String(res.result).slice(0, 200)}`);
-                              ^
+見出し 506件（24媒体）をまとめます。引き継ぎ候補 154件
 
-Error: claude: Failed to authenticate. API Error: 401 Invalid bearer token
-    at claudeJson (file:///home/runner/work/ai-news-app/ai-news-app/pipeline/gemini.js:115:31)
-    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
-    at async file:///home/runner/work/ai-news-app/ai-news-app/pipeline/attention/rank.mjs:97:30
+=== 世界の注目度（海外18媒体・国内6媒体）===
+順   海外    取上      国内    日数   出来事
+1   32    9/18    8     1    バイナンスから63億ドル流出、北朝鮮関与か
+2   27    9/18    12    3    露占領下オレシュキで局地停戦、住民避難
+3   26    8/18    12    1    露独立系紙ノーバヤ・ガゼータ、閉鎖へ
+4   26    8/18    8     1    G20外相会合、ロシア外相同席で集合写真中止
+5   25    8/18    0     4    イスラエル総選挙、過半数の勢力なく連立協議へ
+6   22    7/18    9     3    カナダとEU、準加盟国案で新たな提携を発表
+7   21    7/18    14    1    教皇レオ14世、米中間選挙で史上初の投票
+8   20    6/18    15    3    スペイン高速列車事故、運輸相は辞任を否定
+9   20    6/18    17    1    米ハイテク株急落、AI投資への懸念が拡大
+10  19    5/18    0     2    キノコ毒殺事件の被告、控訴棄却で終身刑維持
+11  19    6/18    0     1    米死刑囚、失敗した執行後の苦痛を訴え
+12  16    5/18    0     3    中国、党員の大量除名と汚職摘発を強化
+13  14    4/18    0     3    アラスカ上院選、同姓同名候補の擁立疑惑
+14  14    5/18    0     1    米イラン戦争の仲介、パキスタンとカタールが動く
+15  13    4/18    0     1    ポーランド大統領、外遊中に引き返す 最高裁巡る対立
+16  11    4/18    11    1    トランプ氏、中間選挙の集会を取り消し後に再開
+17  11    4/18    0     2    ホルムズ海峡でタンカー被害、イランは機雷と主張
+18  9     3/18    0     3    アルファベット、時価総額5000億ドル減少
+19  9     3/18    0     3    仏で抗議デモ再燃、政府が暴力の危険を警告
+20  8     2/18    0     1    サム・ウッド被告、保釈認められず勾留継続
+21  8     3/18    15    1    米、ウクライナに21億ドル規模のミサイル売却承認
+22  8     3/18    0     1    イタリアでゼネスト、ローマで警官と衝突
+23  7     2/18    0     5    ブラジル大統領選、ルラ氏勝利の分析相次ぐ
+24  7     2/18    0     2    香港高層住宅火災、政府の責任論に閣僚が釈明
+25  7     2/18    0     1    英警察、アンドルー元王子とエプスタインの関係を捜査
+26  7     3/18    16    1    イエメン、フーシ派との攻撃応酬が激化
+27  6     2/18    0     1    ボルソナロ氏の米国渡航、ブラジル・アルゼンチン対立
+28  6     2/18    0     1    大手テック、AI投資で株主還元が縮小
+29  6     2/18    0     1    ゼレンスキー氏、トルコで協議へ
+30  6     2/18    0     1    欧州の港湾労働者スト、武器輸送に抗議
+[claude] 合計 {"model":"claude-haiku-5-5","calls":1,"failures":0,"inputTokens":25791,"outputTokens":39525,"cacheReadTokens":0,"ms":169595}
+$ node pipeline/attention/dossier.mjs
+資料の対象 3件：キノコ毒殺事件の被告、控訴棄却で終身刑維持 / アラスカ上院選、同姓同名候補の擁立疑惑 / ホルムズ海峡でタンカー被害、イランは機雷と主張
+  キノコ毒殺事件の被告、控訴棄却で終身刑維持：本文 5（代行 1） / 要約 2 / 見出しのみ 0
+  アラスカ上院選、同姓同名候補の擁立疑惑：本文 4（代行 0） / 要約 0 / 見出しのみ 3
+  ホルムズ海峡でタンカー被害、イランは機雷と主張：本文 4（代行 0） / 要約 0 / 見出しのみ 2
+$ node pipeline/attention/briefs.mjs
+短信の候補：注目度の上位 10件、日本で薄い候補 12件（深掘りの資料 3件は除外）
+短信 15件（海外の注目 10、日本で薄い 5）
+  [world] 32 9/18/1/6 バイナンス、約63億ドル流出 北朝鮮関与を指摘
+  [world] 27 9/18/1/6 ロシア占領下のオレシキで住民避難 局地停戦下
+  [world] 26 8/18/1/6 ロシアの独立紙ノーバヤ・ガゼータ、発行終了へ
+  [world] 26 8/18/1/6 G20外相会合、ラブロフ露外相との写真撮影中止
+  [world] 25 8/18/0/6 イスラエル総選挙、どの陣営も過半数届かず
+  [world] 22 7/18/1/6 カナダとEU、新連携『未来のための同盟』発表
+  [world] 21 7/18/1/6 教皇レオ14世、米中間選挙で郵便投票
+  [world] 20 6/18/1/6 スペイン高速鉄道衝突、69人死亡 運輸相は辞任否定
+  [world] 20 6/18/2/6 米株急落、ハイテク株売りとAI投資懸念
+  [world] 19 6/18/0/6 死刑執行失敗の受刑者、痛みが続くと訴える
+  [gap] 16 5/18/0/6 中国共産党、第5中全会で過去最多33人を除名
+  [gap] 14 5/18/0/6 パキスタン軍、米イラン仲介に「慎重な楽観」
+  [gap] 13 4/18/0/6 ポーランド憲法裁判所長の職務停止、警察が出動
+  [gap] 7 2/18/0/6 ブラジル大統領選、ルラ氏が決選投票で勝利
+  [gap] 7 2/18/0/6 香港の火災、行政長官が政府の不備を謝罪
+[claude] 合計 {"model":"claude-haiku-5-5","calls":1,"failures":0,"inputTokens":28478,"outputTokens":27355,"cacheReadTokens":0,"ms":120691}
+$ claude -p --model claude-sonnet-5-5（国際深掘り）
+[sonnet] 完了 35182 本日分（2026-10-31）の国際深掘りを3件書き、`public/data/intl.json` とアーカイブ `public/data/archive/2026-10-31-intl.json` に出力しました。JSON の妥当性確認は通り、2ファイルは同一内容です。commit と push はしていません。
 
-Node.js v22.23.4
+- **アラスカ上院選（注目度14）**:「アラスカ上院選、同姓同名の候補巡り刑事捜査が進む」。独立した本文は4媒体で、BBC、NPR、ABC Australia、Bloomberg です。Bloomberg は The Straits Times 掲載の配信です。
+- **豪キノコ殺人（注目度19）**:「豪キノコ殺人、控訴棄却で仮釈放なしの終身刑に」。独立した本文は5媒体で、BBC、The Guardian、ABC Australia、CBS、AFP です。AFP は SCMP 掲載の配信です。NYT と Sky News は要約文だけでした。
+- **ホルムズ海峡（注目度11）**:「ホルムズ海峡でタンカー被害相次ぐ、イランは触雷と主張」。独立した本文は4媒体で、Al Jazeera、Euronews、CBS、Deutsche Welle です。
+
+本文は3件とも1,500字台から2,000字台です。経過の節は250字に届かない記事が2件あり、アラスカ上院選が

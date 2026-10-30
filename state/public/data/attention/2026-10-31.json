@@ -1,0 +1,3297 @@
+{
+ "date": "2026-10-31",
+ "generatedAt": "2026-10-30T21:46:42.860Z",
+ "measured": {
+  "world": 18,
+  "jp": 6
+ },
+ "unreachable": [],
+ "ranking": [
+  {
+   "id": "s-20261031-01",
+   "title": "バイナンスから63億ドル流出、北朝鮮関与か",
+   "firstSeen": "2026-10-31",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-31": 32
+   },
+   "peak": 32,
+   "worldScore": 32,
+   "worldCoverage": "9/18",
+   "jpScore": 8,
+   "jpCoverage": "1/6",
+   "gap": 24,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 1,
+     "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+     "desc": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+     "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.8,
+     "title": "How crypto hacking funds isolated North Korea’s nuclear programme",
+     "desc": "Cryptocurrency theft is estimated to generate half of the country’s foreign currency income North Korea plays by its own rules. The isolated, secretive and autocratic country is largely cut off from the world’s economic system – but when it comes to generating foreign earnings it relies on some of the world’s most sophisticated hacking. Experts, such as TRM Labs, quickly attributed the extraordinary $6.3bn (£4.7bn) Binance cryptocurrency theft to TraderTraitor, an elite North Korean hacking unit that has also been known as the Lazarus Group. Though the link may not be proven yet, the pattern o",
+     "url": "https://www.theguardian.com/world/2026/oct/30/how-crypto-hacking-funds-isolated-north-korea-nuclear-programme",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Biggest hack in history: Cryptocurrency giant Binance loses $6.3 billion",
+     "desc": "Cryptocurrency exchange giant Binance has been targeted by a record-breaking $6.3 billion cyber heist, with blockchain intelligence firms linking the attack to North Korea. By Thursday night in the US, a coordinated effort by major crypto platforms successfully froze roughly $3 billion of the stolen assets during a high-stakes race to track and secure the digital funds.",
+     "url": "https://www.france24.com/en/video/20261030-biggest-hack-in-history-cryptocurrency-giant-binance-loses-6-3-billion",
+     "via": null
+    },
+    {
+     "id": "npr",
+     "name": "NPR",
+     "region": "world",
+     "weight": 1,
+     "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
+     "desc": "The world's biggest cryptocurrency exchange reported Thursday that approximately $6.3 billion was impacted in an apparent hack.",
+     "url": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "How hard is it to recover the $6 billion stolen from Binance?",
+     "desc": "Security experts are calling it the \"largest bank robbery in human history.\" Getting all of the stolen crypto funds won&#039;t be easy.",
+     "url": "https://www.cbsnews.com/news/binance-crypto-hack-stolen-funds-recovery/",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Binance sets aside over $6.34 billion to cover losses from attack - Reuters",
+     "desc": "Binance sets aside over $6.34 billion to cover losses from attack Reuters",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVVBjUl9KRVc4d0NVN1pRQ1cwOWJpdk1TTWhBbWFxUEtYeldXOTktMlp2cEk1QWZZT0ZDLXRkVmlXWUFvcVJGNk4wZUR6WWFTQzNPNDl2OTgtTDVIOXphbDJEMGtqOVpnMFg1V3VPRjNCRGhIQi1vMW5iajZFY2xqSDdWdFpGSmxqaUJkcVc2b1FUZXluREw0RjJaLWhqMGU4cVkzeGQwVTdlVzhMV2tGNw?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Binance flags ‘potential security issue,’ says approximately $6.3 billion impacted - AP News",
+     "desc": "Binance flags ‘potential security issue,’ says approximately $6.3 billion impacted AP News",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWmNFOVU3dkJheHFpZnlQZ0d2RVd2dDZFdjBlVldUczQteU5yUUlIeldzeVR6d2lJem9aWkh6RV94Uko1cXpZS2RhV2FGR2E2djNHZGJaNG5BOTFvSnZkLWp5c2tSanlNalhnaTJ6RFlxVWNNMHo1NnpzNGVQWHdJZkw0ZkxkWUNQdnRnZGU1Y1JCQ3NuRGc?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Binance Says Everything Is OK. It Really Isn’t - Bloomberg.com",
+     "desc": "Binance Says Everything Is OK. It Really Isn’t Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSjgwTEpXSjR2eDloS2NpdTc4R082YzRoTFgyZngxdXpjT3RxYllOXzlOb2ZOVjRJbDlZeHhFdkUzVmhtUG5MZmNOb1lnbnBNVU1zSnhLM3Fud3ppem90TDl2MnJlWjdKUmNPYzVwSTM3RXVtQ0plenVUUU1TUXl2RXZTOTR6dVdiTGRiNGZLU3E4V181RWRwdEl6QXM2RUpxUnJacw?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "What we know about the $6.3bn Binance hack - Financial Times",
+     "desc": "What we know about the $6.3bn Binance hack Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUEthUlZFNDdZRjZ4YmJiRzlIRWo1Y3ZQSmJDaFBKZXhWTlZ2bGlaUW5uWGhSeTVZVTFvdm9iR2tzTDc2MlV4dFg1Q3JMem5qd2swc0U1a0lCc1RySjRBb1Y5SmVLV1VtaEZPYVFNeHhON0FYN0hZQTRicDZ6MjFnTW9MakE?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "バイナンスから１兆円流出か 暗号資産交換最大手、北朝鮮関与も",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026103000971&g=int&m=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261029-07",
+   "title": "露占領下オレシュキで局地停戦、住民避難",
+   "firstSeen": "2026-10-29",
+   "daysSeen": 3,
+   "history": {
+    "2026-10-29": 9,
+    "2026-10-30": 20,
+    "2026-10-31": 27
+   },
+   "peak": 27,
+   "worldScore": 27,
+   "worldCoverage": "9/18",
+   "jpScore": 12,
+   "jpCoverage": "1/6",
+   "gap": 15,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.94,
+     "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
+     "desc": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers.",
+     "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Evacuation of civilians begins in besieged Ukrainian city of Oleshky",
+     "desc": "Humanitarian convoy brings food and medicine to Russian-held city where people have suffered severe shortages People living in the besieged Russian-held city of Oleshky in southern Ukraine were evacuated on Friday as part of a joint relief operation, the first of its kind in four years and eight months of war. The city, which lies on the Russian-occupied side of the Dnipro River, opposite Kherson, has suffered months of serious food and medical shortages, leading to warnings of starvation for the few thousand people remaining there, including about 50 children. Continue reading...",
+     "url": "https://www.theguardian.com/world/2026/oct/30/evacuation-besieged-ukrainian-city-oleshky",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Oleshky: No access to basic needs, ceasefire offers limited opportunity for humanitarian assistance",
+     "desc": "Catherine Viette is pleased to welcome Jens Schumacher, Field Coordinator in Mykolaiv and Kherson with Solidarity International. Just a few kilometers separate the Ukrainian-controlled city of Kherson from Russian-occupied Oleshky. For civilians caught between military occupation, disrupted essential services and uncertain evacuation arrangements, geographical proximity offers little guarantee of access to life-saving assistance. Schumacher examines the humanitarian implications of a temporary ceasefire around Oleshky, where approximately 2,000 civilians were reported to remain. Although the c",
+     "url": "https://www.france24.com/en/oleshky-no-access-to-basic-needs-ceasefire-offers-limited-opportunity-for-humanitarian-assistance",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Residents leave Russian-occupied Oleshky amid local ceasefire",
+     "desc": "The White House said US first lady Melania Trump helped negotiate the ceasefire and coordinate the humanitarian mission.",
+     "url": "https://www.euronews.com/2026/10/30/residents-leave-russian-occupied-oleshky-amid-local-ceasefire",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Russia-Ukraine truce for Oleshky allows aid mission to help starving residents",
+     "desc": "Starving residents ⁠of a Russian-held town in southern Ukraine began evacuating on Friday as part of a joint relief operation by the opposing sides, the first of its kind in four years and eight months of war. Under a local ceasefire brokered by US first lady Melania Trump, an aid convoy arrived in the town of Oleshky and people were given the opportunity to leave. Although it was a striking example of cooperation between the warring sides, the Kremlin described it as a special case that was...",
+     "url": "https://www.scmp.com/news/world/europe/article/3372778/russia-ukraine-truce-oleshky-allows-aid-mission-help-starving-residents",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Ukrainians trapped in Russia-held city evacuate during local ceasefire",
+     "desc": "Russian strikes on the surrounding area have prevented food, water, and medicine from reaching the city for months.",
+     "url": "https://www.cbsnews.com/news/residents-evacuated-oleshky-us-brokered-ceasefire/",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Key questions around the Russian and Ukrainian evacuation of Oleshky",
+     "desc": "MOSCOW, Oct 30 - Residents of the Russian-held town of Oleshky in southern Ukraine began evacuating on Friday as part of a joint relief operation by the two sides, the first of its kind in four years and eight months of war.",
+     "url": "https://www.straitstimes.com/world/europe/explainer-why-is-the-evacuation-of-oleshky-by-russia-and-ukraine-happening-now",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Explainer: Key questions around the Russian and Ukrainian evacuation of Oleshky - Reuters",
+     "desc": "Explainer: Key questions around the Russian and Ukrainian evacuation of Oleshky Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNkxvb1pZci1hREp4RWh4NkdubDZZVk9ldFVrNzE2eHphakJSV2JCY2JvT1lIdWdzRVJsV3p0X3pWcVVJSFQ2NzR2SHBKR3BjU3lzSi0wcjU4emgyYUxQaTFyRWdrZ1BrcUdPUExBb2dDZWJhcV9jZHFtOV91R0REazJxN0xCODYzdmhWT19pd1JyQXpJUFZmYzNkQmNtckhpa0dEb1hXdTVWUQ?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Evacuated Oleshky residents begin the long journey out of the war-ravaged region - AP News",
+     "desc": "Evacuated Oleshky residents begin the long journey out of the war-ravaged region AP News",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNE50dDNzNWRrQWd1b0g3RHBwMHBNREZ2UUtBQjBGQ0VSSHB5ZkxrTV9aa1VoU1ZWVXJMcHpNSVh4T1lWT2lDeHBVa2hCY0o1eXhTR1F6b0d4UWsySUFsbXI5YXFVdVN0UzY3U2o3QjNSSld5TmJEeDh2dlFkc0JLeDB0WndsaWFvaC16eFg2dmpaTko2OHNj?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.71,
+     "title": "オレシュキ避難の住民がクリミア半島北部に(共同通信)",
+     "desc": "【モスクワ共同】ロシアのラントラトワ連邦人権問題全権代表は30日、ウクライナ南部ヘルソン州オレシュキから避難した住民と共にクリミア半島北部に到着したと発表した。",
+     "url": "https://news.yahoo.co.jp/articles/bf3edef0b73a484d53a8bbd39dc9fc30bd019df7?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261031-03",
+   "title": "露独立系紙ノーバヤ・ガゼータ、閉鎖へ",
+   "firstSeen": "2026-10-31",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-31": 26
+   },
+   "peak": 26,
+   "worldScore": 26,
+   "worldCoverage": "8/18",
+   "jpScore": 12,
+   "jpCoverage": "1/6",
+   "gap": 14,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.88,
+     "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
+     "desc": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
+     "url": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.48,
+     "title": "Russian society being ‘systematically crushed’ says Novaya Gazeta as newspaper announces closure",
+     "desc": "Independent outlet, whose former editor Dmitry Muratov won Nobel prize, cites intolerable pressure from authorities Novaya Gazeta, one of Russia’s best-known independent media outlets, has announced it will permanently close next month. The newspaper, whose former editor-in-chief Dmitry Muratov won the Nobel peace prize in 2021 , cited intolerable pressure, including being stripped of its newsroom, its donation platforms and its legal right to publish. “This is not just our own story; it is the story of a country and a society that are being systematically crushed,” wrote its editor-in-chief, ",
+     "url": "https://www.theguardian.com/world/2026/oct/30/novaya-gazeta-russia-independent-newspaper-to-close",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.82,
+     "title": "Russian News Outlet That Defied Kremlin Will Shut Down: ‘They Killed Us’",
+     "desc": "Journalists at the fiercely independent Novaya Gazeta, whose co-founder received the Nobel Peace Prize, said the government had orchestrated its demise.",
+     "url": "https://www.nytimes.com/2026/10/30/world/europe/russia-novaya-gazeta-newspaper.html",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Russia’s Novaya Gazeta to cease publication amid Kremlin crackdown",
+     "desc": "Russia’s most renowned independent newspaper, Novaya Gazeta, announced on Friday that it was ceasing publication after more than three decades. Known for its courageous investigative journalism, the flagship newspaper said the Kremlin’s crackdown and ban on the media outlet had made it impossible to continue its work.",
+     "url": "https://www.france24.com/en/video/20261030-russia-s-novaya-gazeta-to-cease-publication-amid-kremlin-crackdown",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Russian independent newspaper Novaya Gazeta says it will shut down following pressure from Kremlin",
+     "desc": "The paper is one of the few Russian outlets that has been openly critical of Russia's war in Ukraine, but it has come under increasing pressure from Moscow.",
+     "url": "https://www.euronews.com/2026/10/30/russian-independent-newspaper-novaya-gazeta-says-it-will-shut-down-following-pressure-from",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Russia’s top independent newspaper Novaya Gazeta shuts under Kremlin pressure",
+     "desc": "Russia’s flagship independent newspaper Novaya Gazeta announced on Friday it was closing, saying it had been “killed” by state pressure after years of repression targeting its journalists whose reporting was critical of the Kremlin and its Ukraine war. The closure of Novaya Gazeta – one of the last outlets to openly criticise Russia’s offensive – marks the latest outcome of Moscow’s campaign against dissenting voices, which intensified after the Kremlin sent troops into its neighbour in...",
+     "url": "https://www.scmp.com/news/world/russia-central-asia/article/3372798/russias-top-independent-newspaper-novaya-gazeta-shuts-under-kremlin-pressure",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Last independent newspaper in Russia forced to shut down",
+     "desc": "The editor of Russia&#039;s last independent newspaper, Novaya Gazeta, says Vladimir Putin&#039;s government has \"forced the editorial team to stop its work.\"",
+     "url": "https://www.cbsnews.com/news/novaya-gazeta-russia-newspaper-closes-putin-free-press-crackdown/",
+     "via": null
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Russia’s last major independent newspaper shuts under government pressure - Financial Times",
+     "desc": "Russia’s last major independent newspaper shuts under government pressure Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSFZ1eWtyMjEzU0JEaEhmY2k4ZmZLUmZmYmVOcnZNYVlyR2lhMHp4TEJiU3o5T0xtUE9fdzN0aWdJYk9PNDhLVDhNYWVnd2VuSkJ1a3BnMWFlOGZjYVRiaW1TZ0d2cDlRXzJyVXIyUk5EMm93a0ZrZy04VFNOSDNrNTBDQ2s?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.74,
+     "title": "プーチン政権批判の独立系新聞廃刊 当局の圧力受け11月9日に活動停止へ(テレビ朝日系（ANN）)",
+     "desc": "ロシアの独立系メディアでプーチン政権への批判を続けていた新聞「ノーバヤ・ガゼータ」が廃刊を発表しました。 「ノーバヤ・ガゼータ」のセルゲイ・ソコロフ編集長は30日、ウェブサイトで声明を発表し、11月9",
+     "url": "https://news.yahoo.co.jp/articles/1f93f7530f24d51f96f8ad0acd2773a7ba84a165?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261031-04",
+   "title": "G20外相会合、ロシア外相同席で集合写真中止",
+   "firstSeen": "2026-10-31",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-31": 26
+   },
+   "peak": 26,
+   "worldScore": 26,
+   "worldCoverage": "8/18",
+   "jpScore": 8,
+   "jpCoverage": "1/6",
+   "gap": 18,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.77,
+     "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
+     "desc": "European foreign ministers refused to be pictured with Sergei Lavrov at the summit being held in Atlanta.",
+     "url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "G20 drops group photo as Europeans refuse to stand with Lavrov",
+     "desc": "Sanctioned Russian FM attends Atlanta talks as Iran war, Hormuz disruption and Ukraine divide G20 members.",
+     "url": "https://www.aljazeera.com/news/2026/10/30/g20-drops-group-photo-as-europeans-refuse-to-stand-with-lavrov?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "EU diplomats object to G20 photo with Lavrov, prompting US cancellation",
+     "desc": "The meeting in Atlanta will go ahead as planned, ahead of a G20 leaders’ summit hosted by President Donald Trump at his Miami golf club in December.",
+     "url": "https://www.euronews.com/2026/10/30/eu-diplomats-object-to-g20-photo-with-lavrov-prompting-us-cancellation",
+     "via": null
+    },
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 0.9,
+     "title": "G20 photocall axed after Miliband and other ministers refuse to be pictured with top Russian diplomat",
+     "desc": "A photocall of foreign ministers was cancelled by the US after the UK's Foreign Secretary Ed Miliband and other European counterparts refused to be pictured with Russia's envoy Sergei Lavrov.",
+     "url": "https://news.sky.com/story/g20-photocall-cancelled-after-ed-miliband-and-other-foreign-ministers-refuse-to-be-pictured-with-russias-sergei-lavrov-13605874",
+     "via": null
+    },
+    {
+     "id": "toi",
+     "name": "Times of India",
+     "region": "world",
+     "weight": 0.5,
+     "title": "'Europeans balked': G20 foreign ministers' meeting opens without group photo. Here's why",
+     "desc": "",
+     "url": "https://timesofindia.indiatimes.com/world/us/europeans-balked-g20-foreign-ministers-meeting-opens-without-group-photo-heres-why/articleshow/135370897.cms",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "‘No normalcy with Russia’: G-20 foreign ministers skip photo-op over Lavrov’s presence",
+     "desc": "European G-20 members are supporting Ukraine as it fights off a Russian invasion.",
+     "url": "https://www.straitstimes.com/world/europe/g20-foreign-ministers-skip-photo-op-amid-objections-over-russia",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "G20 foreign ministers skip photo-op amid objections over Russia - Reuters",
+     "desc": "G20 foreign ministers skip photo-op amid objections over Russia Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOEMyX1UzZ3JRamVtOUNhdEk4M3czZzU5ZGJtMGNfMV9lM0xIWDNKdXdac1ZxZmdaNGdkRkZQUFBGTEh3NE9jQVJ6RWZEUVU0R1VOSG45cFprc3FHMElnRjZXSExBaHVfTUVSLXRvbERBbHBKWHBQc0xFZkYyNVg0YXZMS3huWUhMbkd4c3pnT2hyNWlEU2M3ZWJ0azg4eFVQRUVVZHJkekQ?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "G20 Photo Scrapped After Leaders Object to Russia’s Presence - Bloomberg.com",
+     "desc": "G20 Photo Scrapped After Leaders Object to Russia’s Presence Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOFFBSFVUVHJ3NFlHVTVpTG9FSWdNclFtTGRXbDJSRkhMS1JQZU5CTGY4TUFkRFpzTHk5VFl3MTFnbWFZSU5GZUNiX1VydGZjVGxrQlNpTFpsMk0xb0RvbGw5ZkNjZVdTelFKcU5FaGpGNnJBU0lNUHJfOVJYU25NSkNVT2w3NTRYalZfNEROZ1hSTC00R1BYQmRWYVRhbEhpd19obW9jR0ZZTUpsWFhr?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "米、世界経済秩序の維持訴え G20外相、集合写真「見送り」(共同通信)",
+     "desc": "【アトランタ共同】20カ国・地域（G20）外相会合が30日、米南部アトランタで開幕した。議長を務める米国のルビオ国務長官はエネルギー供給や「航行の自由」が脅かされていると指摘し、世界経済の秩序を守るよ",
+     "url": "https://news.yahoo.co.jp/articles/64e7911e5deec9771d50d97689f9b2b7e5c735d6?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261028-01",
+   "title": "イスラエル総選挙、過半数の勢力なく連立協議へ",
+   "firstSeen": "2026-10-28",
+   "daysSeen": 4,
+   "history": {
+    "2026-10-28": 32,
+    "2026-10-29": 49,
+    "2026-10-30": 33,
+    "2026-10-31": 25
+   },
+   "peak": 49,
+   "worldScore": 25,
+   "worldCoverage": "8/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 25,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.3,
+     "title": "Friday briefing: Israel has a dilemma - can its opposition govern with Palestinian parties?",
+     "desc": "In today’s newsletter: Benjamin Netanyahu has been left without a majority, now it is up to the coalition to find out whether the desire for change will prove to be a defining political moment Good morning. It was described by many Israelis as the most consequential election in their country’s history. And, as the final votes were tallied, it has delivered a result that presents Israel with a significant dilemma. Benjamin Netanyahu’s far-right coalition has lost its mandate while the opposition has a clear majority: but only if the Jewish Israeli opposition bloc, led by retired general Gadi Ei",
+     "url": "https://www.theguardian.com/world/2026/oct/30/friday-briefing-israel-has-a-dilemma-can-its-opposition-govern-with-palestinian-parties",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Why is Netanyahu accusing Palestinian Israeli parties of fraud?",
+     "desc": "Prime Minister claims the parties accepted foreign funding.",
+     "url": "https://www.aljazeera.com/video/inside-story/2026/10/30/why-is-netanyahu-accusing-palestinian-israeli-parties-of-fraud?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.91,
+     "title": "Israel’s Election Is Unlikely to Change Its Policies and Global Isolation",
+     "desc": "The leading contenders, Prime Minister Benjamin Netanyahu and Gadi Eisenkot, aren’t substantially different in their approach to Israel’s security or in their opposition to a Palestinian state.",
+     "url": "https://www.nytimes.com/2026/10/30/world/europe/israel-election-netanyahu-eisenkot.html",
+     "via": null
+    },
+    {
+     "id": "dw",
+     "name": "Deutsche Welle",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Germany takes cautious approach on Israeli election results",
+     "desc": "German politicians have been slow to respond as they wait to see who is likely to comprise the next coalition. Many are also hoping for a government without religious hardliners.",
+     "url": "https://www.dw.com/en/germany-takes-cautious-approach-on-israeli-election-results/a-79805184?maca=en-rss-en-world-4025-rdf",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Israeli election: 'Netanyahu did not win, he lost dramatically,' former PM Barak says",
+     "desc": "In an interview with FRANCE 24, former Israeli prime minister Ehud Barak said Prime Minister Benjamin Netanyahu \"did not win\" this week's election in Israel but \"lost dramatically\", and that his rival Gadi Eisenkot should ally with Arab parties. Barak also suggested that claims of Qatari funding for an Arab party aimed to distract from an ongoing corruption scandal, and warned that Netanyahu was ready to strike Iran to stay in power.",
+     "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261030-israeli-election-netanyahu-did-not-win-he-lost-dramatically-former-pm-barak-says",
+     "via": null
+    },
+    {
+     "id": "npr",
+     "name": "NPR",
+     "region": "world",
+     "weight": 0.84,
+     "title": "Israel is in a political deadlock. What comes next?",
+     "desc": "Israel's consequential election has ended in a deadlock, with neither side able to claim a majority, What happens now?",
+     "url": "https://www.npr.org/2026/10/30/g-s1-150761/israel-election-politics-deadlock-arabs",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Netanyahu&#039;s party claims Israel&#039;s election was stolen. Now what?",
+     "desc": "Benjamin Netanyahu, facing a possible election ouster, has made a contentious claim that a foreign country meddled to boost voting by Israel&#039;s Arab minority.",
+     "url": "https://www.cbsnews.com/news/israel-election-results-netanyahu-likud-claim-stolen-arab-parties/",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Difficult negotiations lie ahead in Israel after Netanyahu’s bloc lost its parliamentary majority - AP News",
+     "desc": "Difficult negotiations lie ahead in Israel after Netanyahu’s bloc lost its parliamentary majority AP News",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVFpTUTA2NWczOGNBdDdvTzZHdzFGTFpfdXB1Zmk5aTUtMUN5TzZjcXhSZEFtQUJPNEoxWHY0bUVway1oUDZoNFJKOGZmdnROU1NsczlTWW1zZFUxNnhKNjlBN3psQjdlRWZxZ2ZFb2huUDBZTW40UGVURGVWVVVKTFlWaDlxMkh2TkRVbERlRHZsRngxSnNsVUQ1dmlEZ0dVTVFwbDk5Z1M1RmZ0NkE?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261029-08",
+   "title": "カナダとEU、準加盟国案で新たな提携を発表",
+   "firstSeen": "2026-10-29",
+   "daysSeen": 3,
+   "history": {
+    "2026-10-29": 19,
+    "2026-10-30": 15,
+    "2026-10-31": 22
+   },
+   "peak": 22,
+   "worldScore": 22,
+   "worldCoverage": "7/18",
+   "jpScore": 9,
+   "jpCoverage": "1/6",
+   "gap": 13,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.94,
+     "title": "Canada and EU announce new alliance open to like-minded countries",
+     "desc": "Alliance for the Future, unveiled at Montreal summit and open to other countries, conceived for world ‘shaken by new storms’ Canada and Europe have announced a new alliance of like-minded nations to serve as both a “protective canopy under which our citizens can thrive” and a powerful hedge against the unpredictable nature of geopolitics, while welcoming other countries to join. Speaking to reporters on Friday from Montreal, the prime minister, Mark Carney, and the European Commission president, Ursula von der Leyen, called the new partnership the Alliance for the Future and said the “deepest ",
+     "url": "https://www.theguardian.com/world/2026/oct/30/canada-european-union-alliance",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "EU and Canada seek deeper ties amid worsening global uncertainty",
+     "desc": "Both sides signed a digital trade deal, as Trump&#039;s trade threats push Washington&#039;s allies to seek closer ties elsewhere.",
+     "url": "https://www.aljazeera.com/news/2026/10/30/eu-and-canada-seek-deeper-ties-amid-worsening-global-uncertainty?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.59,
+     "title": "Carney Commits Canada to Becoming European Union’s First ‘Associate Member’",
+     "desc": "The move is part of the Canadian prime minister’s effort to reduce American influence over Canada and expand trade to other parts of the world.",
+     "url": "https://www.nytimes.com/2026/10/30/world/canada/carney-canada-european-union.html",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Canada aims to become EU's first 'associate member' by June 2027, Carney says",
+     "desc": "Mark Carney has set June 2027 as the deadline to make Canada the European Union's first-ever \"associate member\". The category, which has no precedent, has been fiercely opposed by Germany.",
+     "url": "https://www.euronews.com/2026/10/30/canada-aims-to-become-eus-first-associate-member-by-june-2027-carney-says",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Carney eyes June deal on making Canada the EU’s first associate member",
+     "desc": "Canadian Prime Minister Mark Carney said on Friday he expects to conclude negotiations with the European Union in June on an unprecedented partnership that would make Canada the bloc’s first “associate member”, even though the designation was left out of a joint declaration launching a new economic and security alliance. Carney said he would attend a meeting of European leaders in June to conclude negotiations on the proposed relationship, which would stop short of full EU membership. “In...",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3372794/carney-expects-conclude-talks-making-canada-eus-first-associate-member-june",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "‘Anchor the ground’: Canada, EU launch new alliance with deals on Ukraine, minerals, AI",
+     "desc": "Canada and the EU aim to cement their own relations in the face of US and Chinese dominance.",
+     "url": "https://www.straitstimes.com/world/europe/eu-canada-to-withstand-shocks-together-with-new-alliance",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Carney eyes June deal for Canada to become EU associate member as Trump reshapes alliances - AP News",
+     "desc": "Carney eyes June deal for Canada to become EU associate member as Trump reshapes alliances AP News",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcXYwSnRTOGhSNzN0ekpKMjZreU8tS3RqZ1h1UXhiRjR6d0ttbFljQV9LQ1dlbHhNM3o5bzhwejFXMXV3akVmT19rYU1xYURiUGYtTXFHSmoyalJsV1F4TUNYcXJyN0FkcUdlVGFaVXJ5ZXJDSGRpWFYxUllCR3lVNEs4VlZacFJ2c2c?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.56,
+     "title": "EUとカナダが首脳会談 「準加盟」名称に反対も(共同通信)",
+     "desc": "【モントリオール共同】欧州連合（EU）のフォンデアライエン欧州委員長とコスタ大統領は30日、訪問先のカナダ東部モントリオールでカーニー首相と首脳会談を開いた。フォンデアライエン氏は9月、カナダをEUに",
+     "url": "https://news.yahoo.co.jp/articles/fe6be3d6d818b3b04e76af505eab3df896a7a9c9?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261031-02",
+   "title": "教皇レオ14世、米中間選挙で史上初の投票",
+   "firstSeen": "2026-10-31",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-31": 21
+   },
+   "peak": 21,
+   "worldScore": 21,
+   "worldCoverage": "7/18",
+   "jpScore": 14,
+   "jpCoverage": "1/6",
+   "gap": 7,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.82,
+     "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
+     "desc": "The Chicago-born pontiff, who has a tense relationship with Trump, mailed in a ballot for the midterm elections that will decide control of the US Congress.",
+     "url": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Pope Leo XIV has voted in US midterm elections, Vatican says",
+     "desc": "The US midterm elections, scheduled for 3 November, will determine the make-up of Congress for President Donald Trump's final two years in office.",
+     "url": "https://www.euronews.com/2026/10/30/pope-leo-xiv-has-voted-in-us-midterm-elections-vatican-says",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Pope Leo becomes first pope ever to vote in US election, submits mail-in ballot",
+     "desc": "Pope Leo has become the first pope to vote in a US general election. The Vatican confirmed on Friday that the Chicago-born pontiff had submitted a mail-in ballot in Chicago ahead of November’s midterm elections, citing his long-standing belief in civic participation. Leo, formerly Robert Prevost, “has exercised his right to vote as a United States citizen” and has done so “whenever he was eligible to do so”, the Holy See press office said. The statement said he had also voted while living in...",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3372784/pope-leo-becomes-first-pope-ever-vote-us-election-submits-mail-ballot",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Pope Leo becomes first pontiff to vote in a U.S. election",
+     "desc": "The Vatican said Pope Leo exercised his right as a U.S. citizen, submitting a mail-in ballot in his native Chicago ahead of the midterm elections next week.",
+     "url": "https://www.cbsnews.com/news/pope-leo-xiv-votes-us-election/",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Pope Leo becomes first pontiff to cast ballot in US election",
+     "desc": "WASHINGTON, Oct 30 - Pope Leo XIV cast a ballot by mail in the US midterm elections, the Vatican press office said on Friday, a historic first for the American-born pontiff.",
+     "url": "https://www.straitstimes.com/world/europe/pope-leo-becomes-first-pontiff-to-cast-ballot-in-us-election",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Pope Leo becomes first pontiff to cast ballot in US election - Reuters",
+     "desc": "Pope Leo becomes first pontiff to cast ballot in US election Reuters",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLXNBbkd1Q2VaanlIakk1Q29CbDEybTR1YWxnZE5BU1ZrdmJVMmRONGFBeGxvSHYtUWZTU1NWTHREWVNEaUlJTkdrZ2FJOEdkTzByN3NDRmhSSFNBTUk3WGV2aHRQMzdjamJMMzYwQWRqSU1ZenI2UEdoUV8xM25KRU80NXB2S05QY0Fmb1E1YURrSFNwWFlDZjVYaVBtMWdl?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Leo XIV has become the first pope in history to vote in a US general election - AP News",
+     "desc": "Leo XIV has become the first pope in history to vote in a US general election AP News",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUGtJQXdjdzUwNWRVSDhJZGpLbEhhQ1V5aHlfa0R3czdQdmZLMGUtcHNJY2lxaU1GNktWQ1BCYjNYb0xXQUM0c3pMeTU5Y3Y5RlEzT3F4b3NSQi1HUXhLTkYxVDlkVkR0SEh2VkZMQWY5ODZtLW1mX0F0WXI1bFBFRWhJVlpyR1BBLXRSeXlicUtUWlk?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.85,
+     "title": "教皇、米中間選挙に投票 史上初、郵便で母国へ(共同通信)",
+     "desc": "【ローマ共同】ローマ教皇庁（バチカン）は30日、米国籍を持つ教皇レオ14世が11月3日の米中間選挙で郵便投票を行ったと発表した。レオ14世は昨年、米国出身者として初めて教皇に選出された。在任中の教皇に",
+     "url": "https://news.yahoo.co.jp/articles/e085ae427dea62920977d8f45f46bb061ffec9ad?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261029-01",
+   "title": "スペイン高速列車事故、運輸相は辞任を否定",
+   "firstSeen": "2026-10-29",
+   "daysSeen": 3,
+   "history": {
+    "2026-10-29": 40,
+    "2026-10-30": 32,
+    "2026-10-31": 20
+   },
+   "peak": 40,
+   "worldScore": 20,
+   "worldCoverage": "6/18",
+   "jpScore": 15,
+   "jpCoverage": "1/6",
+   "gap": 5,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.85,
+     "title": "Spain transport minister says he won't resign over high-speed rail disaster",
+     "desc": "Óscar Puente has been facing calls to resign after two high-speed trains collided earlier in the week, killing at least 69 people.",
+     "url": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.45,
+     "title": "People of 27 nationalities may be among those killed or injured in Spain train crash, Sánchez says – as it happened",
+     "desc": "This blog is now closed, you can read more on this story here Peunte begins by paying tribute to all affected by the incident. He says that “at present, evidence points to a failure within Adif’s command and control centre,” but adds that investigators are still looking “to clarify what exactly happened.” He says he still has confidence in the system. Continue reading...",
+     "url": "https://www.theguardian.com/world/live/2026/oct/30/spain-investigates-toledo-crash-pedro-sanchez-france-italy-protests-latest-news-updates",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.97,
+     "title": "Traffic Control Errors Caused Spain’s Deadly Train Crash, Official Says",
+     "desc": "The transport minister said a judge would investigate controllers’ actions, including authorizing a train to proceed at high speed though another was stalled in front of it.",
+     "url": "https://www.nytimes.com/2026/10/30/world/europe/spain-crash-contoller-errors.html",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Spain working to identify train crash dead as relatives' anguish grows",
+     "desc": "A second day of mourning is underway in Spain, with some families still waiting for news about missing loved ones, following Wednesday's high speed train crash that killed 69 people. Some have flooded social media with desperate appeals for information, posting photos or describing the clothes their relatives were wearing when they boarded the trains.",
+     "url": "https://www.france24.com/en/video/20261030-spain-working-to-identify-train-crash-dead-as-relatives-anguish-grows",
+     "via": null
+    },
+    {
+     "id": "npr",
+     "name": "NPR",
+     "region": "world",
+     "weight": 0.3,
+     "title": "Spain reckons with 2nd deadly train crash of the year ahead of national election",
+     "desc": "Spain's second high-speed rail disaster this year, a crash in which one train struck another from behind, killing 68 people, has raised fresh concerns about the safety of the country's rail network.",
+     "url": "https://www.npr.org/2026/10/29/nx-s1-6021963/spain-train-crash-updates",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Spain train collision sparks protest",
+     "desc": "The train collision in Spain that killed at least 68 people and injured dozens more sparked a protest outside the country&#039;s transport ministry. Leigh Kiniry reports.",
+     "url": "https://www.cbsnews.com/video/spain-train-collision-sparks-protest/",
+     "via": null
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.91,
+     "title": "スペイン列車事故 捜査本格化 「ブラックボックス」を回収(テレビ朝日系（ANN）)",
+     "desc": "スペイン中部で列車同士が衝突して69人が亡くなった事故で、関係者の刑事責任の有無を調べるため捜査が本格化しています。 スペイン中部で28日、列車同士が衝突して69人が亡くなりました。 事故原因は「人為",
+     "url": "https://news.yahoo.co.jp/articles/1c547e5e69c0988abb4d3ec0d02d092e48f4dbc4?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261031-11",
+   "title": "米ハイテク株急落、AI投資への懸念が拡大",
+   "firstSeen": "2026-10-31",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-31": 20
+   },
+   "peak": 20,
+   "worldScore": 20,
+   "worldCoverage": "6/18",
+   "jpScore": 17,
+   "jpCoverage": "2/6",
+   "gap": 3,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.8,
+     "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+     "desc": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
+     "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "abc-au",
+     "name": "ABC Australia",
+     "region": "world",
+     "weight": 0.82,
+     "title": "Wall Street drops to worst day since June after tech stocks sell-off deepens",
+     "desc": "All three major US stock indexes slumped, with the tech-heavy Nasdaq suffering the steepest loss. Intel suffered its worst loss in 50 years.",
+     "url": "https://www.abc.net.au/news/2026-10-31/wall-street-drops-to-its-worst-day-since-june/107331332",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Nasdaq faces $2 trillion wipeout in October as AI spending fears deepen - Reuters",
+     "desc": "Nasdaq faces $2 trillion wipeout in October as AI spending fears deepen Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNkNDLXpLZ1A0VklROTJVenpDRlZBWE10ZE1qWWk4ZFVqalgzWWJFdThSd2ZKeUhDanVRQjRhVVVZZGlGZzY1UWYzLXRSZTNHNDNPTkZZRUFJazAzYmV6NzF3QUJtNjhkWHY5OHZNZWVsSFdyY0NScGJadnE3T0dPTWtBUXZOaDJPYWJuX1NOVXkwbGlQSW9MdjlXTlNQTzdLZEdzTHFsQ2gzaEcwTkNHZTNCNF9hMG9lazFHRXItSzg?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Wall Street drops to its worst day since June after the sell-off for tech stocks deepens - AP News",
+     "desc": "Wall Street drops to its worst day since June after the sell-off for tech stocks deepens AP News",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd0NzZS1PMzlOVF9Hc0hrbW5sOGZ0bWhjTzNiTC1LWkZ5R1FFNDNBMGNxblJfWTBxaklaSjhwM1FXX1JSVFFGd0I4TXYta3RvczdQeTlUUjJMLXZ1bmY3TW15NU14UVAyMlRhcHlsTTZkUFdVM21yQXZpWThuN3Z5cVd4UEU4VTNnNDRvT1Jwc2E5QXM?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Nasdaq 100 Hits Third Correction of 2026 on Unwinding Tech Stock Bets - Bloomberg.com",
+     "desc": "Nasdaq 100 Hits Third Correction of 2026 on Unwinding Tech Stock Bets Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQT2hWVEFoNDNKaGNxWFRDTUxBZms0MmhXa1hMaGI2ck1jRUlOQzIyUzdHT09DMjQxNFBjNHRXRGV3NWdDZlBLR21TbFhyMXg5dVhhWkM4Q1FuTGdKWENyRmNWa2FqMkJHU0VpNUJQZlcxSG9UdWNOMHByRE94THJXeTNZSmhzX2ZHeTJ2VHA1UzM3WkRwNTQtVUYtM1Q3eGRrQ2Q5RWg4dXdCMzUzSlpIbWc2d1NMVjQ3XzJmN242dkIzUGkw?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US tech stocks tumble as concerns over AI spending intensify - Financial Times",
+     "desc": "US tech stocks tumble as concerns over AI spending intensify Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNTB4Ykd3SWFzX1I1OTJab3VCbDdLRy1IZmo4dVBNZU5CVmFqNFZxUmEtbGxBTnlYV09zUV9VYTZBUnpSU0tGQ2kySzZrVFIzUl96ZXRwZFlZQ2hsbHl4NGljX3YtYXNjbjBNeXdrN0dXdEZxZjg5NHBZNzNyTlZyNGRCWXc?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "米ナスダック、３％急落 ハイテク株売り、一時１０００ポイント超安",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026103100132&g=int&m=rss",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "NYダウ続落、ナスダック総合は一時3.1%安 - 日本経済新聞",
+     "desc": "NYダウ続落、ナスダック総合は一時3.1%安 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zMFozaUxKdVE0UUxZeUxjcXZIRWhBd1NVUDZHYkF0ck9UbEppSml4akRVX2F0RWN5NVZwMUp0ZTAtREQ4UFUxU2NINFRQYS1Ubm1JTXZHQWZKWFZwbmcwNGdldEI3aTA4MkF1bA?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261030-05",
+   "title": "キノコ毒殺事件の被告、控訴棄却で終身刑維持",
+   "firstSeen": "2026-10-30",
+   "daysSeen": 2,
+   "history": {
+    "2026-10-30": 20,
+    "2026-10-31": 19
+   },
+   "peak": 20,
+   "worldScore": 19,
+   "worldCoverage": "5/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 19,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.68,
+     "title": "Mushroom murderer fails to overturn convictions in Australian court challenge",
+     "desc": "Erin Patterson argued her trial was unfair due to seven grounds but three appeal judges dismissed them all.",
+     "url": "https://www.bbc.co.uk/news/articles/ck8dz8j5n993o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.62,
+     "title": "Erin Patterson to die in prison after losing appeal against mushroom murder convictions",
+     "desc": "Victorian court of appeal rules Patterson should be jailed for life with no parole over deadly beef wellington lunch that killed three people Erin Patterson mushroom murders appeal – live updates Get our breaking news email , free app or daily news podcast Erin Patterson has lost her bid to overturn her convictions and been resentenced to life behind bars with no chance of release, as Victoria’s highest court handed down its decision on two appeals regarding her triple murder case . The court of appeal ruled on the two appeals on Friday, after justices Lesley Taylor, Stephen McLeish and Peter ",
+     "url": "https://www.theguardian.com/australia-news/2026/oct/29/erin-patterson-mushroom-murders-appeal-ruling-ntwnfb",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.68,
+     "title": "Court Rejects Erin Patterson’s Appeal in Mushroom Murders Case",
+     "desc": "Judges took away the possibility of parole for an Australian woman, Erin Patterson, and rejected a bid to overturn her conviction over a deadly beef Wellington lunch.",
+     "url": "https://www.nytimes.com/2026/10/29/world/asia/mushroom-murder-case-sentencing-appeal-australia.html",
+     "via": null
+    },
+    {
+     "id": "abc-au",
+     "name": "ABC Australia",
+     "region": "world",
+     "weight": 0.85,
+     "title": "Erin Patterson one of few Australians sentenced to die in prison",
+     "desc": "Patterson's re-sentencing puts her in a rare grouping of convicted killers in Australia who will never be eligible for freedom.",
+     "url": "https://www.abc.net.au/news/2026-10-31/erin-patterson-murder-life-sentence-no-parole/107328638",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Woman jailed for mushroom poison murders given harsher sentence",
+     "desc": "Erin Patterson is only the second woman in Australia to be imprisoned for life without the possibility of parole.",
+     "url": "https://www.cbsnews.com/news/mushroom-poison-murders-australia-erin-patterson-harsher-sentence/",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261031-07",
+   "title": "米死刑囚、失敗した執行後の苦痛を訴え",
+   "firstSeen": "2026-10-31",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-31": 19
+   },
+   "peak": 19,
+   "worldScore": 19,
+   "worldCoverage": "6/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 19,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.97,
+     "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
+     "desc": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September.",
+     "url": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "'Deeply hurt': Convicted murderer Christa Pike speaks out after botched execution",
+     "desc": "Tennessee death row inmate Christa Pike said she remains in constant pain after surviving a botched lethal injection in September, in her first public statement since the failed execution. She expressed gratitude for those who saved her life while urging compassion for her victim's family.",
+     "url": "https://www.france24.com/en/americas/20261030-deeply-hurt-convicted-murderer-christa-pike-speaks-out-after-botched-execution",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Christa Pike describes 'pain in my mind and in my soul' in first statement after failed execution",
+     "desc": "Pike survived two doses of pentobarbital during her attempted execution on 30 September. She was sentenced to death for torturing and killing her classmate Colleen Slemmer in 1995, when she was 18.",
+     "url": "https://www.euronews.com/2026/10/30/christa-pike-describes-pain-in-my-mind-and-in-my-soul-in-first-statement-after-failed-exec",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Christa Pike says she’s in constant pain after failed US execution, slams ‘incompetence’",
+     "desc": "Christa Pike said on Friday that she remained in constant pain and struggled to speak a month after surviving a lethal injection in Tennessee, a failure she blamed on “incompetence.” In her first public statement since the execution, Pike said she never contemplated a life beyond her execution date and was prepared to die in peace, but woke up alone and confused in a hospital bed. “There hasn’t been a moment since that night when I haven’t been in pain. My body hurts. My arms hurt. My hands...",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3372789/christa-pike-says-shes-constant-pain-after-failed-us-execution-slams-incompetence",
+     "via": null
+    },
+    {
+     "id": "abc-au",
+     "name": "ABC Australia",
+     "region": "world",
+     "weight": 0.39,
+     "title": "Christa Pike speaks of constant pain after botched execution",
+     "desc": "The 50-year-old survived two doses of pentobarbital as the state tried to execute her for the 1995 stabbing death of 19-year-old classmate Colleen Slemmer.",
+     "url": "https://www.abc.net.au/news/2026-10-31/christa-pike-first-statement-constant-pain/107331034",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US woman who survived botched execution says she’s in constant pain",
+     "desc": "Christa Pike was given two doses of the execution drug pentobarbital on Sept 30 that failed to kill her.",
+     "url": "https://www.straitstimes.com/world/united-states/us-woman-who-survived-botched-execution-says-shes-in-constant-pain",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261027-09",
+   "title": "中国、党員の大量除名と汚職摘発を強化",
+   "firstSeen": "2026-10-27",
+   "daysSeen": 3,
+   "history": {
+    "2026-10-27": 13,
+    "2026-10-30": 19,
+    "2026-10-31": 16
+   },
+   "peak": 19,
+   "worldScore": 16,
+   "worldCoverage": "5/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 16,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.45,
+     "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
+     "desc": "Xi's anti-corruption campaign has become \"an effort to consolidate and maintain authority\", observers say.",
+     "url": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.74,
+     "title": "China expels a record number from Communist party amid Xi’s intensified purges of top officials",
+     "desc": "The unprecedented number of empty seats at the fifth plenum – a symbol of expulsions – serve as a symbol for the scale of the purges under Xi Jinping China expelled a record number of officials from the Chinese Communist party (CCP) as it concluded a major political gathering , which saw an unprecedented number of empty seats indicating the scale of the purges under Xi Jinping. A record 33 members were expelled at this week’s fifth plenum, a gathering of top officials that takes place roughly once a year. Continue reading...",
+     "url": "https://www.theguardian.com/world/2026/oct/30/china-expels-record-number-communist-party-xi-jinping-purges-officials-fifth-plenum",
+     "via": null
+    },
+    {
+     "id": "dw",
+     "name": "Deutsche Welle",
+     "region": "world",
+     "weight": 0.5,
+     "title": "China leaders demand more loyalty and more initiative",
+     "desc": "The CCP session emphasized internal discipline, as expected, but left the question of Xi Jinping's successor unanswered. The party seems anxious of any instability as geopolitics heats up and China's economy cools down.",
+     "url": "https://www.dw.com/en/china-leaders-demand-more-loyalty-and-more-initiative/a-79799138?maca=en-rss-en-world-4025-rdf",
+     "via": null
+    },
+    {
+     "id": "npr",
+     "name": "NPR",
+     "region": "world",
+     "weight": 0.61,
+     "title": "China elevates a military general to the Politburo and seeks to strengthen party discipline",
+     "desc": "This move comes about a year before President Xi Jinping is expected to secure his fourth five-year term.",
+     "url": "https://www.npr.org/2026/10/29/g-s1-150645/china-elevates-a-military-general-to-the-politburo-and-seeks-to-strengthen-party-discipline",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "China poised to restore military presence to top leadership at party congress",
+     "desc": "Beijing is expected to gradually restore military representation in its top leadership, analysts say, as the Communist Party seeks to strike a delicate balance in its relations with the People’s Liberation Army (PLA) amid an anti-corruption drive that has hit the top ranks. They said the process was expected to be completed at next year’s 21st party congress, which will usher in a new leadership line-up for both the party and military. The party wrapped up its fifth plenum of the 20th Central...",
+     "url": "https://www.scmp.com/news/china/military/article/3372773/china-poised-restore-military-presence-top-leadership-party-congress",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261029-19",
+   "title": "アラスカ上院選、同姓同名候補の擁立疑惑",
+   "firstSeen": "2026-10-29",
+   "daysSeen": 3,
+   "history": {
+    "2026-10-29": 8,
+    "2026-10-30": 7,
+    "2026-10-31": 14
+   },
+   "peak": 14,
+   "worldScore": 14,
+   "worldCoverage": "4/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 14,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.62,
+     "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+     "desc": "Dan S Sullivan, the incumbent Republican senator running for re-election, and allies have accused the Democrats of trying to confuse voters by recruiting Dan J Sullivan to also stand in the race.",
+     "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "npr",
+     "name": "NPR",
+     "region": "world",
+     "weight": 0.92,
+     "title": "Alaska's Senate race faces claims of spoiler candidate. And, Hegseth ousts Army general",
+     "desc": "Alaska's governor ordered an investigation into claims that Dems recruited a spoiler candidate to confuse voters. And, Hegseth ousted an Army general as the U.S. prepares for potential attacks on Iran.",
+     "url": "https://www.npr.org/2026/10/30/g-s1-150889/up-first-newsletter-midterm-elections-iran-war-veteran-affairs-loans",
+     "via": null
+    },
+    {
+     "id": "abc-au",
+     "name": "ABC Australia",
+     "region": "world",
+     "weight": 0.45,
+     "title": "Two Dan Sullivans are running in Alaska. Trump thinks one is a decoy",
+     "desc": "Something fishy is going on in Alaska ahead of the midterms, but it has nothing to do with the state's famous seafood and everything to do with two men with the same name.",
+     "url": "https://www.abc.net.au/news/2026-10-31/us-midterms-elections-dan-sullivans-alaska-donald-trump/107323036",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Peltola denies she knew of effort to put candidate with same name as Sen. Sullivan on Alaska ballot - AP News",
+     "desc": "Peltola denies she knew of effort to put candidate with same name as Sen. Sullivan on Alaska ballot AP News",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZFMwOVMxQVRwVnBFam0waFlKVG8tQ1poNGdDUmhPaXlHX1A0bVRscWFGSmwtMnNtUzFMQnAtbkt4WmtJbWRFUnNnYWhPVGFHOHRsTkdsTzducml1dVlhR25LQTFaeC1Ld0V6amhGS0doakg2dFZ0ckhDeVhqVndUTmliLW8zWDNZV1NvT3pxbk1zdkN2ZFBNaWxnS2FyeldUeFM5YmJmQ1o1QnMyeXJ5YzVjMA?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261031-10",
+   "title": "米イラン戦争の仲介、パキスタンとカタールが動く",
+   "firstSeen": "2026-10-31",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-31": 14
+   },
+   "peak": 14,
+   "worldScore": 14,
+   "worldCoverage": "5/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 14,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Pakistan army ‘cautiously optimistic’ about US-Iran mediation efforts",
+     "desc": "Pakistan&#039;s military spokesman warns of &#039;powerful spoilers and detractors&#039; who still believe the conflict serves them.",
+     "url": "https://www.aljazeera.com/news/2026/10/30/pakistan-army-cautiously-optimistic-about-us-iran-mediation-efforts?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump predicts Iran war will end soon as Qatar pushes for a deal",
+     "desc": "Trump predicts the war with Iran is \"going to end soon,\" without offering any details, as Qatari mediators return to Tehran to push for a deal.",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Pakistan military ‘cautiously optimistic’ on Iran-US mediation",
+     "desc": "RAWALPINDI, Pakistan, Oct 30 - Pakistan’s military is “cautiously optimistic” about its mediation between Iran and the United States, its spokesman said on Friday in his first interview since a high-level delegation visited Tehran this week.",
+     "url": "https://www.straitstimes.com/world/middle-east/pakistan-military-cautiously-optimistic-on-iran-us-mediation",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "EXCLUSIVE: Pakistan military 'cautiously optimistic' on Iran-US mediation - Reuters",
+     "desc": "EXCLUSIVE: Pakistan military 'cautiously optimistic' on Iran-US mediation Reuters",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeG4zX0dQOXRZdkNCLTVnaWQ4bm1Wem53VEh1cjZvYmdqQkx5SVZzZUlzQUkzT0w3UEc2a1Zhb3I5UDhreVlGYVZWR2NhYTMydlkzNDZWMnJvQlVCLUZkY01ZaWRaMm1WNjVmckZOZEpIRXZ4UzRLNjIxOUtTdnp2Y2hLSmNlbEZId0cxNGg4LWw5TWNEejVCUW1zdy0td3FoUm9STVJ1OVB2SUljWmtid25B?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Qatari negotiators return to Tehran in last-ditch mediation effort - Financial Times",
+     "desc": "Qatari negotiators return to Tehran in last-ditch mediation effort Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZzM5VUhnZWJaM1RSaE5fdXVodWdFalAyZXZ3ZHM3YmFQMU9nU1pSanh5bFlyZDFiTmpZejJSQl9TUFc1NDVCZHN1WEozV29TMkJXM2hqaTVueE1FVV9KQVNtMHpReGFyblRUWTdCeHg5WThyV05wQUtNbDI1MHVDN2VrVVk?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261031-15",
+   "title": "ポーランド大統領、外遊中に引き返す 最高裁巡る対立",
+   "firstSeen": "2026-10-31",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-31": 13
+   },
+   "peak": 13,
+   "worldScore": 13,
+   "worldCoverage": "4/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 13,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.91,
+     "title": "Police deployed during stand-off over control of Poland's top court",
+     "desc": "It comes after the government suspended two senior justices and moved to bring criminal charges against them.",
+     "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Polish president turns back mid-flight amid court 'coup d'état' claims",
+     "desc": "Police were deployed outside Poland's Constitutional Tribunal following security warnings. Tribunal President Bogdan Święczkowski was suspended from his duties, while Polish President Karol Nawrocki cut short his trip to Senegal.",
+     "url": "https://www.euronews.com/2026/10/30/polish-president-turns-back-mid-flight-amid-coup-detat-allegations",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Polish president turns back from Senegal trip as top court chief suspended",
+     "desc": "WARSAW, Oct 30 - Polish President Karol Nawrocki turned back his plane en route to Senegal on Friday after police entered the premises of Poland's top court and its president was suspended.",
+     "url": "https://www.straitstimes.com/world/europe/polish-president-turns-back-from-senegal-trip-as-top-court-chief-suspended",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Polish president turns back from Senegal trip as top court chief suspended - Reuters",
+     "desc": "Polish president turns back from Senegal trip as top court chief suspended Reuters",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPc2p4TC1POGdvdHlLdGMyVVl1Nmw5dHhWdEZkS0FCZVBMazc3dzdQaElfeXBIcGRNV1NxZTRENXBKSHJRTkZnb2ZkelBMd0VlQjJHYkE3MFFCbGwtTFhfOEQwbHJYSDJlMGZSd2ttNm16ejVQTzg2SHBrOHZCZGk0ZVR4dUp5b0lZMWpkRU1NLTFzWDRHUl9RdDRLNmFyTW9tVXhLYmZOeGdBTFFlRl9UM3Q3SElzdw?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261031-08",
+   "title": "トランプ氏、中間選挙の集会を取り消し後に再開",
+   "firstSeen": "2026-10-31",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-31": 11
+   },
+   "peak": 11,
+   "worldScore": 11,
+   "worldCoverage": "4/18",
+   "jpScore": 11,
+   "jpCoverage": "1/6",
+   "gap": 0,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump reverses course, reinstates cancelled campaign rallies",
+     "desc": "The decision marks a sharp reversal after the US president said he didn&#039;t feel like he had to hold the events.",
+     "url": "https://www.aljazeera.com/news/2026/10/30/trump-reverses-course-reinstates-cancelled-campaign-rallies?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "toi",
+     "name": "Times of India",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US Midterms 2026: Trump reschedules Iowa, Kansas campaign rallies for Sunday after cancellations",
+     "desc": "",
+     "url": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/us-midterms-2026-trump-reschedules-iowa-kansas-campaign-rallies-for-sunday-after-cancellations/articleshow/135370734.cms",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "On again: Trump restores weekend campaign rallies in Iowa, Kansas - Reuters",
+     "desc": "On again: Trump restores weekend campaign rallies in Iowa, Kansas Reuters",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYzJaZUFSdFk4REJyTjNxNnM0NlQ4OFhfQkNncnRhaDZmUERHT0p2d0JjcWFMVTBHN1k5ZDBTcUNIMEJrM0pSNEhlZmtLTTBrcS1yRms5X2ktWUM2TnkwdnpvajE1ZXZ0dWFKeVFEanRWM2RMVUN2cDNvTmF4OGtuZ2hQZmhIZUtvdm9mYy1keWF1eUhBT1p6a1ZBOWpzdXRzcjVxOA?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump cancels rallies in Kansas and Iowa, opting for telerallies to reach more voters, RNC says - AP News",
+     "desc": "Trump cancels rallies in Kansas and Iowa, opting for telerallies to reach more voters, RNC says AP News",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYjFUTkJXRlZDN0E1bEFRZS1lNkZLVzNtQThKbEZIRFVjS21PYTVFUG1RaFp5b01CZUJOTi1IVnd2cWVjNlZOdnI3QTJwcUQ4YUN6OUhOSmNGeDMyaVM5WFVJNUhueWd3VU1UVmI2cncxanJGeHZEUDdJRFdaTURUOUtOMEt0UFhWb1V0YTYtX3JiZFo2ZE1mUUlWLUZHa2RZTlEyM1VTMk1EVWl4c0E?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.68,
+     "title": "トランプ氏、最終盤で混乱 集会巡り、方針二転三転(共同通信)",
+     "desc": "【ワシントン共同】トランプ米大統領が中間選挙前の最後の土日に上院選が接戦となっている中西部アイオワ、カンザス両州で開く予定だった集会は29日、中止が発表された。代わりに投開票日の11月3日までに約20",
+     "url": "https://news.yahoo.co.jp/articles/6e9ba2d0628e2a68793295f56ca1fe17611089a9?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261030-18",
+   "title": "ホルムズ海峡でタンカー被害、イランは機雷と主張",
+   "firstSeen": "2026-10-30",
+   "daysSeen": 2,
+   "history": {
+    "2026-10-30": 11,
+    "2026-10-31": 11
+   },
+   "peak": 11,
+   "worldScore": 11,
+   "worldCoverage": "4/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 11,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Oman rescues 25 from burning oil tanker in Strait of Hormuz",
+     "desc": "Incident comes as Iran says three oil tankers were halted while attempting to use &#039;unauthorised routes&#039; to cross Hormuz.",
+     "url": "https://www.aljazeera.com/news/2026/10/30/oman-rescues-25-from-burning-oil-tanker-in-strait-of-hormuz?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Iran’s Revolutionary Guard reports three tankers on fire in Strait of Hormuz as talks continue",
+     "desc": "Iran’s Revolutionary Guard said Friday that two oil tankers had caught fire and been stopped in the Strait of Hormuz, as Qatari mediators returned to Tehran for another round of talks aimed at ending the war between Iran and the United States.",
+     "url": "https://www.euronews.com/2026/10/30/irans-revolutionary-guard-reports-two-tankers-on-fire-in-strait-of-hormuz-as-talks-continu",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Iran claims 4 tankers hit mines in Strait of Hormuz",
+     "desc": "A tanker was also struck by a projectile in the strait on Thursday night.",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-qatar-mediators-new-proposal-end-war/",
+     "via": null
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Rare Speedboat Attack in Hormuz Ignites Tanker’s Engine Room - Bloomberg.com",
+     "desc": "Rare Speedboat Attack in Hormuz Ignites Tanker’s Engine Room Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSHpZWFk2ODJZTWY4SzNEUllscGRBMDB4UHdLcnV4SDdHd0ZrRlZKaU1mVVk5c1N3dXBRblhBMEV2cnI5aWRPV3FBU3NUR29TYnhST2gxSkhKbXB0Y0xwOXRZdHNfR3p1YjZMaWtKMmozUU1KLUJ1bTdlS181TjRRTEk5djdkcGZzRm1FVU1oNEN4Y2pTRFIzbzNnaGtoYUhVbTNxWndBWTZldmY2THNqNA?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261029-21",
+   "title": "アルファベット、時価総額5000億ドル減少",
+   "firstSeen": "2026-10-29",
+   "daysSeen": 3,
+   "history": {
+    "2026-10-29": 8,
+    "2026-10-30": 16,
+    "2026-10-31": 9
+   },
+   "peak": 16,
+   "worldScore": 9,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 9,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.48,
+     "title": "Google value plunges by $500bn as its own AI search hits ad sales",
+     "desc": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI own search summaries were affecting ad revenue.",
+     "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 0.6,
+     "title": "Why Google stock has plunged $500bn in a single day",
+     "desc": "Shares in Google's parent company Alphabet have suffered their worst-ever day on the US stock market, falling more than 12% and knocking around half a trillion dollars off its value.",
+     "url": "https://news.sky.com/story/google-parent-alphabet-takes-500bn-hit-on-ai-worries-13605428",
+     "via": null
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Alphabet’s brutal day on the stock market - Financial Times",
+     "desc": "Alphabet’s brutal day on the stock market Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUGdKai1SR0RKN25GaEZrU3BVVlQwYUxsZzdlX21nLWNLWGtDVUJnckkzWjdKUVZVajNPY3dQVGNsLUM3YTk4TXdjZGNTVXd1bUpjX0lmSmVwVWprUWFTV1lOcFItWXRNRGlKaXJoZWR1RHFQOEVZVmxJOVIzamN3YWlzcU0?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261023-02",
+   "title": "仏で抗議デモ再燃、政府が暴力の危険を警告",
+   "firstSeen": "2026-10-23",
+   "daysSeen": 3,
+   "history": {
+    "2026-10-23": 18,
+    "2026-10-26": 32,
+    "2026-10-31": 9
+   },
+   "peak": 32,
+   "worldScore": 9,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 9,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.39,
+     "title": "Cost of living protests to spread to Germany and reignite in France on Halloween",
+     "desc": "Activists call for people to make their anger known over poor public services including education and housing Europe live – latest updates Street protests sweeping Europe are expected to spread to Germany and reignite in France on Saturday, with police mobilised to stop potential looting and rioting on the fringes of what organisers hope will be peaceful rallies. Weeks of, at times violent, student demonstrations have rocked Italy, Spain, Portugal, Albania and France, where activists on Halloween have again called for people to make their anger over the cost of living and deficient public serv",
+     "url": "https://www.theguardian.com/world/2026/oct/30/cost-of-living-protests-to-spread-to-germany-and-reignite-in-france-on-halloween",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.65,
+     "title": "Another Toll of the Violent Unrest in France: The Political Center",
+     "desc": "Support for Édouard Philippe, the leading candidate from the centrist bloc, has eroded, while his far-right and far-left rivals benefit.",
+     "url": "https://www.nytimes.com/2026/10/30/world/europe/france-unrest-political-center.html",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "France braces for new wave of protests, govt warns of 'very high' violence risk",
+     "desc": "France's interior minister on Thursday warned of a \"very high risk of public disorder\" and announced the deployment of around 70,000 police officers for a new wave of protests this weekend. France has been rocked by widespread anger over the rising cost of living and inequality, with nationwide demonstrations on October 17 degenerating into some of the country's worst rioting in years. FRANCE 24's International Affairs Editor Rochelle Ferguson Bouyahi tells us more.",
+     "url": "https://www.france24.com/en/video/20261030-france-braces-for-new-wave-of-protests-govt-warns-of-very-high-violence-risk",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261031-06",
+   "title": "サム・ウッド被告、保釈認められず勾留継続",
+   "firstSeen": "2026-10-31",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-31": 8
+   },
+   "peak": 8,
+   "worldScore": 8,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 8,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.53,
+     "title": "Sam Wood to remain in custody after another failed bail bid over domestic violence charges",
+     "desc": "Former Bachelor star and wellness influencer stands accused of choking and assaulting wife at Noosa in Queensland Get our breaking news email , free app or daily news podcast Former Bachelor star Sam Wood will remain in custody while he awaits trial on domestic violence charges , after he was refused bail for a second time. Wood, 46, from Melbourne, has been held in custody since his arrest on 4 October at Noosa. On Friday supreme court justice Patrick McCafferty said Wood posed “an unacceptable risk” of further offending, meaning he will remain in the high-security Wolston correctional centre",
+     "url": "https://www.theguardian.com/australia-news/2026/oct/30/sam-wood-bail-bid-court-wife-szezana-ntwnfb",
+     "via": null
+    },
+    {
+     "id": "abc-au",
+     "name": "ABC Australia",
+     "region": "world",
+     "weight": 0.88,
+     "title": "What happens next for Sam Wood after his bail has been denied",
+     "desc": "Former reality TV contestant Sam Wood is set to spend at least another six months behind bars in south-east Queensland, after his second failed bail bid.",
+     "url": "https://www.abc.net.au/news/2026-10-31/qld-sam-wood-denied-bail-what-happens-next/107328044",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261031-13",
+   "title": "米、ウクライナに21億ドル規模のミサイル売却承認",
+   "firstSeen": "2026-10-31",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-31": 8
+   },
+   "peak": 8,
+   "worldScore": 8,
+   "worldCoverage": "3/18",
+   "jpScore": 15,
+   "jpCoverage": "1/6",
+   "gap": -7,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US approves US$2.1 billion Patriot missile sale to Ukraine",
+     "desc": "Ukraine has been waiting for almost a month for the US to sign off on critical missile supplies.",
+     "url": "https://www.straitstimes.com/world/europe/us-approves-2-1-billion-patriot-missile-sale-to-ukraine",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US approves $2.1 billion Patriot missile sale to Ukraine - Reuters",
+     "desc": "US approves $2.1 billion Patriot missile sale to Ukraine Reuters",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUGRTc1V3SzhDNWZQUUVuQ3hsWmlKcUY3V3ZJb0poUEh6ZGZjSVZlNzlaWlF2SVVwU1M3RklET3hzdmtnVU54NXEtb0ZCYUc1WjZMR3Vya1Vfa0ZhSzhEUEg1NkF6bjlIODVJQW9mN0htVWM3dDRKbFF1MjVsMjkwQUdmNGpmNHBkWWl6dmtDeVFIYmptQ2VZZ0FyTHhqWVplU2RkZFhONnZNN3F0UWVWQUlJeno?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US Approves $2.1 Billion in Patriot Missiles For Ukraine - Bloomberg.com",
+     "desc": "US Approves $2.1 Billion in Patriot Missiles For Ukraine Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWGR5bkNzajM4SEJxMEkyenhVY1pHejFPYk5zTHBCN25NZHRXeGF4MUVoMGNCOG5ZcDlYM0s2MEJub2xFZjg0TFZuZGpRWnB4emZWN2VTLXZGNGF6eU9YLS1mMDU1bGhnaFNUQTVEN3A1aDRaYzk4UUE5MDVrS3g5VzNFRXNYa1c3WGdzOENEa180REY0czBZNW14QzAwbVdRT2xRamtMdkd3dw?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.88,
+     "title": "米、迎撃ミサイル売却承認 ウクライナに、3千億円超(共同通信)",
+     "desc": "【ワシントン共同】米政府は30日、ウクライナへの対外有償軍事援助（FMS）として、防空システム「パトリオット」の改良型迎撃ミサイル「PAC3MSE」の売却を承認し、議会に通知した。ミサイル500発と関",
+     "url": "https://news.yahoo.co.jp/articles/6830b7fc647709c73f976144d2155931fcb5f08e?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261031-16",
+   "title": "イタリアでゼネスト、ローマで警官と衝突",
+   "firstSeen": "2026-10-31",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-31": 8
+   },
+   "peak": 8,
+   "worldScore": 8,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 8,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Protesters clash with police near Colosseum as Italy stages nationwide strike",
+     "desc": "People have taken to the streets again in dozens of Italian cities to protest against the rising cost of living, as part of a general strike called by grassroots unions.",
+     "url": "https://www.euronews.com/2026/10/30/italy-on-high-alert-as-thousands-take-the-streets-in-nationwide-strike",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Mass protests sweep Italy during nationwide strike",
+     "desc": "Oct 30 - Tens of thousands of people, mostly students and workers, took to the streets across Italy on Friday to demand higher wages and stronger public services, protest against the rising cost of living and oppose increased military spending.",
+     "url": "https://www.straitstimes.com/world/europe/mass-protests-sweep-italy-during-nationwide-strike",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Mass protests sweep Italy during nationwide strike - Reuters",
+     "desc": "Mass protests sweep Italy during nationwide strike Reuters",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZWF5NXN3Z25WdEU0R0kwT0NBT180OHc4TklWcWxrSUVLTlRtZHpQWmplV1NnRkJfS28wbEVLdEwzMlA0UnNvOXBIWlpZN0xCcm9WLUNBZzZ2Um5UTkdQLXMtUUxocEIwZWZ1NGU1YW9qdnFWdFc0Zy1yTEUxWlhkdUxhbm1Tdi11enhoQ25Qenk3ZTdMekNv?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261027-08",
+   "title": "ブラジル大統領選、ルラ氏勝利の分析相次ぐ",
+   "firstSeen": "2026-10-27",
+   "daysSeen": 5,
+   "history": {
+    "2026-10-27": 50,
+    "2026-10-28": 38,
+    "2026-10-29": 54,
+    "2026-10-30": 45,
+    "2026-10-31": 7
+   },
+   "peak": 54,
+   "worldScore": 7,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 7,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.82,
+     "title": "Brazil’s victory for the planet and democracy: seven lessons from Lula’s win",
+     "desc": "The trouncing of the far right provides a playbook for social and environmental movements in other countries facing elections, including the US, Spain and France Thank you, Brazil, for demonstrating how the far right can be trounced while protection for the Amazon is strengthened. In a world where nature and democracy appeared to be bleeding out in tandem, voters and forest defenders in this global south powerhouse have shown it is possible to staunch the flow. This should provide much needed inspiration and, more practically, a playbook for social and environmental movements in other countrie",
+     "url": "https://www.theguardian.com/world/2026/oct/29/brazil-victory-planet-democracy-lessons-lula-win",
+     "via": null
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Lula, Brazil’s 81-year-old comeback kid - Financial Times",
+     "desc": "Lula, Brazil’s 81-year-old comeback kid Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWWRhX0hFaWtpUThNdl91aEJQMXk5TTF6bUNyLUZxR3M2VVZ6S0toa1VXMW9Rd1BwZnM2NTA2b2ozaTd4NVpDLU9PdEVCR3VRQjkxTFQ5QzFINlFNM0EyOUE0R0w2QUVtNVZBTDdld0ZuQXNqSGVyb2x1T0FVN1h0SkFPLWo?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261030-04",
+   "title": "香港高層住宅火災、政府の責任論に閣僚が釈明",
+   "firstSeen": "2026-10-30",
+   "daysSeen": 2,
+   "history": {
+    "2026-10-30": 11,
+    "2026-10-31": 7
+   },
+   "peak": 11,
+   "worldScore": 7,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 7,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.68,
+     "title": "Hong Kong’s leader apologises for residential fire that killed 168 people",
+     "desc": "Blaze was world’s deadliest residential fire since 1980, but some survivors and bereaved families say justice has yet to be served Hong Kong’s leader has apologised for government shortcomings that contributed to a fire that killed 168 people in the city last year, a rare sign of public contrition that nevertheless failed to impress some victims’ families. The chief executive, John Lee, and seven other officials bowed in apology at the release of a report that pointed to “decades of failure” by government bodies. Continue reading...",
+     "url": "https://www.theguardian.com/world/2026/oct/29/hong-kong-john-lee-apologises-wang-fuk-court-fire-killed-168-people",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Hong Kong development chief denies U-turn over agency to support homeowners",
+     "desc": "Hong Kong’s development chief has rejected accusations of a policy U-turn over the establishment of a dedicated agency to help flat owners with building repair tenders, insisting the agency’s planned remit differs fundamentally from one rejected a decade ago. Secretary for Development Bernadette Linn Hon-ho, in a press conference on Friday, elaborated on the scope of work of the Building Maintenance Support and Services Council, which will be established by the end of this year. She was asked if...",
+     "url": "https://www.scmp.com/news/hong-kong/society/article/3372786/hong-kong-development-chief-denies-u-turn-over-agency-support-homeowners",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261031-19",
+   "title": "英警察、アンドルー元王子とエプスタインの関係を捜査",
+   "firstSeen": "2026-10-31",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-31": 7
+   },
+   "peak": 7,
+   "worldScore": 7,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 7,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Police in Scotland launch Andrew and Epstein royal castle investigation",
+     "desc": "Media reports say the inquiries are related to claims that women were trafficked to the king’s Balmoral estate.",
+     "url": "https://www.aljazeera.com/news/2026/10/30/police-in-scotland-launch-andrew-and-epstein-royal-castle-investigation?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.8,
+     "title": "Police Investigate Former Prince Andrew and Epstein’s Time at Balmoral, Royal Estate in Scotland",
+     "desc": "Andrew Mountbatten-Windsor spent time with Jeffrey Epstein, the convicted sex offender, and his associate Ghislaine Maxwell, at Balmoral, the royal family’s Scottish retreat.",
+     "url": "https://www.nytimes.com/2026/10/30/world/europe/andrew-epstein-scotland-police-investigation-uk-balmoral.html",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261031-21",
+   "title": "イエメン、フーシ派との攻撃応酬が激化",
+   "firstSeen": "2026-10-31",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-31": 7
+   },
+   "peak": 7,
+   "worldScore": 7,
+   "worldCoverage": "3/18",
+   "jpScore": 16,
+   "jpCoverage": "1/6",
+   "gap": -9,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.33,
+     "title": "Houthis sending Taiz ‘back to the stone age’, governor of besieged Yemen city says",
+     "desc": "Oxygen, food and water supplies running low and massacres taking place, says Nabil Shamsan The Houthis are trying to send the city of Taiz back to the stone age, the city’s governor said in a briefing designed to urge the international community to do more to lift the month-long siege. Nabil Shamsan said massacres were taking place in Yemen’s third city, that oxygen and water supplies were running out and that rubbish was piling up in the streets due to landfill sites being either full or inaccessible. Continue reading...",
+     "url": "https://www.theguardian.com/world/2026/oct/30/houthis-taiz-stone-age-yemen-city-siege",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "‘Need a Plan B’: Yemenis in Aden prepare for another war as missiles fall",
+     "desc": "As Houthi missiles strike Aden, residents stockpile food and prepare escape plans, fearing a return to all-out war.",
+     "url": "https://www.aljazeera.com/news/2026/10/30/need-a-plan-b-yemenis-in-aden-prepare-for-another-war-as-missiles-fall?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Saudi-led coalition says it downs Houthi drone over Medina; Houthis deny attack",
+     "desc": "CAIRO, Oct 30 - The Saudi-led coalition fighting in Yemen said on Friday it had intercepted and destroyed a drone launched by Yemen's Houthis over Saudi Arabia's Medina region, but the Iran-aligned group denied carrying out any attack towards the kingdom.",
+     "url": "https://www.straitstimes.com/world/middle-east/saudi-led-coalition-says-it-downs-houthi-drone-over-medina-houthis-deny-attack",
+     "via": null
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.94,
+     "title": "イエメン暫定政権の拠点攻撃 フーシ派、応酬激化懸念(共同通信)",
+     "desc": "【カイロ共同】サウジアラビアの支援を受けるイエメン暫定政権は30日、拠点がある南部アデンの空港や主要政府施設に対し、イエメンの親イラン武装組織フーシ派による弾道ミサイル攻撃があったと発表した。フーシ派",
+     "url": "https://news.yahoo.co.jp/articles/e85af28797542fc0114fd31bd37f6eb3e738efbf?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261031-05",
+   "title": "ボルソナロ氏の米国渡航、ブラジル・アルゼンチン対立",
+   "firstSeen": "2026-10-31",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-31": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Brazil claims it questioned Argentina over Bolsonaro's escape, Buenos Aires denies it",
+     "desc": "According to Argentina's migration authorities, Bolsonaro boarded a private plane in the northeastern city of Puerto Iguazú on Tuesday evening, just 40 minutes after crossing into the country by land.",
+     "url": "https://www.euronews.com/2026/10/30/brazil-claims-it-questioned-argentina-over-bolsonaros-escape-buenos-aires-denies-it",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Brazil summons Argentine diplomat over role in Bolsonaro's flight to US, sources say",
+     "desc": "BRASILIA, Oct 30 - Brazil called in Argentina's highest diplomat in Brasilia to explain the Argentine government's role in the departure of Senator Flavio Bolsonaro to the US after losing the presidential election, two sources in the Brazilian government said on Friday, as Argentina denied the summoning.",
+     "url": "https://www.straitstimes.com/world/brazil-summons-argentine-diplomat-over-role-in-bolsonaros-flight-to-us-sources-say",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261031-12",
+   "title": "大手テック、AI投資で株主還元が縮小",
+   "firstSeen": "2026-10-31",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-31": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Big Tech returns smallest share of cash to shareholders in 15 years, given AI spending - Reuters",
+     "desc": "Big Tech returns smallest share of cash to shareholders in 15 years, given AI spending Reuters",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPM1JYY3JjSEZ6Mng5SkxoRFBtVFBLZVVsNGsyMWxIQzNQX0Rid3oxclNLV2dvSURnaWRrUDdYTUZ4WkIwZFVfbGp6bHM1LTZaUC1Fb3BSWF9iVWsxMGctdktndy1GRS1aZTRkb1otcjJFYk84NndKWGx6NXBXQUEyMmJMVUxXRkpkcF83M09yWVZSMjNjblRyeGxvZ3dOYTFMY1A2U2pYYzViSlpEVWlZWVUzczZ0NHBHZXhSSFlyMURGcFJLMFVzbFlwMEY?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Big Tech Holds $3 Trillion in Spending Commitments for AI Boom - Bloomberg.com",
+     "desc": "Big Tech Holds $3 Trillion in Spending Commitments for AI Boom Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM3JIVGVpMDhiOFU1Z1Jhc25WM3M0Nm5qTHVGekRPLVhGb05sUktwYVFTWTZCcEE5eFJQTWZHcDhrRUJuaHZldW55UGpFelBfQlJyNWpvQzU1ZTdtWnlHdEozRkVQVUZpOUVIcDJURlF0cDJ0bm9EVEcyWEdtUi1wYk9OdXpFdEhiZG1tbU5xSnZGTkZTeEwtb0xiWlNJaU9CdEt5TERaNW1Xc0ZPTVVTWVBR?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261031-14",
+   "title": "ゼレンスキー氏、トルコで協議へ",
+   "firstSeen": "2026-10-31",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-31": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Zelenskiy says he will head to Turkey for talks",
+     "desc": "Oct 30 - Ukrainian President Volodymyr Zelenskiy said on Friday he would be holding \\\"important\\\" talks in Turkey as part of diplomatic efforts after more than 4-1/2 years of war with Russia.",
+     "url": "https://www.straitstimes.com/world/europe/zelenskiy-says-he-will-head-to-turkey-for-talks",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Zelenskiy says he will head to Turkey for talks - Reuters",
+     "desc": "Zelenskiy says he will head to Turkey for talks Reuters",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRWljSFJQVC1OSUJ4aXNyN3ljMFF1cG5WY1BVR19xcDhvS1RBS3BrNjR4SF9WN2VCemo3VTRyTmo0LXAtNVF6Mi1KRS1YWktnWkNpSkg3S2lKbC1qY2owR3d0cjUxNVFrOTVMd3FId3FnNE13WGd0amUtd0Z0QVgzWXJXOEtXaFhTR0pfcG5jWE5WT2Y0TWgxTlVR?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261031-17",
+   "title": "欧州の港湾労働者スト、武器輸送に抗議",
+   "firstSeen": "2026-10-31",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-31": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "French port strikes: Unions 'will get better working conditions', but can they curb militarisation?",
+     "desc": "Carys Garland is pleased to welcome Renaud Foucart, Senior Lecturer at the Department of Economics ECARES at Lancaster University. An international dockworkers’ strike brings into focus the relationship between organized labor, technological change and Europe’s expanding military investment. Foucart argues that port workers’ strategic position in global supply chains gives them exceptional leverage: “They know how powerful they are.” While questioning their ability to redirect military policy, he expects that leverage to secure concessions on automation and working conditions: “They can get th",
+     "url": "https://www.france24.com/en/video/20261030-french-port-strikes-unions-will-get-better-working-conditions-but-can-they-curb-militarization-1",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Dockworkers strike in Europe and beyond against arms shipments, war deaths - Reuters",
+     "desc": "Dockworkers strike in Europe and beyond against arms shipments, war deaths Reuters",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNN3NLLUpOZmk5ZjdPZmJWYnYyVnlBcnpzdGlsQmRqTHVweGladWdBZTQ3WFNPblI2ZzlTcFJVeEJXSmpIaEt5UU96QW5uOG9yeGN4cjg5c0hDUFozM0xaZGlISkpKbzU3ZXNnQThFNjBjT3pIMjZvSy1Nc3JONUpWeUhDQW9rX2FxbWktNm5OSk9VdURZbWE5ZWdCQjczWFJyYjlRZ3JvSE1nRVJ1ZWwxMUhDZU1nRVNpa0JTcjRmbGZkYkZ5RzJv?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261026-04",
+   "title": "パリ郊外の襲撃事件、追悼と反差別の集会",
+   "firstSeen": "2026-10-26",
+   "daysSeen": 3,
+   "history": {
+    "2026-10-26": 10,
+    "2026-10-30": 13,
+    "2026-10-31": 6
+   },
+   "peak": 13,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "French crowd gathers for anti-islamophobia rally in Paris suburb after attack",
+     "desc": "In France, thousands were protesting in the Paris suburb of La Verrière on Friday, a week after a racist terrorist attack killed one person and injured five others. The suspect, identified as Kevin T., admitted he was targeting people based on their appearance or religion and has been transferred to a Paris court. FRANCE 24's Morgan Ayre reports.",
+     "url": "https://www.france24.com/en/video/20261030-french-crowd-gathers-for-anti-islamophobia-rally-in-paris-suburb-after-attack",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Thousands gather in Paris suburb in tribute to victims of shooting",
+     "desc": "TRAPPES, France, Oct 30 - Thousands gathered on Friday evening in a poor Paris suburb to pay tribute to the victims of a shooting, a week earlier, in which the gunman deliberately targeted Muslim or African people.",
+     "url": "https://www.straitstimes.com/world/europe/thousands-gather-in-paris-suburb-in-tribute-to-victims-of-shooting",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261031-20",
+   "title": "ヒューストンでICE職員を起訴、男性をひいた疑い",
+   "firstSeen": "2026-10-31",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-31": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Texas grand jury indicts ICE officer accused of running over man in Houston",
+     "desc": "The officer faces charges after allegedly striking a fleeing construction worker with an SUV during an immigration raid.",
+     "url": "https://www.aljazeera.com/news/2026/10/30/texas-grand-jury-indicts-ice-officer-accused-of-running-over-man-in-houston?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "An ICE officer is charged with assault for striking a man with a car in Houston - AP News",
+     "desc": "An ICE officer is charged with assault for striking a man with a car in Houston AP News",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSFh4dnZmYThTd3d1QUZQRDdEOTNNU2tfYUQxM3FtVGR0UjdSTzV0ZndxWGt6MDI2NGMwTUZhcXZSN2xCbG1XdDg3aW4yUWJnWHRYeW1CTmxMRVRpR0wtX2IyLUtDdlFGMmxtNkNqRG1WQmhGRGh6VUU3dG1GLW9GdmUwWVVsYlJscnRKdnNCLTk2cnJYRXZtc0tDdw?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261026-12",
+   "title": "イスラエル、西岸で家屋解体と住民の避難が続く",
+   "firstSeen": "2026-10-26",
+   "daysSeen": 2,
+   "history": {
+    "2026-10-26": 8,
+    "2026-10-31": 6
+   },
+   "peak": 8,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Israel demolishes homes of Palestinians blamed for attack on soldiers",
+     "desc": "Troops hold at least 12 Palestinians near demolished homes as nearly 5,000 remain displaced from Hebron neighbourhoods",
+     "url": "https://www.aljazeera.com/news/2026/10/30/israel-demolishes-homes-of-palestinians-blamed-for-attack-on-soldiers?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Israel demolishes gunmen's homes in West Bank operation that has displaced thousands",
+     "desc": "JERUSALEM, Oct 30 - Israel demolished on Friday the homes of the assailants who killed two Israeli soldiers at a checkpoint in the occupied West Bank city of Hebron last week, part of an ongoing operation that has forcibly displaced over 3,000 Palestinians.",
+     "url": "https://www.straitstimes.com/world/middle-east/israel-demolishes-gunmens-homes-in-west-bank-operation-that-has-displaced-thousands",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261027-22",
+   "title": "カリフォルニア州の非市民投票を巡る司法判断",
+   "firstSeen": "2026-10-27",
+   "daysSeen": 4,
+   "history": {
+    "2026-10-27": 6,
+    "2026-10-29": 8,
+    "2026-10-30": 6,
+    "2026-10-31": 6
+   },
+   "peak": 8,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US appeals court again rejects Trump bid to set aside California ballots",
+     "desc": "The 9th Circuit Court calls the petition to remove 20,000 ballots from California&#039;s vote count unconstitutional.",
+     "url": "https://www.aljazeera.com/news/2026/10/30/us-appeals-court-again-rejects-trump-bid-to-set-aside-california-ballots?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Judge orders the US Justice Department to hand over list of alleged noncitizen voters in California - AP News",
+     "desc": "Judge orders the US Justice Department to hand over list of alleged noncitizen voters in California AP News",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSHdmbjhFMWw1UUJfQ1ZYZTAxYXNtMnVBSE5YTTZOb0Z2THlxZ3FCSzczdzFqUnJyR1MzNDNDaDBQLWpaa0xUNVFvMkVEVmhwOXRqUUh2dl90azU0Zmk0cVNGZXhPM3FwX05KSGNDSEdzd2d1bDFrbXdTRXpzZG1UREVWSGR2YnZ0MXluTGZBR3hYUWJ4TkE3X1BUcHlTZmNyVDNTcVI2bldVdmlyZ0lZ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261030-02",
+   "title": "ラガルドECB総裁、来年2月の早期辞任へ",
+   "firstSeen": "2026-10-30",
+   "daysSeen": 2,
+   "history": {
+    "2026-10-30": 22,
+    "2026-10-31": 6
+   },
+   "peak": 22,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "dw",
+     "name": "Deutsche Welle",
+     "region": "world",
+     "weight": 0.5,
+     "title": "European Central Bank (ECB) head Christine Lagarde to step down in February, before her term ends",
+     "desc": "European Central Bank (ECB) President Christine Lagarde is to resign nine months ahead of the end of her 8-year term. European Council President Antonio Costa has said the process to find a successor is underway.",
+     "url": "https://www.dw.com/en/european-central-bank-ecb-head-christine-lagarde-to-step-down-in-february-before-her-term-ends/a-79794353?maca=en-rss-en-world-4025-rdf",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "European Central Bank head resigns, allowing EU leaders to choose successor before French election - AP News",
+     "desc": "European Central Bank head resigns, allowing EU leaders to choose successor before French election AP News",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd0t1M2lJYVRDeHhmSWRYc01ONFJxdlNybDhYZWpzNzJBdFd6OGJ0TEh2SkdwTndiRzVsM3B5eERhaG10eng3MDZzM0JpMko2dnFiQkZSc0tNVXppX0xyck5wNmxQMV9LcmJuOEQ3cFpveldnRlRkcHh2MFkwRjVOU0JYTjdIV0JQTHVBYmo0ZkNyUQ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261028-14",
+   "title": "法律事務所ウェイル、弁護士700人の移籍が焦点",
+   "firstSeen": "2026-10-28",
+   "daysSeen": 4,
+   "history": {
+    "2026-10-28": 6,
+    "2026-10-29": 8,
+    "2026-10-30": 8,
+    "2026-10-31": 6
+   },
+   "peak": 8,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Weil's meltdown sparks scramble for firm's 700 associates - Reuters",
+     "desc": "Weil's meltdown sparks scramble for firm's 700 associates Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLVJSWVNpajctZVhEdWxBUVdTN3pWQjN6NS1Vd0lzQzd6ak92NHh1dUlGMUZyUUJPMU1saUlCUFlCZFR6cVhOZnl2Z09GOVNCSFc5YzBRVEt1bnlMeFJtZkliNU90Mkc3ZVVDNWN3UER6ekowWndzUDVac2FRWGpfV19xdHlyN1pUeTYxa1ptLVN5dUttc3AzWjNkcFNMNDRXcVgxSGs5anJ1dm8?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "The last days of Weil - Financial Times",
+     "desc": "The last days of Weil Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYW16U1d1N1drZDVYc1BFZUpZZ0I5YVFsOVBFYXFuNWl4bExaMnpGT1ZXbDNZdkdvUWZZcDRCLVk5M1owZDZoUUFBR2dUMHhxQ3Bsc3ZNangtWVVyTklmVS1iZnBTMEw4Y3FueF8tOTFiQnZFbjlVc19NR2lxS2RILVlWWlc?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261030-01",
+   "title": "俳優パトリック・スチュワート氏が死去、86歳",
+   "firstSeen": "2026-10-30",
+   "daysSeen": 2,
+   "history": {
+    "2026-10-30": 21,
+    "2026-10-31": 6
+   },
+   "peak": 21,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Patrick Stewart, best known for \"Star Trek\" and \"X-Men,\" dies at 86",
+     "desc": "Patrick Stewart starred on stage and screen across his decadeslong acting career. He died at his home on Wednesday.",
+     "url": "https://www.cbsnews.com/news/patrick-stewart-dies-age-86-star-trek-actor/",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Patrick Stewart, legendary actor of ‘Star Trek’ and ‘X-Men’ fame, dies at 86 - AP News",
+     "desc": "Patrick Stewart, legendary actor of ‘Star Trek’ and ‘X-Men’ fame, dies at 86 AP News",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQS3cxRGJjSXBXVU1QdWZQa0tFZnJiR1pvRW1WLXZJSmRBZlpsV180RVNPdEZBUzJFazlsS1lfZ1VNM212VzFCTEo2ajlMcm9TLU8tVktRTnYzazJpWWxmcV9TS01xWW1jdTh6ZGVQRGZuYV8zUnJ6V2R6WnhoYjdrcnFhYmxWS1E?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261031-23",
+   "title": "シリア、アサド後も物価高と経済苦境が続く",
+   "firstSeen": "2026-10-31",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-31": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.65,
+     "title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
+     "desc": "End of subsidies and rising prices drive discontent, testing support for Ahmed al-Sharaa's government.",
+     "url": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "toi",
+     "name": "Times of India",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Syria dreamed of a new dawn after Assad, but economic misery clouds its future",
+     "desc": "",
+     "url": "https://timesofindia.indiatimes.com/world/middle-east/syria-dreamed-of-a-new-dawn-after-assad-but-economic-misery-clouds-its-future/articleshow/135370315.cms",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261031-25",
+   "title": "習近平氏、ドイツ大統領と会談 関係維持を強調",
+   "firstSeen": "2026-10-31",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-31": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 7,
+   "jpCoverage": "1/6",
+   "gap": -1,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Xi Jinping tells German president China and EU must ‘stay anchored to their partnership’",
+     "desc": "China and the European Union can resolve their differences through dialogue, Chinese President Xi Jinping told his German counterpart Frank-Walter Steinmeier on Friday. “China has always regarded the European Union as a partner,” Xi said, according to state broadcaster CCTV, adding that cooperation between the two sides outweighed competition. “As long as [both sides] stay anchored to their partnership and engage in dialogue on an equal footing, differences and challenges can always be resolved...",
+     "url": "https://www.scmp.com/news/china/diplomacy/article/3372781/xi-jinping-tells-german-president-china-and-eu-must-stay-anchored-their-partnership",
+     "via": null
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Xi Urges Germany to Maintain ‘Pragmatic’ Policy Toward China - Bloomberg.com",
+     "desc": "Xi Urges Germany to Maintain ‘Pragmatic’ Policy Toward China Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPME1wUUozV1NTZnFpU2pZZUtTRXlBUmVJVHNDZWw0MnBtaEhmazVFNjdldTRncEpzUWUtTmxwWkdIbVpheG9TQmdSUE02a1lsMTNBUENTblNMaktWUFBCVWdBOFBGaGVoNlJoQ1B4Vnk4RU9LbkszUnhnOURZanpPYnVVeWpXTml1UnlTNTVWSGZqUVlYSWRUMVF3cERNSlYzcHVaOTh6U0NBQW9tQ2c?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.42,
+     "title": "習氏「公平な市場環境」要望 ドイツ大統領と会談(共同通信)",
+     "desc": "【北京、ベルリン共同】中国の習近平国家主席は30日、北京でドイツのシュタインマイヤー大統領と会談した。国営通信の新華社が伝えた。習氏は「中国は高水準な（市場の）対外開放を推進する」とした上で「進出する",
+     "url": "https://news.yahoo.co.jp/articles/d7941ebd3abbfe4d78263b4a9e82ab977780127f?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261031-26",
+   "title": "国連生物多様性会合、2つの重要協定を採択",
+   "firstSeen": "2026-10-31",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-31": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "UN nature summit approves two key agreements after marathon negotiations",
+     "desc": "Almost 200 nations approved two agreements on Friday to halt biodiversity loss by 2030, following almost two weeks of negotiations that ran into extra time on the final day.",
+     "url": "https://www.france24.com/en/environment/20261030-un-nature-summit-approves-two-key-agreements-after-marathon-negotiations",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Nations agree crucial texts in overtime at UN nature summit",
+     "desc": "Nations had disagreed over how to rescue a landmark deal to restore nature to health.",
+     "url": "https://www.straitstimes.com/world/nations-struggle-for-deal-as-uns-cop17-nature-talks-go-down-to-the-wire",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261031-27",
+   "title": "スペイン警察、略奪グループ「Blocus」の創設者を逮捕",
+   "firstSeen": "2026-10-31",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-31": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Spanish police arrest suspected founder of 'Blocus' group linked to looting",
+     "desc": "MADRID, Oct 30 - Spanish police said on Friday they had arrested the suspected founder and main promoter of the local \\\"Blocus\\\" chapter, a group accused of using social media and online channels to exploit student protests and demonstrations as a cover for looting and violence.",
+     "url": "https://www.straitstimes.com/world/europe/spanish-police-arrest-suspected-founder-of-blocus-group-linked-to-looting",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Spanish police arrest suspected founder of 'Blocus' group linked to looting - Reuters",
+     "desc": "Spanish police arrest suspected founder of 'Blocus' group linked to looting Reuters",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOd2tWX2g1Yl80Y2FSLXVjSFVjNlBuYVJYVjBQTEJZQzhvODlGZlhYVVhFWl9UMGFiWGtfcnVzOTE5MEd5OXhJeVBKVmxaRXcyQ3ZQTG9oRmlqZlh5elc0dFBzT1p0eFpIVEZ0VXQ1aV9ReURLZXZ1aXE3X1pyakdDNHB5N1FJcHNDaGxaYU1OU2ptanlDRHdiX2ZWRTEzcXZZUnZSU3FVcjZPcHZqUlE?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261031-28",
+   "title": "トランプ機のハロウィーン飛行、空港で混乱",
+   "firstSeen": "2026-10-31",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-31": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "toi",
+     "name": "Times of India",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump's Halloween surprise sparks panic in Washington; residents call 911 fearing plane crash as Air Force One made low-altitude flyover",
+     "desc": "",
+     "url": "https://timesofindia.indiatimes.com/world/us/trumps-halloween-surprise-sparks-panic-in-washington-residents-call-911-fearing-plane-crash-as-air-force-one-showed-low-altitude-flyover/articleshow/135377172.cms",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Air Force One flyover for White House Halloween event causes flight delays - Reuters",
+     "desc": "Air Force One flyover for White House Halloween event causes flight delays Reuters",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEttMHpKVWpJQ1Bna1dmd1pKY0JTM0pCbUZudEJ0eThrSWhKckFmTWNGblZMM0hxNXJCUkdEa2V6VzAtUzA0R3FnUWFiSTNuRWdzOWU2eC1LSFN1cnltTHppRkp0UW1vNGJTZm0tNnlabTlvMjJYMzFFMlN2NkVIb1lCek9uUmxDYzIwcUhidkpYcGtBQmt1MzFtRDZERGV4OXZ1THpYeVpRWHpDblN4ak4wbTBZcFkwbW9ZeFViYmxFWVEwczk2THBsX1lPUQ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261031-09",
+   "title": "米中間選挙、期日前投票が記録的水準",
+   "firstSeen": "2026-10-31",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-31": 5
+   },
+   "peak": 5,
+   "worldScore": 5,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 5,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.39,
+     "title": "More than 43 million ballots cast so far in midterms early voting surge",
+     "desc": "Hispanic voters have helped drive the early voting numbers, which appear to outpace overall turnout for previous elections in some battleground counties.",
+     "url": "https://www.bbc.co.uk/news/articles/c30rlxkjv2yko?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US midterm early voting hits record 48 million",
+     "desc": "Participation has surged in key battleground states.",
+     "url": "https://www.straitstimes.com/world/united-states/us-midterm-early-voting-hits-record-48-million",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261031-18",
+   "title": "コーネル大の性的被害申し立て、NY州警察が捜査",
+   "firstSeen": "2026-10-31",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-31": 5
+   },
+   "peak": 5,
+   "worldScore": 5,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 5,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.36,
+     "title": "New York police will now investigate Cornell sex complaints, governor says",
+     "desc": "The change was announced amid backlash over the school's handling of gang rape allegations involving a fraternity on campus.",
+     "url": "https://www.bbc.co.uk/news/articles/cmwy42j9wewlo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Man accused in Cornell rape lawsuit wants Letitia James removed from investigation over her posts - AP News",
+     "desc": "Man accused in Cornell rape lawsuit wants Letitia James removed from investigation over her posts AP News",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWWZZT2t0eUJnQWxVVkpNcTNsaEtKc3BuY0QyWUJqS2VSbHFHQnhmS1pscENzaFc1aVpIZ1lERzJTWHBDUWxvdUNqT2ZjUkRtV3BlS3UweHhfQnE1RlE1NzQ0Nks3cUVtbG1tZXhSQUI5eUVHY1Zha3daeUxNcE12LUF5TGt4TkxDVUF1ek8tTl9yY0ZLZXVYUExXV0RKN3B4a0E?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261031-22",
+   "title": "ポンペイの家で遺物、香水瓶や子どものネックレス",
+   "firstSeen": "2026-10-31",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-31": 5
+   },
+   "peak": 5,
+   "worldScore": 5,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 5,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.42,
+     "title": "Perfume bottle and child’s necklace among treasures found in Pompeii wardrobe",
+     "desc": "Archaeologists uncover jewellery, cosmetics and coins in cabinet sealed since eruption of Mount Vesuvius in AD79 Fragments of personal objects, from makeup tools and a perfume bottle to coins and a child’s necklace, have been found tucked away in a wooden wardrobe sealed off for almost 2,000 years in the ruins of Pompeii. The artifacts provide an intimate glimpse of daily life in the ancient Roman city before it was devastated by the eruption of Mount Vesuvius in AD79. The wardrobe was discovered in a room of a home on Via dell’Abbondanza, which was one of the most bustling streets in Pompeii.",
+     "url": "https://www.theguardian.com/science/2026/oct/30/perfume-bottle-child-necklace-pompeii-wardrobe",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Items found in Pompeii home hint at life before volcanic explosion",
+     "desc": "Coins, jewelry and other artifacts were found in a sealed closet in Pompeii, giving new insight into life in the historic Roman city before it was destroyed in A.D. 79.",
+     "url": "https://www.cbsnews.com/news/pompeii-discovery-ancient-artifacts-daily-life/",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261027-01",
+   "title": "アンソロピック、上場後の格付けに懸念",
+   "firstSeen": "2026-10-27",
+   "daysSeen": 3,
+   "history": {
+    "2026-10-27": 25,
+    "2026-10-28": 3,
+    "2026-10-31": 3
+   },
+   "peak": 25,
+   "worldScore": 3,
+   "worldCoverage": "1/18",
+   "jpScore": 8,
+   "jpCoverage": "1/6",
+   "gap": -5,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone tells investors - Financial Times",
+     "desc": "Anthropic may not secure investment-grade rating after IPO, Blackstone tells investors Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcjg3X1I0NkVyZEpOZEh0cmZLdFpJYVFOOTJwdm9nNTBJSGJwcEF6T25KRFBBeDBpLWZtOWNKMjdKeHhxZF9zOUVyUmVjT2pSQm01YmgwS0dnZWFXa3ZVc2tfSW5aUE5sSFJtc2lUVUlQUjROZjRxU0M3MFBKVWg1alAyZUU?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "クラウド大手とアンソロピックが「5重依存」 90兆円の契約に危うさも - 日本経済新聞",
+     "desc": "クラウド大手とアンソロピックが「5重依存」 90兆円の契約に危うさも 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4MXZPMkI0Z2pnMGhwNHd0SS0xNVpnbWpzckNEWHIzQ3hhZVlSNlU3aVhnN3oyWVRoOUx4MnVVZU9rMldvQ2JrSDdzeURwRkRLb0JZOGtLc1pBc1ZmVDRaTy10VnRNelZEb0Vxdg?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261026-02",
+   "title": "マチャド氏、帰国しベネズエラの選挙実施を要求",
+   "firstSeen": "2026-10-26",
+   "daysSeen": 2,
+   "history": {
+    "2026-10-26": 53,
+    "2026-10-31": 3
+   },
+   "peak": 53,
+   "worldScore": 3,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 3,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.3,
+     "title": "Venezuela opposition leader María Machado calls for elections upon return",
+     "desc": "Machado, who was in exile for nearly a year, said the transition in Venezuela's government would be \"irreversible, organised, pacific\".",
+     "url": "https://www.bbc.co.uk/news/articles/ck054d5mnzreo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.3,
+     "title": "Venezuelan Opposition Leader Thanks Trump But Marks Distance from Washington",
+     "desc": "Finally home in Caracas, María Corina Machado called for elections next year, and said her return was organized by her team, not any government.",
+     "url": "https://www.nytimes.com/2026/10/29/world/americas/machado-trump-venezuela-return.html",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261031-30",
+   "title": "日銀、物価2%到達を確認 利上げ道筋に言及",
+   "firstSeen": "2026-10-31",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-31": 3
+   },
+   "peak": 3,
+   "worldScore": 3,
+   "worldCoverage": "1/18",
+   "jpScore": 17,
+   "jpCoverage": "2/6",
+   "gap": -14,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Bank of Japan says 2% inflation goal reached after decades of deflation - Financial Times",
+     "desc": "Bank of Japan says 2% inflation goal reached after decades of deflation Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVi1KTThMaldwbS1RUlphdUZuVE9lU0N1M0ZvNll2eXJGczlyVy1NN0VvajJ0Q1RfVnh2THVreHdMdVdmQlpXSzRneVgyTU55cmVQMl9oa2piLWFjNmJuM0V6Qk5lSWhkWC1LUWtBSldNdGFycU1aa25hNnpHT1BTcGZLNGU?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "asahi",
+     "name": "朝日新聞",
+     "region": "jp",
+     "weight": 0.53,
+     "title": "【詳細】日銀が物価「2%到達」10/30配信の記事はこちらから",
+     "desc": "",
+     "url": "http://www.asahi.com/articles/ASVBY3FP7VBYULFA00NM.html?ref=rss",
+     "via": null
+    },
+    {
+     "id": "mainichi",
+     "name": "毎日新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "13年経て「到達」の物価上昇2% 安定へ追加利上げも探る日銀",
+     "desc": "",
+     "url": "https://mainichi.jp/articles/20261030/k00/00m/020/386000c",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261031-24",
+   "title": "中間選挙、民主党が赤い州テキサスで攻勢",
+   "firstSeen": "2026-10-31",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-31": 0
+   },
+   "peak": 0,
+   "worldScore": 0,
+   "worldCoverage": "0/18",
+   "jpScore": 40,
+   "jpCoverage": "3/6",
+   "gap": -40,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "民主新星、「赤い州」米南部テキサスで勢い 共和トランプ派、危機感あおる―上院過半数へ天王山・中間選挙",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026103000736&g=int&m=rss",
+     "via": null
+    },
+    {
+     "id": "yahoo",
+     "name": "Yahoo!ニュース主要",
+     "region": "jp",
+     "weight": 0.9,
+     "title": "中間選挙 民主党「赤い州」で勢い",
+     "desc": "",
+     "url": "https://news.yahoo.co.jp/pickup/6600736?source=rss",
+     "via": null
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 1,
+     "title": "【11.3 アメリカ中間選挙現地ルポ】\"トランプの命綱\"テキサス州「反エリート票」争奪戦の実態（リアル）！(週プレNEWS)",
+     "desc": "人気の低下が止まらない――米トランプ大統領が追い込まれている。中間選挙で「共和党が勝って当たり前」と目されていた赤い州・テキサスでまさかの民主党と票読みが拮抗しているのだ。【写真】民主党候補のジェーム",
+     "url": "https://news.yahoo.co.jp/articles/ad5a8d486ddc2ce9deebfc6facaf53a7c2b4013c?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261031-29",
+   "title": "茂木外相、ロシア外相と会談 邦人記者の解放要求",
+   "firstSeen": "2026-10-31",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-31": 0
+   },
+   "peak": 0,
+   "worldScore": 0,
+   "worldCoverage": "0/18",
+   "jpScore": 22,
+   "jpCoverage": "2/6",
+   "gap": -22,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "茂木外相、ロシア外相に即時解放要求 邦人記者拘束後、初の会談",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026103100115&g=pol&m=rss",
+     "via": null
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.8,
+     "title": "日ロ外相が会談(共同通信)",
+     "desc": "【アトランタ共同】茂木敏充外相とロシアのラブロフ外相は30日、20カ国・地域（G20）外相会合が開かれている米南部アトランタで会談し、2国間関係について意見を交わした。日本とロシア両国の外務省が発表し",
+     "url": "https://news.yahoo.co.jp/articles/ab5febdc2491c1fabdbb3abdd8b0f50d204dd880?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261031-31",
+   "title": "住宅ローン固定金利、大手が引き下げ",
+   "firstSeen": "2026-10-31",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-31": 0
+   },
+   "peak": 0,
+   "worldScore": 0,
+   "worldCoverage": "0/18",
+   "jpScore": 17,
+   "jpCoverage": "2/6",
+   "gap": -17,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "asahi",
+     "name": "朝日新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "住宅ローン固定金利、3メガ平均が下落 過去最高の更新がストップ",
+     "desc": "",
+     "url": "http://www.asahi.com/articles/ASVBZ3SR4VBZULFA02KM.html?ref=rss",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "11月の住宅ローン、大手4行が固定金利下げ 5行平均3.9%に - 日本経済新聞",
+     "desc": "11月の住宅ローン、大手4行が固定金利下げ 5行平均3.9%に 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCbDFkWFJyR04xUV9Bel9ueE9rcENBR2NuMmU3UzAtQk8yZzRFRTVsLUtBWnFSSGJPUGxoM3JDSDlyX2trajdvRG1LeWJ5VWtHQWxXczk2QkVNODRjNGN1aEJ1SlhBSDVPR1NBbg?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261031-32",
+   "title": "消費減税法案、参院に特別委設置で合意",
+   "firstSeen": "2026-10-31",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-31": 0
+   },
+   "peak": 0,
+   "worldScore": 0,
+   "worldCoverage": "0/18",
+   "jpScore": 15,
+   "jpCoverage": "2/6",
+   "gap": -15,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "asahi",
+     "name": "朝日新聞",
+     "region": "jp",
+     "weight": 0.39,
+     "title": "山場迎える消費減税法案、給付は不透明なまま 野党「ツケは政府に」",
+     "desc": "",
+     "url": "http://www.asahi.com/articles/ASVBZ3TRHVBZUTFK00CM.html?ref=rss",
+     "via": null
+    },
+    {
+     "id": "mainichi",
+     "name": "毎日新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "消費減税法案、参院に特別委設置へ 衆院以上の審議時間で合意",
+     "desc": "",
+     "url": "https://mainichi.jp/articles/20261030/k00/00m/010/366000c",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261031-33",
+   "title": "所得連動の給付案、低所得者に年5000円",
+   "firstSeen": "2026-10-31",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-31": 0
+   },
+   "peak": 0,
+   "worldScore": 0,
+   "worldCoverage": "0/18",
+   "jpScore": 17,
+   "jpCoverage": "2/6",
+   "gap": -17,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "mainichi",
+     "name": "毎日新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "年収119万円以下に5000円 所得連動給付で政府参考案",
+     "desc": "",
+     "url": "https://mainichi.jp/articles/20261030/k00/00m/020/371000c",
+     "via": null
+    },
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "支援金、低所得者は定額年５０００円 年収１６０万円まで増加、政府が「参考値」",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026103000475&g=pol&m=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261031-34",
+   "title": "東大学長選、藤垣氏の承認経緯を公表",
+   "firstSeen": "2026-10-31",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-31": 0
+   },
+   "peak": 0,
+   "worldScore": 0,
+   "worldCoverage": "0/18",
+   "jpScore": 31,
+   "jpCoverage": "3/6",
+   "gap": -31,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "asahi",
+     "name": "朝日新聞",
+     "region": "jp",
+     "weight": 0.85,
+     "title": "東大総長選考、藤垣氏は「15人中14人が承認」 新たな文書を発表",
+     "desc": "",
+     "url": "http://www.asahi.com/articles/ASVBZ3SXVVBZUTIL028M.html?ref=rss",
+     "via": null
+    },
+    {
+     "id": "mainichi",
+     "name": "毎日新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "東大が学長選考経緯公表 最終投票で15人中14人が藤垣氏承認",
+     "desc": "",
+     "url": "https://mainichi.jp/articles/20261030/k00/00m/040/408000c",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "東大次期学長・藤垣裕子氏、委員投票で2度最多 選考会議が経緯説明 - 日本経済新聞",
+     "desc": "東大次期学長・藤垣裕子氏、委員投票で2度最多 選考会議が経緯説明 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tQUNITGhQWi1pc3dTMU5MQ0QwMkZkdWxvaHdzQ2g5UmxaZUdDMmV0QjZma0taTlA2bkNpWjJrTzYtNk1PQ1hmeGtGa2lVZmpMUW9iWlBPcF8tUXhnUWo3eGRWR1BHUzRFRGZEVg?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261031-35",
+   "title": "辺野古転覆事故、同志社理事長が初会見",
+   "firstSeen": "2026-10-31",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-31": 0
+   },
+   "peak": 0,
+   "worldScore": 0,
+   "worldCoverage": "0/18",
+   "jpScore": 23,
+   "jpCoverage": "2/6",
+   "gap": -23,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "asahi",
+     "name": "朝日新聞",
+     "region": "jp",
+     "weight": 0.88,
+     "title": "学校法人同志社の理事長、教育の中立性に「問題」 辺野古事故で会見",
+     "desc": "",
+     "url": "http://www.asahi.com/articles/ASVBZ05R9VBZOXIE005M.html?ref=rss",
+     "via": null
+    },
+    {
+     "id": "mainichi",
+     "name": "毎日新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "「問題点を長年放置」 辺野古転覆事故、同志社理事長が初会見",
+     "desc": "",
+     "url": "https://mainichi.jp/articles/20261030/k00/00m/040/373000c",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261031-36",
+   "title": "巨人の松井秀喜監督、秋季キャンプで始動",
+   "firstSeen": "2026-10-31",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-31": 0
+   },
+   "peak": 0,
+   "worldScore": 0,
+   "worldCoverage": "0/18",
+   "jpScore": 19,
+   "jpCoverage": "2/6",
+   "gap": -19,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "asahi",
+     "name": "朝日新聞",
+     "region": "jp",
+     "weight": 0.65,
+     "title": "巨人の松井秀喜監督が始動 まず選手に訓示、背番号90は披露せず",
+     "desc": "",
+     "url": "http://www.asahi.com/articles/ASVBZ1VCPVBZUTQP00ZM.html?ref=rss",
+     "via": null
+    },
+    {
+     "id": "mainichi",
+     "name": "毎日新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "「お帰りなさい」 巨人・松井新監督、秋季キャンプで本格始動",
+     "desc": "",
+     "url": "https://mainichi.jp/articles/20261030/k00/00m/050/385000c",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261031-37",
+   "title": "巨人の甲斐拓也、楽天へ金銭トレード",
+   "firstSeen": "2026-10-31",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-31": 0
+   },
+   "peak": 0,
+   "worldScore": 0,
+   "worldCoverage": "0/18",
+   "jpScore": 15,
+   "jpCoverage": "2/6",
+   "gap": -15,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "asahi",
+     "name": "朝日新聞",
+     "region": "jp",
+     "weight": 0.62,
+     "title": "巨人の甲斐拓也が金銭トレードで楽天へ 5年契約でFA移籍から2年",
+     "desc": "",
+     "url": "http://www.asahi.com/articles/ASVBZ15V7VBZUTQP00NM.html?ref=rss",
+     "via": null
+    },
+    {
+     "id": "yahoo",
+     "name": "Yahoo!ニュース主要",
+     "region": "jp",
+     "weight": 0.3,
+     "title": "楽天・石井GM 甲斐獲得巡り説明",
+     "desc": "",
+     "url": "https://news.yahoo.co.jp/pickup/6600735?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261031-38",
+   "title": "国内企業で不正アクセス相次ぐ、顧客情報流出か",
+   "firstSeen": "2026-10-31",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-31": 0
+   },
+   "peak": 0,
+   "worldScore": 0,
+   "worldCoverage": "0/18",
+   "jpScore": 13,
+   "jpCoverage": "2/6",
+   "gap": -13,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "asahi",
+     "name": "朝日新聞",
+     "region": "jp",
+     "weight": 0.3,
+     "title": "政府がサイバー対策まとめた特設サイト開設 相次ぐ不正アクセスで",
+     "desc": "",
+     "url": "http://www.asahi.com/articles/ASVBZ35JVVBZULFA00BM.html?ref=rss",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "無印良品のアプリに不正アクセス 最大約2726万件の顧客情報流出か - 日本経済新聞",
+     "desc": "無印良品のアプリに不正アクセス 最大約2726万件の顧客情報流出か 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDM2l0NFNXT2g5X0pyZ1ZDZURIdUpIVkphWUNIdnpJalJBLUJRQy1oN2xZdEZYQW1wQUNrTE9zZjhzT0FsTEh2U2Q4bVEzY2U3YUdiUUh5NlZ0TVJWazJtMXY0a1hlLXNuaGJXZA?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261031-39",
+   "title": "キオクシア、10〜12月期の純利益が大幅増",
+   "firstSeen": "2026-10-31",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-31": 0
+   },
+   "peak": 0,
+   "worldScore": 0,
+   "worldCoverage": "0/18",
+   "jpScore": 22,
+   "jpCoverage": "2/6",
+   "gap": -22,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "yahoo",
+     "name": "Yahoo!ニュース主要",
+     "region": "jp",
+     "weight": 0.8,
+     "title": "キオクシア 4-12月純利益24倍予想",
+     "desc": "",
+     "url": "https://news.yahoo.co.jp/pickup/6600712?source=rss",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "決算:キオクシアの10〜12月、純利益15倍の1兆3600億円 配当実施 - 日本経済新聞",
+     "desc": "決算:キオクシアの10〜12月、純利益15倍の1兆3600億円 配当実施 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXX1drbkl3RzhWNmZmSFAtUjdXNXZpVkFsSlNaZ21GbUtyM1F6MHhKdkpnUktmVDUwVUxLRnZGOEIxZ3V4VVl6NFVXTnFJQ21BMEt5YVBiMFlHMmVXMkdJeTdvaTd5Mjk3SzAxYQ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261031-40",
+   "title": "ジャングリア、新スポンサー探しで出資に関心",
+   "firstSeen": "2026-10-31",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-31": 0
+   },
+   "peak": 0,
+   "worldScore": 0,
+   "worldCoverage": "0/18",
+   "jpScore": 20,
+   "jpCoverage": "2/6",
+   "gap": -20,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "yahoo",
+     "name": "Yahoo!ニュース主要",
+     "region": "jp",
+     "weight": 0.7,
+     "title": "ジャングリア 出資に数社が関心",
+     "desc": "",
+     "url": "https://news.yahoo.co.jp/pickup/6600733?source=rss",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "ジャングリアCEO「収益残せずおわび」 新スポンサーは26年度内に - 日本経済新聞",
+     "desc": "ジャングリアCEO「収益残せずおわび」 新スポンサーは26年度内に 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44OXRfUFI1ZUprb25Qa2NHVzVTZVUwM0NNOEFGQklFLTNYZTcwWUxuWnBiR0VMSjYyR3VxXzFCOUIxTS1maVN0UkQ2T0JpVkxycS0yMW5ERmpfLTBQZkZUY0FoM0ZKb0tKZ0s0LQ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261031-41",
+   "title": "都立六本木高校で女子生徒刺傷、同級生を逮捕",
+   "firstSeen": "2026-10-31",
+   "daysSeen": 1,
+   "history": {
+    "2026-10-31": 0
+   },
+   "peak": 0,
+   "worldScore": 0,
+   "worldCoverage": "0/18",
+   "jpScore": 27,
+   "jpCoverage": "3/6",
+   "gap": -27,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "mainichi",
+     "name": "毎日新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "「相手を殺して死のうと」 同級生刺した容疑で高校1年少女逮捕",
+     "desc": "",
+     "url": "https://mainichi.jp/articles/20261030/k00/00m/040/357000c",
+     "via": null
+    },
+    {
+     "id": "yahoo",
+     "name": "Yahoo!ニュース主要",
+     "region": "jp",
+     "weight": 0.6,
+     "title": "六本木高校生徒 複数回刺され重傷",
+     "desc": "",
+     "url": "https://news.yahoo.co.jp/pickup/6600717?source=rss",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "都立六本木高校で女子生徒刺される 同級生を現行犯逮捕 - 日本経済新聞",
+     "desc": "都立六本木高校で女子生徒刺される 同級生を現行犯逮捕 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42NjQxUnF3Qm94TlM1cElyYkZXb2pDOWF1X1ZqcHByOTRaTlE2b2dpN0NPeXlnbVdBVnphQ3dtLTF1YjNmSnVFLUdVWTRBWE55SzdSU2tZZFhIZ3ZjTGhJbU96dmtkSTRobFV5Ug?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  }
+ ]
+}
