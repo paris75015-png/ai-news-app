@@ -15,8 +15,8 @@ OK Spiegel International：1件
 OK BBC：25件
 OK Deutsche Welle：10件
 OK Al Jazeera：25件
-[claude] claude-haiku-5-5: claude: Failed to authenticate. API Error: 401 Invalid bearer token
-[claude] 失敗。30秒待って再試行（1/1回目）
-[claude] claude-haiku-5-5: claude: Failed to authenticate. API Error: 401 Invalid bearer token
-[longread] エラー: claude: Failed to authenticate. API Error: 401 Invalid bearer token
-[claude] 合計 {"model":"claude-haiku-5-5","calls":2,"failures":2,"inputTokens":0,"outputTokens":0,"cacheReadTokens":0,"ms":7242}
+[longread] 1. EUの対外戦略：北極・カナダ・インドとの関係：海外4媒体（論考2）／日本語8件／本文5
+[longread] 2. 米国の衰退感と悲観論、スエズ危機との比較：海外2媒体（論考2）／日本語0件／本文3
+[longread] 3. イスラエル総選挙後の連立交渉と今後の政権の行方：海外5媒体（論考3）／日本語53件／本文6
+[longread] 完了：記事266件 → 話題101件 → 資料3件
+[claude] 合計 {"model":"claude-haiku-5-5","calls":1,"failures":0,"inputTokens":34797,"outputTokens":43732,"cacheReadTokens":0,"ms":177823}
