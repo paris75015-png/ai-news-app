@@ -1,0 +1,22 @@
+$ node pipeline/longread/collect.mjs
+[longread] 2026-10-31 テーマ：自由（その週に残った話題）
+OK The Conversation：22件
+OK The Conversation（政治）：18件
+OK VoxEU (CEPR)：14件
+OK Foreign Policy：25件
+OK War on the Rocks：13件
+OK The Diplomat：25件
+OK The Guardian（長文読み物）：5件
+OK The Guardian（政治）：21件
+OK The Guardian（経済）：20件
+OK The Guardian（社会）：25件
+OK Meduza：25件
+OK Spiegel International：1件
+OK BBC：25件
+OK Deutsche Welle：10件
+OK Al Jazeera：25件
+[claude] claude-haiku-5-5: claude: Failed to authenticate. API Error: 401 Invalid bearer token
+[claude] 失敗。30秒待って再試行（1/1回目）
+[claude] claude-haiku-5-5: claude: Failed to authenticate. API Error: 401 Invalid bearer token
+[longread] エラー: claude: Failed to authenticate. API Error: 401 Invalid bearer token
+[claude] 合計 {"model":"claude-haiku-5-5","calls":2,"failures":2,"inputTokens":0,"outputTokens":0,"cacheReadTokens":0,"ms":5805}
