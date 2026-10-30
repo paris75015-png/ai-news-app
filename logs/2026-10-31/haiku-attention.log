@@ -1,0 +1,43 @@
+$ node pipeline/attention/fetch.mjs
+OK  world BBC                        25件  Crypto giant Binance attempting to recov
+OK  world The Guardian               25件  Sinkholes, scarred land and scapegoats: 
+OK  world Al Jazeera                 25件  US appeals court again rejects Trump bid
+OK  world New York Times             25件  U.S. to Send Dozens Back to Afghanistan,
+OK  world Deutsche Welle             10件  Smuggling, power, profit: Irregular migr
+OK  world France 24                  24件  UN nature summit approves two key agreem
+OK  world Euronews                   25件  Polish president turns back mid-flight a
+OK  world NPR                        10件  Blockchain intelligence firms link North
+OK  world South China Morning Post   25件  Can Connie Chan become San Francisco’s f
+OK  world Sky News                   8件  Crypto industry suffers 'largest bank he
+OK  world ABC Australia              25件  Wall Street drops to worst day since Jun
+OK  world CBS News                   20件  Pope Leo becomes first pontiff to vote i
+OK  world Times of India             20件  Trump's Halloween surprise sparks panic 
+OK  world The Straits Times          25件  Saudi-led coalition says it downs Houthi
+OK  world Reuters                    25件  US approves $2.1 billion Patriot missile
+OK  world Associated Press           25件  Patrick Stewart, legendary actor of ‘Sta
+OK  world Bloomberg                  25件  Nasdaq 100 Hits Third Correction of 2026
+OK  world Financial Times            25件  CD&R pursues buyout of $40bn card proces
+OK  jp    朝日新聞                       25件  同窓会の5カ月後、妻は殺された 逮捕から1年、見えぬ心の内
+OK  jp    毎日新聞                       20件  第51回社会人野球日本選手権 審判員一覧
+OK  jp    時事通信                       10件  中国人民銀、翌日物を主要政策金利に 市場重視、国際標準へ
+OK  jp    Yahoo!ニュース 国際              25件  米、迎撃ミサイル売却承認 ウクライナに、3千億円超(共同通信)
+OK  jp    Yahoo!ニュース主要               8件  31日関東-北海道で天気急変に注意
+OK  jp    日本経済新聞                     25件  世界のメモリー大手、営業利益が初の米テック超え AI需要が急増 - 日本経済新聞
+
+到達 24/24 → data/attention/2026-10-31-headlines.json
+$ node pipeline/attention/rank.mjs
+見出し 505件（24媒体）をまとめます。引き継ぎ候補 154件
+[claude] claude-haiku-5-5: claude: Failed to authenticate. API Error: 401 Invalid bearer token
+[claude] 失敗。30秒待って再試行（1/1回目）
+[claude] claude-haiku-5-5: claude: Failed to authenticate. API Error: 401 Invalid bearer token
+[claude] 合計 {"model":"claude-haiku-5-5","calls":2,"failures":2,"inputTokens":0,"outputTokens":0,"cacheReadTokens":0,"ms":6752}
+file:///home/runner/work/ai-news-app/ai-news-app/pipeline/gemini.js:115
+      if (res.is_error) throw new Error(`claude: ${String(res.result).slice(0, 200)}`);
+                              ^
+
+Error: claude: Failed to authenticate. API Error: 401 Invalid bearer token
+    at claudeJson (file:///home/runner/work/ai-news-app/ai-news-app/pipeline/gemini.js:115:31)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///home/runner/work/ai-news-app/ai-news-app/pipeline/attention/rank.mjs:97:30
+
+Node.js v22.23.4
