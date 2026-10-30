@@ -5,7 +5,7 @@ on:
     # 平日 16:43（日本時間）= 米国の深夜。AI の無料枠が比較的空いている時間帯。
     # 正時・30分ちょうどは GitHub 側も混むので、半端な分にしている。数十分遅れることがある
     # 07:43 UTC + 9時間 = 同じ日の 16:43 JST。曜日も UTC と JST で一致するため 1-5 でよい
-    # 深掘り2系統（07:00 / 07:30 JST）も平日のみ。3系統で揃えている
+    # 国際深掘り（07:30、予備 11:30 JST）も平日のみ。揃えている
     - cron: '43 7 * * 1-5'
   workflow_dispatch:        # Actions 画面から手動で実行できる
   push:
@@ -23,7 +23,7 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 30  # 何かで止まっても30分で打ち切る
+    timeout-minutes: 60  # 何かで止まっても60分で打ち切る（採点の混雑待ち 最大19分＋要約 最大20分が収まる長さ）
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}

@@ -26,8 +26,9 @@ AI日報        AI・IT・科学技術。広く浅く、当日の動きを一覧
 ## 実行順
 
 ```
-06:20 JST  世界の注目度  → public/data/attention/（順位表）、data/dossiers/（深掘りの資料）   Actions・平日
+03:20 JST  世界の注目度  → public/data/attention/（順位表）、data/dossiers/（深掘りの資料）   Actions・平日
 07:30 JST  国際深掘り    → public/data/intl.json                                          資料を読んで書く
+11:30 JST  国際深掘り（予備） 当日分がまだ出ていなければ書く。出ていれば何もしない
 16:43 JST  AI日報        → public/data/ai.json
 ```
 

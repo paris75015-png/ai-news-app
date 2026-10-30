@@ -277,6 +277,7 @@ async function scoreList(candidates, earlierHeadlines = []) {
     system: SCORING_PROMPT + exclusion,
     prompt: `記事候補（${list.length}件）:\n${list.map(x => JSON.stringify(x)).join('\n')}`,
     schema: SCORING_SCHEMA,
+    retryWaitsMs: COLLECT.scoringRetryWaitsSec.map(s => s * 1000),
   });
   return result.items || [];
 }
