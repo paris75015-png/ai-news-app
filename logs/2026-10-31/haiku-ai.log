@@ -1,0 +1,30 @@
+$ npm run news
+
+> ai-news-app@1.0.0 news
+> node pipeline/build.mjs
+
+[build] Groq: 有効
+[collect] Hacker News: 10件
+[collect] TechCrunch: 10件
+[collect] The Verge: 10件
+[collect] Ars Technica: 10件
+[collect] MIT Technology Review: 10件
+[collect] OpenAI: 10件
+[collect] Google AI Blog: 0件
+[collect] ITmedia NEWS: 10件
+[collect] ITmedia AI+: 10件
+[collect] Publickey: 3件
+[collect] Impress Watch: 10件
+[collect] GIGAZINE: 10件
+[build] 候補 95件（既出 26件、深掘りと重複 0件を除外）
+[claude] claude-haiku-5-5: claude: Failed to authenticate. API Error: 401 Invalid bearer token
+[claude] 失敗。60秒待って再試行（1/4回目）
+[claude] claude-haiku-5-5: claude: Failed to authenticate. API Error: 401 Invalid bearer token
+[claude] 失敗。180秒待って再試行（2/4回目）
+[claude] claude-haiku-5-5: claude: Failed to authenticate. API Error: 401 Invalid bearer token
+[claude] 失敗。300秒待って再試行（3/4回目）
+[claude] claude-haiku-5-5: claude: Failed to authenticate. API Error: 401 Invalid bearer token
+[claude] 失敗。600秒待って再試行（4/4回目）
+[claude] claude-haiku-5-5: claude: Failed to authenticate. API Error: 401 Invalid bearer token
+[build] エラー: claude: Failed to authenticate. API Error: 401 Invalid bearer token
+[claude] 合計 {"model":"claude-haiku-5-5","calls":5,"failures":5,"inputTokens":0,"outputTokens":0,"cacheReadTokens":0,"ms":14857}
