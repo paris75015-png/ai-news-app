@@ -17,8 +17,14 @@ DATE="$(TZ=Asia/Tokyo date +%F)"
 BRANCH="haiku-compare"
 LOG="haiku-${STREAM}.log"
 
+FIRST_DAY="2026-11-02"  # 比較の初日（JST）。定期実行ではこれより前は何もしない（手動の試運転は動く）
+
 if [[ "$DATE" > "$LAST_DAY" ]]; then
   echo "比較期間（〜${LAST_DAY}）を過ぎたので何もしない"
+  exit 0
+fi
+if [[ "${GITHUB_EVENT_NAME:-}" == "schedule" && "$DATE" < "$FIRST_DAY" ]]; then
+  echo "比較期間（${FIRST_DAY}〜）の前なので何もしない"
   exit 0
 fi
 
@@ -29,6 +35,21 @@ export GEMINI_API_KEY="unused-in-haiku-version"   # 各処理の起動時の確�
 
 [ -n "${CI:-}" ] && npm install -g @anthropic-ai/claude-code >/dev/null 2>&1
 claude --version </dev/null
+
+# トークンは端末で折り返して表示されるので、貼り付け時に改行・空白が混ざりやすい。取り除いてから使う
+if [ -n "${CLAUDE_CODE_OAUTH_TOKEN:-}" ]; then
+  CLAUDE_CODE_OAUTH_TOKEN="$(printf %s "$CLAUDE_CODE_OAUTH_TOKEN" | tr -d '[:space:]')"
+  export CLAUDE_CODE_OAUTH_TOKEN
+  # 値は出さず、形だけ記録する（2026-10-31 の試運転は 401 Invalid bearer token で全滅した）
+  echo "トークン: ${#CLAUDE_CODE_OAUTH_TOKEN}文字、先頭が sk-ant-oat: $([[ "$CLAUDE_CODE_OAUTH_TOKEN" == sk-ant-oat* ]] && echo はい || echo いいえ)"
+fi
+
+# 認証だけ先に確かめる。通らなければ、待ち時間をかけずにここで止める
+if ! echo "OK とだけ返す" | claude -p --model "$CLAUDE_MODEL" --tools "" --output-format json --no-session-persistence \
+     | python3 -c "import json,sys; d=json.load(sys.stdin); print('[claude] 認証の確認:', 'NG ' + str(d.get('result'))[:200] if d.get('is_error') else 'OK'); sys.exit(1 if d.get('is_error') else 0)"; then
+  echo "Claude の認証が通らない。CLAUDE_CODE_OAUTH_TOKEN を登録し直す（claude setup-token → gh secret set）"
+  exit 1
+fi
 
 git config --global user.name "github-actions[bot]"
 git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"

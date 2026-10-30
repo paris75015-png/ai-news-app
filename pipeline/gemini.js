@@ -112,7 +112,11 @@ async function claudeJson({ system, prompt, schema, retryWaitsMs }) {
       claudeUsage.inputTokens += (res.usage?.input_tokens || 0) + (res.usage?.cache_creation_input_tokens || 0);
       claudeUsage.cacheReadTokens += res.usage?.cache_read_input_tokens || 0;
       claudeUsage.outputTokens += res.usage?.output_tokens || 0;
-      if (res.is_error) throw new Error(`claude: ${String(res.result).slice(0, 200)}`);
+      if (res.is_error) {
+        const err = new Error(`claude: ${String(res.result).slice(0, 200)}`);
+        if (/authenticat|401|403/i.test(String(res.result))) err.fatal = true; // 認証の失敗は待っても直らない
+        throw err;
+      }
       const json = extractJson(res.result);
       usedModels.add(CLAUDE_MODEL);
       lastModel = CLAUDE_MODEL;
@@ -121,6 +125,7 @@ async function claudeJson({ system, prompt, schema, retryWaitsMs }) {
       claudeUsage.failures++;
       lastError = e;
       console.warn(`[claude] ${CLAUDE_MODEL}: ${e.message.slice(0, 200)}`);
+      if (e.fatal) break;
     }
   }
   throw lastError;
