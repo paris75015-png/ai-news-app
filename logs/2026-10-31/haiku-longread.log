@@ -19,4 +19,4 @@ OK Al Jazeera：25件
 [claude] 失敗。30秒待って再試行（1/1回目）
 [claude] claude-haiku-5-5: claude: Failed to authenticate. API Error: 401 Invalid bearer token
 [longread] エラー: claude: Failed to authenticate. API Error: 401 Invalid bearer token
-[claude] 合計 {"model":"claude-haiku-5-5","calls":2,"failures":2,"inputTokens":0,"outputTokens":0,"cacheReadTokens":0,"ms":5805}
+[claude] 合計 {"model":"claude-haiku-5-5","calls":2,"failures":2,"inputTokens":0,"outputTokens":0,"cacheReadTokens":0,"ms":7242}
