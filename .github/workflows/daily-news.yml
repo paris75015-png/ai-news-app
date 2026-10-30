@@ -8,6 +8,11 @@ on:
     # 国際深掘り（07:30、予備 11:30 JST）も平日のみ。揃えている
     - cron: '43 7 * * 1-5'
   workflow_dispatch:        # Actions 画面から手動で実行できる
+    inputs:
+      haiku_only:
+        description: '比較用の Haiku 版だけを動かす（紙面は更新しない）'
+        type: boolean
+        default: false
   push:
     branches: [main]        # コードを更新したときは、ニュース処理なしで公開ページだけ作り直す
 
@@ -22,6 +27,7 @@ concurrency:
 
 jobs:
   update:
+    if: ${{ !inputs.haiku_only }}
     runs-on: ubuntu-latest
     timeout-minutes: 60  # 何かで止まっても60分で打ち切る（採点の混雑待ち 最大19分＋要約 最大20分が収まる長さ）
     environment:
@@ -63,3 +69,24 @@ jobs:
           path: dist
       - id: deployment
         uses: actions/deploy-pages@v5
+
+  # 比較試験（2026-11-02〜06）：同じ処理を Gemini の代わりに Claude Haiku で行い、haiku-compare ブランチに記録する。
+  # 紙面（main・公開ページ）には書き込まない。同じきっかけで動くので、Gemini 版とほぼ同時刻に始まる。
+  # 期間を過ぎると何もしない（pipeline/compare/haiku.sh の LAST_DAY）。
+  haiku:
+    if: github.event_name != 'push'
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: AI日報（Haiku 版）
+        run: bash pipeline/compare/haiku.sh ai
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          # Gemini 版でも上位10件の要約は Groq が担当している。Gemini の担当分だけを Haiku に替えるため、Groq はそのまま使う
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}

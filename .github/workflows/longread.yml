@@ -10,6 +10,10 @@ on:
       theme_day:
         description: '試すテーマの曜日（1=政治 2=経済 3=社会 4=紛争・安全保障 5=自由）。空なら当日の曜日'
         default: ''
+      haiku_only:
+        description: '比較用の Haiku 版だけを動かす（紙面は更新しない）'
+        type: boolean
+        default: false
 
 permissions:
   contents: write  # 資料をリポジトリに保存するため
@@ -20,6 +24,7 @@ concurrency:
 
 jobs:
   collect:
+    if: ${{ !inputs.haiku_only }}
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
@@ -41,3 +46,22 @@ jobs:
           git diff --cached --quiet || git commit -m "読み物の資料（試験） $(TZ=Asia/Tokyo date +%F)"
           git pull --rebase
           git push
+
+  # 比較試験（2026-11-02〜06）：同じ処理を Gemini の代わりに Claude Haiku で行い、haiku-compare ブランチに記録する。
+  # 紙面（main・公開ページ）には書き込まない。同じきっかけで動くので、Gemini 版とほぼ同時刻に始まる。
+  # 期間を過ぎると何もしない（pipeline/compare/haiku.sh の LAST_DAY）。
+  haiku:
+    if: github.event_name != 'push'
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: 読み物の資料（Haiku 版）
+        run: bash pipeline/compare/haiku.sh longread
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}

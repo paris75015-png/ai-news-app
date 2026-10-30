@@ -47,6 +47,19 @@ AI日報        AI・IT・科学技術。広く浅く、当日の動きを一覧
 
 資料の質を1週間ほど見てから、国際深掘りの方針（国際深掘り.md）を書き換えるかを決める。
 
+## 比較試験：Gemini 無料枠と Claude Haiku（2026-11-02〜06）
+
+Gemini が担っている処理（世界の注目度の順位づけと短信、読み物の資料のまとめ、AI日報の採点・重複判定・要約）を、
+同じ時刻に Claude Haiku でも行い、どちらの仕事が良いかを1週間比べる。**紙面は Gemini 版のまま変えない。**
+
+- 各ワークフローの `haiku` ジョブが、Gemini 版と同じきっかけで動く。処理は `pipeline/compare/haiku.sh`
+- Haiku は Claude Code の CLI（`claude -p`）で呼ぶ。定額プランの範囲で動き、API の課金はない（`CLAUDE_CODE_OAUTH_TOKEN`）
+- 国際深掘りの Haiku 版は、Haiku 版の資料を Sonnet が読んで書く（`pipeline/compare/intl-sonnet.md`）
+- AI日報の上位10件の要約は、両版とも Groq が担当する（Gemini の担当分だけを替えるため）
+- 記録は `haiku-compare` ブランチ。`state/` に Haiku 版の出力（main と同じ場所の名前）、`logs/{日付}/` に実行記録とトークン数
+- 同じニュースを拾うとは限らない。Haiku 版は自分の台帳・既出記録で、日を追って独立に動く
+- 期間後は何もしない。終わったら `haiku` ジョブと `pipeline/compare/` を消す
+
 ## 変更したとき
 
 編集方針を変えたら、各方針の冒頭にある `editorialVersion` を1つ上げる。
