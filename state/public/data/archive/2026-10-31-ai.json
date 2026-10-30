@@ -1,0 +1,892 @@
+{
+  "date": "2026-10-31",
+  "stream": "ai",
+  "title": "AI日報",
+  "generatedAt": "2026-10-30T22:00:12.627Z",
+  "model": "claude-haiku-5-5 / openai/gpt-oss-120b",
+  "editorialVersion": 12,
+  "categories": [
+    {
+      "id": "ai",
+      "label": "AI",
+      "desc": "AIモデル・AIサービス・AI企業の動向"
+    },
+    {
+      "id": "it",
+      "label": "IT",
+      "desc": "ソフトウェア開発・ネットサービス・セキュリティ・デバイス・通信（AIが主題のものは除く）"
+    },
+    {
+      "id": "science",
+      "label": "科学",
+      "desc": "研究成果・医療・宇宙・環境・エネルギー技術"
+    }
+  ],
+  "articles": [
+    {
+      "id": "d8f136c1d198",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/",
+      "headline": "北朝鮮ハッカー、Binanceから史上最大規模の6.3億ドル相当の暗号資産を盗んだと指摘",
+      "originalTitle": "North Korean hackers blamed for stealing record $6.3B in Binance breach",
+      "outlet": "TechCrunch",
+      "region": "overseas",
+      "category": "it",
+      "score": 92,
+      "tier": "must",
+      "pubDate": "2026-10-30T14:00:25.000Z",
+      "body": null,
+      "summary": "北朝鮮政府に属するハッカーが、暗号資産取引所Binanceに対するサイバー攻撃で、同社のウォレットから少なくとも6.3億ドル相当（約6.3兆円）の暗号資産を盗み出したと報告された。調査によれば、ハッカーは「侵害された」エンジニアのノートパソコンにアクセスし、サービスコンテナ（アプリケーションを実行する仮想環境）を乗っ取って不正な出金指示を送信した。被害額の約半分はブロックチェーン上で凍結され、Binanceは全ての入出金を一時停止し、ユーザー資金は安全だと主張しているが、証拠は提示されていない。\n\nブロックチェーン情報・鑑識会社TRM Labsは、この侵害を北朝鮮系ハッカー集団TraderTraitor（トレーダートレイター）に帰属させ、史上最大規模のハックと評価した。同集団は過去に2025年のBybitから14億ドルの盗難にも関与しており、今回の盗難は約20分で完了したとされる。ブロックチェーンセキュリティ企業Ellipticも同様に北朝鮮ハッカーと結びつけ、盗まれた資金の一部が今年初めにBitgetへの攻撃で使用されたウォレットに流入したことを確認した。\n\n米国政府と同盟国は、北朝鮮が核兵器開発資金を調達する手段として暗号資産の窃盗を続けていると警告している。Binanceは業界パートナーと協力し、約3億ドルを凍結・回収する作業を進めており、法執行機関や発行体、ブロックチェーンインテリジェンス企業と共に残りの資金の追跡・回収に取り組んでいる。",
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/",
+          "date": "2026-10-30",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "openai/gpt-oss-120b"
+    },
+    {
+      "id": "c4dbacf8aa2b",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "science",
+      "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+      "headline": "Google、Project SuncatcherのAI衛星が初の宇宙詩応答を地球へ送信",
+      "originalTitle": "Google's satellite AI server transmits its first response to Earth",
+      "outlet": "The Verge",
+      "region": "overseas",
+      "category": "science",
+      "score": 85,
+      "tier": "must",
+      "pubDate": "2026-10-30T18:21:38.000Z",
+      "body": null,
+      "summary": "Googleは、AIチップ搭載の衛星が初めて地球に応答を送信したと発表した。2026年10月に打ち上げたProject Suncatcher衛星は、オンボードのGemma 4モデルを搭載したTPU（Tensor Processing Unit）を起動し、宇宙に関する俳句を生成した。\n\n生成された俳句は「Blue marble below / Data streams in silent grace / Starlight feeds my core.」で、宇宙をテーマにしたリメリックやテレメトリープロンプトも試された。Googleはブログで、TPUが正常に起動し、プロンプトに従ってテキストを生成できたと報告した。\n\n同衛星は現在軌道上で熱ストレスや放射線環境下でのTPU性能評価を継続中で、2027年には双子衛星の相互接続を目指すと述べている。これにより、将来的に宇宙にAIデータセンターを配置する実証実験の第一段階と位置付けられる。",
+      "sources": [
+        {
+          "outlet": "The Verge",
+          "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+          "date": "2026-10-30",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "openai/gpt-oss-120b"
+    },
+    {
+      "id": "25cc4c9bb2e3",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "headline": "OpenAI、robots.txtでAI学習利用の共通シグナルを尊重へ",
+      "originalTitle": "Making it easier for websites to express AI training preferences",
+      "outlet": "OpenAI",
+      "region": "overseas",
+      "category": "ai",
+      "score": 84,
+      "tier": "must",
+      "pubDate": "2026-10-30T09:30:00.000Z",
+      "body": null,
+      "summary": "OpenAIは本日、ウェブサイトが自らのコンテンツを基礎的生成AIの学習に使用するかどうかを robots.txt（ウェブサイトがクローラのアクセスを指示するテキストファイル）に記載できる共通シグナルを尊重する方針を発表した。このシグナルは、サイト運営者が複数のAIプロバイダーに対して同一の利用意思表示を一括で行えるようにするものだ。\n\n従来は各プロバイダーのクローラごとに個別のルールを設定する必要があり、運用負担が大きかったが、共通シグナルの導入によりその作業が大幅に削減される。OpenAIは数か月以内に実装を開始し、実装詳細は後日改めて公表するとした。\n\n本シグナルは既存の robots.txt によるクローラ制御（特定のクローラへのアクセス許可・拒否を指示できる機能）を置き換えるものではなく、現在提供している制御は引き続き有効である。シグナルはIETF（Internet Engineering Task Force、インターネット標準化を推進する組織）のAI Preferences作業部会の議論を踏まえて策定された。\n\nOpenAIは今後もIETFの標準化議論や業界の動向に合わせて方針を調整し、他のAI事業者にも同シグナルの尊重を呼び掛けている。これにより、情報を公開する側と検索・学習に利用する側の関係がより明確になることを期待している。",
+      "sources": [
+        {
+          "outlet": "OpenAI",
+          "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+          "date": "2026-10-30",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "openai/gpt-oss-120b"
+    },
+    {
+      "id": "cd36ffd6a3a4",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.watch.impress.co.jp/docs/news/2152778.html",
+      "headline": "無印良品、公式アプリで最大2726万件の個人情報が外部流出の可能性",
+      "originalTitle": "無印良品、「MUJIアプリ」で個人情報漏えい 2726万件",
+      "outlet": "Impress Watch",
+      "region": "domestic",
+      "category": "it",
+      "score": 78,
+      "tier": "should",
+      "pubDate": "2026-10-30T10:09:10.000Z",
+      "body": null,
+      "summary": "良品計画は30日、公式アプリ「MUJIアプリ」で利用者情報が外部に流出した可能性を公表した。流出が疑われる件数は最大約2,726万件で、メールアドレス、生年月日、性別が含まれる。氏名や住所、電話番号、クレジットカード情報は含まれない。\n\n同社は不正アクセスを検知し、該当箇所へのアクセス遮断と修正を実施した。現時点でダークウェブ等への情報流出や悪用の被害は確認されていない。アプリおよび無印良品ネットストアは通常通り利用可能である。\n\n情報が漏えいした可能性のある利用者には順次連絡し、なりすましメール等の被害防止を呼びかけている。開発会社・関係会社と協力し、セキュリティ対策と監視体制の強化を継続するとしている。",
+      "sources": [
+        {
+          "outlet": "Impress Watch",
+          "url": "https://www.watch.impress.co.jp/docs/news/2152778.html",
+          "date": "2026-10-30",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "openai/gpt-oss-120b"
+    },
+    {
+      "id": "662ba9639d09",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://status.bunny.net/incidents/p6gf1by9kr7m",
+      "headline": "Bunny CDN、アルメニアのノードで不正アクセス報告、TLS証明書を全再発行",
+      "originalTitle": "Bunny CDN Security Incident",
+      "outlet": "status.bunny.net",
+      "region": "overseas",
+      "category": "it",
+      "score": 70,
+      "tier": "should",
+      "pubDate": "2026-10-30T19:05:22.000Z",
+      "body": null,
+      "summary": "Bunny CDNは、アルメニアに設置された同社のCDNノードが、インフラ提供者のサーバー管理ソフトウェアへの不正アクセスに巻き込まれたことを報告した。警告を受けた同社のエンジニアリングチームは、約20分以内に該当サーバーへのトラフィックを遮断し、ログを保存した上でサーバーを安全に消去し、他システムへのアクセス権を取り消した。対象サーバーはインフラ提供者の管理下にあり、以後インフラから完全に除外された。\n\n調査の結果、CDNノード自体や保存データへの不正アクセスは確認されていないとされたが、完全に排除できない旨が述べられた。万が一アクセスがあった場合に露出し得る情報は、短期間キャッシュされたコンテンツ、Pull Zone（配信設定）およびサーバー上に保存されていたTLS証明書（通信を暗号化する証明書）である。これを受け、Bunnyはb‑cdn.net と bunny.run のプラットフォームドメイン向けTLS証明書を全て失効させ再発行し、カスタムドメイン向けの再発行作業も24時間以内に完了する見込みである。\n\n顧客が管理するTLS証明書については、プライベートキーを新たに生成して再発行することが推奨されている。今回のサーバーには顧客アカウント情報やその他内部システムのデータは保存されておらず、影響は限定的である。Bunnyはインフラ提供者と協調しながら継続的に監視を行い、追加の事実が判明した際にはメールとステータスページで通知する方針である。",
+      "sources": [
+        {
+          "outlet": "status.bunny.net",
+          "url": "https://status.bunny.net/incidents/p6gf1by9kr7m",
+          "date": "2026-10-30",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": "https://news.ycombinator.com/item?id=50308697",
+      "summarizedBy": "openai/gpt-oss-120b"
+    },
+    {
+      "id": "f1f6194d2036",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "headline": "米大手ITがAIインフラ投資7400億ドル計画、投資家は負のフリーキャッシュフローに警戒",
+      "originalTitle": "Cracks are emerging in the AI spending boom",
+      "outlet": "TechCrunch",
+      "region": "overseas",
+      "category": "ai",
+      "score": 67,
+      "tier": "should",
+      "pubDate": "2026-10-30T21:17:40.000Z",
+      "body": null,
+      "summary": "投資家は、Alphabet、Amazon、Meta、Microsoftが今年の資本支出（CAPEX）として7400億ドル超を計画したことに対し、AIインフラへの支出増加で不安を示している。これらの支出はデータセンターや半導体などAI基盤への投資と見なされ、同時にナスダックは2.9％下落し、Nvidiaは4％、Broadcomは5％超、Qualcommは11％下落した。AIブーム初期に大規模投資が成長期待と受け止められたのに対し、第四四半期に入って負のフリーキャッシュフロー（営業活動で得た現金から投資支出を差し引いた額）や債務増大への懸念が顕在化した。",
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+          "date": "2026-10-30",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "openai/gpt-oss-120b"
+    },
+    {
+      "id": "f6163eced81a",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "science",
+      "url": "https://arstechnica.com/space/2026/10/analysts-find-looming-launch-crisis-is-more-severe-than-anticipated/",
+      "headline": "アナリスト、米軍の打ち上げ需要増で打ち上げ危機が予想以上に深刻化と指摘",
+      "originalTitle": "Analysts find looming launch crisis is \"more severe\" than anticipated",
+      "outlet": "Ars Technica",
+      "region": "overseas",
+      "category": "science",
+      "score": 66,
+      "tier": "should",
+      "pubDate": "2026-10-30T16:12:59.000Z",
+      "body": null,
+      "summary": "アナリストのヘンリー氏は、ブルーオリジンの大型ロケットNew Glenn（新型軌道ロケット）の打ち上げペースが予想以上に上昇する可能性を指摘し、打ち上げ危機が当初の見通しより深刻化すると述べた。Quilty氏が保守的に予測した2028年の打ち上げ回数は8回、2029年は12回、2030年は16回である。ヘンリー氏は「間違っていることが証明されれば嬉しい」とコメントした。\n\nブルーオリジンは年間最大150基の上部ステージ（ロケットの上部に搭載される推進段）を製造できる生産体制を構築中であるが、これほど大規模なロケットを高頻度で打ち上げるには時間がかかると指摘された。したがって、実際の打ち上げ回数が予測を上回るかどうかは、製造ラインの拡大速度に左右される。\n\n米国宇宙軍（US Space Force）は、国家安全保障打ち上げプログラムをレーン1とレーン2の二本柱で運用している。レーン1はリスク許容度が高いミッション向けで、これまでに1回でもロケットを成功させた企業が入札可能で、現在はFalconロケット、New Glenn、United Launch Alliance（ULA）のVulcanが対象で、今後1〜2年で中型ロケットも加わる見込みである。レーン2はSpaceXとULA専用とされている。\n\n米国宇宙軍は2025年から2029年にかけて、レーン1の打ち上げ需要を約30回から170回へ、レーン2を54回から79回へと大幅に増やすと予測している。ヘンリー氏はこの需要増加がQuilty氏の計算に含まれていないと指摘し、米政府がSpaceXに対し国家優先度の衛星（例としてSpace-Based Airborne Moving Target Indicator、宇宙基盤航空機動目標指標コンステレーション）を打ち上げさせる可能性が高いと見ている。",
+      "sources": [
+        {
+          "outlet": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/10/analysts-find-looming-launch-crisis-is-more-severe-than-anticipated/",
+          "date": "2026-10-30",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "openai/gpt-oss-120b"
+    },
+    {
+      "id": "c7606af40dbb",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "headline": "OpenAI、コミュニティ安全報告書を2027年初公開し未成年への銃情報提供を制限",
+      "originalTitle": "Community safety report and new protections for teens",
+      "outlet": "OpenAI",
+      "region": "overseas",
+      "category": "ai",
+      "score": 64,
+      "tier": "should",
+      "pubDate": "2026-10-30T09:00:00.000Z",
+      "body": null,
+      "summary": "OpenAIはChatGPTの安全対策強化として、コミュニティ安全報告書の公表と未成年への銃関連情報提供制限を発表した。報告書は2027年初めに2026年下半期分を掲載し、以後半年ごとに更新する予定で、暴力予防や安全対策の効果を示す。\n\n同社は2026年第3四半期に200件以上の法執行機関への通報を行い、暴力計画の阻止に貢献したと述べている。ChatGPTは暴力計画支援を行わないよう訓練されており、過去の大量射撃事件の詳細や使用した武器情報の提供を制限する方針を全ユーザーに適用する。\n\n警告サインが検出された会話では、ChatGPTは情報提供を控え、必要に応じて会話を自動終了し、アカウントを一時停止することがある。また、未成年と推定されたユーザーには年齢予測システム（ユーザーの行動パターン等から18歳未満かどうかを推定する仕組み）で継続的に評価し、銃や防犯システムに関する実用的情報の提供をさらに制限する。\n\n「ChatGPT for Teens」機能（未成年ユーザー向けに年齢に応じた安全措置を組み込んだバージョン）では、保護者が子どものアカウントをリンクし安全設定を管理できるほか、誤って未成年扱いになった場合はプライバシー保護された方法で成人確認が可能であると説明している。",
+      "sources": [
+        {
+          "outlet": "OpenAI",
+          "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+          "date": "2026-10-30",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "openai/gpt-oss-120b"
+    },
+    {
+      "id": "64f7a393ec93",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "science",
+      "url": "https://arstechnica.com/science/2026/10/rare-meteorite-from-mars-gives-us-a-view-into-its-ancient-crust/",
+      "headline": "NASAの劉洋チーム、4.1億年前の火星古代地殻岩『テガザ001』を特定",
+      "originalTitle": "Rare meteorite from Mars gives us a view into its ancient crust",
+      "outlet": "Ars Technica",
+      "region": "overseas",
+      "category": "science",
+      "score": 63,
+      "tier": "should",
+      "pubDate": "2026-10-30T18:13:42.000Z",
+      "body": null,
+      "summary": "NASAジェット推進研究所（JPL）の惑星科学者劉洋（リュウ ヤン）率いる研究チームは、2022年にマリのサハラ砂漠で採取された隕石テガザ001が、少なくとも41億年前に形成された火星の古代地殻岩であることを明らかにした。火星表面のクレーター数からは3億年以上前と推定されるが、これまで地球に落ちた火星隕石はすべて24億年以下で、真に古いものは南極で見つかったアランヒルズ84001と西北アフリカの「ブラック・ビューティ」の2例だけであった。本研究により、3例目の古代火星岩が確認された。\n\nテガザ001は、砂漠で暗色の石を探す民間の隕石ハンターが回収し、合計約800 gの8個の石のうち1個が大学へ送られた。酸素同位体（酸素の同位体は原子核の中性子数が異なる形で、惑星ごとに特徴的な比率を持つ）測定により火星起源が確認され、当初は最も一般的な若いタイプのシェルゴッティテと分類されたが、鉱物内部の変質様式や酸素同位体の異常が指摘され、再評価された。岩石は主に長石（地殻に多く見られるアルカリシリケート鉱物）と暗色の輝石結晶から成り、結晶サイズが最大1 mmに達することから、ゆっくりと冷却したことが示唆され、冷却速度は約0.01 ℃/年と推定された。\n\nチームはジルコン（ウラン・鉛年代測定に用いられる耐熱鉱物）やリン酸塩、ルビジウム‑ストロンチウム年代測定（Rb‑Sr法）など複数の手法で年齢を測定し、すべて約41.1億年と一致した。ジルコンの年齢がリセットされにくいことから、衝撃での加熱は不十分であり、岩石内部に熱水が浸透したことが示唆される。長石のナトリウムリムやジルコン内のナトリウム捕捉は、形成直後に高温の水が通過した証拠であり、最後の水分相互作用は約41億年前であると考えられる。また、テガザ001は酸素‑18が他の火星隕石より約2‰高く、低温表層水と反応した岩石が重い酸素を取り込んだことを示す。これらは、当時の火星に活発な水循環があり、地殻とマグマが同時に水と相互作用していたことを示す。\n\nさらに、トレース元素比（ジルコニウム／チタン比など）が他の火星隕石と異なり、溶融モデルではマントル源に深さ160 km以上で安定するガーネットが含まれることが最適とされた。これは、テガザ001のマグマが深部マントルから上昇し、地表近くで結晶化したことを意味する。研究者は、この結果が早期火星の湿潤環境と、地殻内部に居住可能な環境が存在した可能性を支持すると指摘している。",
+      "sources": [
+        {
+          "outlet": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/10/rare-meteorite-from-mars-gives-us-a-view-into-its-ancient-crust/",
+          "date": "2026-10-30",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "openai/gpt-oss-120b"
+    },
+    {
+      "id": "60ba719a0574",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+      "headline": "Anthropic、IPO後に格付け機関から高いジャンク格付けが予想",
+      "originalTitle": "Anthropic expected to receive high ‘junk' rating from credit agencies following IPO, report says",
+      "outlet": "TechCrunch",
+      "region": "overseas",
+      "category": "ai",
+      "score": 62,
+      "tier": "should",
+      "pubDate": "2026-10-30T21:52:03.000Z",
+      "body": null,
+      "summary": "Anthropicは10月30日にIPOを申請し、同日付けで金融タイムズの報道によれば、格付け機関から高いジャンク格付け（ダブルBレンジ）を受ける見込みであるとされる。投資会社ブラックストーンは、同社のチップ資金調達のための630億ドル規模の取引のアンカー投資家であり、投資家に対しこの予測を示した。\n\nブラックストーンは以前、2027年までに投資適格格付け（低リスク）を得ると述べていたが、今回の見通しではジャンク格付けの最上位であるダブルBとする。ジャンク格付けは信用リスクが高く、資金調達コストが上昇することを意味する。格付け機関は信用リスクを評価し、ダブルBは投機的なジャンクの上位に位置付けられる。\n\nAnthropicは過去12か月で大規模な計算資源契約を結び、支出が急増しているため投資家の懸念が高まっている。高いジャンク格付けが付くと、追加資金の調達が困難かつ高コストになる可能性がある。Anthropicとブラックストーンはいずれもコメントを拒否した。このIPOはAI業界全体に与える影響についても広く議論を呼んでいる。",
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+          "date": "2026-10-30",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "openai/gpt-oss-120b"
+    },
+    {
+      "id": "d756b882783b",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive",
+      "headline": "Akaiの新機種MPC Sample Key 独占画像で機能が判明",
+      "originalTitle": "Exclusive details about Akai’s MPC Sample Key",
+      "outlet": "The Verge",
+      "region": "overseas",
+      "category": "it",
+      "score": 62,
+      "tier": "interest",
+      "pubDate": "2026-10-30T21:01:32.000Z",
+      "body": null,
+      "summary": "Akaiは新製品「MPC Sample Key」をInstagramで予告し、ソフトウェアをオープンソース化してモッディング（改造）コミュニティが手を加えられるようにする方針を示した。MPCはAkaiのサンプラー製品シリーズである。発売時期と価格はまだ明らかになっていない。The Vergeは、この機材の独占画像を入手して機能の一部を伝えている。\n\n画像によると、MPC Sampleと同様に3つの文脈依存エンコーダーと大型のメインエンコーダーを備える。一方で、MPC Sampleにあったドラムを刻んで扱うチョップ（サンプルを細かく切り分けて演奏する操作）のボタンは省かれている。代わりにピッチホイールとモッドホイールを備え、25鍵の鍵盤のオクターブ切り替えボタンや「chord」「arp」ボタンがある。記事は、それぞれコード再生モードとアルペジエーター（和音を分散させて順番に鳴らす機能）と推測しており、音程のあるサンプル再生向けの設計だとみている。\n\nこのほか専用のルーパーがあり、ライブ演奏や音の重ね録りに使えるとしている。MPC Sampleのエフェクト「Flex Beat」の代わりに「Swarm」と呼ばれる機能があるが、詳細はまだ不明である。初代Sampleシリーズと同様に内蔵のマイクとスピーカーを備える。前面の設定項目から、MIDIに加えてモジュラーシンセと接続するためのCV出力も備えるとみている。背面パネルはまだ確認されていない。",
+      "sources": [
+        {
+          "outlet": "The Verge",
+          "url": "https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive",
+          "date": "2026-10-30",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "2d3cca2e3720",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.watch.impress.co.jp/docs/news/2152808.html",
+      "headline": "東京メトロ、2028年度から順次QR乗車券を導入 磁気券は29年度末終了",
+      "originalTitle": "東京メトロ「QR乗車券」導入へ 磁気乗車券は29年度末終了",
+      "outlet": "Impress Watch",
+      "region": "domestic",
+      "category": "it",
+      "score": 60,
+      "tier": "interest",
+      "pubDate": "2026-10-30T13:21:48.000Z",
+      "body": null,
+      "summary": "東京メトロは30日、2028年度中に順次、QRコードを使った紙のきっぷ（QR乗車券）を導入すると発表した。QR乗車券は券売機などで購入でき、現在の磁気乗車券は2029年度末をめどに発売を終了する。\n\n東京メトロは交通系ICカードを主軸にしつつ、クレジットカードなどのタッチ決済による後払い乗車の導入など、次世代の乗車システムの促進に取り組んでいる。一方、磁気乗車券は改札機で券詰まりが起きることがあり、リサイクル時に一定の環境負荷がかかるといった課題があるとしている。\n\nQR乗車券は、現在の自動券売機での購入や自動改札機での利用方法を大きく変えず、自動改札機のQRリーダーにかざす方式とする。対象券種は普通乗車券と回数乗車券（障がい者用割引回数乗車券、通学用割引回数乗車券）である。定期券は交通系ICカード、企画乗車券は交通系ICカードやデジタルQR乗車券で引き続き利用できる。利用方法や磁気券の終了スケジュールの詳細は、改めて告知するとしている。\n\n磁気乗車券は他の鉄道事業者でも置き換えが進んでおり、駅の自動改札機や自動券売機、磁気乗車券用の機構の複雑さなどから、中長期的な維持は難しいとされている。JR東日本や京成、京急などの東日本の鉄道7社も磁気乗車券の廃止を決め、2027年春からQR乗車券サービスを開始するとしている。",
+      "sources": [
+        {
+          "outlet": "Impress Watch",
+          "url": "https://www.watch.impress.co.jp/docs/news/2152808.html",
+          "date": "2026-10-30",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "b10570d1171f",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+      "headline": "富士フイルム、生成AI普及で磁気テープ生産能力を5倍に 100億円投資",
+      "originalTitle": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "outlet": "Ars Technica",
+      "region": "overseas",
+      "category": "it",
+      "score": 58,
+      "tier": "interest",
+      "pubDate": "2026-10-30T17:38:19.000Z",
+      "body": null,
+      "summary": "富士フイルムは木曜日、約100億円（約6300万ドル）を投じ、磁気テープの生産能力を2025年度の水準と比べて5倍に引き上げると発表した。同社は、生成AIの普及によって世界的にデータ需要が「指数関数的な増加」を生んでおり、アーカイブ需要が高まっていると説明している。\n\n投資先は神奈川工場小田原拠点で、同社がLTO専用施設に行う投資としては過去最大となる。2026年度から2028年度にかけて、製造の拡大と人員の増強を進める計画である。主に最新世代の「FUJIFILM LTO Ultrium10」テープを生産する。\n\nLTO（磁気テープ記録の規格の一つ）は、富士フイルムが1950年代から手がけてきた磁気テープ事業の中核である。2000年に最初のLTO Ultriumテープを発売し、2011年には酸化バリウムフェライトの磁性粒子を用いたテープを商業生産で初めて実現した。2025年にはLTO Ultrium10で、バリウムフェライトとストロンチウムフェライトを組み合わせた「微細ハイブリッド磁性粒子」を磁気テープとして初めて採用したとしている。\n\nクラウド事業者やデータセンターは、大量のデータを比較的低コストで保存できるため、磁気テープの利用を広げているという。テープはドライブから取り外して引き出しや金庫、別の施設に保管でき、ネットワークから切り離せる。同社は、この点がランサムウェアなどの脅威からデータを守る最後の防御手段として注目されていると説明している。",
+      "sources": [
+        {
+          "outlet": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+          "date": "2026-10-30",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "e6a83342c0c5",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+      "headline": "オルトマンCEO、PCのメモリよりデータセンターの利用が望ましいと主張",
+      "originalTitle": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+      "outlet": "The Verge",
+      "region": "overseas",
+      "category": "ai",
+      "score": 57,
+      "tier": "interest",
+      "pubDate": "2026-10-30T20:48:43.000Z",
+      "body": null,
+      "summary": "OpenAIのサム・オルトマンCEOは、ポッドキャスト「Cheeky Pint」への出演で、個人のPCにDRAM（データを一時的に記憶する半導体メモリ）を搭載することを「ひどい（terrible）」と述べた。現在、メモリは世界的な供給不足が続いている。\n\nオルトマン氏は、世界の限られたDRAMを個人のPCに分散させると、利用率が5%程度にとどまるとして、全体の配分の観点から非効率だと主張した。供給が制約された環境では、クラウドのデータセンターで稼働率を最大化すべきだとし、手元の機器でAIモデルを動かす「ローカル推論（local inference）」を望む人の直感は逆だと指摘した。\n\n記事は、サムスン電子とSKハイニックスがクラウド事業者と長期契約を結んでおり、OpenAIのAIインフラ計画「Stargate」などが今後数年の世界のメモリ生産量の多くを押さえていると伝えている。そのうえで、こうした大規模な半導体の購入が、ノートPCやスマートフォンなど消費者向け機器の値上がりの一因になっているとしている。",
+      "sources": [
+        {
+          "outlet": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+          "date": "2026-10-30",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "b18ed8fdf2c4",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "science",
+      "url": "https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921",
+      "headline": "融解する氷から約5000年前の矢が相次ぎ出土、ノルウェー山岳地帯",
+      "originalTitle": "The oldest ice disappears and the Stone Age emerges from it",
+      "outlet": "sciencenorway.no",
+      "region": "overseas",
+      "category": "science",
+      "score": 56,
+      "tier": "interest",
+      "pubDate": "2026-10-30T19:51:33.000Z",
+      "body": null,
+      "summary": "ノルウェー東部インランネ県の山岳地帯で、氷の中から遺物を回収する「Secrets of the Ice」のチームは、融けつつある氷から石器時代や青銅器時代の矢が見つかっていると発表した。プロジェクトは開始から20年となり、これまでの出土品の多くは最大2000年前のものだったが、今回は氷の最も古い層から矢じりや矢柄が出てきている。\n\n今年の現地調査では48本の先史時代の矢が見つかり、これまでの発見と合わせると、一つの氷塊から回収された矢じりと矢柄は100を超えた。最古の矢じりは粘板岩（スレート）、淡水産の二枚貝の殻、骨で作られており、約5000〜6000年前のものと推定されている。鉄製の矢じりは1000〜1500年前とされる。氷の中では木材や革、織物などの有機物も残っていた。\n\nチームを率いるエスペン・フィンスタッド氏は、遺物の発見は楽しみである一方、気候変動の現実と隣り合わせだと語った。ネパールでの地すべりや、ヨートゥンヘイメン山岳地帯での氷河崩落に触れ、今年は感情的に強く影響を受けたと述べた。研究者らは、遺物を含む氷塊の多くが今後20年ほどで消失すると見積もっている。\n\n発見地点はヨートゥンヘイメン地域のKvittingskjølen山域にあるLangfonne、Storefonne、Hanklefonneで、一部の出土品は発見直後にLomのノルウェー山岳センターで展示されている。",
+      "sources": [
+        {
+          "outlet": "sciencenorway.no",
+          "url": "https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921",
+          "date": "2026-10-30",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": "https://news.ycombinator.com/item?id=50309266",
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "0378412cbb57",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.bloomberglinea.com.br/negocios/atech-da-embraer-quer-dobrar-de-tamanho-ate-2030-com-controle-de-trafego-de-drones/",
+      "headline": "エンブラエル傘下のAtech、2030年までに事業規模の倍増を目指す",
+      "originalTitle": "Embraer's Atech aims to double in size by 2030 with drone traffic control",
+      "outlet": "bloomberglinea.com.br",
+      "region": "overseas",
+      "category": "it",
+      "score": 52,
+      "tier": "interest",
+      "pubDate": "2026-10-30T20:18:18.000Z",
+      "body": null,
+      "summary": "Bloomberg Líneaの報道によると、エンブラエル傘下の技術企業Atechは、2030年までに事業規模を倍増させる構想を示した。ロドリゴ・ペルシコCEOは、ブラジル国外への事業拡大によってこれを実現するとしている。ドローンや防犯カメラなど機微なデータを扱う技術の普及により、海外顧客からの需要が増えていると述べた。\n\nAtechは、ドローンが安全に共存するための無人航空機の交通管理（UTM）を含む、航空交通管理（ATM）の新しいデジタル基盤を開発している。南アフリカへの最近の納入では、この仕組みが海外で導入されている。ペルシコ氏は、インド、パラグアイ、南アフリカなどへ技術を輸出していると述べた。\n\n同社は1980年代に設立され、17年前にエンブラエルが買収した。防衛、政府、公共安全、航空交通などの「ミッションクリティカル」システム、つまり停止が許されない重要業務向けシステムの開発や統合を手がけている。北大西洋条約機構（NATO）のサイバー攻撃演習に参加したブラジル企業は同社だけだとしている。\n\n成長戦略は、アジア、アフリカ、ラテンアメリカでの機会を探るものだが、海外事業が売上に占める割合は、今後の新規契約次第だとペルシコ氏は述べた。ドローンが配送の「ラストワンマイル」を担う可能性にも触れ、その場合は空の交通を管理する必要が生じると語った。記事は、ドローン管理が同社が賭けている事業であることを補足している。",
+      "sources": [
+        {
+          "outlet": "bloomberglinea.com.br",
+          "url": "https://www.bloomberglinea.com.br/negocios/atech-da-embraer-quer-dobrar-de-tamanho-ate-2030-com-controle-de-trafego-de-drones/",
+          "date": "2026-10-30",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": "https://news.ycombinator.com/item?id=50309573",
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "741a865a00c3",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
+      "headline": "失敗したスタートアップのデータがAI企業に売られる動き",
+      "originalTitle": "The Download: dead startups fueling AI and interspecies communication",
+      "outlet": "MIT Technology Review",
+      "region": "overseas",
+      "category": "ai",
+      "score": 51,
+      "tier": "interest",
+      "pubDate": "2026-10-28T12:10:00.000Z",
+      "body": null,
+      "summary": "事業を畳んだスタートアップのデータを買い取り、AIモデルの学習に使う市場が広がっている。暗号資産関連のスタートアップを閉じようとしていた経営者は、同社のコードベース（ソフトウェアのソースコード一式）や作業スペースのデータを売却し、数万ドルの収入を得た。こうしたデータを扱う企業は、AIラボ（AI開発企業の研究部門）が公開データや合成データ（AIが生成した人工のデータ）の限界に直面したことで需要が増えている。買い手は、AIエージェント（利用者に代わって作業を行うAIソフトウェア）の訓練に実世界の記録を求めている。\n\nただし、こうしたデータの売買は法的・倫理的な問題を生むとされている。同ニュースレターでは、ほかの話題も伝えている。米連邦選挙委員会（FEC）の提出書類システムがハッキングを受け、中間選挙の1週間前にオフラインになった。ウクライナでのStarlink（衛星インターネットサービス）の利用制限を受け、欧州各国の当局者の間で米国の技術への依存を見直す動きが出ているという。また、世界の温室効果ガス濃度が過去最高を更新し続けていると報じている。\n\n中国の科学者が、火星の大気中の二酸化炭素を液体のメタノールに変換する触媒を開発したと伝えている。テック業界の富豪が、カリフォルニア州の富裕税に反対する大規模なキャンペーンに資金を出しているとも報じている。さらに、デラウェア州がAIエージェントに企業を丸ごと運営させる計画を進めており、所有者が損害に対する責任を逃れる恐れがあると指摘されている。特集記事では、アップルが2020年にネットゼロ（温室効果ガスの実質排出ゼロ）の目標を掲げ、その達成のためブラジルで数百万本のユーカリを植えて排出量を相殺している点を取り上げた。同社の戦略は、産業的な植林が環境に害を与えるとの批判を受けている。",
+      "sources": [
+        {
+          "outlet": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
+          "date": "2026-10-28",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "75e2017ed4c5",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "headline": "OpenAIとServiceNow、企業の業務領域で提携を拡大",
+      "originalTitle": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "outlet": "OpenAI",
+      "region": "overseas",
+      "category": "ai",
+      "score": 50,
+      "tier": "interest",
+      "pubDate": "2026-10-28T13:15:00.000Z",
+      "body": null,
+      "summary": "OpenAIとServiceNowは、提携を拡大すると発表した。OpenAIのモデルやエージェントをServiceNowの製品に組み込み、ServiceNowの業務ワークフローをChatGPTやCodex（OpenAIのコーディング支援AI）と接続する。ServiceNowは企業のIT業務やワークフローを支えるプラットフォームを提供する企業である。両社は、企業がAIを使ってアプリケーションの開発、IT要求の処理、セキュリティ課題への対応を進めやすくするとしている。今回の拡大は、1月に発表された提携を基にしている。\n\nChatGPTからServiceNowの業務情報を参照し、操作を実行できる新たな連携が提供される。利用者は自社のServiceNow環境を接続し、利用させる機能を選べる。例えばITチームの担当者は、ChatGPTの画面内で類似のインシデントを検索し、変更のリスクを評価し、ServiceNowの記録を更新できる。操作の範囲は、ServiceNowのAction Fabricが既存の業務ルールと権限を適用するため、各組織の設定とアクセス権限に従う。ServiceNowは、当直のエンジニアがChatGPT内で監視アラートや最近の変更、影響を受けたサービスを確認し、担当チームを割り当てて修正に取りかかる対話型の体験もプレビューしている。\n\n両社は3分野で新機能の開発を計画している。アプリケーション開発では、ServiceNowのAI Workflow FactoryにCodexを統合し、開発者がServiceNowの業務文脈やプラットフォーム機能を使ってアプリを作れるようにする。OpenAIのモデルは、アプリケーションの開発と近代化を支援するBuild AgentとAutonomous Engineerにも使われる。セキュリティでは、OpenAIのサイバーセキュリティ機能とServiceNowの資産、ID、業務の情報を組み合わせた共同ソリューションを作り、脆弱性の調査、リスクの優先順位付け、修正作業の調整を支援する。音声では、Super Intelligence Control Tower内で利用案件を声で説明すると、評価項目への入力や不足情報の確認を質問で補う機能を予定している。\n\nServiceNowは、エンジニア部門に限らず全従業員にChatGPT WorkとCodexを提供する計画である。エンジニアはCodexでコードの調査、変更、テスト実行を行い、ほかの部門はChatGPT Workを日常業務で使う。提供時期は、ServiceNow MCPプラグイン（AIと外部ツールを接続する共通規格MCP向けの連携機能）がOpenAIのマーケットプレイスで利用可能になり、機能強化は2026年末までの予定とされている。音声機能は2027年第1四半期、OpenAIを用いたセキュリティ機能は2027年1月に早期アクセスを開始し、同年第2四半期に一般提供する予定である。AI Workflow FactoryのCodex連携は2027年に提供される見込みとされている。",
+      "sources": [
+        {
+          "outlet": "OpenAI",
+          "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+          "date": "2026-10-28",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "a222d0a212be",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "science",
+      "url": "https://arstechnica.com/health/2026/10/over-25-of-people-lie-to-get-antibiotics-and-their-lies-arent-even-good/",
+      "headline": "抗菌薬を得るため嘘をつく人は25%超との研究結果",
+      "originalTitle": "Over 25% of people lie to get antibiotics—and their lies aren't even good",
+      "outlet": "Ars Technica",
+      "region": "overseas",
+      "category": "science",
+      "score": 50,
+      "tier": "interest",
+      "pubDate": "2026-10-30T20:17:50.000Z",
+      "body": null,
+      "summary": "抗菌薬を得るために嘘をつく人が25%を超えるという研究結果が報告された。抗菌薬の誤用や過剰使用は薬剤耐性（薬が効きにくい菌の出現）を促すことが知られており、こうした嘘によって不要な抗菌薬が処方される恐れが懸念されている。米国疾病対策センター（CDC）が公表した最新の報告書は、薬剤耐性の細菌や真菌が米国で年間970万件の感染症と5万800人の死亡を引き起こしていると示している。\n\n付随する論評を書いたLinder氏は、薬剤耐性よりも深刻な影響として、医師と患者の間の「信頼の侵食」を挙げている。Linder氏は、個々の患者にとっては薬剤耐性がほとんどの場合「おそらく無関係」だとし、医師が問うべきは「この処方は患者を助けるか、害するか」だと述べる。不要な抗菌薬は利益がなく、副作用やアレルギー反応、腸内細菌叢の乱れによるリスクを生むとしている。その乱れは日和見病原体の足がかりになり、CDCが「深刻な脅威」に分類したClostridioides difficile（ディフィシル菌）もその一例として挙げられている。\n\nLinder氏は、抗菌薬の適応がない診断に処方することは医学的に誤りであり、患者を安心させるための嘘の一種とも見なせると書いている。哲学者シセラ・ボクが1978年に、抗菌薬が「ときにプラセボとして使われている」と指摘したことも引用している。ボクは、害になる薬を処方するといった不誠実な医療行為は医療制度全体を脅かすと主張したという。一方、Thorpe氏らの研究グループは、患者が嘘をつく理由そのものに対処する必要があるとし、抗菌薬に関するコミュニケーションを改善する戦略を求めている。",
+      "sources": [
+        {
+          "outlet": "Ars Technica",
+          "url": "https://arstechnica.com/health/2026/10/over-25-of-people-lie-to-get-antibiotics-and-their-lies-arent-even-good/",
+          "date": "2026-10-30",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "0de3f9697e49",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
+      "headline": "スターバックス、ドライブスルーで個別化デジタルメニューの導入を検討",
+      "originalTitle": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
+      "outlet": "The Verge",
+      "region": "overseas",
+      "category": "ai",
+      "score": 46,
+      "tier": "interest",
+      "pubDate": "2026-10-30T17:38:04.000Z",
+      "body": null,
+      "summary": "スターバックスのブライアン・ニコルCEOは、木曜日の決算説明会で、ドライブスルーに到着した顧客のうち制度に参加している人を認識し、個別化されたデジタルメニューを表示し、決済をより簡単にする体験を検討すると述べた。この発言は More Perfect Union が先に伝えていた。タコベルも、車両ごとにデジタルメニューボードの構成や内容、映像を変える技術を試験しているという。\n\nマクドナルドは一部のドライブスルーでAI機能を試験しており、チャットボット「ArchIQ」が常連客を識別し、いつもの注文を受けられるようにしている。スターバックスは2027年から、ドライブスルーの裏側でAIモデルを動かす試験を始め、バリスタが注文をより正確かつ効率的に入力できるよう支援する計画である。さらに、アプリの検索・発見機能にもAIを組み込み、将来は対話型や、利用者に代わって注文を進めるAI（エージェント型）による注文に対応する可能性があるという。\n\nスターバックスは、ChatGPT（OpenAIの対話型AI）経由での注文をすでに受け付けており、従業員向けには、レシピや接客基準などを質問できるAI機能「Green Dot Assist」を導入している。個別化デジタルメニューがいつ導入されるかは明らかになっていない。ニコル氏は取り組みはまだ「初期段階」だとし、「試験し、学び、効果のあるものを拡大する」と述べた。",
+      "sources": [
+        {
+          "outlet": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
+          "date": "2026-10-30",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "65d255a74525",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
+      "headline": "ダートマス大学のシュネル教学担当副学長、AI利用をめぐり辞任",
+      "originalTitle": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
+      "outlet": "Ars Technica",
+      "region": "overseas",
+      "category": "ai",
+      "score": 45,
+      "tier": "spare",
+      "pubDate": "2026-10-30T20:40:13.000Z",
+      "body": null,
+      "summary": "ダートマス大学の教学担当副学長（プロボスト）であるシュネル氏が辞任した。記事の見出しによれば、同氏は自身のAI利用が原因で職を失った。ベイロック学長は、同大学でAIをもっと活用すべきだとの考えを持っており、9月に The Atlantic 誌へ寄稿している。\n\nベイロック学長は辞任の発表で、指導者は透明性と人間の判断を示すべきだと書いた。記事は、指導者に求められる「最も高い基準で自らを律する」ことの中心は情報開示だとみている。一方、シュネル氏は2026年9月の論文「Who Wrote This?」で、AI検出ツールを扱いながら、文章を「人間が書いた」か「AIが書いた」かという二分法は単純すぎると論じている。同氏は、今後の文章は人間の判断とAIの作業が混ざったものになり、それ自体は問題ないとし、著者は作成・編集の方法にかかわらず文章に全責任を負うべきだと主張している。\n\n論文でシュネル氏は執筆の過程を詳しく記している。OpenAIのGPT-5.6 Proに、エッセイがAIによるものだと確実に識別できるかという問題を統計的意思決定理論と結びつけることを提案させ、構成案や文献候補、初期草稿の一部を作らせた。一方で、問題や掲載先、議論の方向性、中心となる事例の選択は自ら行い、引用文献を確認して不正確な主張を退けたり修正したりしたと述べている。大部分の節は書き直し、言語面ではGPT-5.6 Solの支援を一部使い、GPT-5.6 ProとAnthropicのClaude Fable 5.1に批判的な査読を依頼したとしている。\n\n同氏は、AIを「共著者」と呼ぶことには反対し、「貢献と著者性は異なる役割である」と主張している。数学ツールも長く実質的な貢献をしてきたが著者とはされてこなかったと例えている。",
+      "sources": [
+        {
+          "outlet": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
+          "date": "2026-10-30",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "538ea1326a6a",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+      "headline": "DoorDash、AI注文機能「Ask DoorDash」の効果を公表",
+      "originalTitle": "Basically no one is using AI agents for their DoorDash orders",
+      "outlet": "Ars Technica",
+      "region": "overseas",
+      "category": "ai",
+      "score": 45,
+      "tier": "spare",
+      "pubDate": "2026-10-30T19:30:52.000Z",
+      "body": null,
+      "summary": "DoorDashは今夏に導入したAI機能「Ask DoorDash」について、先月、注文の効率と内容に関する数値を公表した。同社によると、この機能で組まれたカートは、そうでないものより5倍速く作成され、注文の平均額は同じ利用者の通常注文より約50%高く、ユニークな商品数は約60%多いという。\n\nAsk DoorDashは、料理の写真から買い物カートを作ったり、「4人家族の夕食」のような曖昧な説明から注文を提案したりできる。注文の約半数近くは、利用者がこれまで行ったことのない地元の店舗だったとも同社は説明している。ただし、利用実態の詳細な統計は公表されていない。\n\n記事の見出しは、AIエージェント（利用者に代わって注文などを行うAI）を使ったDoorDashの注文はほとんど行われていないとしている。記事は、DoorDashの現状が Pizza Hut の1994年の初期のオンライン注文の試みに似ているかもしれないと述べ、今では同社の注文の半数以上がオンラインで行われていると指摘する。Xu氏はAIエージェントについて、「技術についての私の考えは、重力に逆らってはいけないということだ。ただ同時に、現実離れしてもいけない」と語り、初期の数値には比較的慎重な見方をしているという。",
+      "sources": [
+        {
+          "outlet": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+          "date": "2026-10-30",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "d52c9778a55e",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+      "headline": "Zest、テキストで店を提案し予約まで行うAIエージェントを公開",
+      "originalTitle": "Zest's new AI agent finds restaurants and books reservations over text",
+      "outlet": "TechCrunch",
+      "region": "overseas",
+      "category": "ai",
+      "score": 42,
+      "tier": "spare",
+      "pubDate": "2026-10-30T17:47:12.000Z",
+      "body": null,
+      "summary": "Zest（レストラン探しアプリ）は、テキストメッセージの中で動く個人向けAIエージェント「レストランコンシェルジュ」を発表した。AIエージェントとは、利用者に代わって提案や作業を行うAIのことである。同種の製品にはInstinctやPokeなどがあり、本文はこうした流れを背景として挙げている。Zestは今年始めに公開されたアプリで、今回の機能は木曜日に発表された。\n\n利用者は同社の番号にテキストを送るだけで、好みに合った店の提案を受けられる。Zestは利用者のクレジットカードと連携し、外食の履歴から好みや関心を把握する仕組みを持つ。カードの取引データは、銀行や家計管理アプリなどに金融情報を接続するPlaid（プレイド）という金融サービス会社を経由して取り込まれ、同社は飲食関連の取引のみを使うと説明している。\n\n予約はOpenTable、Resy、SevenRooms などの連携サービスを通じて行われ、グループチャットに加えると参加者の好みを合わせた候補を示し、スレッド内の投票で決めた店をそのまま予約できるという。TechCrunchが試したところ、時間帯・人数・場所などの条件に合った新しい店の提案は概ね適切に機能した。空席の確認自体は他のアプリが長年提供してきた機能だが、テキストのやり取りで選択肢を比べながら予約時間を確認できる点に利便性があると記事は述べている。\n\nZestは先月からコンシェルジュのテストを始めたが、予約機能を加えるまで公開を見送った。今後はレストラン以外の店やショッピングなどへの拡大も検討しており、テキストへの移行によって初期の数千人の利用者を超えて広がり、収益を生むことを狙っている。CEOのマリオ・ゴメス＝ホール氏は、予約と注文が最初の収益源になると述べ、利用者の好みを一般的なアシスタントより速く学習できると主張している。",
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+          "date": "2026-10-30",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "8cb2db80dc5c",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+      "headline": "内部告発者タイラー・シュルツ氏、AIブームは人を欺く好機になると警告",
+      "originalTitle": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people'",
+      "outlet": "TechCrunch",
+      "region": "overseas",
+      "category": "ai",
+      "score": 40,
+      "tier": "spare",
+      "pubDate": "2026-10-30T16:03:45.000Z",
+      "body": null,
+      "summary": "ドキュメンタリー映画『You Can See Everything』は、セラノス（Theranos）の創業者エリザベス・ホームズが収監前の最後の数週間を記録した作品である。ネイサン・フィールダー氏とランス・オッペンハイム氏が監督を務め、歴代でも特に興行収入の高いドキュメンタリーの一つになったという。映画はホームズを巧みな操り手としても被害者としても描かず、罪を知られていても人々に同情させる力を描いている。\n\n本記事は、映画を見なくてもホームズへの考えは決まっていると語るタイラー・シュルツ氏を取り上げている。同氏はセラノスに最初に就職した人物で、不正確な血液検査機器を告発し、その機器がウォルグリーンの店舗に置かれて患者に誤った結果を示していたと指摘した。セラノスの評価額は一時約100億ドルに達したが、技術は機能しておらず、自社機器は一部の検査にしか使われていなかったと記事は述べている。\n\nシュルツ氏はSF Standardの取材に対し、AIブームは人を欺く絶好の機会になりうると警告した。同氏は、30分のコーヒーの席で10万ドルを送るようなやり方は終わるべきだとし、ホームズがそのモデルを1億ドル規模に広げたと述べた。また、AI製品が本当に新しいものか、既存のAIサービスを薄く包んだだけのChatGPTラッパー（既存のAIを包んで少し手を加えただけの製品）かを見分けるのは難しく、投資前の精査（デューデリジェンス）が困難だと指摘している。\n\n記事はさらに、ホームズがパートナーのビリー・エヴァンズ氏とともに、「Theranos 2.0」と呼ばれる診断会社ヘマンサス（Haemanthus）に取り組む様子が映画に描かれていると伝えている。同社は約2000万ドルを調達したと報じられている。記事は、この映画がホームズを好ましく見せてはいないものの、患者への誤った医療情報の提供や、告発したシュルツ氏への嫌がらせといった重大な罪を十分に扱っていないと論じている。シュルツ氏は、ホームズが新たな段階を準備しているが行方は分からないと語り、不安を口にしている。",
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+          "date": "2026-10-30",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "314a899c02a7",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.theverge.com/podcast/1023194/the-delightfully-messy-state-of-apple-gadgets",
+      "headline": "MacBook Proのタッチ対応など、アップル製品の実験をポッドキャストで議論",
+      "originalTitle": "The delightfully messy state of Apple gadgets",
+      "outlet": "The Verge",
+      "region": "overseas",
+      "category": "it",
+      "score": 39,
+      "tier": "spare",
+      "pubDate": "2026-10-30T17:25:20.000Z",
+      "body": null,
+      "summary": "The Vergeのポッドキャスト『The Vergecast』のこの回は、アップルが近年ガジェットの実験を積極的に行っている状況を取り上げている。iPhoneの画面が増えた点、タッチスクリーン搭載の新しいMacBook Pro、HomeViewがCarPlayのアプリに対応する点などが挙げられている。司会者の一人であるデイビッド・ピアース氏は、タッチパネル付きノートPCの是非を議論し、これはiPadでもよかったのではないかと問いかけた。\n\n番組では、もう一人の司会者が新しいMacBook Proを必ず購入すると強く述べたことも紹介されている。さらに、インスタグラムが長尺のコンテンツに進出したことや、アダム・モッセリ氏がAIコンテンツとの複雑な関係を抱えていることも話題になった。ホストたちは、インスタグラムは非常に強力である一方で深刻な脅威にさらされているという見方を示している。加えて、Anthropicの株式公開（IPO）に関するニュースや、Anduril のノートPC、『Brendan Carr is a Dummy』と題した話題が取り上げられている。",
+      "sources": [
+        {
+          "outlet": "The Verge",
+          "url": "https://www.theverge.com/podcast/1023194/the-delightfully-messy-state-of-apple-gadgets",
+          "date": "2026-10-30",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "6896578ea582",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.theverge.com/transportation/1023143/rivian-autonomy-point-to-point-robotaxi-q3-2026",
+      "headline": "リビアン、自動運転の成否を分ける2年 顧客向け提供は2027年",
+      "originalTitle": "Rivian’s autonomy gamble faces its first real test",
+      "outlet": "The Verge",
+      "region": "overseas",
+      "category": "it",
+      "score": 37,
+      "tier": "spare",
+      "pubDate": "2026-10-30T17:16:09.000Z",
+      "body": null,
+      "summary": "米リビアンのRJ・スキャリンジCEOは直近の決算説明会で、主力SUV「R2」の量産立ち上げよりも自動運転の構想に多くの時間を割いた。同社は、ソフトウェアからチップやセンサーまで自社で手がける「フルスタック」の自動運転企業を目指している。\n\n同社は2026年後半に、地点から地点へ移動するハンズフリー運転機能を提供する計画である。まず2026年に社員による検証を行い、2027年に顧客向けに展開する。2028年にはUberと組んだロボタクシー車両の投入を予定しており、記事は今後2年間で成否が決まるとしている。一方、テスラは運転支援機能「FSD（Full Self-Driving）（監視付き）」を170万台超の顧客車両で稼働させ、先行している。リビアンは自社チップの設計や高価なセンサー、AI計算基盤への投資を同時に進める必要があり、R2の量産もなお途上である。\n\nスキャリンジCEOは、毎日の通勤で新機能を使っており「素晴らしい」と述べ、需要を押し上げる要因になるとの見方を示した。自動運転パッケージ「Autonomy Plus」の搭載率（購入またはサブスクリプションする顧客の割合）は明らかにしなかったが、「予想を上回っている」と述べた。ソフトウェア・サービス事業の売上高は第3四半期に6億500万ドルで前年同期比45%増、利益は2億5600万ドルで1億200万ドル増、利益率は42%だった。テスラは2026年第3四半期に、北米の新規購入者の75%超がFSDを選んだと発表している。\n\n記事は、コンピュータチップやメモリの価格上昇に加え、一部のR2モデルに2つのプロセッサーと高価なライダー（レーザーで周囲を測るセンサー）を搭載する計画が利益を圧迫する可能性を指摘する。さらに、都市部の複雑な走行や事故による企業イメージの低下、法的な問題が生じるリスクも残るとしている。",
+      "sources": [
+        {
+          "outlet": "The Verge",
+          "url": "https://www.theverge.com/transportation/1023143/rivian-autonomy-point-to-point-robotaxi-q3-2026",
+          "date": "2026-10-30",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "cd0eeacd17b1",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.watch.impress.co.jp/docs/news/2152687.html",
+      "headline": "東芝テック、セルフレジで商品券を使えるPOS連動システムを発売",
+      "originalTitle": "東芝テック、セルフレジで商品券が使えるPOS連動システム",
+      "outlet": "Impress Watch",
+      "region": "domestic",
+      "category": "it",
+      "score": 35,
+      "tier": "spare",
+      "pubDate": "2026-10-30T07:29:58.000Z",
+      "body": null,
+      "summary": "東芝テックは30日、POSレジと商品券読み取り装置を連動させる「商品券連動サブシステム」を発売した。量販店向け店舗システム「PrimeStore」と、暁電機製作所の商品券読み取り装置「AES-GTR」を組み合わせ、POSシステム上で商品券の使用、回収、集計を自動化する。価格は店舗サーバーが4万8000円、POSライセンスが1万5600円で、スーパーマーケット、ドラッグストア、ホームセンターなどを主な対象に、5年間で2000ライセンスの販売を予定している。\n\nPrimeStoreはセルフレジにも導入できるため、会計時に商品券を使う場合でも基本的に従業員を呼ぶ必要がなくなる。同社は、店舗業務の省力化とレジの利便性向上が図れるとしている。回収した商品券は、種別、枚数、金額のレポートとして出力できる。\n\n商品券の判別は登録された商品券情報との一致で行うため、偽造された商品券などをすべて検知できるわけではないとしている。同システムは2026年3月から4月にかけて、大阪府堺市のスーパーマーケット「サンプラザ北野田店」で実証実験を行い、従業員の業務や店舗オペレーションの効率改善効果を検証した。2025年には、寺岡精工のPOSシステムとローレルバンクマシンの商品券読み取り機「Vself」を用いた実証実験も行われている。",
+      "sources": [
+        {
+          "outlet": "Impress Watch",
+          "url": "https://www.watch.impress.co.jp/docs/news/2152687.html",
+          "date": "2026-10-30",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    }
+  ],
+  "essays": [],
+  "productionNote": {
+    "reachedOutlets": [
+      "TechCrunch",
+      "The Verge",
+      "OpenAI",
+      "Impress Watch",
+      "status.bunny.net",
+      "Ars Technica",
+      "sciencenorway.no",
+      "bloomberglinea.com.br",
+      "MIT Technology Review"
+    ],
+    "unreachedOutlets": [],
+    "excluded": [
+      {
+        "topic": "国際深掘りが当日に扱った3件",
+        "reason": "実行順により先発の系統を優先"
+      }
+    ],
+    "counts": {
+      "deep": 0,
+      "brief": 27,
+      "essays": 0,
+      "chars": 17122
+    },
+    "text": "候補95件から27件を掲載。本文が取れず不採用3件。"
+  }
+}

@@ -16,15 +16,49 @@ $ npm run news
 [collect] Publickey: 3件
 [collect] Impress Watch: 10件
 [collect] GIGAZINE: 10件
-[build] 候補 95件（既出 26件、深掘りと重複 0件を除外）
-[claude] claude-haiku-5-5: claude: Failed to authenticate. API Error: 401 Invalid bearer token
-[claude] 失敗。60秒待って再試行（1/4回目）
-[claude] claude-haiku-5-5: claude: Failed to authenticate. API Error: 401 Invalid bearer token
-[claude] 失敗。180秒待って再試行（2/4回目）
-[claude] claude-haiku-5-5: claude: Failed to authenticate. API Error: 401 Invalid bearer token
-[claude] 失敗。300秒待って再試行（3/4回目）
-[claude] claude-haiku-5-5: claude: Failed to authenticate. API Error: 401 Invalid bearer token
-[claude] 失敗。600秒待って再試行（4/4回目）
-[claude] claude-haiku-5-5: claude: Failed to authenticate. API Error: 401 Invalid bearer token
-[build] エラー: claude: Failed to authenticate. API Error: 401 Invalid bearer token
-[claude] 合計 {"model":"claude-haiku-5-5","calls":5,"failures":5,"inputTokens":0,"outputTokens":0,"cacheReadTokens":0,"ms":14857}
+[build] intl.json の 3件を除外対象として読み込み
+[build] 候補 95件（既出 24件、深掘りと重複 0件を除外）
+[score] 71/71件の採点が返った
+[dedupe] 直近の再掲: The Download: Anthropic’s IPO, smarter p（MIT TR日次版：Anthropic IPO）
+[dedupe] 直近の再掲: “でぶねこ”の重み公開 1兆パラメータのAIモデル「Mistral Large （Mistral Large 4の重み公開）
+[dedupe] 直近の再掲: How we detect frontier model misalignmen（OpenAIのフロンティアモデル不整合検知）
+[dedupe] 直近の再掲: Oracle CloudがGoogle TPU導入を発表、2027年に提供を開始（Oracle CloudのGoogle TPU導入発表）
+[dedupe] 直近の再掲: An updated Model Spec for more capable a（OpenAI Model Spec改定）
+[dedupe] テーマ上限: Applebee's exposed customers' personal d（情報漏えい・不正アクセス）
+[dedupe] 直近の再掲: 松屋、不正アクセスで238万件の個人情報漏えい（松屋公式アプリの個人情報漏えい）
+[dedupe] テーマ上限: Satlyt takes another step toward turning（宇宙）
+[dedupe] 直近の再掲: The Download: GLP-1s and eating disorder（MIT TR日次版：GLP-1と摂食障害）
+[dedupe] 直近の再掲: The Download: AI agent tracking and clim（MIT TR日次版：AI監視・気候）
+[dedupe] テーマ上限: The future of the firm（AI企業活用）
+[dedupe] テーマ上限: Retell uses OpenAI models to help power （AI企業活用）
+[dedupe] テーマ上限: Creating AI value with enterprise contex（AI企業活用）
+[dedupe] テーマ上限: How Ropes & Gray is developing AI for tr（AI企業活用）
+[dedupe] テーマ上限: Credit Saison achieves 954% ROI in a Cha（AI企業活用）
+[dedupe] テーマ上限: Legora is building the agentic operating（AI企業活用）
+[dedupe] テーマ上限: Industrial Intelligence: The next growth（AI企業活用）
+[dedupe] テーマ上限: Pairing industrial AI autonomy and human（AI企業活用）
+[dedupe] テーマ上限: 誤訳で“違う製品”を作りかけた？ ベトナム工場への指示書、通訳よりGeminiの（AI企業活用）
+[dedupe] テーマ上限: AI law firm Crosby bids on disintegratin（AI企業活用）
+[dedupe] 66件 → 46件
+[body] 取得不可 (too-short): https://github.com/xqlsystems/xarray-sql/blob/6debe2495dcb4e8fac20ab97df5b89baae2a31a6/benchmarks/ml/01_attention.py
+[body] 取得不可 (too-short): https://www.watch.impress.co.jp/docs/news/2152617.html
+[body] 取得不可 (too-short): https://gigazine.net/news/20261030&
+[build] 掲載 27件（AI12 IT10 科学5）／本文が取れず不採用 3件
+[groq] 要約 成功 d8f136c1d198
+[groq] 要約 成功 c4dbacf8aa2b
+[gemini] 要約 3/3件
+[groq] 要約 成功 25cc4c9bb2e3
+[gemini] 要約 3/3件
+[groq] 要約 成功 cd36ffd6a3a4
+[gemini] 要約 3/3件
+[groq] 要約 成功 662ba9639d09
+[groq] 要約 成功 f1f6194d2036
+[gemini] 要約 3/3件
+[groq] 要約 成功 f6163eced81a
+[groq] 要約 成功 c7606af40dbb
+[gemini] 要約 3/3件
+[gemini] 要約 2/2件
+[groq] 要約 成功 64f7a393ec93
+[groq] 要約 成功 60ba719a0574
+[build] 完了: public/data/ai.json
+[claude] 合計 {"model":"claude-haiku-5-5","calls":8,"failures":0,"inputTokens":47677,"outputTokens":81787,"cacheReadTokens":6160,"ms":360725}
