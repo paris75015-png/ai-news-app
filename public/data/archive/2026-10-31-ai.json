@@ -1,0 +1,988 @@
+{
+  "date": "2026-10-31",
+  "stream": "ai",
+  "title": "AI日報",
+  "generatedAt": "2026-10-31T10:27:19.051Z",
+  "model": "claude-haiku-5-5",
+  "editorialVersion": 13,
+  "categories": [
+    {
+      "id": "ai",
+      "label": "AI",
+      "desc": "AIモデル・AIサービス・AI企業の動向"
+    },
+    {
+      "id": "it",
+      "label": "IT",
+      "desc": "ソフトウェア開発・ネットサービス・セキュリティ・デバイス・通信（AIが主題のものは除く）"
+    },
+    {
+      "id": "science",
+      "label": "科学",
+      "desc": "研究成果・医療・宇宙・環境・エネルギー技術"
+    }
+  ],
+  "articles": [
+    {
+      "id": "c4dbacf8aa2b",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+      "headline": "Googleの宇宙向けAIサーバー衛星、初めての応答を地上へ送信",
+      "originalTitle": "Google's satellite AI server transmits its first response to Earth",
+      "outlet": "The Verge",
+      "region": "overseas",
+      "category": "ai",
+      "score": 88,
+      "tier": "must",
+      "pubDate": "2026-10-30T18:21:38.000Z",
+      "body": null,
+      "summary": "Googleは、AI向けの半導体を搭載した同社の衛星が宇宙から初めて応答を生成したと、10月30日（金）のブログ記事で明らかにした。衛星は今月初めに軌道へ打ち上げられており、同社は衛星に搭載されたTPU（Googleが開発したAI計算用の半導体）の起動に成功したとしている。\n\n衛星上で動作するGoogleの言語モデル「Gemma 4」は、宇宙をテーマにした俳句の作成という指示に応じた。Googleによると、宇宙を題材にした五行戯詩（リメリック）や、テレメトリ（衛星の状態などを遠隔で測定したデータ）に関する指示も試したという。\n\nこの試験は、宇宙にAIデータセンターを置くことを将来的に視野に入れた実験的な取り組み「Project Suncatcher」の一部である。Googleは次に、軌道上で熱ストレスや放射線にさらされた際のTPUの性能を検証すると述べている。同社は、宇宙でTPUが確実に処理を実行できることを確認すれば、2027年に相互に接続された2機の衛星を打ち上げる次の節目に進めるとしている。",
+      "sources": [
+        {
+          "outlet": "The Verge",
+          "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+          "date": "2026-10-30",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "25cc4c9bb2e3",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "headline": "OpenAI、robots.txtの共通シグナルを尊重する方針を発表",
+      "originalTitle": "Making it easier for websites to express AI training preferences",
+      "outlet": "OpenAI",
+      "region": "overseas",
+      "category": "ai",
+      "score": 86,
+      "tier": "must",
+      "pubDate": "2026-10-30T09:30:00.000Z",
+      "body": null,
+      "summary": "OpenAIは、ウェブサイトがAIの基盤となる生成AIの学習にコンテンツを利用することへの希望を示すファイル「robots.txt」において、共通のシグナルを尊重すると発表した。robots.txtは、サイト運営者がクローラー（ウェブを巡回して情報を収集するプログラム）に対する規則を記すファイルである。\n\nこれまで運営者は、事業者ごとにクローラーを特定して個別のルールを管理する必要があった。共通のシグナルを使えば、複数の事業者に同じ意向を一度に伝えられるため、運営者の作業負担が減るとしている。この取り組みは任意の自主的なもので、OpenAIは今後数か月以内に実装する予定であり、詳細は改めて公表するとしている。\n\n既存のrobots.txtによるクローラーの制御は、引き続き適用され尊重されるという。今回の発表は、IETF（インターネット技術標準化タスクフォース）のAI Preferences作業部会の作業を土台としており、OpenAIは同部会の他の参加者とともに共通のシグナルを発表したとしている。同社は他のAI事業者にもこのシグナルを尊重するよう呼びかけている。",
+      "sources": [
+        {
+          "outlet": "OpenAI",
+          "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+          "date": "2026-10-30",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "011fdc062b2b",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+      "headline": "Apple Intelligence、iOS 27.3で中国向けに提供開始へ",
+      "originalTitle": "Apple Intelligence is finally coming to China with iOS 27.3",
+      "outlet": "The Verge",
+      "region": "overseas",
+      "category": "ai",
+      "score": 82,
+      "tier": "must",
+      "pubDate": "2026-10-30T22:32:53.000Z",
+      "body": null,
+      "summary": "Appleは、同社の生成AI機能群であるApple Intelligenceを、iOS 27.3で中国市場に提供すると中国語版のニュースルームで発表した。最初の機能は、11月4日に公開予定のiOS 27.3ベータ版で利用でき、正式版は12月に公開される予定である。\n\n今回提供されるのは、通知の要約、リアルタイム翻訳、文章の書き換えや校正、ビジュアルインテリジェンス、写真からの不要な物体の削除など、初期の機能である。新しいSiriのAI機能は中国では提供されない。Appleはまた、一部の機能でアリババのチャットボット「Qwen（クウェン）」に対応するため、同社と協力したとしている。\n\nApple Intelligenceは、中国で7月に承認を得ていた。Reutersは8月の報道で、Appleが中国向けに独自の大規模言語モデルを学習させたと伝えている。",
+      "sources": [
+        {
+          "outlet": "The Verge",
+          "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+          "date": "2026-10-30",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "c44a4d42c256",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.watch.impress.co.jp/docs/news/2152823.html",
+      "headline": "Claude、有料プランを「Max」「Ultra」に改称　Ultraは認証済みで5時間制限を撤廃",
+      "originalTitle": "Claude、有料プラン名称を変更 「Max 20x」から「Ultra」で5時間制限撤廃",
+      "outlet": "Impress Watch",
+      "region": "domestic",
+      "category": "ai",
+      "score": 81,
+      "tier": "should",
+      "pubDate": "2026-10-31T01:40:00.000Z",
+      "body": null,
+      "summary": "Anthropic（アンソロピック）は10月、AIサービス「Claude」の有料プランの名称を変更した。従来の「Max 5x」は「Max」に、「Max 20x」は「Ultra」に改称される。月額料金はMaxが100ドル、Ultraが200ドルのままで変わらない。既存の契約者は対応が不要だという。\n\nMaxプランは、Proプランの5倍の使用量を5時間ごとに利用でき、上位モデルの「Fable」も使える。Ultraプランは、Proプランの10倍の使用量を週単位で利用できる。両プランとも、アプリなどからClaudeを呼び出すための接続口であるClaude API（API）の月額クレジットが含まれる。\n\nUltraプランでは、認証済みアカウントの5時間ごとの利用制限が撤廃され、週間制限の範囲内で自分のペースで作業できる。撤廃は既存の契約者の多くに順次適用され、削除時にはメールで通知される。週間制限は変わらない。新規アカウントは認証が完了するまで一時的な制限が残る。同社は、この仕組みが不正利用の防止に役立つとしている。",
+      "sources": [
+        {
+          "outlet": "Impress Watch",
+          "url": "https://www.watch.impress.co.jp/docs/news/2152823.html",
+          "date": "2026-10-31",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "c80cb208774f",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://news.ycombinator.com/item?id=50312756",
+      "headline": "Scribd、不正アクセスを通知　一部の利用者の決済情報が対象の可能性",
+      "originalTitle": "Tell HN: Scribd Breached",
+      "outlet": "Hacker News",
+      "region": "overseas",
+      "category": "it",
+      "score": 74,
+      "tier": "should",
+      "pubDate": "2026-10-31T02:46:36.000Z",
+      "body": null,
+      "summary": "Scribd, Inc.（Scribd、Slideshare、Everand、Fableの親会社）が、セキュリティインシデント（不正アクセス事件）の通知を利用者に送ったことが、Hacker Newsへの投稿で伝えられている。投稿者によると、通知は2026年10月26日（月）に届いたもので、通知の送付は同社の通知業務を担う企業Epiqが代行したとされる。通知によると、第三者が一部の利用者データが保存されたシステムに不正にアクセスした可能性がある。\n\n通知では、対象となり得る情報としてメールアドレス、クレジットカードの下4桁、国、カード発行会社、有効期限、決済履歴（カード番号などの詳細を除く）が挙げられている。同社は、このデータが悪用された証拠は確認されていないとしている。ただし、利用者が自身の情報を守るための措置を取れるよう、念のため通知しているという。\n\n同社は、該当するシステムを保護して不正アクセスを終了させ、法執行機関と個人情報保護当局に通知したと説明している。また、外部のサイバーセキュリティ企業と連携し、アクセス管理と監視の強化を進めているとしている。さらに、同社がメールやテキストでユーザー名やパスワードなどの機密情報を求めることはないと案内し、不審なリンクはクリックせず、scribd.comなどのURLを直接ブラウザに入力するよう呼びかけている。",
+      "sources": [
+        {
+          "outlet": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=50312756",
+          "date": "2026-10-31",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": "https://news.ycombinator.com/item?id=50312756",
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "4b14ad8236c5",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://gigazine.net/news/20261031&",
+      "headline": "復号できると主張した復旧企業のCEO、実際は身代金を支払っていたとして起訴",
+      "originalTitle": "「ハッカーに身代金を支払うことなく暗号化されたファイルを復元できる」というセキュリティ企業が実際は被害者から得た高額な手数料の中から身代金を支払っていたとしてCEOが起訴される",
+      "outlet": "GIGAZINE",
+      "region": "domestic",
+      "category": "it",
+      "score": 68,
+      "tier": "should",
+      "pubDate": "2026-10-31T10:00:00.000Z",
+      "body": null,
+      "summary": "報道によると、ランサムウェア（身代金を要求する不正なプログラム）の被害からの復旧を手がける企業MonsterCloudのCEOであるピンハシ被告が起訴された。起訴状によると、被告は独自のツールと高度な復号技術を使えば、ランサムウェアで暗号化されたデータを復元できると顧客に主張していた。しかし実際には、顧客から受け取った料金の一部を攻撃者への身代金の支払いに充て、残りを着服して利益を得ていたとされる。\n\n例として、2023年8月のケースでは、被告が身代金を要求するサイバー犯罪者に約8200ドル（約129万円）を支払い、顧客には約15万ドル（約2300万円）を請求していた。訴状によると、このプロジェクト全体で顧客から1900万ドル（約30億円）以上を請求し、そのうち800万ドル（約12億円）以上を身代金として支払ったという。\n\n今回の起訴状は、アメリカの非営利・独立系の報道機関ProPublicaが2019年に公開した調査記事「The Trade Secret」の内容を反映しているとProPublicaは指摘している。2019年当時、被告はザック・グリーンという偽名を使い、同社の復旧方法は「企業秘密」だと述べていた。また、ProPublicaは、ロバート・ミューラー氏の下で副長官を務めたジョン・ピストール氏が同社の宣伝動画に登場していたことも指摘した。今回の起訴状ではピストール氏の名前は触れられておらず、連邦検事局の広報担当者はピストール氏と同社の関係についてコメントを控えた。\n\nなお、アメリカ連邦検事局の広報担当者によると、被告は起訴された容疑について無罪を主張しているという。",
+      "sources": [
+        {
+          "outlet": "GIGAZINE",
+          "url": "https://gigazine.net/news/20261031&",
+          "date": "2026-10-31",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "0b30c6250260",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2610/31/news009.html",
+      "headline": "Anthropic、Claude Enterpriseに利用実態の把握と予算管理の3機能を追加",
+      "originalTitle": "AIの「費用対効果が分からない」問題、解決へ？ Claude Enterprise搭載の「3つの新機能」",
+      "outlet": "ITmedia AI+",
+      "region": "domestic",
+      "category": "ai",
+      "score": 67,
+      "tier": "should",
+      "pubDate": "2026-10-31T00:00:00.000Z",
+      "body": null,
+      "summary": "Anthropicは2026年10月28日（現地時間）、企業向けプラン「Claude Enterprise」に3つの機能を追加し、一般提供を開始したと発表した。そのうち一部は、管理者が利用実態を把握し、投資計画の判断材料を得るための機能である。3機能はClaude Enterpriseの利用組織に提供されるが、HIPAA（米国の医療保険の携行性と責任に関する法律）に対応した構成や、顧客が管理する暗号鍵（顧客自身が管理する暗号化用の鍵）を使う組織では、構成によって利用できる範囲が異なる。\n\n一つ目のSmart reportsは、管理者がチーム、期間、対象製品を選ぶと、Claudeがそのチームの会話履歴の一部を抽出して分析し、作業を業務のまとまり（ワークストリーム）ごとに分類する機能である。ワークストリームごとに、かかった費用、作成された成果物、コネクター（外部サービスとの接続機能）の不足やツール呼び出しの失敗といった作業の妨げになった要因を確認でき、繰り返し発生する作業をスキル（定型手順として登録する機能）にする提案などの推奨事項も付く。AnthropicはSmart reportsについて、個人の業績評価や雇用に関する判断に使うものではないとしている。\n\nIn-app surveysは、利用者の視点から成果を把握するためのアンケート機能で、Claudeの回答の後に短いカードとして表示される。標準の設問は、最近最も価値のあった作業、その作業の時間がどう変わったか、同僚も取り入れるべき使い方、明日からClaudeが使えなくなった場合に何が止まり何が遅れるかの4つで、管理者は設問や配信対象、実施時期、表示場所を設定できる。回答は届き次第アンケートのページに表示され、スプレッドシートに書き出せる。\n\nPooled group budgetsは、グループに月間予算を1つ割り当てて共有する機能である。個人ごとの上限だけでは、利用の多い人が月の早い段階で上限に達する一方、使い切らない人の予算が余るため、グループで共有すればこの偏りを抑えられるとAnthropicは説明している。各リクエストはグループ予算と個人上限の両方から差し引かれ、どちらかを使い切ると利用が止まる。予算の消化率が50％、75％、95％、100％に達すると請求権限を持つ管理者にメールが届き、上限に達した利用者は追加を申請でき、申請は管理者が審査する。",
+      "sources": [
+        {
+          "outlet": "ITmedia AI+",
+          "url": "https://www.itmedia.co.jp/enterprise/articles/2610/31/news009.html",
+          "date": "2026-10-31",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "c7606af40dbb",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "headline": "OpenAI、ChatGPTの暴力防止策を強化 安全性報告書の公開と未成年者向け制限",
+      "originalTitle": "Community safety report and new protections for teens",
+      "outlet": "OpenAI",
+      "region": "overseas",
+      "category": "ai",
+      "score": 65,
+      "tier": "should",
+      "pubDate": "2026-10-30T09:00:00.000Z",
+      "body": null,
+      "summary": "OpenAIは、ChatGPTの安全対策に関する2つの発表を行った。一つは、暴力防止などコミュニティの安全に関する取り組みや安全対策の有効性を報告する「コミュニティ安全性報告書（Community Safety Report）」の公開である。最初の報告書は2027年初頭に2026年下半期を対象として公表し、以後は6か月ごとに更新するとしている。もう一つは、未成年者向けに武器関連のコンテンツの制限を強化することで、OpenAIは2026年第3四半期に差し迫った暴力の脅威を法執行機関に200件以上照会したとも明らかにしている。\n\n全ユーザー向けには、過去の大量殺傷事件やその実行者に関する質問への回答を制限し、使用された武器や機材とその入手方法を含む事件の再現や、加害規模の詳細な比較は控えると定めた。この制限は年齢や質問の理由にかかわらず適用されるが、事件の理解や被害者・地域社会への影響、警告サインの見分け方は引き続き扱える。直近のチャットに暴力の兆候が見られた場合は、悪用されうる情報の提供により慎重に応答する。暴力への執着が見られる会話はChatGPTが自動的に終了させられ、そうした終了が複数回に及んだ場合はアカウントを一時的に停止することもあるという。\n\n18歳未満の利用者には、暴力への意図がなくても、武器やセキュリティシステムに関する実用的な情報の提供を制限する。一方、暴力の防止や緩和、支援の相談、信頼できる大人への相談は引き続き可能としている。年齢推定は、行動パターンなど複数の信号を分析して18歳未満かどうかを推定する仕組みで、昨年導入された。誤って18歳未満向けの体験に振り分けられた利用者は、年齢確認パートナーのPersonaを通じて成人であることを確認すれば追加の保護を解除できる。保護者はペアレンタルコントロールで子どものアカウントと連携でき、7月には、暴力に関する利用規約違反でアカウントが無効化された場合に保護者へ通知する機能を拡大した。\n\n今後、繰り返し暴力について話したことでアカウントが一時停止された場合にも保護者へ通知する仕組みを導入する作業を進めている。今回の安全対策は今後数週間で順次展開される。",
+      "sources": [
+        {
+          "outlet": "OpenAI",
+          "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+          "date": "2026-10-30",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "7424741ae0d2",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2610/31/news013.html",
+      "headline": "GMOが不正アクセス事件の情報に最大約1億5000万円の懸賞金を創設",
+      "originalTitle": "GMOがサイバー攻撃情報に異例の1.5億円懸賞金、AI時代の新防衛策となるのか",
+      "outlet": "ITmedia AI+",
+      "region": "domestic",
+      "category": "it",
+      "score": 62,
+      "tier": "should",
+      "pubDate": "2026-10-30T22:00:00.000Z",
+      "body": null,
+      "summary": "GMOインターネットグループは2026年10月21日、連結子会社が提供する「お名前.com デスクトップクラウド」への不正アクセス被害を発表した。同社によると、10月19日に顧客からの問い合わせを受けて調査を開始し、20日に一部のサーバ環境に第三者による不正プログラムが設置されていることを確認した。サーバ内に保存されていた取引口座のログイン情報などが第三者に取得され、不正利用された可能性があるとしている。\n\n同社は20日に新規申し込みを停止し、21日午前4時から被害拡大防止のため全プランのサーバを順次停止した。顧客には一律5000円のお見舞金に加え、公開が確認された情報の区分に応じて最大300万円の特別お見舞金を支払うことを決めた。さらに、犯人の特定や検挙、事件の解明につながる有力な情報を募るため、報奨金の上限を総額100万米ドル（参考換算約1億5000万円）とする「GMOサイバー犯罪撲滅・懸賞金」を創設した。記事は、民間企業がこれほどの懸賞金を独自にかけることは世界的にまれだとしている。\n\n専用窓口には30日18時時点で累計428件の情報が寄せられた。29日の発表では、GMOグループのホワイトハッカー（善良なハッカー）チームが独自調査で犯人特定につながる有力な情報を入手し、警察などに提出したことが明らかにされた。\n\n記事は、AIの普及により攻撃者が高度なマルウェア（悪意のあるプログラム）の開発やシステムの脆弱性探索を自動的かつ低コストで行えるようになり、サイバー攻撃の件数増加に関わっていると指摘している。",
+      "sources": [
+        {
+          "outlet": "ITmedia AI+",
+          "url": "https://monoist.itmedia.co.jp/mn/articles/2610/31/news013.html",
+          "date": "2026-10-30",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "d32a73c82502",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
+      "headline": "セールスフォース、防衛AI新興Runeを3億7500万ドルで買収合意と報道",
+      "originalTitle": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
+      "outlet": "TechCrunch",
+      "region": "overseas",
+      "category": "ai",
+      "score": 60,
+      "tier": "should",
+      "pubDate": "2026-10-30T23:21:23.000Z",
+      "body": null,
+      "summary": "セールスフォースが、米軍向けにAIソフトを開発し、補給需要の予測や前線の物流管理を支援する新興企業Rune Technologiesを、現金と株式を合わせて3億7500万ドルで買収することで合意したと、Resilience Mediaが報じた。セールスフォースは、TechCrunchのコメント要請に応じていない。\n\n今回の買収は、同社が国家安全保障や防衛機関向けに手がける事業部門Missionforceの防衛テック分野への進出を示すものである。セールスフォースはブログで、Missionforceは昨年の立ち上げ以降に事業が80%成長し、10年間で56億ドル規模の米陸軍との契約がその一因になったと述べている。Runeの前線の物流データを統合することで、Missionforceは事務的な後方の計画業務にとどまらず、戦場での作戦支援まで対象を広げるとされている。\n\nRuneは2024年に設立され、Andreessen Horowitz、Point72 Ventures、IQT（CIAが支援する非営利のベンチャー投資機関で、旧称はIn-Q-Tel）などから計3000万ドルを調達した。PitchBookによると、昨年にHuman Capitalが主導したシリーズAの調達時の評価額は1億2700万ドルだった。\n\nセールスフォースは今年も買収を相次いで進めている。Runeのほかにも、AIエージェント（自律的に作業を行うAIプログラム）の基盤を提供するFin（旧Intercom）を36億ドルで買収することに合意したほか、Qualifiedを12億ドルで買収し、Listen Labsの買収でも合意したとTechCrunchは報じている。",
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
+          "date": "2026-10-30",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "632ce1236326",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/",
+      "headline": "Applebee'sのアプリの欠陥で顧客情報に誰でもアクセス可能、修正済み",
+      "originalTitle": "Applebee's exposed customers' personal data after leaving database password in app",
+      "outlet": "TechCrunch",
+      "region": "overseas",
+      "category": "it",
+      "score": 58,
+      "tier": "interest",
+      "pubDate": "2026-10-30T21:48:53.000Z",
+      "body": null,
+      "summary": "外食チェーンのApplebee'sは、モバイルアプリ内に社内データベースのパスワードが含まれていたことで、登録顧客の個人情報に誰でもアクセスできた問題を修正したと、TechCrunchが報じた。同社は木曜日に、顧客データベースへの不正アクセスを防ぐための対応を取ったことを確認した。TechCrunchは、修正が確認されるまで記事の公開を見送っていた。\n\n問題を見つけたのは、英国を拠点とし、What Securityに所属するサイバーセキュリティ研究者のRobert Wiggins氏で、今月初めに発見した。同氏はAIを使い、Google Playで100万超のダウンロードがあるAndroidアプリのソースコード数千行から認証情報を見つけ出した。この認証情報によって顧客データベースにアクセスできた。ソフトウェアに直接書き込まれたパスワードや秘密鍵（ハードコードされた認証情報）は、アプリを持つ誰もが取り出して正規のユーザーとしてリモートシステムにログインできるため、最も深刻な脆弱性の一つである。Wiggins氏は、この認証情報を使えば顧客データを改変することも可能だったと述べている。TechCrunchは、アプリをダウンロードして逆コンパイル（実行ファイルを解析可能な形に戻す作業）し、ソースコードに認証情報が含まれていることを確認した。さらにダミーのアカウントを作成し、同データベースから情報を取得できることも検証した。\n\n露出していたデータベースには、氏名、メールアドレス（認証済みかどうかを含む）、生年月日、電話番号、郵便番号のほか、退役軍人かどうか、ログイン回数、アカウント作成日、直近のログインに使われたIPアドレスが含まれていた。IPアドレスからは利用者のおおよその所在地が推定されうる。Wiggins氏はApplebee'sや親会社のDine Brandsに通知する手段がなかったため、TechCrunchに開示の支援を求めたという。\n\nDine Brandsの広報担当者（氏名は非公表）は、メールで「セキュリティチームが速やかに調査を開始し、現時点で不正アクセスの証拠は見つかっていない」と述べた。一方で、データベースへのアクセス記録（サーバーログ）が残っているかどうかは明らかにしなかった。影響を受けた顧客数は不明で、同社は個人情報が露出した人数も明らかにしていない。同社のリワードプログラムには、昨年時点で少なくとも850万人の会員が登録していた。TechCrunchは、顧客や米規制当局への通知、米証券取引委員会（SEC）への開示の予定について尋ねたほか、認証情報がいつからアプリに含まれていたかも尋ねたが、後者については回答が得られていないとしている。",
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/",
+          "date": "2026-10-30",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "1e704cb3cd6b",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://gigazine.net/news/20261030&",
+      "headline": "ランサムウェア復旧サービスの被告、身代金の一部を着服したとして起訴",
+      "originalTitle": "プライバシー重視メール「Proton Mail」の開発企業はAIの導入に突き進んでおりCEOが社員を日常的に叱責",
+      "outlet": "GIGAZINE",
+      "region": "domestic",
+      "category": "it",
+      "score": 57,
+      "tier": "interest",
+      "pubDate": "2026-10-30T14:00:00.000Z",
+      "body": null,
+      "summary": "アメリカ連邦検事局が、MonsterCloudのピンハシ被告を起訴した。起訴状によると、被告はランサムウェア（データを暗号化して身代金を要求する不正プログラム）で暗号化された被害者のデータを、「独自のツール」と「高度な復号技術」（暗号化されたデータを元に戻す技術）によって復旧できると主張していたという。しかし実際には、顧客から受け取った料金の一部を攻撃者への身代金支払いに充て、残りを着服して利益を得ていたとされる。\n\n具体的な例として、2023年8月の事案では、被告が身代金を要求したサイバー犯罪者に約8200ドル（約129万円）を支払う一方で、顧客には約15万ドル（約2300万円）を請求していたとされる。起訴状によると、プロジェクト全体では顧客から1900万ドル（約30億円）以上を請求し、そのうち800万ドル（約12億円）以上を身代金として支払った。\n\nProPublicaは、今回の起訴状が、同団体が2019年に公開した調査記事「The Trade Secret」の内容を反映していると指摘している。ProPublicaによると、2019年当時の被告は「ザック・グリーン」という偽名を使っており、取材に対して「MonsterCloudは顧客に特定のデータ復旧方法を約束したことは一度もない。復旧方法は我々の問題であり、データは必ず戻ってくる」と述べ、復旧方法は「企業秘密」だと語ったという。\n\nProPublicaは2019年の記事で、ロバート・ミューラー元FBI長官の下で副長官を務めたジョン・ピストール氏が、MonsterCloudのウェブサイトの宣伝動画に大きく登場していたことも指摘している。同動画でピストール氏は、MonsterCloudの独自技術と専門知識が「職業上の評判と組織の健全性を守る」と宣伝していたという。今回の起訴状ではピストール氏の名前は触れられておらず、連邦検事局の広報担当者はピストール氏とMonsterCloudの関係についてコメントを控えた。一方、被告は容疑について無罪を主張しているという。",
+      "sources": [
+        {
+          "outlet": "GIGAZINE",
+          "url": "https://gigazine.net/news/20261030&",
+          "date": "2026-10-30",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "6336aff37e57",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "headline": "Nvidia、Nscaleのウェストバージニア州データセンター融資の保証を検討",
+      "originalTitle": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "outlet": "TechCrunch",
+      "region": "overseas",
+      "category": "ai",
+      "score": 55,
+      "tier": "interest",
+      "pubDate": "2026-10-31T01:20:05.000Z",
+      "body": null,
+      "summary": "半導体メーカーのNvidiaが、AIクラウド事業者Nscale（エヌスケール）のデータセンター建設に伴う借入金について保証人となる案を協議していると、The Informationが報じた。ブルームバーグも後にこの内容を裏付けた。Nscaleが公開した新規株式公開（IPO）の申請書類によると、AI企業Anthropicは、ウェストバージニア州のキャンパスにある最初の建物だけで446億ドルの契約を結んでいる。Nvidiaは顧客の借入に共同保証人として名を連ねる形となり、記事は、投資家の懸念が強まる中でAI業界が建設計画を維持しようとしていることの表れだとしている。\n\n保証の仕組みは残存価値保証（建設費の支払いが滞った場合に、保証人が施設を一時的に引き継ぎ、買い手や新たな借り手を探す仕組み）と呼ばれるものである。対象は、キャンパスの電力と建設にかかる資金調達である。Nvidiaのこれまでの支援は、主にリース（設備の賃貸契約）やチップの購入に関するもので、建設費への支援は例がないという。最初の建物は460メガワット（MW）規模で、Nvidiaの次世代チップ「Vera Rubin」を使う予定である。両社は、別の建物についても約450億ドル規模の契約を協議している。\n\nNscaleは計画の実現に苦戦している。同社は8月時点で約2万5000基の先端AIチップを稼働させていたが、計画では約50万基を導入する予定である。ウェストバージニア州のキャンパスでは、建設現場からの排水により周辺の住宅が何度も浸水しており、9月にようやく州の認証を取得した。また、今月にはMicrosoftが、イングランドで計画していたNscaleの拠点から撤退した。送電が2030年代まで遅れることになったためである。さらにNscaleは、最大350億ドルの評価額での上場を目指している。\n\nNvidiaは、ネオクラウド（自社の収益基盤が乏しいまま、AIの計算能力を賃貸する事業者）や大口顧客に対して、約1700億ドル規模の投資と信用供与を行ってきたという。このなかには、9月にNscaleへ約束した10億ドルの転換社債による資金供給も含まれる。一方、CoreWeave、Nebius、IRENの株価は10月中にそれぞれ30%以上下落したとCNBCが報じている。記事は、ある投資家の見方として、Anthropicの関与がNvidiaの支援の理由になっている可能性を伝えている。Anthropicも今週IPOを申請したが、投資会社ブラックストーンは、同社が上場後に投資適格を下回る格付けを受ける可能性があると投資家に警告しており、格付けが下がれば借入コストが上がるとされる。",
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+          "date": "2026-10-31",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "b18ed8fdf2c4",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "science",
+      "url": "https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921",
+      "headline": "ノルウェーで融ける氷から石器時代や青銅器時代の矢じりが出土",
+      "originalTitle": "The oldest ice disappears and the Stone Age emerges from it",
+      "outlet": "sciencenorway.no",
+      "region": "overseas",
+      "category": "science",
+      "score": 53,
+      "tier": "interest",
+      "pubDate": "2026-10-30T19:51:33.000Z",
+      "body": null,
+      "summary": "「Secrets of the Ice」は、ノルウェー東部インランデット県が実施する氷河考古学のプログラムで、今年で活動20年を迎えた。これまで氷の中から見つかった遺物の多くは約2000年前までのもので、ヴァイキング時代のものも多かった。しかし、最も古い氷が融け始めたことで、その中に閉じ込められていた青銅器時代や石器時代の矢柄と矢じりが現れている。\n\n今年の現地調査では先史時代の矢が48本見つかった。石板、淡水産の二枚貝の殻、骨で作られた矢じりがあり、石板製の矢は5000〜6000年前と推定されている。20年の活動で、1か所の氷塊から100本を超える矢じりと矢柄が回収された。鉄製の矢じりは1000〜1500年前のものである。ほかにも衣類、靴、死んだ荷馬、スキーが見つかっており、氷の中では木材や革、織物などの有機物も保存されていたという。\n\nプログラムを率いるエスペン・フィンスタッド氏は、今年は先史時代の矢が特に多く見つかったと語っている。同氏は、遺物探しは楽しく発見は喜ばしいとしたうえで、その裏には気候変動の現実があると述べた。ネパールでの地滑りや、ヨトゥンヘイメン山地での氷河崩落にも言及している。同氏によれば、こうした矛盾は以前から認識していたが、今年は感情的に強く影響を受けたという。\n\n考古学者らは、遺物を含む氷塊の大半が今後20年以内に消失するとみている。フィンスタッド氏は、この場所には6000〜7000年にわたって氷があったが、自然は長年にわたり警告を発してきたと話している。今後数週間、天候が許せば追加の現地調査を予定しており、最近の発見物の一部はロムにあるノルウェー山岳センターで展示されている。",
+      "sources": [
+        {
+          "outlet": "sciencenorway.no",
+          "url": "https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921",
+          "date": "2026-10-30",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": "https://news.ycombinator.com/item?id=50309266",
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "e7a0d7ebfffd",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "science",
+      "url": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/",
+      "headline": "NASA、ハッブル宇宙望遠鏡の軌道回復策を民間企業に募集",
+      "originalTitle": "Once again, NASA is asking for ideas to rescue Hubble from certain death",
+      "outlet": "Ars Technica",
+      "region": "overseas",
+      "category": "science",
+      "score": 53,
+      "tier": "interest",
+      "pubDate": "2026-10-31T00:07:22.000Z",
+      "body": null,
+      "summary": "NASAは、ハッブル宇宙望遠鏡（HST）の軌道回復や保守、管制された大気圏再突入について、民間企業に提案を求める情報提供依頼（RFI）を公開した。打ち上げから36年が経過した望遠鏡は、何もしなければ2030年代前半から半ばに大気圏に再突入するとされる。軌道力学の専門家は、介入がなければ2033年か2034年に再突入する可能性が高いと予測しており、その予測は太陽活動によって変わり得るという。NASAは、この依頼に対して11月30日までに回答を求めている。\n\nハッブルは推進装置を搭載していないため、高度を自ら保つことができない。NASAが最後に軌道を引き上げたのは2002年で、スペースシャトル・コロンビアによる保守ミッションの際であった。2009年の最後のシャトル整備ミッションでも軌道は上げられず、2011年にシャトルが退役したことで回復手段がなくなった。その結果、2002年の高度583キロメートル（km）から現在の約470kmまで、24年をかけて降下してきた。\n\nRFIでは、ハッブルを捕捉して高度を少なくとも600km（373マイル）まで引き上げる軌道回復、望遠鏡の性能向上、管制された再突入について、企業の現在および近い将来の能力に関する情報を求めている。条件として、軌道回復または保守ミッションがハッブルを損傷させないこと、2032年までに実施されることが示されている。請負者は打ち上げロケット、整備用の宇宙機、運用、必要に応じて乗員を用意する必要がある。NASAは救済ミッションの購入を確約しておらず、関心、費用、実現性を確かめる段階である。\n\n記事によれば、軌道を600kmまで引き上げた場合、ハッブルは少なくとも25年以上は軌道にとどまる可能性が高いとされる。",
+      "sources": [
+        {
+          "outlet": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/",
+          "date": "2026-10-31",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "17e634c433c0",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.firezone.dev/blog/introducing-sanstun",
+      "headline": "Firezone、Rust製WireGuard実装「sanstun」を発表",
+      "originalTitle": "Sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
+      "outlet": "firezone.dev",
+      "region": "overseas",
+      "category": "it",
+      "score": 52,
+      "tier": "interest",
+      "pubDate": "2026-10-30T21:30:00.000Z",
+      "body": null,
+      "summary": "Firezoneは、Rustで実装したWireGuard（暗号化されたVPN通信などに使われるプロトコル）のライブラリ「sanstun」を発表した。sanstunは、入出力（IO）や時刻・乱数などの副作用を、状態管理や処理ロジックから切り離す「sans-IO」という設計思想を採用している。同社は、使いやすさ、セキュリティ、性能を重視し、並列処理に向いた分かりやすいAPIを目指したとしている。\n\n同社は以前、WireGuardの実装としてboringtunを採用し、独自にパッチを重ねて使ってきた。しかし、バグ修正やAPI追加を重ねるうちに、上流との API互換性を保つことが製品要件の変化とともに難しくなったという。sanstunでは、時刻処理のsans-IO化やライブラリ内部でのパケットの一時バッファリングの廃止などを行い、70件を超えるプルリクエスト（変更提案）の知見をもとに設計したとしている。\n\nAPIでは、受信処理がInterface::receiveに集約され、生のデータグラムを解析してレート制限を適用したうえで、Tunnelの各処理に振り分ける。Interfaceは1つの鍵で識別されるWireGuardの単位、Tunnelはそれらの間の接続を表す。ハンドシェイクのメッセージ型は外部から直接生成できないようにされており、Interface::receiveを経由しないとレート制限を迂回できない仕組みになっている。\n\n並列暗号処理では、Tunnel::begin_encapsulateなどで行う送信カウンタの確保や状態管理と、実際の暗号化・復号を分けた。暗号化を担うPendingEncapsulateはスレッド間で受け渡せるため、暗号処理を別スレッドで行える。ベンチマークでは、1280バイトの場合、管理処理は暗号化に要する時間の約2%にすぎず、暗号化を別スレッドに移すと理論上は45倍ほどの高速化が見込めるとした。ただし、受け渡しの負荷を考えると、実効的にはこれより小さくなるとしている。",
+      "sources": [
+        {
+          "outlet": "firezone.dev",
+          "url": "https://www.firezone.dev/blog/introducing-sanstun",
+          "date": "2026-10-30",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": "https://news.ycombinator.com/item?id=50310398",
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "64f7a393ec93",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "science",
+      "url": "https://arstechnica.com/science/2026/10/rare-meteorite-from-mars-gives-us-a-view-into-its-ancient-crust/",
+      "headline": "サハラ産の火星隕石、41億年以上前の古い岩石と研究チーム",
+      "originalTitle": "Rare meteorite from Mars gives us a view into its ancient crust",
+      "outlet": "Ars Technica",
+      "region": "overseas",
+      "category": "science",
+      "score": 51,
+      "tier": "interest",
+      "pubDate": "2026-10-30T18:13:42.000Z",
+      "body": null,
+      "summary": "NASAジェット推進研究所のヤン・リウ率いる研究チームは、2022年にマリ共和国のサハラ砂漠で見つかった火星隕石「Teghaza 001」が、少なくとも41億年前に形成されたとする研究を『Science』に発表した。既知の火星隕石の主要3群はいずれも24億年以下とされ、古い火星隕石はこれまで2つしか知られていなかった。Teghaza 001は、単一の損なわれていない火成岩である点でも珍しいとされる。\n\n結晶は最大1ミリメートル程度と大きく、ゆっくり冷えたことを示すとされる。研究チームは、冷却速度を1年あたり約0.01℃と推定し、噴出せず地殻の内部で固まったマグマに由来すると考えている。年代測定では、ジルコン、リン酸塩鉱物、ルビジウム-ストロンチウム法がいずれも一致した年代を示し、ジルコンは約41.1億年だった。\n\n長石粒子のナトリウムに富む縁やジルコンに取り込まれたナトリウムは、形成直後に熱水が岩石に染み込んだことを示すとされる。このため41億年という年代は最後に水と反応した時期にあたり、結晶化の年代はそれより古いと考えられている。また、他の火星隕石より約2パーミル多い酸素18は、地表付近の水と反応した地殻の影響を示すとしている。\n\n研究チームは、火成岩の微量元素の比率からマグマは深部に由来すると分析し、ガーネットを含むマントルを想定するとモデルがよく合うとした。この起源は既知の火星マントルの貯留層のいずれにも一致せず、初期の火星マントルは従来より複雑に進化したとみられる。起源地は火星南部高地でヘラス盆地の北西と推定されるが、確定はしていない。",
+      "sources": [
+        {
+          "outlet": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/10/rare-meteorite-from-mars-gives-us-a-view-into-its-ancient-crust/",
+          "date": "2026-10-30",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "a222d0a212be",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "science",
+      "url": "https://arstechnica.com/health/2026/10/over-25-of-people-lie-to-get-antibiotics-and-their-lies-arent-even-good/",
+      "headline": "抗菌薬を得るため嘘をつく人、25%超との研究結果",
+      "originalTitle": "Over 25% of people lie to get antibiotics—and their lies aren't even good",
+      "outlet": "Ars Technica",
+      "region": "overseas",
+      "category": "science",
+      "score": 50,
+      "tier": "interest",
+      "pubDate": "2026-10-30T20:17:50.000Z",
+      "body": null,
+      "summary": "抗菌薬を得るために嘘をつく人が25%を超えるとする研究結果が報じられた。見出しでは、その嘘も説得力に欠けるとされている。\n\n米国疾病予防管理センター（CDC）が更新した報告によると、薬剤耐性の細菌や真菌は米国で年間970万件の感染症と5万800人の死亡を引き起こしている。不要な抗菌薬の使用は耐性菌の出現と拡大を招くとされる。\n\n論説を書いたリンダーは、耐性化より患者個人への影響が重要だと述べ、必要のない抗菌薬は利益がなく、副作用や常在菌の乱れによりClostridioides difficile（CDCが「深刻な脅威」に分類）などの感染症を招くおそれがあるとした。さらに、適応のない診断で抗菌薬を処方することは、患者を安心させるための嘘にあたるとみなせると主張し、医師と患者の信頼が損なわれると指摘している。哲学者のシセラ・ボクの1978年の議論も引用されている。\n\nソープらは、患者が嘘をつく理由そのものに対処する必要があるとし、抗菌薬に関するコミュニケーションを改善して、患者の懸念に応え、適切な使用への理解を支え、医師と患者の関係を強化する戦略が必要だと結論づけている。",
+      "sources": [
+        {
+          "outlet": "Ars Technica",
+          "url": "https://arstechnica.com/health/2026/10/over-25-of-people-lie-to-get-antibiotics-and-their-lies-arent-even-good/",
+          "date": "2026-10-30",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "e6a83342c0c5",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+      "headline": "アルトマンCEO、個人PCのRAM保有を「ひどい」と発言",
+      "originalTitle": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+      "outlet": "The Verge",
+      "region": "overseas",
+      "category": "ai",
+      "score": 49,
+      "tier": "interest",
+      "pubDate": "2026-10-30T20:48:43.000Z",
+      "body": null,
+      "summary": "OpenAIのサム・アルトマンCEOは、ポッドキャスト「Cheeky Pint」への出演で、供給不足が続くRAM（コンピュータが作業中のデータを一時的に置くメモリ）について語った。その中で、RAMを個人のPCに搭載することは、データセンターに置くより「ひどい」と述べた。\n\nその理由としてアルトマン氏は、ローカル推論（AIモデルを手元の機器で動かすこと）を求める人が多い点に触れた。オープンソースのモデルを自分のPCで動かせば、データセンターは不要になると多くの人が想定しているが、その直感は逆だという。世界の限られたDRAM（RAMの一種）が個人のPCに置かれ、その多くが5%ほどの時間しか使われないことは、資源配分の観点から非常にひどいと述べた。供給が制約された環境では、クラウドで稼働率を最大限に高めるべきだとしている。\n\n記事によると、ゲーム用PCや開発者向けの端末でも結果は同じになるという。サムスン電子とSKハイニックスなどのメモリメーカーはクラウド事業者と長期契約を結び、OpenAIのStargateなどのプロジェクトは今後数年の世界のRAM生産の多くを確保している。こうした巨額の半導体調達が、ノートPCやスマートフォンの価格が上がっている理由だと記事は伝えている。",
+      "sources": [
+        {
+          "outlet": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+          "date": "2026-10-30",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "0c2917b04dbd",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2610/31/news008.html",
+      "headline": "AIエージェント「実運用」は74.1%、明確な成果は10.0%にとどまる",
+      "originalTitle": "AIエージェントは「実運用」が主流に 「明確な成果」を得る企業の共通点は？",
+      "outlet": "ITmedia AI+",
+      "region": "domestic",
+      "category": "ai",
+      "score": 48,
+      "tier": "interest",
+      "pubDate": "2026-10-30T22:00:00.000Z",
+      "body": null,
+      "summary": "INDUSTRIAL-Xは2026年7月に実施した「AI/DX導入・活用実態調査2026」の結果を公表した。有効回答1031人のうち、生成AIを活用している企業（PoC（概念実証）・試験導入を含む）は60.9%で、全社的に活用している企業は26.7%と前年から7.7ポイント増えた。AIを活用している企業にAIエージェント（自律的にタスクを実行するAI）の活用レベルを尋ねたところ、「本番業務で自律遂行」は14.5%、「半自律運用」は26.0%、「補助利用」は33.6%だった。同社はこの3つを合わせた74.1%を「実運用」に達した企業と位置付け、AIエージェントが実運用の段階に入ったとみている。\n\n一方で企業規模による差は大きく、DXに全社で取り組む企業は大手（従業員1000人以上）が70.1%、中小（100人未満）が12.5%だった。中小企業ではAI・DXとも未着手の企業が約6割を占める。AIを活用する企業の64.5%は成果を実感しているものの、「明確な成果」が出ている企業は10.0%にとどまる。同社はDXの土台がないままAI導入が先行する「DX準備なきAI先行」層をリスクとして挙げ、この層は中小企業が57.1%を占め、専任のAI推進体制を持つのは1.4%だとしている。\n\n同社は成果を分けるのはAIツールの性能ではなく、組織側の4つの要因だと分析している。経営層が積極的に関与する企業は、明確な成果が出ている割合が24.3%で、関与していない企業の6.6%の約3.7倍だった。推進体制では成果が出ている企業の31%が専任体制を持つのに対し、出ていない企業は0%で、全社研修も37.8%対0%だった。活用の厚みについては、6業務以上で使う「全面活用」企業の78.3%が成果を実感し、1～2業務の「点利用」企業は52.6%だった。\n\n成果が出ている領域では、業務時間短縮（72.3%）とコスト削減（41.4%）が上位で、売上・受注増は10.7%にとどまった。同社は、効率化にとどまる「天井」を越えて売上向上や新規事業創出につなげることが今後の課題だとしている。なお、AI活用に関する設問の多くは、生成AIを活用している企業を対象に集計されている。",
+      "sources": [
+        {
+          "outlet": "ITmedia AI+",
+          "url": "https://www.itmedia.co.jp/enterprise/articles/2610/31/news008.html",
+          "date": "2026-10-30",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "0de3f9697e49",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
+      "headline": "スターバックス、ドライブスルーでAI活用の個別化デジタルメニューを検討",
+      "originalTitle": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
+      "outlet": "The Verge",
+      "region": "overseas",
+      "category": "ai",
+      "score": 47,
+      "tier": "spare",
+      "pubDate": "2026-10-30T17:38:04.000Z",
+      "body": null,
+      "summary": "スターバックスのブライアン・ニコルCEOは決算説明会で、顧客が車で到着した際に参加者を認識し、個別化されたデジタルメニューを提示して支払いをより簡単にする体験を検討すると述べた。この発言は、More Perfect Unionが先に伝えていた。\n\n同様の取り組みとして、タコベルはデジタルメニューボードの配置や内容、映像を車ごとに変える技術を試している。マクドナルドも一部のドライブスルーでAI機能を試験中で、チャットボット「ArchIQ」が常連客を識別して「いつもの」注文を可能にするという。\n\nスターバックスは2027年から、ドライブスルーで裏方のAIモデルを試験し、バリスタが注文をより正確かつ効率的に入力できるよう支援する計画である。アプリの検索・発見機能へのAI統合も計画しており、将来は「会話型・エージェント型」の注文を可能にする可能性がある。すでにChatGPT経由での注文を受け付けているほか、従業員がレシピや接客基準などを質問できるAI搭載ツール「Green Dot Assist」を導入している。\n\nただしデジタルメニューの導入時期は明らかではない。ニコル氏は取り組みはまだ「初期段階」だとし、「試し、学び、効果のあるものを拡大する」と述べた。",
+      "sources": [
+        {
+          "outlet": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
+          "date": "2026-10-30",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "d756b882783b",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive",
+      "headline": "アカイ、MPC Sample Keyの画像入手　音程演奏向けの設計か",
+      "originalTitle": "Exclusive details about Akai’s MPC Sample Key",
+      "outlet": "The Verge",
+      "region": "overseas",
+      "category": "it",
+      "score": 46,
+      "tier": "spare",
+      "pubDate": "2026-10-30T21:01:32.000Z",
+      "body": null,
+      "summary": "アカイが新製品「MPC Sample Key」をInstagramで予告し、ソフトウェアをオープンソース化して改造コミュニティが自由に手を加えられるようにする計画を示した。発売時期と価格はまだ明らかになっていない。The Vergeは本製品の独占画像を入手し、機能の一部を伝えている。\n\n本製品は既存の「MPC Sample」と同様に、文脈によって機能が変わる3つのエンコーダー（つまみ）と大型のメインエンコーダーを備える。一方で、MPC Sampleにあったドラムのサンプルを切り刻む「chop」ボタンは見当たらない。専用のピッチホイールとモジュレーションホイールがあることから、記事は音程のあるサンプルを再生する用途向けの設計だとみている。鍵盤は25鍵で、オクターブ範囲を切り替えるボタンもある。なお記事は、当初「37鍵」と記していた点を訂正し、25鍵だとしている。\n\n「chord」と「arp」と表示されたボタンは、それぞれコード再生モードとアルペジエーター（和音を分解して順番に鳴らす機能）とみられると記事は述べる。記事は、アルペジエーターはメロディーやベースに使われることが多く、コードモードはドラムにはほぼ役立たないと指摘する。また、専用のルーパー（ループ録音機能）があるほか、MPC Sampleの「Flex Beat」エフェクトに代わって「Swarm」という機能が搭載されるが、その内容は現時点で明確ではないとしている。\n\n本体には初代MPC Sampleと同様に内蔵のマイクとスピーカーがあり、一体型で音楽制作ができる。背面パネルはまだ確認されていないが、前面の設定項目から、MIDIに加えてモジュラーシンセサイザーと接続するためのCV出力（制御電圧を出す端子）を備えるとみられるとしている。",
+      "sources": [
+        {
+          "outlet": "The Verge",
+          "url": "https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive",
+          "date": "2026-10-30",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "75e2017ed4c5",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "headline": "OpenAIとServiceNow、提携を拡大　業務ツールへのChatGPT連携を強化",
+      "originalTitle": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "outlet": "OpenAI",
+      "region": "overseas",
+      "category": "ai",
+      "score": 46,
+      "tier": "spare",
+      "pubDate": "2026-10-28T13:15:00.000Z",
+      "body": null,
+      "summary": "OpenAIとServiceNowは提携を拡大し、ServiceNowの製品により多くのOpenAIのモデルとエージェントを組み込むとともに、ServiceNowの業務ワークフローをChatGPTとCodexに接続すると発表した。今回の拡大は、1月に発表された提携の上に成り立つものだとしている。両社は、企業がAIを使ってアプリケーションを構築し、IT依頼を処理し、セキュリティ上の問題に対応しやすくすることを目指すと述べる。\n\nChatGPTとServiceNowの新たな連携により、業務の文脈や作業操作がChatGPT内で直接使えるようになる。IT担当者は、類似のインシデントを検索し、変更のリスクを評価し、会話から離れずにServiceNowの記録を更新できる。顧客は自社のServiceNowインスタンス（利用環境）を接続し、利用させる機能を選ぶ。ServiceNowのAction Fabricが既存の業務ルールと権限を適用するため、実行できる操作は組織の設定とアクセス権を反映する。夜間や休日の当番対応（オンコール）の例では、エンジニアがChatGPT内で監視アラートや変更履歴、影響を受けるサービスを確認し、担当チームへの割り当てや修正作業を進められるという。\n\n3つの分野で新機能を開発する計画である。1つ目はアプリ開発で、ServiceNowのAI Workflow FactoryにCodexを統合し、開発者がServiceNowの業務文脈と基盤機能を使ってアプリを作れるようにする。Build AgentとAutonomous EngineerもOpenAIのモデルで動かす。2つ目はサイバーセキュリティで、OpenAIのセキュリティ機能とServiceNowの資産、ID、業務文脈を組み合わせた共同ソリューションにより、脆弱性の調査やリスクの優先順位付け、対応の調整を支援する。3つ目は音声で、Super Intelligence Control Towerにおいて、利用者が音声でAI活用の案件を説明し、評価項目の入力や不足情報の確認を進められるようにする。\n\nServiceNowは、エンジニア部門を超えて全社員にChatGPT WorkとCodexを提供する計画である。エンジニアはCodexを使ってコードの確認、変更、テスト実行を行い、他部門はChatGPT Workを日常業務で使う。ServiceNowは社内のセキュリティ業務にもOpenAIの機能を使う予定である。提供時期について、ServiceNowのMCPプラグイン（AIが外部のツールやデータに接続するための規格を用いた連携機能）はOpenAIのマーケットプレイスで既に利用でき、機能強化は2026年末までに予定される。音声機能は2027年第1四半期、セキュリティ機能は2027年1月に早期アクセスを開始し、同年第2四半期に一般提供される見込みである。AI Workflow FactoryのCodex統合は2027年中に提供される予定だとしている。",
+      "sources": [
+        {
+          "outlet": "OpenAI",
+          "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+          "date": "2026-10-28",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "0896eaf21379",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://xoranth.net/gcc-switch/",
+      "headline": "GCCがswitch文を機械語に変換する仕組みを解説",
+      "originalTitle": "Switch Lowering in GCC",
+      "outlet": "xoranth.net",
+      "region": "overseas",
+      "category": "it",
+      "score": 45,
+      "tier": "spare",
+      "pubDate": "2026-10-31T08:02:26.000Z",
+      "body": null,
+      "summary": "技術ブログ「xoranth.net」の2024年1月14日付記事は、GNUのCコンパイラであるGCCがswitch文を機械語に変換する方法を解説している。前回の記事で、switch文は見た目より複雑な決定木として実装されることを示したとしている。本記事では-O3の最適化を前提としており、ビットセット変換を除く最適化はClangでも対応するとしている。\n\n記事の実験によると、GCCは値が密に並ぶcase（分岐値）をジャンプテーブル（値に応じて飛び先を配列から直接選ぶ仕組み）に変換する。その判断の目安は、caseラベル1つあたりおおむね8エントリ程度だという。値が疎な場合は、比較命令を並べた木構造に変換される。連続する値は比較回数を減らすためにまとめられ、外れ値が1つあっても密な部分はジャンプテーブルにされる。\n\n'0'、'2'、'4'のように連続しない文字の値は、ビットセット（該当する値のビットを立てた定数）とbt命令（指定位置のビットを調べる命令）で判定される例が示されている。ソースコードの解析では、まずcaseをクラスタに分け、ビットテストの候補、次にジャンプテーブルの候補を探し、残りを決定木に変換するという流れが説明されている。",
+      "sources": [
+        {
+          "outlet": "xoranth.net",
+          "url": "https://xoranth.net/gcc-switch/",
+          "date": "2026-10-31",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": "https://news.ycombinator.com/item?id=50314085",
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "df26d5473c41",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
+      "headline": "ブーム社、超音速機の2029年納入に疑問　AI向け発電へ軸足",
+      "originalTitle": "Supersonic airliner in doubt as company shifts to powering AI data centers",
+      "outlet": "Ars Technica",
+      "region": "overseas",
+      "category": "it",
+      "score": 45,
+      "tier": "spare",
+      "pubDate": "2026-10-30T21:41:54.000Z",
+      "body": null,
+      "summary": "超音速機の開発会社ブーム・スーパーソニック（以下ブーム社）が計画する超音速旅客機「Overture」の初号機の2029年納入に対し、初期の顧客であるユナイテッド航空のスコット・カービーCEOが疑問を示した。カービー氏は10月28日に公開されたポッドキャストで、「29年は公式なスケジュールだが、29年には実現せず、もっと時間がかかる」と述べた。同氏は3月にも実現の可能性を「50対50」と評価しており、今回も開発と認証に「乗り越えるべき多くの障害」が残るとして保証はないと述べた。一方で、ショール最高経営責任者（CEO）や同社全般については評価している。\n\n同社は2024年と2025年に実証機XB-1で「ブームレス巡航」を示した。これは超音速をわずかに超える速度で、特定の気象条件のもと高高度を飛ぶことで衝撃波が上方に屈折し、地上への影響が小さくなるマッハカットオフという現象を利用する構想だと説明されている。米連邦航空局（FAA）は2026年6月、米国上空での商業超音速飛行を長年禁じてきた規則を覆す新たな規則案を提案した。これはトランプ大統領の大統領令を受けた規制緩和の動きとされる。ブーム社はアメリカン航空、日本航空、ユナイテッド航空と、払い戻し不可の預託金（金額は非公表）を伴う条件付き契約を結んでおり、Overtureが商用化されれば機体を購入できるという。\n\nブーム社は、AIデータセンター向けの天然ガス・タービン事業を新たな収益源として強化している。10月22日にはコロラド州センテニアルで工場を公開し、42メガワット級のガスタービン「Superpower」の生産を掲げた。同社は2027年半ばに初号機をデータセンター顧客へ納入し、年産を2028年に25基、2029年に50基へ拡大する計画を示した。公開イベントにはエネルギー省のクリス・ライト長官とコロラド州のジャレッド・ポリス知事も出席した。工場は建設中で、タービン部品を製造している段階だと同社は説明している。\n\n一方で、ショール氏は9月25日にX上で、データセンター事業者クルーソーによる29基分、12億5000万ドル規模の購入契約が失われたことを認めた。ショール氏は来年に約250MW分のSuperpowerを他の拠点へ納入するとしたが、顧客は明らかにしていない。試作のタービンコア「Sprint Core」は、Superpowerと超音速機のエンジン「Symphony」の双方に使われる想定で、コロラド航空宇宙港で試験を行い、感謝祭前に初めて点火する計画だとされる。",
+      "sources": [
+        {
+          "outlet": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
+          "date": "2026-10-30",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "b10570d1171f",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+      "headline": "富士フイルム、AI需要受け磁気テープの生産能力を5倍に",
+      "originalTitle": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "outlet": "Ars Technica",
+      "region": "overseas",
+      "category": "it",
+      "score": 44,
+      "tier": "spare",
+      "pubDate": "2026-10-30T17:38:19.000Z",
+      "body": null,
+      "summary": "富士フイルムは、磁気テープの生産能力を2025年度の生産水準と比べて5倍に引き上げると木曜日に発表した。投資額は約100億円（約6300万ドル）で、神奈川工場小田原拠点に投じ、2026年度から2028年度にかけて実施する。同社によればLTO（企業向けデータ保存用の磁気テープ規格）専用施設への投資として過去最大となる。製造設備の拡張と人員の追加を進め、主に最新世代の「FUJIFILM LTO Ultrium10」テープを生産する。\n\n同社は需要拡大の要因として生成AIの普及を挙げ、世界のデータ需要が「指数関数的に増加」していると述べている。クラウド大手やデータセンター事業者は、大容量データを低コストで保存するためにテープの利用を広げており、テープは切り離して金庫などに保管できる。同社は、サイバー攻撃が高度化するなか、テープをネットワークから物理的に切り離すエアギャップの仕組みがランサムウェアなどからデータを守る最後の防御手段になると強調している。\n\n同社によれば、テープの開発は1950年代に始まり、2000年に初のLTO Ultriumテープを発売した。2011年には酸化バリウムフェライトを磁性粒子に用いたテープを初めて商業生産し、2025年にはLTO Ultrium10を発表した。この製品は、酸化バリウムフェライトとストロンチウムフェライトを組み合わせた「微細ハイブリッド磁性粒子」を用いた初の製品だとされる。現行は第10世代で、世代ごとに記憶容量が向上してきたという。",
+      "sources": [
+        {
+          "outlet": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+          "date": "2026-10-30",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "65d255a74525",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
+      "headline": "ダートマス大学、AI利用をめぐりシュネル氏が辞任",
+      "originalTitle": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
+      "outlet": "Ars Technica",
+      "region": "overseas",
+      "category": "ai",
+      "score": 42,
+      "tier": "spare",
+      "pubDate": "2026-10-30T20:40:13.000Z",
+      "body": null,
+      "summary": "ダートマス大学のベイロック学長は、同大学の教務担当副学長（プロボスト）であるシュネル氏の辞任を発表した。記事の見出しは、シュネル氏自身のAI利用が職を失う原因になったと伝えている。スキャンダルがあったにもかかわらず、ベイロック学長は同大学でのAI活用の拡大を求めており、9月には『アトランティック』誌に「なぜダートマスにもっとAIを求めるのか」と題した寄稿を発表していた。学長は大学の指導者が「最も高い基準を自らに課す」べきだと述べ、記事はこれを主に情報開示を意味すると解釈している。\n\n学長は辞任の発表文で、AIをどのように、いつ仕事に取り入れるかについて人によって考えは異なるとしたうえで、リーダーには学生や研究者に求める透明性と人間の判断を自ら示すことが重要だと述べた。一方、シュネル氏は9月に発表した論文「Who Wrote This?」で、AI検出ツールを扱い、「人間が書いた」か「AIが書いた」かという二分法は単純すぎると主張している。同氏は、文章は人間の判断とAIの作業が混ざったものになるとし、どのように書かれても最終的な責任は執筆者が負うべきだとしている。\n\n論文では、シュネル氏が執筆過程でのAI利用を詳細に記している。OpenAIのGPT-5.6 Proに論文の構想や文献の候補を挙げさせ、初期草稿の一部を生成させたが、問題設定、掲載先、議論の方向性、どの事例を中心に据えるかは自身が決めたという。文献の確認、誤りの修正、構成の組み直しも自ら行い、大部分の節を書き直したとしている。言語面の補助としてGPT-5.6 Solを時折使い、投稿前にはGPT-5.6 ProとAnthropicのClaude Fable 5.1に批判的な査読を依頼した。\n\nシュネル氏は、AIを「共著者」とみなすことには反対している。数学的ツールが実質的な貢献をしても著者にはならないとして、「貢献と著者性は異なる役割だ」と主張している。",
+      "sources": [
+        {
+          "outlet": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
+          "date": "2026-10-30",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "538ea1326a6a",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+      "headline": "DoorDashでAIエージェント経由の注文はほとんど使われていない",
+      "originalTitle": "Basically no one is using AI agents for their DoorDash orders",
+      "outlet": "Ars Technica",
+      "region": "overseas",
+      "category": "ai",
+      "score": 42,
+      "tier": "spare",
+      "pubDate": "2026-10-30T19:30:52.000Z",
+      "body": null,
+      "summary": "Ars Technicaの記事は、DoorDashの注文にAIエージェントを使う人はほとんどいないと伝えている。同社は今年夏から社内AIツール「Ask DoorDash」を提供しており、レシピの写真からオンラインの買い物かごを作成したり、「4人家族の夕食」のような曖昧な説明から注文を提案したりできる。\n\nDoorDashは利用状況の詳細な統計を公表していない。ただし同社は先月、Ask DoorDashで作成した買い物かごは、使わない場合より5倍速く作成されると説明した。さらに、Ask DoorDashの注文は平均で買い物かごの金額が約50％高く、同じ利用者の通常の注文より約60％多い種類の商品が含まれるという。注文のほぼ半数は、利用者が試したことのない地元の店舗に届いているとしている。\n\n記事は、DoorDashの現在のAIエージェントによる注文は、1994年にピザハットがオンライン注文を試験的に始めた頃に似ているとの見方を示している。ピザハットは現在、注文の半数以上がオンラインで行われている。記事は、AIエージェントによる食品などの注文も将来は一般的になる可能性があるとしている。\n\nXu氏はAIエージェントについて、「テクノロジーに関しては重力に逆らおうとしないことが大切だ。しかし、妄想的になってはいけない」と述べ、初期の数値にはやや慎重な姿勢を見せているという。",
+      "sources": [
+        {
+          "outlet": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+          "date": "2026-10-30",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "b1311b7a9510",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "science",
+      "url": "https://arstechnica.com/health/2026/10/flesh-eating-screwworms-are-feasting-on-pets-4-dogs-and-cat-attacked-this-week/",
+      "headline": "肉食性のスクリューワーム、米国で3州に拡大しペットも被害",
+      "originalTitle": "Flesh-eating screwworms spread to third state and are attacking pets",
+      "outlet": "Ars Technica",
+      "region": "overseas",
+      "category": "science",
+      "score": 40,
+      "tier": "spare",
+      "pubDate": "2026-10-30T22:36:41.000Z",
+      "body": null,
+      "summary": "米国で、肉を食べるハエの幼虫である「New World Screwworm（NWS、ニューワールド・スクリューワーム）」の感染が、ニューメキシコ州とテキサス州に続き、アリゾナ州でも確認された。ハエは傷口や体の湿った開口部に数百個の卵を産み、かえった幼虫は生体の組織をねじ込むように進んで食べ、重い傷を負わせることがあり、死に至ることもある。\n\n記事によると、6月にハエが米国に再侵入して以降、米国内で74件の動物の症例が確認されている。ハエは1960年代に、繁殖を妨げる不妊化したオスのハエを空から放つ方法で米国から根絶された。長年、パナマとコロンビアの国境にあるダリエン地峡の生物学的な障壁で侵入を防いできたが、2022年にその障壁が破られ、中米を経由して米国に戻ったという。\n\nハエは主に家畜産業への脅威とされるが、野生動物やペット、まれに人間にも被害を及ぼす。記事は、メキシコ保健省の最新データを引用し、再出現以降、メキシコで806件の人への感染が確認され、9人が死亡したと伝えている。",
+      "sources": [
+        {
+          "outlet": "Ars Technica",
+          "url": "https://arstechnica.com/health/2026/10/flesh-eating-screwworms-are-feasting-on-pets-4-dogs-and-cat-attacked-this-week/",
+          "date": "2026-10-30",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "913c65fccd77",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002699/",
+      "headline": "ニチエツ、ベトナム工場向け指示書の翻訳にAIを活用",
+      "originalTitle": "誤訳で“違う製品”を作りかけた？ ベトナム工場への指示書、通訳よりGeminiの方が伝わったワケ",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "ai",
+      "score": 40,
+      "tier": "spare",
+      "pubDate": "2026-10-30T04:00:00.000Z",
+      "body": null,
+      "summary": "ITmedia NEWSの連載「ニッチ企業でもできる！IT活用で海外進出」第18回（2026年10月30日公開）は、産業機械メーカーのニチエツ（横浜市）を取り上げ、中村高志社長へのインタビューを掲載した。ニチエツは、ベトナムの現地法人に送る製品の指示書をAIで翻訳し、生産の正確性と迅速化を図っているという。中村社長は、以前は指示書の翻訳が誤解され生産性が下がっていたと説明している。なお、記事にはSpecialPRの表記がある。\n\n同社は2017年11月に横浜市で創業し、金型交換装置や搬送ロボットを開発、生産している。主力の金型交換装置は、独自の高密度な設計により、床面積を従来品より30〜50％小さくできるとしている。2019年にハノイに現地法人を設立し、2025年にはハノイ近郊のバクニン市の工場を稼働させ、ベトナムでも製造を行っている。\n\n指示書の作成には、Google Workspace上で利用する有料版のGeminiを使っている。Geminiは、Googleの生成AIである。日本語で設計意図や技術的なニュアンス、数式を入力し、技術用語に特化したベトナム語の指示書を出力させることで、現地のエンジニアが理解しやすい資料を迅速に共有できるようになったという。以前は、ベトナム語に堪能な通訳に依頼しても技術知識の不足などから正確に伝わらず、ベトナム工場が誤った内容の製品を作りかけたこともあったとしている。\n\n国内では、装置にトラブルが起きた際にオンラインで状況を聞き取り、プログラムを更新できる仕組みを導入しており、このシステムを導入した製品に限れば国内出張を8割以上削減できたという。中村社長は今後、ベトナムや米国、欧州、インドなどへの展開を計画していると述べた。一方で、搬送ロボットの開発では実機の挙動や音、振動、発熱を直接確かめる必要があるとして、対面での議論の重要性も強調している。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002699/",
+          "date": "2026-10-30",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    }
+  ],
+  "essays": [],
+  "productionNote": {
+    "reachedOutlets": [
+      "The Verge",
+      "OpenAI",
+      "Impress Watch",
+      "Hacker News",
+      "GIGAZINE",
+      "ITmedia AI+",
+      "TechCrunch",
+      "sciencenorway.no",
+      "Ars Technica",
+      "firezone.dev",
+      "xoranth.net",
+      "ITmedia NEWS"
+    ],
+    "unreachedOutlets": [],
+    "excluded": [
+      {
+        "topic": "国際深掘りが当日に扱った3件",
+        "reason": "実行順により先発の系統を優先"
+      }
+    ],
+    "counts": {
+      "deep": 0,
+      "brief": 30,
+      "essays": 0,
+      "chars": 21693
+    },
+    "text": "候補95件から30件を掲載。本文が取れず不採用3件。"
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "date": "2026-10-31",
+  "stream": "intl",
+  "title": "国際深掘り",
+  "generatedAt": "2026-10-31T10:17:56.500Z",
+  "model": "claude-sonnet-5-5",
+  "editorialVersion": 3,
+  "articles": [
+    {
+      "id": "intl-2026-10-31-s-20261030-06",
+      "stream": "intl",
+      "depth": "deep",
+      "section": "followup",
+      "headline": "バイナンスから63億ドル流出、北朝鮮関与を指摘",
+      "originalTitle": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+      "region": "overseas",
+      "category": null,
+      "score": 36,
+      "tier": "should",
+      "pubDate": "2026-10-31T07:00:00+09:00",
+      "body": [
+        {
+          "label": "経過",
+          "text": "バイナンスは、世界最大の暗号資産取引所である。10月29日深夜、ここから約63億ドルが流出した。ストレーツ・タイムズ（ロイター配信）は、大半が約20分間の出来事だったと伝える。\n\n30日、米国の分析会社TRMが、北朝鮮の精鋭ハッキング部隊「トレーダートレイター」の犯行だと高い確信で判断した。同業のチェイナリシスも、同じ見方を示した。バイナンスは約30億ドルを凍結したと説明し、損失は全額補うと表明した。\n\n世界の注目度は、初日の11から36へ上がった。資料の本文では、続報の中心が犯人像、回収の見通し、業界の防御策へ移っている。"
+        },
+        {
+          "label": "各社の見え方",
+          "text": "BBCは、補償の約束が信用できるかを問う。バイナンスは「資金は安全で、損失はすべて補う」と利用者に伝えた。BBCは、2022年に破綻したFTXの経営者が同じ趣旨の説明をしていた、との指摘を紹介する。\n\n専門家は、この約束に法的拘束力があるとは限らないと警告する。ロンドンの弁護士ダニエル・タンケル氏は、利用者との契約で何が約束されたか次第だと述べた。BBCは、ビットコインが5%下がり7万6,800ドルになったとも書く。\n\nガーディアンは、事件そのものより北朝鮮の事情を掘り下げる。国連の専門家パネルは2024年春、2017〜2023年の58件の攻撃を調べていると報告した。被害は計30億ドルで、北朝鮮の外貨収入の半分にあたると推計した。ただし、今回の犯人との結びつきは「まだ証明されていないかもしれない」と断る。\n\nNPRは、犯人特定の根拠と技術面を伝える。TRMは、過去の北朝鮮関連の事件、とくにバイビットの事件と複数の特徴が一致すると述べた。バイナンスの広報は、北朝鮮との関係を問われても、法執行機関と協力して犯人を確認中とだけ答えた。\n\nNyxLabのコク・ティン・ガン氏は、一つの署名が期限のない全権限のトークンを攻撃者に渡したように見える、と述べた。バイナンスは、秘密鍵の漏えいの証拠は見つかっていないと説明している。\n\nCBSは、回収がどれだけ難しいかを説明する。TRMのアリ・レッドボード氏によると、攻撃から1時間以内に、サークルとテザーが計24億ドルを凍結した。ビットコインとイーサ約24億ドルは凍結できず、発行元の手が届かない。\n\nストレーツ・タイムズ（ロイター配信）は、業界の防御に目を向ける。コインベースは鍵を保管する仕組みを調整した。OKXのスター・シュー氏は、ハッキングを即時共有する警報の仕組みが必要だと主張した。GSRの幹部は、業界全体に重大な損失は出ないとの見方を示した。\n\nアルジャジーラは、安全保障と市場の両面を扱う。レッドボード氏は「世界の安全保障の問題であり、単なる暗号資産の窃盗ではない」と述べた。マッコーリー大のショーン・フォーリー氏は、中央集権型の取引所の弱点が露呈したと指摘した。"
+        },
+        {
+          "label": "論点ごとの比較",
+          "text": "凍結額は、媒体ごとに数字が違う。バイナンスは約30億ドルと説明し、BBC、NPR、CBSがこれを伝える。アルジャジーラの見出しは25.4億ドルである。\n\nCBSによれば、サークルとテザーの凍結は計24億ドルだ。ロイターはテザー約15.7億ドルとサークル8億ドルを挙げ、合計は約23.7億ドルになる。CBSは、リップルなども凍結したとTRMの情報で書く。差の内訳は、資料からは断定できない。\n\nビットコインの下落も、時点が違う。BBCは金曜の取引で5%安と書く。ロイターは29日に4%超下がり、30日に一部戻したと書く。\n\n犯人の特定は、確からしさの書き方が分かれた。TRMは高い確信と述べ、ガーディアンは未証明の可能性に触れる。バイナンス自身は、北朝鮮に言及していない。\n\n侵入経路は、各社とも最初の説明がエンジニアのノートPCだった。のちに別の侵害点が見つかったと伝える。"
+        },
+        {
+          "label": "視点の差",
+          "text": "力点は4つに分かれた。BBCは補償の信用、ガーディアンは北朝鮮の資金源、CBSは回収の手順、ロイターは業界の防御を中心に据えた。\n\n取材先にも違いがある。CBSとアルジャジーラはTRMの政策責任者を引く。ロイターは取引所や運用会社の幹部を、BBCは弁護士を引く。力点の差は、誰に話を聞いたかと重なっている。\n\nここは推測。凍結額の食い違いは、各社が数える時点や対象が違うためかもしれない。資料には、その理由を示す記述はない。"
+        }
+      ],
+      "summary": null,
+      "sources": [
+        {
+          "outlet": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-31",
+          "access": "body",
+          "via": null,
+          "note": "補償の約束の信用性を問い、FTXの前例や法的拘束力への警告を紹介。ビットコインは5%安の7万6,800ドル。"
+        },
+        {
+          "outlet": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/30/how-crypto-hacking-funds-isolated-north-korea-nuclear-programme",
+          "date": "2026-10-31",
+          "access": "body",
+          "via": null,
+          "note": "北朝鮮の暗号資産窃盗の歴史と、国連パネルの推計（58件・30億ドル、外貨収入の半分）を整理。"
+        },
+        {
+          "outlet": "NPR",
+          "url": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance",
+          "date": "2026-10-31",
+          "access": "body",
+          "via": null,
+          "note": "TRMとチェイナリシスの帰属判断、バイナンス広報の応答、NyxLabの署名に関する指摘を伝える。"
+        },
+        {
+          "outlet": "CBS News",
+          "url": "https://www.cbsnews.com/news/binance-crypto-hack-stolen-funds-recovery/",
+          "date": "2026-10-31",
+          "access": "body",
+          "via": null,
+          "note": "回収の手順と限界を解説。ビットコインとイーサ約24億ドルは凍結できない。"
+        },
+        {
+          "outlet": "Reuters",
+          "url": "https://www.straitstimes.com/world/united-states/crypto-exchanges-call-for-quick-moves-to-bolster-defences-after-binance-heist",
+          "date": "2026-10-31",
+          "access": "body",
+          "via": "The Straits Times",
+          "note": "各取引所が防御を強化し、OKXが業界横断の警報システムを提案。"
+        },
+        {
+          "outlet": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/10/30/binance-says-2-54bn-in-crypto-funds-frozen-amid-potential-security-issue?traffic_source=rss",
+          "date": "2026-10-30",
+          "access": "body",
+          "via": null,
+          "note": "TRMが北朝鮮の部隊と判断。専門家が安全保障上の問題と中央集権型取引所のリスクを指摘。"
+        },
+        {
+          "outlet": "Sky News",
+          "url": "https://news.sky.com/story/crypto-worth-billions-frozen-over-potential-security-issue-13605627",
+          "date": "2026-10-31",
+          "access": "excerpt",
+          "via": null,
+          "note": "業界関係者が「人類史上最大の銀行強盗」と呼んだと要約文にある。"
+        }
+      ],
+      "continuity": {
+        "previousDate": "2026-10-30",
+        "previousScore": 11,
+        "note": "流出の発覚から、北朝鮮の部隊による犯行との判断、凍結と回収の見通し、業界の防御策へと論点が進んだ。"
+      },
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-sonnet-5-5",
+      "coverage": {
+        "world": "10/18",
+        "jp": "2/6"
+      }
+    },
+    {
+      "id": "intl-2026-10-31-s-20261029-19",
+      "stream": "intl",
+      "depth": "deep",
+      "section": "followup",
+      "headline": "アラスカ上院選、同姓同名候補を巡り司法省が捜査",
+      "originalTitle": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
+      "region": "overseas",
+      "category": null,
+      "score": 13,
+      "tier": "interest",
+      "pubDate": "2026-10-31T07:00:00+09:00",
+      "body": [
+        {
+          "label": "経過",
+          "text": "米アラスカ州の上院選には、同姓同名のダン・サリバン氏が2人出ている。1人は共和党の現職で、もう1人は退職教師のダン・J・サリバン氏だ。29日、ニューヨーク・タイムズ（NYT）が、民主党のペルトラ氏の陣営周辺が後者の出馬を働きかけたと報じた。\n\n州知事は調査を命じた。30日には連邦司法省が、民事と刑事の両面で捜査中だと明らかにした。司法省は連邦判事に、この候補に順位をつけた投票用紙を保全し、分けて保管するよう求めた。\n\n世界の注目度は、8、7と低めに推移し、31日に13へ上がった。選挙は11月3日で、アラスカの議席は接戦とされる。"
+        },
+        {
+          "label": "各社の見え方",
+          "text": "BBCは、捜査の拡大とペルトラ氏本人の否定を中心に据えた。ペルトラ氏は「自分と現職以外の候補者のことは何も知らなかった」と述べた。司法省が関係する民主党関係者に召喚状を出し始めたとも、CBS情報として伝える。\n\nBBCは、NYTが12人に取材し、メッセージも確認したとする。そのうえで、BBC自身は検証していないと断る。起訴は金曜夜の時点でなされていない。弁護士のスコット・ケンドール氏は、違法だったかに懐疑的だと述べた。\n\nNPRは、朝のニュースレターの一項目として短く扱う。知事の調査命令と、民主党の運動員が候補を勧誘したというNYTの内容を伝える。アラスカ公共メディアが取材した選挙法の専門家は、適用できる法律は見当たらないが道義上の一線は越えていると述べた。\n\nストレーツ・タイムズ（ロイター配信）は、法的な成否に絞る。州の選管は一度この候補を掲載から外したが、州裁判所が復活させたと書く。司法省の訴訟は弱いという専門家の見方を並べる。"
+        },
+        {
+          "label": "論点ごとの比較",
+          "text": "違法性の見方は、媒体で少しずつ違う。BBCのケンドール氏は、アラスカ法に候補の善意の要件はないと述べた。NPRの専門家は、適用できる法律がないとする。ロイターの専門家は、連邦の刑事訴追は表現の自由の保護で失敗しそうだと述べた。\n\n一方、ロイターは別の見方も載せる。元上院議員側近の弁護士フラゴソ氏は、「汚い手」は一般に合法だが、有権者を欺くのは別だと述べた。\n\n働きかけた側の呼び方も違う。BBCは「ペルトラ氏の陣営に関係する人々と党組織の幹部」、NPRは「民主党の運動員」と書く。ロイターは、側近が陣営の弁護士や上院選挙委員会の幹部と動いたとする。\n\n検証の断りは、BBCとロイターが明記する。NPRの項目には、その断りがない。ロイターだけが、民主党側が共和党も他の候補を支えたと反論したと書く。"
+        },
+        {
+          "label": "視点の差",
+          "text": "BBCは当局の動きと本人の反応、NPRは要点と倫理、ロイターは法的な実現性を中心に据えた。三者とも、現時点で誰も起訴されていない点では一致する。\n\n見え方が分かれた理由は、資料からは断定できない。\n\nここは推測。ロイターが法的な論点に絞ったのは、訴訟や刑事事件の見通しが読者の関心になると見たためかもしれない。NPRが短い扱いなのは、ニュースレターという形式の制約かもしれない。資料に根拠はない。"
+        }
+      ],
+      "summary": null,
+      "sources": [
+        {
+          "outlet": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-31",
+          "access": "body",
+          "via": null,
+          "note": "ペルトラ氏の否定、司法省の捜査と投票用紙の保全請求、専門家の懐疑的な見方を伝える。"
+        },
+        {
+          "outlet": "NPR",
+          "url": "https://www.npr.org/2026/10/30/g-s1-150889/up-first-newsletter-midterm-elections-iran-war-veteran-affairs-loans",
+          "date": "2026-10-31",
+          "access": "body",
+          "via": null,
+          "note": "ニュースレターの一項目。知事の調査命令と、適用できる法律はないが倫理上は問題とする専門家の見方。"
+        },
+        {
+          "outlet": "Reuters",
+          "url": "https://www.straitstimes.com/world/united-states/is-it-legal-to-recruit-spoiler-candidates-in-us-elections",
+          "date": "2026-10-31",
+          "access": "body",
+          "via": "The Straits Times",
+          "note": "法的論点を整理し、司法省の訴訟と刑事訴追の見通しは厳しいという専門家の見方を並べる。"
+        }
+      ],
+      "continuity": {
+        "previousDate": "2026-10-29",
+        "previousScore": 8,
+        "note": "NYT報道への反応から、知事の調査命令、司法省の民事・刑事捜査、投票用紙の保全請求へと、当局の動きが段階的に進んだ。"
+      },
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-sonnet-5-5",
+      "coverage": {
+        "world": "4/18",
+        "jp": "0/6"
+      }
+    },
+    {
+      "id": "intl-2026-10-31-s-20261030-18",
+      "stream": "intl",
+      "depth": "deep",
+      "section": "followup",
+      "headline": "ホルムズ海峡でタンカー被害、イランは触雷と主張",
+      "originalTitle": "Iran claims 4 tankers hit mines in Strait of Hormuz",
+      "outlet": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-qatar-mediators-new-proposal-end-war/",
+      "region": "overseas",
+      "category": null,
+      "score": 8,
+      "tier": "interest",
+      "pubDate": "2026-10-31T07:00:00+09:00",
+      "body": [
+        {
+          "label": "経過",
+          "text": "2月28日に米国とイスラエルがイランを攻撃して以来、ホルムズ海峡は戦争の焦点になっている。イランは海峡の通航を制限してきた。米国は南側の航路の利用を促し、イランは自国が認めた北側の航路だけを通れと主張する。\n\n29日、イラン革命防衛隊は、3隻のタンカーが過去24時間に触雷し、爆発や火災を起こしたと発表した。30日にも、革命防衛隊は3隻が停止したと述べた。同じ30日、オマーンは炎上した船から25人を救助した。\n\n世界の注目度は、初日の11から8へ下がった。31日のアルジャジーラの見出しは、イランが4隻が炎上したと述べたと伝える。本文は読めていない。"
+        },
+        {
+          "label": "各社の見え方",
+          "text": "CBSは、ライブ更新の形でイラン側の発言を時系列に並べる。革命防衛隊の報道官は、米中央軍に「掃海したという主張を、声明ではなく独立した証拠で示せ」と求めた。イラン海軍は、「禁止区域」を通った船が触雷したと述べ、無調整の通航船には海峡を閉鎖すると警告した。\n\nCBSは、英国の海事機関UKMTOの情報も載せる。南側の航路を出ようとしたタンカーが発射体に被弾したが、誰が撃ったかは不明で、負傷者はいない。イラン海軍が米艦への攻撃を20回超行ったと主張した点には、証拠は示されなかったと添える。\n\nストレーツ・タイムズ（AFP配信）は、救助と米軍側の主張を伝える。オマーンはパナマ船籍のRITIの乗組員25人を救助した。米中央軍のクーパー司令官は、主要航路から機雷を除去したと動画で述べた。\n\nAFPはまた、革命防衛隊が「事故」の中身を明らかにしていないと書く。タンカーは航法装置を切り、米軍の支援で「無許可」の航路を通ろうとしたと、革命防衛隊は主張した。\n\nドイチェ・ヴェレは、緊張の高まりに焦点を当てる。ワシントン近東政策研究所によれば、船への攻撃は戦争開始以来で最も多い。トランプ氏が11月3日の中間選挙後に新たな攻撃を検討していると、広く見られているとも書く。"
+        },
+        {
+          "label": "論点ごとの比較",
+          "text": "被害の原因は、媒体で書き分けられている。イランは機雷に触れたと述べる。CBSが引くUKMTOは、発射体による被弾と伝える。AFPが引くUKMTOも、未確認の発射体としている。\n\nドイチェ・ヴェレは、炎上の原因は不明と書く。\n\n航路の呼び方は正反対である。米側は南の航路を主要な通航路とし、革命防衛隊は同じ航路を無許可と呼ぶ。\n\n掃海の評価も対立する。米中央軍は機雷を除去したと述べ、革命防衛隊は証拠を示せと迫る。どちらの主張も、資料の本文で独立に確認されていない。\n\n隻数も一致しない。\n\n革命防衛隊の発表は、29日に3隻、30日に3隻だ。AFPは、前日にイラン軍が少なくとも4隻と述べたと書く。同じ船を指すかは、資料からは断定できない。"
+        },
+        {
+          "label": "視点の差",
+          "text": "CBSはイランの発言と英国機関の情報を並べ、AFPは救助と米軍の主張を前面に出した。ドイチェ・ヴェレは、次の軍事行動への見通しに力点を置く。本文を読めたのは3媒体で、AFP配信は1媒体と数える。\n\n三者とも、事故の原因を単独の事実として断定していない。この点は共通している。\n\nここは推測。ドイチェ・ヴェレが選挙後の攻撃に触れたのは、船の被害を、戦争の次の段階の予兆として読ませる狙いがあるのかもしれない。資料に根拠はない。"
+        }
+      ],
+      "summary": null,
+      "sources": [
+        {
+          "outlet": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-qatar-mediators-new-proposal-end-war/",
+          "date": "2026-10-31",
+          "access": "body",
+          "via": null,
+          "note": "ライブ更新。革命防衛隊の「掃海の証拠を示せ」との要求と、UKMTOの発射体被弾情報を時系列で伝える。"
+        },
+        {
+          "outlet": "AFP",
+          "url": "https://www.straitstimes.com/world/middle-east/oman-rescues-25-from-burning-ship-iran-halts-tankers",
+          "date": "2026-10-31",
+          "access": "body",
+          "via": "The Straits Times",
+          "note": "オマーンが25人を救助。米中央軍は主要航路の掃海完了を主張し、革命防衛隊は無許可航路での停止を主張。"
+        },
+        {
+          "outlet": "Deutsche Welle",
+          "url": "https://www.dw.com/en/ship-reported-on-fire-off-oman-as-iran-escalation-fears-mount/a-79792733?maca=en-rss-en-world-4025-rdf",
+          "date": "2026-10-30",
+          "access": "body",
+          "via": null,
+          "note": "船舶火災の原因は不明。攻撃は戦争開始以来で最多とされ、選挙後の新たな攻撃が懸念される。"
+        },
+        {
+          "outlet": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/iran-says-four-tankers-on-fire-after-striking-mines-in-hormuz?traffic_source=rss",
+          "date": "2026-10-31",
+          "access": "headline",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": {
+        "previousDate": "2026-10-30",
+        "previousScore": 11,
+        "note": "触雷とされる被害が続く一方、米中央軍が掃海完了を主張し、主張が真っ向から対立する局面に入った。"
+      },
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-sonnet-5-5",
+      "coverage": {
+        "world": "3/18",
+        "jp": "0/6"
+      }
+    }
+  ],
+  "essays": [],
+  "productionNote": {
+    "reachedOutlets": [
+      "BBC",
+      "The Guardian",
+      "NPR",
+      "CBS News",
+      "Reuters（Straits Times経由）",
+      "Al Jazeera",
+      "AFP（Straits Times経由）",
+      "Deutsche Welle"
+    ],
+    "unreachedOutlets": [
+      "Sky News（抜粋のみ）",
+      "Associated Press",
+      "Bloomberg",
+      "Financial Times"
+    ],
+    "excluded": [],
+    "counts": {
+      "deep": 3,
+      "brief": 0,
+      "essays": 0,
+      "chars": 4277
+    },
+    "text": "資料3件すべてを掲載。独立した本文の数は、バイナンスが6（BBC・ガーディアン・NPR・CBS・ロイター配信・アルジャジーラ。Skyは抜粋のみ）、アラスカが3（BBC・NPR・ロイター配信）、ホルムズが3（CBS・AFP配信・DW。アルジャジーラは見出しのみ）。各話題の本文字数（空白除く）は 1749、1216、1312。アラスカとホルムズは材料が限られ、NPRはニュースレターの一項目、CBSはライブ更新の断片のため、論点の比較は限定的。日本は当事者ではなく、本文にも日本が出ないため、日本との関わりの節は置かなかった。字数が下限に満たない話題は、水増しを避けたため。"
+  }
+}
