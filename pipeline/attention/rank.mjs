@@ -28,8 +28,8 @@ const CONTINUE_DAYS = 5;   // 何日前までの話題を引き継ぎ対象に�
 const KEEP_DAYS = 30;      // 台帳に残す日数
 
 if (fs.existsSync(path.join(ROOT, '.env'))) process.loadEnvFile(path.join(ROOT, '.env'));
-if (!process.env.GEMINI_API_KEY) throw new Error('GEMINI_API_KEY が設定されていません');
-initGemini(process.env.GEMINI_API_KEY);
+if (process.env.LLM_PROVIDER !== 'claude' && !process.env.GEMINI_API_KEY) throw new Error('GEMINI_API_KEY が設定されていません');
+initGemini(process.env.GEMINI_API_KEY || 'unused');
 
 const date = new Date(Date.now() + 9 * 3600e3).toISOString().slice(0, 10);
 const file = process.argv[2] || path.join(WORK, `${date}-headlines.json`);

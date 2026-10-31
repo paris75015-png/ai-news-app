@@ -4,7 +4,7 @@
  * 内容を変えたら EDITORIAL_VERSION を上げる（生成データに記録され、いつの基準で作ったか追跡できる）。
  */
 
-export const EDITORIAL_VERSION = 12;
+export const EDITORIAL_VERSION = 13; // 13：採点・要約を Claude Haiku に切り替えた（2026-11-01）
 
 // 無料枠で混雑（503/429）したら次のモデルに切り替える。
 // 採点は1日1回なので最上位モデルから。要約は回数が多いので、回数上限の緩いモデルから使う。

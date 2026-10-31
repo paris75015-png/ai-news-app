@@ -2,9 +2,9 @@
  * 共通の Article 型。
  * 3つの系統（AI日報・国内深掘り・国際深掘り）が、すべてこの形で書き出す。
  *
- *   AI日報     … pipeline/build.mjs（GitHub Actions・Gemini/Groq）が public/data/ai.json へ
+ *   AI日報     … pipeline/build.mjs（GitHub Actions・Claude Haiku）が public/data/ai.json へ
  *   国内深掘り … クラウドの定期実行（Claude）が public/data/domestic.json へ
- *   国際深掘り … クラウドの定期実行（Claude）が public/data/intl.json へ
+ *   国際深掘り … 毎朝のワークフローの中で Claude Sonnet が public/data/intl.json へ
  *
  * 編集方針は editorial/ にある。
  *

@@ -170,8 +170,8 @@ function gapWeight(jpCount) {
 async function main() {
   if (fs.existsSync(path.join(ROOT, '.env'))) process.loadEnvFile(path.join(ROOT, '.env'));
   if (!dryRun) {
-    if (!process.env.GEMINI_API_KEY) throw new Error('GEMINI_API_KEY が設定されていません');
-    initGemini(process.env.GEMINI_API_KEY);
+    if (process.env.LLM_PROVIDER !== 'claude' && !process.env.GEMINI_API_KEY) throw new Error('GEMINI_API_KEY が設定されていません');
+    initGemini(process.env.GEMINI_API_KEY || 'unused');
   }
   console.log(`[longread] ${date} テーマ：${theme.label}`);
 

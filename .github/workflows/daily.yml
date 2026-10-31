@@ -1,0 +1,141 @@
+name: 毎朝のニュース
+
+# 1日1回、次を順番に行って公開する。前の処理が終わってから次が始まるので、時刻のずれで空振りしない。
+#   1. 世界の注目度：見出しの収集 → 話題にまとめる（Haiku）→ 深掘りの資料づくり（本文の取得）→ 短信（Haiku）
+#   2. 国際深掘り：資料を読んで書く（Sonnet）
+#   3. AI日報：収集 → 採点・重複の除去・要約（Haiku）
+#   4. 保存して公開ページを作り直す
+# AI はすべて Claude の定額プランの枠で動く（CLAUDE_CODE_OAUTH_TOKEN。claude setup-token で作る）。API の課金はない。
+# どれかが失敗しても、残りは最後まで動かして公開する。そのうえで実行全体を「失敗」にし、GitHub から通知メールを届かせる。
+
+on:
+  schedule:
+    # 平日 02:07（日本時間）。GitHub の定時実行は数時間遅れることがあるので、朝の通勤前に間に合うよう早めにしている
+    # 17:07 UTC + 9時間 = 翌日 02:07 JST。UTC では日〜木に当たる
+    - cron: '7 17 * * 0-4'
+  workflow_dispatch:        # Actions 画面の「Run workflow」で手動実行できる
+  push:
+    branches: [main]        # コードを更新したときは、ニュース処理なしで公開ページだけ作り直す。
+                            # commit メッセージに [run] を含めると、ニュース処理も行う
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  daily:
+    runs-on: ubuntu-latest
+    timeout-minutes: 100
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    env:
+      RUN_NEWS: ${{ github.event_name != 'push' || contains(github.event.head_commit.message, '[run]') }}
+      LLM_PROVIDER: claude                       # pipeline/gemini.js が Gemini の代わりに Claude を呼ぶ
+      CLAUDE_MODEL: claude-haiku-5-5
+      CLAUDE_CODE_MAX_OUTPUT_TOKENS: '64000'
+      GEMINI_API_KEY: unused                     # 各処理の起動時の確認を通すだけ。Gemini は呼ばれない
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+
+      - name: Claude の準備と認証の確認
+        if: env.RUN_NEWS == 'true'
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        run: |
+          npm install -g @anthropic-ai/claude-code >/dev/null 2>&1
+          claude --version </dev/null
+          # トークンは貼り付け時に改行・空白が混ざりやすい。取り除いて以降の処理に渡す
+          TOKEN="$(printf %s "$CLAUDE_CODE_OAUTH_TOKEN" | tr -d '[:space:]')"
+          echo "::add-mask::$TOKEN"
+          echo "CLAUDE_CODE_OAUTH_TOKEN=$TOKEN" >> "$GITHUB_ENV"
+          echo "OK とだけ返す" | CLAUDE_CODE_OAUTH_TOKEN="$TOKEN" claude -p --model "$CLAUDE_MODEL" --tools "" --output-format json --no-session-persistence \
+            | python3 -c "import json,sys; d=json.load(sys.stdin); print('認証:', 'NG ' + str(d.get('result'))[:200] if d.get('is_error') else 'OK'); sys.exit(1 if d.get('is_error') else 0)" \
+            || { echo "::error::Claude の認証が通らない。claude setup-token で作り直し、リポジトリの Secrets の CLAUDE_CODE_OAUTH_TOKEN を登録し直す"; exit 1; }
+
+      - name: 1. 世界の注目度（見出し → 話題 → 資料）
+        id: attention
+        if: env.RUN_NEWS == 'true'
+        continue-on-error: true
+        run: |
+          node pipeline/attention/fetch.mjs
+          node pipeline/attention/rank.mjs
+          node pipeline/attention/dossier.mjs
+
+      - name: 1b. 世界の注目度（短信）
+        id: briefs
+        if: env.RUN_NEWS == 'true' && steps.attention.outcome == 'success'
+        continue-on-error: true
+        run: node pipeline/attention/briefs.mjs
+
+      - name: 2. 国際深掘り（Sonnet が資料を読んで書く）
+        id: intl
+        if: env.RUN_NEWS == 'true' && steps.attention.outcome == 'success'
+        continue-on-error: true
+        run: |
+          DATE="$(TZ=Asia/Tokyo date +%F)"
+          if ! ls data/dossiers/"$DATE"-*.json >/dev/null 2>&1; then
+            echo "本日は資料なし（数日続いた話題がない）。国際深掘りは前回分のまま"
+            exit 0
+          fi
+          ls data/dossiers/"$DATE"-*.json
+          claude -p --model claude-sonnet-5-5 \
+            --allowedTools "Read" "Write" "Edit" "Glob" "Grep" "Bash(ls:*)" "Bash(node:*)" "Bash(date:*)" "Bash(TZ=Asia/Tokyo date:*)" \
+            --disallowedTools "WebFetch" "WebSearch" \
+            --output-format json --no-session-persistence \
+            < pipeline/intl-prompt.md > intl-result.json
+          python3 -c "import json;d=json.load(open('intl-result.json'));u=d.get('usage',{});print('[sonnet]', 'エラー' if d.get('is_error') else '完了', '出力', u.get('output_tokens'), 'トークン'); print(str(d.get('result'))[:1500])"
+          # 書けたかを機械的に確かめる（「資料はあるのに出ていない」を見逃さない）
+          node -e "
+            const fs=require('fs'); const d=JSON.parse(fs.readFileSync('public/data/intl.json','utf8'));
+            if (d.date !== '$DATE') throw new Error('intl.json が本日分になっていない（' + d.date + '）');
+            if (!fs.existsSync('public/data/archive/$DATE-intl.json')) throw new Error('アーカイブがない');
+            console.log('国際深掘り', d.articles.length, '件');"
+
+      - name: 3. AI日報
+        id: ai
+        if: env.RUN_NEWS == 'true'
+        continue-on-error: true
+        run: npm run news
+
+      - name: 保存（途中で失敗しても、できた分は保存する）
+        if: always() && env.RUN_NEWS == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/data data
+          git diff --cached --quiet && exit 0
+          git commit -m "毎朝のニュース $(TZ=Asia/Tokyo date +%F)"
+          for i in 1 2 3; do git pull --rebase && git push && exit 0; sleep 10; done
+          exit 1
+
+      - run: npm run build
+        if: always()
+      - uses: actions/configure-pages@v6
+        if: always()
+      - uses: actions/upload-pages-artifact@v5
+        if: always()
+        with:
+          path: dist
+      - id: deployment
+        if: always()
+        uses: actions/deploy-pages@v5
+
+      - name: 結果の確認（失敗があれば通知メールが届くよう、実行全体を失敗にする）
+        if: always() && env.RUN_NEWS == 'true'
+        run: |
+          echo "世界の注目度: ${{ steps.attention.outcome }} / 短信: ${{ steps.briefs.outcome }} / 国際深掘り: ${{ steps.intl.outcome }} / AI日報: ${{ steps.ai.outcome }}"
+          for o in "${{ steps.attention.outcome }}" "${{ steps.briefs.outcome }}" "${{ steps.intl.outcome }}" "${{ steps.ai.outcome }}"; do
+            [ "$o" = "failure" ] && { echo "::error::失敗した処理がある。上のログを確認する"; exit 1; }
+          done
+          echo "すべて完了"

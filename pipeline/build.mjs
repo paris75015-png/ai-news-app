@@ -124,8 +124,8 @@ function normalizeUrl(u) {
 async function main() {
   if (fs.existsSync(path.join(ROOT, '.env'))) process.loadEnvFile(path.join(ROOT, '.env'));
   if (!dryRun) {
-    if (!process.env.GEMINI_API_KEY) throw new Error('GEMINI_API_KEY が設定されていません');
-    initGemini(process.env.GEMINI_API_KEY);
+    if (process.env.LLM_PROVIDER !== 'claude' && !process.env.GEMINI_API_KEY) throw new Error('GEMINI_API_KEY が設定されていません');
+    initGemini(process.env.GEMINI_API_KEY || 'unused');
     initGroq(process.env.GROQ_API_KEY);
     console.log(`[build] Groq: ${groqAvailable() ? '有効' : '未設定（Gemini のみで要約）'}`);
   }

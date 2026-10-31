@@ -4,11 +4,11 @@
 
 | 系統 | 方針 | 生成するのは | 出力先 |
 |---|---|---|---|
-| 世界の注目度 | `pipeline/attention/` | GitHub Actions（Gemini・無料枠） | `public/data/attention/latest.json` |
-| 国際深掘り | [国際深掘り.md](国際深掘り.md) | クラウドの定期実行（Claude Sonnet 5.5） | `public/data/intl.json` |
-| AI日報 | [AI日報.md](AI日報.md) と `pipeline/editorial.js` | GitHub Actions（Gemini / Groq・無料枠） | `public/data/ai.json` |
+| 世界の注目度 | `pipeline/attention/` | Claude Haiku | `public/data/attention/latest.json` |
+| 国際深掘り | [国際深掘り.md](国際深掘り.md) | Claude Sonnet（指示は `pipeline/intl-prompt.md`） | `public/data/intl.json` |
+| AI日報 | [AI日報.md](AI日報.md) と `pipeline/editorial.js` | Claude Haiku | `public/data/ai.json` |
 | 国内深掘り | （2026-10-01 に廃止。過去の紙面は残す） | — | `public/data/archive/*-domestic.json` |
-| 読み物の資料（試験中） | `pipeline/longread/` | GitHub Actions（Gemini・無料枠） | `data/longread/`（まだ紙面には出さない） |
+| 読み物の資料（試験中・手動のみ） | `pipeline/longread/` | Claude Haiku | `data/longread/`（まだ紙面には出さない） |
 
 3系統に共通する規則は [共通.md](共通.md) にある。**各方針を読む前に必ず共通.md を読むこと。**
 
@@ -18,19 +18,23 @@
 海外については、日経の枠の外から世界を見るために、次の3つを置く。
 
 ```
-世界の注目度  海外18媒体＋日本5媒体の見出しの並び順から、何が注目されているかを点数にする。機械処理
+世界の注目度  海外18媒体＋日本6媒体の見出しの並び順から、何が注目されているかを点数にする。機械処理
 国際深掘り    数日続いた話題を、複数媒体の本文を比べて読み解く。初日の速報は扱わず、2〜3日目を狙う
 AI日報        AI・IT・科学技術。広く浅く、当日の動きを一覧で
 ```
 
 ## 実行順
 
+平日 02:07 JST に、1本のワークフロー（`.github/workflows/daily.yml`）が次を**順番に**行う。前の処理が終わってから次が始まる。
+
 ```
-03:20 JST  世界の注目度  → public/data/attention/（順位表）、data/dossiers/（深掘りの資料）   Actions・平日
-07:30 JST  国際深掘り    → public/data/intl.json                                          資料を読んで書く
-11:30 JST  国際深掘り（予備） 当日分がまだ出ていなければ書く。出ていれば何もしない
-16:43 JST  AI日報        → public/data/ai.json
+1. 世界の注目度  → public/data/attention/（順位表・短信）、data/dossiers/（深掘りの資料）
+2. 国際深掘り    → public/data/intl.json      資料を読んで書く。資料がない日は前回分のまま
+3. AI日報        → public/data/ai.json        国際深掘りの当日分を読み、同じ出来事を落とす
+4. 保存して公開ページを作り直す
 ```
+
+どれかが失敗しても残りは動かして公開し、実行全体を「失敗」にして通知メールを届かせる。
 
 国際深掘りは**資料だけを材料にする**（クラウドの実行環境は本文の取得を遮断されるため）。
 本文の取得は Actions が行い、その結果を資料としてリポジトリに置く。
@@ -43,22 +47,16 @@ AI日報        AI・IT・科学技術。広く浅く、当日の動きを一覧
 - テーマは曜日で替える。月＝政治、火＝経済、水＝社会、木＝紛争・安全保障、金＝その週に残った話題
 - 材料は、本文まで取れる海外の論考・報道（`pipeline/longread/sources.js`）。速報の見出しではなく論考を芯にする
 - 必読にするのは「世界では扱われているのに、日本語の報道では扱いが薄い」話題。Google ニュース日本語版の直近7日の記事数で測る
-- Gemini は記事を話題ごとにまとめるだけで、文章は書かない。書くのは Claude の定期実行（切り替えたとき）
+- Haiku は記事を話題ごとにまとめるだけで、文章は書かない。書くのは国際深掘りの Sonnet（切り替えたとき）
 
 資料の質を1週間ほど見てから、国際深掘りの方針（国際深掘り.md）を書き換えるかを決める。
 
-## 比較試験：Gemini 無料枠と Claude Haiku（2026-11-02〜06）
+## AI の切り替え（2026-11-01）
 
-Gemini が担っている処理（世界の注目度の順位づけと短信、読み物の資料のまとめ、AI日報の採点・重複判定・要約）を、
-同じ時刻に Claude Haiku でも行い、どちらの仕事が良いかを1週間比べる。**紙面は Gemini 版のまま変えない。**
-
-- 各ワークフローの `haiku` ジョブが、Gemini 版と同じきっかけで動く。処理は `pipeline/compare/haiku.sh`
-- Haiku は Claude Code の CLI（`claude -p`）で呼ぶ。定額プランの範囲で動き、API の課金はない（`CLAUDE_CODE_OAUTH_TOKEN`）
-- 国際深掘りの Haiku 版は、Haiku 版の資料を Sonnet が読んで書く（`pipeline/compare/intl-sonnet.md`）
-- AI日報の上位10件の要約は、両版とも Groq が担当する（Gemini の担当分だけを替えるため）
-- 記録は `haiku-compare` ブランチ。`state/` に Haiku 版の出力（main と同じ場所の名前）、`logs/{日付}/` に実行記録とトークン数
-- 同じニュースを拾うとは限らない。Haiku 版は自分の台帳・既出記録で、日を追って独立に動く
-- 期間後は何もしない。終わったら `haiku` ジョブと `pipeline/compare/` を消す
+それまでは Gemini・Groq の無料枠と claude.ai の定期実行を、時刻でつないでいた。
+無料枠の混雑で AI日報が欠け、GitHub の定時実行の遅れで国際深掘りが8営業日続けて空振りした（2026-10-21〜30）。
+1週間の比較試験（Gemini と Claude Haiku）を予定していたが、取りやめて Claude に一本化した。
+10/31 の試運転では、1日分の全処理が定額枠の中で完走した。
 
 ## 変更したとき
 

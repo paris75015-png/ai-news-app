@@ -5,9 +5,10 @@
  * 通信エラー（fetch failed）も混雑と同じに扱う。
  * retryWaitsMs を渡すと、全モデルが混雑したときに、その間隔で待って最初のモデルからやり直す。
  *
- * 比較試験（2026-11、Haiku 版）：環境変数 LLM_PROVIDER=claude のときは、Gemini を呼ばずに
- * Claude Code の CLI（claude -p）で CLAUDE_MODEL（既定 claude-haiku-5-5）を呼ぶ。models は無視する。
- * 指示文・材料は Gemini 版と同じものを渡す。JSON の形は強制できないので、指示文の末尾でスキーマを示す。
+ * 2026-11-01 から本番は Claude（定額プランの枠）で動かしている：環境変数 LLM_PROVIDER=claude のときは、
+ * Gemini を呼ばずに Claude Code の CLI（claude -p）で CLAUDE_MODEL（既定 claude-haiku-5-5）を呼ぶ。models は無視する。
+ * 設定は .github/workflows/daily.yml。Gemini の経路は、手元で試すときのために残している。
+ * JSON の形は強制できないので、指示文の末尾でスキーマを示す。
  */
 
 import { spawn } from 'node:child_process';
@@ -16,10 +17,10 @@ import { TEMPERATURE } from './editorial.js';
 
 const USE_CLAUDE = process.env.LLM_PROVIDER === 'claude';
 const CLAUDE_MODEL = process.env.CLAUDE_MODEL || 'claude-haiku-5-5';
-/** Claude で使ったトークンの合計（比較の記録用） */
+/** Claude で使ったトークンの合計（定額枠の使い具合を見るための記録） */
 export const claudeUsage = { calls: 0, failures: 0, inputTokens: 0, outputTokens: 0, cacheReadTokens: 0, ms: 0 };
 if (USE_CLAUDE) {
-  // 比較の記録：実行の最後に、呼び出し回数・失敗・トークン数を1行で残す（API で払った場合の費用の見積もりに使う）
+  // 実行の最後に、呼び出し回数・失敗・トークン数を1行で残す（定額枠に収まっているかを見るため）
   process.on('exit', () => console.log(`[claude] 合計 ${JSON.stringify({ model: CLAUDE_MODEL, ...claudeUsage })}`));
 }
 

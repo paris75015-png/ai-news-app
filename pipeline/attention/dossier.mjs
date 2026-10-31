@@ -7,7 +7,8 @@
  *   - 今日の海外の取り上げ媒体が 3 以上
  *   - 今日の点数が、初日から続けて「順位上位 12 以内」または「最高点の 40% 以上」を保っている
  *   - 資料をまだ作っていない
- *   上限は 1 日 5 話題（Sonnet の定期実行のリミットを守るため）
+ *   上限は 1 日 3 話題（国際深掘りの方針の上限。Claude の定額枠の節約にもなる）
+ *   本文を読めた媒体が 2 未満の話題は、資料にせず次の候補に回す（深掘りの方針で見送りになるため）
  *
  * 出力  data/dossiers/YYYY-MM-DD-{id}.json
  *       本文を読めた媒体は access:"body"、フィードの要約文だけ読めた媒体は "excerpt"、
@@ -27,7 +28,8 @@ const ROOT = path.resolve(import.meta.dirname, '../..');
 const STORIES_FILE = path.join(ROOT, 'data', 'attention', 'stories.json');
 const LATEST = path.join(ROOT, 'public', 'data', 'attention', 'latest.json');
 const OUT = path.join(ROOT, 'data', 'dossiers');
-const MAX_PER_DAY = 5;
+const MAX_PER_DAY = 3;
+const MIN_BODIES = 2;          // これ未満の本文しか取れない話題は資料にしない
 const MAX_BODIES = 14;         // 1話題あたり本文を取る最大の媒体数（直接フィードの媒体は全部取る）
 const MAX_CHARS = 9000;        // 1本文あたりの上限
 const READER_FALLBACK = process.env.READER_FALLBACK !== '0';
@@ -58,13 +60,14 @@ const picked = latest.ranking
     if (days < 2 || days > 3) return false;
     if (Number(r.worldCoverage.split('/')[0]) < 3) return false;
     return rankOf[r.id] <= 12 || r.worldScore >= 0.4 * peak;
-  })
-  .slice(0, MAX_PER_DAY);
+  });
 
-console.log(`資料の対象 ${picked.length}件：${picked.map(p => p.title).join(' / ') || 'なし'}`);
+console.log(`資料の候補 ${picked.length}件（上限 ${MAX_PER_DAY}件）：${picked.map(p => p.title).join(' / ') || 'なし'}`);
+let written = 0;
 fs.mkdirSync(OUT, { recursive: true });
 
 for (const r of picked) {
+  if (written >= MAX_PER_DAY) break;
   const s = registry.stories[r.id];
   // 記録された全日の見出しから、直接読める媒体を新しい日から優先して選ぶ
   const seenOutlet = new Set();
@@ -116,8 +119,13 @@ for (const r of picked) {
     bodyCount: sources.filter(x => x.access === 'body').length,
     excerptCount: sources.filter(x => x.access === 'excerpt').length,
   };
+  if (dossier.bodyCount < MIN_BODIES) {
+    console.log(`  見送り：${r.title}（本文 ${dossier.bodyCount}媒体）`);
+    continue;
+  }
   fs.writeFileSync(path.join(OUT, `${date}-${r.id}.json`), JSON.stringify(dossier, null, 1));
   s.dossier = date;
+  written++;
   console.log(`  ${r.title}：本文 ${dossier.bodyCount}（代行 ${sources.filter(x => x.method === 'reader').length}） / 要約 ${dossier.excerptCount} / 見出しのみ ${dossier.sources.length - dossier.bodyCount - dossier.excerptCount}`);
 }
 

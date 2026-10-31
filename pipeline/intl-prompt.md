@@ -1,6 +1,5 @@
 国際深掘りの本日分を、用意された資料から書いてください。
-これは比較試験用の「Haiku 版」です。資料（data/dossiers/）は、世界の注目度の順位づけを Claude Haiku が行って作ったものです。
-書き方・守ることは、毎朝の国際深掘り（Gemini 版の資料から書くもの）とまったく同じです。
+（毎朝のワークフロー .github/workflows/daily.yml が、資料づくりの直後にこの指示で Claude Sonnet を呼ぶ）
 
 ## 最初に日付を確定させる（重要）
 
@@ -34,7 +33,6 @@
 
 型は src/article.js、出力の細則は editorial/国際深掘り.md にあります。
 model には claude-sonnet-5-5 を、editorialVersion には editorial/国際深掘り.md の冒頭にある値を書いてください。
-productionNote.text の先頭に「Haiku 版の資料から作成。」と書いてください。
 
 ## 完了時
 

@@ -25,8 +25,8 @@ const BODY_CHARS = 1800;
 const MIN_WORLD_COVERAGE = 3; // (A) は海外 3 媒体以上が取り上げた話題だけ
 
 if (fs.existsSync(path.join(ROOT, '.env'))) process.loadEnvFile(path.join(ROOT, '.env'));
-if (!process.env.GEMINI_API_KEY) throw new Error('GEMINI_API_KEY が設定されていません');
-initGemini(process.env.GEMINI_API_KEY);
+if (process.env.LLM_PROVIDER !== 'claude' && !process.env.GEMINI_API_KEY) throw new Error('GEMINI_API_KEY が設定されていません');
+initGemini(process.env.GEMINI_API_KEY || 'unused');
 
 const latest = JSON.parse(fs.readFileSync(path.join(DIR, 'latest.json'), 'utf8'));
 const { date, ranking, measured } = latest;
