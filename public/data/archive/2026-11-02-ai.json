@@ -1,0 +1,740 @@
+{
+  "date": "2026-11-02",
+  "stream": "ai",
+  "title": "AI日報",
+  "generatedAt": "2026-11-01T21:22:09.467Z",
+  "model": "claude-haiku-5-5",
+  "editorialVersion": 13,
+  "categories": [
+    {
+      "id": "ai",
+      "label": "AI",
+      "desc": "AIモデル・AIサービス・AI企業の動向"
+    },
+    {
+      "id": "it",
+      "label": "IT",
+      "desc": "ソフトウェア開発・ネットサービス・セキュリティ・デバイス・通信（AIが主題のものは除く）"
+    },
+    {
+      "id": "science",
+      "label": "科学",
+      "desc": "研究成果・医療・宇宙・環境・エネルギー技術"
+    }
+  ],
+  "articles": [
+    {
+      "id": "d47dca67557a",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
+      "headline": "FBI、Binanceからの約63億ドル相当の暗号資産盗難を北朝鮮の犯行と発表",
+      "originalTitle": "North Korea linked to massive Binance crypto heist",
+      "outlet": "The Verge",
+      "region": "overseas",
+      "category": "it",
+      "score": 82,
+      "tier": "must",
+      "pubDate": "2026-11-01T14:33:11.000Z",
+      "body": null,
+      "summary": "FBIは、2026年10月29日ごろに暗号資産取引所Binanceで発生した大規模な暗号資産の盗難について、北朝鮮の犯行だと発表した。盗難額は約63億ドルで、FBIの声明では60億ドルを超えるとされている。FBIはこの北朝鮮による活動を「TraderTraitor」と名付けている。\n\nFBIは、ハッキングに関与したとみられる実行犯が盗まれた資産の多くをイーサリアム（ETH）に変換しているのを確認したと明らかにした。今後はDeFi（ブロックチェーン上で仲介者を介さずに行う金融サービス）や即時交換サービスを使って資金洗浄（マネーロンダリング）を行うとみられている。FBIは米シークレットサービス（USSS）、内国歳入庁犯罪捜査部（IRS-CI）と連携しているとしたが、他の詳細や証拠はほとんど示していない。\n\nBinanceは事件直後に顧客の出金を凍結していたが、記事によると出金を再開した。この情報はFBIの発表に基づくもので、記事は独自の検証結果を示してはいない。",
+      "sources": [
+        {
+          "outlet": "The Verge",
+          "url": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
+          "date": "2026-11-01",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "c999b40c8688",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.itmedia.co.jp/news/article/2611/01/2000002776/",
+      "headline": "OpenAIやGoogleなど、AI学習拒否をrobots.txtで一括指定へ",
+      "originalTitle": "AI学習への利用拒否をrobots.txtで一括指定へ OpenAIやGoogleなどが対応表明",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "ai",
+      "score": 79,
+      "tier": "must",
+      "pubDate": "2026-10-31T23:31:07.000Z",
+      "body": null,
+      "summary": "OpenAI、Google、Microsoftの3社は10月30日（現地時間）、Webサイト運営者がAI学習へのコンテンツ利用に関する意向を複数のAI企業にまとめて伝えられる共通の仕組みに対応する方針をそれぞれ発表した。Anthropicも実装を進めている。この仕組みは、Anthropicの標準化担当者ケビン・ケリー氏が同日付で標準化団体IETF（Internet Engineering Task Force）にInternet-Draft（インターネット標準の草案）として提出した提案に基づく。ただし提出されたのは個人名義のドラフトで、現時点ではIETFの標準化プロセス上の正式な地位を持たない。\n\n従来、Webサイト運営者はAI企業ごとにクローラーを識別し、それぞれにルールを書き分ける必要があった。新方式では、クローラーのアクセスを制御するrobots.txtに共通のポリシートークン「__usage_ai-training」を記述する。その下で「Disallow」を指定するとAI学習への利用を拒否、「Allow」を指定すると許可の意向を示せる。例えば「Disallow: /」と「Allow: /press-kit/」を組み合わせると、/press-kit/以下を除く全パスについて学習への利用を拒否する意思表示になる。この指定はクロールの禁止とは独立しており、クロールの制限は従来どおり各クローラー向けのルールで行う。トークンを指定しなければ、AI学習について特段の意向を表明していないと解釈される。\n\nOpenAIは今後数カ月以内の対応を目指し、実装時に詳細を公表するとしている。Googleは他のAI企業とともに2027年の対応を目指しており、共通シグナルで拒否したサイトについては、独自の制御手段Google-Extendedを明示的に指定していなければそちらも拒否したものとして扱う方針だ。Googleによると、Google-Extendedで利用を許可したサイトはGeminiアプリの回答生成（グラウンディング）で参照され、回答内で紹介されてクリックを得る可能性がある。Googleは、パブリッシャーや市民団体、規制当局の要望を反映したもので、EU AI Actの汎用AIモデル提供者向け行動規範とも整合するとしている。\n\nMicrosoftは2027年2月1日からクロール時に新設定の適用を始め、metaタグやHTTPヘッダによるページ単位の指定をrobots.txtより優先させる。回答生成時の参照についても、「Disallow」に加え「DisallowExtended」を指定できる。後者はCopilotなど自社サービスでの利用を認めつつ、外部向けのWeb IQやMicrosoft FoundryのAPIを通じた参照を拒否する設定である。Anthropicは既にドラフトへの対応実装を始めたが、サービス全体への展開には時間がかかるとケリー氏は報告している。AI企業によるWebコンテンツの利用を巡っては、パブリッシャーによる訴訟が相次いでいる。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2611/01/2000002776/",
+          "date": "2026-10-31",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "cd36ffd6a3a4",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.watch.impress.co.jp/docs/news/2152778.html",
+      "headline": "無印良品、MUJIアプリで最大約2726万件の個人情報流出の可能性",
+      "originalTitle": "無印良品、「MUJIアプリ」で個人情報漏えい 2726万件",
+      "outlet": "Impress Watch",
+      "region": "domestic",
+      "category": "it",
+      "score": 76,
+      "tier": "must",
+      "pubDate": "2026-10-30T10:09:10.000Z",
+      "body": null,
+      "summary": "良品計画は10月30日、公式アプリ「MUJIアプリ」の利用者情報の一部が外部に流出した可能性があると発表した。対象は最大約2,726万件で、流出の可能性があるのはメールアドレス、生年月日、性別の3点である。クレジットカード情報、氏名、住所、電話番号などは含まれず、対象件数には退会者の情報も含まれるという。\n\n同社は外部からの不正なアクセスを検知し、該当箇所へのアクセスを遮断したうえで修正を適用した。現時点では、ダークウェブなどへの利用者情報の流出や、情報を悪用した被害は確認されていないとしている。今後、情報が漏えいした可能性のある利用者には順次連絡し、情報を悪用した「なりすましメール」が届く可能性があるとして注意を呼びかけている。\n\nMUJIアプリと無印良品ネットストアは現時点で正常に利用できる。同社は今後、開発会社や関係会社と協力し、セキュリティ対策と監視体制の強化を図るとしている。",
+      "sources": [
+        {
+          "outlet": "Impress Watch",
+          "url": "https://www.watch.impress.co.jp/docs/news/2152778.html",
+          "date": "2026-10-30",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "7bb043058a2d",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "science",
+      "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
+      "headline": "OpenAIの大量論文を受け、筆者が数学界に評価制度の見直しを訴える",
+      "originalTitle": "Mathematics has changed. Let's act like it",
+      "outlet": "terrytao.wordpress.com",
+      "region": "overseas",
+      "category": "science",
+      "score": 71,
+      "tier": "should",
+      "pubDate": "2026-11-01T18:28:42.000Z",
+      "body": null,
+      "summary": "数学者フランク・カレガリは、10月6日にOpenAIが公開した700本超の研究論文を数学史の分水嶺だと位置づけ、AIが多くの数学分野で画期的な貢献をできることは明らかだと述べている。そのうえで、一部の数学者が不満を抱く理由として、AI企業が数学の実践の慣行を軽視している点を挙げる。OpenAIの論文は優れたアイデアを含む一方で書き方が極めて粗く、誰の貢献かを示す帰属に関する共同体の規範に反しており、一部には誤りもあるという。筆者は、巨大企業の振る舞いよりも、数学者の採用、論文の発表、学生の指導のほうが自分たちで制御できるため、努力はそこに向けるべきだと主張している。\n\n筆者は、多くの反応は愛する学問が「空洞化」させられているという感覚を反映していると見ている。OpenAIの成果はラングランズ・プログラム（数論と表現論を結びつける大規模な研究計画）の関手性や相互律といった一般的問題にほとんど影響しなかったが、仮に同プログラムの全問題を解いたとしても数論が解決されたとは言えないと述べる。筆者は先例として有限単純群の分類を挙げる。1972年にゴレンスタインが分類計画を打ち出し、1983年に分類の完成が発表されたが、準薄群と呼ばれる場合はさらに20年後にアシュバッハーとスミスによって完成された。この成功は分野への関心を冷やす結果ともなったという。筆者は、新しいツールがある今、分野を終わったものとせず、さらに探究すべき対象として捉えるべきだとしている。\n\n筆者は、AIを既存の問いに答えるためだけに使うのではなく、より広い研究計画や構造的な理解に取り組むために使うべきだと主張する。双曲3次元多様体（幾何学的に特殊な3次元の図形）と数論的な対象を結びつける自身の構想を例に挙げ、これは定理の証明ではなく、ナンセンスかもしれない新しい方向の探索だと説明している。また、クリスチャン・セゲディの、数学では困難な問題を解く探検家が尊ばれてきたが、今後はどの領域を探索すべきかを選ぶ力や、成果を外部に説明する力がより重要になるという見解を引用している。\n\n一方で筆者は、AIを使った論文が急増し、問題の選択や理解の深さより、先に証明を出すことが競われている現状を批判する。ライデン宣言（記事中で言及される研究評価の指針）が名目だけになっていると述べ、良い問題を選び、AIで証明を得て、その内容を理解したうえでさらなる問いを立てた研究者を高く評価すべきだと主張する。提言としては、すべての研究をAI支援があったものとして評価すること、採用では書類よりも対面での面談を重視すること、ジャーナルには変化への適応を求め、適応しない誌は見限るべきことなどを挙げている。",
+      "sources": [
+        {
+          "outlet": "terrytao.wordpress.com",
+          "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
+          "date": "2026-11-01",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": "https://news.ycombinator.com/item?id=50328251",
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "df26b03e602d",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "science",
+      "url": "https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml",
+      "headline": "Seoul Viosys、レアアースを使わない白色発光チップの量産を開始",
+      "originalTitle": "Seoul Viosys begins production of rare-earth-free white light emitter",
+      "outlet": "semiconductor-today.com",
+      "region": "overseas",
+      "category": "science",
+      "score": 68,
+      "tier": "should",
+      "pubDate": "2026-11-01T16:23:26.000Z",
+      "body": null,
+      "summary": "韓国のSeoul Viosys（SVC）は、レアアースを使わずに白色光を発する発光チップの量産を開始したと発表した。従来の白色LEDは、青色LEDチップの上にイットリウム・アルミニウム・ガーネット（YAG）などのレアアース材料を重ねて作られてきたが、同社はこの依存から脱したとしている。チップの大きさは最小10µmである。同社は親会社のSeoul Semiconductorとともに、発光チップをパッケージなしでウエハ上から基板に組み込む構造「WICOP（Wafer Integrated Chip on PCB）」を展開しており、今回の白色光対応品はその第3世代（WICOP 3）にあたるという。\n\n同社によれば、白色LEDは世界のパッケージ型LED市場約150億ドルのうち約100億ドルを占める。WICOP 3はこれをレアアース不使用の技術で置き換えられるとしている。WICOP 3は窒化ガリウム（GaN）のみで白色光を生成し、プラスチックやシリコーン樹脂を含まないため、数十年にわたって使えると主張している。製造コストは従来の白色LEDの約半分とされる。同社は、微小な発光素子を壁紙や窓ガラスに埋め込んで器具なしで空間を照らす用途などを挙げ、現在の白色LED市場の数十倍の規模の新市場が生まれるとの見通しを示している。\n\n初回の量産品では、25µm×10µmのチップが0.015ルーメンの白色光を出し、色度はCIE標準の白色領域に入るという。発光効率は約100lm/Wに近く、2年以内に200lm/Wを目指すとしている。これまでのWICOPは チップの小型化を進められたが、白色光にはレアアースを含むパッケージが必要だったため、白色チップは1000µmより小さくできず、コスト低減の妨げになっていた。レアアースを除いたことで、大型の白色チップと100µm未満の微小な白色LEDの両方が可能になったと同社は説明している。\n\nデータ通信への応用として、同社は約10µmのチップ1000個を1mm²以下の格子状に並べたアレイで、銅線より10倍速く、10分の1の電力でデータを送れると主張している。市場調査会社Omdiaなどは、この技術とAR（拡張現実）を合わせて5年以内に600億ドルの新市場が生まれると予測しているという。同社は2026年第4四半期に量産を始める計画で、まずは自社の知的財産を尊重し製品を使ってきた顧客に供給する。創業者のイ・チュンフン氏は、AR眼鏡とAIデータ通信を主な対象とし、マイクロLEDのサプライチェーンのパートナーを募っていると述べている。",
+      "sources": [
+        {
+          "outlet": "semiconductor-today.com",
+          "url": "https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml",
+          "date": "2026-11-01",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": "https://news.ycombinator.com/item?id=50327058",
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "5550af9d96a9",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html",
+      "headline": "GitHub、AIモデルを組み合わせる「Copilot Fusion」を正式公開",
+      "originalTitle": "GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026",
+      "outlet": "Publickey",
+      "region": "domestic",
+      "category": "it",
+      "score": 66,
+      "tier": "should",
+      "pubDate": "2026-11-02T14:36:38.000Z",
+      "body": null,
+      "summary": "GitHubは、10月28日と29日に米国サンフランシスコで開催した年次イベント「GitHub Universe 2026」で、新機能「GitHub Copilot Fusion」の正式リリースを発表した。Copilot Fusionは、与えられたタスクの特性に応じて単一または複数のAIモデルを組み合わせて実行する、マルチモデル対応の機能である。推論、コード生成、デバッグ、ツールの利用など、タスクごとに必要な能力を評価し、モデルをどのように組み合わせるかを判断する。開発者がモデルの選択を個別に管理する負担を減らし、性能とコストのバランスを考えた開発を可能にするとしている。\n\nCopilot Fusionは、タスクに応じて3つのパターンのいずれかを選択する。Singleは、選んだモデル1つで課題を解く方式である。Cascadeは、効率的なモデルが解決案を作り、品質確認用のモデルがそれを検証して、より高性能なモデルへ引き継ぐかどうかを判断する。Critiqueは、1つのモデルがドラフトを作り、別のモデルファミリーのモデルが独立してレビューし、指摘を受けてドラフトを作ったモデルが解決案を1回だけ修正する。\n\n品質とコストのバランスを調整するため、負荷レベルが用意されている。Fusion Standardは、コスト、品質、待機時間のバランスを取る日常業務向けである。中間のレベルは、中程度のトークン節約を行いながら、複雑なバグ修正や複数ファイルにまたがる変更など、スコープが明確な大規模コーディングタスク向けとされる。Fusion Maxは、トークンの効率を考慮しつつ最先端の性能を目指し、深い推論が必要なタスク向けである。Fusion Fastは高速なモデルが必要な場面で自動的に選ばれ、ユーザーは指定できない。\n\nパブリックプレビューとして、Fusion Standardでは、ローカルにインストールしたMAI Code 1.1 FlashまたはQwen3.8 Flash Nextのモデルを選んでタスクを実行することも可能になっている。",
+      "sources": [
+        {
+          "outlet": "Publickey",
+          "url": "https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html",
+          "date": "2026-11-02",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "344dcf79744a",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "headline": "OpenAIの資金調達目標、200億ドルに引き下げ　FT報道",
+      "originalTitle": "OpenAI reportedly lowers funding target for new round",
+      "outlet": "TechCrunch",
+      "region": "overseas",
+      "category": "ai",
+      "score": 65,
+      "tier": "should",
+      "pubDate": "2026-10-31T16:12:55.000Z",
+      "body": null,
+      "summary": "OpenAIの新たな資金調達ラウンドが、当初の期待に届いていないと複数のメディアが報じている。同社は当初、IPO（新規株式公開）に先立ち、1.4兆ドルの企業価値で300億ドルを調達する計画だったとされ、その後は企業価値を1.25兆ドルとして同額を目指していたという。フィナンシャル・タイムズは金曜日、同社が調達目標を200億ドルに引き下げたと報じ、初回のクロージング（資金の最初の確定）の額はそれをさらに下回る見込みだとした。\n\nラウンドはアラブ首長国連邦（UAE）の投資家グループが主導するとされる。富裕層個人向けの追加の募集が行われれば、総額は200億ドルの目標に達する可能性があるという。ウォール・ストリート・ジャーナルの続報では、これまでに110億ドルを確保したが、一部の大口投資家の反応は「低調（tepid）」だったとされる。\n\nTechCrunchは、資金調達の難航は一部でタイミングの悪さが一因となった可能性があるとしている。投資家がAIインフラへの多額の支出に慎重になり、テック株の大幅な売りにつながったことを背景に挙げた。また、Anthropicの計画中のIPOも課題に直面している可能性があるとしている。TechCrunchはOpenAIにコメントを求めている。",
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+          "date": "2026-10-31",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "c0f8e37d433c",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "science",
+      "url": "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/",
+      "headline": "廃棄物由来の新繊維renoa、米FTCが新たな繊維区分として承認",
+      "originalTitle": "Here’s what ‘renoa' — the first new fiber in 25 years — feels like",
+      "outlet": "TechCrunch",
+      "region": "overseas",
+      "category": "science",
+      "score": 64,
+      "tier": "should",
+      "pubDate": "2026-11-01T14:00:00.000Z",
+      "body": null,
+      "summary": "カシミヤ製品は普及する一方で、高価で手入れが難しく、環境面でも問題をはらむとされる。カシミヤを生むヤギが中央アジアの草原を荒らしているとの指摘もある。同誌の気候担当記者ティム・デ・シャントは、スタートアップのEverbloomが開発した代替繊維「renoa（リノア）」を試用した。renoaは洗濯できて、より安価になるとうたわれている。\n\nrenoaは、カシミヤや羊毛の端切れ、寝具業界で出る羽毛や羽のくず（lint）など、廃棄されるタンパク質を原料とする。これを粉末にして、生分解性のバイオポリマー（微生物などで分解される樹脂）と混ぜ、押し出し成形で目的の天然繊維に近い太さと長さに整える。Everbloomは素材科学向けの独自のAIモデルも開発しており、カシミヤ代替がその最初の製品だという。\n\nrenoaは、25年ぶりとなる新たな繊維区分として、繊維表示を規制する米連邦取引委員会（FTC）に承認された。Everbloomは約3年間開発を続け、現在は生産規模の拡大を進めている。ニューヨークの本社でCEOのSim Gulatiは、renoaを使ったクルーネックセーター、ニット手袋、スカーフを記者に見せた。\n\n記者が特に注目したのはスカーフである。Gulatiは数か月にわたって着用と洗濯を繰り返し、乾燥機にもかけたが、毛玉はできず縮みもなかったと述べたという。最初の製品は、セーターの約20%をrenoaが占める混紡になる見込みで、2027年第2四半期に市場に出る予定だとされる。記者は80対20のカシミヤ混紡を試し、本物にきわめて近い質感だと感じたという。Gulatiは、量産品の仕上げ加工で差は解消できるとしている。",
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/",
+          "date": "2026-11-01",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "f8c2482ea301",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.theregister.com/networks/2026/11/01/landline-phones-will-switch-off-across-britland-in-100-days-no-extensions-openreach/5306673",
+      "headline": "英国の固定電話、2027年1月31日に停止へ　延期なしとOpenreach",
+      "originalTitle": "Landline phones will switch off across Britland in 100 days, no extensions",
+      "outlet": "theregister.com",
+      "region": "overseas",
+      "category": "it",
+      "score": 63,
+      "tier": "should",
+      "pubDate": "2026-11-01T15:33:49.000Z",
+      "body": null,
+      "summary": "英国の通信インフラ会社Openreach（BTグループ傘下）は、旧来の公衆交換電話網（PSTN：銅線を用いた従来型の電話網）を2027年1月31日に停止すると改めて通知し、期限は延期しないとしている。同社は、この網を使って各社にサービスを提供する通信事業者に宛てた書簡でこの方針を伝えた。この網の接続を使い続ける顧客は、終了時に障害が起きるおそれがあるという。\n\n影響は個人と企業の双方に及ぶ。PSTNに依存するシステムには、決済端末（POS）、火災・防犯警報器、高齢者などを見守る警報器が含まれる。この移行は、政府が進める全面的なデジタル化と光ファイバー網への移行の一環で、銅線に依存する旧電話網がその妨げになっていたとされる。固定電話を残す世帯は、ブロードバンドルーターに電話機を接続し、Digital Voice（ブロードバンドルーターを通じて使う音声サービス）を利用する必要がある。\n\nOpenreachは約10年かけてこの移行を計画しており、少なくとも一度は期限を延期している。政府が、TeleCareなどの見守りシステムを使う脆弱な利用者に、対策が整うまで移行を強制しないよう求めたためだという。記事は、アナログ電話が間もなく停止することの社会的な認知度は低いとみられるとしている。光ファイバーに未接続の顧客は、電話局に設備を置くSOTAP for Analog（移行用の暫定サービス）に切り替えられる見込みだという。\n\nAge UKのキャロライン・エイブラハムズ部長は、移行は重要な最終段階に入ったと述べ、固定電話や見守りアラームに頼る人を取り残してはならないと訴えた。アナリストのポール・ペスカトーレ（PP Foresight）は、事業者が協調して広く周知し、高齢者には個別の支援を行うべきだと指摘した。Openreachのジェームズ・リリー（All-IP部門長）は、簡単な移行はほぼ完了したが、残る複雑な接続は計画や調整、試験が必要だと述べ、企業に早めの対応を求めた。",
+      "sources": [
+        {
+          "outlet": "theregister.com",
+          "url": "https://www.theregister.com/networks/2026/11/01/landline-phones-will-switch-off-across-britland-in-100-days-no-extensions-openreach/5306673",
+          "date": "2026-11-01",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": "https://news.ycombinator.com/item?id=50326609",
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "89c6cb6d2971",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "headline": "Apple CEOのターナス氏、「AIのためのAI」は出さないと発言",
+      "originalTitle": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "outlet": "TechCrunch",
+      "region": "overseas",
+      "category": "ai",
+      "score": 59,
+      "tier": "should",
+      "pubDate": "2026-10-31T21:41:00.000Z",
+      "body": null,
+      "summary": "Apple のジョン・ターナス CEO が、米 Wired のスティーブン・レヴィ記者とのインタビューで、AI分野における同社の現在の立ち位置を擁護した。ターナス氏は長年 Apple の幹部を務め、今年9月に正式に CEO に就任した。同社はこの数年、AIで出遅れていると評されることが多く、より高性能な Siri の公開が遅れた経緯があった。Siri は今夏ようやく公開された。\n\nターナス氏は、AIについては「誰もが意見を持っている」と認めた上で、「今の我々の立ち位置は本当に気に入っている」と述べた。新製品では AI を「間違いなく活用する」としつつ、「AIのためのAIを出荷するつもりはない」と語った。うまく作れば、利用者はそれが AI によるものか従来型のソフトウェアによるものかを意識する必要がなくなるという。重要なのは、利用者が本当に気に入る製品を作れたかどうかだとしている。\n\nレヴィ記者が、AI エージェントの普及によってアプリなどが不要になり、Apple のエコシステムに大きな影響が及ぶ可能性について尋ねたのに対し、ターナス氏は「生活は本当に楽になるかもしれないが、製品づくりは深く人間的で個人的なものであり、我々はそれをすることが好きだ」と答えた。",
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+          "date": "2026-10-31",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "08a98f93893b",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features",
+      "headline": "Apple、スマートホームハブHomeViewに防犯カメラ機能の手がかり",
+      "originalTitle": "Apple’s HomeView could add security camera features",
+      "outlet": "The Verge",
+      "region": "overseas",
+      "category": "it",
+      "score": 57,
+      "tier": "interest",
+      "pubDate": "2026-11-01T17:16:07.000Z",
+      "body": null,
+      "summary": "Apple のスマートホームハブ「HomeView」に防犯カメラ機能が追加される可能性を示す手がかりが、ソフトウェア「HomeView 27.2」のコード内で見つかった。Reddit ユーザーの pdfu が発見したとされる。コードの文字列には、動体検知、ライブ配信、録画の各オプションを備えた防犯カメラモードと、プライバシー関連の機能の記述があるという。\n\n設定画面には「HomeView は HomeKit Secure Video を使った防犯カメラとして利用できる」と明記されているとされる。HomeKit Secure Video は、Apple のスマートホーム規格 HomeKit に対応したカメラの録画機能を指す。映像は家庭内のメンバーのみが閲覧でき、視聴中や録画の開始時には表示灯が点灯し音が鳴るという。設定が変更されるとメンバーに通知が届き、在宅・外出・就寝の状況に応じて検知、配信、録画の対象を選べるとされる。\n\n発売時に HomeView が防犯カメラとして使えなかったことに疑問の声もあったが、Apple はこれらの機能を示唆する発表をしていない。記事は、プライバシーを重視する Apple のマーケティング方針を踏まえ、同社は公開前に機能を調整しているのかもしれないと見ている。",
+      "sources": [
+        {
+          "outlet": "The Verge",
+          "url": "https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features",
+          "date": "2026-11-01",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "2d3cca2e3720",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.watch.impress.co.jp/docs/news/2152808.html",
+      "headline": "東京メトロ、QR乗車券を2028年度中に導入 磁気券は2029年度末に終了へ",
+      "originalTitle": "東京メトロ「QR乗車券」導入へ 磁気乗車券は29年度末終了",
+      "outlet": "Impress Watch",
+      "region": "domestic",
+      "category": "it",
+      "score": 56,
+      "tier": "interest",
+      "pubDate": "2026-10-30T13:21:48.000Z",
+      "body": null,
+      "summary": "東京メトロは30日、QRコードを使った紙のきっぷ「QR乗車券」を2028年度中に順次導入すると発表した。QR乗車券は券売機などで購入でき、現在の自動券売機での購入方法や自動改札機での利用方法は大きく変わらない。自動改札機のQRリーダーにかざして利用する方式で、対象は普通乗車券と回数乗車券（障がい者用割引回数乗車券、通学用割引回数乗車券）である。\n\n東京メトロは交通系ICカードを主軸に、クレジットカードなどのタッチ決済による後払い乗車の導入など、次世代の乗車システムの普及に取り組んでいる。一方、従来の磁気乗車券は改札機での券詰まりなどが課題で、リサイクルに一定の環境負荷があるとしている。このため、QR乗車券の導入にあわせて磁気乗車券の発売を終了し、終了時期は2029年度末を目途とする。\n\n定期券は交通系ICカード、企画乗車券は交通系ICカードやデジタルQR乗車券で引き続き利用できる。QR乗車券の具体的な利用方法や磁気乗車券の終了スケジュールは改めて告知するとしている。磁気乗車券の置き換えは他の鉄道事業者でも進んでおり、駅の自動改札機や自動券売機、磁気乗車券用の機構の複雑さなどから中長期的な維持は難しいとされる。JR東日本や京成、京急など東日本の鉄道7社も磁気乗車券の廃止を決め、2027年春からQR乗車券サービスを開始するという。",
+      "sources": [
+        {
+          "outlet": "Impress Watch",
+          "url": "https://www.watch.impress.co.jp/docs/news/2152808.html",
+          "date": "2026-10-30",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "e58df0c82cd4",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "science",
+      "url": "https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/",
+      "headline": "海鳥マンクスミズナギドリも時差ぼけ、帰巣時の方角がずれる",
+      "originalTitle": "Seabirds racing home over the ocean can get jet-lagged",
+      "outlet": "Ars Technica",
+      "region": "overseas",
+      "category": "science",
+      "score": 55,
+      "tier": "interest",
+      "pubDate": "2026-10-31T11:15:26.000Z",
+      "body": null,
+      "summary": "科学誌『サイエンス』に掲載された研究によると、北大西洋を飛ぶ海鳥のマンクスミズナギドリは、長距離の移動によって時差ぼけを起こし、その影響で帰巣時の方角がずれることが分かった。研究の筆頭著者はオックスフォード大学のパトリック・ルイン氏である。この鳥は太陽の位置を方位磁針のように使って進路を決めるとされ、体内時計がずれると太陽の位置の読み取りが狂う。\n\n体内時計は日の出と日の入りのたびに補正されるが、日の出から日の入りまでの間に経度1度を移動するごとに時計が約4分ずれるという。研究チームは、2004年からGPS発信機を付けてきた1,045羽による3,688回の採餌飛行の記録を分析し、陸地が見えない場所での帰巣飛行335回を調べた。その結果、鳥の進路のずれは太陽コンパスの予測とよく一致し、風や地球の自転による見かけの力（コリオリ効果）、地磁気による方位磁針の影響では説明しにくかった。\n\n観測された時刻のずれは最大で約1時間で、多くは10〜15分程度だった。進路のずれは最大で約15度に達したが、鳥は位置を確認して修正できるため、1日に1,000キロ東へ飛ぶ場合でも平均の誤差は約7度にとどまり、移動距離は約5キロ増えるだけと試算されている。ただし実験で検証したものではないため、因果関係の解釈には注意が必要だとルイン氏は述べている。ルイン氏は、頻繁に時差ぼけを経験する人間にとっても、動物の対処法が緩和策のヒントになる可能性があると述べている。",
+      "sources": [
+        {
+          "outlet": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/",
+          "date": "2026-10-31",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "5d82caa07468",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/",
+      "headline": "Pixel 11 Pro Foldレビュー、薄型軽量化も折り目は目立つ",
+      "originalTitle": "Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world",
+      "outlet": "TechCrunch",
+      "region": "overseas",
+      "category": "it",
+      "score": 48,
+      "tier": "interest",
+      "pubDate": "2026-11-01T15:00:00.000Z",
+      "body": null,
+      "summary": "TechCrunchのレビュー記事は、グーグルの折りたたみ型スマートフォン『Pixel 11 Pro Fold』を取り上げ、前年機とほぼ同じ設計のまま、軽量化や画面の明るさの向上などが加わったと伝えている。本体価格は1,899ドルである。厚さは開いた状態で5ミリ（前年機のPixel 10 Pro Foldは5.2ミリ）、閉じた状態で10.1ミリ（同10.8ミリ）で、重さは19グラム軽くなった。\n\n耐久性は前年機より3倍高めたとグーグルは主張しており、ガラスセラミック製のカバーとガラス繊維複合材の背面カバーで衝撃を吸収するとしている。画面の輝度は最大3,600ニット（輝度の単位）で、前年機の3,000ニットから明るくなった。一方、折り目（クリース）は依然として目立ち、ほかのメーカーのように目立ちにくくはなっていない。ヒンジが強固なため片手では開けない設計である。\n\nカメラは主センサーが4,800万画素のまま、受光量と細部の描写が改善され、ズームは20倍から30倍に拡張された。ただし超広角と望遠のセンサーは前年機とほぼ同じで、レビュアーは『Pixel 11 Pro XL』の画質には及ばないとしている。価格は、同価格の『Galaxy Z Fold 8』や、横長の折りたたみ型とされるiPhone Duoより約100ドル安く、Pixelが好きで折りたたみ型を求める人向けの製品だとの見方を示している。",
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/",
+          "date": "2026-11-01",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "9bf5871ddb73",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker",
+      "headline": "HomePod mini 2、応答は速くなったがMac連携は不具合",
+      "originalTitle": "HomePod Mini 2 first look: Three things I love and one disappointment",
+      "outlet": "The Verge",
+      "region": "overseas",
+      "category": "it",
+      "score": 47,
+      "tier": "interest",
+      "pubDate": "2026-11-01T14:00:00.000Z",
+      "body": null,
+      "summary": "アップルの低価格スマートスピーカー『HomePod mini 2』は149ドルで、初代の99ドルから50ドル高くなった。レビュアーは発表時に失望したとしたが、2日間使用した結果、新しい処理用チップ（S10、初代はS5）と無線LAN規格Wi-Fi 6E（初代はWi-Fi 4）によって動作が速くなり、印象が変わったとしている。\n\n音声アシスタントのSiriは多くの応答が3秒以内になり、初代では最大10秒待たされることがあったという。照明やブラインドの操作では、初代のように確認の言葉を返さず、そのまま実行するようになった。ただし、次期の『Siri AI』はまだ提供されておらず、アップルは今後のソフトウェア更新で提供するとしている。\n\n新機能として、Homeアプリでスピーカー上部のタッチ操作をロックできる設定が加わり、初代を含むすべてのHomePodで使える。天面のLEDがアルバムアートに合わせて色を変えるSound Glowも追加されたが、Apple MusicとApple Podcastsでのみ動作する。音質はサイズの割に良好とされる。\n\nMacの既定の音声出力先に設定できる『持続的なAirPlay接続』（AirPlayはアップルのワイヤレス音声転送機能）は、レビュアーの環境（macOS 27.2）では設定項目が表示されず使えなかった。アップルからの回答はまだないという。レビュアーは、Siri AIの提供後に本格的なレビューを行い、今後発売される299ドルのスマートディスプレイ『Apple HomeView』と比べる予定としている。HomePod mini 2は、Thread（スマートホーム機器の通信規格）とMatter（機器の接続規格）に対応し、Apple Homeハブとして最も安い製品になるとされる。",
+      "sources": [
+        {
+          "outlet": "The Verge",
+          "url": "https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker",
+          "date": "2026-11-01",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "3e7afe5d9d4e",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.watch.impress.co.jp/docs/news/2152258.html",
+      "headline": "カシオ、「A168」デザインの指輪型時計CRW-002を11月発売",
+      "originalTitle": "カシオ、リングウォッチに“チープカシオ”デザイン",
+      "outlet": "Impress Watch",
+      "region": "domestic",
+      "category": "it",
+      "score": 46,
+      "tier": "interest",
+      "pubDate": "2026-11-01T01:00:00.000Z",
+      "body": null,
+      "summary": "カシオ計算機は、指輪型デジタルウォッチ「CASIO RING WATCH」の新作「CRW-002」2機種を11月に発売する。ロングセラーの定番モデル「A168」（通称“チープカシオ”）の機能とデザインを指輪サイズで再現したモデルで、2024年12月発売の「CRW-001」のバリエーションである。\n\n価格はシルバーの「CRW-002D-1AJR」が19,800円、ゴールドの「CRW-002G-9AJR」が22,000円である。文字板の機能表記からバンドの造形・仕上げまで細かく再現され、バンド部は艶消し加工によりケース部と異なる質感に仕上げられた。\n\nクオーツ式ムーブメント（モジュールNo.3595）を搭載し、精度は月差±30秒、日常生活用防水である。デュアルタイム、ストップウォッチ（1/100秒、60分計）、時刻フラッシングライト（アラーム）、オートカレンダー（2月28日制）、12/24時間制表示切替、LEDバックライトを備え、電池寿命は2年で、メーカー修理により電池交換ができる。リングサイズは22号（内径20mm）で、19号用と16号用のサイズ調整用スペーサーが同梱される。本体サイズは25.2×18.2×6.2mm、重量は15gである。",
+      "sources": [
+        {
+          "outlet": "Impress Watch",
+          "url": "https://www.watch.impress.co.jp/docs/news/2152258.html",
+          "date": "2026-11-01",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "a53a40d9d648",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak",
+      "headline": "開発中止となったバルブ社の「F-Stop」、流出素材で遊べる版が作成される",
+      "originalTitle": "A playable version of Portal prequel F-Stop leaked",
+      "outlet": "theverge.com",
+      "region": "overseas",
+      "category": "it",
+      "score": 44,
+      "tier": "interest",
+      "pubDate": "2026-11-01T17:00:41.000Z",
+      "body": null,
+      "summary": "開発が中止となったバルブ社の人気ゲーム「Portal」の前日譚「F-Stop」について、遊べる状態のバージョンが作成された。ほとんどのアセットは今年8月に流出した12テラバイトの大規模なデータから得られ、ソースコードとマップデータは後から Valve Cut Content Discord に投稿されたという。\n\nF-Stopの一部のセリフや要素は後に「Portal 2」に取り込まれた。本編とは大きく異なり、撮影したアイテムをポラロイド風の写真にして別の場所に配置するカメラ機構を中心に作られており、その点は「Viewfinder」に近いとされている。\n\n全編の映像はいずれも1時間未満に収まる短いゲームである。F-Stopは、2007年にValveが5つのチームに分かれて新しいゲームを試作した3か月間の取り組み「Directed Design Experiments」の一環として開発された。",
+      "sources": [
+        {
+          "outlet": "theverge.com",
+          "url": "https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak",
+          "date": "2026-11-01",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": "https://news.ycombinator.com/item?id=50327406",
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "2fe1a46c58aa",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://blog.raed.dev/posts/proton-loser-thinking/",
+      "headline": "AI導入をめぐるProtonの経営陣の対応に、筆者が推奨継続への疑問を示す",
+      "originalTitle": "It wasn't AI that flipped Proton's charge",
+      "outlet": "blog.raed.dev",
+      "region": "overseas",
+      "category": "it",
+      "score": 37,
+      "tier": "interest",
+      "pubDate": "2026-11-01T18:53:55.000Z",
+      "body": null,
+      "summary": "筆者は長年Protonを利用し、Gmailからの移行先として推奨してきたと述べている。このブログ記事は、404 Mediaが報じたProtonの経営陣によるAI導入推進をめぐり、アンディ・イェンCEOがセキュリティ担当エンジニアのペネトレーションテストの要望に「bullshit and loser thinking（くだらない、負け犬の考え）」と返答したとされる社内Slackでのやり取りを紹介している。\n\n筆者は、問題はAIの利用そのものではなく経営陣の振る舞いにあると主張している。レビュー、テスト、責任者の明確化といった保護策があればAIによるコード作成は問題ないとする一方、社員の前でセキュリティ上の懸念を「負け犬の考え」と断じたこと、AI利用が社員の雇用を左右しうるとされた方針が流出後に取り下げられたことを問題視している。\n\n筆者は、Protonはプライバシーを売りにする企業であり、慎重に出荷することがユーザーが支払う信頼の一部だと主張している。また、Redditで会社を擁護した社員がイェンCEOはパイプラインを遅らせない限りテストを認めていたと説明したことについて、批判的な意見を装いつつ会社の公式見解に沿ったものだと見ており、対応のまずさを示すものだとしている。筆者は、今後も推奨を続けられるかどうかは、テストに数日を求めたエンジニアが速度と恣意的な期限を重視する経営陣との議論に勝てるかどうかにかかっていると述べている。",
+      "sources": [
+        {
+          "outlet": "blog.raed.dev",
+          "url": "https://blog.raed.dev/posts/proton-loser-thinking/",
+          "date": "2026-11-01",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": "https://news.ycombinator.com/item?id=50328488",
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "2d9928289658",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://openai.com/index/ropes-gray-ai-diligence",
+      "headline": "Ropes & Grayが契約審査向けのAIツールをOpenAIと開発",
+      "originalTitle": "How Ropes & Gray is developing AI for transactional diligence",
+      "outlet": "OpenAI",
+      "region": "overseas",
+      "category": "ai",
+      "score": 35,
+      "tier": "interest",
+      "pubDate": "2026-10-29T07:00:00.000Z",
+      "body": null,
+      "summary": "法律事務所のRopes & Grayは、OpenAIと協力して、取引デューデリジェンス（買収などの前に、売り手側の財務・法務上の主張やリスクを精査する作業）を支援する独自のAIツールを開発している。この作業では大量の文書を短い期限内に読み込む必要があり、入札の準備に数日かかることもあるという。同事務所は、より多くの顧客に専門性を提供するためにこのツールを作っている。\n\nツールは、数千ページの文書から関連するものを抽出し、テーマや論点ごとに自動でグループ化する。要約と、同事務所の書式による報告書も作成する。さらに、取引用の文書を保管するデータルームの内容を一覧化して分類するため、個々の文書ではなく取引関係全体を見渡せるとしている。弁護士はグループ分けや分類を確認し、漏れがないかを検証できる。\n\n開発は重要な商業契約を対象に進められた。弁護士らは、完了した取引で人が作成した報告書とツールの出力を比べ、評価基準と報告書の形式を改善した。ツールは、初期レビューから要約、上位のレビューまで人間の手順をまねた一貫した流れで動き、熟練した若手からミドルレベルのアソシエイト弁護士の一次作業に相当する水準だと位置づけられている。\n\n同事務所によると、顧客に渡す成果物は弁護士が100%責任を持てる状態である必要があり、弁護士が要約と原文を容易に確認できる設計にしたという。パートナーのジョシュ・リヒテンスタインは、このような仕組みにより、より時間をかけて最終的な判断を磨けるようになると説明している。同事務所は、詳細な論点別の報告書を数週間ではなく数時間で作る目標を公にしている。また、同事務所はGPT‑6 Astraといったツールも併用し、顧客の課題をこれまでより速く解決できているとしている。",
+      "sources": [
+        {
+          "outlet": "OpenAI",
+          "url": "https://openai.com/index/ropes-gray-ai-diligence",
+          "date": "2026-10-29",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "144d2253b8d6",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.theverge.com/column/1022402/new-zelda-and-gta-represent-a-games-industry-that-no-longer-exists",
+      "headline": "GTA VIとゼルダ新作、苦境にある業界で例外的な大作に",
+      "originalTitle": "New Zelda and GTA represent a games industry that no longer exists",
+      "outlet": "The Verge",
+      "region": "overseas",
+      "category": "it",
+      "score": 34,
+      "tier": "interest",
+      "pubDate": "2026-11-01T13:00:00.000Z",
+      "body": null,
+      "summary": "2026年11月には、大作ゲームが2本相次いで発売される。一つはRockstarの『グランド・セフト・オートVI（GTA VI）』で、前作GTA Vは2013年の発売以来2億3000万本を販売している。もう一つはNintendoのSwitch 2向けに発売される『ゼルダの伝説 時のオカリナ』のリメイク版である。調査会社Circanaの推計では、米国のゲーマーの29%がGTA VIの購入意向を持っているとされる。\n\n多くの大手パブリッシャーはGTA VIとの競合を避けて発売時期をずらしたが、Nintendoは例外である。オカリナは3Dで描かれたハイラルの初期の作品で、その後の『ブレス オブ ザ ワイルド』『ティアーズ オブ ザ キングダム』はSwitchで多くの本数を売った。2027年には実写映画の公開も控えており、記事は、これが同シリーズの注目度をさらに高める可能性があるとみている。\n\n一方、ゲーム業界全体は2026年に厳しい状況にある。Xboxは大規模な「リセット」で数千人の開発者を解雇し、一部のスタジオを閉鎖した。Epicは1000人以上を削減し、SonyはBungieで人員を削減している。コンソールの販売が落ち込む中、ハードウェアのコストも大幅に上昇している。EAはBioWareを閉鎖し、『Mass Effect』の新作を中止した。\n\n記事は、GTA VIとゼルダが業界の問題の解決策として見られがちだが、再現は難しいとする。Nintendoはハードからソフトまで自社で管理し、リスクを抑えた慎重な経営で成長してきた。Rockstarは、GTA Vが米国で13年連続トップ20の販売本数に入るほどの成功を収めたことで、今回の大きな期待を集めるに至ったという。記事は、大作が確実に売れた時代を思わせるこの両作品のような機会は、業界の大きな変化の中で今後まれになるかもしれないと論じている。",
+      "sources": [
+        {
+          "outlet": "The Verge",
+          "url": "https://www.theverge.com/column/1022402/new-zelda-and-gta-represent-a-games-industry-that-no-longer-exists",
+          "date": "2026-11-01",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "0b5d43273e48",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002767/",
+      "headline": "モスバーガーのアンケート、評価でキャラの表情が変わる画面が話題",
+      "originalTitle": "「低評価でキャラが悲しげな目」 モスバーガーのアンケートがSNSで話題 運営会社に狙いを聞いた",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "it",
+      "score": 33,
+      "tier": "spare",
+      "pubDate": "2026-10-30T09:05:54.000Z",
+      "body": null,
+      "summary": "モスバーガーを運営するモスフードサービスの顧客アンケートで、来店した店舗の推奨度を0〜10の数字で選ぶと、白い丸に目と口を描いたキャラクターが表情を変える画面がX上で話題になった。キャラクターは、サービスや商品の満足度を答えた後のアンケート終盤に表示される。Xユーザーが動画を投稿したことをきっかけに反響が広がり、面白がる声がある一方で、回答への影響を心配する声も出た。同社はこのUIを開始当初から採用しており、制作は外部事業者に委託している。\n\n同社によると、狙いは「分かりやすさ」と「回答しやすさ」の実現である。数字と表情を連動させることで、選んだ評価を視覚的に確認しやすくし、特にスマートフォンで起こりうる選択ミスを減らす効果を期待している。文字に頼らず評価の高低を直感的に伝えることで、幅広い利用者が答えやすくなるとも説明し、ブランドに合う親しみやすさも採用理由に挙げた。同社は、Xでの反響を喜んでいるとコメントしている。\n\n一方で、X上では「低評価を選択しにくい」「正確な顧客評価が得られなくなるのでは」との懸念も上がった。モスフードサービスは、このUIを開始当初から採用しているため、導入前後の回答率や評価スコアを比べた検証データはないとしている。表情は回答者の判断を中心に置き、選択内容を確認しやすくするためのものだと説明した。同社は、数字やラベル、色、画像など設問の見せ方全体が回答を左右しうるため、UIの影響を完全に排除するのは難しいとの見解を示している。\n\n同社は、今回のアンケートで顧客の推奨度を測る指標「NPS」を採用している。NPSは、店舗を知人に勧めたいかを0〜10点で尋ね、9〜10点の推奨者の割合から0〜6点の批判者の割合を引いて算出する。同社は、過去の評価や他店舗との比較を行うには、全ての回答者に同じ質問とUIを提示することが重要だと説明し、同じ条件で継続的に測定することで顧客の評価や意識の変化を把握できるとしている。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002767/",
+          "date": "2026-10-30",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "1e1bc39a63b3",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/",
+      "headline": "自動運転の新興企業、2026年は81社が投資会社に持ち込み",
+      "originalTitle": "TechCrunch Mobility: A new, bigger AV boom is here",
+      "outlet": "TechCrunch",
+      "region": "overseas",
+      "category": "it",
+      "score": 32,
+      "tier": "spare",
+      "pubDate": "2026-11-01T17:04:00.000Z",
+      "body": null,
+      "summary": "自動運転分野の投資熱が再び高まっているとする記事である。初期段階への投資を専門とするTrucks VCによると、2026年に入って同社に事業を持ち込んだ新規の自動運転スタートアップは81社で、前年より3分の2多く、10年前の活況期を上回る水準だという。同社は、今回は技術的な飛躍に支えられた、より大きな第2の波が来ていると主張しており、その飛躍とはAIを指す。\n\nTrucks VCのPuneeth Meruva（プニース・メルヴァ）氏は、基盤モデル（大量のデータで学習させた汎用型のAIモデル）によって、認識から制御までを一つのAIで行うエンドツーエンド型の構成が現実的になったと述べる。基盤モデルは環境や状況が変わっても対応しやすく、自動運転車を安く速く展開できる可能性があるという。NvidiaのAlpamayoやQwenの視覚・言語・行動モデルといったオープンソースのモデルの登場も参入を容易にしており、同社は新興企業が数か月で展開し、調達額が100万ドル未満のケースも一貫して見ているとしている。\n\n持ち込まれた81社には建設、倉庫、農業、鉱業向けの技術が含まれるが、記者が意外に感じたのは、Waymoの直接の競合を名乗る純粋なロボタクシー事業が増えていることだという。Meruva氏は、Waymoと世界規模で競うのは難しくても、特定の地域や路線の種類に絞った小規模な企業には競争の余地があると述べ、来年はさらに多くの自動運転スタートアップが持ち込むとの見通しを示している。\n\n同じ号では、大型の資金調達や提携も報じられた。製造支援企業のRe:Buildは21億ドルを調達し、General CatalystとJPMorganChaseの戦略投資部門が主導した。同社は共同創業者に元Amazon商業部門CEOのジェフ・ウィルケ氏を置き、「米国版の深圳」を名乗っている。また、Waymoとトヨタはトヨタの日本の工場でAV対応のbZ4Xを生産し、Waymoの自動運転システムを組み込む製造提携を結んだ。その車両は日本や英国などでロボタクシーに使われる予定だという。",
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/",
+          "date": "2026-11-01",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    }
+  ],
+  "essays": [],
+  "productionNote": {
+    "reachedOutlets": [
+      "The Verge",
+      "ITmedia NEWS",
+      "Impress Watch",
+      "terrytao.wordpress.com",
+      "semiconductor-today.com",
+      "Publickey",
+      "TechCrunch",
+      "theregister.com",
+      "Ars Technica",
+      "theverge.com",
+      "blog.raed.dev",
+      "OpenAI"
+    ],
+    "unreachedOutlets": [],
+    "excluded": [
+      {
+        "topic": "国際深掘りが当日に扱った3件",
+        "reason": "実行順により先発の系統を優先"
+      }
+    ],
+    "counts": {
+      "deep": 0,
+      "brief": 22,
+      "essays": 0,
+      "chars": 15525
+    },
+    "text": "候補82件から22件を掲載。本文が取れず不採用3件。"
+  }
+}

@@ -1,6 +1,6 @@
 {
- "date": "2026-10-31",
- "generatedAt": "2026-10-31T10:13:23.839Z",
+ "date": "2026-11-02",
+ "generatedAt": "2026-11-01T21:09:55.871Z",
  "model": "claude-haiku-5-5",
  "measured": {
   "world": 18,
@@ -8,99 +8,135 @@
  },
  "articles": [
   {
-   "id": "intl-brief-2026-10-31-s-20261031-01",
+   "id": "intl-brief-2026-11-02-s-20261030-06",
    "stream": "intl",
    "depth": "brief",
    "section": "world",
-   "headline": "ロシア占領下オレシキーで住民避難 局地停戦中",
-   "originalTitle": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
-   "outlet": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+   "headline": "バイナンス、63億ドル流出の9割を補填",
+   "originalTitle": "Binance resumes customer withdrawals after record $6.3bn hack",
+   "outlet": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency",
    "region": "overseas",
    "category": null,
-   "score": 26,
-   "tier": "interest",
-   "pubDate": "2026-10-31T10:13:23.839Z",
+   "score": 41,
+   "tier": "should",
+   "pubDate": "2026-11-01T21:09:55.871Z",
    "body": null,
-   "summary": "ロシアが占領するウクライナ南部オレシキーで、局地的な一時停戦の下、数百人の住民が避難した。BBCによると、危険を承知で現地にとどまった人も数百人いる。France 24は、避難者がウクライナ側の代表団とともにロシアのアナパ市へ向かったと伝えた。Guardianは、食料や医薬品が深刻に不足していた都市へ人道支援の車列が届いたと報じた。Euronewsは、ホワイトハウスがメラニア・トランプ米大統領夫人が停戦の交渉と人道作戦の調整を支援したと述べたと伝えた。SCMPは、避難者を乗せた3機がベラルーシのゴメリ空港に着いたとベルタ通信を引いて報じた。",
+   "summary": "世界最大の暗号資産取引所バイナンスは、暗号資産で過去最大とされる木曜日のハッキング被害について、約63億ドルの90%を補填したと発表した。残り10%は必要量をそろえるのに時間がかかる可能性があるという。米連邦捜査局（FBI）は土曜日、北朝鮮関連のハッカー集団「TraderTraitor」による犯行だと発表した。ドイチェ・ヴェレは、同じ集団が昨年の15億ドルのBybit事件にも関わったと伝えた。バイナンスは日曜、出金を段階的に再開した。",
    "sources": [
     {
-     "outlet": "BBC",
-     "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
-     "date": "2026-10-31",
+     "outlet": "The Guardian",
+     "url": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency",
+     "date": "2026-11-02",
      "access": "body",
      "via": null,
-     "note": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire"
+     "note": "Binance resumes customer withdrawals after record $6.3bn hack"
+    },
+    {
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-02",
+     "access": "body",
+     "via": null,
+     "note": "Crypto firm Binance covers 90% of losses after $6.3bn hack"
+    },
+    {
+     "outlet": "New York Times",
+     "url": "https://www.nytimes.com/2026/10/31/world/asia/north-korea-hacking.html",
+     "date": "2026-11-02",
+     "access": "excerpt",
+     "via": null,
+     "note": "North Korean Hackers Stole Billions, the F.B.I. Says. It’s Not Their First Heist."
+    },
+    {
+     "outlet": "Deutsche Welle",
+     "url": "https://www.dw.com/en/fbi-says-north-korea-behind-6-billion-binance-crypto-theft/a-79819998?maca=en-rss-en-world-4025-rdf",
+     "date": "2026-11-02",
+     "access": "excerpt",
+     "via": null,
+     "note": "FBI says North Korea behind $6 billion Binance crypto theft"
     },
     {
      "outlet": "France 24",
-     "url": "https://www.france24.com/en/europe/20261030-residents-leave-russian-occupied-oleshky-in-evacuation-operation",
-     "date": "2026-10-31",
+     "url": "https://www.france24.com/en/business/20261101-binance-says-resuming-withdrawals-after-major-hack",
+     "date": "2026-11-02",
      "access": "excerpt",
      "via": null,
-     "note": "Residents leave Russian-occupied Oleshky in evacuation operation"
+     "note": "Binance resumes crypto withdrawals after major hack blamed on North Korea"
     },
     {
      "outlet": "Euronews",
-     "url": "https://www.euronews.com/2026/10/30/residents-leave-russian-occupied-oleshky-amid-local-ceasefire",
-     "date": "2026-10-31",
+     "url": "https://www.euronews.com/2026/11/01/fbi-blames-north-korea-for-63-billion-binance-crypto-hack",
+     "date": "2026-11-02",
      "access": "excerpt",
      "via": null,
-     "note": "Residents leave Russian-occupied Oleshky amid local ceasefire"
+     "note": "FBI blames North Korea for $6.3 billion Binance crypto hack"
     },
     {
      "outlet": "South China Morning Post",
-     "url": "https://www.scmp.com/news/world/russia-central-asia/article/3372828/russia-occupied-oleshky-evacuees-arrive-belarus-ukraine-next",
-     "date": "2026-10-31",
+     "url": "https://www.scmp.com/business/cryptocurrency/article/3372910/binance-sees-spike-withdrawals-exchange-returns-online-after-us63-billion-hack",
+     "date": "2026-11-02",
      "access": "excerpt",
      "via": null,
-     "note": "Russia-occupied Oleshky evacuees arrive in Belarus, Ukraine next"
+     "note": "Binance sees spike in withdrawals as exchange returns online after US$6.3 billion hack"
     },
     {
      "outlet": "CBS News",
-     "url": "https://www.cbsnews.com/news/residents-evacuated-oleshky-us-brokered-ceasefire/",
-     "date": "2026-10-31",
+     "url": "https://www.cbsnews.com/news/binance-hack-north-korea/",
+     "date": "2026-11-02",
      "access": "excerpt",
      "via": null,
-     "note": "Ukrainians trapped in Russia-held city evacuate during local ceasefire"
-    },
-    {
-     "outlet": "Times of India",
-     "url": "https://timesofindia.indiatimes.com/world/europe/hundreds-evacuated-from-occupied-oleshky-as-melania-trump-brokers-rare-russia-ukraine-ceasefire/articleshow/135397051.cms",
-     "date": "2026-10-31",
-     "access": "excerpt",
-     "via": null,
-     "note": "Hundreds evacuated from Oleshky as Melania Trump brokers rare Russia-Ukraine ceasefire"
-    },
-    {
-     "outlet": "The Straits Times",
-     "url": "https://www.straitstimes.com/world/europe/residents-of-russian-controlled-ukrainian-town-arrive-in-belarus",
-     "date": "2026-10-31",
-     "access": "excerpt",
-     "via": null,
-     "note": "Residents of Russian-controlled Ukrainian town arrive in Belarus"
+     "note": "$6.3 billion Binance hack likely work of North Korea, experts say"
     },
     {
      "outlet": "Reuters",
      "url": null,
-     "date": "2026-10-31",
+     "date": "2026-11-02",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "Residents of Russian-controlled Ukrainian town arrive in Belarus - Reuters"
+     "note": "Binance sees spike in withdrawals as exchange returns online after $6.3 billion heist - Reuters"
     },
     {
-     "outlet": "The Guardian",
-     "url": "https://www.theguardian.com/world/2026/oct/30/evacuation-besieged-ukrainian-city-oleshky",
-     "date": "2026-10-31",
+     "outlet": "Associated Press",
+     "url": null,
+     "date": "2026-11-02",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "FBI blames North Korea for stolen billions from Binance in biggest hack in history - AP News"
+    },
+    {
+     "outlet": "Bloomberg",
+     "url": null,
+     "date": "2026-11-02",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Binance to Resume Customer Withdrawals in Phases After Hack - Bloomberg"
+    },
+    {
+     "outlet": "Financial Times",
+     "url": null,
+     "date": "2026-11-02",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Binance users pull $3.6bn as crypto exchange restarts services after heist - Financial Times"
+    },
+    {
+     "outlet": "Sky News",
+     "url": "https://news.sky.com/story/majority-of-funds-stolen-in-cryptocurrency-hack-replenished-binance-says-13606152",
+     "date": "2026-11-02",
      "access": "excerpt",
      "via": null,
-     "note": "Evacuation of civilians begins in besieged Ukrainian city of Oleshky"
+     "note": "Majority of funds stolen in cryptocurrency hack replenished, Binance says"
     }
    ],
-   "continuity": null,
+   "continuity": {
+    "previousDate": "2026-10-30",
+    "previousScore": 41,
+    "note": "3日連続で報じられている"
+   },
    "coverage": {
-    "world": "9/18",
-    "jp": "2/6",
+    "world": "13/18",
+    "jp": "1/6",
     "worldTotal": 18,
     "jpTotal": 6
    },
@@ -109,85 +145,186 @@
    "summarizedBy": "claude-haiku-5-5"
   },
   {
-   "id": "intl-brief-2026-10-31-s-20261031-03",
+   "id": "intl-brief-2026-11-02-s-20261102-10",
    "stream": "intl",
    "depth": "brief",
    "section": "world",
-   "headline": "米、ウクライナへパトリオット500発の売却を承認",
-   "originalTitle": "US approves sale of 500 Patriot missiles to Ukraine",
+   "headline": "ミシガン上院選、民主党のスティーブンス氏が共和党候補を支持",
+   "originalTitle": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
    "outlet": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
    "region": "overseas",
    "category": null,
-   "score": 24,
+   "score": 28,
    "tier": "interest",
-   "pubDate": "2026-10-31T10:13:23.839Z",
+   "pubDate": "2026-11-01T21:09:55.871Z",
    "body": null,
-   "summary": "米国務省は、ウクライナへのパトリオット迎撃ミサイルPAC-3の売却を承認したと発表した。対象は500発で、推定額は21億ドル。Al Jazeeraは、トランプ政権発足以降で防御兵器の供給として最も重要な措置の一つだと位置づけた。資金はカナダ、ドイツ、ノルウェーの寄付と、EUのウクライナ支援ローンで賄うとされる。Guardianは、ゼレンスキー大統領が米国の決定を歓迎しつつ、引き渡しには数年かかる恐れがあると警告したと伝えた。BBCは、このミサイルがロシアの弾道ミサイルを撃墜できる有効な兵器だと説明した。",
+   "summary": "米ミシガン州の上院選で、民主党のハレー・スティーブンス下院議員が共和党のマイク・ロジャーズ候補を支持すると表明した。予備選で敗れた同氏は、民主党候補アブドゥル・エル＝サイド氏と対立していた。日曜に教会でロジャーズ氏と並んで姿を見せ、動画で「私はアブドゥルの選挙運動には属さない」と述べた。エル＝サイド氏は、共同で出る予定だった日曜の行事に来ないよう求めたと報じられた。ガーディアンは、民主党内から「裏切り」だとする反発が出ていると伝えた。投票は火曜日。",
    "sources": [
     {
      "outlet": "BBC",
-     "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
-     "date": "2026-10-31",
+     "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-02",
      "access": "body",
      "via": null,
-     "note": "US approves sale of 500 Patriot missiles to Ukraine"
+     "note": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates"
+    },
+    {
+     "outlet": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-02/us-midterms-democrats-michigan-campaign-haley-stevens-backs-gop/107334852",
+     "date": "2026-11-02",
+     "access": "body",
+     "via": null,
+     "note": "'Despicable betrayal': Democrat backs GOP candidate in key midterms race"
     },
     {
      "outlet": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/31/us-greenlights-2-1bn-patriot-missile-sale-to-ukraine?traffic_source=rss",
-     "date": "2026-10-31",
-     "access": "body",
-     "via": null,
-     "note": "US greenlights $2.1bn Patriot missile sale to Ukraine"
-    },
-    {
-     "outlet": "Euronews",
-     "url": "https://www.euronews.com/2026/10/31/zelenskyy-thanks-us-over-deal-for-500-patriot-missiles-but-warns-delivery-could-take-years",
-     "date": "2026-10-31",
+     "url": "https://www.aljazeera.com/news/2026/11/1/michigan-dem-haley-stevens-endorses-republican-senate-candidate-mike-rogers?traffic_source=rss",
+     "date": "2026-11-02",
      "access": "excerpt",
      "via": null,
-     "note": "Zelenskyy thanks US over deal for 500 Patriot missiles but warns delivery could take years"
+     "note": "Michigan Dem Haley Stevens endorses Republican Senate candidate Mike Rogers"
     },
     {
-     "outlet": "CBS News",
-     "url": "https://www.cbsnews.com/news/ukraine-patriot-missiles-us-lockheed-martin-sale-zelenskyy/",
-     "date": "2026-10-31",
+     "outlet": "France 24",
+     "url": "https://www.france24.com/en/tv-shows/spotlight/20261101-michigan-betrayal-mid-term-manouvres",
+     "date": "2026-11-02",
      "access": "excerpt",
      "via": null,
-     "note": "U.S. approves sale of 500 Patriot missiles to Ukraine"
+     "note": "Michigan ‘Betrayal’ & Mid Term Manouvres"
     },
     {
-     "outlet": "Reuters",
+     "outlet": "South China Morning Post",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3372911/democratic-divisions-shake-pivotal-michigan-senate-race-congresswoman-breaks-ranks",
+     "date": "2026-11-02",
+     "access": "excerpt",
+     "via": null,
+     "note": "Democratic divisions shake up pivotal Michigan Senate race as congresswoman breaks ranks"
+    },
+    {
+     "outlet": "Associated Press",
      "url": null,
-     "date": "2026-10-31",
+     "date": "2026-11-02",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "US approves $2.1 billion Patriot missile sale to Ukraine - Reuters"
+     "note": "El-Sayed's primary opponent stuns Democrats by endorsing Republican opponent in Michigan Senate race - AP News"
     },
     {
      "outlet": "Bloomberg",
      "url": null,
-     "date": "2026-10-31",
+     "date": "2026-11-02",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "US Approves $2.1 Billion in Patriot Missiles For Ukraine - Bloomberg"
+     "note": "El-Sayed’s Democratic Rival Endorses GOP’s Rogers in Party Split - Bloomberg"
+    },
+    {
+     "outlet": "Financial Times",
+     "url": null,
+     "date": "2026-11-02",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Michigan Democrat Haley Stevens endorses Republican instead of Abdul El-Sayed - Financial Times"
     },
     {
      "outlet": "The Guardian",
-     "url": "https://www.theguardian.com/world/2026/oct/31/ukraines-zelenskyy-praises-us-over-21bn-patriot-missile-deal-but-warns-it-could-take-years",
-     "date": "2026-10-31",
+     "url": "https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate",
+     "date": "2026-11-02",
      "access": "excerpt",
      "via": null,
-     "note": "Ukraine’s Zelenskyy praises US over $2.1bn Patriot missile deal but warns it could take years"
+     "note": "Democrat Haley Stevens endorses Abdul El-Sayed’s Republican rival Mike Rogers"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "9/18",
+    "jp": "0/6",
+    "worldTotal": 18,
+    "jpTotal": 6
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "claude-haiku-5-5"
+  },
+  {
+   "id": "intl-brief-2026-11-02-s-20261102-04",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "world",
+   "headline": "ドイツ各地で生活費抗議、フランクフルトで略奪",
+   "originalTitle": "Shops looted as German cost-of-living protests turn violent",
+   "outlet": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+   "region": "overseas",
+   "category": null,
+   "score": 25,
+   "tier": "interest",
+   "pubDate": "2026-11-01T21:09:55.871Z",
+   "body": null,
+   "summary": "ドイツ各地で、教育予算の不足や生活費の高騰などに抗議する若者のデモが行われた。主催は団体「Gen Z regelt（Z世代が取り仕切る）」。ベルリン、ハンブルク、フランクフルトなどでは、デモ隊と警察の衝突や商店の略奪も起きた。ヘッセン州の内相によると、フランクフルトでは17店舗が壊され、うち5店舗で略奪があった。警察官100人以上がけがをし、54人が逮捕された。ドブリント内相は厳罰を求めた。フランスでも同じ土曜日に約32万人がデモに参加した。",
+   "sources": [
+    {
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-02",
+     "access": "body",
+     "via": null,
+     "note": "Shops looted as German cost-of-living protests turn violent"
     },
     {
      "outlet": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-10-31/ukraine-war-patriot-missiles-sale-approved-by-us-congress/107331652",
-     "date": "2026-10-31",
+     "url": "https://www.abc.net.au/news/2026-11-02/protests-europe-germany-frankfurt/107334774",
+     "date": "2026-11-02",
+     "access": "body",
+     "via": null,
+     "note": "Protesters loot shops, 100 officers injured as riots spread to Germany"
+    },
+    {
+     "outlet": "Euronews",
+     "url": "https://www.euronews.com/video/2026/11/01/looted-shops-burning-barricades-as-riots-erupt-in-frankfurt",
+     "date": "2026-11-02",
      "access": "excerpt",
      "via": null,
-     "note": "US approves $3 billion Patriot missile sale to Ukraine"
+     "note": "Looted shops, burning barricades as riots erupt in Frankfurt"
+    },
+    {
+     "outlet": "CBS News",
+     "url": "https://www.cbsnews.com/news/germany-protest-frankfurt-looting-violence/",
+     "date": "2026-11-02",
+     "access": "excerpt",
+     "via": null,
+     "note": "Rioters loot stores in Germany amid cost of living protests"
+    },
+    {
+     "outlet": "The Straits Times",
+     "url": "https://www.straitstimes.com/world/europe/violence-after-germanys-gen-z-demos-slammed-by-politicians",
+     "date": "2026-11-02",
+     "access": "excerpt",
+     "via": null,
+     "note": "Violence after Germany’s Gen Z demos slammed by politicians"
+    },
+    {
+     "outlet": "Reuters",
+     "url": null,
+     "date": "2026-11-02",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "German ministers vow tough response to Frankfurt riots and looting - Reuters"
+    },
+    {
+     "outlet": "Bloomberg",
+     "url": null,
+     "date": "2026-11-02",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "German Protests Turn Violent as Activists Clash With Police - Bloomberg.com"
+    },
+    {
+     "outlet": "Financial Times",
+     "url": null,
+     "date": "2026-11-02",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Gen Z protests turn violent in Germany - Financial Times"
     }
    ],
    "continuity": null,
@@ -202,166 +339,69 @@
    "summarizedBy": "claude-haiku-5-5"
   },
   {
-   "id": "intl-brief-2026-10-31-s-20261028-01",
+   "id": "intl-brief-2026-11-02-s-20261102-24",
    "stream": "intl",
    "depth": "brief",
    "section": "world",
-   "headline": "イスラエル総選挙、与野党とも過半数に届かず",
-   "originalTitle": "Israel’s Election Is Unlikely to Change Its Policies and Global Isolation",
+   "headline": "インド野党、選管委員長の辞任求め数万人集会",
+   "originalTitle": "India’s Congress Party Holds Mass Protest in New Delhi",
    "outlet": "New York Times",
-   "url": "https://www.nytimes.com/2026/10/30/world/europe/israel-election-netanyahu-eisenkot.html",
-   "region": "overseas",
-   "category": null,
-   "score": 23,
-   "tier": "interest",
-   "pubDate": "2026-10-31T10:13:23.839Z",
-   "body": null,
-   "summary": "イスラエル総選挙の最終結果で、ネタニヤフ首相の陣営は過半数を失った。リクード党は27議席で最多だが、右派と超正統派などの連立勢力は計53議席にとどまった。過半数には61議席が必要だ。野党のアイゼンコット党首は、アラブ系政党の支持なしには過半数に届かないとNPRは伝えた。Al Jazeeraは、記録的な投票率のアラブ系住民の政党が、キャスティングボートを握ったと報じた。NYTは、主要候補の安全保障政策やパレスチナ国家への立場に大きな違いはないと伝えた。CBSは、ネタニヤフ氏が選挙は盗まれたと主張していると報じた。",
-   "sources": [
-    {
-     "outlet": "New York Times",
-     "url": "https://www.nytimes.com/2026/10/30/world/europe/israel-election-netanyahu-eisenkot.html",
-     "date": "2026-10-31",
-     "access": "excerpt",
-     "via": null,
-     "note": "Israel’s Election Is Unlikely to Change Its Policies and Global Isolation"
-    },
-    {
-     "outlet": "NPR",
-     "url": "https://www.npr.org/2026/10/30/g-s1-150761/israel-election-politics-deadlock-arabs",
-     "date": "2026-10-31",
-     "access": "body",
-     "via": null,
-     "note": "Israel is in a political deadlock. What comes next?"
-    },
-    {
-     "outlet": "Deutsche Welle",
-     "url": "https://www.dw.com/en/germany-takes-cautious-approach-on-israeli-election-results/a-79805184?maca=en-rss-en-world-4025-rdf",
-     "date": "2026-10-31",
-     "access": "excerpt",
-     "via": null,
-     "note": "Germany takes cautious approach on Israeli election results"
-    },
-    {
-     "outlet": "CBS News",
-     "url": "https://www.cbsnews.com/news/israel-election-results-netanyahu-likud-claim-stolen-arab-parties/",
-     "date": "2026-10-31",
-     "access": "excerpt",
-     "via": null,
-     "note": "Netanyahu&#039;s party claims Israel&#039;s election was stolen. Now what?"
-    },
-    {
-     "outlet": "Times of India",
-     "url": "https://timesofindia.indiatimes.com/world/middle-east/israel-elections-anti-netanyahu-bloc-weighs-direct-pm-election-bill-to-break-political-deadlock/articleshow/135394352.cms",
-     "date": "2026-10-31",
-     "access": "headline",
-     "via": null,
-     "note": "Anti-Netanyahu bloc weighs direct PM election bill to break political deadlock"
-    },
-    {
-     "outlet": "Associated Press",
-     "url": null,
-     "date": "2026-10-31",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Difficult negotiations lie ahead in Israel after Netanyahu’s bloc lost its parliamentary majority - AP News"
-    },
-    {
-     "outlet": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-10-31/israel-election-leaves-anti-netanyahu-arab-parties-kingmakers/107326622",
-     "date": "2026-10-31",
-     "access": "excerpt",
-     "via": null,
-     "note": "Israel's Arab parties emerge from deadlocked election as kingmakers"
-    },
-    {
-     "outlet": "The Guardian",
-     "url": "https://www.theguardian.com/world/2026/oct/30/friday-briefing-israel-has-a-dilemma-can-its-opposition-govern-with-palestinian-parties",
-     "date": "2026-10-31",
-     "access": "excerpt",
-     "via": null,
-     "note": "Friday briefing: Israel has a dilemma - can its opposition govern with Palestinian parties?"
-    }
-   ],
-   "continuity": {
-    "previousDate": "2026-10-28",
-    "previousScore": 49,
-    "note": "4日連続で報じられている"
-   },
-   "coverage": {
-    "world": "8/18",
-    "jp": "1/6",
-    "worldTotal": 18,
-    "jpTotal": 6
-   },
-   "bodyAvailable": true,
-   "discussionUrl": null,
-   "summarizedBy": "claude-haiku-5-5"
-  },
-  {
-   "id": "intl-brief-2026-10-31-s-20261031-02",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "world",
-   "headline": "G20外相会合、露外相との集合写真を中止",
-   "originalTitle": "G20 photocall axed after Miliband and other ministers refuse to be pictured with top Russian diplomat",
-   "outlet": "Sky News",
-   "url": "https://news.sky.com/story/g20-photocall-cancelled-after-ed-miliband-and-other-foreign-ministers-refuse-to-be-pictured-with-russias-sergei-lavrov-13605874",
+   "url": "https://www.nytimes.com/2026/10/31/world/asia/congress-cjp-protest-delhi-india-modi.html",
    "region": "overseas",
    "category": null,
    "score": 22,
    "tier": "interest",
-   "pubDate": "2026-10-31T10:13:23.839Z",
+   "pubDate": "2026-11-01T21:09:55.871Z",
    "body": null,
-   "summary": "米アトランタで開かれたG20外相会合で、恒例の集合写真が中止された。欧州の外交官らが、ロシアのラブロフ外相と並んで写真に写ることを拒否したためだ。Guardianによると、参加国の約3分の1がボイコットを示唆したことを受け、ルビオ米国務長官が中止を決めた。BBCは、英国のミリバンド外相がラブロフ氏に対し「侵略者が誰かは皆知っている」と述べたと伝えた。ウクライナはG20の加盟国ではないが、今回は招かれなかったとBBCは報じた。英国政府は、侵攻以来ロシアの閣僚と直接協議しない方針を維持するとしている。",
+   "summary": "インドの野党連合「INDIA」は日曜、ニューデリーで集会を開き、選挙管理委員長の辞任を求めた。主催は国民会議派で、数万人が集まったと伝えられる。野党は、有権者名簿の見直しで有権者が不当に除外され、与党インド人民党（BJP）に有利になったと主張している。BJPと選管はこの主張を否定している。ガーディアンは、約1億3000万人分の名前が名簿から削除されたことへの怒りが広がっていると伝えた。ラフル・ガンディー氏は、民主主義と憲法を守ると演説した。",
    "sources": [
     {
-     "outlet": "Sky News",
-     "url": "https://news.sky.com/story/g20-photocall-cancelled-after-ed-miliband-and-other-foreign-ministers-refuse-to-be-pictured-with-russias-sergei-lavrov-13605874",
-     "date": "2026-10-31",
+     "outlet": "New York Times",
+     "url": "https://www.nytimes.com/2026/10/31/world/asia/congress-cjp-protest-delhi-india-modi.html",
+     "date": "2026-11-02",
      "access": "excerpt",
      "via": null,
-     "note": "G20 photocall axed after Miliband and other ministers refuse to be pictured with top Russian diplomat"
+     "note": "India’s Congress Party Holds Mass Protest in New Delhi"
     },
     {
      "outlet": "BBC",
-     "url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
-     "date": "2026-10-31",
+     "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-02",
      "access": "body",
      "via": null,
-     "note": "G20 'family photo' cancelled after protests over presence of Russian minister"
+     "note": "India's opposition holds mega rally seeking election chief's resignation"
     },
     {
      "outlet": "The Guardian",
-     "url": "https://www.theguardian.com/world/2026/oct/31/us-cancels-g20-family-photo-after-australia-uk-and-others-refuse-to-appear-with-russia",
-     "date": "2026-10-31",
+     "url": "https://www.theguardian.com/world/2026/nov/01/india-opposition-protest-rally-delhi",
+     "date": "2026-11-02",
      "access": "excerpt",
      "via": null,
-     "note": "US cancels G20 ‘family photo’ after Australia, UK and others refuse to appear with Russia"
+     "note": "Tens of thousands protest against Narendra Modi regime in Delhi"
+    },
+    {
+     "outlet": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/india-protesters-march-with-1km-banner-of-deleted-voters-names?traffic_source=rss",
+     "date": "2026-11-02",
+     "access": "excerpt",
+     "via": null,
+     "note": "India protesters march with 1km banner of deleted voters’ names"
     },
     {
      "outlet": "France 24",
-     "url": "https://www.france24.com/en/russia-s-presence-divides-g20-ministers",
-     "date": "2026-10-31",
+     "url": "https://www.france24.com/en/thousands-join-indian-opposition-protest",
+     "date": "2026-11-02",
      "access": "excerpt",
      "via": null,
-     "note": "Russia's presence divides G20 ministers"
+     "note": "Thousands join Indian opposition protest"
     },
     {
-     "outlet": "Euronews",
-     "url": "https://www.euronews.com/2026/10/30/eu-diplomats-object-to-g20-photo-with-lavrov-prompting-us-cancellation",
-     "date": "2026-10-31",
+     "outlet": "South China Morning Post",
+     "url": "https://www.scmp.com/news/asia/south-asia/article/3372886/indian-opposition-unites-demand-modi-electoral-chiefs-resignation",
+     "date": "2026-11-02",
      "access": "excerpt",
      "via": null,
-     "note": "EU diplomats object to G20 photo with Lavrov, prompting US cancellation"
-    },
-    {
-     "outlet": "Bloomberg",
-     "url": null,
-     "date": "2026-10-31",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "G20 Photo Scrapped After Leaders Object to Russia’s Presence - Bloomberg"
+     "note": "Indian opposition unites to demand Modi electoral chief’s resignation"
     }
    ],
    "continuity": null,
@@ -376,167 +416,78 @@
    "summarizedBy": "claude-haiku-5-5"
   },
   {
-   "id": "intl-brief-2026-10-31-s-20261031-04",
+   "id": "intl-brief-2026-11-02-s-20261023-02",
    "stream": "intl",
    "depth": "brief",
    "section": "world",
-   "headline": "露の独立系紙ノーバヤ・ガゼータ、発行終了へ",
-   "originalTitle": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
-   "outlet": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
+   "headline": "フランス各地で生活費抗議、32万人参加　一部衝突",
+   "originalTitle": "Clashes Erupt Again in France, After Festive Start to Day of Protest",
+   "outlet": "New York Times",
+   "url": "https://www.nytimes.com/2026/10/31/world/europe/france-protests-clashes.html",
    "region": "overseas",
    "category": null,
-   "score": 22,
+   "score": 19,
    "tier": "interest",
-   "pubDate": "2026-10-31T10:13:23.839Z",
+   "pubDate": "2026-11-01T21:09:55.871Z",
    "body": null,
-   "summary": "ロシアで最も知られた独立系紙ノーバヤ・ガゼータが、30年以上にわたる発行を終えると発表した。APは、当局の圧力を理由とした閉鎖だと伝えた。BBCによると、共同創設者でノーベル平和賞受賞者のドミトリー・ムラトフ氏は、当局が「首を絞めた」と語った。ウェブサイトの遮断や紙媒体の禁止、報道許可の取り消しが挙げられ、読者からの寄付も銀行が受け付けなくなったという。NYTは、記者らが政府によって存続を断たれたと主張したと報じた。同紙は、職務を果たしたために殺害された同僚が6人いると主張している。",
+   "summary": "フランスでは土曜日、生活費の高騰や教育環境に抗議する若者中心のデモが全国で行われ、政府発表で約32万人が参加した。警察と憲兵約7万人が配備され、内務省によると、パリの主会場には約7万人が集まった。大半は平和的だったが、一部で警察との衝突があった。内相は、ハロウィーンの夜に暴動の「非常に高いリスク」があると警告していた。NPRは、10月17日の大規模デモでは暴動や略奪が起きたと伝えた。",
    "sources": [
     {
-     "outlet": "BBC",
-     "url": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
-     "date": "2026-10-31",
+     "outlet": "New York Times",
+     "url": "https://www.nytimes.com/2026/10/31/world/europe/france-protests-clashes.html",
+     "date": "2026-11-02",
+     "access": "excerpt",
+     "via": null,
+     "note": "Clashes Erupt Again in France, After Festive Start to Day of Protest"
+    },
+    {
+     "outlet": "NPR",
+     "url": "https://www.npr.org/2026/10/31/g-s1-151121/france-seethes-again-as-youth-led-protests-sweep-europe",
+     "date": "2026-11-02",
      "access": "body",
      "via": null,
-     "note": "They strangled us, says founder of Russian newspaper shut under pressure from authorities"
+     "note": "France seethes again as youth-led protests sweep Europe"
     },
     {
-     "outlet": "New York Times",
-     "url": "https://www.nytimes.com/2026/10/30/world/europe/russia-novaya-gazeta-newspaper.html",
-     "date": "2026-10-31",
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-02",
      "access": "excerpt",
      "via": null,
-     "note": "Russian News Outlet That Defied Kremlin Will Shut Down: ‘They Killed Us’"
-    },
-    {
-     "outlet": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/russias-novaya-gazeta-killed-off-after-murders-arrests-and-pressure?traffic_source=rss",
-     "date": "2026-10-31",
-     "access": "excerpt",
-     "via": null,
-     "note": "Russia’s Novaya Gazeta ‘killed off’ after murders, arrests and pressure"
+     "note": "Thousands demonstrate in Paris as protests spread across Europe"
     },
     {
      "outlet": "France 24",
-     "url": "https://www.france24.com/en/video/20261030-russia-s-novaya-gazeta-to-cease-publication-amid-kremlin-crackdown",
-     "date": "2026-10-31",
+     "url": "https://www.france24.com/en/france-reports-largely-peaceful-protests",
+     "date": "2026-11-02",
      "access": "excerpt",
      "via": null,
-     "note": "Russia’s Novaya Gazeta to cease publication amid Kremlin crackdown"
+     "note": "France reports largely peaceful protests"
     },
     {
      "outlet": "CBS News",
-     "url": "https://www.cbsnews.com/news/novaya-gazeta-russia-newspaper-closes-putin-free-press-crackdown/",
-     "date": "2026-10-31",
+     "url": "https://www.cbsnews.com/news/france-protests-paris-police-clash-demonstrators-halloween/",
+     "date": "2026-11-02",
      "access": "excerpt",
      "via": null,
-     "note": "Last independent newspaper in Russia forced to shut down"
+     "note": "French police clash with some protesters again as demonstrations continue"
     },
     {
      "outlet": "Associated Press",
      "url": null,
-     "date": "2026-10-31",
+     "date": "2026-11-02",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "Russia’s top independent newspaper shuts down, blaming pressure from authorities - AP News"
-    },
-    {
-     "outlet": "Financial Times",
-     "url": null,
-     "date": "2026-10-31",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Russia’s last major independent newspaper shuts under government pressure - Financial Times"
+     "note": "A third weekend of protests in France as youth-led rallies sweep Europe - AP News"
     }
    ],
-   "continuity": null,
-   "coverage": {
-    "world": "7/18",
-    "jp": "1/6",
-    "worldTotal": 18,
-    "jpTotal": 6
+   "continuity": {
+    "previousDate": "2026-10-23",
+    "previousScore": 32,
+    "note": "4日連続で報じられている"
    },
-   "bodyAvailable": true,
-   "discussionUrl": null,
-   "summarizedBy": "claude-haiku-5-5"
-  },
-  {
-   "id": "intl-brief-2026-10-31-s-20261031-13",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "world",
-   "headline": "フラビオ・ボルソナロ氏、米国へ出国し「迫害」と主張",
-   "originalTitle": "‘Amateur morons’: Flávio Bolsonaro’s short-lived ‘president-elect’ claim met with mockery",
-   "outlet": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/oct/30/flavio-bolsonaros-president-elect-claim-mockery-brazil",
-   "region": "overseas",
-   "category": null,
-   "score": 22,
-   "tier": "interest",
-   "pubDate": "2026-10-31T10:13:23.839Z",
-   "body": null,
-   "summary": "ブラジル大統領選の決選投票で敗れた右派のフラビオ・ボルソナロ上院議員が、米国へ渡ったと各紙が報じた。動画で「迫害」が理由だと述べ、パスポートが取り消されたと説明した。ABCによると、同氏はマネーロンダリング捜査の一環でパスポートを無効にされたという。Guardianは、同氏が一時「真の次期大統領」を名乗る書簡を出したが、ブラジルの各紙から嘲笑を受けたと伝えた。France 24は、決選投票に不正があったことを示唆したと報じた。Euronewsは、ブラジル政府がアルゼンチン側に経緯を問いただしたが、アルゼンチンは否定したと伝えた。",
-   "sources": [
-    {
-     "outlet": "The Guardian",
-     "url": "https://www.theguardian.com/world/2026/oct/30/flavio-bolsonaros-president-elect-claim-mockery-brazil",
-     "date": "2026-10-31",
-     "access": "body",
-     "via": null,
-     "note": "‘Amateur morons’: Flávio Bolsonaro’s short-lived ‘president-elect’ claim met with mockery"
-    },
-    {
-     "outlet": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-10-31/flavio-bolsonaro-says-he-left-brazil-because-of-persecution/107331760",
-     "date": "2026-10-31",
-     "access": "body",
-     "via": null,
-     "note": "Flavio Bolsonaro says in livestream he left Brazil due to 'persecution'"
-    },
-    {
-     "outlet": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/flavio-bolsonaro-vows-to-continue-fathers-political-fight-in-brazil?traffic_source=rss",
-     "date": "2026-10-31",
-     "access": "excerpt",
-     "via": null,
-     "note": "Flávio Bolsonaro vows to continue father’s political fight in Brazil"
-    },
-    {
-     "outlet": "France 24",
-     "url": "https://www.france24.com/en/americas/20261031-flavio-bolsonaro-posts-video-says-he-fled-brazil-due-to-persecution",
-     "date": "2026-10-31",
-     "access": "excerpt",
-     "via": null,
-     "note": "Flavio Bolsonaro posts video, says he fled Brazil due to ‘persecution’"
-    },
-    {
-     "outlet": "Euronews",
-     "url": "https://www.euronews.com/2026/10/30/brazil-claims-it-questioned-argentina-over-bolsonaros-escape-buenos-aires-denies-it",
-     "date": "2026-10-31",
-     "access": "excerpt",
-     "via": null,
-     "note": "Brazil claims it questioned Argentina over Bolsonaro's escape, Buenos Aires denies it"
-    },
-    {
-     "outlet": "The Straits Times",
-     "url": "https://www.straitstimes.com/world/flavio-bolsonaro-says-he-left-brazil-because-he-is-the-victim-of-persecution",
-     "date": "2026-10-31",
-     "access": "excerpt",
-     "via": null,
-     "note": "Flavio Bolsonaro says he left Brazil because he is the victim of ‘persecution’"
-    },
-    {
-     "outlet": "Associated Press",
-     "url": null,
-     "date": "2026-10-31",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "The Bolsonaro clan is still strong in Brazilian politics despite Flávio’s defeat and flight to US - AP News"
-    }
-   ],
-   "continuity": null,
    "coverage": {
-    "world": "7/18",
+    "world": "6/18",
     "jp": "0/6",
     "worldTotal": 18,
     "jpTotal": 6
@@ -546,68 +497,344 @@
    "summarizedBy": "claude-haiku-5-5"
   },
   {
-   "id": "intl-brief-2026-10-31-s-20261023-02",
+   "id": "intl-brief-2026-11-02-s-20261102-23",
    "stream": "intl",
    "depth": "brief",
    "section": "world",
-   "headline": "生活費への抗議、ドイツにも拡大へ 仏でも再燃",
-   "originalTitle": "How Locals and Shopkeepers Tried to Save One Paris Street From Rioters",
+   "headline": "ポーランド首相、憲法裁判所改革の継続を表明",
+   "originalTitle": "Poland Deploys Riot Police in Standoff Over Country’s Top Court",
    "outlet": "New York Times",
-   "url": "https://www.nytimes.com/2026/10/31/world/europe/france-riots-protests-paris-rue-beaurepaire.html",
+   "url": "https://www.nytimes.com/2026/10/31/world/europe/poland-court-police-president.html",
+   "region": "overseas",
+   "category": null,
+   "score": 19,
+   "tier": "interest",
+   "pubDate": "2026-11-01T21:09:55.871Z",
+   "body": null,
+   "summary": "ポーランドのトゥスク首相は土曜夜のテレビ演説で、物議を醸している憲法裁判所の改革を進めると表明した。「一部の問題では妥協はあり得ない」と述べている。前夜には、政府寄りの判事らが裁判所の手続き上の権限を握ろうとし、右派「法と正義（PiS）」が任命した裁判所長と副長を停職にした。これを受けて抗議デモが起き、警官隊が裁判所の建物を警備した。欧州委員会は、ナブロツキ大統領に新任判事の承認を求めた。",
+   "sources": [
+    {
+     "outlet": "New York Times",
+     "url": "https://www.nytimes.com/2026/10/31/world/europe/poland-court-police-president.html",
+     "date": "2026-11-02",
+     "access": "excerpt",
+     "via": null,
+     "note": "Poland Deploys Riot Police in Standoff Over Country’s Top Court"
+    },
+    {
+     "outlet": "The Guardian",
+     "url": "https://www.theguardian.com/world/2026/oct/31/donald-tusk-defends-overhaul-poland-constitutional-court-despite-protests",
+     "date": "2026-11-02",
+     "access": "body",
+     "via": null,
+     "note": "Tusk defends overhaul of Poland’s constitutional court despite protests"
+    },
+    {
+     "outlet": "France 24",
+     "url": "https://www.france24.com/en/poland-rocked-by-constitutional-showdown",
+     "date": "2026-11-02",
+     "access": "excerpt",
+     "via": null,
+     "note": "Poland rocked by Constitutional showdown"
+    },
+    {
+     "outlet": "Euronews",
+     "url": "https://www.euronews.com/2026/11/01/eu-commission-polish-parliament-has-right-to-appoint-judges-to-the-constitutional-court",
+     "date": "2026-11-02",
+     "access": "excerpt",
+     "via": null,
+     "note": "EU Commission: Polish Parliament has right to appoint judges to the Constitutional Court"
+    },
+    {
+     "outlet": "Times of India",
+     "url": "https://timesofindia.indiatimes.com/world/europe/polands-top-court-turns-into-battleground-as-tusk-and-pro-trump-president-clash/articleshow/135433808.cms",
+     "date": "2026-11-02",
+     "access": "headline",
+     "via": null,
+     "note": "Poland’s top court turns into battleground as Tusk and pro-Trump president clash"
+    },
+    {
+     "outlet": "Financial Times",
+     "url": null,
+     "date": "2026-11-02",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Donald Tusk vows to press on with overhaul of Poland’s judiciary - Financial Times"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "6/18",
+    "jp": "0/6",
+    "worldTotal": 18,
+    "jpTotal": 6
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "claude-haiku-5-5"
+  },
+  {
+   "id": "intl-brief-2026-11-02-s-20261102-18",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "world",
+   "headline": "ブルガリア大統領選、ヨトバ氏が決選投票で先行",
+   "originalTitle": "Bulgaria’s acting President Iotova leads in run-off exit polls",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/1/bulgarian-president-yotova-leads-runoff-exit-polls-show?traffic_source=rss",
    "region": "overseas",
    "category": null,
    "score": 17,
    "tier": "interest",
-   "pubDate": "2026-10-31T10:13:23.839Z",
+   "pubDate": "2026-11-01T21:09:55.871Z",
    "body": null,
-   "summary": "イタリア、スペイン、ポルトガル、アルバニア、フランスなどで続く学生らの抗議デモが、ドイツにも広がる見通しだとGuardianが伝えた。フランスでは土曜日のハロウィーンに再燃する見込みだ。抗議は、生活費や公共サービスの不足への不満が背景にある。ドイツでは「Gen Z regelt」と名乗る団体連合が30以上の都市での集会を呼びかけ、教育や住宅への支出増などを求めている。France 24は、フランス内務相が夜間の混乱を懸念したと報じた。Euronewsは、7万人の警察官が動員され、夜間の外出制限も設けられると伝えた。",
+   "summary": "ブルガリアの大統領決選投票（日曜）の出口調査では、暫定大統領のイリアナ・ヨトバ氏が得票率約51〜52%で先行した。対立候補で欧米寄りの野党のアンドレイ・ギュロフ氏は約44〜45%とされる。結果が確定すれば、ヨトバ氏はブルガリア初の女性の選挙による大統領となる。ヨトバ氏はロシアとの対話を重視し、ウクライナへの軍事支援に反対している。投票率は27〜29%程度と見込まれ、前回の過去最低23%を上回る見通しという。",
    "sources": [
     {
-     "outlet": "New York Times",
-     "url": "https://www.nytimes.com/2026/10/31/world/europe/france-riots-protests-paris-rue-beaurepaire.html",
-     "date": "2026-10-31",
-     "access": "excerpt",
-     "via": null,
-     "note": "How Locals and Shopkeepers Tried to Save One Paris Street From Rioters"
-    },
-    {
-     "outlet": "The Guardian",
-     "url": "https://www.theguardian.com/world/2026/oct/30/cost-of-living-protests-to-spread-to-germany-and-reignite-in-france-on-halloween",
-     "date": "2026-10-31",
+     "outlet": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/1/bulgarian-president-yotova-leads-runoff-exit-polls-show?traffic_source=rss",
+     "date": "2026-11-02",
      "access": "body",
      "via": null,
-     "note": "Cost of living protests to spread to Germany and reignite in France on Halloween"
-    },
-    {
-     "outlet": "France 24",
-     "url": "https://www.france24.com/en/french-interior-minister-fears-disorder-after-dark-on-halloween",
-     "date": "2026-10-31",
-     "access": "excerpt",
-     "via": null,
-     "note": "French Interior Minister fears disorder after dark on Halloween"
+     "note": "Bulgaria’s acting President Iotova leads in run-off exit polls"
     },
     {
      "outlet": "Euronews",
-     "url": "https://www.euronews.com/2026/10/31/france-to-deploy-70000-security-personnel-as-it-prepares-for-halloween-protests",
-     "date": "2026-10-31",
+     "url": "https://www.euronews.com/2026/11/01/bulgarias-acting-president-yotova-leads-in-exit-polls-of-runoff-election",
+     "date": "2026-11-02",
+     "access": "body",
+     "via": null,
+     "note": "Bulgaria's acting President Yotova leads in exit polls of runoff election"
+    },
+    {
+     "outlet": "South China Morning Post",
+     "url": "https://www.scmp.com/news/world/europe/article/3372909/bulgarian-acting-president-iliana-iotova-wins-run-election-exit-polls-show",
+     "date": "2026-11-02",
      "access": "excerpt",
      "via": null,
-     "note": "Curfews, 70,000 police and Halloween fears: France braces for fresh protests"
+     "note": "Bulgarian acting president Iliana Iotova wins run-off election, exit polls show"
+    },
+    {
+     "outlet": "The Straits Times",
+     "url": "https://www.straitstimes.com/world/europe/bulgaria-votes-in-presidential-runoff-after-tight-first-round",
+     "date": "2026-11-02",
+     "access": "excerpt",
+     "via": null,
+     "note": "Bulgaria's acting President Iotova takes lead in presidential runoff vote, exit polls show"
     },
     {
      "outlet": "Reuters",
      "url": null,
-     "date": "2026-10-31",
+     "date": "2026-11-02",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "France braces for fresh unrest, government vows tough response - Reuters"
+     "note": "Bulgaria's acting President Iotova takes lead in presidential runoff vote, exit polls show - Reuters"
+    },
+    {
+     "outlet": "Associated Press",
+     "url": null,
+     "date": "2026-11-02",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Exit polls suggest that Yotova wins runoff to become Bulgaria’s first elected female president - AP News"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "6/18",
+    "jp": "0/6",
+    "worldTotal": 18,
+    "jpTotal": 6
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "claude-haiku-5-5"
+  },
+  {
+   "id": "intl-brief-2026-11-02-s-20261029-01",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "world",
+   "headline": "スペイン列車衝突、ケンブリッジ大の研究者も死亡",
+   "originalTitle": "University of Cambridge scientist among those who died in Spanish train crash",
+   "outlet": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss",
+   "region": "overseas",
+   "category": null,
+   "score": 16,
+   "tier": "interest",
+   "pubDate": "2026-11-01T21:09:55.871Z",
+   "body": null,
+   "summary": "スペイン中部、マドリード南方のウルダ付近で水曜日、2本の列車が衝突し、少なくとも69人が死亡した。犠牲者には、ケンブリッジ大学幹細胞研究所の准教授で、医学研究会議（MRC）分子生物学研究所のグループリーダーだったマルタ・シャーバジ氏（41歳）が含まれる。同氏は、スペイン発生生物学会の科学的卓越賞を受ける予定で、学会に向かう途中だった。ニューヨーク・タイムズは、今年2件目となる大きな鉄道事故で、サンチェス首相の政権の能力が問われていると伝えた。",
+   "sources": [
+    {
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-02",
+     "access": "body",
+     "via": null,
+     "note": "University of Cambridge scientist among those who died in Spanish train crash"
+    },
+    {
+     "outlet": "The Guardian",
+     "url": "https://www.theguardian.com/world/2026/nov/01/tributes-marta-shahbazi-university-of-cambridge-scientist-spanish-train-crash",
+     "date": "2026-11-02",
+     "access": "body",
+     "via": null,
+     "note": "Tributes paid to ‘inspiring’ Cambridge scientist who died in Spain train crash"
+    },
+    {
+     "outlet": "New York Times",
+     "url": "https://www.nytimes.com/2026/10/31/world/europe/spain-train-crash-politics.html",
+     "date": "2026-11-02",
+     "access": "excerpt",
+     "via": null,
+     "note": "Train Disaster Is Blow to Spain’s Leader, Already Election Underdog"
+    },
+    {
+     "outlet": "Euronews",
+     "url": "https://www.euronews.com/2026/11/01/university-of-cambridge-scientist-among-victims-of-deadly-spain-train-crash",
+     "date": "2026-11-02",
+     "access": "excerpt",
+     "via": null,
+     "note": "University of Cambridge scientist among victims of deadly Spain train crash"
     }
    ],
    "continuity": {
-    "previousDate": "2026-10-23",
-    "previousScore": 32,
-    "note": "3日連続で報じられている"
+    "previousDate": "2026-10-29",
+    "previousScore": 40,
+    "note": "4日連続で報じられている"
    },
+   "coverage": {
+    "world": "4/18",
+    "jp": "1/6",
+    "worldTotal": 18,
+    "jpTotal": 6
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "claude-haiku-5-5"
+  },
+  {
+   "id": "intl-brief-2026-11-02-s-20261102-13",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "world",
+   "headline": "トランプ氏、上院選維持へアイオワ・カンザスで集会",
+   "originalTitle": "Trump rallies for embattled Senate seats after Halloween bash detour",
+   "outlet": "ABC Australia",
+   "url": "https://www.abc.net.au/news/2026-11-02/us-midterms-daily-news-briefing-trump-alaska-michigan/107326672",
+   "region": "overseas",
+   "category": null,
+   "score": 14,
+   "tier": "interest",
+   "pubDate": "2026-11-01T21:09:55.871Z",
+   "body": null,
+   "summary": "トランプ米大統領は日曜、共和党が上院の議席を維持するため、アイオワ州とカンザス州で選挙集会を開く予定だと報じられた。両州はトランプ氏が前回勝った共和党寄りの州。フロリダのマール・ア・ラゴで週末を過ごした後、選挙戦に戻る。カンザス州では、共和党の現職ロジャー・マーシャル氏と、民主党の著名な牧師アダム・ハミルトン氏が接戦を演じているという。",
+   "sources": [
+    {
+     "outlet": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-02/us-midterms-daily-news-briefing-trump-alaska-michigan/107326672",
+     "date": "2026-11-02",
+     "access": "body",
+     "via": null,
+     "note": "Trump rallies for embattled Senate seats after Halloween bash detour"
+    },
+    {
+     "outlet": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/1/trump-rallies-in-iowa-kansas-to-maintain-republican-control-of-us-senate?traffic_source=rss",
+     "date": "2026-11-02",
+     "access": "body",
+     "via": null,
+     "note": "Trump rallies in Iowa, Kansas to maintain Republican control of US Senate"
+    },
+    {
+     "outlet": "Bloomberg",
+     "url": null,
+     "date": "2026-11-02",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Trump Banks on Rallies to Turn Out MAGA Faithful One More Time - Bloomberg"
+    },
+    {
+     "outlet": "Financial Times",
+     "url": null,
+     "date": "2026-11-02",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Donald Trump makes final pitch to restive voters in US midterms campaign - Financial Times"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "4/18",
+    "jp": "2/6",
+    "worldTotal": 18,
+    "jpTotal": 6
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "claude-haiku-5-5"
+  },
+  {
+   "id": "intl-brief-2026-11-02-s-20261102-21",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "world",
+   "headline": "ロシア、モスクワの公園へのテロ計画で未成年を拘束",
+   "originalTitle": "Russia detains minor over alleged Moscow attack plot after US warning",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/1/russia-detains-minor-over-alleged-moscow-attack-plot-after-us-warning?traffic_source=rss",
+   "region": "overseas",
+   "category": null,
+   "score": 14,
+   "tier": "interest",
+   "pubDate": "2026-11-01T21:09:55.871Z",
+   "body": null,
+   "summary": "ロシア連邦保安庁（FSB）は日曜、モスクワの公園を狙ったテロを計画したとして、ロシア国籍の未成年者を拘束したと発表した。米国の情報提供が役立ったとしている。在モスクワ米大使館は土曜、ツァリツィノ博物館保護区で「大量殺傷につながる可能性のある脅威」があるとして警戒を呼びかけた。公園は一時閉鎖された。FSBによると、容疑者は目出し帽姿で自動小銃らしきものを持つ写真などをTikTokに投稿していた。",
+   "sources": [
+    {
+     "outlet": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/1/russia-detains-minor-over-alleged-moscow-attack-plot-after-us-warning?traffic_source=rss",
+     "date": "2026-11-02",
+     "access": "body",
+     "via": null,
+     "note": "Russia detains minor over alleged Moscow attack plot after US warning"
+    },
+    {
+     "outlet": "Euronews",
+     "url": "https://www.euronews.com/2026/11/01/russia-arrests-minor-after-us-embassy-warns-of-credible-threat-of-a-mass-casualty-event",
+     "date": "2026-11-02",
+     "access": "body",
+     "via": null,
+     "note": "Russia arrests minor after US embassy warns of 'credible threat of a mass casualty event'"
+    },
+    {
+     "outlet": "The Straits Times",
+     "url": "https://www.straitstimes.com/world/europe/russias-fsb-says-minor-detained-over-park-attack-threat-after-us-tip-off",
+     "date": "2026-11-02",
+     "access": "excerpt",
+     "via": null,
+     "note": "Russia's FSB says minor detained over park attack threat after US tip-off"
+    },
+    {
+     "outlet": "Reuters",
+     "url": null,
+     "date": "2026-11-02",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Russia's FSB says minor detained over park attack threat after US tip-off - Reuters"
+    },
+    {
+     "outlet": "Bloomberg",
+     "url": null,
+     "date": "2026-11-02",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Russia Says Teen Held After US Warning on Moscow Terror Threat - Bloomberg"
+    }
+   ],
+   "continuity": null,
    "coverage": {
     "world": "5/18",
     "jp": "0/6",
@@ -619,167 +846,45 @@
    "summarizedBy": "claude-haiku-5-5"
   },
   {
-   "id": "intl-brief-2026-10-31-s-20261029-08",
+   "id": "intl-brief-2026-11-02-s-20261102-03",
    "stream": "intl",
    "depth": "brief",
-   "section": "world",
-   "headline": "カナダとEU、新たな提携「未来のための同盟」発足",
-   "originalTitle": "Canada and EU announce new alliance open to like-minded countries",
-   "outlet": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/oct/30/canada-european-union-alliance",
+   "section": "gap",
+   "headline": "ガザでイスラエル攻撃、警察官5人含む8人死亡",
+   "originalTitle": "Israeli strikes in Gaza kill eight including child, hospitals say",
+   "outlet": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
    "region": "overseas",
    "category": null,
-   "score": 14,
+   "score": 11,
    "tier": "interest",
-   "pubDate": "2026-10-31T10:13:23.839Z",
+   "pubDate": "2026-11-01T21:09:55.871Z",
    "body": null,
-   "summary": "カナダと欧州連合（EU）は、モントリオールでの首脳会合で新たな同盟「未来のための同盟」を発表した。カーニー首相とフォン・デア・ライエン欧州委員長が明らかにした。同盟は同志国に開かれており、他国の参加も歓迎するとしている。Guardianは、米国への依存を減らす動きの一環と位置づけた。Euronewsは、カナダが2027年6月までにEUの「準加盟国（associate member）」になることを目指すと伝えた。この区分は前例がなく、ドイツが強く反対しているとDWは報じた。カナダはウクライナへの900億ユーロの支援ローンへの拠出にも合意した。",
+   "summary": "パレスチナ自治区ガザでは11月1日、イスラエルによる攻撃で少なくとも8人が死亡した。ガザ市では4歳の男児を含む3人が、南部ハンユニスでは警察官5人が死亡したとされる。イスラエル軍は、ハンユニスで武装勢力を攻撃したと述べた。停戦は2025年10月に発効したが、空爆はほぼ毎日続き、停戦後の死者は1500人以上とされる。イスラエルはハマスが再武装していると主張し、ハマスは否定している。",
    "sources": [
     {
-     "outlet": "The Guardian",
-     "url": "https://www.theguardian.com/world/2026/oct/30/canada-european-union-alliance",
-     "date": "2026-10-31",
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-02",
      "access": "body",
      "via": null,
-     "note": "Canada and EU announce new alliance open to like-minded countries"
-    },
-    {
-     "outlet": "New York Times",
-     "url": "https://www.nytimes.com/2026/10/30/world/canada/carney-canada-european-union.html",
-     "date": "2026-10-31",
-     "access": "excerpt",
-     "via": null,
-     "note": "Carney Commits Canada to Becoming European Union’s First ‘Associate Member’"
-    },
-    {
-     "outlet": "Deutsche Welle",
-     "url": "https://www.dw.com/en/canadian-pm-mark-carney-discusses-talks-with-the-eu-overdependence-on-the-us-and-how-to-deal-with-donald-trump-in-a-dw-interview/a-79811469?maca=en-rss-en-world-4025-rdf",
-     "date": "2026-10-31",
-     "access": "excerpt",
-     "via": null,
-     "note": "Canadian PM Mark Carney discusses talks with the EU, overdependence on the US and how to deal with Donald Trump in a DW interview."
-    },
-    {
-     "outlet": "Euronews",
-     "url": "https://www.euronews.com/2026/10/30/canada-aims-to-become-eus-first-associate-member-by-june-2027-carney-says",
-     "date": "2026-10-31",
-     "access": "excerpt",
-     "via": null,
-     "note": "Canada aims to become EU's first 'associate member' by June 2027, Carney says"
-    }
-   ],
-   "continuity": {
-    "previousDate": "2026-10-29",
-    "previousScore": 19,
-    "note": "3日連続で報じられている"
-   },
-   "coverage": {
-    "world": "4/18",
-    "jp": "0/6",
-    "worldTotal": 18,
-    "jpTotal": 6
-   },
-   "bodyAvailable": true,
-   "discussionUrl": null,
-   "summarizedBy": "claude-haiku-5-5"
-  },
-  {
-   "id": "intl-brief-2026-10-31-s-20261019-19",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "world",
-   "headline": "コンゴ民主共和国のエボラ死者、5000人超す",
-   "originalTitle": "Ebola outbreak kills more than 5,000 people in Democratic Republic of Congo",
-   "outlet": "Sky News",
-   "url": "https://news.sky.com/story/ebola-outbreak-kills-more-than-5000-people-in-democratic-republic-of-congo-13605990",
-   "region": "overseas",
-   "category": null,
-   "score": 10,
-   "tier": "interest",
-   "pubDate": "2026-10-31T10:13:23.839Z",
-   "body": null,
-   "summary": "コンゴ民主共和国（DRC）のエボラ出血熱による死者が5000人を超えた。政府データに基づき、Al Jazeeraが伝えた。同国で過去最悪の流行だが、承認された治療法もワクチンもまだない。感染者は5月の流行宣言以降、1万人を超えた。感染は同国26州のうち8州に広がっている。ナイジェリアが4番目のアフリカ諸国として感染例を報告し、ケニアやウガンダでも症例が出ている。サウジアラビアは、ケニアからの渡航と入国を停止したと伝えられた。APは、大陸全体への拡大への懸念が強まっていると報じた。",
-   "sources": [
-    {
-     "outlet": "Sky News",
-     "url": "https://news.sky.com/story/ebola-outbreak-kills-more-than-5000-people-in-democratic-republic-of-congo-13605990",
-     "date": "2026-10-31",
-     "access": "excerpt",
-     "via": null,
-     "note": "Ebola outbreak kills more than 5,000 people in Democratic Republic of Congo"
-    },
-    {
-     "outlet": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/31/ebola-death-toll-in-dr-congo-passes-5000?traffic_source=rss",
-     "date": "2026-10-31",
-     "access": "body",
-     "via": null,
-     "note": "Ebola death toll in DR Congo passes 5,000"
-    },
-    {
-     "outlet": "Associated Press",
-     "url": null,
-     "date": "2026-10-31",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Congo’s Ebola deaths top 5,000 as fear of continent-wide spread mounts - AP News"
-    }
-   ],
-   "continuity": {
-    "previousDate": "2026-10-19",
-    "previousScore": 27,
-    "note": "5日連続で報じられている"
-   },
-   "coverage": {
-    "world": "3/18",
-    "jp": "0/6",
-    "worldTotal": 18,
-    "jpTotal": 6
-   },
-   "bodyAvailable": true,
-   "discussionUrl": null,
-   "summarizedBy": "claude-haiku-5-5"
-  },
-  {
-   "id": "intl-brief-2026-10-31-s-20261031-12",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "world",
-   "headline": "米政府、アフガン移民の一部を送還へ",
-   "originalTitle": "U.S. to Send Dozens Back to Afghanistan, Despite Risk of Persecution",
-   "outlet": "New York Times",
-   "url": "https://www.nytimes.com/2026/10/30/world/asia/afghan-refugees-deported-flight-pakistan.html",
-   "region": "overseas",
-   "category": null,
-   "score": 10,
-   "tier": "interest",
-   "pubDate": "2026-10-31T10:13:23.839Z",
-   "body": null,
-   "summary": "トランプ政権が、アフガニスタン出身の移民の一部をアフガニスタンへ送還する計画だと報じられた。NYTによると、対象は150人超で、ルイジアナ州で拘束された数十人が含まれる。最初の便は11月2日にも出る見込みだ。米国はタリバンと外交関係がないため、送還はパキスタン経由になるという。支援団体「#AfghanEvac」のショーン・ヴァンダイバー氏は、対象者の多くは2021年のタリバン復権後に国を離れた人々で、タリバンに標的にされる恐れがあると主張した。国土安全保障省は、今後の送還作業は確認しないと説明した。",
-   "sources": [
-    {
-     "outlet": "New York Times",
-     "url": "https://www.nytimes.com/2026/10/30/world/asia/afghan-refugees-deported-flight-pakistan.html",
-     "date": "2026-10-31",
-     "access": "excerpt",
-     "via": null,
-     "note": "U.S. to Send Dozens Back to Afghanistan, Despite Risk of Persecution"
+     "note": "Israeli strikes in Gaza kill eight including child, hospitals say"
     },
     {
      "outlet": "The Straits Times",
-     "url": "https://www.straitstimes.com/world/united-states/trump-administration-plans-to-deport-some-afghan-immigrants-to-afghanistan",
-     "date": "2026-10-31",
+     "url": "https://www.straitstimes.com/world/middle-east/israeli-strikes-kill-eight-people-in-gaza-medics-say",
+     "date": "2026-11-02",
      "access": "body",
      "via": null,
-     "note": "Trump administration plans to deport some Afghan immigrants to Afghanistan"
+     "note": "Israeli strikes kill eight people in Gaza, medics say"
     },
     {
      "outlet": "Reuters",
      "url": null,
-     "date": "2026-10-31",
+     "date": "2026-11-02",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "Trump administration plans to deport some Afghan immigrants to Afghanistan - Reuters"
+     "note": "Israeli strikes kill eight people in Gaza - medics say - Reuters"
     }
    ],
    "continuity": null,
@@ -794,45 +899,45 @@
    "summarizedBy": "claude-haiku-5-5"
   },
   {
-   "id": "intl-brief-2026-10-31-s-20261031-07",
+   "id": "intl-brief-2026-11-02-s-20261102-02",
    "stream": "intl",
    "depth": "brief",
    "section": "gap",
-   "headline": "米ハイテク株が続落、AI投資への懸念強まる",
-   "originalTitle": "US tech stocks see sharp falls as AI spending nears $1tn",
-   "outlet": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+   "headline": "ウクライナ、ロシアの製油所攻撃を再開",
+   "originalTitle": "Ukraine defies Trump to resume attacks on Russian oil refineries",
+   "outlet": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/01/ukraine-defies-trump-resumes-attacks-russian-oil",
    "region": "overseas",
    "category": null,
-   "score": 9,
+   "score": 10,
    "tier": "interest",
-   "pubDate": "2026-10-31T10:13:23.839Z",
+   "pubDate": "2026-11-01T21:09:55.871Z",
    "body": null,
-   "summary": "米ハイテク株が2日続けて下落した。BBCによると、AI投資に数千億ドルを振り向ける企業への懸念が強まったためだ。インテルの株価は金曜日に28%急落した。アルファベットも木曜日に12%下落し、金曜日も下げが続いた。AI要約が検索広告の収益に影響していることが判明したことが背景の一つだという。ナスダック総合指数は10月に2025年3月以来の大きな月間下落を記録した。APは、ウォール街が6月以来最悪の日を迎えたと伝えた。ブルームバーグは、ナスダック100種が2026年3度目の調整局面入りしたと報じた。",
+   "summary": "ウクライナがロシアの製油所への攻撃を再開した。ロシア国営メディアは、日曜未明に長距離無人機がニジニ・ノヴゴロド州のクストボ製油所で火災を起こしたと伝えた。この直前には、ロスネフチ所有のサマラ州の製油所にも大規模な攻撃があった。ガーディアンによると、米国の圧力を受けて攻撃を控えていたとする報道があったが、ウクライナ当局者は30日間の攻撃停止要請には応じていないと述べた。ロシア側は、ウクライナが米国の要望を「無視している」と批判した。",
    "sources": [
     {
-     "outlet": "BBC",
-     "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-     "date": "2026-10-31",
+     "outlet": "The Guardian",
+     "url": "https://www.theguardian.com/world/2026/nov/01/ukraine-defies-trump-resumes-attacks-russian-oil",
+     "date": "2026-11-02",
      "access": "body",
      "via": null,
-     "note": "US tech stocks see sharp falls as AI spending nears $1tn"
+     "note": "Ukraine defies Trump to resume attacks on Russian oil refineries"
     },
     {
-     "outlet": "Associated Press",
-     "url": null,
-     "date": "2026-10-31",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Wall Street drops to its worst day since June after the sell-off for tech stocks deepens - AP News"
+     "outlet": "Euronews",
+     "url": "https://www.euronews.com/2026/11/01/russia-says-massive-drone-attack-targeted-industrial-enterprise-amid-reports-oil-refinery-",
+     "date": "2026-11-02",
+     "access": "body",
+     "via": null,
+     "note": "Russia says 'massive' drone attack targeted 'industrial enterprise' amid reports oil refinery hit"
     },
     {
-     "outlet": "Bloomberg",
-     "url": null,
-     "date": "2026-10-31",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Nasdaq 100 Hits Third Correction of 2026 on Unwinding Tech Stock Bets - Bloomberg"
+     "outlet": "Times of India",
+     "url": "https://timesofindia.indiatimes.com/world/europe/zelenskyy-says-ukraine-struck-russian-defence-facility-in-rostov/articleshow/135428970.cms",
+     "date": "2026-11-02",
+     "access": "headline",
+     "via": null,
+     "note": "Zelenskyy says Ukraine struck Russian defence facility in Rostov"
     }
    ],
    "continuity": null,
@@ -847,150 +952,44 @@
    "summarizedBy": "claude-haiku-5-5"
   },
   {
-   "id": "intl-brief-2026-10-31-s-20261031-08",
+   "id": "intl-brief-2026-11-02-s-20261026-03",
    "stream": "intl",
    "depth": "brief",
    "section": "gap",
-   "headline": "OpenAI、資金調達目標を100億ドル引き下げ",
-   "originalTitle": "OpenAI slashes funding target by $10 billion amid tech rout, FT reports - Reuters",
-   "outlet": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTWw3N0l5dm5KUi1FQmllTEpEeUdkY1k5TVlFNTlnWWFlbTgtdUJfZE9RMjZiQlJEVXU2VFo2blVaWk1MZzNYMm9OYmdrSngtSk02YnhKNDdVMVZkS3hIMHpWZ2dnRjJZWjBzQ0lFRU4ySFFUQzdTdnUzN3JETGtCYlo3Y3kxeGJseG5veVJMSVVCRDVPYzB3TXQyaFE?oc=5",
+   "headline": "イスラエル総選挙、過半数なし　連立交渉へ",
+   "originalTitle": "Netanyahu’s Bid to Stay in Power Will Test His Political Savvy",
+   "outlet": "New York Times",
+   "url": "https://www.nytimes.com/2026/11/01/world/middleeast/netanyahu-coalition-building-tests-political-skills.html",
    "region": "overseas",
    "category": null,
    "score": 8,
    "tier": "interest",
-   "pubDate": "2026-10-31T10:13:23.839Z",
+   "pubDate": "2026-11-01T21:09:55.871Z",
    "body": null,
-   "summary": "OpenAIが資金調達の目標額を100億ドル引き下げたと、英紙フィナンシャル・タイムズ（FT）が報じた。ロイターとブルームバーグも、FTの報道として同じ内容を伝えている。ブルームバーグの見出しは、AI関連株が低迷する中での引き下げだと位置づけた。FTの見出しでは、技術株をめぐる不安が強まっていることが背景として示された。引き下げ前の目標額や資金の使い道については、今回の材料からは分からない。",
+   "summary": "イスラエル総選挙は火曜日に行われ、過半数を得た勢力はなかった。ネタニヤフ首相の現連立政権も、アイゼンコット元参謀総長が率いる野党勢力も過半数に届かなかった。アラブ系政党の得票が伸び、合同リストと統一アラブリストが合計19議席（120議席中）を獲得した。両党の支持が、反ネタニヤフ勢力が政権を握る鍵となる。ネタニヤフ氏は、ユダヤ系政党とこの2党が協力することは「禁じられている」と主張している。ヘルツォグ大統領は、分断的な言論を控えるよう求め、今週中に連立交渉を始める方針を示した。",
    "sources": [
     {
-     "outlet": "Reuters",
-     "url": null,
-     "date": "2026-10-31",
+     "outlet": "New York Times",
+     "url": "https://www.nytimes.com/2026/11/01/world/middleeast/netanyahu-coalition-building-tests-political-skills.html",
+     "date": "2026-11-02",
      "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "OpenAI slashes funding target by $10 billion amid tech rout, FT reports - Reuters"
+     "via": null,
+     "note": "Netanyahu’s Bid to Stay in Power Will Test His Political Savvy"
     },
     {
-     "outlet": "Bloomberg",
-     "url": null,
-     "date": "2026-10-31",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "OpenAI Funding Target Cut by $10 Billion as AI Slumps, Report Says - Bloomberg"
-    },
-    {
-     "outlet": "Financial Times",
-     "url": null,
-     "date": "2026-10-31",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "OpenAI slashes funding target by $10bn as tech anxieties mount - Financial Times"
-    }
-   ],
-   "continuity": null,
-   "coverage": {
-    "world": "3/18",
-    "jp": "0/6",
-    "worldTotal": 18,
-    "jpTotal": 6
-   },
-   "bodyAvailable": false,
-   "discussionUrl": null,
-   "summarizedBy": "claude-haiku-5-5"
-  },
-  {
-   "id": "intl-brief-2026-10-31-s-20261029-26",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "gap",
-   "headline": "ヴァンス副大統領、イランへ書簡 外交再開探る",
-   "originalTitle": "Trump predicts Iran war will end soon as Qatar pushes for a deal",
-   "outlet": "CBS News",
-   "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/",
-   "region": "overseas",
-   "category": null,
-   "score": 7,
-   "tier": "interest",
-   "pubDate": "2026-10-31T10:13:23.839Z",
-   "body": null,
-   "summary": "米国のヴァンス副大統領が、イラン最高国家安全保障会議の書記、モフセン・レザイー氏に書簡を送ったとGuardianが伝えた。カタールの仲介を経て日曜日に送られた。書簡は、核開発をめぐる約束を求める一方、7日以内にホルムズ海峡を開く道筋を開くことと引き換えに、米国が制裁を緩和する案だという。Guardianによると、イラン側は核に関する不可逆な約束を先に行うことに慎重とされる。FTは、カタールの交渉団がテヘランに戻り、最後の調停を試みていると報じた。CBSは、トランプ大統領が対イラン戦争は「まもなく終わる」と予測したと伝えた。",
-   "sources": [
-    {
-     "outlet": "CBS News",
-     "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/",
-     "date": "2026-10-31",
+     "outlet": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-02/israel-president-isaac-herzog-calls-for-calm-in-election/107334602",
+     "date": "2026-11-02",
      "access": "body",
      "via": null,
-     "note": "Trump predicts Iran war will end soon as Qatar pushes for a deal"
-    },
-    {
-     "outlet": "Financial Times",
-     "url": null,
-     "date": "2026-10-31",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Qatari negotiators return to Tehran in last-ditch mediation effort - Financial Times"
-    },
-    {
-     "outlet": "The Guardian",
-     "url": "https://www.theguardian.com/world/2026/oct/29/jd-vance-letter-may-offer-last-chance-to-avert-fresh-conflict-between-us-and-iran",
-     "date": "2026-10-31",
-     "access": "body",
-     "via": null,
-     "note": "JD Vance letter may offer last chance to avert fresh conflict between US and Iran"
+     "note": "Israeli President Isaac Herzog calls for calm ahead of election mediations"
     }
    ],
    "continuity": {
-    "previousDate": "2026-10-29",
-    "previousScore": 8,
+    "previousDate": "2026-10-26",
+    "previousScore": 42,
     "note": "3日連続で報じられている"
    },
-   "coverage": {
-    "world": "3/18",
-    "jp": "0/6",
-    "worldTotal": 18,
-    "jpTotal": 6
-   },
-   "bodyAvailable": true,
-   "discussionUrl": null,
-   "summarizedBy": "claude-haiku-5-5"
-  },
-  {
-   "id": "intl-brief-2026-10-31-s-20261031-15",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "gap",
-   "headline": "生物多様性の国際会合、行動計画で合意 資金は課題",
-   "originalTitle": "Global nature talks reach deal but money remains an issue",
-   "outlet": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
-   "region": "overseas",
-   "category": null,
-   "score": 7,
-   "tier": "interest",
-   "pubDate": "2026-10-31T10:13:23.839Z",
-   "body": null,
-   "summary": "アルメニアの首都エレバンで約2週間続いた国連の生物多様性会合で、約200か国が2つの合意を承認した。BBCによると、最終日は延長され、早朝に行動計画の主要部分で合意した。合意は2030年までに生物多様性の損失を止めることを目指す。2022年の世界目標では、陸と海の30%の保護などを掲げた。国連によると、世界はその24の目標のうち1つしか達成できない見通しで、各国も遅れを認めた。BBCは、資金面が依然として課題だと伝えた。環境団体からは、合意は良いニュースだが、さらなる軌道修正が必要だとの声が出た。",
-   "sources": [
-    {
-     "outlet": "BBC",
-     "url": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
-     "date": "2026-10-31",
-     "access": "body",
-     "via": null,
-     "note": "Global nature talks reach deal but money remains an issue"
-    },
-    {
-     "outlet": "France 24",
-     "url": "https://www.france24.com/en/environment/20261030-un-nature-summit-approves-two-key-agreements-after-marathon-negotiations",
-     "date": "2026-10-31",
-     "access": "excerpt",
-     "via": null,
-     "note": "UN nature summit approves two key agreements after marathon negotiations"
-    }
-   ],
-   "continuity": null,
    "coverage": {
     "world": "2/18",
     "jp": "0/6",
@@ -1002,42 +1001,99 @@
    "summarizedBy": "claude-haiku-5-5"
   },
   {
-   "id": "intl-brief-2026-10-31-s-20261030-04",
+   "id": "intl-brief-2026-11-02-s-20261027-22",
    "stream": "intl",
    "depth": "brief",
    "section": "gap",
-   "headline": "香港の住宅火災、行政長官が謝罪",
-   "originalTitle": "Hong Kong’s leader apologises for residential fire that killed 168 people",
-   "outlet": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/oct/29/hong-kong-john-lee-apologises-wang-fuk-court-fire-killed-168-people",
+   "headline": "政権作成の「非市民」有権者リスト、選挙結果に影響も",
+   "originalTitle": "Explainer-How Trump’s noncitizen voter lists could affect the midterms",
+   "outlet": "The Straits Times",
+   "url": "https://www.straitstimes.com/world/explainer-how-trumps-noncitizen-voter-lists-could-affect-the-midterms",
+   "region": "overseas",
+   "category": null,
+   "score": 8,
+   "tier": "interest",
+   "pubDate": "2026-11-01T21:09:55.871Z",
+   "body": null,
+   "summary": "トランプ政権は、非市民が有権者登録されているとして、カリフォルニアなど5州の選挙当局に書簡を送った。司法省は10月13日付の書簡で、カリフォルニア州に約2万人分の票を市民権確認なしに集計しないよう求めた。カリフォルニア州は要求を拒否し、司法省は同州を提訴した。ロイターの7月の調査では、非市民が連邦起訴された投票事例は129件にとどまる。政権は、非市民投票の取り締まりを強化すべきだとしている。",
+   "sources": [
+    {
+     "outlet": "The Straits Times",
+     "url": "https://www.straitstimes.com/world/explainer-how-trumps-noncitizen-voter-lists-could-affect-the-midterms",
+     "date": "2026-11-02",
+     "access": "body",
+     "via": null,
+     "note": "Explainer-How Trump’s noncitizen voter lists could affect the midterms"
+    },
+    {
+     "outlet": "Reuters",
+     "url": null,
+     "date": "2026-11-02",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Explainer: How Trump’s noncitizen voter lists could affect the midterms - Reuters"
+    },
+    {
+     "outlet": "Associated Press",
+     "url": null,
+     "date": "2026-11-02",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Over 40% of names on DOJ list of alleged noncitizens are not on Calif. voter rolls, analysis finds - AP News"
+    }
+   ],
+   "continuity": {
+    "previousDate": "2026-10-27",
+    "previousScore": 8,
+    "note": "4日連続で報じられている"
+   },
+   "coverage": {
+    "world": "3/18",
+    "jp": "0/6",
+    "worldTotal": 18,
+    "jpTotal": 6
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "claude-haiku-5-5"
+  },
+  {
+   "id": "intl-brief-2026-11-02-s-20261031-07",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "gap",
+   "headline": "米株急落、AI投資懸念　ナスダックは2.9%安",
+   "originalTitle": "Live: Wall Street sinks on AI fears, ASX on edge ahead of RBA meeting",
+   "outlet": "ABC Australia",
+   "url": "https://www.abc.net.au/news/2026-11-02/asx-markets-business-live-news-nov-2/107334212",
    "region": "overseas",
    "category": null,
    "score": 7,
    "tier": "interest",
-   "pubDate": "2026-10-31T10:13:23.839Z",
+   "pubDate": "2026-11-01T21:09:55.871Z",
    "body": null,
-   "summary": "香港で2025年11月に起きた住宅火災で168人が死亡した事件をめぐり、ジョン・リー行政長官が政府の不手際を謝罪した。Guardianによると、独立調査の報告書は「数十年にわたる政府機関の失敗」を指摘した。4つの部門が被害の拡大に一部責任を負うとされた。火災は改修工事で囲われた団地ワン・フック・コートの7棟に広がった。報告書は民間の請負業者を「主犯」とした一方、当局の「甘い執行」も批判した。住宅担当長官のウィニー・ホー氏が辞任した。当局は7人と2社を過失致死などで起訴し、政府の役割を調べる3か月の調査も始まるという。",
+   "summary": "金曜の米株式市場では、AI関連株を中心に売りが広がり、S&P500種株価指数は1.8%安、ナスダック総合指数は2.9%安で終えた。ダウ工業株30種平均は1.1%安だった。ABCは、AIへの巨額投資に対する懸念が背景にあると伝えた。ブルームバーグは、ハイテク株の急落後、株式相場の荒い値動きが続くとの見方を伝えた。月曜早朝時点では、ブレント原油先物が1バレル117.64ドル（2.4%高）だった。",
    "sources": [
     {
-     "outlet": "The Guardian",
-     "url": "https://www.theguardian.com/world/2026/oct/29/hong-kong-john-lee-apologises-wang-fuk-court-fire-killed-168-people",
-     "date": "2026-10-31",
+     "outlet": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-02/asx-markets-business-live-news-nov-2/107334212",
+     "date": "2026-11-02",
      "access": "body",
      "via": null,
-     "note": "Hong Kong’s leader apologises for residential fire that killed 168 people"
+     "note": "Live: Wall Street sinks on AI fears, ASX on edge ahead of RBA meeting"
     },
     {
-     "outlet": "South China Morning Post",
-     "url": "https://www.scmp.com/infographics/hong-kong/article/3372592/summary-tai-po",
-     "date": "2026-10-31",
-     "access": "headline",
-     "via": null,
-     "note": "Tai Po fire report: lessons from a tragedy"
+     "outlet": "Bloomberg",
+     "url": null,
+     "date": "2026-11-02",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Wall Street Braces for More Wild Days in Stocks After Tech Rout - Bloomberg"
     }
    ],
    "continuity": {
-    "previousDate": "2026-10-30",
-    "previousScore": 11,
+    "previousDate": "2026-10-31",
+    "previousScore": 9,
     "note": "2日連続で報じられている"
    },
    "coverage": {
