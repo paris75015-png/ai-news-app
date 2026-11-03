@@ -1,0 +1,989 @@
+{
+  "date": "2026-11-04",
+  "stream": "ai",
+  "title": "AI日報",
+  "generatedAt": "2026-11-03T22:37:16.631Z",
+  "model": "claude-haiku-5-5",
+  "editorialVersion": 13,
+  "categories": [
+    {
+      "id": "ai",
+      "label": "AI",
+      "desc": "AIモデル・AIサービス・AI企業の動向"
+    },
+    {
+      "id": "it",
+      "label": "IT",
+      "desc": "ソフトウェア開発・ネットサービス・セキュリティ・デバイス・通信（AIが主題のものは除く）"
+    },
+    {
+      "id": "science",
+      "label": "科学",
+      "desc": "研究成果・医療・宇宙・環境・エネルギー技術"
+    }
+  ],
+  "articles": [
+    {
+      "id": "49792679d79f",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+      "headline": "Apple、Siri AIの第三者アプリ連携を開発者向けに提供開始",
+      "originalTitle": "Apple starts giving Siri AI access to third-party apps",
+      "outlet": "The Verge",
+      "region": "overseas",
+      "category": "ai",
+      "score": 87,
+      "tier": "must",
+      "pubDate": "2026-11-03T20:16:17.000Z",
+      "body": null,
+      "summary": "Appleは、iOS 27.3の更新に合わせて、音声アシスタントのSiri AIが第三者製アプリ内でも操作を実行できるようにすると発表した。開発者向けプレビューとして、開発者は「すべてのアプリ」にSiri AIの新機能を組み込めるようになり、ユーザーの個人的な文脈の把握、自然言語による指示の処理、画面上の内容の認識を使って依頼を完了できるという。\n\n新たに追加された「app skills」は、開発者が複数の作業を一つの操作にまとめて作成できる機能である。Appleの開発者向け文書によると、アプリが前面に表示されている間、Live Activity（アプリの進行状況を画面に継続表示する機能）の表示中、またはSiri AIとそのアプリについて会話している間は、依頼文にアプリ名を含めなくてもよい。例えば、配車アプリで車を呼んだ後、到着までの状況を追いながら「Hey Siri、乗車地点を新しい住所に変更して」と話すだけで変更できる場面が示されている。\n\nAppleは同じ機能を自社アプリにも広げ、カレンダー、ファイル、Finder、ジャーナル、メール、マップ、メッセージ、ミュージック、メモ、写真、プレビュー、リマインダー、Safari、ショートカット、天気を対象にするとしている。「先週訪れたコーヒーショップを探す」「1年以上開いていないファイルをアーカイブする」といった使い方の例も挙げている。なお、9to5Macによると、Appleはこれまで第三者の開発者に提供する機能を一部に限っていたという。",
+      "sources": [
+        {
+          "outlet": "The Verge",
+          "url": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+          "date": "2026-11-03",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "4e5242d6436d",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://arstechnica.com/google/2026/11/google-dismantles-botnet-secretly-running-on-1-3-million-android-tv-boxes/",
+      "headline": "Google、Android TV機器に潜んだボットネットを法的措置で解体",
+      "originalTitle": "Google dismantles botnet secretly running on 1.3 million Android TV boxes",
+      "outlet": "Ars Technica",
+      "region": "overseas",
+      "category": "it",
+      "score": 78,
+      "tier": "must",
+      "pubDate": "2026-11-03T17:08:21.000Z",
+      "body": null,
+      "summary": "Googleは、複数の組織と連携して、感染した機器を遠隔から操る不正なネットワーク「x.cpe」（ボットネット）を無効化したと発表した。連携先には日本の警察庁、Synthient、トレンドマイクロなどが含まれる。Googleは、ボットネットを運営していたVideostrongがマルウェアの運用と配布に使っていたドメインやサーバーを停止するため法的措置を取り、他のマルウェア活動に関連する指令用サーバー（C2サーバー）にも対処したとしている。\n\nGoogleは、Videostrongが約1,000万台の感染機器を制御できなくなったと見積もっている。一方、トレンドマイクロは感染機器を147万2,554台と数えており、Googleの推計より多いとしている。感染が多かったのはブラジル、マレーシア、イラク、メキシコ、台湾で、米国、ドイツ、英国、オーストラリア、カナダにも数万台規模が確認された。Synthientは感染が確認された182の機種名を公開しており、記事は、MECOOLやブランド不明のAndroid TVボックスを購入した人は確認すべきだとしている。\n\nGoogleは、この活動を悪意ある第三者の単独行為ではないと判断し、Videostrongとの関係を終了した。子会社を含め、Videostrongによる Googleのアプリやサービスの利用は認められなくなる。また、認証の仕組みを見直し、認証済みの端末でこの種の不正な仕組みが動く抜け穴を塞ぐとしている。\n\nただし、影響を受けた機器ではアプリを検査するAndroidのセキュリティ機能であるGoogle Play Protectが無効のままで、休止状態のマルウェアモジュールもシステムアプリとして残っている。利用者が簡単に削除できないため、記事は、機器は使えるようになっても本来あるべき安全性には届いていないとみている。Androidはオープンソースで、認証を受けていないTVボックスも多く存在するため、Videostrongが別ブランドでGoogleのアプリなしに製品を販売する可能性もある。ただし、その場合もマルウェアの仕組みを一から作り直す必要があるという。",
+      "sources": [
+        {
+          "outlet": "Ars Technica",
+          "url": "https://arstechnica.com/google/2026/11/google-dismantles-botnet-secretly-running-on-1-3-million-android-tv-boxes/",
+          "date": "2026-11-03",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "123eda57c5a7",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2611/04/news046.html",
+      "headline": "東北大学とアイシン、STT-MRAM搭載AIチップを開発 OS起動を約39倍高速化",
+      "originalTitle": "東北大とアイシンがSTT-MRAM搭載AIチップを開発、16nmプロセスでは世界初",
+      "outlet": "ITmedia AI+",
+      "region": "domestic",
+      "category": "ai",
+      "score": 77,
+      "tier": "must",
+      "pubDate": "2026-11-03T21:45:00.000Z",
+      "body": null,
+      "summary": "東北大学とアイシンは2026年11月2日、電源を切ってもデータを保持できる不揮発性メモリのSTT-MRAMを搭載したAIチップを開発したと発表した。外付けのDRAMやSSDを必要としない近メモリコンピューティング（NMC）型のAIチップで、従来比で電源投入からOS起動までの時間を約39倍、物体検出などのAI処理時間を約10分の1に短縮し、AI処理のエネルギー消費量も50分の1に抑えたという。ニュースリリースは、STT-MRAMを搭載した16nmのAI SoC（System on Chip）は世界初としている。\n\n開発は東北大学国際集積エレクトロニクス研究開発センター（CIES）の遠藤哲郎教授らのチームと、アイシンのチームが行った。チップは台湾積体電路製造（TSMC）の16nm FinFETプロセスで製造し、容量32MBのSTT-MRAMに加え、AIアクセラレータ、Armの「Cortex-A53」2コアのCPU、Armの「Mali-G31」などのGPUを集積している。近メモリコンピューティングは、プロセッサやAIアクセラレータの近くに置いたオンチップのメモリでデータを処理し、外部メモリとのデータ転送そのものを減らす方式である。\n\nSTT-MRAMはAIモデルの重みとOSのブート用メモリとして使う。従来はOSを起動する際にDRAMを初期化し、SSDからブートローダーのU-BootやAIモデルのデータをDRAMへ転送する必要があった。今回の方式では、起動に必要なデータと重みをSTT-MRAMに保持するため、この初期化と転送を減らせる。その結果、電源投入からOSカーネル起動までの時間は従来の2535.3ms（約2.5秒）から65.7msに短縮されたという。\n\nAI処理では、画像認識に広く使われるTiny YOLOv3をアクセラレータに実装した。STT-MRAMの容量が限られるため、8ビットと16ビットを組み合わせた乗算方式で重みデータ量を17.7MBから9.36MB（53％減）に減らし、物体検出精度を示すmAPは0.325から0.316への低下にとどまったという。チップ単体のAI処理時間は594.6msから58.5msに短縮され、システム全体では約25倍の高速化を確認したとしている。この成果は、2026年11月1〜4日に台湾新竹市で開かれる半導体集積回路の国際学会「IEEE Asian Solid-State Circuits Conference（A-SSCC）2026」で発表される予定である。",
+      "sources": [
+        {
+          "outlet": "ITmedia AI+",
+          "url": "https://monoist.itmedia.co.jp/mn/articles/2611/04/news046.html",
+          "date": "2026-11-03",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "c69664e34de2",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+      "headline": "AI推論サービスのFal、評価額が倍増の160億ドルに　13億ドル調達",
+      "originalTitle": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+      "outlet": "TechCrunch",
+      "region": "overseas",
+      "category": "ai",
+      "score": 74,
+      "tier": "should",
+      "pubDate": "2026-11-03T19:34:43.000Z",
+      "body": null,
+      "summary": "米国サンフランシスコの新興企業Falは、AIの動画・画像・音声モデルをホスティングし実行する事業を手がけている。同社は最新の資金調達（シリーズF）で13億ドルを調達し、ベッセマー・ベンチャー・パートナーズが主導した。Nvidia、Sound Ventures、T. Rowe Priceも参加し、評価額は160億ドルに達した。これは4月時点の80億ドルから倍増した（Bloombergの報道）。\n\nFalはシリーズ EとFを同時に発表し、両ラウンドで合計16.5億ドルを調達したと明らかにした。前回のラウンドはSequoiaが主導していた。Bloombergによると、Falは今年初めに年換算売上高（直近の売上を12か月分に換算した指標）が8億ドルを超えた。\n\n背景には、学習済みのAIモデルを使って出力を生成する処理である推論（inference）サービスへの需要の急増がある。特にオープンソースモデルを利用する顧客からの需要が強い。Baseten、Fireworks AI、Modalなど同業他社も急成長し、より高い評価額で大型の資金を調達している。一方で、計算資源（コンピュート）の購入やリースに費用がかかるため、粗利率は依然として薄いと、事情に詳しい複数の関係者が語ったという。\n\nFalは2021年に、元Coinbaseの機械学習リーダーでOracleのエンジニアだったバーカイ・グールと、以前Amazonで開発者だったゴルケム・ユルトセブンが共同で創業した。",
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+          "date": "2026-11-03",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "6e52bc4c45b1",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/",
+      "headline": "完全にパッチ適用済みのWindowsがUEFIブートキットに感染",
+      "originalTitle": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
+      "outlet": "Ars Technica",
+      "region": "overseas",
+      "category": "it",
+      "score": 74,
+      "tier": "should",
+      "pubDate": "2026-11-03T16:03:13.000Z",
+      "body": null,
+      "summary": "記事は、Microsoftの関連パッチをすべて適用していた組織が、UEFIブートキット（OS起動前に動くマルウェア）「BlackX」に感染した問題を取り上げている。UEFIは電源投入直後に動くファームウェアで、Secure Boot（起動するソフトウェアの電子署名を順に検証する仕組み）は不正なブートコードの実行を防ぐ役割を担う。BlackXは、2023年に公開された最初のUEFIブートキットBlackLotusと同様に、Secure Bootを回避できる。感染事例はセキュリティ企業Kasperskyが発見した。\n\nBlackXとBlackLotusは、2022年に判明したWindowsブートマネージャーの論理的欠陥「Baton Drop」（CVE-2022-21894）を悪用する。Microsoftは同年にこの欠陥を修正したが、古い脆弱なブートマネージャーを署名する証明書の信頼を失効させなかった。BlackLotusはその隙を突き、カーネルモードのドライバ（OSの中核で動くドライバ）を読み込んでいた。カスペルスキーは、BlackXはBlackLotusを模倣したものとみている。\n\nMicrosoftは2023年5月から、数年かけて対策を進めてきた。2023年には新しい署名証明書「Windows UEFI CA 2023」を信頼済みデータベースに加え、2024年には古い証明書「Windows Production PCA 2011」を禁止署名データベースに登録する手段を提供した。しかし、更新を適用していない端末が起動不能になることを恐れ、失効を即座には強制しなかった。このため古いブートマネージャーの信頼は残ったままで、BlackXはそこを突いたことになる。\n\nカスペルスキーは、パッチ適用後に管理者が追加の作業を行う必要があるのは異例であり、その手順はMicrosoftのサイトの奥深くに埋もれていると指摘している。Microsoftの担当者は、2週間前に公開された技術文書に従うよう顧客に勧めていると回答した。しかし記事によれば、この文書には既存のパッチがBaton Dropの攻撃を防げないことが書かれていない。カスペルスキーは、手動で有効化する必要性に気付いている組織が少ないことを攻撃者が見越し、新たなブートキットを作成したとみている。",
+      "sources": [
+        {
+          "outlet": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/",
+          "date": "2026-11-03",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "c7a94f8b7c58",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+      "headline": "AIに規則を守らせる「逆ゲーム理論」、研究者が安全対策として提案",
+      "originalTitle": "How “reverse game theory” could keep AI agents in check",
+      "outlet": "MIT Technology Review",
+      "region": "overseas",
+      "category": "ai",
+      "score": 72,
+      "tier": "should",
+      "pubDate": "2026-11-03T10:43:41.000Z",
+      "body": null,
+      "summary": "記事は、AIエージェント（自律的に作業するAI）を望ましい行動へ導く手法として「逆ゲーム理論」（メカニズムデザインとも呼ばれる）を取り上げている。ゲーム理論が与えられた規則の下での行動を予測するのに対し、逆ゲーム理論は望ましい行動を引き出す規則を設計する。たとえばケーキを二人で分ける際、切る人が最後に選ぶ決め方にすると、均等に切るよう促される。従来のAIアライメント（AIを人間の価値観に沿わせる研究）は内部の思考の解読や価値観の学習が中心だったが、テストで実力を低く見せる行為（sandbagging）や評価者を欺く行動が報告されており、十分に機能していないという。\n\nMIT経済学者のStephen Morrisは、イェール大学やコロンビア大学の研究者とともに、査読前の論文（プレプリント）で手抜きを防ぐ仕組みを提案した。その一つは、モデルの報酬をテストの成績だけでなく、別のモデルの回答をどれだけ正確に予測できたかによっても決めるものである。Morrisは、AIエージェントは互いの能力をよく理解しているため、この相互確認は実用的に機能しやすいと述べている。論文はこのほか、エージェント同士を競わせる方法も挙げている。\n\nプリンストン大学のElad Hazan教授は、社会規範や司法制度など、人間社会が人を望ましい行動に沿わせる仕組みを模倣する案を示した。AIモデルが課題を解く「解答者」と、その作業を検査する「監査者」を交互に担い、不正が見つかった解答者と不正を見逃した監査者の双方が罰せられる。エージェント同士が結託する恐れは認めつつ、監査者に十分な報酬を与え、監査者自身を監査することで対処できるとしている。この考えの根拠として、Hazanは1960年代に「合理的な犯罪者」の概念を示したノーベル賞経済学者ゲーリー・ベッカーの研究を挙げている。\n\n記事は、この手法が主体は合理的に動くという仮定に立つ点を課題として挙げる。Morrisは、AIは合理的ではないと認めつつも、合理的なものとして扱うことで行動の予測や制御に役立つ可能性があると述べている。フラットアイアン研究所のヘレン・キュー研究員は、この手法を解釈可能性や規制、訓練と並ぶ多層防御の一層と位置づけている。ただし、理論が実際のモデルに当てはまるかや、ある課題の仕組みが別の課題でも機能するかなど未解決の問題が多く、AnthropicとOpenAIは取り組みの有無についてのコメント要請に応じなかった。",
+      "sources": [
+        {
+          "outlet": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+          "date": "2026-11-03",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "d727513a7188",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "science",
+      "url": "https://techcrunch.com/2026/11/03/orbital-matter-3d-printed-the-first-rigid-beam-in-the-vacuum-of-space/",
+      "headline": "ドイツOrbital Matter、軌道上で3Dプリントによる剛体ビームの造形に成功",
+      "originalTitle": "Orbital Matter 3D printed the first rigid beam in the vacuum of space",
+      "outlet": "TechCrunch",
+      "region": "overseas",
+      "category": "science",
+      "score": 72,
+      "tier": "should",
+      "pubDate": "2026-11-03T20:57:17.000Z",
+      "body": null,
+      "summary": "ドイツのスタートアップOrbital Matterは、同社の小型衛星「Replicator 2」に搭載した3Dプリンターで、長さ約0.5メートルの剛体ビーム（硬い棒状の構造材）を宇宙空間で造形したと発表した。同社は、自由飛行する宇宙機が軌道上で構造物を造形したのは初めてだとしている。衛星は今夏、SpaceXの相乗り打ち上げでプリンター4台を載せて打ち上げられた。\n\nプリンターは、紫外線で硬化する樹脂をひも状に押し出し、円柱状のビームを作る。同社はこの仕組みを、セメントと水の関係にたとえている。大型の宇宙機は発電や放熱のために大きな面積を必要とする一方、打ち上げ用ロケット先端の覆い（フェアリング）に収まる大きさに制限される。記事は、宇宙で構造物を組み立てられれば、こうした課題が解決しやすくなる可能性があると指摘している。\n\n衛星には、太陽電池アレイ（太陽電池パネルの集合体）を展開するためのプリンターが2台含まれていた。このうち1台は異常により動作しなかったが、造形されたブーム（伸展式の支柱）は太陽電池アレイの展開に成功した。同社はこの結果を、重要な概念実証（技術の実現性を確かめる実験）だとしている。これまで宇宙での3Dプリントは、国際宇宙ステーションの与圧された室内に限られていた。\n\nブームの長さは搭載する樹脂の量で制限され、同社の技術者は100メートルのブームも可能だと考えている。比較として、SpaceXのStarlink V2衛星の太陽電池アレイは20メートルである。同社は2022年に設立され、300万ドルのシード資金を調達した。2028年に予定する次の実証では、より大型の衛星で5キロワットの発電を目指し、2030年までに翼1枚あたり100キロワット超の大規模展開につなげたい考えだという。",
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/03/orbital-matter-3d-printed-the-first-rigid-beam-in-the-vacuum-of-space/",
+          "date": "2026-11-03",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "59cb8a96ca92",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "science",
+      "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+      "headline": "一部のAIデータセンター、接続待ちの間に改造ジェットエンジンで自家発電",
+      "originalTitle": "Data centers are turning to old jet engines as the wait for power grows",
+      "outlet": "TechCrunch",
+      "region": "overseas",
+      "category": "science",
+      "score": 71,
+      "tier": "should",
+      "pubDate": "2026-11-03T22:19:53.000Z",
+      "body": null,
+      "summary": "AIデータセンターの一部の運営企業が、電力網への接続や新しいタービンの入手を長期間待つ間の電源として、退役した航空機のジェットエンジンを改造して使い始めている。ニューヨーク・タイムズが報じたもので、改造エンジンは天然ガスを燃やすよう改修されている。恒久的な発電所とは言えないが、記事は、AI向けの電力供給が設備の拡大に大きく後れを取っていることを示す動きだとしている。\n\n改造エンジンの利点は、稼働までが速いことである。ライスタッド・エナジーのアナリスト、オードゥン・マルティンセン氏は、この方式なら24か月でデータセンターを稼働させられると述べた。一方、国際エネルギー機関（IEA）によると、北バージニア州で100メガワットを系統に接続するには約7年かかる。三菱パワーの幹部は、発電能力の大半が2031年までに稼働するとの見通しを示したという。\n\n電力供給の遅れは事業にも影響している。マイクロソフトは、英国ロートンにあるNscaleのデータセンターについて、地元の電力会社が2030年代前半から半ばまで十分な電力を供給できないと伝えたことを受け、主要な利用企業の立場から撤退した。イーロン・マスク氏のxAIは、ミシシッピ州で改造タービン（燃焼ガスで羽根車を回して発電する装置）8基を設置し、メンフィスのデータセンター「Colossus 2」の電源に充てている。タイムズは州の許可文書と衛星画像を基に報じており、機器はボーイング機に多く使われるGE製エンジンを改修したProEnergy製である。\n\nOpenAIも2025年に、テキサス州アビリーンにあるStargate計画の最初の拠点でガスタービンを使った。同拠点を建設するCrusoeは4月にProEnergy製の改造機13台を発注した一方、9月には超音速旅客機の開発企業Boom Supersonicから天然ガスタービン29基を購入する12億5000万ドルの契約から撤退した。改造エンジンは、通常のガス発電所向けタービンに比べて効率が低く排出も多く、同じ発電量を得るにはより多くの台数が必要だとされる。トランプ政権もデータセンターに自家発電を促しており、専門家の一部は、効率や環境への懸念が1〜2年で強まる可能性があるとみている。",
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+          "date": "2026-11-03",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "ea1c9829bca9",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.publickey1.jp/blog/26/github180aigithub_universe_2026.html",
+      "headline": "GitHub、AIエージェント時代に向け基盤を刷新し性能を大幅に向上",
+      "originalTitle": "GitHubが従来比180倍のスループット性能向上を実現へ、来年初頭に。AIエージェント時代に対応。GitHub Universe 2026",
+      "outlet": "Publickey",
+      "region": "domestic",
+      "category": "it",
+      "score": 68,
+      "tier": "should",
+      "pubDate": "2026-11-03T15:16:22.000Z",
+      "body": null,
+      "summary": "GitHubは、サンフランシスコで10月28日と29日に開催した年次イベント「GitHub Universe 2026」で、AIエージェント（人に代わって自律的に作業するAIプログラム）が増えた時代に向けた大幅な性能向上を、来年初頭までに実現すると明らかにした。性能向上は、GitHubの基盤をMicrosoft Azureへ移行することと、コードと変更履歴を保存する単位（リポジトリ）の扱いの見直しなどによって実現するとしている。\n\n基盤では、計算処理（コンピュート）とデータ保存（ストレージ）を分離し、両者の連携を最小限にした。コードはAzureのストレージに保存され、Gitのリクエストに応答するサーバーは高速化のためにデータを一時的にキャッシュ（手元に保存）するだけになる。これにより、需要に応じて容量とサーバーを柔軟に増やせるという。\n\nロックの単位も変更された。従来はリポジトリ単位で書き込み時にロック（他の書き込みを一時的に止める仕組み）をかけていたが、対象のブランチ（開発の分岐）単位に変えた。これにより、異なるブランチで作業するAIエージェントが並行して動作でき、スループット（単位時間に処理できる量）は3〜4倍になるという。\n\n1つのリポジトリへのプッシュ（変更の送信）の処理能力も示された。旧構造では1秒に数十回が限界だったが、新構造は毎秒数千回に対応するよう設計された。5000のAIエージェントを1つのリポジトリで作業させた試験では、毎秒7200回の書き込みを処理でき、従来の180倍のスループットだったとしている。Microsoft CoreAI担当のジェイ・パリク氏は、今年だけで400万CPUコア、160PBのストレージ、50Tb/sのネットワーク帯域を拡張したと述べ、来年初頭までには全ユーザーが新アーキテクチャに移行される予定だと説明した。",
+      "sources": [
+        {
+          "outlet": "Publickey",
+          "url": "https://www.publickey1.jp/blog/26/github180aigithub_universe_2026.html",
+          "date": "2026-11-03",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "daa7b8d067c5",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.publickey1.jp/blog/26/githubcopilot_code_review_maxgithub_universe_2026.html",
+      "headline": "GitHub、複数AIモデルでレビューする「Copilot Code Review Max」を発表",
+      "originalTitle": "GitHub、より高度なコードレビューを行う「Copilot Code Review Max」発表。GitHub Universe 2026",
+      "outlet": "Publickey",
+      "region": "domestic",
+      "category": "ai",
+      "score": 66,
+      "tier": "should",
+      "pubDate": "2026-11-03T15:14:57.000Z",
+      "body": null,
+      "summary": "GitHubは、10月28日と29日に米サンフランシスコで開催した年次イベント「GitHub Universe 2026」で、より高度なコードレビューを行う新機能「Copilot Code Review Max」を発表した。既存の「Copilot Code Review」には「Lite」と「Balanced」の2つのエフォートレベル（レビューの処理の度合いを選ぶ設定）があり、新たに加わった「Max」レベルによりCopilot Code Review Maxが実現される。現在はパブリックプレビューとして提供されている。\n\nAIエージェントによるコード生成やプルリクエストが大幅に増えたことで、品質を保つためのコードレビューの重要性が高まったと同社は説明している。Copilot Code Review Maxの内部では、複数のAIモデルがそれぞれ独立したレビューエージェントとして動作する。各モデルの長所や盲点を組み合わせることで、単一のAIモデルでは見落としがちな問題を見つけられるとしている。\n\n複数のレビューエージェントの出力は、集約エージェントが相違点を調整し、正確性を再確認したうえでレビュー結果として報告される。GitHubの発表によると、コード内の重大度の高い問題の検出において、評価用ベンチマークのReviewBenchで最高のF1スコア（適合率と再現率の調和平均）を記録したという。",
+      "sources": [
+        {
+          "outlet": "Publickey",
+          "url": "https://www.publickey1.jp/blog/26/githubcopilot_code_review_maxgithub_universe_2026.html",
+          "date": "2026-11-03",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "dd34e5bf1c5e",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+      "headline": "パランティア、第3四半期売上高96%増　米国の商業収入が政府収入を初めて上回る",
+      "originalTitle": "Hiding inside Palantir's skyrocketing quarter is a foreboding signal",
+      "outlet": "TechCrunch",
+      "region": "overseas",
+      "category": "ai",
+      "score": 63,
+      "tier": "interest",
+      "pubDate": "2026-11-03T21:05:55.000Z",
+      "body": null,
+      "summary": "パランティアは第3四半期決算で、売上高が前年同期比96%増の23億1000万ドルとなり、初めて20億ドルを超えた。売上高はアナリスト予想の21億8000万ドルを上回り、調整後1株当たり利益も0.44ドルで予想の0.41ドルを上回った。通期の売上高見通しも引き上げられたが、株価は火曜の取引で若干下落した。\n\n売上高は前四半期比で20%増加した。特筆すべき点は、米国の商業部門の収入が9億8400万ドル（前年同期比148%増）となり、米政府向けの9億5300万ドルを初めて上回ったことである。顧客企業は、外部のAIラボにデータや業務プロセスを共有せずに、フロンティアモデル（最先端の大規模AIモデル）を実行し、オープンウェイトモデル（重みが公開されたAIモデル）を安全に独自学習させられるAIソフトウェアを契約しているという。さらに同社は、顧客の導入やカスタマイズを支援する「フォワードデプロイド」型のソフトウェアエンジニアリングを以前から提供している。\n\n記事は懸念材料も指摘している。企業は導入を素早く進める一方で短期間の試用契約を結ぶ傾向があり、CEOのアレックス・カープは決算説明で、契約期間は短くなるが契約は大幅に拡大できると述べた。ただし、米国企業からの契約総額（TCV）は14億6000万ドルで、前四半期の過去最高である21億3000万ドルから減少しており、販売の減速を示唆するとしている。同社は米国商業収入の通期見通しを35億5900万ドル超、成長率143%以上に引き上げた。",
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+          "date": "2026-11-03",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "b121628aeba0",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
+      "headline": "Google、学校向けのAIツールを既定で無効化　検索も対象に",
+      "originalTitle": "Google will let schools skip AI tools, but they have to give up search, too",
+      "outlet": "Ars Technica",
+      "region": "overseas",
+      "category": "ai",
+      "score": 58,
+      "tier": "interest",
+      "pubDate": "2026-11-03T17:54:43.000Z",
+      "body": null,
+      "summary": "Googleは、教育向け製品を利用する学校でAIツールを既定で無効にすると発表した。AIツールを許可するかどうかは教育関係者が判断でき、管理者が手動で有効にする仕組みとなる。変更は今後数か月以内に順次展開される予定である。Googleは教育関係者、研究者、立法関係者への相談を経てこの方針を決めたとしている。\n\n対象となるのはGemini、Gemini Notebook、Gemini in Classroom、Google検索の4つで、個別に選ぶことはできない。AIツールをすべて許可するか、すべて無効にするかのどちらかになるため、学校はAIツールを避けると検索も使えなくなる。記事はこの状況を「ファウスト的取引」（代償を伴う難しい選択）と表現し、学校が直面する判断の難しさを指摘している。\n\n記事は、この対応がGoogleの消費者向け製品の方針とも一貫していると指摘する。Google幹部は、Google検索はAI検索であると明言しており、多くの検索結果ではAIによる概要（AI Overview）が上部に表示されている。さらに、対話型の「AI Mode」への誘導も進めており、Googleはこれを将来の姿とみているという。",
+      "sources": [
+        {
+          "outlet": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
+          "date": "2026-11-03",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "2023d4b1aafd",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+      "headline": "Netflix、気分に合わせて作品を探せる「AI Discover」タブを米国で展開",
+      "originalTitle": "Netflix's new AI Discover tab helps you find something to watch based on your mood",
+      "outlet": "TechCrunch",
+      "region": "overseas",
+      "category": "ai",
+      "score": 57,
+      "tier": "interest",
+      "pubDate": "2026-11-03T18:42:16.000Z",
+      "body": null,
+      "summary": "Netflixは火曜日、新しい「AI Discover」タブを展開すると発表した。最初の実験的機能は、利用者の今の気分に合わせて作品を推薦するもので、英語を使い対応テレビでNetflixを利用する米国の利用者から順次提供が始まる。同社は今後数週間で、ほかの利用者にも広げる計画だ。\n\n利用者は「気分」「視聴の好み」「見られる時間」「新着・話題」などのテーマから選ぶと、テーマに合った作品の映像クリップ付きの候補が表示される。テーマには「something light（軽めの作品）」「scare me（怖い作品）」「family movie night（家族で見る映画）」「quick watches（短時間で見られる作品）」などがある。候補の各作品には「Tune Your Recommendations（推薦を調整する）」ボタンがあり、気に入ったものを保存したり、今後推薦させない作品を除外したりできる。\n\nNetflixは、利用者がリアルタイムに入力した内容に応答し、学習を続ける「インテリジェンス層」と呼ぶ仕組みを基盤にしていると説明している。ブログ投稿では、これまでのサムズアップや「マイリスト」への追加による推薦を踏まえ、AI Discoverは作品の探し方の新しい選択肢だと位置付けた。\n\nNetflixはこの機能を「test kitchen（実験の場）」と呼び、利用者の反応をもとに残す機能と改良する機能を決めてから、本体の画面に移す方針を示した。記事は、無限にスクロールして探す体験から、個別化されたAI主導の体験へ移す狙いがあるとみている。",
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+          "date": "2026-11-03",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "d56e6f647a38",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "science",
+      "url": "https://gigazine.net/news/20261103&",
+      "headline": "AIが生む富はモデル開発企業ではなく流通・決済を握る企業に集まるとの論考",
+      "originalTitle": "歩くのと同じくらいゆっくりなランニングでも気分が良くなって認知機能が向上する",
+      "outlet": "GIGAZINE",
+      "region": "domestic",
+      "category": "science",
+      "score": 56,
+      "tier": "interest",
+      "pubDate": "2026-11-03T13:00:00.000Z",
+      "body": null,
+      "summary": "2026年10月29日に公開された論考「The Commanding Heights」は、起業家で投資家のウィル・マニディス氏とジョー・ロバーツ氏によるもので、AI時代に富を得る主体を予測している。タイトルの「Commanding Heights」は「経済の重要な部分を支配する拠点」を意味し、1922年にレーニンが国家による主要産業の支配を説明する際に使った表現に由来する。\n\n両氏はAI時代のCommanding Heightsを「高度化し広く普及するAIが生み出す利益を長期的に獲得できる、希少で支配可能な経済上の地位」と定義する。背景には、AIモデルの「コモディティ化」、つまり特別な価値を持っていた技術が広く普及して差別化が難しくなり価格競争が進む現象がある。最先端モデルの開発には莫大な資金が必要だが、性能は数カ月遅れの後発モデルにも取り込まれるため、優位性を長く保ちにくいという。両氏は、活版印刷のグーテンベルクが印刷革命の先駆者でありながら財政難に陥った例や、鉄道の富が機関車の発明者だけでなく輸送や金融の事業者にも及んだ例を挙げ、技術を生んだ企業と利益を得る企業は一致しないと指摘している。\n\n両氏は、AI開発競争が国家間競争になり、最先端モデルを継続的に開発できるのは最終的に米国と中国に絞られると予測している。金融・AI分野の専門家サイモン・テイラー氏は2026年10月30日のX投稿で、米国が世界のAI計算資源の約70％を保有し、中国は約5％にとどまるという数字を挙げた。テイラー氏は、計算資源と資本の優位によって米国が有利を維持し、米中の間に冷戦に似た関係が生まれるという見通しを紹介している。\n\n論考は、政府がAI開発企業を国家戦略上の重要な資産とみなし、出資や特別な議決権によって経営への影響力を強める可能性も予測している。両氏は「AI時代に最も大きな富を獲得するのは必ずしも最も優れたAIモデルを開発した企業ではない」と主張しており、ただし記事は、この予測には不確実な要素も多く残るとしている。",
+      "sources": [
+        {
+          "outlet": "GIGAZINE",
+          "url": "https://gigazine.net/news/20261103&",
+          "date": "2026-11-03",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "c2327eb389b4",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://techcrunch.com/2026/11/03/reddit-tests-ads-in-search-results-as-traffic-declines-and-growth-concerns-mount/",
+      "headline": "Redditが検索結果に広告表示をテスト、利用者減の中で収益を広げる",
+      "originalTitle": "Reddit tests ads in search results as traffic declines and growth concerns mount",
+      "outlet": "TechCrunch",
+      "region": "overseas",
+      "category": "it",
+      "score": 55,
+      "tier": "interest",
+      "pubDate": "2026-11-03T19:24:37.000Z",
+      "body": null,
+      "summary": "Redditは検索結果ページに広告を表示するテストを始めたと発表した。対象は選ばれた一部の適格な広告主で、検索語との文脈上の関連性などの要素に基づいて広告が表示される。例として、「espresso station」の検索にエスプレッソマシンやコーヒー、マグカップの広告、「home office setup」の検索にモニターや机、オフィスチェアの広告が出る可能性を挙げている。\n\n同社は直近の決算で、利益と1株当たり利益は市場予想を上回った。一方、第4四半期の売上高の見通しは10億〜10億3000万ドルで、市場予想の10億5000万ドルを下回ったため、株価は下落した。記事は、この見通しの低さについて、Googleが検索にAIを用いる体験へ移行し、AI Modeのように結果ページで直接回答を示すことで外部サイトへのクリックが減り、Redditへの検索流入が減っていることが関係していると伝えている。\n\n全世界の日次利用者数は第3四半期に1億3030万人で、前期比で横ばいだった。米国では5320万人から5070万人に減少し、前年同期比では2％減となった。同社は、この傾向が続けば第4四半期には日次利用者数が低い二桁パーセントの割合で減る可能性があると述べている。\n\n記事は、既存の利用者から収益を増やす必要があるため、今回の広告テストが位置付けられると分析する。同社は決算発表と同時に、コンテンツをログインした利用者に限定する方針も示し、まず米国以外の市場から段階的に移行するとした。記事は、この措置がAIによる無断のスクレイピング（自動収集）からサイトを守る目的を持つほか、ログインした利用者は関心や行動の情報が多いため広告主にとって価値が高まると説明している。",
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/03/reddit-tests-ads-in-search-results-as-traffic-declines-and-growth-concerns-mount/",
+          "date": "2026-11-03",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "e9e1cc36cc97",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/",
+      "headline": "NYTなど新聞社がブレイブを提訴、有料記事回避とAI企業への記事販売を問題視",
+      "originalTitle": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
+      "outlet": "Ars Technica",
+      "region": "overseas",
+      "category": "it",
+      "score": 55,
+      "tier": "interest",
+      "pubDate": "2026-11-03T18:30:27.000Z",
+      "body": null,
+      "summary": "ニューヨーク・タイムズ（NYT）などの新聞社は、ブレイブ・ソフトウェアを米国のニューヨーク南部地区連邦地方裁判所に提訴した。訴状では、同社のブラウザが有料記事の壁（ペイウォール）を不正に回避し、盗まれた報道コンテンツをAI企業に販売していると主張している。NYTは、Braveを「自社ユーザーと主要な生成AI企業に著作権侵害コンテンツを供給・販売・配布する者」と非難し、対象としてAnthropic、Perplexity、Mistral、xAI、Cohereを挙げた。訴状は、第三者の収益推計に基づき、Braveは出版社の著作物を許諾なく複製・再販して1億ドル超を得た一方、出版社には何も支払われていないとしている。\n\n訴状によると、AI企業はBraveの検索インデックス（検索エンジンが収集したウェブ情報のデータベース）からリアルタイムのオンラインコンテンツの提供を受け、自社のAIモデルの学習や利用者の個別の質問への回答に使っているという。訴状は、Braveのウェブサイトに、同社の検索API（外部のプログラムから検索機能を呼び出すための仕組み）が「AI分野の大手」であるCohere、Mistral、Perplexity、You.comに使われているとの記載があることも根拠に挙げている。\n\n訴状は、Braveが著作権侵害の3類型すべてに当たると主張している。直接侵害としては、記事を検索インデックス用に収集（スクレイピング）すること、AI検索機能「Ask Brave」、そしてAI企業に許諾のない著作物の供給源として使われるAPIを挙げている。さらに、利用者やAI企業による複製を意図的に誘発・促進し、そこから利益を得ているとして、寄与侵害と代位侵害も主張している。加えて、NYTなどが記事へのアクセスを制限するために用いる技術的保護手段を回避したとして、米国のデジタルミレニアム著作権法（DMCA）違反も主張している。\n\n訴状は、Braveブラウザの既定設定を有効にすると、サイトの有料記事の壁の向こう側に入り、有料コンテンツを利用者に提供すると指摘している。さらに、NYTのサイトに表示されるはずの広告を遮断し、代わりにBrave独自の広告を表示する一方、利用者に広告収入の一部を還元する仕組みだとしている。これによりNYTはデジタル広告収入を得られず、報道の制作費を賄う機会を奪われていると主張している。",
+      "sources": [
+        {
+          "outlet": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/",
+          "date": "2026-11-03",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "fbe15a3b5c63",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.watch.impress.co.jp/docs/news/2153080.html",
+      "headline": "イオン、フィジカルAIを導入した自動化倉庫「イオン川口東XD」を本稼働",
+      "originalTitle": "イオン、フィジカルAI導入した次世代自動化倉庫「イオン川口東XD」",
+      "outlet": "Impress Watch",
+      "region": "domestic",
+      "category": "ai",
+      "score": 54,
+      "tier": "interest",
+      "pubDate": "2026-11-02T05:04:01.000Z",
+      "body": null,
+      "summary": "イオン、イオングローバルSCM、Mujinは10月29日、フィジカルAI（AIがロボットなど実世界の機器を制御する技術）を導入した自動化倉庫「イオン川口東XD」の本稼働を開始した。所在地は埼玉県川口市である。同倉庫は、都市型の小型食品スーパーに求められる店舗別の複雑な出荷に対応する物流拠点で、イオンが進める物流構造改革の一環として、物流自動化のモデルセンターと位置づけられている。常温ケース商品については、入荷から出荷までの工程で80%の自動化を目指すという。\n\n導入した中核設備は、AI制御の産業用ロボットアームである「混載パレタイズロボット」と「混載デパレタイズロボット」である。パレタイズは荷物をパレットに積む作業、デパレタイズは降ろす作業を指す。3Dビジョン（立体的に物体を認識するカメラ）で商品の混載状態を確認しながら、サイズや重量の異なる荷物を効率よく積み分ける。出荷オーダーに基づいて積み付けを事前にシミュレーションし、積み込み中も積載状態を確認して、位置ズレや荷崩れが起きてもロボットの動作を制御しながら作業を続けるという。\n\nこのほか、出荷優先度に従ってラックから正確な順序で高速に出庫する「ケース順立てシャトルラック」や、仕分け用の無人搬送車（AGV）などを導入した。倉庫運用管理システム「WES」で自動化設備や作業者への指示を一元管理している。省人化の効果は、パレタイズで1日あたり約25人相当、デパレタイズで約8人相当と見込まれるとしている。積載状態が変わりやすい混載の作業は、これまで人手からの置き換えが難しかったとされる。\n\nイオンは2023年にロボット総合制御プラットフォームを展開するMujinと提携し、2026年までに自動化倉庫を構築すると発表していた。自動化システムを導入した倉庫としては、2024年にイオン福岡XD、2026年9月にイオン岩手FDCが稼働を開始している。ただし、混載状態の仕分けから積み付けまでの工程を自動化した例は、イオンとして初めてだという。",
+      "sources": [
+        {
+          "outlet": "Impress Watch",
+          "url": "https://www.watch.impress.co.jp/docs/news/2153080.html",
+          "date": "2026-11-02",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "01b84c86cf53",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "science",
+      "url": "https://arstechnica.com/space/2026/11/this-space-company-is-betting-its-future-on-a-propellant-available-everywhere/",
+      "headline": "アルゴ・スペース、水を推進剤とする輸送網構想 初号機は推進系を試験できず",
+      "originalTitle": "This space company is betting its future on a propellant available everywhere",
+      "outlet": "Ars Technica",
+      "region": "overseas",
+      "category": "science",
+      "score": 52,
+      "tier": "interest",
+      "pubDate": "2026-11-03T16:50:32.000Z",
+      "body": null,
+      "summary": "宇宙企業のアルゴ・スペース（Argo Space）は、2022年末にカーライル3兄弟（ロバート、ライアン、カービー）が設立した。3人は、SpaceXでファルコン9ロケットの時代に、打ち上げ、整備、販売に携わった技術者である。同社はロケットを製造せず、宇宙空間でのインフラを構築する宇宙機に注力している。\n\n同社は、推進剤として水を使う構想を掲げている。水は月で採取できる可能性があり、太陽系の各地にも存在するという。低軌道、静止軌道、月を結ぶ輸送網を構築し、衛星への補給、燃料補給、修理、再配置などを安価に行えるようにする構想である。水は推進剤だけでなく冷却材や放射線遮蔽材としても使え、スラスターから電子機器まで多くが水で冷却される。機体に占める推進剤の質量比を高め、より遠くまで飛行し多くの任務をこなせるようにするという。\n\nロバート・カーライルは、水を基盤とした輸送が長期的には、月の比較的浅い重力井戸から水を採取する商業的な動機になると述べている。同社は7月、実証ミッション「Navigator」を、ファルコン9の相乗り（他の衛星と同じロケットに同乗する方式）で打ち上げた。\n\n衛星との通信には成功したが、展開用の太陽電池パネル2枚のうち1枚が展開しなかった。管制チームは約半日かけて原因の調査と機体の状態データの収集を行った。しかし機体は発電が消費に追いつかない状態が続き、バッテリーが消耗した。推進系を試験するだけのエネルギーは確保できなかったとしている。",
+      "sources": [
+        {
+          "outlet": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/11/this-space-company-is-betting-its-future-on-a-propellant-available-everywhere/",
+          "date": "2026-11-03",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "bdb4f288c654",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.itmedia.co.jp/business/articles/2611/02/news048.html",
+      "headline": "キオクシア、第3四半期の売上収益は第2四半期比1％増の見通し",
+      "originalTitle": "キオクシア、2桁成長に“急ブレーキ”？ Q3「売上収益1％増」、決算説明会で幹部らが語ったこと",
+      "outlet": "ITmedia AI+",
+      "region": "domestic",
+      "category": "it",
+      "score": 52,
+      "tier": "interest",
+      "pubDate": "2026-11-02T03:00:00.000Z",
+      "body": null,
+      "summary": "キオクシアホールディングスは10月30日、2027年3月期第3四半期の業績見通しを発表した。売上収益は2兆5000億円で4期連続の過去最高を更新する見込みだが、第2四半期比の成長率は1.0％増にとどまる。第1四半期は前期比76.2％増、第2四半期は40.3％増と2桁成長が続いていたため、ほぼ横ばいの見通しは投資家に驚きをもって受け止められたようだ。\n\n決算説明会で幹部は、1％増の内訳について、為替が4円の円高に動いた影響で約550億円のマイナスが生じたが、それを吸収した数字だと説明した。物量面では、半導体メモリへの需要が強いことから一部製品を第2四半期に前倒しで販売した。また、データセンター／エンタープライズ向けへの製品構成のシフトを踏まえ、第3四半期に生産した分を第4四半期の販売に充てる計画である。売価は第2四半期まででライクフォーライク（同条件での比較）で約30％引き上げられており、第3四半期は売価がプラス、物量は第2四半期とあまり変わらない見通しだとした。\n\n第3四半期に出荷予定の物量のうちおよそ5割は価格が決まり、残り5割は交渉中だという。前提としていた価格が上がる可能性があり、売価の上昇幅を注視しているとした。価格決定が遅れていることについては、現在は供給が需要に追いついていないため、顧客は早期の決着を、供給側はゆっくりした決着を望む力関係になっていると説明した。10月末時点で価格が決まっているのは約50％である。\n\n2026～2027年にかけて需要は非常に強く、供給量が需要を満たさない状況が続くとの見方を示した。2028年もAIが主導する需要は強いとみている一方、各社が生産能力を増やす動きがあるため、2028年の需給バランスを考えるのは早計だとした。従業員還元については、業績に連動した賞与を積み増しながら、安定した給与も支払っていると説明した。2022～2023年の大きな下落局面でも給与と賞与を支払ったとしている。",
+      "sources": [
+        {
+          "outlet": "ITmedia AI+",
+          "url": "https://www.itmedia.co.jp/business/articles/2611/02/news048.html",
+          "date": "2026-11-02",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "e595fd468abc",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://gigazine.net/news/20261104&",
+      "headline": "AIの富はモデル開発企業から流通・決済網へ移るとの論考",
+      "originalTitle": "AIモデルのコモディティ化で富は開発企業から流通・決済システムへ移るという予測「The Commanding Heights」",
+      "outlet": "GIGAZINE",
+      "region": "domestic",
+      "category": "ai",
+      "score": 51,
+      "tier": "interest",
+      "pubDate": "2026-11-03T22:00:00.000Z",
+      "body": null,
+      "summary": "GIGAZINEは、2026年10月29日に公開された論考「The Commanding Heights」を紹介した。起業家で投資家のウィル・マニディス氏とジョー・ロバーツ氏によるこの論考は、AIモデルの性能向上と低価格化が進むにつれ、AIが生み出す富はモデルを開発する企業ではなく、AIを利用者に届ける流通網や決済などの金融インフラを支配する企業に集中すると予測している。タイトルは、1922年にウラジーミル・レーニンが国家による主要産業の支配を説明した際に使った表現に由来する。\n\n背景にあるのは、AIモデルのコモディティ化（製品の差別化が難しくなり価格競争が進む現象）である。最先端モデルの開発には莫大な資金が必要だが、その性能は数カ月遅れで登場する後発モデルにも取り込まれるため、開発企業が優位性を長く保ち投資を回収することは難しくなるとしている。論考は、活版印刷のグーテンベルクや鉄道の事例を挙げ、技術を生み出した企業と技術から利益を得る企業は必ずしも一致しないと指摘している。\n\nAI開発競争は、企業間の競争ではなくアメリカと中国による国家間競争になると予測している。金融・AI分野の専門家サイモン・テイラー氏は、Xへの投稿で、アメリカが世界のAI計算資源の約70％を保有し、中国は約5％にとどまるという数字を挙げ、両国の間に冷戦に似た関係が生まれるという見通しを紹介した。論考はまた、アメリカ政府がAI開発企業を国家戦略上の重要な資産とみなし、出資や特別な議決権によって経営への影響力を強める可能性があると予測している。\n\n流通と決済について論考は、AIの普及で取引量が増えれば、決済や取引のインフラを提供する企業は個々の取引から得る利益が小さくても収益を伸ばせるとしている。アメリカドルに価格を連動させたステーブルコイン（法定通貨に連動することを目指す暗号資産）を例に挙げ、アメリカドルを基盤とする新しいデジタル金融システムを「Neo-Dollar」と呼んでいる。さらに、AIによる業務の自動化で発展途上国の雇用が減り、経済格差が拡大する可能性にも言及している。記事は、これらが将来予測であり、不確実な要素も多く残されていると付記している。",
+      "sources": [
+        {
+          "outlet": "GIGAZINE",
+          "url": "https://gigazine.net/news/20261104&",
+          "date": "2026-11-03",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "edbf4ed1a954",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://arxiv.org/abs/2605.29713",
+      "headline": "生成AIの数学的基礎を解説する入門書がarXivに公開",
+      "originalTitle": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+      "outlet": "arxiv.org",
+      "region": "overseas",
+      "category": "ai",
+      "score": 50,
+      "tier": "spare",
+      "pubDate": "2026-11-03T21:40:53.000Z",
+      "body": null,
+      "summary": "arXivに2026年5月28日に投稿された論文「The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer」は、現代の生成AIの数学的基礎を、導出を重視して解説する入門書である。PCA（主成分分析）、確率的PCA、変分オートエンコーダ、拡散モデル（ノイズを段階的に取り除いてデータを生成する手法）から、正規化フロー、自己回帰モデル、GAN（生成器と識別器を競わせて学習させる手法）、Wasserstein GAN、エネルギーベースモデルまでを、それぞれの関係を踏まえて一貫した流れで扱うという。\n\n個々の最新アーキテクチャや実装の詳細を網羅するのではなく、生成モデルの構造を数学的な実質を残したまま理解しやすくすることを目的としている。想定読者は、数学に関心を持つ研究者、実務者、学生である。投稿者はTianhua Chen氏で、2026年9月8日に改訂版（v2、195ページ）が公開され、視覚的な説明を随所に加えたとしている。",
+      "sources": [
+        {
+          "outlet": "arxiv.org",
+          "url": "https://arxiv.org/abs/2605.29713",
+          "date": "2026-11-03",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": "https://news.ycombinator.com/item?id=50358582",
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "6fd6ad7938fa",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "headline": "OpenAI、セキュリティ報奨金を大幅増額 重大な脆弱性は最大3万ドルに",
+      "originalTitle": "Rewarding defenders with bigger bug bounties",
+      "outlet": "OpenAI",
+      "region": "overseas",
+      "category": "it",
+      "score": 48,
+      "tier": "spare",
+      "pubDate": "2026-11-02T18:00:00.000Z",
+      "body": null,
+      "summary": "OpenAIは、セキュリティ・バグ報奨金プログラムの報酬を引き上げたと発表した。独立した研究者に、同社のテストで見逃された可能性のある脆弱性を報告するよう促すことが目的だとしている。中・高・重大の脆弱性に対する報酬範囲の中間値は、平均で4倍以上に引き上げられた。\n\nChatGPT、Codex、APIプラットフォームといった中核製品の重大な脆弱性は、最大3万ドルの報酬を得られる。特に優れた重大な発見は最大10万ドルで、ボーナスを含めると最大17万2000ドルになる。また、報告の質に応じた倍率ボーナスも導入された。対象の不具合を切り分け、いつ悪用できるかと影響を示す信頼性の高い実証コード（PoC：脆弱性が実際に悪用可能であることを示す再現手順や検証コード）が評価対象になる。さらに、新機能の公開時に期間限定の優先キャンペーンのボーナスプールを設け、継続的に報告する研究者向けに5段階のロイヤルティボーナスも用意した。\n\n報酬の計算例では、ChatGPTでユーザー操作なしにアカウントを乗っ取られる重大な欠陥（ゼロクリックのアカウント乗っ取り）の場合、従来の報酬は6500ドルだった。新体系では基本報酬3万ドルに、品質ボーナス1.15倍、優先キャンペーン1.30倍、ロイヤルティ31337ティアの1.15倍を掛け合わせ、約5万1577ドルになるという。ただし、これらの計算例と過去の支払額は説明用の例示である。\n\n未払いの報告には新しい報酬範囲が適用される。発表前30日以内に支払われた報奨金についても、新体系で増額される場合は差額を支払うとしている。さらに、11月20日から21日にオークランドで開かれるイベント「PROMPT2PWN」に同社のセキュリティチームが出席し、研究者が対象を現地で試せる場を設けるという。",
+      "sources": [
+        {
+          "outlet": "OpenAI",
+          "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+          "date": "2026-11-02",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "434e9abae2e0",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.theverge.com/tech/1025903/sonos-presets-27voice-ai-early-access",
+      "headline": "Sonos、アプリに新プリセット追加 AI音声アシスタントの提供準備",
+      "originalTitle": "Sonos adds new Presets and prepares for the 27voice AI beta",
+      "outlet": "The Verge",
+      "region": "overseas",
+      "category": "it",
+      "score": 46,
+      "tier": "spare",
+      "pubDate": "2026-11-03T22:20:50.000Z",
+      "body": null,
+      "summary": "Sonosは大規模なアプリ更新を始め、新機能の「プリセット」を追加するとともに、AI音声アシスタントの先行アクセスを提供する。プリセットでは、特定の部屋で特定の音量により音楽を再生する設定を登録でき、ホーム画面に直接表示されるため、すぐに再生を開始できる。\n\n米国のユーザーは、新しいSonos 27voiceアシスタントの待機リストに11月6日から登録でき、利用は11月12日から始まる。アシスタントは、音楽の再生開始、別の部屋への再生の移動、スピーカーのグループ化・解除、タイマー設定などに対応する。さらにSonosは、「ジャケットにイワシの缶が描かれたアルバムを再生して」や「スーパーボウルで歌ったシンガーの最新アルバムをHallwayで再生して」といった、自然言語による複雑な依頼にも応えられるとしている。\n\n今回の更新は、2024年のアプリ刷新による混乱からの立て直しの一環である。SonosのCEOトム・コンラッドは、その刷新を元に戻すと約束している。9月に公開されたSonos 27アプリのOS更新では、AIエージェントをアプリに接続できるようにした。Sonosは今後、ユーザーが最大10体のカスタムエージェントを作成できるようにする計画だという。\n\nそのほかの機能として、「再生中」画面やミニプレーヤーをスワイプして曲を飛ばせるようになる。お気に入りの並べ替えも可能になる。iOS専用の「System Health」機能とも連携し、スピーカーの設定上の問題を見つける手助けをするという。",
+      "sources": [
+        {
+          "outlet": "The Verge",
+          "url": "https://www.theverge.com/tech/1025903/sonos-presets-27voice-ai-early-access",
+          "date": "2026-11-03",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "262cfa35f430",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "headline": "OpenAI、次の社内セキュリティ演習を準備 外部研究者と共同で防御を検証",
+      "originalTitle": "Preparing our next security sprint to harden OpenAI",
+      "outlet": "OpenAI",
+      "region": "overseas",
+      "category": "it",
+      "score": 46,
+      "tier": "spare",
+      "pubDate": "2026-11-02T18:00:00.000Z",
+      "body": null,
+      "summary": "OpenAIは、次の社内セキュリティ演習（セキュリティ・スプリント：短期間に集中して行う検証作業）を計画していると発表した。新たな研究者や外部のセキュリティパートナーを社内チームと組ませ、同社のモデルを使ってシステムを試験し、強化する。パートナーのCathedralの研究者も、OpenAIのモデルを使いながら社内チームと共に自社の防御に挑戦する。また、セキュリティ・バグ報奨金も改定し、重大な発見への報酬を4倍以上に増やすという。\n\n前回の演習では、製品エンジニアの25%を脆弱性の発見と修正に充てた。エンジニアはCodex（コード作成を支援するAIエージェント）を使い、指摘事項を調べ、隔離された環境で脆弱性を再現し、レビュー用のパッチを作成したという。同社は、従来のサイバー防御だけでは不十分だとしている。脅威が急速に現れる中で、攻撃者より先に弱点を見つけて修正し続ける仕組みが必要だと主張している。\n\n同社は、最先端のサイバー関連能力を防御側が活用できるようにする方針で、Daybreakの顧客に最も高性能なモデルを提供する。重要なサービスやデジタル基盤を守る最前線の防御担当者向けに、6か月間で10億ドル分の補助付きアクセスを提供するとしている。さらに、前回の演習のアーキテクチャと得た教訓、業界や政府のサイバー防御者を支援する青写真も公開する。OpenAIは、AIを使って自社システムの弱点を継続的に見つけて直す取り組みを進めるとしている。",
+      "sources": [
+        {
+          "outlet": "OpenAI",
+          "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+          "date": "2026-11-02",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "c8f226baf1a9",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
+      "headline": "Safari 27.3ベータ、明るいWebサイトを暗く表示する機能を導入",
+      "originalTitle": "Safari introduces Adaptive Dark Mode in 27.3",
+      "outlet": "webkit.org",
+      "region": "overseas",
+      "category": "it",
+      "score": 45,
+      "tier": "spare",
+      "pubDate": "2026-11-03T21:39:05.000Z",
+      "body": null,
+      "summary": "WebKitの公式ブログによると、Safari 27.3ベータでAdaptive Dark Mode（明るいページを自動で暗く表示する機能）が導入された。ユーザーが有効にすると、Safariは明るい背景のWebサイトをダーク表示に変換する。ダークモードを使うユーザーによるページ読み込みは全体の約40%を占めるが、ダークモードに対応しているのは約10%のページにとどまるとしている。\n\n利用するには、システムの外観をダークに設定した状態で明るい背景のサイトを開き、表示される試用案内で「Try」をタップする。HTMLのmeta要素やCSSのcolor-scheme（ページが対応する配色モードを示す指定）でダークモード対応を宣言しているサイトは変更されない。それ以外のページは色を分析して全体が明るいか暗いかを推定し、明るい場合のみダークに変換する。\n\n変換の中心は色の反転であり、色相を保ったまま明度を反転するカラーマトリクスを使う。明るい背景を暗く、暗い文字を明るくし、文字色はWCAG（Webアクセシビリティの国際指針）が定める4.5:1のコントラスト比を目指す。SVG画像は必要に応じて色を変え、ビットマップ画像は明暗の分布を分析して単純な白黒ロゴのみ反転する。マスクやmix-blend-modeといった効果は表示が崩れる場合に無効化され、<canvas>の内容は予測しにくいため変換されない。\n\nAppleは、サイト側が変換の有無を検知できるとプライバシー保護を弱める識別情報が増えるとして、検知できない仕組みにしたとしている。JavaScriptでCSSの色を取得すると元の色が返り、canvasに描かれた画像も元の形で表示される。サイト運営者はcolor-scheme: light onlyを指定すると変換を避けられるが、Safari 27.3ベータ1ではonlyキーワードが未対応だと注記している。",
+      "sources": [
+        {
+          "outlet": "webkit.org",
+          "url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
+          "date": "2026-11-03",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": "https://news.ycombinator.com/item?id=50358562",
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "3df8cac38346",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.theverge.com/games/1025722/valve-steam-game-increase-submissions",
+      "headline": "Valve、Steamのゲーム審査が遅延 提出増加を受けリリース前チェック項目を変更",
+      "originalTitle": "Valve is making changes to deal with a ‘significant increase’ in Steam game submissions",
+      "outlet": "The Verge",
+      "region": "overseas",
+      "category": "it",
+      "score": 43,
+      "tier": "spare",
+      "pubDate": "2026-11-03T22:15:33.000Z",
+      "body": null,
+      "summary": "Valveは公式投稿で、ストアページやビルドの審査への提出がここ数カ月で大幅に増えたことを認めた。そのため審査には、通常の3〜5日ではなく最長12営業日かかっているという。インディー開発者からは審査の遅れで発売予定日を逃すゲームも出ており、不満が寄せられていた。\n\nValveは遅延の大きな原因が再審査にあるとし、基本的な動作上の問題による再審査を減らすため、開発者向けのリリースチェックリストを変更する。変更点の一つは、Steam上でゲームを少なくとも5分間動かすことを求める点である。Valveによると、Steamで一度もプレイされていないビルドが審査に出されることもあり、実行ファイルを直接起動すると問題がなくてもSteam経由のインストールや起動に影響する手順が抜けている場合があるという。\n\nそのほか、実績（achievements）の準備を整えることや、DirectXやVisual C++など、Steamがインストールする場合がある共通の再頒布可能ファイル（redistributables）を確認することも求められる。Valveは、ビルド審査のプロセスにもさらなる改善を進めているとしている。",
+      "sources": [
+        {
+          "outlet": "The Verge",
+          "url": "https://www.theverge.com/games/1025722/valve-steam-game-increase-submissions",
+          "date": "2026-11-03",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "a010bae6b2ed",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://flipper.net/pages/flipper-one",
+      "headline": "Flipper One、オープンなLinux搭載ARMコンピューターの予約注文を開始",
+      "originalTitle": "Preparing for the Flipper One Kickstarter and opening pre-orders",
+      "outlet": "flipper.net",
+      "region": "overseas",
+      "category": "it",
+      "score": 42,
+      "tier": "spare",
+      "pubDate": "2026-11-03T19:32:13.000Z",
+      "body": null,
+      "summary": "Flipper Oneは、強力なARMプロセッサーで動作するオープンなLinuxコンピューターであり、予約注文の受け付けが始まった。Wi-Fi 6EとGigabit Ethernetを内蔵し、M.2（小型の拡張モジュール規格）スロットに5Gモデムや SDR（ソフトウェアで電波を処理する無線機器）などを追加できるとしている。\n\nOSには完全なオープンソースのLinuxファームウェアを採用し、本流（メインライン）のカーネルで動作させる。バイナリブロブ（非公開のバイナリ形式のドライバー）やベンダー固有の基本ソフトウェアに依存しないため、常に新しいカーネルに対応しやすいとしている。RK3576のメインライン対応を進めるCollaboraと提携し、Flipper Oneを完全にアップストリーム対応かつバイナリブロブ不使用にするという。\n\n本体には2つのプロセッサーが独立して並行動作する。省電力マイコンのRaspberry Pi RP2350は、LCD、物理ボタン、LED、電源を制御し、Linuxが未起動または停止中でも本体を操作できるようにする。Rockchip RK3576は8コアのARM SoC（1チップにCPUなどを集約した半導体）で、Linuxを実行し、Wi-Fi、Ethernet、USB3、PCIeを管理する。\n\nネットワーク機能では、最大5つの上り回線の接続、ルーティング、フェイルオーバーなどに対応するとしている。内蔵Wi-FiにはMediaTek MT7921Uを採用し、モニターモードに対応する。衛星通信のNTN（地上以外の通信網）モデムの対応も目指しており、対応パートナーを探している。eSIMに組み込まれるFlipper SIMのデータプランは実験的な構想で、詳細は近日公表されるとしている。",
+      "sources": [
+        {
+          "outlet": "flipper.net",
+          "url": "https://flipper.net/pages/flipper-one",
+          "date": "2026-11-03",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": "https://news.ycombinator.com/item?id=50356994",
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "05862b8015dd",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.theverge.com/tech/1025748/apple-iphone-18-rumors-price-hike-battery",
+      "headline": "iPhone 18標準モデルは値上げとの噂、バッテリー大型化も",
+      "originalTitle": "iPhone 18 rumors suggest a bigger battery, higher price next year",
+      "outlet": "The Verge",
+      "region": "overseas",
+      "category": "it",
+      "score": 42,
+      "tier": "spare",
+      "pubDate": "2026-11-03T20:16:54.000Z",
+      "body": null,
+      "summary": "リーカー（未発表製品の情報を先に漏らす人物）のDigital Chat StationがWeiboに投稿した内容として、9to5Macが伝えた。それによると、来年初めに登場するとされる標準モデルのiPhone 18は値上げされ、バッテリーが大きくなり、2ナノメートル製造プロセスによる新型チップA20を搭載するという。\n\n一方で、iPhone 18 ProとPro Maxに搭載される小型化されたDynamic Island（画面上部の操作表示領域）は、標準モデルには搭載されないとされる。値上げ幅は示されていない。標準モデルは秋の新製品発表会では取り上げられず、第2世代のiPhone AirとiPhone 18eとともに登場すると噂されている。\n\n記事によると、Appleは9月に既存モデルを含むiPhoneを100ドル値上げしている。GoogleとサムスンもメモリなどRAMを含む部品の不足を背景に、過去1年で同額の値上げを行ったという。Appleは今週、値上げにもかかわらずiPhoneの販売台数が過去最高になったと発表したと伝えられている。",
+      "sources": [
+        {
+          "outlet": "The Verge",
+          "url": "https://www.theverge.com/tech/1025748/apple-iphone-18-rumors-price-hike-battery",
+          "date": "2026-11-03",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "b810030289ed",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+      "headline": "Googleが10月に発表したAI新機能、Gemini 4 ArgonとCarbonなど",
+      "originalTitle": "The latest AI news we announced in October 2026",
+      "outlet": "Google AI Blog",
+      "region": "overseas",
+      "category": "ai",
+      "score": 41,
+      "tier": "spare",
+      "pubDate": "2026-11-02T17:45:00.000Z",
+      "body": null,
+      "summary": "Googleは10月のAI関連発表をまとめたブログ記事を公開した。中心となったのは、複雑な問題を段階的に推論して解く高性能モデル（推論モデル）のGemini 4 Argonである。Argonは開発者、企業、科学者、一般利用者に提供された。その2週間後には、長期にわたる工学作業とサイバーセキュリティ防御に最も強いとする次期モデルGemini 4 Carbonを発表した。\n\nArgonは安全性の検証を経て、コーディング、財務分析、法務業務向けに世界で提供が始まったとされる。ロボット向けの版も提供されている。Carbonは現在、米国政府と信頼された一部のサイバー防御担当者（Fairwind Programを通じた参加者）との事前テスト中であり、安全対策を調整したうえで開発者、企業、一般向けに広く提供する方針だという。\n\nそのほか、リアルタイムに対話的な仮想世界を生成するGenie 4（世界モデル）、音声や物理的な動きを再現する機能が発表された。量子計算では、Willowプロセッサ上で「マジック状態カルティベーション」と呼ばれる手法が機能したとする研究がScienceに掲載された。マジック状態（量子計算に必要な特殊な状態）の準備に計算資源の大半が費やされる問題を解決する一歩とされ、誤りは約40分の1に減ったという。\n\n医療分野では、会話型医療AIシステム「AMIE」を評価したThe Lancetへの論文が掲載された。外来前に患者の病歴を集めて要約することで、医師の準備を75%の症例で支援し、最終的な鑑別診断（考えられる病名の絞り込み）が医師の結論と90%一致したとしている。",
+      "sources": [
+        {
+          "outlet": "Google AI Blog",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+          "date": "2026-11-02",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "6bd88fe9252b",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
+      "headline": "逆ゲーム理論でAIエージェントを制御、AIを「超知能」と呼ぶ政権の動きも",
+      "originalTitle": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
+      "outlet": "MIT Technology Review",
+      "region": "overseas",
+      "category": "ai",
+      "score": 40,
+      "tier": "spare",
+      "pubDate": "2026-11-03T13:10:00.000Z",
+      "body": null,
+      "summary": "MIT Technology Reviewのニュースレターでは、AIエージェント（利用者に代わって自律的に作業を行うAI）を制御する「逆ゲーム理論」が紹介された。ゲーム理論が合理的な行動を予測する理論であるのに対し、逆ゲーム理論は望ましい行動を引き出すようにルールを設計する手法である。ケーキの分割を例に、切る人が最初に選べない場合は公平に切るよう仕向けられる仕組みを、AIに規則を守らせる設計に応用する試みだとしている。ただし、実際に機能するかは未解決の課題が残るとされる。\n\n別の記事では、9月末にトランプ大統領が署名した大統領令により、政府機関が人工知能を「超知能（Super Intelligence）」と呼び直すよう指示されたことを取り上げた。約1か月後、政府サイトや文書で新しい呼称が見られるようになったが、大手テック企業を含めて「AI」を使い続けている例もあるという。記事は、この呼称が政治的な忠誠度を測る指標になりつつあり、使う者は政権への支持を示し、使わない者は攻撃の標的になると指摘している。\n\nこのほか、米国の中間選挙の当日にAIが政治に与える影響が試されるという記事が掲載された。また、NvidiaがデータセンターのClientに対し、販売の過半を中国以外にするよう伝えたと報じられた。さらに、Googleは、あるAndroidパートナーのマルウェアが130万台の端末を感染させたと発表したとされる。",
+      "sources": [
+        {
+          "outlet": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
+          "date": "2026-11-03",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    }
+  ],
+  "essays": [],
+  "productionNote": {
+    "reachedOutlets": [
+      "The Verge",
+      "Ars Technica",
+      "ITmedia AI+",
+      "TechCrunch",
+      "MIT Technology Review",
+      "Publickey",
+      "GIGAZINE",
+      "Impress Watch",
+      "arxiv.org",
+      "OpenAI",
+      "webkit.org",
+      "flipper.net",
+      "Google AI Blog"
+    ],
+    "unreachedOutlets": [],
+    "excluded": [
+      {
+        "topic": "国際深掘りが当日に扱った3件",
+        "reason": "実行順により先発の系統を優先"
+      }
+    ],
+    "counts": {
+      "deep": 0,
+      "brief": 30,
+      "essays": 0,
+      "chars": 22121
+    },
+    "text": "候補91件から30件を掲載。本文が取れず不採用0件。"
+  }
+}
