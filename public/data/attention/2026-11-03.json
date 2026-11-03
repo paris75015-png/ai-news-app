@@ -1,0 +1,2988 @@
+{
+ "date": "2026-11-03",
+ "generatedAt": "2026-11-02T23:54:08.364Z",
+ "measured": {
+  "world": 18,
+  "jp": 6
+ },
+ "unreachable": [],
+ "ranking": [
+  {
+   "id": "s-20261103-02",
+   "title": "欧州のスーパー冷凍庫にサイバー攻撃",
+   "firstSeen": "2026-11-03",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-03": 37
+   },
+   "peak": 37,
+   "worldScore": 37,
+   "worldCoverage": "11/18",
+   "jpScore": 8,
+   "jpCoverage": "1/6",
+   "gap": 29,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.94,
+     "title": "Shop freezers in seven European countries hit by cyber-attack",
+     "desc": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
+     "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.74,
+     "title": "Who is hacking Europe’s supermarket fridges and freezers, and why?",
+     "desc": "After a second apparent cyber-attack in as many weeks, we examine possible culprits and their motives Shop fridges and freezers across Europe hit by fresh suspected cyber-attack Supermarket fridges and freezers in seven European countries have malfunctioned , their thermostats remotely cranked up in some cases to 50C (122F). The EU has condemned what it said was “a deliberate attempt to disrupt our food supply chain and undermine consumers’ confidence in it”. Continue reading...",
+     "url": "https://www.theguardian.com/technology/2026/nov/02/europe-supermarket-fridges-freezers-who-hacking-why",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.53,
+     "title": "Are Freezers Being Hacked? Europe and the U.S. Military Are Investigating.",
+     "desc": "A wave of disruptions at grocery stores, which some officials blame on cyberattacks, highlights the vulnerability of supply chains. Shops across Europe were affected again on Monday.",
+     "url": "https://www.nytimes.com/2026/11/02/business/cyberattack-freezers-europe-us-army.html",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "EU says fridge attacks 'deliberate attempt to disrupt' bloc's food supply",
+     "desc": "Grocery stores from Sweden to Portugal were hit Monday by a suspected cyberattack on their freezer systems, in what the EU denounced as a deliberate attempt to disrupt the bloc's food chain. Supermarkets in Belgium, Estonia, Finland, Ireland, Luxembourg and the Netherlands were among at least eight countries affected in the incident, which came three weeks after a cyberattack caused mass disruption in French grocery stores. Food retailers were forced to throw out produce that had spoiled or was at risk of spoiling after refrigerator temperatures soared overnight. FRANCE 24's Dave Keating repor",
+     "url": "https://www.france24.com/en/eu-says-fridge-attacks-deliberate-attempt-to-disrupt-bloc-s-food-supply",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Supermarket hacks across Europe: why are fridges connected to the internet?",
+     "desc": "As hackers target supermarket cooling systems across Europe, new research finds nearly 13,000 refrigeration controls openly reachable online in 99 countries, from supermarkets to hospitals and farms, many running outdated software.",
+     "url": "https://www.euronews.com/2026/11/02/why-are-supermarket-fridges-connected-to-the-internet",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Supermarket fridges in Europe hit by new cyberattack: ‘everything is destroyed’",
+     "desc": "A hacking attack on European supermarkets spread across the continent on Monday, hitting fridges and freezers from Sweden to Belgium and forcing stores to throw away food in an incident that echoed a similar attack in France last month. The attack, which raised temperatures in refrigerator and freezer units at dozens of stores, hit supermarket groups Ahold Delhaize and Colruyt in Belgium and Luxembourg, as well as Swedish grocers ICA and Coop. Furniture-to-meatballs retailer Ikea also saw at...",
+     "url": "https://www.scmp.com/news/world/europe/article/3373032/supermarket-fridges-europe-hit-new-cyberattack-everything-destroyed",
+     "via": null
+    },
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 1,
+     "title": "'Everything is destroyed': Hackers target refrigerators in new cyber attacks",
+     "desc": "Cyber hackers have targeted fridges and freezers in supermarkets in several European countries including Ireland – causing temperatures to increase and food to spoil.",
+     "url": "https://news.sky.com/story/hackers-target-refrigerators-in-ireland-and-european-countries-in-new-wave-of-cyber-attacks-13607013",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "More European grocery stores hit by apparent fridge-freezer hacks",
+     "desc": "Grocery chains in European nations say temperatures in some stores&#039; fridges and freezers soared over 100 degrees just weeks after a similar incident in France.",
+     "url": "https://www.cbsnews.com/news/europe-grocery-store-refrigerator-freezer-cyberattack-hack-food-wasted/",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "European retailers hit by supermarket fridge hack - Reuters",
+     "desc": "European retailers hit by supermarket fridge hack Reuters",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ0pBNnJqdFRQdUY4ODRYSXh6X1RSTzhlUzZSRndTUVowVDhyeUpOOEJvOF9Ha3QtdEdEMmpHbUtUaDVaNDZ1Mk5FcWNYU0psUFd3YTI2T2ZxaWFwelhFa0tTQVRiblcxRlZOd1N0TWUxakMzUnhOYTBSNXZEYkVva2FSUXZIdy00eHRDd2RSOGE1VnlBcDlDQ0VB?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Supermarket freezers in several European countries hit by apparent cyberattacks - AP News",
+     "desc": "Supermarket freezers in several European countries hit by apparent cyberattacks AP News",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLTQ5eVVHbDA4NkpVWmNlWmNrc0ZYZGxxSC1wdFphVmljMnVMX3BDWUNVQkl4akdHOU9leWNKTFdJS0xQVWI2X1VOZUUtYkRzOFN5aDlJcXpXeTVWV0EyeWVzS0JON0ZCb0w2bHBua0JfbDQxcHVsYk11ektjbjQyV1hNVzRnNjBlay1KZnpxVEVySlZ5b1FwbURIYll4aXJmRlN3?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "European supermarket freezers overheat in fresh cyber attack - Financial Times",
+     "desc": "European supermarket freezers overheat in fresh cyber attack Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYnV2NEZKWVZzS3RYX0s3Q2E5bmpUZGlNQmU3WVRoajVFeVI4YUVSTjhZbFdzWW5ZMXpDbkhyTTJmMXpLLXdudGlPeEF5RGpKcUhncUdvMjRWVUZFZzZocnJ5a21fVHNRZG5lZ3ZJVHFxTm9CNXlta3BjZFBEaFViMXpsc0k?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "冷凍庫にサイバー攻撃、食品溶け大量廃棄 欧州各地のスーパー - 日本経済新聞",
+     "desc": "冷凍庫にサイバー攻撃、食品溶け大量廃棄 欧州各地のスーパー 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZVFA3ZHdSbFBIbjYwc0gwU09WRDRUckREaU9CeEV5emFtbmVYYTI2QTROMjdfUW5UOFdZQXBzZUw5NEcwc3RKdkx1dWtRZktMVy0wR1dkaUdPWGhORjNGS3NQVi1YRFJIN2k1eg?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261103-04",
+   "title": "ウクライナ南部の人道支援拠点にロシア空爆",
+   "firstSeen": "2026-11-03",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-03": 28
+   },
+   "peak": 28,
+   "worldScore": 28,
+   "worldCoverage": "8/18",
+   "jpScore": 10,
+   "jpCoverage": "1/6",
+   "gap": 18,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 1,
+     "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+     "desc": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
+     "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Russian bombing of Ukrainian aid centre kills 26 people",
+     "desc": "Ukraine&#039;s president calls attack further proof that Russia does not want any ‌kind of de-escalation or real justice.",
+     "url": "https://www.aljazeera.com/news/2026/11/2/russian-bombing-of-ukrainian-aid-centre-kills-24-people-zelenskyy?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 1,
+     "title": "Russian Strike on Ukraine Humanitarian Hub Kills Dozens",
+     "desc": "The strike in the Zaporizhzhia region came a day after a brief humanitarian truce ended in neighboring Kherson.",
+     "url": "https://www.nytimes.com/2026/11/02/world/europe/russian-strike-zaporizhzhia-ukraine.html",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Ukraine says hopes of 'progress toward peace' knocked by attack on aid distribution centre",
+     "desc": "Zelenskyy said the Zaporizhzhia attack showed Russia was \"sending an entirely opposite signal\" and that it was \"counting on more killings.\"",
+     "url": "https://www.euronews.com/2026/11/02/hopes-of-progress-toward-peace-knocked-by-deadly-russian-attack-on-zaporizhzhia-zelenskyy-",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Russia bombs aid centre and shelter in southern Ukraine, killing 24, authorities say",
+     "desc": "At least 24 people have been killed in a Russian air strike in Ukraine’s Zaporizhzhia region, civil defence authorities said on Monday. Ukrainian President Volodymyr Zelensky wrote on social media that another five people were injured in the attack on a school distributing humanitarian aid in Komyshuvakha. Zelensky described the strike as an “utterly horrific Russian attack”, saying the settlement had been hit several times by aerial bombs over the course of the day. Zelensky said Russia had...",
+     "url": "https://www.scmp.com/news/world/russia-central-asia/article/3373043/russia-bombs-aid-centre-and-shelter-southern-ukraine-killing-24-authorities-say",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Ukraine says Russian strikes dash peace progress hopes after 26 killed",
+     "desc": "Zelensky said Russian forces dropped aerial bombs on a school in the village, used for distributing humanitarian assistance.",
+     "url": "https://www.straitstimes.com/world/europe/ukraines-zelenskiy-russian-bombing-kills-18-in-southeastern-zaporizhzhia-region",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Russian bombing kills 24 in village in southeastern Ukraine, emergency services say - Reuters",
+     "desc": "Russian bombing kills 24 in village in southeastern Ukraine, emergency services say Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcTJsVnE3eVE4T0Utbk5kRVBCb1dsT3ZrVjdDVmd5S3ZyczJkTVBvckZLejltX3pWeXVQaUQ5OXhOSlBpbThtOHlWZ2dZS3BOZXBNRXU2cHh0YjE2Yi1zZzJyY2pqWFRfVTZVZi1KcGw2RThBVVR2TmZwNEdhOEpLblZCUGtsUkd2YndfVTlQRU1UbksyQ2Z1a2RldGhMMWZrZGdRWmVTclhydlh6ZklYM1pfeE9lWUM2T1E?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Russia bombs aid center and shelter in southern Ukraine, killing 26, officials say - AP News",
+     "desc": "Russia bombs aid center and shelter in southern Ukraine, killing 26, officials say AP News",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSjQxRVBYSHRNOF9zQ2l4RldLcXhabTFZWjVtWkhRaGZ3c25xemVZZmJjU1FiQUxMYlpzdmFvQkp1RGRFcWpaVGlOel9vLWx4ZDdfdDdlbm9DWTBXU1B2ZTNHQVFfU1EyQ1VaSHE2NFNqTXEwSEdxZmJEM3piSHhQc1YwUnM0SmxQVFFXYkQtM3BkdW5hclJpdEZwNXZ0M01mRXVUWQ?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.62,
+     "title": "人道支援中の学校にロシアの空爆 少なくとも24人死亡 ウクライナ南部ザポリージャ州(産経新聞)",
+     "desc": "ウクライナのゼレンスキー大統領は2日、南部ザポリージャ州の集落コミシュハバの学校が同日、複数回にわたりロシア軍の空爆を受け、多数の民間人が死傷したと発表した。学校では人道支援物資の配布が行われていたと",
+     "url": "https://news.yahoo.co.jp/articles/b7a52609e28ce7ff736dea0f96bdd3de0d4bc3c7?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261027-22",
+   "title": "米最高裁、カリフォルニア2万票の政権申立てを退ける",
+   "firstSeen": "2026-10-27",
+   "daysSeen": 5,
+   "history": {
+    "2026-10-27": 6,
+    "2026-10-29": 8,
+    "2026-10-30": 6,
+    "2026-11-02": 8,
+    "2026-11-03": 25
+   },
+   "peak": 25,
+   "worldScore": 25,
+   "worldCoverage": "9/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 25,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump asks Supreme Court to block 20,000 California ballots before midterms",
+     "desc": "California says any move to block ballots from suspected noncitizens could disenfranchise eligible US voters.",
+     "url": "https://www.aljazeera.com/news/2026/11/2/trump-asks-supreme-court-to-block-20000-california-ballots-before-midterms?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "dw",
+     "name": "Deutsche Welle",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Supreme Court rejects Trump bid to block 20,000 California ballots",
+     "desc": "The Trump administration had appealed to the Supreme Court over claims that a list of more than 20,000 ballots in California include non-US citizens.",
+     "url": "https://www.dw.com/en/supreme-court-rejects-trump-bid-to-block-20-000-california-ballots/a-79833739?maca=en-rss-en-world-4025-rdf",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump administration asks Supreme Court to set aside 20,000 disputed California ballots",
+     "desc": "On Monday, the ⁠eve of the US midterm elections, the Trump administration asked the Supreme Court to temporarily block California from counting mail-in ballots from more than 20,000 registered voters who federal officials allege are probably non-US citizens. Escalating a legal fight that could affect thousands of voters, the Justice Department filed the emergency request as it seeks to prevent counting the disputed ballots until each voter’s citizenship status can be verified. A federal appeal...",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3373041/trump-administration-asks-supreme-court-set-aside-20000-disputed-california-ballots",
+     "via": null
+    },
+    {
+     "id": "abc-au",
+     "name": "ABC Australia",
+     "region": "world",
+     "weight": 0.53,
+     "title": "Daily briefing: Trump administration appeals to court in California ballots stoush",
+     "desc": "The Trump administration has appealed to the Supreme Court in a bid to block thousands of California ballots from being counted. It comes as politicians make their final pitch to voters ahead of election day.",
+     "url": "https://www.abc.net.au/news/2026-11-03/us-midterms-daily-news-briefing-trump-supreme-court-california/107335082",
+     "via": null
+    },
+    {
+     "id": "toi",
+     "name": "Times of India",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump admin asks Supreme Court to set aside 20,000 California ballots over citizenship row a day before midterms",
+     "desc": "",
+     "url": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/trump-admin-asks-supreme-court-to-set-aside-20000-california-ballots-over-citizenship-row-a-day-before-midterms/articleshow/135468754.cms",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US Supreme Court rejects Trump administration in California ballot fight",
+     "desc": "The administration wants California to set aside the allegedly unlawful ballots until those voters are determined to be US citizens.",
+     "url": "https://www.straitstimes.com/world/united-states/trump-administration-takes-california-ballot-fight-to-supreme-court",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Judge tells Trump administration to stop demands on California about alleged noncitizen voters - Reuters",
+     "desc": "Judge tells Trump administration to stop demands on California about alleged noncitizen voters Reuters",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxON1pzNUZRalZkV3QwalNUSG42clprSlBLa0hFYjljemxVNjhZXzE1SHFMcXVOaVF1MWFWSG1kdXNBNGl6eTIxRGZXRXg2NWw4QWRETEhPSUJmY1kyQUpISDdjY052bXBmNUNlYzh1Yng5WXBvMTlFajZNaEdkZElLajdBM0k2NXA3bncwSEhONE84VzAwemRhLWxGX21TU2pDcnRNdlU4N3VIUXNkLWtWNDZIYWZKai0xWXpBZUFB?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Supreme Court rejects Trump administration push to set aside thousands of California ballots - AP News",
+     "desc": "Supreme Court rejects Trump administration push to set aside thousands of California ballots AP News",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUTBndDdTam9fRTJHOThoRXMtenJuVDU4a05vbllPTlkxalRLWWI4VzlxTENCWGtNdDFQbC1xQ2g4MDFSZkM5RU5wNlFsM0FkaXBpM1VHR2NSRkJaRFpwWlNPVXRfUTc3WlR0WjhIa0pCNnE4SGI2WFFiMHdkbVZsVVZtdlhtNjdmQU15QW5tYXo5dlNOelVyblJwUnJnVmd5MWF3Z3hJRkZSU00?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump’s DOJ Rejected by Supreme Court on California Ballots - Bloomberg.com",
+     "desc": "Trump’s DOJ Rejected by Supreme Court on California Ballots Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUGZmTG9vWW9ZdkhDZ1ZfaUdYV1NfaTVseGhuMVc5d1A4SEpraW1lSnA1M2tiUlo2cDdwYjl1ZGRFZ01Tc1gtLW5GUVZSdWFNYjM4R3BRazNManM4U25WcWxsOUdscDBfV0VjOXZFZ3ZLTTR0YzBESjYwMnE0OTNJTTFONVhkRzNSNnZJR1FmUUtRWkZNbUpjOE5kcWtSSS1JSUl1LW1fWTlmZnZCVi1Z?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261103-05",
+   "title": "米、南アフリカとルワンダの無税貿易枠を停止",
+   "firstSeen": "2026-11-03",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-03": 21
+   },
+   "peak": 21,
+   "worldScore": 21,
+   "worldCoverage": "6/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 21,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.8,
+     "title": "Trump to remove Rwanda and South Africa from US trade deal",
+     "desc": "The move comes barely a week after Rwanda's defence ministry was hit with sanctions by the US Treasury.",
+     "url": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US to suspend South Africa and Rwanda from duty-free trade access",
+     "desc": "South Africa to lose duty-free access, affecting $1.7bn worth of annual exports, including cars and farm products.",
+     "url": "https://www.aljazeera.com/economy/2026/11/2/us-to-suspend-south-africa-and-rwanda-from-duty-free-trade-access?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.91,
+     "title": "Trump Removes South Africa From the African Growth and Opportunity Act Trade Program",
+     "desc": "The decision is the latest measure taken against the country, which the administration has accused of discriminating against white people.",
+     "url": "https://www.nytimes.com/2026/11/02/world/africa/trump-south-africa-trade-program-agoa.html",
+     "via": null
+    },
+    {
+     "id": "dw",
+     "name": "Deutsche Welle",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US to drop South Africa, Rwanda from duty-free trade initiative",
+     "desc": "The Trump administration has said South Africa and Rwanda are breaking the rules of the AGOA free trade initiative, a centerpiece of US economic engagement with sub-Saharan Africa.",
+     "url": "https://www.dw.com/en/us-to-drop-south-africa-rwanda-from-duty-free-trade-initiative/a-79834508?maca=en-rss-en-world-4025-rdf",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US to suspend South Africa and Rwanda from duty-free trade access",
+     "desc": "The move will hit exports including South African auto parts, wine and Rwandan coffee.",
+     "url": "https://www.straitstimes.com/world/united-states/us-to-suspend-south-africa-and-rwanda-from-duty-free-trade-access",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US to suspend South Africa and Rwanda from duty-free trade access - Reuters",
+     "desc": "US to suspend South Africa and Rwanda from duty-free trade access Reuters",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTXBRdlBrbE5GVUt6UUhpRWFyUUNFTlBtSTAtdXgyaDA1OFl6ajZTQWg1SGlTakZXRXFNc0x4V1QtMHdmc1Vpb0ZWUGxlai1xR2xJTDd5YnVfZXBuY3ZyU1JDQk5tWU5PMEUwZlV2NGpGamg3SEZ0clF1NzA2R25McW52dzk0aGxLUkVnXzFwNlRpYlY3SlR2ckJnNHZPOUx6ZHNzNg?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261103-15",
+   "title": "英冒険家ブッシュビー氏、28年の徒歩旅を終え帰国",
+   "firstSeen": "2026-11-03",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-03": 20
+   },
+   "peak": 20,
+   "worldScore": 20,
+   "worldCoverage": "7/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 20,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "British adventurer Karl Bushby returns home after 28-year walk around world",
+     "desc": "The 57-year-old crossed jungles and frozen seas before an emotional homecoming in Hull, northern England.",
+     "url": "https://www.aljazeera.com/news/2026/11/2/british-adventurer-karl-bushby-returns-home-after-28-year-walk-around-world?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.56,
+     "title": "A 31,000-Mile Walk Ends in England, at Mom’s House",
+     "desc": "Karl Bushby arrived in Hull, England, on Monday after spending 28 years crossing four continents on foot.",
+     "url": "https://www.nytimes.com/2026/11/02/world/europe/karl-bushby-world-walk-hull-england.html",
+     "via": null
+    },
+    {
+     "id": "dw",
+     "name": "Deutsche Welle",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Global pedestrian Karl Bushby returns home to UK after 28-year trek",
+     "desc": "Karl Bushby, a British man who traveled 50,000 km without transport over the past 28 years, has come home. Starting in Chile, he crossed the Americas, Russia and parts of Central Asia and Europe — almost all on foot.",
+     "url": "https://www.dw.com/en/global-pedestrian-karl-bushby-returns-home-to-uk-after-28-year-trek/a-79829564?maca=en-rss-en-world-4025-rdf",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "The Long Hull: Karl Bushby reflects on perseverance & 'best of humanity' on his 28-year journey home",
+     "desc": "“They say it takes a village. In this case, it took a world.” After 28 years and some 50,000 kilometres, British explorer and adventurer Karl Bushby has returned to his hometown of Hull, completing an extraordinary life journey across four continents that illustrates not only the limits of human endurance, but also the intricate relationship between individual determination, geopolitical constraints and a world of humanity. Speaking to France 24's François Picard shortly after his emotional homecoming, Bushby reflects on an undertaking that resembles a modern-day Odyssey, although the defining",
+     "url": "https://www.france24.com/en/tv-shows/spotlight/20261102-the-long-hull-karl-bushby-reflects-on-perseverance-best-of-humanity-on-his-28-year-journey-home",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "British adventurer returns home after 28-year journey around the world",
+     "desc": "British adventurer Karl Bushby returns to his mother’s home in Hull after completing a 28-year, 50,000-kilometre journey from Chile.",
+     "url": "https://www.euronews.com/video/2026/11/02/british-adventurer-returns-home-after-28-year-journey-around-the-world",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "U.K. man returns home after 28 years walking 30,000 miles around the world",
+     "desc": "Karl Bushby began what came to be known as his \"Goliath Expedition\" in Chile on Nov. 1, 1998.",
+     "url": "https://www.cbsnews.com/news/englishman-karl-bushby-returns-home-walking-goliath-expedition/",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Karl Bushby embraces emotional mother as he completes his 28-year, 31,000-mile walk around world - AP News",
+     "desc": "Karl Bushby embraces emotional mother as he completes his 28-year, 31,000-mile walk around world AP News",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZG8yWEUtOVpibGVzRGlfaFRDMnFuaXNka0NOck91MXhHS1huenFKSFpRM0pMZnFoZkpGZlYta0JDNW14VGJCQ0Rmc3VkZmt0bGZfYldXdU9nazZrUDN5bXpnQUg4bExFb281NHBlYWtBNjJaYmcycUUxMkpzWjVtaUFWTnVzNG45UHR2YjdVZVZwRnNnUURjM1Vqdw?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261030-06",
+   "title": "バイナンス、63億ドル超の不正流出被害",
+   "firstSeen": "2026-10-30",
+   "daysSeen": 4,
+   "history": {
+    "2026-10-30": 11,
+    "2026-10-31": 36,
+    "2026-11-02": 41,
+    "2026-11-03": 17
+   },
+   "peak": 41,
+   "worldScore": 17,
+   "worldCoverage": "5/18",
+   "jpScore": 26,
+   "jpCoverage": "2/6",
+   "gap": -9,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.65,
+     "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
+     "desc": "The exchange froze transactions following the incident which has been linked to a North Korean group.",
+     "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.91,
+     "title": "Binance resumes customer withdrawals after record $6.3bn hack",
+     "desc": "Cryptocurrency exchange says 90% of losses covered as FBI blames North Korean state-sponsored group TraderTraitor The cryptocurrency exchange Binance has started to allow its customers to withdraw their funds from the platform, as it recovers from a record $6.3bn (£4.7bn) hack. The exchange was hit by the theft on Thursday, which has since been described as the biggest heist in history, with experts identifying North Korea as the likely culprit. Continue reading...",
+     "url": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "North Korea rejects US allegations over $6 billion Binance crypto heist",
+     "desc": "North Korea on Tuesday dismissed US allegations that it was behind a $6 billion cryptocurrency theft from Binance as \"absurd rhetoric\", accusing Washington of seeking to portray the country as a cybercriminal state and warning that US hostility could affect future diplomatic engagement.",
+     "url": "https://www.france24.com/en/asia-pacific/20261102-north-korea-rejects-us-allegations-over-6-billion-binance-crypto-heist",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Sister of North Korea’s Kim slams FBI’s Binance hack allegations as ‘grave’ provocation",
+     "desc": "North Korea on Tuesday slammed the FBI’s allegations that Pyongyang was behind the theft of US$6 billion from cryptocurrency platform Binance, with Kim Jong-un’s powerful sister labelling it a “grave political provocation”. Kim Yo-jong, in a statement released on Tuesday by the KCNA state news agency, said the FBI’s claim was “absurd rhetoric and nothing new”, given earlier US allegations that North Korea was behind last year’s major hack of Bybit. “It is a grave political provocation against...",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3373050/sister-north-koreas-kim-slams-fbis-binance-hack-allegations-grave-provocation",
+     "via": null
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Binance Got Some Money Back - Bloomberg.com",
+     "desc": "Binance Got Some Money Back Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTmNOaWM3VTlmRFd2blE3Y3Q4N3hIa2VkQjRzWTlCaEdyN0lFUlBaTm1PNmJBSUNZNVdtNm8tUkRHVWFMVjZjZmNTWUt2MTBFWjg0SFMzNXJfRUJCY3FINkhsS0VLcGd3Z3hMb1NiSmhyYlBSS3dPVS1EVWl4SmVLVE1MVndUSE1HQWR0Xw?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.97,
+     "title": "北朝鮮の金与正氏、バイナンス事態に「米国の政治的挑発…注視」(中央日報日本語版)",
+     "desc": "3日、北朝鮮の朝鮮中央通信によると、金与正（キム・ヨジョン）部長は前日に発表した談話で、米連邦捜査局（FBI）が事件の背後には北朝鮮の支援を受けるハッカー組織があるとしたことについて、「米国の主張は荒",
+     "url": "https://news.yahoo.co.jp/articles/8ab815d423f421c10f1159ea82d573c8b9c65c02?source=rss",
+     "via": null
+    },
+    {
+     "id": "yahoo",
+     "name": "Yahoo!ニュース主要",
+     "region": "jp",
+     "weight": 0.6,
+     "title": "北朝鮮 バイナンス巡り関与否定",
+     "desc": "",
+     "url": "https://news.yahoo.co.jp/pickup/6601116?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261103-01",
+   "title": "フロリダ州で私用ジェット機墜落、9人死亡",
+   "firstSeen": "2026-11-03",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-03": 16
+   },
+   "peak": 16,
+   "worldScore": 16,
+   "worldCoverage": "5/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 16,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.97,
+     "title": "Copilot in deadly Florida jet crash identified in reports as 20-year-old",
+     "desc": "In air traffic audio, a crew member can be heard shouting: \"We are going to crash into the ground!\"",
+     "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "‘Work to do’: Authorities give update on Florida private jet crash",
+     "desc": "Officials have provided an update on the investigation into Sunday’s deadly Learjet crash in Florida.",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/work-to-do-authorities-give-update-on-florida-private-jet-crash?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "dw",
+     "name": "Deutsche Welle",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US: 9 killed in Florida jet crash",
+     "desc": "A Learjet plane crashed near a busy road in a residential neighborhood in Palm Beach County, leaving all nine people on board dead and a large crater on ground.",
+     "url": "https://www.dw.com/en/us-9-killed-in-florida-jet-crash/a-79825921?maca=en-rss-en-world-4025-rdf",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Nine dead in small plane crash near Trump's Florida home",
+     "desc": "Nine people were killed Sunday when the Learjet they were travelling in plummeted into a neighbourhood in southern Florida, just miles from US President Donald Trump's resort home of Mar-a-Lago, officials said.",
+     "url": "https://www.france24.com/en/video/20261102-nine-dead-in-small-plane-crash-near-trump-s-florida-home",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Victims of Florida plane crash include a 20-year-old copilot and tech entrepreneur and his family - AP News",
+     "desc": "Victims of Florida plane crash include a 20-year-old copilot and tech entrepreneur and his family AP News",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbThMQW1IZnBRT0dBUlZ6dmRaZTFMY1hkWE5nUlZhdzNZd2hvQmFhSTRpd1VIaThyTGVPUnVpbGplbDhjM1U5SE1peUt5SEQ0eEFnU0ViV1djMVF5V1J3SjJKcnBjRndRQ3pmdTV4dkpLZFVsRFhmTWpiNEh6SFh3WndlUm9qOTEtZzFSa0x5U3Y?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261103-34",
+   "title": "トランプ氏、首都で中間選挙の最終演説",
+   "firstSeen": "2026-11-03",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-03": 16
+   },
+   "peak": 16,
+   "worldScore": 16,
+   "worldCoverage": "6/18",
+   "jpScore": 13,
+   "jpCoverage": "1/6",
+   "gap": 3,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.3,
+     "title": "Trump focuses on Washington DC construction projects on eve of midterm election as Democrats climb in polls – live",
+     "desc": "President at reflecting pool in Washington DC to talk about various projects in final appearance before Americans head to polls to vote in crucial midterm election Trump unveils results of $14m reflecting pool makeover in final appeal before midterms Sign up for the Breaking News US email The latest and final New York Times and Siena College poll before the midterm elections also shows Abdul El-Sayed leading Mike Rogers in the US Senate race in Michigan by 11 percentage points , outside the margin of error. The survey took place before Democratic Congresswoman Haley Stevens announced that she ",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/02/democrats-haley-stevens-mike-rogers-abdul-el-sayed-michigan-midterms-trump-rallies-latest-news-updates",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US midterm elections: Trump ends campaign, calls Democrats ‘most dangerous ever’",
+     "desc": "US President Donald Trump ended the midterm campaign season on Monday by calling the Democratic Party’s candidates the “most extreme and dangerous” in American history, the day before voters decide which party controls Congress. Speaking at the Lincoln Memorial Reflecting Pool in Washington, which reopened after a renovation by his administration, Trump called the elections “the most important midterm, I believe, in our lifetime”. “These are the most dangerous candidates ever put up,” he...",
+     "url": "https://www.scmp.com/news/us/politics/article/3373047/trump-closes-midterm-campaign-calling-democratic-candidates-most-dangerous-ever",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump makes final US midterm pitch at troubled Reflecting Pool",
+     "desc": "His speech will contrast the Republicans' efforts making the US 'safer and wealthier' with the Democrats’ 'radical, America Last agenda'.",
+     "url": "https://www.straitstimes.com/world/united-states/trump-makes-final-us-midterm-pitch-at-troubled-reflecting-pool",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump brushes aside tough midterm prospects with visit to Reflecting Pool - Reuters",
+     "desc": "Trump brushes aside tough midterm prospects with visit to Reflecting Pool Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcnBpd0JVcDV2VUVGa0U0SjNDUW9jVDBMQWYzT1ZteDlxRjJZNHhuQm5vY1NneGJfTURPZU93MS1ncWgxcW9vV2JwSUtUZHcyVDFObE92VFdhN25qczhNUjNKRDVMN09Hc2FvOXRiN2ZQVUFGVTJyeUI0SWJfbmh6V3g0WWR3YXhjbndFUjhQcERlMy1kRkNndjNBTzhmZVdtcTVGbEJUN2tPTjNld3JIdXN5Mzl3azVRQ2FDZ0U1MkI?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump is giving his closing midterm pitch at problem-plagued Lincoln Memorial Reflecting Pool - AP News",
+     "desc": "Trump is giving his closing midterm pitch at problem-plagued Lincoln Memorial Reflecting Pool AP News",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRTdUMkROUkZWSFVLOUVHWDRfck8yZjJleFdpeno4azFMWG1jNmxoNHZYMm45OHhMazBtNkZqa2pNOGRxMkhRdUVlSTZnSmRuQV9LenFsb1BqMTJ4T3k3SFJtSS1YNUk4akVUbno4NW5JRTRocE5weW1MWnA1anhYanF2TXpRdzRRaXpORHpLWE5JUGRXTGdtV1U5NTZ4VW54X3hDMEcybw?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump Chooses DC Reflecting Pool for Midterm Closing Argument - Bloomberg.com",
+     "desc": "Trump Chooses DC Reflecting Pool for Midterm Closing Argument Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ01BaUhyU2ZqbjdkZHRaZkxBVF8zRUJhQTZZOU1WeEtDcm9MbUg5VjhUTUM5VmllOU50d2drU0FJaDd3Q1dnTmZyemxSRW9mWWE1M1hiWjlCTkNPLWlnNG5YN1VVUkdTRWtJTG5uVlN1cWF2b1Zsc1B6VkxQcHZ6T2p2bHNEZ1pTYnI2M196NnlzU3N6bEVJa0Jkb3lieXJRVHhOVnh2TXZERkNUOURDRW1n?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.8,
+     "title": "トランプ氏、中間選挙前の最終演説で20分以上「首都の改修」を熱弁(CNN.co.jp)",
+     "desc": "（CNN） 米中間選挙の投開票日を翌日に控えた2日、トランプ大統領は改修を終えた首都ワシントンにあるリンカーン記念堂の「リフレクティング・プール（反射池）」を前に演説し、首都で進める自身の改修プロジェ",
+     "url": "https://news.yahoo.co.jp/articles/3b6bd960a7ed2cbd74faeeec7b45800d5253c780?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261029-01",
+   "title": "スペイン高速列車衝突、69人死亡",
+   "firstSeen": "2026-10-29",
+   "daysSeen": 5,
+   "history": {
+    "2026-10-29": 40,
+    "2026-10-30": 32,
+    "2026-10-31": 10,
+    "2026-11-02": 16,
+    "2026-11-03": 14
+   },
+   "peak": 40,
+   "worldScore": 14,
+   "worldCoverage": "5/18",
+   "jpScore": 36,
+   "jpCoverage": "4/6",
+   "gap": -22,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.45,
+     "title": "University of Cambridge scientist among those who died in Spanish train crash",
+     "desc": "Marta Shahbazi was an \"inspiring, talented and passionate scientist\", says the laboratory where she worked.",
+     "url": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "4 Americans among dozens killed in train crash in Spain, officials say",
+     "desc": "The crash occurred on the morning of Oct. 28 in Urda, Spain, when the high-speed train slammed into the rear of another train that had stopped.",
+     "url": "https://www.cbsnews.com/news/americans-urda-spain-train-crash/",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Spanish authorities identify all 69 victims of train crash, including 2 Japanese nationals",
+     "desc": "The victims include 54 Spanish nationals and 15 foreigners.",
+     "url": "https://www.straitstimes.com/world/europe/spanish-authorities-identify-all-69-victims-of-train-crash-including-2-japanese-nationals",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "4 Americans and 1 Canadian among the 69 dead in Spain’s train collision - AP News",
+     "desc": "4 Americans and 1 Canadian among the 69 dead in Spain’s train collision AP News",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPR1lSZXNoaER0SGhCTm1DN3h5ZWRSVHY5VHJoYTRhZ2tNUXBOM3JhLTR6RWVUSTFDVXRmZTRVUHVVNkg2UU1NMjcyb2ZGc3dnOC1xUWJTZDJDQ2JJVjZuVFMzWldLQk1DOTd5dm52OVpMWG9LbEZLdnR2eEw5dDJDTFNhUTN3NzROM01Gc2ZaYWljSC05TnU2Q1NVZ3ZXR1pX?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Spanish train crash puts Pedro Sánchez’s re-election hopes in jeopardy - Financial Times",
+     "desc": "Spanish train crash puts Pedro Sánchez’s re-election hopes in jeopardy Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNLUFBTDlTT0dzSk1EbjFYTjBRWHZJUVR5UFZJdDNUb2RCTlliUDhoajQ2b2s2bVVJTWJaOG1qY1dOMjkxOV9feW1EcVVhNk9VQnBnTGpyYlRpVHJ0d2oyQ1p6TEpMeW5hRmdfMFhqRGZoLV9jU1doYm1KWHdrQjRvXzd2TzM?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "mainichi",
+     "name": "毎日新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "スペイン列車事故、日本人2人目の死亡を確認 69人全員身元特定",
+     "desc": "",
+     "url": "https://mainichi.jp/articles/20261103/k00/00m/030/003000c",
+     "via": null
+    },
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "スペイン列車事故、日本人２人目も死亡確認 ６９人身元判明",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026110300199&g=int&m=rss",
+     "via": null
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.48,
+     "title": "スペイン列車事故 日本人の犠牲者2人に(ABEMA TIMES)",
+     "desc": "スペインで69人が死亡した列車の衝突事故で、スペイン当局は2日、新たに日本人1人の死亡が確認されたと発表しました。【映像】追突事故の現場の様子 この事故で日本人の犠牲者は2人となりました。 スペイン当",
+     "url": "https://news.yahoo.co.jp/articles/4f22b1935c4a315024e5e5641a05adc3ee95c7cd?source=rss",
+     "via": null
+    },
+    {
+     "id": "yahoo",
+     "name": "Yahoo!ニュース主要",
+     "region": "jp",
+     "weight": 0.7,
+     "title": "スペイン列車事故 邦人死亡2人に",
+     "desc": "",
+     "url": "https://news.yahoo.co.jp/pickup/6601111?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261102-23",
+   "title": "ポーランド、憲法裁判官の任命を巡り対立",
+   "firstSeen": "2026-11-02",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-02": 19,
+    "2026-11-03": 14
+   },
+   "peak": 19,
+   "worldScore": 14,
+   "worldCoverage": "4/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 14,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.94,
+     "title": "Russia Senses Opportunity in Polish Political Turmoil",
+     "desc": "After its sometime allies were ousted in elections in Hungary and Serbia, Moscow has seized on Poland’s constitutional standoff in its effort to weaken Europe’s support for Ukraine.",
+     "url": "https://www.nytimes.com/2026/11/02/world/europe/russia-polish-political-turmoil.html",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Polish PM Donald Tusk urges president to confirm judges amid constitutional crisis",
+     "desc": "Polish PM Tusk accused Karol Nawrocki of \"opting for a forceful confrontation\" as he called on him to recognise the judges \"lawfully elected by the Sejm.\"",
+     "url": "https://www.euronews.com/2026/11/02/donald-tusk-calls-on-polish-president-to-confirm-judges-as-constitutional-court-crisis-rum",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Explainer-What's behind Poland's constitutional crisis?",
+     "desc": "WARSAW, Nov 2 - A crisis over the appointment of judges to Poland's Constitutional Tribunal over the weekend has pushed a simmering conflict between the country's nationalist president and the pro-European government into open confrontation.",
+     "url": "https://www.straitstimes.com/world/europe/explainer-whats-behind-polands-constitutional-crisis",
+     "via": null
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Poland’s struggle to restore the rule of law - Financial Times",
+     "desc": "Poland’s struggle to restore the rule of law Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNmJHdElyYURib0FiNjMyZDllYlJBRzdiY3RZZEJYR2EtOHY1T1R3bVIySmx4emlBazZQUHNFcGtKN2F4UHpsVUxxc2E1MmVJckZ5NWJlWlBrZVc5S1g3VmNJdjR1LTN1Wk5vYzdJZGt5U044S0xGc29yWTc3T1Jud0hwY0E?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261029-26",
+   "title": "米とイラン、合意を巡る協議が続く",
+   "firstSeen": "2026-10-29",
+   "daysSeen": 5,
+   "history": {
+    "2026-10-29": 8,
+    "2026-10-30": 5,
+    "2026-10-31": 7,
+    "2026-11-02": 12,
+    "2026-11-03": 14
+   },
+   "peak": 14,
+   "worldScore": 14,
+   "worldCoverage": "5/18",
+   "jpScore": 16,
+   "jpCoverage": "1/6",
+   "gap": -2,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump signals progress on Iran deal as Tehran pushes faster ceasefire",
+     "desc": "Iran says its offer to reopen the Strait of Hormuz can be implemented in two days if the US agrees to terms.",
+     "url": "https://www.aljazeera.com/news/2026/11/2/iran-pushing-accelerated-plan-for-ceasefire-talks-with-us?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump says deal with Tehran 'could happen' amid 'intensive' talks",
+     "desc": "Tehran on Monday said that the country was holding \"intensive\" indirect talks with Washington to avoid a fresh round of US attacks on Iran ahead of the US midterm elections this week. Foreign ministry spokesperson Esmaeil Baghaei shared Iranian plans to reopen blockaded energy corridor, the Strait of Hormuz, if the US were to meet its demands.",
+     "url": "https://www.france24.com/en/middle-east/20261102-iran-engages-us-in-intensive-negotiations-to-avert-fresh-war-outbreak",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump says \"Iran wants a settlement, as soon as possible\"",
+     "desc": "Trump must decide whether to end the war or return to it, Iran says, as both sides trade threats, but keep diplomacy alive.",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-negotiations-midterms/",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US signals progress in talks with Iran to avert renewed war",
+     "desc": "A deal with Tehran “could happen”, Trump wrote on his Truth Social platform, a day before crucial US midterm elections.",
+     "url": "https://www.straitstimes.com/world/middle-east/us-signals-progress-in-talks-with-iran-to-avert-renewed-war",
+     "via": null
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Iran’s Khamenei Gives Government Powers to Hold Talks on War - Bloomberg.com",
+     "desc": "Iran’s Khamenei Gives Government Powers to Hold Talks on War Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ19KMnR3VkhXQVpwVGNCTkJWNnVlay0zMTFzMDkwMkRkRDQxc01Rb3dnVXdWWFh4Ri1iTHR6Ul9DWWdyZ21RMnhRRGJKRTN5MHN5N1RsMG41UDA4TDZuQnFhV3J0VHF5Q2JXa1BTYlh2T203RHFiMHFaX3E2cVJsaXVjbS13NjlyekNlNnkwMTNySHpXWTJ3UW9OcGl5VXl4eGZQWFlQQmYtMDNvRnFWRw?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.94,
+     "title": "トランプ氏、イランとの合意「実現あり得る」 中間選挙前日に発言(CNN.co.jp)",
+     "desc": "（CNN） トランプ米大統領は2日、翌日の中間選挙を目前に控えた局面で、イランとの合意が「実現する可能性がある」と述べた。イランとの戦争はガソリン価格の急騰を招き、自身の支持率を押し下げている。【映像",
+     "url": "https://news.yahoo.co.jp/articles/7174f77c24e2ca1aa17b7442dd716d1a2fd0da60?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261103-03",
+   "title": "ウクライナで非常警報アプリ乗っ取り、偽の核警報",
+   "firstSeen": "2026-11-03",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-03": 13
+   },
+   "peak": 13,
+   "worldScore": 13,
+   "worldCoverage": "4/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 13,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.77,
+     "title": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
+     "desc": "Many Ukrainians, who have faced years of Russian attacks, did not take the messages seriously and doubted their veracity.",
+     "url": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Emergency alerts hacking 'designed to undermine trust in government', expert says",
+     "desc": "Emergency alert systems in Russia and Ukraine were hit in cyber attacks overnight, with fake warnings of possible nuclear strikes broadcast to users in both countries. The systems have since been brought back under control, though much remains unclear about the attacks, including who was responsible. FRANCE 24's Sharon Gaffney speaks with Dr Melanie Garson, Associate Professor in International Security at University College London. She says that these kind of attacks \"are designed to undermine faith in the government's ability to provide trust\".",
+     "url": "https://www.france24.com/en/tv-shows/a-propos/20261102-emergency-alerts-hacking-designed-to-undermine-trust-in-government-expert-says",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Hacked alert apps send Ukrainians, Russians fake attack warnings",
+     "desc": "Ukrainian and Russian emergency alert apps were hacked just hours apart, sending civilians false warnings of chemical and nuclear attacks.",
+     "url": "https://www.cbsnews.com/news/ukraine-russia-war-app-hack-cyberattack-fake-nuclear-chemical-alerts/",
+     "via": null
+    },
+    {
+     "id": "toi",
+     "name": "Times of India",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Fake nuclear threat alert sent to Ukrainians after emergency app hacked",
+     "desc": "",
+     "url": "https://timesofindia.indiatimes.com/world/europe/oreshnik-is-incoming-hackers-send-fake-nuclear-warning-through-ukraine-alert-app/articleshow/135470423.cms",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261102-10",
+   "title": "ミシガン上院選、民主候補が共和候補を支持",
+   "firstSeen": "2026-11-02",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-02": 28,
+    "2026-11-03": 13
+   },
+   "peak": 28,
+   "worldScore": 13,
+   "worldCoverage": "4/18",
+   "jpScore": 8,
+   "jpCoverage": "1/6",
+   "gap": 5,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "npr",
+     "name": "NPR",
+     "region": "world",
+     "weight": 0.88,
+     "title": "Haley Stevens backs Mike Rogers. And, Gulf states brace for potential attack on Iran",
+     "desc": "Democrats in Michigan are considering their options after Haley Stevens endorsed GOP candidate Mike Rogers for Senate. And the Gulf states are bracing for a possible U.S. attack on Iran after the midterms.",
+     "url": "https://www.npr.org/2026/11/02/g-s1-151215/up-first-newsletter-michigan-senate-iran-war-supreme-court-colorado-catholic-church",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "El-Sayed's primary opponent stuns Democrats by endorsing Republican opponent in Michigan Senate race - AP News",
+     "desc": "El-Sayed's primary opponent stuns Democrats by endorsing Republican opponent in Michigan Senate race AP News",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZTZaeEZ3WHhrS2s0VVVXSWpRLVVLb185QTR6djh1R3UtZ1F0SFJCS1BWbDBaUmZxeEI4ekkyMVBObTV3R1RyZktuX0dISE9rTmFVd2tVY3NnMm8xTUQ5SGo1VFc1bWoySVdkNHp2c2JmR0g4a2hQOEJfdFVVaFZTQ2hSZWwwMHc1Sm81clYxelpTN1JGbFJZOEpEMlRVWkRBSTdCU0RzX1VWdDRrQXc?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "El-Sayed Campaign Hauls In $2.4 Million After Stevens Reversal - Bloomberg.com",
+     "desc": "El-Sayed Campaign Hauls In $2.4 Million After Stevens Reversal Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZVp1R1hoRnEzMm9CejhydUFMcUhlYzhidHRVZUZYR1J6VDQxSzVNNEV0d0d0d0FNTThYWVVjQm8yeWdxWndFVXJEQVl4V2Y5bndRMzJQWDk2T3NRbWtKcl9RUzUzdEtGcWJqb0hXRHdZSUxKQWZnZEVaVmFNckk1UVVfcFhHXzJGVzUzVlVrbGRxMFp5eXlpem50WFNPSDV5cmRzd2xTOWFSYmxHZm1ZX29obzM0VnoyMWJvc1VzbVE3UQ?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Democrats close ranks after shock Michigan defection - Financial Times",
+     "desc": "Democrats close ranks after shock Michigan defection Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdGtrUEcwN0hLOTVHVHpNRHdmakwyYXY3WlgwbWZwSUw1cHR0SWJpOWxEX2ExdExyaTMxaTFWRTBoUnRVOUNCaXdEemhlSEZEZUNHbkItaXpzYlBHUURoLURsY0hQUEFjUzU2Mjc4M1Q0eDNXMS1vRDVBUDZMb2RCTG94N1A?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "一晩で「衝撃の変心」 ミシガン州で民主議員が共和支持―米中間選挙",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026110200724&g=int&m=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261031-01",
+   "title": "ヘルソン州で停戦終了、戦闘が再開",
+   "firstSeen": "2026-10-31",
+   "daysSeen": 3,
+   "history": {
+    "2026-10-31": 26,
+    "2026-11-02": 25,
+    "2026-11-03": 12
+   },
+   "peak": 26,
+   "worldScore": 12,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 12,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.91,
+     "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
+     "desc": "Though unprecedented, the six-day truce has done little to alter the wider trajectory of a war that continues to grinds on.",
+     "url": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "npr",
+     "name": "NPR",
+     "region": "world",
+     "weight": 0.77,
+     "title": "Hundreds evacuate city during temporary ceasefire between Russia and Ukraine",
+     "desc": "The ceasefire in a Russian-occupied Ukrainian city has ended. The ceasefire, which lasted several days, allowed hundreds of residents to evacuate.",
+     "url": "https://www.npr.org/2026/11/02/nx-s1-6022261/hundreds-evacuate-city-during-temporary-ceasefire-between-russia-and-ukraine",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Civilians in Ukraine’s Kherson prepare for the return of war as localized ceasefire ends - AP News",
+     "desc": "Civilians in Ukraine’s Kherson prepare for the return of war as localized ceasefire ends AP News",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSmJHM1BrS0RMNk5BS0hac0VyQjZTSkdPbmlGdkZ6bGJiUGF2dkJuZVFhNzNTaUNhNU0yOXRyUGVKZU42dE1PZzBMWjNFY3hOVTBfSFRkc0lCclpXZ0xCLVhrRi02REF4b25JVEZFeTFDc2tQSnVsTDNuNVVjeHlEdG5zaXB4ODRDSUYwcWtQZFF2THR6eVNjQUZvUElmd1VwdWNDbVZjVQ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261103-09",
+   "title": "豪SNS年齢規制、高等法院で異議申し立て",
+   "firstSeen": "2026-11-03",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-03": 12
+   },
+   "peak": 12,
+   "worldScore": 12,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 12,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.88,
+     "title": "Legal challenge to Australia's social media ban to start in High Court",
+     "desc": "A rights group will argue the world-leading policy robs under-16s of their right to free communication.",
+     "url": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.88,
+     "title": "Reddit and libertarian group challenge Australia’s under-16s social media ban in high court",
+     "desc": "Social network and Digital Freedom Project, led by NSW state MP John Ruddick, seek to overturn ban on grounds of implied freedom of political communication Australia’s world-leading under-16s social media ban will face its first major legal challenge on Tuesday, as Reddit and an advocacy group headed by a libertarian politician seek to overturn the law in the high court. Nearly 11 months ago, 10 platforms – Snapchat, TikTok, YouTube, Facebook, Instagram, Reddit, Kick, X, Twitch and Threads – were required to deactivate or suspend the accounts of users they determined to be aged under 16 years.",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/03/australia-social-media-ban-high-court-challenge-reddit-digital-freedom-project",
+     "via": null
+    },
+    {
+     "id": "abc-au",
+     "name": "ABC Australia",
+     "region": "world",
+     "weight": 0.39,
+     "title": "Social media ban faces first major legal challenge in High Court",
+     "desc": "Australia's world-first social media ban for users under 16 will face its first major legal challenge in the High Court today, nearly a year after taking effect.",
+     "url": "https://www.abc.net.au/news/2026-11-03/high-court-challenge-to-under-16s-social-media-ban/107336886",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261103-10",
+   "title": "1億1500万年前の恐竜化石に赤血球の痕跡",
+   "firstSeen": "2026-11-03",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-03": 11
+   },
+   "peak": 11,
+   "worldScore": 11,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 11,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 1,
+     "title": "Fossilised red blood cells found in 115m-year-old dinosaur’s bone, say scientists",
+     "desc": "Chemical tests on Aratasaurus bone identify presence of heme, the organic compound that allows haemoglobin in blood to carry oxygen around body It could be the opening of a Jurassic Park rip-off: scientists examining ancient dinosaur bones find what appear to be fossilised red blood cells, and traces of the molecule that gives the beast’s blood its distinctive crimson hue. But that is what researchers are claiming to have discovered after analysing the hind leg bones of a small, meat-eating dinosaur called an Aratasaurus that lived and died in what is now north-eastern Brazil 115m years ago. C",
+     "url": "https://www.theguardian.com/science/2026/nov/02/fossilised-red-blood-cells-aratasaurus-dinosaurs-bone",
+     "via": null
+    },
+    {
+     "id": "abc-au",
+     "name": "ABC Australia",
+     "region": "world",
+     "weight": 0.45,
+     "title": "Molecular traces from 'blood cells' found in 115-million-year-old dinosaur bones",
+     "desc": "The surprise discovery of an iron-carrying molecule preserved in the bones of a Brazilian dinosaur adds to research about soft tissues found in fossils that are millions of years old.",
+     "url": "https://www.abc.net.au/news/science/2026-11-03/signs-of-mineralised-molecules-from-dinosaurs-red-blood-cell/107335770",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Evidence of red blood cells seen in dinosaur fossil from Brazil - Reuters",
+     "desc": "Evidence of red blood cells seen in dinosaur fossil from Brazil Reuters",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYng2emNYbzh4ckJ5Sy02X0x6V3YycjloVHRaQ0VRRE5iWE4yaVRaYklrUklKYkEyMXFfWWFSSTVTN2o2Rl90Y1lrS1Fsb29LQ2FoWjlZTHZYOHUtQjFLbzdLamlwd1VIYkh2RjF4Y2x3R1p5Y2pYendVVlJlUk41cDRvdVVYcnhvOTNKOHRfUzdHUEhXMnhzb3M1U3U?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261027-01",
+   "title": "アンソロピック、目論見書で売上高と損失を開示",
+   "firstSeen": "2026-10-27",
+   "daysSeen": 4,
+   "history": {
+    "2026-10-27": 25,
+    "2026-10-28": 3,
+    "2026-10-31": 3,
+    "2026-11-03": 11
+   },
+   "peak": 25,
+   "worldScore": 11,
+   "worldCoverage": "4/18",
+   "jpScore": 17,
+   "jpCoverage": "2/6",
+   "gap": -6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Anthropic revenue growth slows, compute financing risks mount ahead of IPO - Reuters",
+     "desc": "Anthropic revenue growth slows, compute financing risks mount ahead of IPO Reuters",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPalN1b2NwcllWRkRjRUNmOVBjSDMxWDNzdjZIclhDNTdMMFlaVUx2eWN1U19acllfTk0xX0JIbkJma21jVDFhZUR1czFjbVdLbThjMHVQZ0F4MkFvNmc0cURPN05FMkE3VFNyMTktbmNzWVIxN3c1YVFhSXpBTmZSQk1DZ013aDVRcXE5OEplekFkZWFJbmQxUEhDSVJ3RVVrZWJUd2ZRYWRfWUJhMVMycEZRRk8?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Anthropic posts $17B quarterly revenue but losses continue in fresh IPO filing - AP News",
+     "desc": "Anthropic posts $17B quarterly revenue but losses continue in fresh IPO filing AP News",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa09ReEZKQUZMUjIzWWo4RjlIdU9QWGpYZ3dlV0ZYRmo4WWlPR0tRTzgyUUR4Q0VHdGIzakJid3lRSEhBQmJTaVZQS2dXQ2NEMDhUY21tT2YwT1ZiazZlNmZ2cXNwOTkycUYxWksxbk5oSUMycXVxaHV3QTBIak1haWx0Uk84SHV1LTh1cU9rMGhtRGU2Q1E?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "NYC Comptroller Steps Up Criticism of Anthropic After IPO Filing - Bloomberg.com",
+     "desc": "NYC Comptroller Steps Up Criticism of Anthropic After IPO Filing Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUGh6VXo3cER6UGw2dGZ5LUlkYUZfeHVXamJfdFlibE1BMUVWRG5yRkFfUUpQR3c3U2M0MGllTjJzUDhaSVZsd1QtMG5KQ1N2VjI5cncyS3ZXcnhTYlBra3RxU3IxOGtxQmhocGJha184LXNxRGZKaVRLYnJ4OVVBa3FmTUQ0ajZLMFFNY0o4UWxodnRibjNXbUo0dG14dHV2RkFrdk1QMVdHTHpnUWpXWmp1NXliUQ?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Anthropic reveals $900bn AI spending commitments ahead of IPO - Financial Times",
+     "desc": "Anthropic reveals $900bn AI spending commitments ahead of IPO Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeHIxTTNxemhYRmRhV2dJOXlhc1ZBdW05MVp2MkFWdy02SVhIdzZqaWplcXl4SHQ0eGc4RFlaRlNwVWw2d2NQUjJucnFseEJ6ZUdpOUloSG9HOXczOGxmRGhuRk9XZ2VYTFNVUHJPQXltZ0d4S3pVTnZMOElUS0lXcGxBT3M?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "米アンソロピック、売上高２．７兆円 純損失は縮小―７～９月期",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026110300163&g=int&m=rss",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "アンソロピック、7〜9月の売上高12倍に 目論見書に投資額を追記 - 日本経済新聞",
+     "desc": "アンソロピック、7〜9月の売上高12倍に 目論見書に投資額を追記 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZNkVURlluLXh5NEVNVzlQYUhDRUlFclVfMEpKbWJaOEJ0blgxUEpsSm1FbGlOUHkwUVJBS3hBakU3TEU5S3hJYnRsSVhXeG9tSWJVSEJNTlZkc1NoNS0ybzRsMlNZbFlleFExOQ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261103-35",
+   "title": "トランプ氏の支持率、過去最低付近",
+   "firstSeen": "2026-11-03",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-03": 11
+   },
+   "peak": 11,
+   "worldScore": 11,
+   "worldCoverage": "4/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 11,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump approval rating near record low on eve of US midterm elections: Poll",
+     "desc": "Only 32 percent of voters approve of Trump&#039;s job performance in the latest Reuters/Ipsos poll.",
+     "url": "https://www.aljazeera.com/news/2026/11/2/trump-approval-rating-near-record-low-on-eve-of-us-midterm-elections-poll?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump’s approval rating is near a career low ahead of elections, poll finds",
+     "desc": "US President Donald Trump’s approval rating held near a career low as a broad swathe of the US electorate saw their vote in Tuesday’s congressional midterm elections as a way to oppose the Republican president, according to a Reuters/Ipsos poll completed on ‌Monday. The poll results underscore Republican vulnerabilities brought on by a surge in fuel prices since Trump launched a war on Iran in February. Voters in the nationwide poll said they preferred Democrats over Republicans - 46 per cent to...",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3373049/trumps-approval-rating-near-career-low-ahead-elections-poll-finds",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump approval near career low ahead of elections: Poll",
+     "desc": "Still, the Democrats' 8-percentage-point lead was narrower than in a previous poll conducted a week earlier.",
+     "url": "https://www.straitstimes.com/world/united-states/trump-approval-near-record-low-ahead-of-elections-reutersipsos-poll-finds",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump approval near career low ahead of elections, Reuters/Ipsos poll finds - Reuters",
+     "desc": "Trump approval near career low ahead of elections, Reuters/Ipsos poll finds Reuters",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQckJ4X3UzNnZ3QWxTaXBzanBjc000blVFTXpDRDFEYnFUa29ZcWpOM1lxWS1LSWpMSlFfMFYzZ3U0UE4xZGpSQXJHc2ZneGllSzRZMjdZS3p4dzM5ZUk1dWtOd2ticXV5OGZBLXZqVHhSMi1uTGl1cUR5a2wzZm45cVllZy05UXBURGhLaWN5WWU0SlNMdS1zamRodWhNNUlqWEJKUW1qZmNCRHpnNFRscXlR?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261103-06",
+   "title": "ライアン航空、賃金凍結と運賃値上げを検討",
+   "firstSeen": "2026-11-03",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-03": 10
+   },
+   "peak": 10,
+   "worldScore": 10,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 10,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.68,
+     "title": "Ryanair says it may freeze workers' pay and raise airfares",
+     "desc": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.",
+     "url": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.62,
+     "title": "Ryanair faces clash with unions as it mulls pay freezes amid soaring fuel costs",
+     "desc": "Airline also weighs up reducing crew on flights and increasing use of AI as part of cost-cutting measures Business live – latest updates Ryanair has said it is considering implementing pay freezes, setting the scene for a confrontation with unions as the airline tries to offset soaring fuel costs driven by the Middle East conflict . The airline is also considering reducing crew numbers on flights and increasing the use of AI, in a cost-cutting drive. Continue reading...",
+     "url": "https://www.theguardian.com/business/2026/nov/02/ryanair-considers-pay-freezes-reducing-crew-on-flights-fuel-costs-soar-ai",
+     "via": null
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Ryanair to freeze pay and cut hiring as €2bn jet fuel hit looms - Financial Times",
+     "desc": "Ryanair to freeze pay and cut hiring as €2bn jet fuel hit looms Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQlUwbXN3X2ZlTmN3aU5FWmZlVVVXRV8xMTNYRDhCVV8xX19TNnN1cXdtQ0wwZTlQaFJPNjBYQy1WTGE3cXZTX3J3azRXTFVCQUdNUVRtc2xrR01ac01LSWwzandrc21rMXZzc3l4dHg5MVpyZDRHTVFQQ2hNREhCNUdfYXk?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261103-13",
+   "title": "英政府、移民の定住待機期間の規則を修正",
+   "firstSeen": "2026-11-03",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-03": 10
+   },
+   "peak": 10,
+   "worldScore": 10,
+   "worldCoverage": "4/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 10,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.36,
+     "title": "Shabana Mahmood softens immigration plans in face of cabinet backlash",
+     "desc": "Exception for care workers will allow an estimated 280,000 people and their dependants to apply for indefinite leave to remain after five years Shabana Mahmood rowed back on her most hardline plans to make care workers wait 15 years for settlement in the UK, but told MPs on Monday that many migrants would still face retrospective rule changes to make them wait a decade. Under pressure from a cabinet backlash and health unions, the home secretary has offered a carve-out for care workers to allow them to apply for indefinite leave to remain after five years. Continue reading...",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/02/shabana-mahmood-softens-immigration-plans-cabinet-backlash-leave-to-remain",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "British government sets out tougher rules for migrants looking to settle in the UK",
+     "desc": "British PM Andy Burnham said the UK had \"lost control of immigration\" following Brexit. \"This Home Secretary is gripping this problem, and she has my full support in doing so.\"",
+     "url": "https://www.euronews.com/2026/11/02/british-government-sets-out-tougher-rules-for-migrants-looking-to-settle-in-the-uk",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "UK exempts carers from plan to impose long delays on migrants seeking residence",
+     "desc": "Britain watered down plans on Monday to impose long delays on immigrants seeking to receive permanent residence, announcing exemptions for hundreds of thousands of care workers to defuse a political outcry within the governing Labour ‌Party. The government had announced plans last year to require lower-skilled workers to wait 10 to 15 years to receive permanent residence, up from five years previously. But under the plans unveiled on Monday, it said hundreds of thousands of workers in the care...",
+     "url": "https://www.scmp.com/news/world/europe/article/3373042/uk-make-some-migrants-wait-10-years-settle-eases-rules-carers",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Britain exempts care workers from plan to impose long delays on immigrants seeking residence",
+     "desc": "While high earners will be granted the right to settle in three years, the toughest restrictions were reserved for small boat arrivals.",
+     "url": "https://www.straitstimes.com/world/europe/uk-to-unveil-migrant-settlement-overhaul-after-months-of-debate",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261028-04",
+   "title": "英政府、奴隷制をめぐる謝罪と賠償の対応",
+   "firstSeen": "2026-10-28",
+   "daysSeen": 4,
+   "history": {
+    "2026-10-28": 18,
+    "2026-10-29": 8,
+    "2026-11-02": 14,
+    "2026-11-03": 10
+   },
+   "peak": 18,
+   "worldScore": 10,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 10,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.97,
+     "title": "UK was ‘vehement’ slavery reparations should not be on Commonwealth summit agenda",
+     "desc": "British prime minister has now agreed to structured dialogue on reparatory justice but issue remains off formal Chogm agenda British officials reportedly insisted that discussions of reparations for slavery should not be on the agenda of the Commonwealth leaders’ summit in Antigua and Barbuda – and even warned that Andy Burnham would not attend the meeting if the subject was formally included, according to a leading Caribbean political figure. Ralph Gonsalves, a former prime minister of St Vincent and the Grenadines and a senior figure in the reparatory justice movement Repair Campaign, welcom",
+     "url": "https://www.theguardian.com/world/2026/nov/01/uk-was-vehement-slavery-reparations-should-not-be-on-commonwealth-summit-agenda",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.82,
+     "title": "King Charles Meets Both Joy and Criticism on Caribbean Tour",
+     "desc": "During the king’s visits to three former colonies, many people came out for celebratory parades and events. Others said the British state needed to atone for slavery’s toll.",
+     "url": "https://www.nytimes.com/2026/11/02/world/europe/king-charles-caribbean-slavery-commonwealth.html",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261103-30",
+   "title": "イラン、海上封鎖解除を条件に海峡開放を提案",
+   "firstSeen": "2026-11-03",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-03": 10
+   },
+   "peak": 10,
+   "worldScore": 10,
+   "worldCoverage": "3/18",
+   "jpScore": 15,
+   "jpCoverage": "1/6",
+   "gap": -5,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Negotiators ‘braced for worst’ over US-Iran talks to reopen strait of Hormuz",
+     "desc": "Third day of indirect talks as Qatar tries to negotiate release of $6bn in Iranian assets that could lead to waterway’s reopening Officials from the Gulf states are “braced for the worst” as they wait for Washington’s response to an Iranian proposal that could reopen the strait of Hormuz before the US midterm elections on Tuesday. Indirect talks in Doha ran into a third day on Sunday with Qatar trying to negotiate the release of more than $6bn in Iranian assets, which could lead to the reopening of the strait of Hormuz and the restart of negotiations on Iran’s nuclear programme. Continue readi",
+     "url": "https://www.theguardian.com/world/2026/nov/01/negotiators-braced-for-worst-over-us-iran-talks-to-reopen-strait-of-hormuz",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.88,
+     "title": "Iran Says It Would Reopen Strait of Hormuz in 2 Days as Part of U.S. Deal",
+     "desc": "Iranian officials spoke of some progress in negotiating to reopen the strait even as they prepared for all-out war. A Qatari delegation arrived in Tehran on Monday to meet with the foreign minister to continue talks.",
+     "url": "https://www.nytimes.com/2026/11/02/world/middleeast/iran-deal-strait-of-hormuz.html",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Iran offers deal on Hormuz Strait, Netanyahu wants to 'finish the job'",
+     "desc": "Iran said Monday it had a two-day plan to reopen the Strait of Hormuz and resume nuclear talks with the United States, shortening a process originally expected to take seven days. Israel's Prime Minister Benjamin Netanyahu said he wanted to \"finish the job\" first. FRANCE 24's International Affairs Editor Angela Diffley has more.",
+     "url": "https://www.france24.com/en/video/20261102-iran-offers-deal-on-hormuz-strait-netanyahu-wants-to-finish-the-job",
+     "via": null
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.88,
+     "title": "イラン「米海上封鎖解除など提案受け入れれば2日以内にホルムズ海峡開放」(中央日報日本語版)",
+     "desc": "カタールの仲介により米国と間接交渉を進めているイランが、米国の海上封鎖解除を含め自国の要求条件が受け入れられれば2日以内にホルムズ海峡を開放できるという立場を明らかにした。イラン外務省のバガイ報道官は",
+     "url": "https://news.yahoo.co.jp/articles/9f7bb85f702529c5618e3d44d7fb20d90f65ee93?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261028-01",
+   "title": "イスラエル総選挙後、連立協議へ",
+   "firstSeen": "2026-10-28",
+   "daysSeen": 5,
+   "history": {
+    "2026-10-28": 32,
+    "2026-10-29": 49,
+    "2026-10-30": 33,
+    "2026-10-31": 23,
+    "2026-11-03": 10
+   },
+   "peak": 49,
+   "worldScore": 10,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 10,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "After Israel’s election: What’s next?",
+     "desc": "Knesset member Ofer Cassif argues that the ‘politics of exclusion’ keep Israel in political deadlock.",
+     "url": "https://www.aljazeera.com/video/the-bottom-line/2026/11/2/after-israels-election-whats-next?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.85,
+     "title": "Netanyahu and Eisenkot Seek Shot to Be Israel’s Premier",
+     "desc": "Party leaders will make competing cases to the Israeli president for either Benjamin Netanyahu or Gadi Eisenkot to get the first chance to build a governing coalition.",
+     "url": "https://www.nytimes.com/2026/11/02/world/middleeast/israel-election-prime-minister.html",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Israeli 'unity government': Efrat Shapira expects Herzog will urge rival camps to form a 'coalition'",
+     "desc": "Erin Ogunkeye is pleased to welcome Efrat Shapira Rosenberg, Israeli Radio/TV Host, Columnist, Podcaster and Educator. Following a deadlocked Israeli election, “everyone is saying who they’re not going to sit with, but no one is actually saying who they will sit with.” As President Isaac Herzog prepares to consult parliamentary factions over the formation of a new coalition, the impasse reveals tensions that extend beyond the familiar confrontation between Benjamin Netanyahu and his political opponents. According to Shapira, co-host of the highly popular Israeli politics podcast Miflaget Hamak",
+     "url": "https://www.france24.com/en/israeli-unity-government-efrat-shapira-expects-herzog-will-urge-rival-camps-to-form-a-coalition",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261102-06",
+   "title": "仏の高校で封鎖・抗議が再開",
+   "firstSeen": "2026-11-02",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-02": 6,
+    "2026-11-03": 10
+   },
+   "peak": 10,
+   "worldScore": 10,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 10,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.71,
+     "title": "French pupils resume school blockades as country braces for more protests",
+     "desc": "Minister warns weeks without lessons are putting exams at risk as unions plan nationwide strike on Thursday Dozens of high schools across France were blockaded again on Monday as the government braced for another tense week of protests over school conditions and the high cost of living. The protests come amid warnings that weeks without lessons are putting some pupils’ school year and final exams at risk. Continue reading...",
+     "url": "https://www.theguardian.com/education/2026/nov/02/franch-students-school-blockades-protests",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Student protests resume in France as pupils return to school",
+     "desc": "Student protests resume in France as pupils return to school",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/student-protests-resume-in-france-as-pupils-return-to-school?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "French student protests: 'Illiberal' Macron govt dismisses social movement as 'urban violence'",
+     "desc": "Jennie Shin is pleased to welcome Éric Fassin, Sociologist and Professor at Université Paris 8. “In a democracy, elections are very important, but it’s not the end of democracy. It’s the beginning,” explains Fassin. He interprets France’s student protest movement growing into a challenge to socioeconomic policy and what he describes as an “illiberal turn” in government. Connecting the treatment of working-class, racialized youth with wider restrictions on dissent, he argues that racism and democratic participation are central to understanding the unrest. His analysis also challenges the attrib",
+     "url": "https://www.france24.com/en/video/20261102-french-student-protests-illiberal-macron-govt-dismisses-social-movement-as-urban-violence",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261103-14",
+   "title": "クランシー被告、殺人罪の棄却を求め出廷",
+   "firstSeen": "2026-11-03",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-03": 8
+   },
+   "peak": 8,
+   "worldScore": 8,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 8,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Lindsay Clancy back in court seeking to have murder charges dismissed",
+     "desc": "Defence argues that retrying Clancy would violate ⁠⁠her constitutional rights.",
+     "url": "https://www.aljazeera.com/news/2026/11/2/lindsay-clancy-in-court-to-drop-child-murder-charges-after-mistrial?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Lindsay Clancy back in court in bid to dismiss charges she killed her 3 young children",
+     "desc": "Lindsay Clancy returned to court on Monday in a bid to dismiss the charges that she murdered her three young children. The hearing on Monday was the second time the Massachusetts mother has been in court since her trial ended with a deadlocked jury in September after jurors were unable to agree on a verdict. Its focus was a motion from the defence to dismiss the charges on double jeopardy grounds. The proceedings grew heated as defence lawyer Kevin Reddington urged the judge to investigate the...",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3373044/lindsay-clancy-back-court-bid-dismiss-charges-she-killed-her-3-young-children",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Explainer-What's next in the Lindsay Clancy murder case?",
+     "desc": "Nov 2 - Prosecutors are considering whether to retry Lindsay Clancy on first-degree murder charges for killing her three young children at her Massachusetts home in 2023, after an initial trial ended in a mistrial in September due to a deadlocked jury.",
+     "url": "https://www.straitstimes.com/world/explainer-whats-next-in-the-lindsay-clancy-murder-case",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261103-16",
+   "title": "元FBI捜査官ら、ハンター・バイデン事件で起訴棄却",
+   "firstSeen": "2026-11-03",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-03": 8
+   },
+   "peak": 8,
+   "worldScore": 8,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 8,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Judge dismisses charges against FBI agents involved in Hunter Biden case",
+     "desc": "A federal judge tossed charges accusing two former FBI officials of lying to Congress about Hunter Biden investigation.",
+     "url": "https://www.aljazeera.com/news/2026/11/2/judge-dismisses-charges-against-fbi-agents-involved-in-hunter-biden-case?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Judge dismisses case against ex-FBI officials, says DOJ rushed charges before midterms - Reuters",
+     "desc": "Judge dismisses case against ex-FBI officials, says DOJ rushed charges before midterms Reuters",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTlN0OWhaY1IxaFFhRG03RnAtQ1V1dm5GTWZERTlySFRnTEVhdlYwOVcyc1dwcEVSTUpyTUF5aWJiV1FsdzhGNmo3ajE0ckY3X2xaUXF0VERFNW1TTUdHZGpHWWZXREQzYk94S1VzcG9QWGxnZXRxc3pNRng5NU85ajg5NFNHb2V4Tk9tazlvRDdVS20xLTJ6X2l0MGZnd3hkd1JsOVRUck9jU1RFNTdIT3NMWjRnTW5UMUM0Sg?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Judge cites 'weaponization' in tossing charges for ex-FBI agents accused of lying about Hunter Biden - AP News",
+     "desc": "Judge cites 'weaponization' in tossing charges for ex-FBI agents accused of lying about Hunter Biden AP News",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbzdKU1huRWQtMWhVQ0p3N2NLcVk2dmUwQ0I4bVVielVBYU5CSTluTDI2NG1DRUFtQ05JMkNuTDN5c0NSYTF4cU50VHgwTDREdk5NWlNkZzVEU0FlU1hUQTNGc2MyMEdsak5aUmxRYkhONHY2cDRTVnZESkNOZlRXWmhRVG96SlhsNDRPVWZCRUcydW9zN2F4N3RpQWNTYlNYNTZxQQ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261103-17",
+   "title": "米判事、ハーバード大の入試データ訴訟を棄却",
+   "firstSeen": "2026-11-03",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-03": 8
+   },
+   "peak": 8,
+   "worldScore": 8,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 8,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US judge dismisses Trump administration’s Harvard race data admissions case",
+     "desc": "A federal judge on Monday dismissed a lawsuit by US President Donald Trump’s administration seeking to force Harvard University to turn over records for an investigation into whether it continues to consider race in its student admissions process. US ‌District Judge Myong Joun in Boston rejected the US Department of Justice’s lawsuit, which Harvard contends was filed as part of a broader campaign by the Republican president’s administration against the Ivy League school. The judge stressed that...",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3373048/us-judge-dismisses-trump-administrations-harvard-race-data-admissions-case",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US judge dismisses Trump administration's Harvard admissions probe case - Reuters",
+     "desc": "US judge dismisses Trump administration's Harvard admissions probe case Reuters",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNG9xdEhOTE5YeDJQM2Z3Q0tEbk9hN3d2SkVGWnp3Z0FnYW9jOVQwc3dkRk9yek12M1dvWUlxb2NmeGtUelNxSEtMZEVVY29QMXdOS2JibnZndDBmY3o5VWlnMnlTcjFQZUxxTnNKSWU2WWxWbzAwaXJ1ZWtBOXBsbDRIN0pteVlnMXJyZGk2RUhiQTZvX3NBVnlZZndtaGwwYzJodFRZZlZCSFlad01BUFV3?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Harvard Wins Dismissal of US Lawsuit Seeking Admissions Race Data - Bloomberg.com",
+     "desc": "Harvard Wins Dismissal of US Lawsuit Seeking Admissions Race Data Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeHlBRFF5S3dnM25mdlpIZEFDNGxsWlNPX0h5NXpSdGdBbDl1WDN0YXEtMmdfY1ExLWlKZW51U2NiTDFWcVRJZE16ellDQTNma2JZTHZFSlV5SDIwUWk1U2Y4Zk5JalVybTVsM0thZHBPSWRvTnV1cTlReF9sS1RtMGJtNWYyVHhqNk10US1JTmdUR1JQMThEWDhYbElDQkc5aklLVWtvOUt3VmhXRWlQMkRnOA?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261103-19",
+   "title": "アップル、7〜9月期決算を発表",
+   "firstSeen": "2026-11-03",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-03": 8
+   },
+   "peak": 8,
+   "worldScore": 8,
+   "worldCoverage": "3/18",
+   "jpScore": 8,
+   "jpCoverage": "1/6",
+   "gap": 0,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Apple results beat Wall Street expectations on strong iPhone sales - Reuters",
+     "desc": "Apple results beat Wall Street expectations on strong iPhone sales Reuters",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTGFsc2NMYXRUbERoRkphY2hPVWNDM0ZRRmw3OHZzNnlfN0h1aEowUG9uaHZraTJPNlcyVFVYZGVjYmx2Ui01d09OTm9YejM3UGF1aUJKcHVUSUxxb0ZGNTktQmVuRVF0X0pKYTF2clJ6YnJpVmNmUEZESHc4ZWRqMkt1d0VyMEV2RVZlUkYtUE9EcW03ZXB5RzFmQk01endLRWtzNFpnVGd4el90TFUxLWhxaXRxYUsyT1lmbjIySjQ2NXcxdVE?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Apple Growth Decelerates, With China Sales Missing Estimates - Bloomberg.com",
+     "desc": "Apple Growth Decelerates, With China Sales Missing Estimates Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNjVqdFViRENfaVVnVkZiWUdtVVZlVEp2ZDBnUlNDaFk1TG5kYS1XWUpXZWlhUUxrZDdDZk1FTjQ2N0xVbnpxaEdrOEZjQ2NQLWNlc3ZneWNfbG5oSXo2RVg1NzZuSnVNU05YTzgwQWZvRjBFZHQyajFROVBiU1A5OG5vSXRjc05lVngtMy1OemdvZURnbVluQlpXTjlvbERMdENydFpwVS1CLU5CQ1Bn?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Apple warns on rising costs from memory chip shortage - Financial Times",
+     "desc": "Apple warns on rising costs from memory chip shortage Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdEtzWkxwZnNULXVXbUdmbTlmdXhzVFdBby1uRk1DR0JsZlhtWFRKcERETjItM24xTWNEaHlDc3d5NEZEdFlwZ1dGWTI2R1U0THI5N0FaRkNYbWFZR1ZITkZQb0puNFFaQnBIMFhxRWtDSkhaRzgzVncybk0xbE10Q3FQVko?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "決算:Appleの7〜9月、iPhone堅調で純利益12％増 AI投資競争とは距離 - 日本経済新聞",
+     "desc": "決算:Appleの7〜9月、iPhone堅調で純利益12％増 AI投資競争とは距離 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SOThCZ21wSDJMRExfdkJZdFlRTUlkS09FREpsWUdDUUhlX3pGUEdiSGhYbkhUVzUwcy0ydzdUeUh1bVVhS05LY1YteHBfbEI1Rzl6d2RFUjVxT1AzdGIxNkpaeHZ1dUlYRGpLbQ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261103-32",
+   "title": "ネタニヤフ首相、イラン攻撃再開を米に促す",
+   "firstSeen": "2026-11-03",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-03": 8
+   },
+   "peak": 8,
+   "worldScore": 8,
+   "worldCoverage": "3/18",
+   "jpScore": 6,
+   "jpCoverage": "1/6",
+   "gap": 2,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Netanyahu is pressing Trump to attack Iran after US midterm elections, officials say",
+     "desc": "Israeli Prime Minister Benjamin Netanyahu is pushing for another wave of strikes on Iran after Tuesday’s midterm elections in the United States, according to two regional officials and a third person familiar with the matter. A return to full-scale war with Iran could help Netanyahu to form an emergency government after he and his far-right allies lost their parliamentary majority in last week’s elections. US President Donald Trump has alternated between threatening major strikes while pushing...",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3373046/netanyahu-pressing-trump-attack-iran-after-us-midterm-elections-officials-say",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Netanyahu is pressing Trump to attack Iran after the midterms, officials tell AP - AP News",
+     "desc": "Netanyahu is pressing Trump to attack Iran after the midterms, officials tell AP AP News",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSlZQOGFnNWxyTG91ZkxGMkdDdlNhd1RuRUZzblYtZGxfOGpReXI2cE5oazAzZkFQRW96Y3VrUkdfenVFWWtPS1BfaFBYYWQ1WVBMVmpuaTZuU3llOGZNMF85QnVGRHAwZlphVWVoaDFiZWhoMWVjalhyTE5na3BVWjVHcmIyWDFoU0FnU2ZBaFZyOE5GRGJqQzdR?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Benjamin Netanyahu presses Donald Trump for renewed strikes against Iran - Financial Times",
+     "desc": "Benjamin Netanyahu presses Donald Trump for renewed strikes against Iran Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaGlFWlBkbjhDNnRfR1RhcC1JY3k4ejczWDdMQkdGd2JHcGJQeUg3ektpR19odFE1S085aGJMZFpjdEg2a3laUW4tWEtYVE9jQThjRzllRjZKWUxydGx3RVU5SGlFd2pGMEk0Z1FIZ1JRS184WTBJUU92cjZUWE9yZmwxZi0?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.33,
+     "title": "追い詰められたネタニヤフ首相「戦争再開を」…トランプ大統領は「消極的」(ハンギョレ新聞)",
+     "desc": "イスラエルで先ごろ行われた総選挙の結果、失脚の危機に直面しているネタニヤフ首相が、米国のトランプ大統領に対し、「イランへの空爆再開」を働きかけたことが分かった。一方、トランプ大統領は、まずはイランとの",
+     "url": "https://news.yahoo.co.jp/articles/d9ec61c9005e2168effec11a277d9166479c7b1e?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261029-03",
+   "title": "世界一周クルーズ船、燃料高で運航停止",
+   "firstSeen": "2026-10-29",
+   "daysSeen": 5,
+   "history": {
+    "2026-10-29": 19,
+    "2026-10-30": 6,
+    "2026-10-31": 6,
+    "2026-11-02": 8,
+    "2026-11-03": 8
+   },
+   "peak": 19,
+   "worldScore": 8,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 8,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.62,
+     "title": "Odyssey ‘Endless Cruise’ Ship Stranded in Cambodia May Be Headed for Auction Block",
+     "desc": "Efforts to pull together more funding for the ship, stuck in Cambodia, appear to have faltered, leaving its passengers unsure about what to do next.",
+     "url": "https://www.nytimes.com/2026/11/02/travel/odyssey-cruise-ship-cambodia-auction.html",
+     "via": null
+    },
+    {
+     "id": "npr",
+     "name": "NPR",
+     "region": "world",
+     "weight": 0.3,
+     "title": "They signed up for a lifetime at sea on an endless cruise. High gas prices intervened",
+     "desc": "A cruise ship suspended operations suddenly, citing soaring fuel costs. Passengers, including Randy Cassingham, had to disembark in Cambodia. NPR's Ayesha Rascoe talks to Cassingham about the ordeal.",
+     "url": "https://www.npr.org/2026/11/01/nx-s1-6022214/they-signed-up-for-a-lifetime-at-sea-on-an-endless-cruise-high-gas-prices-intervened",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Creditor has \"taken control\" of forever cruise",
+     "desc": "Residents of Villa Vie Odyssey, which remains stuck in Cambodia, have been informed the cruise ship is now under control of its lender, CBS News has learned.",
+     "url": "https://www.cbsnews.com/news/creditor-taken-control-forever-cruise-message-to-residents/",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261103-07",
+   "title": "ウィズエア機、爆破予告で緊急着陸",
+   "firstSeen": "2026-11-03",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-03": 7
+   },
+   "peak": 7,
+   "worldScore": 7,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 7,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.71,
+     "title": "Wizz Air flight from Luton in emergency landing after bomb threat",
+     "desc": "A Hungarian fighter jet escorted the aircraft to Budapest after the threat was received mid-air.",
+     "url": "https://www.bbc.co.uk/news/articles/c6rryvwre0p5o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Wizz Air flight from London to Sofia diverts after 'bomb threat'",
+     "desc": "\"The aircraft diverted and landed safely at Budapest Liszt Ferenc International Airport in accordance with the relevant security protocols and procedures,\" the airline said in a statement shared with Euronews.",
+     "url": "https://www.euronews.com/2026/11/02/wizz-air-flight-from-london-to-sofia-diverts-after-bomb-threat",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261103-11",
+   "title": "豪人気児童書作家、児童搾取で禁錮刑",
+   "firstSeen": "2026-11-03",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-03": 7
+   },
+   "peak": 7,
+   "worldScore": 7,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 7,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.53,
+     "title": "Popular Australian children's author jailed over child exploitation offences",
+     "desc": "The author of Jasper Jones and Runt pleaded guilty in May after police raided his home months earlier.",
+     "url": "https://www.bbc.co.uk/news/articles/cmjwe9nggp60o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.8,
+     "title": "Award‑winning Australian children’s author Craig Silvey jailed over child exploitation material",
+     "desc": "Jasper Jones writer sent multiple messages about his sexual desire for young boys, Western Australian district court hears Warning: This article contains graphic content Get our breaking news email , free app or daily news podcast The award‑winning author Craig Silvey sent multiple messages about his sexual desire for young boys and was caught with explicit images of children and adults. The young adult novelist was jailed on Monday for seven months after pleading guilty to distributing and possessing child exploitation material earlier this year. Continue reading...",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/02/australian-author-craig-silvey-jailed-child-exploitation-material-ntwnfb",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261103-12",
+   "title": "豪中銀、18年ぶり高水準への利上げ観測",
+   "firstSeen": "2026-11-03",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-03": 7
+   },
+   "peak": 7,
+   "worldScore": 7,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 7,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.77,
+     "title": "‘Sharper, longer slowdown’ predicted for Australian economy as fifth interest rate hike looms",
+     "desc": "Australia’s central bank expected to hit mortgage holders again on Tuesday, as war in Middle East combines with collapsing house prices Get our breaking news email , free app or daily news podcast Australia’s economy is set for a “sharper, longer slowdown”, major bank economists say, as the Reserve Bank is forced to keep interest rates higher to rid the nation of persistent inflationary pressures. The RBA is widely expected to hit mortgage holders with a fifth rate hike on Tuesday, in a move that will push the cash rate to its highest since 2008 amid rising worries the economy could even be ti",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/02/australia-economy-fifth-interest-rate-hike-looms",
+     "via": null
+    },
+    {
+     "id": "abc-au",
+     "name": "ABC Australia",
+     "region": "world",
+     "weight": 0.56,
+     "title": "Live: Reserve Bank tipped to hike interest rates to 18-year high",
+     "desc": "The Reserve Bank board meets today after senior central bank officials warned inflation was still too high, prompting expectations of a fifth hike this year. Follow the day's events and insights from our business reporters on the ABC News live markets blog.",
+     "url": "https://www.abc.net.au/news/2026-11-03/rba-interest-rates-markets-live-coverage/107338216",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261102-24",
+   "title": "インド野党、選挙管理委員長の辞任求め集会",
+   "firstSeen": "2026-11-02",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-02": 22,
+    "2026-11-03": 7
+   },
+   "peak": 22,
+   "worldScore": 7,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 7,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.48,
+     "title": "Tens of thousands protest against Narendra Modi regime in Delhi",
+     "desc": "Led by Congress party, India’s opposition alliance channels anger over removal of 130 million names from voter roll Thousands of opposition supporters have gathered in Delhi as protests against the Narendra Modi government continue to gather momentum. Led by the Congress party, India’s opposition alliance has brought together supporters from across the country, amid growing anger over a large-scale revision of the country’s voter roll that has seen 130 million names erased. Continue reading...",
+     "url": "https://www.theguardian.com/world/2026/nov/01/india-opposition-protest-rally-delhi",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.71,
+     "title": "India’s Congress Party Holds Mass Protest in New Delhi",
+     "desc": "Tens of thousands gathered in India’s capital in a clamor of banging drums, chants and billowing flags, with participants from across the country.",
+     "url": "https://www.nytimes.com/2026/10/31/world/asia/congress-cjp-protest-delhi-india-modi.html",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261103-08",
+   "title": "ウガンダ、ソマリアからの撤兵を開始",
+   "firstSeen": "2026-11-03",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-03": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.62,
+     "title": "Uganda begins withdrawing troops from Somalia after 20 years",
+     "desc": "Uganda has been helping Somalia battle an insurgency led by the al-Shabab militant group since 2007.",
+     "url": "https://www.bbc.co.uk/news/articles/c8zxlqxwed4do?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Uganda withdrawing troops from peacekeeping mission in Somalia",
+     "desc": "In tonight's edition, Uganda starts drawing down troops just days after the UN ends its political mission in Somalia. Also, upcoming municipal elections in South Africa risk solidifying growing political fragmentation. And the drought gripping Chad could be the country’s worst in more than 40 years.",
+     "url": "https://www.france24.com/en/uganda-withdrawing-troops-from-peacekeeping-mission-in-somalia",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261028-02",
+   "title": "中国でエンバペ発言後、リーガ放送が停止",
+   "firstSeen": "2026-10-28",
+   "daysSeen": 3,
+   "history": {
+    "2026-10-28": 16,
+    "2026-10-29": 6,
+    "2026-11-03": 6
+   },
+   "peak": 16,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.59,
+     "title": "China state broadcaster pulls La Liga matches following Mbappé joke",
+     "desc": "China Media Group, which acknowledged Mbappé's apology, has not said how long the blackout will last.",
+     "url": "https://www.bbc.co.uk/news/articles/cq78pypg0800o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Real Madrid matches still banned in China despite Mbappe apology",
+     "desc": "Real Madrid matches still banned in China despite Mbappe apology",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/real-madrid-matches-still-banned-in-china-despite-mbappe-apology?traffic_source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261103-18",
+   "title": "パランティア、売上高見通しを上方修正",
+   "firstSeen": "2026-11-03",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-03": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Palantir expects quarterly revenue above estimates on strong AI demand - Reuters",
+     "desc": "Palantir expects quarterly revenue above estimates on strong AI demand Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORHl2TXR3V1NLdWxVUGFhNHludjhnOGY2M3g4TnktS19Pakw2dkM4VjAxMHQxcDEya0NtXzlGU29qc25GdEdrQ2o1WEI1MjlSc19ZZTBvVVZwRk1XZm9SQTJ5eEdRMm5mQ1p5aVZILWdXREdNU1d3RTBfSGRRRTJYLWVaZk5oR1U1Q0NSNGJHb2h3RUk5czl6bHJKQnBaTUREOWJmZHNKU2VsNGo3bHpldmo3SjRsbUcyRWc?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Palantir Boosts Revenue Outlook on Strong Commercial Sales - Bloomberg.com",
+     "desc": "Palantir Boosts Revenue Outlook on Strong Commercial Sales Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObEtVWWY0N2lwNzJ6NVpTWFpSSHdRV3hNSnlnSnppYnBvM2paNVVmTTdhWl9wcnVmMFRHRTROaENxUDlvM01nOHRPLWxXd3gzX0lBR1Itc0ZuZHFzODJEbzFDeUlVbXNlMFpTc1JzaTlaM2JLRjhoUHJTYmVmckxaaUtIQTJUcEJGQnZyeWsyQmpmeWxKUE5WV2tiSEVMUnhPMnJMdkY4MlBQb3AzSEVLVU9pcnU?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261103-21",
+   "title": "メタ、社債発行で200億ドル超の調達を検討",
+   "firstSeen": "2026-11-03",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-03": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Meta eyes at least $20 billion from potential bond offerings, Bloomberg News reports - Reuters",
+     "desc": "Meta eyes at least $20 billion from potential bond offerings, Bloomberg News reports Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ0YxUHNFS2hBeHVPODkxZXVIMzE3b2xxLVFkOGxHUmJjSHJGUlV4Z01pZ1R0cm03bmpaQzd5TUxLSEk1Q2xydElDS1B6S2VnWkZoTTgzN2k4NFlrOWVOT2xJNmhRUEV6cEd3S09IQURYNHpISjhrWHk4QVU3aXROWUxEUDRGbkdpekdFalZ4X1lQdWsxT1lYTkRzLUtMMDBjYk5nQm8yendHZERTR0xzNFpTTGx3RFhCanRj?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Meta Readies Cross-Border Investment Bond Offering - Bloomberg.com",
+     "desc": "Meta Readies Cross-Border Investment Bond Offering Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZTFxa3QtQl9WdmNZM1VZT2xxSmUxNTFDbkZTNFBJRHJKaWowWDAtQVBVLWJDMWIyQUdpOEY0cjB1VXVSTW9hM2RoNTlwNUJmbWRJVm90NXZvX3J3UjRycUJnaTJ1WERMWG5vZ1JXaVRaUUFRbGhYaV9tVG9YV3plcjZxMTVhYzRPUFZWbTZKbGxTbTVVa1V3UmtsNThka3JxU0g0?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261031-07",
+   "title": "米ハイテク株下落、AI投資への懸念続く",
+   "firstSeen": "2026-10-31",
+   "daysSeen": 3,
+   "history": {
+    "2026-10-31": 9,
+    "2026-11-02": 7,
+    "2026-11-03": 6
+   },
+   "peak": 9,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "More drops for AI and tech stocks overshadow gains for most of Wall Street - AP News",
+     "desc": "More drops for AI and tech stocks overshadow gains for most of Wall Street AP News",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdndJTkZzZVB3bUs3SWZPMjZXZ3JzbnlHbWJoak5WWlJWTnQwZFpJNWZpd0tQb3RYanMyckQxMmVjWm5nQnk2Tzl6QjVCOVFmN21RNks4Q2tsM2tUODBSMldsdVQ3eDBoX3UyZDZMM3JybmZVRVhxT2lReGVMMEJuMTNvLTNUbmR0TmVqeXRXV1FZSVdUV1ZtcWVhQQ?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Nasdaq 100 Enters Correction as Megacap Results Amplify AI Fears - Bloomberg.com",
+     "desc": "Nasdaq 100 Enters Correction as Megacap Results Amplify AI Fears Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSGJTUDVwRnhqVmZaRHNFX1l5MUtGYnhoLWVVMXBkODNXTmdzR3FycktGYkdJUVBtbXc4ejZmTlBLVUdxZXZ6UXJ1WENNWE1SS2thM1lweUtvdGdNX3RHa0x6Y0FCOFJmNTAtWGRLZEZhRGdEM1VOdWJ0T2FiUDhJR29aNW14Y0NPbkVUemxfODZkS3FJLXMtQk9VQjJsTng4NVpCekI4UEJqVEp2bkNSX1czUVBIQQ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261103-22",
+   "title": "ベルギー首相、予算協議決裂で辞任",
+   "firstSeen": "2026-11-03",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-03": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Belgian government on the brink after budget talks collapse",
+     "desc": "Belgium’s King Philippe sought on Monday to defuse a political crisis after overnight budget talks collapsed, prompting Prime Minister Bart De Wever to offer his resignation. De Wever tendered his resignation during a 90-minute meeting with the king on Monday morning after coalition parties failed to break months of deadlock over next year’s ‌budget. The Royal Palace said the king would consider De Wever’s offer but would also consult the leaders of the other coalition parties from Tuesday. “In...",
+     "url": "https://www.scmp.com/news/world/europe/article/3373036/belgian-government-brink-after-budget-talks-collapse",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Belgian prime minister quits after budget talks fail as king mulls whether to accept his resignation - AP News",
+     "desc": "Belgian prime minister quits after budget talks fail as king mulls whether to accept his resignation AP News",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQejZQTk9uS2tNZXUyeDA0WUFCaUpXNGZkN1VCX2xVY2pqUWE4LXExczlDS3pXRlNFSHZIT2VLektDTXBZYVB4NzFaY2RjY3kzaFgzOURYRkE3RFpLdFR6c2ZHbXlPaDgycXRHaTh4TVk1MTBOd0YtMFZwNGJxSm1mdGZ5TjlNRTBiNThKMzRiN2c0NmJiYlJ5T2RyY0RJTjlBUXhVaUV2YzhLQnhR?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261103-23",
+   "title": "中国・泰山で人型ロボットが登山",
+   "firstSeen": "2026-11-03",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-03": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Humanoid robots climb China’s Mount Tai in unusual challenge",
+     "desc": "China's Mount Tai hosts a robot challenge, with nearly 90 teams tackling 3,100 steps and a 600-metre climb on an ancient mountain path.",
+     "url": "https://www.euronews.com/video/2026/11/02/humanoid-robots-climb-chinas-mount-tai-in-unusual-challenge",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Robots strut their stuff, race up sacred China mountain",
+     "desc": "Dozens of robots took on more than 3,000 steps up one of China&#039;s most famous peaks, many carrying eggs and watermelons in a race organizers billed as a test of real-world machine endurance, state media showed.",
+     "url": "https://www.cbsnews.com/news/robots-race-china-mountain-eggs-watermelons/",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261031-17",
+   "title": "西サハラの国連平和維持ミッション、35年で終了",
+   "firstSeen": "2026-10-31",
+   "daysSeen": 3,
+   "history": {
+    "2026-10-31": 6,
+    "2026-11-02": 8,
+    "2026-11-03": 6
+   },
+   "peak": 8,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "What’s the future of the Western Sahara conflict?",
+     "desc": "The UN is ending its peacekeeping mission in the disputed territory after the US and Russia blocked its extension.",
+     "url": "https://www.aljazeera.com/video/inside-story/2026/11/2/whats-the-future-of-the-western-sahara-conflict?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "npr",
+     "name": "NPR",
+     "region": "world",
+     "weight": 0.65,
+     "title": "UN's peacekeeping mission in disputed Western Sahara ends after 35 years",
+     "desc": "The U.N.'s long-running peacekeeping mission for the disputed Western Sahara ceased operations Sunday after 35 years. Once ruled by Spain, it is claimed by both Morocco and the pro-independence Polisario Front.",
+     "url": "https://www.npr.org/2026/11/02/nx-s1-6026050/uns-peacekeeping-western-sahara-ends",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261103-24",
+   "title": "米、ミャンマー和平協議とレアアースを連動",
+   "firstSeen": "2026-11-03",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-03": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US strategy links Myanmar peace talks to rare-earth access",
+     "desc": "The re-engagement marks a departure from years of US policy aimed at isolating the military.",
+     "url": "https://www.straitstimes.com/world/united-states/us-strategy-links-myanmar-peace-talks-to-rare-earth-access",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US strategy links Myanmar peace talks to rare-earth access - Reuters",
+     "desc": "US strategy links Myanmar peace talks to rare-earth access Reuters",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQektPMXRENjNVbGZYbW9uOE5TdHFnWkxqTWh0bmJqLWtFUnBMQ2xSM2s2am5ra3NLdEhBMFFhYTRYd29ENUx6eDI3YjBURW1BcW5jZ0RBSkowbEplM0lwY251UzZuWEZmZng0RGVvbkYxV090RTJlaVZvUkx5LWR1aFdfYWFTbmN2T05LbmRHOGhmOW5Cci1fSW96UjMxNDFuLThmMVo4V00teDd0a2Zr?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261103-31",
+   "title": "トランプ氏、中間選挙後のイラン再攻撃に否定的",
+   "firstSeen": "2026-11-03",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-03": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 19,
+   "jpCoverage": "2/6",
+   "gap": -13,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump raises doubts about renewed attacks on Iran",
+     "desc": "US President Donald Trump stressed that his bottom-line demand that Iran not possess a nuclear weapon.",
+     "url": "https://www.straitstimes.com/world/middle-east/trump-raises-doubts-about-renewed-attacks-on-iran",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump raises doubts about renewed attacks on Iran - Reuters",
+     "desc": "Trump raises doubts about renewed attacks on Iran Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQndTRnlIMnd2YXYxWE0ySGhhU2lzZldZWGdGNlhUejVqLUxyTkJ3dzVnNWNZaGszckxhWVh3eDdtb1VmWHlpSkdyS1lES2VoYnhfdnVraHV4UE9ScDV3UHo2UVFmb1lHblVhaDdxM0I2QkxNc2x5Q3RybjNEVFRJQXdTbk05N2lxemd5cU1jWHh0aXVvM05rVmJiQm5uY2VmNGc?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.65,
+     "title": "トランプ氏が中間選挙後のイラン攻撃問われ「ノー」 アラグチ外相は外交的解決の意思強調(産経新聞)",
+     "desc": "【ワシントン＝杉本康士】トランプ米大統領は2日、ワシントン市内で記者団に対し、投開票日を翌日に控えた米中間選挙後に本格的な対イラン攻撃を再開するかどうかを問われ、「ノー」と答えた。米軍は中東地域で攻撃",
+     "url": "https://news.yahoo.co.jp/articles/8c5ae5382fbb7f8769b7660bbc69729a64492176?source=rss",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "トランプ氏、中間選挙直後のイラン再攻撃は否定 バンス氏も交渉明言 - 日本経済新聞",
+     "desc": "トランプ氏、中間選挙直後のイラン再攻撃は否定 バンス氏も交渉明言 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBiVlJqQ3hSNURUSU5fdFNFQkVIUjVjM0cwOU5ZY2lWRGJfVGdjUUZQNkw5bFdldEl2VmxZWmYzanA5TVNKdE5CaDRNSjBvWTdhekhYUVlKZTFkRTljQ3kwMTlfTFVuQmFuX2l2Rw?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261103-20",
+   "title": "マーベル、ルメンタムを約18兆円で買収",
+   "firstSeen": "2026-11-03",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-03": 3
+   },
+   "peak": 3,
+   "worldScore": 3,
+   "worldCoverage": "1/18",
+   "jpScore": 8,
+   "jpCoverage": "1/6",
+   "gap": -5,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Lumentum Goes From $1 Billion Spinoff to $115 Billion Takeover - Bloomberg.com",
+     "desc": "Lumentum Goes From $1 Billion Spinoff to $115 Billion Takeover Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTmpDZDdHcmQzSi1NQnNVcW5uQ3BGOHNNdEwyRllnTEZlZHpkdmRVZExRdlhJX2RkWmlBTDdYaUhVWV9oRU1xalg0V0RvMDVuZFVZb19Kb2NYVVlrYlNQZTNGRzVOdEVlRi1TeFY4M0xQLUlKLUFtdV9IblVJN0g0UzlKVkNuWkFLYjZQVkVYQTk0dkxvY1NheWI1V19LX0NCT2J6dWRyTW93MjVqWGVMcg?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "米半導体マーベル、ルメンタムを18兆円で買収 AI設備に光接続活用 - 日本経済新聞",
+     "desc": "米半導体マーベル、ルメンタムを18兆円で買収 AI設備に光接続活用 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4aW1ITDNkNTk4VGZDVmFiUjJKZmk5NmlvX084VWppWGRoWjBlb1o3S3BGcWdZd291UXBCTGx3S1dldldPNkU0eWVLQkwwZVhyN1o0V1czcnlvcnE2cWpQVXJfSmt4dUNLWHhFMg?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261103-33",
+   "title": "原油価格、米イラン交渉への期待で急落",
+   "firstSeen": "2026-11-03",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-03": 3
+   },
+   "peak": 3,
+   "worldScore": 3,
+   "worldCoverage": "1/18",
+   "jpScore": 17,
+   "jpCoverage": "2/6",
+   "gap": -14,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.59,
+     "title": "Oil price falls amid hope of a breakthrough to end Iran war",
+     "desc": "Brent crude drops by more than 6% to $105.55 a barrel, the lowest level in more than two weeks The oil price has fallen to its lowest level in more two weeks amid new hopes of a breakthrough to end the Iran war. Brent crude, the international benchmark, dropped by more than 6.5% to as low as $105.55 a barrel on Monday, the lowest since 16 October, sending shares in airline companies higher and pushing down government borrowing costs. Continue reading...",
+     "url": "https://www.theguardian.com/business/2026/nov/02/oil-price-falls-amid-hope-of-a-breakthrough-to-end-iran-war",
+     "via": null
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "米・イラン交渉への期待で国際原油価格が7％台の急落…WTIは96ドル台(中央日報日本語版)",
+     "desc": "米国とイランの和平交渉の可能性が浮上し、2日（現地時間）の国際原油価格が7％以上急落した。ロンドンICE先物取引所で12月渡しの北海ブレント原油先物は、前営業日比7．63％安の1バレル＝104．77ド",
+     "url": "https://news.yahoo.co.jp/articles/bb015cca5c7c7666a5bc986f281fbdcc26d345df?source=rss",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "NYダウは反発で始まる、一時500ドル高 原油先物価格下落で - 日本経済新聞",
+     "desc": "NYダウは反発で始まる、一時500ドル高 原油先物価格下落で 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ILWo5cHpuMHRJWFp2TkN1RzYxY0EteW5BdkRORldwTC04U1FpVUVuMWk0bHlXMFN2YTZMYXFUdnZqSHF1azMwMWNlRnNtSGJTNUtGVTRNX2JaMExCcFpYa1gzWUhkcFVYa1pwRQ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261103-36",
+   "title": "米・ロ・ウクライナ3者協議、アブダビで開催へ",
+   "firstSeen": "2026-11-03",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-03": 3
+   },
+   "peak": 3,
+   "worldScore": 3,
+   "worldCoverage": "1/18",
+   "jpScore": 15,
+   "jpCoverage": "1/6",
+   "gap": -12,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US to hold trilateral talks with Ukraine, Russia in Abu Dhabi next week: US official",
+     "desc": "The lead US negotiators, Steve Witkoff and Jared Kushner, are expected to represent the US in Abu Dhabi.",
+     "url": "https://www.straitstimes.com/world/united-states/us-to-hold-trilateral-talks-with-ukraine-russia-in-abu-dhabi-next-week-us-official",
+     "via": null
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.91,
+     "title": "米、ロシア、ウクライナ3者協議10日開催(共同通信)",
+     "desc": "【ワシントン共同】米国のウィットコフ和平交渉担当特使は2日、米国とロシア、ウクライナの3カ国による実務者協議を10～11日にアラブ首長国連邦（UAE）の首都アブダビで開くとX（旧ツイッター）で表明した",
+     "url": "https://news.yahoo.co.jp/articles/cdaeb956ee262a7a3718c8e3cc76e39e86dcd7c9?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261103-25",
+   "title": "秋の叙勲、トヨタ会長や松坂慶子さんら",
+   "firstSeen": "2026-11-03",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-03": 0
+   },
+   "peak": 0,
+   "worldScore": 0,
+   "worldCoverage": "0/18",
+   "jpScore": 22,
+   "jpCoverage": "2/6",
+   "gap": -22,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "旭日大綬章はトヨタ会長ら 河野元統幕長瑞大、俳優松坂さん旭小―秋の叙勲",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026110300136&g=pol&m=rss",
+     "via": null
+    },
+    {
+     "id": "yahoo",
+     "name": "Yahoo!ニュース主要",
+     "region": "jp",
+     "weight": 0.8,
+     "title": "秋の叙勲 松坂慶子さんら受章",
+     "desc": "",
+     "url": "https://news.yahoo.co.jp/pickup/6601122?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261103-26",
+   "title": "三の丸尚蔵館が3日、全面開館",
+   "firstSeen": "2026-11-03",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-03": 0
+   },
+   "peak": 0,
+   "worldScore": 0,
+   "worldCoverage": "0/18",
+   "jpScore": 21,
+   "jpCoverage": "2/6",
+   "gap": -21,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "asahi",
+     "name": "朝日新聞",
+     "region": "jp",
+     "weight": 0.74,
+     "title": "皇室代々の名品を展示、三の丸尚蔵館が3日に開館 皇居初のカフェも",
+     "desc": "",
+     "url": "http://www.asahi.com/articles/ASVC22JT8VC2UTIL02BM.html?ref=rss",
+     "via": null
+    },
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "三の丸尚蔵館、３日全面開館 報道陣に公開―皇居・東御苑",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026110200758&g=soc&m=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261029-32",
+   "title": "GMO、不正アクセス問題で初の記者会見",
+   "firstSeen": "2026-10-29",
+   "daysSeen": 3,
+   "history": {
+    "2026-10-29": 0,
+    "2026-11-02": 0,
+    "2026-11-03": 0
+   },
+   "peak": 0,
+   "worldScore": 0,
+   "worldCoverage": "0/18",
+   "jpScore": 26,
+   "jpCoverage": "3/6",
+   "gap": -26,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "asahi",
+     "name": "朝日新聞",
+     "region": "jp",
+     "weight": 0.53,
+     "title": "GMOが不正アクセス問題で初の会見 「被害拡大防止で手いっぱい」",
+     "desc": "",
+     "url": "http://www.asahi.com/articles/ASVC23SLHVC2ULFA00HM.html?ref=rss",
+     "via": null
+    },
+    {
+     "id": "yahoo",
+     "name": "Yahoo!ニュース主要",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "GMO会見で「命の砂時計」 意味",
+     "desc": "",
+     "url": "https://news.yahoo.co.jp/pickup/6601115?source=rss",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "GMO不正アクセス、複雑な統治体制で防御後手 急成長で150社傘下 - 日本経済新聞",
+     "desc": "GMO不正アクセス、複雑な統治体制で防御後手 急成長で150社傘下 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pUHpRNmJ4YU4xdHJyOUdrZ3ZIVHhrTWF2UWFOU08zY25SWjhQV1FyQzFWSWdtU0FzN3hKXzlTNW1PbUQ2WUpqR3FjM0R1LVE0YVZWVVdOZER4cm9nbmFwVVY2UVFJdHl3VVNoNA?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261103-27",
+   "title": "ノジマ、会員情報約700万件流出",
+   "firstSeen": "2026-11-03",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-03": 0
+   },
+   "peak": 0,
+   "worldScore": 0,
+   "worldCoverage": "0/18",
+   "jpScore": 16,
+   "jpCoverage": "2/6",
+   "gap": -16,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "asahi",
+     "name": "朝日新聞",
+     "region": "jp",
+     "weight": 0.48,
+     "title": "ノジマ、会員情報約700万人が流出 管理システムに不正アクセス",
+     "desc": "",
+     "url": "http://www.asahi.com/articles/ASVC23HL9VC2ULFA01PM.html?ref=rss",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "ノジマ、ECサイトなどに不正アクセス 顧客情報700万件流出 - 日本経済新聞",
+     "desc": "ノジマ、ECサイトなどに不正アクセス 顧客情報700万件流出 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8ybnVlWVI5bC1UZC00VlQxOFptQ0F0bnVzajhySnFHNFVIZWRyaEdjczB3YjU0b2cyUkR1X2xDcXZ0bEN2czZocDEtUk0yUTRtVkZsQUdHRjlxZFRvbF9fQlFkckx6bkxQakp4ag?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261103-28",
+   "title": "高市首相の「発議にめど」発言と改憲論議",
+   "firstSeen": "2026-11-03",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-03": 0
+   },
+   "peak": 0,
+   "worldScore": 0,
+   "worldCoverage": "0/18",
+   "jpScore": 23,
+   "jpCoverage": "2/6",
+   "gap": -23,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "mainichi",
+     "name": "毎日新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "憲法改正議論、与野党幹事に聞く現状 国民の理解と納得得るには",
+     "desc": "",
+     "url": "https://mainichi.jp/articles/20261102/k00/00m/010/309000c",
+     "via": null
+    },
+    {
+     "id": "yahoo",
+     "name": "Yahoo!ニュース主要",
+     "region": "jp",
+     "weight": 0.9,
+     "title": "転換期の憲法論議 発議見通せず",
+     "desc": "",
+     "url": "https://news.yahoo.co.jp/pickup/6601117?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261103-29",
+   "title": "パランティア、日本の防衛でのAI活用を語る",
+   "firstSeen": "2026-11-03",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-03": 0
+   },
+   "peak": 0,
+   "worldScore": 0,
+   "worldCoverage": "0/18",
+   "jpScore": 17,
+   "jpCoverage": "2/6",
+   "gap": -17,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "mainichi",
+     "name": "毎日新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "激動期の安保:パランティアの「軍事企業」ではない一面 日本では被災地支援",
+     "desc": "",
+     "url": "https://mainichi.jp/articles/20261101/k00/00m/010/318000c",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "「日本の防衛はAIで優位に」 米パランティアCEOインタビュー - 日本経済新聞",
+     "desc": "「日本の防衛はAIで優位に」 米パランティアCEOインタビュー 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85bXpyWXMydzNZdXpmYkdycHpfVU9NNWtjVVN3dTU1MEtJUm1HTnNPYXItbGw4eGphX3RaTXdLNGhDYkgwY1RnY3RzV0xnVkxoVzgwdlVoR25DbDdmbm1aVkhzVFdnVUprVDJ1OQ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  }
+ ]
+}
