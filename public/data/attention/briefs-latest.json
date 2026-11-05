@@ -1,6 +1,6 @@
 {
- "date": "2026-11-05",
- "generatedAt": "2026-11-04T22:37:49.425Z",
+ "date": "2026-11-06",
+ "generatedAt": "2026-11-05T22:41:18.521Z",
  "model": "claude-haiku-5-5",
  "measured": {
   "world": 18,
@@ -8,630 +8,122 @@
  },
  "articles": [
   {
-   "id": "intl-brief-2026-11-05-s-20261103-02",
+   "id": "intl-brief-2026-11-06-s-20261106-02",
    "stream": "intl",
    "depth": "brief",
    "section": "world",
-   "headline": "仏の血液保管用冷蔵施設にサイバー攻撃",
-   "originalTitle": "French blood storage impacted by freezer hacks as theories swirl about culprits",
-   "outlet": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss",
+   "headline": "パラグアイ大統領が辞任、銀行破綻を受け",
+   "originalTitle": "Paraguay's president is impeached minutes after resigning following a bank collapse",
+   "outlet": "NPR",
+   "url": "https://www.npr.org/2026/11/05/nx-s1-6030842/paraguay-president-impeached-bank-collapse",
    "region": "overseas",
    "category": null,
-   "score": 21,
-   "tier": "interest",
-   "pubDate": "2026-11-04T22:37:49.425Z",
+   "score": 41,
+   "tier": "should",
+   "pubDate": "2026-11-05T22:41:18.521Z",
    "body": null,
-   "summary": "フランスの血液事業団（EFS）は、血液を保管する冷蔵施設がハッカーの攻撃を受けたと発表した。三か所の保管庫で温度や除霜の設定値が高い水準に引き上げられたという。職員が対応し、健康被害や血液製剤の損失は確認されていないとしている。攻撃は、欧州のスーパーマーケットで冷蔵・冷凍設備が遠隔操作された被害が相次いだ直後に報じられた。犯人は特定されていない。ロシア系のハクティビスト集団の関与が取り沙汰される一方、専門家はイランの関係者や国家支援の攻撃者などの可能性も挙げている。",
+   "summary": "パラグアイのペニャ大統領は木曜、辞任を表明した。発端は、政府と関係の深いウエノ銀行の経営破綻だ。中央銀行は同行を処理手続きに入れ、約300万人の預金が凍結された。辞任表明の直後、下院は78対0で弾劾を決議し、上院に送付した。副大統領のアリアナ氏が大統領に就任する見通しだ。野党上院議員は、辞任で終身上院議員の資格が残ることを問題視し、裁判を求めている。各地では抗議デモも続いている。",
    "sources": [
     {
-     "outlet": "BBC",
-     "url": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss",
-     "date": "2026-11-05",
+     "outlet": "NPR",
+     "url": "https://www.npr.org/2026/11/05/nx-s1-6030842/paraguay-president-impeached-bank-collapse",
+     "date": "2026-11-06",
      "access": "body",
      "via": null,
-     "note": "French blood storage impacted by freezer hacks as theories swirl about culprits"
-    },
-    {
-     "outlet": "Sky News",
-     "url": "https://news.sky.com/story/cyber-attack-threatens-french-blood-banks-13606660",
-     "date": "2026-11-05",
-     "access": "excerpt",
-     "via": null,
-     "note": "Cyber attack threatens French blood banks"
+     "note": "Paraguay's president is impeached minutes after resigning following a bank collapse"
     },
     {
      "outlet": "The Guardian",
-     "url": "https://www.theguardian.com/technology/2026/nov/04/france-national-blood-service-hack-cyber-attack-europe",
-     "date": "2026-11-05",
-     "access": "excerpt",
+     "url": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
+     "date": "2026-11-06",
+     "access": "body",
      "via": null,
-     "note": "French blood banks hacked in latest cyber-attack on Europe"
+     "note": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis"
     },
-    {
-     "outlet": "France 24",
-     "url": "https://www.france24.com/en/france/20261104-french-blood-banks-foil-new-cyberattack-targeting-refrigerators",
-     "date": "2026-11-05",
-     "access": "excerpt",
-     "via": null,
-     "note": "French blood banks foil new cyberattack targeting refrigerators"
-    },
-    {
-     "outlet": "CBS News",
-     "url": "https://www.cbsnews.com/news/cyberattack-france-blood-bank/",
-     "date": "2026-11-05",
-     "access": "excerpt",
-     "via": null,
-     "note": "French blood banks hit by cyberattack days after European freezer hacks"
-    },
-    {
-     "outlet": "Reuters",
-     "url": null,
-     "date": "2026-11-05",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "French blood banks hit alongside cyberattack on European supermarkets - Reuters"
-    }
-   ],
-   "continuity": {
-    "previousDate": "2026-11-03",
-    "previousScore": 37,
-    "note": "3日連続で報じられている"
-   },
-   "coverage": {
-    "world": "6/18",
-    "jp": "1/6",
-    "worldTotal": 18,
-    "jpTotal": 6
-   },
-   "bodyAvailable": true,
-   "discussionUrl": null,
-   "summarizedBy": "claude-haiku-5-5"
-  },
-  {
-   "id": "intl-brief-2026-11-05-s-20261105-11",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "world",
-   "headline": "共和党内で敗北の責任をトランプ氏に求める声",
-   "originalTitle": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
-   "outlet": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss",
-   "region": "overseas",
-   "category": null,
-   "score": 19,
-   "tier": "interest",
-   "pubDate": "2026-11-04T22:37:49.425Z",
-   "body": null,
-   "summary": "中間選挙で民主党が上下両院を制したことを受け、共和党内でトランプ大統領への批判が噴出している。BBCは、一部の共和党関係者が、大統領が自身の遺産に注力し有権者の懸念に無関心だったことが敗因だと語ったと伝えた。テキサスの共和党系ロビイストは「大統領への完全な拒絶だ」と述べた。ホワイトハウス寄りの関係者は、イラン戦争や関税、移民取り締まりへの不満が重なったとしている。ブルームバーグは、デサンティス氏が敗北を「絶滅レベルの事態」と呼んだと報じた。",
-   "sources": [
     {
      "outlet": "BBC",
-     "url": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss",
-     "date": "2026-11-05",
-     "access": "body",
-     "via": null,
-     "note": "'This is a disaster': Angry Republicans blame Trump for midterms defeat"
-    },
-    {
-     "outlet": "Financial Times",
-     "url": null,
-     "date": "2026-11-05",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Republicans turn on each other after disastrous midterms - Financial Times"
-    },
-    {
-     "outlet": "South China Morning Post",
-     "url": "https://www.scmp.com/news/china/diplomacy/article/3373299/republicans-face-prospect-civil-war-trumps-air-invincibility-starts-fade",
-     "date": "2026-11-05",
+     "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-06",
      "access": "excerpt",
      "via": null,
-     "note": "Republicans face prospect of ‘civil war’ as Trump’s air of invincibility starts to fade"
+     "note": "Paraguay President Santiago Peña resigns after bank collapse"
     },
     {
-     "outlet": "Bloomberg",
-     "url": null,
-     "date": "2026-11-05",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "DeSantis Calls GOP’s Midterm Wipeout ‘Extinction Level Event’ - Bloomberg"
-    },
-    {
-     "outlet": "France 24",
-     "url": "https://www.france24.com/en/is-republican-party-able-to-pivot-away-from-maga-movement-or-will-it-sputter-forward-leaderless",
-     "date": "2026-11-05",
+     "outlet": "New York Times",
+     "url": "https://www.nytimes.com/2026/11/05/world/americas/paraguay-santiago-pena-resigns.html",
+     "date": "2026-11-06",
      "access": "excerpt",
      "via": null,
-     "note": "'Is Republican Party able to pivot away from MAGA movement, or will it sputter forward leaderless?'"
-    },
-    {
-     "outlet": "Times of India",
-     "url": "https://timesofindia.indiatimes.com/world/us/trump-will-be-gone-in-two-years-defeated-maine-maga-candidate-bobby-charles-turns-against-president-after-election-loss/articleshow/135551313.cms",
-     "date": "2026-11-05",
-     "access": "headline",
-     "via": null,
-     "note": "‘Trump will be gone in two years’: Defeated Maine MAGA candidate Bobby Charles turns against president after election loss"
-    }
-   ],
-   "continuity": null,
-   "coverage": {
-    "world": "6/18",
-    "jp": "0/6",
-    "worldTotal": 18,
-    "jpTotal": 6
-   },
-   "bodyAvailable": true,
-   "discussionUrl": null,
-   "summarizedBy": "claude-haiku-5-5"
-  },
-  {
-   "id": "intl-brief-2026-11-05-s-20261105-01",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "world",
-   "headline": "バンス副大統領、敗北の原因はイラン戦争と投稿",
-   "originalTitle": "Trump and Vance lead GOP blame game as fingers point at Iran war",
-   "outlet": "ABC Australia",
-   "url": "https://www.abc.net.au/news/2026-11-05/us-midterms-daily-news-briefing/107347184",
-   "region": "overseas",
-   "category": null,
-   "score": 18,
-   "tier": "interest",
-   "pubDate": "2026-11-04T22:37:49.425Z",
-   "body": null,
-   "summary": "JD・バンス副大統領は、中間選挙で共和党が敗れた原因はイラン戦争だとXに投稿した。「我々が負けた理由は戦争だ」と述べ、上院を今後6年間失う価値があったのかと問いかけた。トランプ大統領も、戦争が一定の役割を果たしたことを認めたが、攻撃の判断は正しかったとしている。アル・ジャジーラは、バンス氏の発言が政権の対イラン政策から最も距離を置いたものに近いと報じた。トランプ氏の支持率は4月以来40%を下回っているとされる。",
-   "sources": [
-    {
-     "outlet": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-05/us-midterms-daily-news-briefing/107347184",
-     "date": "2026-11-05",
-     "access": "body",
-     "via": null,
-     "note": "Trump and Vance lead GOP blame game as fingers point at Iran war"
+     "note": "Paraguay’s President, Santiago Peña, Quits Amid Ueno Bank Scandal"
     },
     {
      "outlet": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/4/presidential-hopeful-vance-appears-to-question-iran-war-after-polls-debacle?traffic_source=rss",
-     "date": "2026-11-05",
-     "access": "body",
-     "via": null,
-     "note": "Presidential hopeful Vance appears to question Iran war after polls debacle"
-    },
-    {
-     "outlet": "The Straits Times",
-     "url": "https://www.straitstimes.com/world/middle-east/vance-repudiates-iran-war-after-us-electoral-defeat",
-     "date": "2026-11-05",
+     "url": "https://www.aljazeera.com/economy/2026/11/5/paraguay-president-pena-resigns-in-wake-of-bank-collapse?traffic_source=rss",
+     "date": "2026-11-06",
      "access": "excerpt",
      "via": null,
-     "note": "Vance repudiates Iran war after US electoral defeat"
+     "note": "Paraguay President Pena resigns in wake of bank collapse"
     },
-    {
-     "outlet": "Reuters",
-     "url": null,
-     "date": "2026-11-05",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Vance repudiates Iran war after US electoral defeat - Reuters"
-    },
-    {
-     "outlet": "Bloomberg",
-     "url": null,
-     "date": "2026-11-05",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Vance Blames War in Iran, Israel Ties for GOP Midterm Loss - Bloomberg.com"
-    },
-    {
-     "outlet": "Times of India",
-     "url": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/largely-true-trump-backs-vances-claim-that-iran-war-cost-gop-midterms-says-hed-do-it-again/articleshow/135551312.cms",
-     "date": "2026-11-05",
-     "access": "headline",
-     "via": null,
-     "note": "'Largely true': Trump backs Vance's claim that Iran war cost GOP midterms, says he'd do it again"
-    }
-   ],
-   "continuity": null,
-   "coverage": {
-    "world": "6/18",
-    "jp": "0/6",
-    "worldTotal": 18,
-    "jpTotal": 6
-   },
-   "bodyAvailable": true,
-   "discussionUrl": null,
-   "summarizedBy": "claude-haiku-5-5"
-  },
-  {
-   "id": "intl-brief-2026-11-05-s-20261105-22",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "world",
-   "headline": "欧州、トランプ氏の敗北に安堵と懸念",
-   "originalTitle": "European leaders welcome Democrats' US midterms election win",
-   "outlet": "France 24",
-   "url": "https://www.france24.com/en/european-leaders-welcome-democrats-us-midterms-election-win",
-   "region": "overseas",
-   "category": null,
-   "score": 17,
-   "tier": "interest",
-   "pubDate": "2026-11-04T22:37:49.425Z",
-   "body": null,
-   "summary": "欧州の首脳らは、中間選挙で共和党が大敗したことを受け、米国との関係の再構築に期待を示した。ただ、欧州の一部では安堵とともに警戒も広がっている。ユーロニュースは、弱体化したトランプ氏が外交で予測しにくい行動に出る恐れがあると伝えた。EUの外交官は、同氏を「死に体」ではなく「狂犬」になると表現した。欧州の極右勢力は、イラン戦争を敗北の一因として挙げ、トランプ氏本人への直接批判は避けたという。",
-   "sources": [
     {
      "outlet": "France 24",
-     "url": "https://www.france24.com/en/european-leaders-welcome-democrats-us-midterms-election-win",
-     "date": "2026-11-05",
+     "url": "https://www.france24.com/en/americas/20261105-paraguay-s-president-pe%C3%B1a-impeached-moments-after-resigning-amid-banking-scandal",
+     "date": "2026-11-06",
      "access": "excerpt",
      "via": null,
-     "note": "European leaders welcome Democrats' US midterms election win"
+     "note": "Paraguay's president Peña impeached moments after resigning over banking scandal"
     },
     {
      "outlet": "Euronews",
-     "url": "https://www.euronews.com/2026/11/04/lame-duck-or-mad-dog-why-trumps-defeat-could-spell-trouble-for-europe",
-     "date": "2026-11-05",
-     "access": "body",
-     "via": null,
-     "note": "Lame duck or mad dog? Why Trump's defeat could spell trouble for Europe"
-    },
-    {
-     "outlet": "The Straits Times",
-     "url": "https://www.straitstimes.com/world/europe/european-far-right-distances-itself-from-trump-blaming-iran-war-for-republicans-defeat",
-     "date": "2026-11-05",
+     "url": "https://www.euronews.com/2026/11/05/paraguayan-president-resigns-amid-bank-collapse-leaving-3m-people-without-access-to-bank-a",
+     "date": "2026-11-06",
      "access": "excerpt",
      "via": null,
-     "note": "Europe’s far right distances itself from Trump, blaming Iran war for Republicans’ defeat"
-    },
-    {
-     "outlet": "Reuters",
-     "url": null,
-     "date": "2026-11-05",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "European far right distances itself from Trump, blaming Iran war for Republicans' defeat - Reuters"
+     "note": "Paraguayan president resigns amid bank collapse leaving 3M people without access to bank accounts"
     },
     {
      "outlet": "South China Morning Post",
-     "url": "https://www.scmp.com/news/china/diplomacy/article/3373298/bad-worse-europes-relief-over-us-midterms-tempered-prospect-trump-backlash",
-     "date": "2026-11-05",
+     "url": "https://www.scmp.com/news/world/americas/article/3373458/paraguays-president-pena-resigns-under-mounting-pressure-bank-collapse",
+     "date": "2026-11-06",
      "access": "excerpt",
      "via": null,
-     "note": "Bad to worse? Europe’s relief over US midterms tempered by prospect of Trump backlash"
-    },
-    {
-     "outlet": "Deutsche Welle",
-     "url": "https://www.dw.com/en/winners-losers-the-eu-five-takeaways-from-the-us-midterms/a-79858901?maca=en-rss-en-world-4025-rdf",
-     "date": "2026-11-05",
-     "access": "excerpt",
-     "via": null,
-     "note": "Winners, losers, the EU: Five takeaways from the US midterms"
-    }
-   ],
-   "continuity": null,
-   "coverage": {
-    "world": "6/18",
-    "jp": "0/6",
-    "worldTotal": 18,
-    "jpTotal": 6
-   },
-   "bodyAvailable": true,
-   "discussionUrl": null,
-   "summarizedBy": "claude-haiku-5-5"
-  },
-  {
-   "id": "intl-brief-2026-11-05-s-20261105-07",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "world",
-   "headline": "中間選挙、米国のイスラエル支持の後退が鮮明に",
-   "originalTitle": "For Israelis, U.S. Midterms Show How Far Their Star Has Fallen in America",
-   "outlet": "New York Times",
-   "url": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-trump-midterm-elections.html",
-   "region": "overseas",
-   "category": null,
-   "score": 16,
-   "tier": "interest",
-   "pubDate": "2026-11-04T22:37:49.425Z",
-   "body": null,
-   "summary": "ガーディアン紙は、中間選挙の結果が米国とイスラエルの関係への強い反発を示したと論じた。トランプ大統領は投票日の朝、年末に対イスラエル軍事支援を打ち切る可能性を示唆したが、各方面から批判を受けた。来年1月から下院には、ガザでの医療活動に参加した医師や、イスラエルの戦争を批判した弁護士などが加わる。NYタイムズは、議会におけるイスラエルの支持者が減ったと伝えた。ブルームバーグは、イスラエル側で米国との同盟が根本的に損なわれたとの懸念が広がっていると報じた。",
-   "sources": [
-    {
-     "outlet": "New York Times",
-     "url": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-trump-midterm-elections.html",
-     "date": "2026-11-05",
-     "access": "excerpt",
-     "via": null,
-     "note": "For Israelis, U.S. Midterms Show How Far Their Star Has Fallen in America"
-    },
-    {
-     "outlet": "The Guardian",
-     "url": "https://www.theguardian.com/us-news/2026/nov/04/israel-relationship-midterm-elections",
-     "date": "2026-11-05",
-     "access": "body",
-     "via": null,
-     "note": "The midterms were a thumping rebuke of the US-Israel relationship"
-    },
-    {
-     "outlet": "Bloomberg",
-     "url": null,
-     "date": "2026-11-05",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Midterms Leave Israel Fearing US Alliance Fundamentally Broken - Bloomberg"
+     "note": "Paraguay’s President Pena resigns under mounting pressure from bank collapse"
     },
     {
      "outlet": "The Straits Times",
-     "url": "https://www.straitstimes.com/world/middle-east/democratic-congress-could-test-decades-of-us-support-for-israel",
-     "date": "2026-11-05",
+     "url": "https://www.straitstimes.com/world/explainer-what-is-ueno-bank-and-how-did-it-trigger-paraguays-political-crisis",
+     "date": "2026-11-06",
      "access": "excerpt",
      "via": null,
-     "note": "Democratic Congress could test decades of US support for Israel"
-    },
-    {
-     "outlet": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/palestinians-israelis-react-after-democrats-sweep-us-midterms?traffic_source=rss",
-     "date": "2026-11-05",
-     "access": "excerpt",
-     "via": null,
-     "note": "Palestinians, Israelis react after Democrats sweep US midterms"
-    }
-   ],
-   "continuity": null,
-   "coverage": {
-    "world": "5/18",
-    "jp": "0/6",
-    "worldTotal": 18,
-    "jpTotal": 6
-   },
-   "bodyAvailable": true,
-   "discussionUrl": null,
-   "summarizedBy": "claude-haiku-5-5"
-  },
-  {
-   "id": "intl-brief-2026-11-05-s-20261105-42",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "world",
-   "headline": "南ア統一地方選、与党ANCが得票率減の見通し",
-   "originalTitle": "ANC faces anger over poor services as South Africans vote in local elections",
-   "outlet": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts",
-   "region": "overseas",
-   "category": null,
-   "score": 15,
-   "tier": "interest",
-   "pubDate": "2026-11-04T22:37:49.425Z",
-   "body": null,
-   "summary": "南アフリカで統一地方選挙の投票が行われた。与党ANCは、水道や電力の断絶への不満を背景に、世論調査で得票率が3分の1に届かない見通しとされた。前回2021年の地方選では45.6%、2024年の国政選挙では40.2%だった。ANCは依然として最大政党となる見込みだが、票が分散する可能性もある。500を超える政党が争っており、ラマポーザ大統領は党の支持低下を否定している。",
-   "sources": [
-    {
-     "outlet": "The Guardian",
-     "url": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts",
-     "date": "2026-11-05",
-     "access": "body",
-     "via": null,
-     "note": "ANC faces anger over poor services as South Africans vote in local elections"
-    },
-    {
-     "outlet": "BBC",
-     "url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
-     "date": "2026-11-05",
-     "access": "body",
-     "via": null,
-     "note": "ANC under pressure to reverse South Africa decline"
-    },
-    {
-     "outlet": "Deutsche Welle",
-     "url": "https://www.dw.com/en/why-south-africa-s-local-elections-matter/a-79842695?maca=en-rss-en-world-4025-rdf",
-     "date": "2026-11-05",
-     "access": "excerpt",
-     "via": null,
-     "note": "Why South Africa's local elections matter"
-    },
-    {
-     "outlet": "France 24",
-     "url": "https://www.france24.com/en/south-africans-vote-in-key-municipal-elections",
-     "date": "2026-11-05",
-     "access": "excerpt",
-     "via": null,
-     "note": "South Africans vote in key municipal elections"
-    }
-   ],
-   "continuity": null,
-   "coverage": {
-    "world": "4/18",
-    "jp": "0/6",
-    "worldTotal": 18,
-    "jpTotal": 6
-   },
-   "bodyAvailable": true,
-   "discussionUrl": null,
-   "summarizedBy": "claude-haiku-5-5"
-  },
-  {
-   "id": "intl-brief-2026-11-05-s-20261105-08",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "world",
-   "headline": "ミシガン州の上院選で勝利、イスラム教徒初の上院議員へ",
-   "originalTitle": "US midterms: Politics of fear failed to stop El-Sayed’s historic US Senate win",
-   "outlet": "The Straits Times",
-   "url": "https://www.straitstimes.com/world/united-states/politics-of-fear-failed-to-stop-el-sayeds-historic-us-senate-win",
-   "region": "overseas",
-   "category": null,
-   "score": 14,
-   "tier": "interest",
-   "pubDate": "2026-11-04T22:37:49.425Z",
-   "body": null,
-   "summary": "民主党のアブドゥル・エルサイード氏が、11月3日の中間選挙でミシガン州の上院選に勝利した。当選すれば米連邦上院でイスラム教徒初の議員となる。選挙戦では、トランプ大統領がエルサイード氏をジハード主義者やテロリストと呼ぶなど、反イスラム的だと批判された攻撃が相次いだ。エルサイード氏は「あなたたちは憎悪を選んだが、ミシガンは希望を選んだ」と勝利演説で述べた。地元のアラブ系住民の間には、安全を懸念する声もあったという。",
-   "sources": [
-    {
-     "outlet": "The Straits Times",
-     "url": "https://www.straitstimes.com/world/united-states/politics-of-fear-failed-to-stop-el-sayeds-historic-us-senate-win",
-     "date": "2026-11-05",
-     "access": "body",
-     "via": null,
-     "note": "US midterms: Politics of fear failed to stop El-Sayed’s historic US Senate win"
+     "note": "Explainer-What is ueno bank and how did it trigger Paraguay's political crisis?"
     },
     {
      "outlet": "Reuters",
      "url": null,
-     "date": "2026-11-05",
+     "date": "2026-11-06",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "Politics of fear failed to stop El-Sayed's historic US Senate win - Reuters"
+     "note": "Explainer: What is ueno bank and how did it trigger Paraguay's political crisis? - Reuters"
     },
     {
      "outlet": "Associated Press",
      "url": null,
-     "date": "2026-11-05",
+     "date": "2026-11-06",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "Progressive Democrat Abdul El-Sayed wins Michigan Senate race, will become first Muslim senator - AP News"
+     "note": "Paraguay prosecutor will seek charges against embattled President Peña following bank collapse - AP News"
     },
     {
-     "outlet": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/democratic-voters-celebrate-el-sayeds-michigan-win-in-election-blue?traffic_source=rss",
-     "date": "2026-11-05",
-     "access": "body",
-     "via": null,
-     "note": "Democratic voters celebrate El-Sayed’s Michigan win in election ‘blue wave’"
-    },
-    {
-     "outlet": "France 24",
-     "url": "https://www.france24.com/en/video/20261104-midterms-how-abdul-el-sayed-used-humour-and-hope-to-rebuff-racism",
-     "date": "2026-11-05",
-     "access": "excerpt",
-     "via": null,
-     "note": "Midterms: How Abdul El-Sayed used 'humour and hope' to rebuff racism"
-    }
-   ],
-   "continuity": null,
-   "coverage": {
-    "world": "5/18",
-    "jp": "0/6",
-    "worldTotal": 18,
-    "jpTotal": 6
-   },
-   "bodyAvailable": true,
-   "discussionUrl": null,
-   "summarizedBy": "claude-haiku-5-5"
-  },
-  {
-   "id": "intl-brief-2026-11-05-s-20261105-21",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "world",
-   "headline": "カナダ、中間選挙後も対米交渉の姿勢は変えず",
-   "originalTitle": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
-   "outlet": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
-   "region": "overseas",
-   "category": null,
-   "score": 14,
-   "tier": "interest",
-   "pubDate": "2026-11-04T22:37:49.425Z",
-   "body": null,
-   "summary": "カナダの閣僚は、中間選挙の結果で対米貿易交渉の姿勢は変わらないと述べ、近く米側の担当者と話す考えを示した。対米依存を減らす取り組みも継続するという。BBCは、民主党の勝利が米有権者による関税への反発を一部反映していると伝えた。オンタリオ州のフォード州知事は「カナダの勝利」と喜んだ。ただ、関税の緩和がすぐに実現する可能性は低いとしている。",
-   "sources": [
-    {
-     "outlet": "BBC",
-     "url": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
-     "date": "2026-11-05",
-     "access": "body",
-     "via": null,
-     "note": "US midterm results a 'victory' for Canadians hopeful of tariff relief"
-    },
-    {
-     "outlet": "South China Morning Post",
-     "url": "https://www.scmp.com/news/world/united-states-canada/article/3373317/canada-curb-reliance-us-despite-trump-teams-crushing-midterm-loss-minister-says",
-     "date": "2026-11-05",
-     "access": "excerpt",
-     "via": null,
-     "note": "Canada to curb reliance on US despite Trump team’s crushing midterm loss, minister says"
-    },
-    {
-     "outlet": "The Straits Times",
-     "url": "https://www.straitstimes.com/world/canada-says-midterms-wont-change-trade-stance-sees-talks-with-us-officials",
-     "date": "2026-11-05",
-     "access": "excerpt",
-     "via": null,
-     "note": "Canada says midterms won't change trade stance, sees talks with US officials"
-    },
-    {
-     "outlet": "Financial Times",
+     "outlet": "Bloomberg",
      "url": null,
-     "date": "2026-11-05",
+     "date": "2026-11-06",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "‘Cartwheels’ in Canada after Trump punished in US midterm elections - Financial Times"
+     "note": "Bank Collapse Takes Down a President and Trump Ally in Paraguay - Bloomberg.com"
     }
    ],
    "continuity": null,
    "coverage": {
-    "world": "4/18",
-    "jp": "0/6",
-    "worldTotal": 18,
-    "jpTotal": 6
-   },
-   "bodyAvailable": true,
-   "discussionUrl": null,
-   "summarizedBy": "claude-haiku-5-5"
-  },
-  {
-   "id": "intl-brief-2026-11-05-s-20261105-04",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "world",
-   "headline": "イラン、米中間選挙は「戦争ノー」の民意と主張",
-   "originalTitle": "Iran's chief negotiator says Americans voted 'no to war'",
-   "outlet": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
-   "region": "overseas",
-   "category": null,
-   "score": 12,
-   "tier": "interest",
-   "pubDate": "2026-11-04T22:37:49.425Z",
-   "body": null,
-   "summary": "イラン側の交渉責任者であるガリバフ国会議長は、米国民が「戦争ノー」と投票したと述べ、このメッセージに同意すると投稿した。トランプ大統領は、共和党の敗北は一部がイランとの戦争と、それに伴うガソリン価格の高騰によると認めた。一方で、今年2月のイスラエルとの共同攻撃を後悔していないと述べた。最高指導者のモジタバ・ハメネイ氏は、米国の政策が変わるとは予想していないとし、戦争が再開されれば「はるかに広い規模」になると警告した。",
-   "sources": [
-    {
-     "outlet": "BBC",
-     "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
-     "date": "2026-11-05",
-     "access": "body",
-     "via": null,
-     "note": "Iran's chief negotiator says Americans voted 'no to war'"
-    },
-    {
-     "outlet": "CBS News",
-     "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/",
-     "date": "2026-11-05",
-     "access": "body",
-     "via": null,
-     "note": "Iran says U.S. election results show Americans reject the war"
-    },
-    {
-     "outlet": "France 24",
-     "url": "https://www.france24.com/en/video/20261104-us-midterms-iran-s-deputy-parliament-speaker-reacts-to-trump-s-elections-setback-1",
-     "date": "2026-11-05",
-     "access": "excerpt",
-     "via": null,
-     "note": "US midterms: Iran's deputy parliament speaker reacts to Trump's elections setback"
-    },
-    {
-     "outlet": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/iranians-celebrate-democrat-victory-in-us-midterms?traffic_source=rss",
-     "date": "2026-11-05",
-     "access": "excerpt",
-     "via": null,
-     "note": "Iranians celebrate Democrat victory in US midterms"
-    }
-   ],
-   "continuity": null,
-   "coverage": {
-    "world": "4/18",
+    "world": "12/18",
     "jp": "2/6",
     "worldTotal": 18,
     "jpTotal": 6
@@ -641,59 +133,99 @@
    "summarizedBy": "claude-haiku-5-5"
   },
   {
-   "id": "intl-brief-2026-11-05-s-20261105-05",
+   "id": "intl-brief-2026-11-06-s-20261106-01",
    "stream": "intl",
    "depth": "brief",
    "section": "world",
-   "headline": "中間選挙後、米株が上昇、ダウ平均は大幅高",
-   "originalTitle": "Live: Wall Street markets soar after Democrats' midterms election win",
-   "outlet": "ABC Australia",
-   "url": "https://www.abc.net.au/news/2026-11-05/asx-markets-business-live-news-november-5-2026/107347286",
+   "headline": "欧州で航空便への爆破予告が相次ぐ",
+   "originalTitle": "Hoax bomb threats target European airlines and airports for second time in a week",
+   "outlet": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
    "region": "overseas",
    "category": null,
-   "score": 12,
-   "tier": "interest",
-   "pubDate": "2026-11-04T22:37:49.425Z",
+   "score": 30,
+   "tier": "should",
+   "pubDate": "2026-11-05T22:41:18.521Z",
    "body": null,
-   "summary": "民主党が議会の主導権を握った翌日、米株式市場では主要指数が上昇した。AP通信は、ダウ平均が1500ポイント超上昇し、北海ブレント原油が1バレル95ドルを下回ったと伝えた。トランプ大統領が選挙結果を受け入れると投稿したことも、市場の不透明感を和らげたとされる。AI関連では、オラクルとエヌビディアが安く始まった一方、アルファベットは上昇した。",
+   "summary": "欧州の空港や航空会社で、航空便への爆破予告が一週間で2度目相次いだ。英政府は「悪意のあるいたずらの予告」と呼んでいる。影響を受けた便数は、媒体により20数便から30便超まで報じられている。機体は緊急着陸や目的地変更を余儀なくされ、イタリア、ポーランド、スペインの便も含まれた。先に捜索を受けた7便でも爆発物は見つからなかった。専門家の一部は、安価で責任を問いにくい妨害の一環の可能性にも触れている。",
    "sources": [
     {
-     "outlet": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-05/asx-markets-business-live-news-november-5-2026/107347286",
-     "date": "2026-11-05",
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-06",
      "access": "body",
      "via": null,
-     "note": "Live: Wall Street markets soar after Democrats' midterms election win"
+     "note": "Hoax bomb threats target European airlines and airports for second time in a week"
+    },
+    {
+     "outlet": "New York Times",
+     "url": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-airline-passengers.html",
+     "date": "2026-11-06",
+     "access": "excerpt",
+     "via": null,
+     "note": "Bomb Threats Disrupt European Flights and Rattle Passengers"
+    },
+    {
+     "outlet": "The Guardian",
+     "url": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears",
+     "date": "2026-11-06",
+     "access": "excerpt",
+     "via": null,
+     "note": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears"
+    },
+    {
+     "outlet": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/hoax-bomb-threats-force-emergency-landings-evacuations-across-europe?traffic_source=rss",
+     "date": "2026-11-06",
+     "access": "excerpt",
+     "via": null,
+     "note": "Hoax bomb threats force emergency landings, evacuations across Europe"
+    },
+    {
+     "outlet": "Deutsche Welle",
+     "url": "https://www.dw.com/en/bomb-threats-disrupt-several-flights-across-europe/a-79861216?maca=en-rss-en-world-4025-rdf",
+     "date": "2026-11-06",
+     "access": "excerpt",
+     "via": null,
+     "note": "Bomb threats disrupt several flights across Europe"
+    },
+    {
+     "outlet": "France 24",
+     "url": "https://www.france24.com/en/video/20261105-europe-dozens-of-flights-diverted-following-bomb-threats",
+     "date": "2026-11-06",
+     "access": "excerpt",
+     "via": null,
+     "note": "Europe: Dozens of flights diverted following bomb threats"
+    },
+    {
+     "outlet": "CBS News",
+     "url": "https://www.cbsnews.com/news/europe-flights-airlines-hoax-bomb-threats/",
+     "date": "2026-11-06",
+     "access": "excerpt",
+     "via": null,
+     "note": "Hoax bomb threats affect at least 20 European flights within hours"
+    },
+    {
+     "outlet": "The Straits Times",
+     "url": "https://www.straitstimes.com/world/europe/fear-sniffer-dogs-and-fighter-jets-after-bomb-threats-hit-european-flights",
+     "date": "2026-11-06",
+     "access": "excerpt",
+     "via": null,
+     "note": "Fear, sniffer dogs and fighter jets after bomb threats hit European flights"
     },
     {
      "outlet": "Associated Press",
      "url": null,
-     "date": "2026-11-05",
+     "date": "2026-11-06",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "US stocks surge, and the Dow soars 1,500 points as Brent oil's price drops below $95 per barrel - AP News"
-    },
-    {
-     "outlet": "Financial Times",
-     "url": null,
-     "date": "2026-11-05",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Stocks climb after Democrats’ midterms sweep - Financial Times"
-    },
-    {
-     "outlet": "Al Jazeera",
-     "url": "https://www.aljazeera.com/economy/2026/11/4/us-markets-rise-as-democrats-sweep-midterm-elections?traffic_source=rss",
-     "date": "2026-11-05",
-     "access": "body",
-     "via": null,
-     "note": "US markets rise as Democrats sweep midterm elections"
+     "note": "Here’s what happens when airlines receive bomb threats - AP News"
     }
    ],
    "continuity": null,
    "coverage": {
-    "world": "4/18",
-    "jp": "3/6",
+    "world": "9/18",
+    "jp": "2/6",
     "worldTotal": 18,
     "jpTotal": 6
    },
@@ -702,53 +234,583 @@
    "summarizedBy": "claude-haiku-5-5"
   },
   {
-   "id": "intl-brief-2026-11-05-s-20261105-03",
+   "id": "intl-brief-2026-11-06-s-20261106-08",
    "stream": "intl",
    "depth": "brief",
-   "section": "gap",
-   "headline": "トランプ氏、民主党の弾劾案に「党を壊す」と牽制",
-   "originalTitle": "‘It would destroy Democrats’: Trump warns against impeachment after midterm losses",
-   "outlet": "Times of India",
-   "url": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/it-would-destroy-democrats-trump-warns-against-impeachment-after-republicans-midterm-rout/articleshow/135551778.cms",
+   "section": "world",
+   "headline": "ラッセル・ブランド被告に有罪評決、性的暴行罪など",
+   "originalTitle": "Russell Brand is convicted of rape, and judge says he'll get a prison term",
+   "outlet": "NPR",
+   "url": "https://www.npr.org/2026/11/05/nx-s1-6030720/russell-brand-rape-sexual-assault-prison",
    "region": "overseas",
    "category": null,
-   "score": 11,
+   "score": 25,
    "tier": "interest",
-   "pubDate": "2026-11-04T22:37:49.425Z",
+   "pubDate": "2026-11-05T22:41:18.521Z",
    "body": null,
-   "summary": "トランプ大統領は中間選挙後初めて記者に語り、民主党が弾劾を進めれば「党を破壊する」と述べた。大統領は弾劾の根拠はないとし、「成功している国だから弾劾する」ということになると皮肉った。一方で、民主党が妨害しなければ協力する考えも示し、拒否権を持っていると強調した。民主党は2027年1月から議会の主導権を握る。",
+   "summary": "英国のコメディアン兼俳優ラッセル・ブランド被告（51）が、ロンドンの刑事裁判で有罪評決を受けた。女性4人に対する強姦1件と強制わいせつ3件が認定された。起訴内容は2005〜2009年の出来事とされる。別の強姦2件と未遂のわいせつ1件では無罪となった。被告は起訴内容を否認していた。判事は、月曜の量刑言い渡しで収監される見通しを示した。保釈は認められず、身柄を拘束された。",
    "sources": [
     {
-     "outlet": "Times of India",
-     "url": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/it-would-destroy-democrats-trump-warns-against-impeachment-after-republicans-midterm-rout/articleshow/135551778.cms",
-     "date": "2026-11-05",
+     "outlet": "NPR",
+     "url": "https://www.npr.org/2026/11/05/nx-s1-6030720/russell-brand-rape-sexual-assault-prison",
+     "date": "2026-11-06",
      "access": "body",
      "via": null,
-     "note": "‘It would destroy Democrats’: Trump warns against impeachment after midterm losses"
+     "note": "Russell Brand is convicted of rape, and judge says he'll get a prison term"
+    },
+    {
+     "outlet": "France 24",
+     "url": "https://www.france24.com/en/europe/20261105-british-comedian-russell-brand-found-guilty-of-rape-sexual-assault",
+     "date": "2026-11-06",
+     "access": "excerpt",
+     "via": null,
+     "note": "British comedian Russell Brand found guilty of rape, sexual assault"
+    },
+    {
+     "outlet": "Euronews",
+     "url": "https://www.euronews.com/2026/11/05/british-comedian-russell-brand-found-guilty-of-rape-and-three-sexual-assaults-by-london-ju",
+     "date": "2026-11-06",
+     "access": "excerpt",
+     "via": null,
+     "note": "British comedian Russell Brand found guilty of rape and three sexual assaults by London jury"
+    },
+    {
+     "outlet": "South China Morning Post",
+     "url": "https://www.scmp.com/news/world/europe/article/3373453/british-actor-russell-brand-faces-prison-after-rape-sexual-assault-conviction",
+     "date": "2026-11-06",
+     "access": "excerpt",
+     "via": null,
+     "note": "British actor Russell Brand faces prison after rape, sexual assault conviction"
+    },
+    {
+     "outlet": "CBS News",
+     "url": "https://www.cbsnews.com/news/russell-brand-found-guilty-rape-sexual-assault-verdict/",
+     "date": "2026-11-06",
+     "access": "excerpt",
+     "via": null,
+     "note": "Russell Brand found guilty of rape and sexual assault"
+    },
+    {
+     "outlet": "Reuters",
+     "url": null,
+     "date": "2026-11-06",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Details of Russell Brand's convictions - Reuters"
     },
     {
      "outlet": "Associated Press",
      "url": null,
-     "date": "2026-11-05",
+     "date": "2026-11-06",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "After midterm losses, Trump stares down the specter of Democratic probes and the race to succeed him - AP News"
-    },
-    {
-     "outlet": "France 24",
-     "url": "https://www.france24.com/en/video/20261104-trump-after-the-midterms-gridlock-impeachment-and-succession",
-     "date": "2026-11-05",
-     "access": "excerpt",
-     "via": null,
-     "note": "Trump after the midterms: Gridlock, impeachment and succession?"
+     "note": "Russell Brand is convicted of rape, and judge says he’ll get a prison term - AP News"
     },
     {
      "outlet": "Financial Times",
      "url": null,
-     "date": "2026-11-05",
+     "date": "2026-11-06",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "Corporate America braced for Democrats to unleash investigations after US midterms - Financial Times"
+     "note": "Russell Brand found guilty of rape and sexual assault - Financial Times"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "8/18",
+    "jp": "0/6",
+    "worldTotal": 18,
+    "jpTotal": 6
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "claude-haiku-5-5"
+  },
+  {
+   "id": "intl-brief-2026-11-06-s-20261106-17",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "world",
+   "headline": "中間選挙後、米ハイテク株急落 AI投資減速の懸念",
+   "originalTitle": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+   "outlet": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+   "region": "overseas",
+   "category": null,
+   "score": 25,
+   "tier": "interest",
+   "pubDate": "2026-11-05T22:41:18.521Z",
+   "body": null,
+   "summary": "米中間選挙の結果を受け、米ハイテク株が急落した。ナスダック総合指数は5.5%安、S&P500種株価指数は4.4%安で引けた。時価総額の損失は、2兆〜2.5兆ドルと媒体で幅がある。市場は、データセンター建設やAI産業への厳しい規制の可能性に反応したと報じられた。テキサス州の次期知事は、新設の一時凍結を公約していた。エヌビディアは9%超下落し、AMDとマイクロンは17%超下落した。",
+   "sources": [
+    {
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-06",
+     "access": "body",
+     "via": null,
+     "note": "Major tech stocks plunge as US midterms add to fears of AI slowdown"
+    },
+    {
+     "outlet": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-06/asx-markets-business-live-news/107353758",
+     "date": "2026-11-06",
+     "access": "body",
+     "via": null,
+     "note": "Live: Tech stocks nosedive as Wall Street suffers mass sell-off following midterms"
+    },
+    {
+     "outlet": "Al Jazeera",
+     "url": "https://www.aljazeera.com/economy/2026/11/5/ai-stocks-plunge-after-election-driving-down-us-markets?traffic_source=rss",
+     "date": "2026-11-06",
+     "access": "excerpt",
+     "via": null,
+     "note": "AI stocks plunge after US election, driving down markets"
+    },
+    {
+     "outlet": "South China Morning Post",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3373465/ai-storm-dooms-tech-stocks-us2-trillion-decline-darkest-day-2025",
+     "date": "2026-11-06",
+     "access": "excerpt",
+     "via": null,
+     "note": "AI storm dooms tech stocks to US$2 trillion decline on darkest day since 2025"
+    },
+    {
+     "outlet": "Reuters",
+     "url": null,
+     "date": "2026-11-06",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Wall Street fear gauge jumps most since 'Liberation Day' as AI trade stumbles - Reuters"
+    },
+    {
+     "outlet": "Associated Press",
+     "url": null,
+     "date": "2026-11-06",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "A brutal sell-off for AI stocks sends Wall Street reeling, and the S&P 500 tumbles 4.4% - AP News"
+    },
+    {
+     "outlet": "Bloomberg",
+     "url": null,
+     "date": "2026-11-06",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Chips Selloff Worsens as Fears About AI Trade Grip Stock Market - Bloomberg.com"
+    },
+    {
+     "outlet": "Financial Times",
+     "url": null,
+     "date": "2026-11-06",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Wall Street sheds $3.2tn as Democratic midterm sweep triggers brutal AI rout - Financial Times"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "8/18",
+    "jp": "4/6",
+    "worldTotal": 18,
+    "jpTotal": 6
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "claude-haiku-5-5"
+  },
+  {
+   "id": "intl-brief-2026-11-06-s-20261106-04",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "world",
+   "headline": "仏で労組がゼネスト、全国でデモ 数十万人規模",
+   "originalTitle": "French protests see numbers surge as unions join strikes over high cost of living",
+   "outlet": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
+   "region": "overseas",
+   "category": null,
+   "score": 24,
+   "tier": "interest",
+   "pubDate": "2026-11-05T22:41:18.521Z",
+   "body": null,
+   "summary": "生活費の高騰や公共サービス削減への抗議として、5つの労組がストライキを呼びかけ、全国でデモが行われた。内務省の推計は60万人以上、左派労組CGTは157万人としている。アルジャジーラは25万人超と報じるなど、数字は媒体で大きく異なる。政府は警察官7万人を動員した。リヨンやボルドーでは機動隊が催涙ガスを使用した。ガーディアンは、デモの大部分は平和的だったと伝えた。ルコルニュ首相は来週月曜、労使との「社会会議」を開くと表明した。",
+   "sources": [
+    {
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-06",
+     "access": "body",
+     "via": null,
+     "note": "French protests see numbers surge as unions join strikes over high cost of living"
+    },
+    {
+     "outlet": "The Guardian",
+     "url": "https://www.theguardian.com/world/2026/nov/05/protesters-france-march-strikes-education-cost-of-living",
+     "date": "2026-11-06",
+     "access": "body",
+     "via": null,
+     "note": "Protesters march in cities across France as unions stage general strike"
+    },
+    {
+     "outlet": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/mass-protests-in-france-driven-by-nationwide-strike-action?traffic_source=rss",
+     "date": "2026-11-06",
+     "access": "excerpt",
+     "via": null,
+     "note": "Mass protests in France driven by nationwide strike action"
+    },
+    {
+     "outlet": "France 24",
+     "url": "https://www.france24.com/en/video/20261105-french-protests-it-s-only-when-public-private-sector-act-together-that-you-can-make-changes",
+     "date": "2026-11-06",
+     "access": "excerpt",
+     "via": null,
+     "note": "French protests: 'It's only when public, private sector act together that you can make changes'"
+    },
+    {
+     "outlet": "Euronews",
+     "url": "https://www.euronews.com/video/2026/11/05/france-up-to-55000-march-in-lyon-amid-clashes-and-tear-gas",
+     "date": "2026-11-06",
+     "access": "excerpt",
+     "via": null,
+     "note": "France: Up to 55,000 march in Lyon amid clashes and tear gas"
+    },
+    {
+     "outlet": "South China Morning Post",
+     "url": "https://www.scmp.com/news/world/europe/article/3373463/mass-protests-sweep-france-again-workers-strike-and-march-dignified-wage",
+     "date": "2026-11-06",
+     "access": "excerpt",
+     "via": null,
+     "note": "Mass protests sweep France again, as workers strike and march for ‘dignified wage’"
+    },
+    {
+     "outlet": "Associated Press",
+     "url": null,
+     "date": "2026-11-06",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Mass protests sweep France as huge crowds demand higher wages, back students' demands - AP News"
+    },
+    {
+     "outlet": "New York Times",
+     "url": "https://www.nytimes.com/2026/11/05/world/europe/france-protests-general-strike.html",
+     "date": "2026-11-06",
+     "access": "excerpt",
+     "via": null,
+     "note": "After Barricades, Riots and Protests, French Workers Go on Strike"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "8/18",
+    "jp": "0/6",
+    "worldTotal": 18,
+    "jpTotal": 6
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "claude-haiku-5-5"
+  },
+  {
+   "id": "intl-brief-2026-11-06-s-20261106-03",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "world",
+   "headline": "カリフォルニア州知事、死刑囚548人の死刑を減刑へ",
+   "originalTitle": "California governor commutes sentences for state's 548 death row inmates",
+   "outlet": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
+   "region": "overseas",
+   "category": null,
+   "score": 22,
+   "tier": "interest",
+   "pubDate": "2026-11-05T22:41:18.521Z",
+   "body": null,
+   "summary": "米カリフォルニア州のニューサム知事は、死刑囚548人全員の死刑を仮釈放なしの終身刑に減刑すると発表した。州では2006年以降、死刑が執行されていない。1978年に死刑制度が復活して以降の執行は13人にとどまる。今回の措置は象徴的な意味合いが大きいが、裁判費用の年間節約につながる可能性があると専門家は指摘した。知事は書簡で「国家による殺人は州の価値観と相容れない」と述べた。知事は任期満了が近く、後任は民主党のベセラ氏が就任する見通しだ。",
+   "sources": [
+    {
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-06",
+     "access": "body",
+     "via": null,
+     "note": "California governor commutes sentences for state's 548 death row inmates"
+    },
+    {
+     "outlet": "France 24",
+     "url": "https://www.france24.com/en/americas/20261105-inhumane-punishment-california-governor-gavin-newsom-to-commute-548-death-sentences",
+     "date": "2026-11-06",
+     "access": "excerpt",
+     "via": null,
+     "note": "'Inhumane punishment': Governor Gavin Newsom to commute all 548 California death sentences"
+    },
+    {
+     "outlet": "South China Morning Post",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3373467/california-governor-newsom-granting-clemency-all-548-death-row-inmates-state",
+     "date": "2026-11-06",
+     "access": "excerpt",
+     "via": null,
+     "note": "California Governor Newsom granting clemency to all 548 death row inmates in state"
+    },
+    {
+     "outlet": "The Straits Times",
+     "url": "https://www.straitstimes.com/world/united-states/california-governor-newsom-says-commuting-all-death-sentences-in-state",
+     "date": "2026-11-06",
+     "access": "excerpt",
+     "via": null,
+     "note": "California governor Newsom says commuting all death sentences in state"
+    },
+    {
+     "outlet": "Reuters",
+     "url": null,
+     "date": "2026-11-06",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "California governor to grant clemency to all 548 death row inmates in state - Reuters"
+    },
+    {
+     "outlet": "Associated Press",
+     "url": null,
+     "date": "2026-11-06",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "California Gov. Newsom says he will commute all death sentences in state to life without parole - AP News"
+    },
+    {
+     "outlet": "Bloomberg",
+     "url": null,
+     "date": "2026-11-06",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Newsom Commutes Sentences of All California Death Row Inmates - Bloomberg.com"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "7/18",
+    "jp": "0/6",
+    "worldTotal": 18,
+    "jpTotal": 6
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "claude-haiku-5-5"
+  },
+  {
+   "id": "intl-brief-2026-11-06-s-20261106-07",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "world",
+   "headline": "ロナウド、ポルトガル代表からの引退を発表",
+   "originalTitle": "Cristiano Ronaldo bows out from national team with emotional message",
+   "outlet": "Sky News",
+   "url": "https://news.sky.com/story/cristiano-ronaldo-retires-from-international-football-13608313",
+   "region": "overseas",
+   "category": null,
+   "score": 19,
+   "tier": "interest",
+   "pubDate": "2026-11-05T22:41:18.521Z",
+   "body": null,
+   "summary": "サッカーのクリスティアーノ・ロナウド選手（41）が、ポルトガル代表からの引退を発表した。W杯6回出場、欧州選手権優勝、代表での通算得点の男子最多記録を持つ。ABCは、監督との不和が引退の背景にあると伝えた。BBCは、ポルトガル代表を変えた象徴的存在として、今後の進路も含めて分析した。",
+   "sources": [
+    {
+     "outlet": "Sky News",
+     "url": "https://news.sky.com/story/cristiano-ronaldo-retires-from-international-football-13608313",
+     "date": "2026-11-06",
+     "access": "excerpt",
+     "via": null,
+     "note": "Cristiano Ronaldo bows out from national team with emotional message"
+    },
+    {
+     "outlet": "France 24",
+     "url": "https://www.france24.com/en/video/20261105-portugal-cristiano-ronaldo-announces-his-international-retirement",
+     "date": "2026-11-06",
+     "access": "excerpt",
+     "via": null,
+     "note": "Portugal: Cristiano Ronaldo announces his international retirement"
+    },
+    {
+     "outlet": "CBS News",
+     "url": "https://www.cbsnews.com/news/ronaldo-retires-portugal-legendary-career/",
+     "date": "2026-11-06",
+     "access": "excerpt",
+     "via": null,
+     "note": "Ronaldo retires from Portugal national team"
+    },
+    {
+     "outlet": "Associated Press",
+     "url": null,
+     "date": "2026-11-06",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Cristiano Ronaldo announces his international retirement from Portugal - AP News"
+    },
+    {
+     "outlet": "Financial Times",
+     "url": null,
+     "date": "2026-11-06",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Cristiano Ronaldo retires from international football - Financial Times"
+    },
+    {
+     "outlet": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-06/cristiano-ronaldo-announces-retirement-international-football/107353704",
+     "date": "2026-11-06",
+     "access": "excerpt",
+     "via": null,
+     "note": "Superstar Cristiano Ronaldo retires from international football"
+    },
+    {
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-06",
+     "access": "excerpt",
+     "via": null,
+     "note": "A bitter end for Ronaldo - the icon who transformed Portugal"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "7/18",
+    "jp": "1/6",
+    "worldTotal": 18,
+    "jpTotal": 6
+   },
+   "bodyAvailable": false,
+   "discussionUrl": null,
+   "summarizedBy": "claude-haiku-5-5"
+  },
+  {
+   "id": "intl-brief-2026-11-06-s-20261028-01",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "world",
+   "headline": "イスラエル大統領、野党党首に組閣協議を任せるか判断へ",
+   "originalTitle": "Israel's president set to hand Netanyahu rival first chance to form government",
+   "outlet": "ABC Australia",
+   "url": "https://www.abc.net.au/news/2026-11-06/israel-president-coalition-talks/107353572",
+   "region": "overseas",
+   "category": null,
+   "score": 16,
+   "tier": "interest",
+   "pubDate": "2026-11-05T22:41:18.521Z",
+   "body": null,
+   "summary": "イスラエルのヘルツォグ大統領は、総選挙後の組閣協議を誰に委ねるかを日曜に発表する見通しだ。ネタニヤフ首相の右派連合も、元参謀総長ガディ・エイゼンコト氏の野党勢力も過半数に届かなかった。野党側の複数の政党はエイゼンコト氏を推薦し、リクードなど与党系はネタニヤフ氏を推薦した。アルジャジーラは、米中間選挙での共和党敗北が、ネタニヤフ氏の対米関係への評価に影響していると分析した。",
+   "sources": [
+    {
+     "outlet": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-06/israel-president-coalition-talks/107353572",
+     "date": "2026-11-06",
+     "access": "body",
+     "via": null,
+     "note": "Israel's president set to hand Netanyahu rival first chance to form government"
+    },
+    {
+     "outlet": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/5/the-blame-game-how-the-us-midterm-shock-is-shaping-israels-race-for-pm?traffic_source=rss",
+     "date": "2026-11-06",
+     "access": "body",
+     "via": null,
+     "note": "The blame game: How the US midterm shock is shaping Israel’s race for PM"
+    },
+    {
+     "outlet": "France 24",
+     "url": "https://www.france24.com/en/middle-east/20261105-israel-main-arab-list-backs-eisenkot-to-form-government-after-election",
+     "date": "2026-11-06",
+     "access": "excerpt",
+     "via": null,
+     "note": "Israel's Arab list backs Eisenkot as Netanyahu loses ultra-Orthodox support"
+    },
+    {
+     "outlet": "Associated Press",
+     "url": null,
+     "date": "2026-11-06",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Arab parties extend a hand to try to topple Netanyahu but challenges remain - AP News"
+    },
+    {
+     "outlet": "The Guardian",
+     "url": "https://www.theguardian.com/world/2026/nov/05/herzog-netanyahu-eisenkot-israel-election-decision",
+     "date": "2026-11-06",
+     "access": "excerpt",
+     "via": null,
+     "note": "Herzog to meet Israeli election rivals as decision nears on path to power"
+    },
+    {
+     "outlet": "New York Times",
+     "url": "https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-herzog-prime-minister-meetings.html",
+     "date": "2026-11-06",
+     "access": "excerpt",
+     "via": null,
+     "note": "Israel’s Election Ended With No Clear Winner. These Parties Are Trying to Form a Coalition."
+    }
+   ],
+   "continuity": {
+    "previousDate": "2026-10-28",
+    "previousScore": 49,
+    "note": "8日連続で報じられている"
+   },
+   "coverage": {
+    "world": "6/18",
+    "jp": "2/6",
+    "worldTotal": 18,
+    "jpTotal": 6
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "claude-haiku-5-5"
+  },
+  {
+   "id": "intl-brief-2026-11-06-s-20261106-18",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "world",
+   "headline": "メラニア夫人、露・ウクライナ代表と会合 停戦を呼びかけ",
+   "originalTitle": "How Melania Trump Became a Dark-Horse Diplomat on Ukraine",
+   "outlet": "New York Times",
+   "url": "https://www.nytimes.com/2026/11/05/world/europe/melania-trump-oleshky-ukraine-ceasefire.html",
+   "region": "overseas",
+   "category": null,
+   "score": 14,
+   "tier": "interest",
+   "pubDate": "2026-11-05T22:41:18.521Z",
+   "body": null,
+   "summary": "メラニア・トランプ米大統領夫人は、ロシアとウクライナの代表者をホワイトハウスに招いた。両国は、南部ヘルソン州オレシキでの6日間の停戦の仲介をトランプ政権が担ったと評価した。夫人の役割は明示されていないが、両国の大統領から感謝が伝えられた。停戦では、包囲された町の住民数百人が避難できた。夫人は、より持続的な停戦を呼びかけた。会合は、米国主導の正式な和平協議とは別の場で開かれた。",
+   "sources": [
+    {
+     "outlet": "New York Times",
+     "url": "https://www.nytimes.com/2026/11/05/world/europe/melania-trump-oleshky-ukraine-ceasefire.html",
+     "date": "2026-11-06",
+     "access": "excerpt",
+     "via": null,
+     "note": "How Melania Trump Became a Dark-Horse Diplomat on Ukraine"
+    },
+    {
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-06",
+     "access": "body",
+     "via": null,
+     "note": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials"
+    },
+    {
+     "outlet": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/melania-trump-hosts-russia-ukraine-meeting-after-oleshky-ceasefire?traffic_source=rss",
+     "date": "2026-11-06",
+     "access": "excerpt",
+     "via": null,
+     "note": "Melania Trump hosts Russia-Ukraine meeting after Oleshky ceasefire"
+    },
+    {
+     "outlet": "South China Morning Post",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3373459/melania-trump-hosts-ukraine-russia-officials-calls-more-enduring-truce",
+     "date": "2026-11-06",
+     "access": "excerpt",
+     "via": null,
+     "note": "Melania Trump hosts Ukraine, Russia officials, calls for ‘more enduring’ truce"
     }
    ],
    "continuity": null,
@@ -763,58 +825,217 @@
    "summarizedBy": "claude-haiku-5-5"
   },
   {
-   "id": "intl-brief-2026-11-05-s-20261105-23",
+   "id": "intl-brief-2026-11-06-s-20261106-19",
    "stream": "intl",
    "depth": "brief",
-   "section": "gap",
-   "headline": "民主党勝利でビッグテック株上昇、AI投資減速観測",
-   "originalTitle": "Democrats' midterm sweep fuels $750 billion Big Tech rally - Reuters",
-   "outlet": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTzc2SlBDbW9CQmpVSmZXdzM1aW9hSGV3cnF2ZFZWTnozUHl0ejU2T3R1eG5xVmhFMG1Vb25oQTc0clFCUVhOQ1ZQaHhLWF9POElFb3cwMjVGdGt5UTFlaWgyUlAtWWIwbFlpbDFmaC1mM1Rta2g5OE1NVk0yNlA4bl9HTi1VTWdqYlc0enR0a3BMUW5MU1RPaTBiWmVVNy00SmdteVk0LVptR21iWGRyVnk2ekttazR3?oc=5",
+   "section": "world",
+   "headline": "カナダで母娘が死亡、グリズリーに襲われた可能性",
+   "originalTitle": "Mother and daughter killed in grizzly bear attack, Canadian authorities confirm",
+   "outlet": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/04/canada-bear-attack-mother-daughter-killed",
    "region": "overseas",
    "category": null,
-   "score": 11,
+   "score": 13,
    "tier": "interest",
-   "pubDate": "2026-11-04T22:37:49.425Z",
+   "pubDate": "2026-11-05T22:41:18.521Z",
    "body": null,
-   "summary": "中間選挙で民主党が上下両院を制したことを受け、米ビッグテック株が上昇した。ロイターは「7500億ドル規模のビッグテック株の上昇」と伝えた。ブルームバーグは、トレーダーが民主党のもとでAI投資が減速するとの見方に賭けていると報じた。SCMPは、AIの成長が鈍る可能性が中国の野心にとって追い風になる可能性も論じた。FTは、有権者の選択が米データセンター投資の過熱を冷やしたとの見方を示した。",
+   "summary": "カナダのブリティッシュコロンビア州で、母親と20歳の娘が遺体で見つかった。州の保全当局は、グリズリー（ハイイログマ）による襲撃の可能性があるとみて調べている。複数の熊が関与した可能性も調べられている。2人は週末に行方不明と届けられ、自宅近くの登山道付近で見つかった。現場は人口約2100人の集落ベラクーラの近くだ。当局は一帯でクマの捕獲を進め、住民に立ち入らないよう呼びかけている。今年初めには、同州でクマが児童と教師のグループを襲う事件もあった。",
    "sources": [
     {
-     "outlet": "Reuters",
-     "url": null,
-     "date": "2026-11-05",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Democrats' midterm sweep fuels $750 billion Big Tech rally - Reuters"
+     "outlet": "The Guardian",
+     "url": "https://www.theguardian.com/world/2026/nov/04/canada-bear-attack-mother-daughter-killed",
+     "date": "2026-11-06",
+     "access": "body",
+     "via": null,
+     "note": "Mother and daughter killed in grizzly bear attack, Canadian authorities confirm"
     },
     {
-     "outlet": "Bloomberg",
-     "url": null,
-     "date": "2026-11-05",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Big Tech Stocks Soar as Traders Bet Democrats Will Slow AI Spend - Bloomberg"
-    },
-    {
-     "outlet": "South China Morning Post",
-     "url": "https://www.scmp.com/tech/big-tech/article/3373295/how-democratic-sweep-could-slow-ai-growth-us-and-help-chinas-ambitions",
-     "date": "2026-11-05",
+     "outlet": "New York Times",
+     "url": "https://www.nytimes.com/2026/11/05/world/canada/canada-grizzly-bear-attack-mother-daughter-killed.html",
+     "date": "2026-11-06",
      "access": "excerpt",
      "via": null,
-     "note": "How Democratic sweep could slow AI growth in US – and help China’s ambitions"
+     "note": "Canadian Officials Search for Bears After Mother and Daughter Are Killed on Hike"
     },
     {
-     "outlet": "Financial Times",
+     "outlet": "CBS News",
+     "url": "https://www.cbsnews.com/news/grizzly-bear-attack-british-columbia-mother-daughter/",
+     "date": "2026-11-06",
+     "access": "excerpt",
+     "via": null,
+     "note": "Mother, daughter dead in suspected grizzly bear attack in Canada"
+    },
+    {
+     "outlet": "Associated Press",
      "url": null,
-     "date": "2026-11-05",
+     "date": "2026-11-06",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "Voters have put a helpful chill on the US data centre boom - Financial Times"
+     "note": "Canadian authorities say multiple grizzlies may have attacked mother and daughter found dead - AP News"
     }
    ],
    "continuity": null,
    "coverage": {
     "world": "4/18",
+    "jp": "0/6",
+    "worldTotal": 18,
+    "jpTotal": 6
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "claude-haiku-5-5"
+  },
+  {
+   "id": "intl-brief-2026-11-06-s-20261106-06",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "gap",
+   "headline": "トランプ氏、中間選挙の敗北にイラン戦争の影響を認める",
+   "originalTitle": "After midterm loss, Trump is left to weigh his next move in Iran war that contributed to GOP debacle - AP News",
+   "outlet": "Associated Press",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMVdCMXZ3Y0NJQ3Y2ZG9YSHp3YW95Q2gtdm9QYTBjZDQzUGNvT2FHaDhuUnMxdXZXdlJrUzVrRW5RVXBzZExUTzhZT2JNSi1VWWVIWUw2RGpPS2pIcm4tUDJrMmRoQUpHVFRiY3p0c1pnazdEdUpDcThSbzV1NFNtbFF1ODhZczMtZkFYVTlwcjJEdw?oc=5",
+   "region": "overseas",
+   "category": null,
+   "score": 8,
+   "tier": "interest",
+   "pubDate": "2026-11-05T22:41:18.521Z",
+   "body": null,
+   "summary": "トランプ米大統領は、中間選挙で共和党が大敗した一因としてイラン戦争があったと認めた。戦争は米国民の支持を得ておらず、ガソリン価格の高騰も有権者の不満につながったと報じられている。一方、トランプ氏は、イランへの対応の重要性は国民に理解されたとも語った。湾岸諸国は、戦争が終わるとの期待を持っていると、ドイチェ・ヴェレは伝えた。新たに当選した議員が議席につくのは来年初めで、議会による資金の制限は直ちには効かない。",
+   "sources": [
+    {
+     "outlet": "Associated Press",
+     "url": null,
+     "date": "2026-11-06",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "After midterm loss, Trump is left to weigh his next move in Iran war that contributed to GOP debacle - AP News"
+    },
+    {
+     "outlet": "Deutsche Welle",
+     "url": "https://www.dw.com/en/americans-voted-against-trump-s-iran-war-gulf-countries-hope-that-means-an-end-to-the-conflict/a-79868398?maca=en-rss-en-world-4025-rdf",
+     "date": "2026-11-06",
+     "access": "body",
+     "via": null,
+     "note": "Americans voted against Trump's Iran war. Gulf countries hope that means an end to the conflict"
+    },
+    {
+     "outlet": "New York Times",
+     "url": "https://www.nytimes.com/2026/11/05/us/politics/trump-iran-war-midterm-elections.html",
+     "date": "2026-11-06",
+     "access": "excerpt",
+     "via": null,
+     "note": "Midterm Election Losses Complicate Trump’s Options on Iran War"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "3/18",
+    "jp": "0/6",
+    "worldTotal": 18,
+    "jpTotal": 6
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "claude-haiku-5-5"
+  },
+  {
+   "id": "intl-brief-2026-11-06-s-20261106-29",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "gap",
+   "headline": "ヘグセス国防長官、民主党の弾劾の動きに反発",
+   "originalTitle": "Defiant Hegseth tells US Democrats their impeachment push ‘won’t work’",
+   "outlet": "South China Morning Post",
+   "url": "https://www.scmp.com/news/us/us-elections/article/3373466/defiant-hegseth-tells-democrats-their-impeachment-push-wont-work",
+   "region": "overseas",
+   "category": null,
+   "score": 8,
+   "tier": "interest",
+   "pubDate": "2026-11-05T22:41:18.521Z",
+   "body": null,
+   "summary": "米国防長官のピート・ヘグセス氏は、民主党が進める弾劾の動きについて「うまくいかない」と反発した。民主党は中間選挙で両院の多数を握り、調査や国防予算の抑制を進める構えだ。トランプ氏やバンス副大統領は、イラン戦争が選挙敗北の一因だと述べている。民主党のジェイソン・クロウ下院議員は「ヘグセス氏を追及する」と述べた。ブルームバーグは、マッシー議員が来週、弾劾条項を再提出すると報じた。",
+   "sources": [
+    {
+     "outlet": "South China Morning Post",
+     "url": "https://www.scmp.com/news/us/us-elections/article/3373466/defiant-hegseth-tells-democrats-their-impeachment-push-wont-work",
+     "date": "2026-11-06",
+     "access": "excerpt",
+     "via": null,
+     "note": "Defiant Hegseth tells US Democrats their impeachment push ‘won’t work’"
+    },
+    {
+     "outlet": "The Straits Times",
+     "url": "https://www.straitstimes.com/world/united-states/pressure-mounts-on-us-defence-chief-after-republican-midterm-election-rout",
+     "date": "2026-11-06",
+     "access": "body",
+     "via": null,
+     "note": "Pressure mounts on US defence chief after Republican midterm election rout"
+    },
+    {
+     "outlet": "Bloomberg",
+     "url": null,
+     "date": "2026-11-06",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Massie to Bring Hegseth Impeachment Articles Back Next Week - Bloomberg.com"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "3/18",
+    "jp": "0/6",
+    "worldTotal": 18,
+    "jpTotal": 6
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "claude-haiku-5-5"
+  },
+  {
+   "id": "intl-brief-2026-11-06-s-20261106-31",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "gap",
+   "headline": "マイクロソフト、ネオクラウドのデータセンター事業で監督強化",
+   "originalTitle": "Microsoft tightens oversight of neocloud data center projects, Bloomberg News reports - Reuters",
+   "outlet": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc0lzRWp3SlczTDBjS2gyYnZPX194TnVxQVZCTWdaTTlScTVVT2dYZU55dGg1eGQ3LXNySlIzaDZ2NkNEMXktTVotakRNZ215bUwzS041X2k4dGFHaEw5VDVLYVpJb3JPYnBWVFNVTkxHTk5zZGhYd01CdmVPazM5X1I3X2xvTGg2Tk9HS3RMQUp4cFRZV2lvdXR6dVAtQVozaWgxMFRrV0N5NDFib3pydHhVdS1ZQWJ1cWc?oc=5",
+   "region": "overseas",
+   "category": null,
+   "score": 8,
+   "tier": "interest",
+   "pubDate": "2026-11-05T22:41:18.521Z",
+   "body": null,
+   "summary": "米マイクロソフトが、ネオクラウド事業者のデータセンター計画の監督を強めたと、ブルームバーグが報じた。ブルームバーグの見出しは、データセンターの遅延とコストを背景に挙げる。ネオクラウドへの姿勢は慎重になったとされる。フィナンシャル・タイムズは、英Nscale社との数十億ドル規模のAI契約を、マイクロソフトが拒否したと伝えた。",
+   "sources": [
+    {
+     "outlet": "Reuters",
+     "url": null,
+     "date": "2026-11-06",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Microsoft tightens oversight of neocloud data center projects, Bloomberg News reports - Reuters"
+    },
+    {
+     "outlet": "Bloomberg",
+     "url": null,
+     "date": "2026-11-06",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Microsoft Sours on Neoclouds Amid Data Center Delays, Costs - Bloomberg.com"
+    },
+    {
+     "outlet": "Financial Times",
+     "url": null,
+     "date": "2026-11-06",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Microsoft rejects multibillion-dollar AI deal with UK’s Nscale - Financial Times"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "3/18",
     "jp": "0/6",
     "worldTotal": 18,
     "jpTotal": 6
@@ -824,107 +1045,42 @@
    "summarizedBy": "claude-haiku-5-5"
   },
   {
-   "id": "intl-brief-2026-11-05-s-20261029-01",
+   "id": "intl-brief-2026-11-06-s-20261106-26",
    "stream": "intl",
    "depth": "brief",
    "section": "gap",
-   "headline": "スペインの運輸相、高速鉄道事故で辞任表明",
-   "originalTitle": "Spain's transport minister to resign after train crash killed 69 people",
-   "outlet": "Sky News",
-   "url": "https://news.sky.com/story/spains-transport-minister-oscar-puente-to-resign-after-train-crash-killed-69-people-13607610",
+   "headline": "韓国、海賊対策部隊の活動範囲をホルムズ近くへ拡大",
+   "originalTitle": "South Korea says it will expand naval operations closer to strait of Hormuz",
+   "outlet": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/05/south-korea-to-expand-anti-piracy-unit-strait-of-hormuz",
    "region": "overseas",
    "category": null,
-   "score": 9,
+   "score": 7,
    "tier": "interest",
-   "pubDate": "2026-11-04T22:37:49.425Z",
+   "pubDate": "2026-11-05T22:41:18.521Z",
    "body": null,
-   "summary": "スペインの運輸相は、1年足らずで2件起きた高速鉄道の死亡事故を受けて辞任すると表明した。今回の事故は、カスティーリャ＝ラマンチャ州ウルダ付近で起き、国営レンフェの高速列車が停止中のイリオ社の列車に後方から衝突した。69人が死亡し、100人以上が負傷した。前回は1月にアンダルシア州の町付近で起き、46人が死亡した。政府は解散総選挙を控え、鉄道への信頼回復を急いでいるという。",
+   "summary": "韓国国防省は、海賊対策部隊「清海部隊」の活動海域をオマーンのドゥクム付近まで広げる方針を示した。部隊は海峡の内側には入らず、非戦闘目的とする。ソマリア沖では今年、海賊事件が36件報告され、2025年1年間の11件を上回っている。実行には、国会の承認と大統領、閣議の承認が必要だ。トランプ米大統領はイラン戦争への韓国の支援が不十分だと批判しており、その圧力を受けた形だ。",
    "sources": [
-    {
-     "outlet": "Sky News",
-     "url": "https://news.sky.com/story/spains-transport-minister-oscar-puente-to-resign-after-train-crash-killed-69-people-13607610",
-     "date": "2026-11-05",
-     "access": "excerpt",
-     "via": null,
-     "note": "Spain's transport minister to resign after train crash killed 69 people"
-    },
     {
      "outlet": "The Guardian",
-     "url": "https://www.theguardian.com/world/2026/nov/04/spains-deadly-train-crashes-have-damaged-public-trust-in-the-system",
-     "date": "2026-11-05",
+     "url": "https://www.theguardian.com/world/2026/nov/05/south-korea-to-expand-anti-piracy-unit-strait-of-hormuz",
+     "date": "2026-11-06",
      "access": "body",
      "via": null,
-     "note": "Spain’s deadly train crashes have damaged public confidence in the system"
+     "note": "South Korea says it will expand naval operations closer to strait of Hormuz"
     },
     {
-     "outlet": "New York Times",
-     "url": "https://www.nytimes.com/2026/11/03/world/europe/spain-train-crash-transport-minister-resigns-oscar-puente.html",
-     "date": "2026-11-05",
-     "access": "excerpt",
-     "via": null,
-     "note": "Spain’s Transport Minister Resigns After Deadly High-Speed Rail Crash"
-    }
-   ],
-   "continuity": {
-    "previousDate": "2026-10-29",
-    "previousScore": 40,
-    "note": "7日連続で報じられている"
-   },
-   "coverage": {
-    "world": "3/18",
-    "jp": "0/6",
-    "worldTotal": 18,
-    "jpTotal": 6
-   },
-   "bodyAvailable": true,
-   "discussionUrl": null,
-   "summarizedBy": "claude-haiku-5-5"
-  },
-  {
-   "id": "intl-brief-2026-11-05-s-20261105-09",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "gap",
-   "headline": "マスク氏支援の共和党候補敗北、テスラ株3.6%安",
-   "originalTitle": "Musk-backed candidates lose midterms despite financial backing",
-   "outlet": "France 24",
-   "url": "https://www.france24.com/en/musk-backed-candidates-lose-midterms-despite-financial-backing",
-   "region": "overseas",
-   "category": null,
-   "score": 8,
-   "tier": "interest",
-   "pubDate": "2026-11-04T22:37:49.425Z",
-   "body": null,
-   "summary": "イーロン・マスク氏は、今回の中間選挙で共和党系候補に4億ドル超を投じたと報じられたが、共和党は敗れた。テキサス州知事選では民主党のジーナ・ヒノホサ氏がグレッグ・アボット氏を破り、30年以上続いた共和党の支配が終わった。テスラ株は3.6%、SpaceX株は3.2%下落した。マスク氏は、民主党が自社への調査を検討していると報じられた後、Xで報復を示唆していた。",
-   "sources": [
-    {
-     "outlet": "France 24",
-     "url": "https://www.france24.com/en/musk-backed-candidates-lose-midterms-despite-financial-backing",
-     "date": "2026-11-05",
-     "access": "excerpt",
-     "via": null,
-     "note": "Musk-backed candidates lose midterms despite financial backing"
-    },
-    {
-     "outlet": "Times of India",
-     "url": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/midterm-gamble-sliding-stocks-elon-musks-pricey-election-hangover-continues/articleshow/135546768.cms",
-     "date": "2026-11-05",
+     "outlet": "Euronews",
+     "url": "https://www.euronews.com/2026/11/05/south-korea-plans-to-extend-anti-piracy-patrols-closer-to-strait-of-hormuz",
+     "date": "2026-11-06",
      "access": "body",
      "via": null,
-     "note": "Midterm gamble, sliding stocks: Elon Musk's pricey election hangover continues"
-    },
-    {
-     "outlet": "Bloomberg",
-     "url": null,
-     "date": "2026-11-05",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Musk’s Texas Gamble Becomes Liability With Democrats Taking Over - Bloomberg.com"
+     "note": "South Korea plans to extend anti-piracy patrols closer to Strait of Hormuz"
     }
    ],
    "continuity": null,
    "coverage": {
-    "world": "3/18",
+    "world": "2/18",
     "jp": "0/6",
     "worldTotal": 18,
     "jpTotal": 6
@@ -934,43 +1090,43 @@
    "summarizedBy": "claude-haiku-5-5"
   },
   {
-   "id": "intl-brief-2026-11-05-s-20261019-19",
+   "id": "intl-brief-2026-11-06-s-20261030-18",
    "stream": "intl",
    "depth": "brief",
    "section": "gap",
-   "headline": "英国人医療従事者がエボラに感染、英国へ搬送へ",
-   "originalTitle": "British healthcare worker with Ebola evacuated from DR Congo to UK",
-   "outlet": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/04/british-healthcare-worker-ebola-evacuated-drc-to-uk-document-shows",
+   "headline": "ホルムズ海峡でタンカー5隻が火災、イラン発表",
+   "originalTitle": "Iran says tankers struck in Hormuz amid fears of new US attack",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/5/iran-says-tankers-struck-in-hormuz-amid-fears-of-new-us-attack?traffic_source=rss",
    "region": "overseas",
    "category": null,
-   "score": 8,
+   "score": 6,
    "tier": "interest",
-   "pubDate": "2026-11-04T22:37:49.425Z",
+   "pubDate": "2026-11-05T22:41:18.521Z",
    "body": null,
-   "summary": "英政府は、コンゴ民主共和国で活動する英国籍の医療従事者がエボラ検査で陽性となったと発表した。患者は安定した状態で、英国の感染症専門施設に搬送される予定だという。人道支援団体が派遣した人物で、今回の流行で英国籍者の感染は初めてとされる。流行はコンゴ当局が5月15日に宣言し、感染者は1万人、死者は5000人を超えた。原因のブンディブギョウイルスには承認された治療法がない。英政府は、英国民へのリスクは低いと説明している。",
+   "summary": "イラン革命防衛隊と軍は、ホルムズ海峡でタンカー5隻とタグボート1隻が火災を起こしたと発表した。革命防衛隊は、許可されていない航路を通った船が機雷に触れたなどと説明した。海峡は2月に始まったイランとの戦争以降、通航が厳しく制限されてきた。通常は世界の石油消費の約5分の1が通る要衝だ。アルジャジーラは、戦争が解決しない限り海運は危険にさらされ続けると伝えた。",
    "sources": [
     {
-     "outlet": "The Guardian",
-     "url": "https://www.theguardian.com/world/2026/nov/04/british-healthcare-worker-ebola-evacuated-drc-to-uk-document-shows",
-     "date": "2026-11-05",
+     "outlet": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/5/iran-says-tankers-struck-in-hormuz-amid-fears-of-new-us-attack?traffic_source=rss",
+     "date": "2026-11-06",
      "access": "body",
      "via": null,
-     "note": "British healthcare worker with Ebola evacuated from DR Congo to UK"
+     "note": "Iran says tankers struck in Hormuz amid fears of new US attack"
     },
     {
-     "outlet": "Reuters",
-     "url": null,
-     "date": "2026-11-05",
+     "outlet": "South China Morning Post",
+     "url": "https://www.scmp.com/news/world/middle-east/article/3373454/iran-says-5-tankers-catch-fire-after-striking-naval-mines-strait-hormuz",
+     "date": "2026-11-06",
      "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "British healthcare worker with Ebola to be evacuated from Congo to UK, document shows - Reuters"
+     "via": null,
+     "note": "Iran says 5 tankers catch fire after striking naval mines in Strait of Hormuz"
     }
    ],
    "continuity": {
-    "previousDate": "2026-10-19",
-    "previousScore": 27,
-    "note": "6日連続で報じられている"
+    "previousDate": "2026-10-30",
+    "previousScore": 11,
+    "note": "3日連続で報じられている"
    },
    "coverage": {
     "world": "2/18",

@@ -1,0 +1,2643 @@
+{
+ "date": "2026-11-06",
+ "generatedAt": "2026-11-05T22:41:18.521Z",
+ "measured": {
+  "world": 18,
+  "jp": 6
+ },
+ "unreachable": [],
+ "ranking": [
+  {
+   "id": "s-20261106-02",
+   "title": "パラグアイ大統領が辞任、銀行破綻受け",
+   "firstSeen": "2026-11-06",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-06": 41
+   },
+   "peak": 41,
+   "worldScore": 41,
+   "worldCoverage": "12/18",
+   "jpScore": 14,
+   "jpCoverage": "2/6",
+   "gap": 27,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.84,
+     "title": "Paraguay President Santiago Peña resigns after bank collapse",
+     "desc": "The move follows a bank collapse and after the lower house of congress voted in favour of pursuing an impeachment trial against him.",
+     "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.94,
+     "title": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis",
+     "desc": "Santiago Peña’s rightwing administration had authorised Ueno Bank to drastically expand operations before collapse Paraguay’s rightwing president, Santiago Peña, resigned on Thursday after a political and financial crisis collapsed the South American country’s banking system in recent days. At the centre of the crisis is Ueno Bank, which in just a few years under Peña went from an obscure digital bank to one of the country’s largest lenders, claiming to have about 60% of Paraguay’s adult population as customers. Continue reading...",
+     "url": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Paraguay President Pena resigns in wake of bank collapse",
+     "desc": "President Pena, a Trump ally, had faced an impeachment motion and protests after the collapse of digital lender ueno.",
+     "url": "https://www.aljazeera.com/economy/2026/11/5/paraguay-president-pena-resigns-in-wake-of-bank-collapse?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.62,
+     "title": "Paraguay’s President, Santiago Peña, Quits Amid Ueno Bank Scandal",
+     "desc": "The president of the South American nation, Santiago Peña, has apologized for failing to prevent its worst financial crisis in decades.",
+     "url": "https://www.nytimes.com/2026/11/05/world/americas/paraguay-santiago-pena-resigns.html",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Paraguay's president Peña impeached moments after resigning over banking scandal",
+     "desc": "Paraguay’s lower house voted unanimously to impeach President Santiago Peña on Thursday, just minutes after he announced his resignation on X. Protesters have rallied in the streets since the takeover of a bank linked to Peña blocked millions of people, including pensioners, from accessing their money.",
+     "url": "https://www.france24.com/en/americas/20261105-paraguay-s-president-pe%C3%B1a-impeached-moments-after-resigning-amid-banking-scandal",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Paraguayan president resigns amid bank collapse leaving 3M people without access to bank accounts",
+     "desc": "Santiago Peña resigned as president of Paraguay amid the Ueno Bank crisis and was later impeached over an alleged conflict of interest. Vice President Pedro Alliana will take office, while millions of Paraguayans wait to recover their deposits.",
+     "url": "https://www.euronews.com/2026/11/05/paraguayan-president-resigns-amid-bank-collapse-leaving-3m-people-without-access-to-bank-a",
+     "via": null
+    },
+    {
+     "id": "npr",
+     "name": "NPR",
+     "region": "world",
+     "weight": 1,
+     "title": "Paraguay's president is impeached minutes after resigning following a bank collapse",
+     "desc": "Paraguayan lawmakers voted to impeach President Santiago Peña minutes after his resignation, as the collapse of a digital bank tied to his government froze millions of people's savings.",
+     "url": "https://www.npr.org/2026/11/05/nx-s1-6030842/paraguay-president-impeached-bank-collapse",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Paraguay’s President Pena resigns under mounting pressure from bank collapse",
+     "desc": "Paraguayan President Santiago ⁠Pena resigned ⁠on Thursday as calls ⁠for his removal swelled following the collapse of digital lender Ueno that left millions of customers unable to access their accounts. “I do so with the stability of our country, ‌social peace, and the need to preserve our democratic institutions in mind,” he said in a video recorded address on Thursday. Pena, an ally of US President Donald Trump, is stepping down after the opposition called an extraordinary session to begin the...",
+     "url": "https://www.scmp.com/news/world/americas/article/3373458/paraguays-president-pena-resigns-under-mounting-pressure-bank-collapse",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Explainer-What is ueno bank and how did it trigger Paraguay's political crisis?",
+     "desc": "Nov 5 - Paraguay's President Santiago Peña resigned on Thursday after the collapse of ueno, a prominent commercial bank with ties to his government.",
+     "url": "https://www.straitstimes.com/world/explainer-what-is-ueno-bank-and-how-did-it-trigger-paraguays-political-crisis",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Explainer: What is ueno bank and how did it trigger Paraguay's political crisis? - Reuters",
+     "desc": "Explainer: What is ueno bank and how did it trigger Paraguay's political crisis? Reuters",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTXhGQVB4TkhRLUdwZWF3MlJxV0k3VmpHNlRGQ0NpZEpDU2NsZFdpTnF5LVFZZFlYUkFSQU1BWThoSmsxVVV6MFV1RGxpRGwzR3Z2US04MDd4b05zaC1FMG9fcVUzREl1TXVZY2NSNjRCdklramgyaXhhZnJXYXctWXpWb21MNzdQUTlpWVh3N3dzdTF4TWRhUVhwWV8xamxEMkM5aThVaW5XdDZyMG4xZ3JkRVlhMWs?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Paraguay prosecutor will seek charges against embattled President Peña following bank collapse - AP News",
+     "desc": "Paraguay prosecutor will seek charges against embattled President Peña following bank collapse AP News",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQam96dk1BWFZKQ0pzUHlCZ2FpdEkzUWRqbks0di1NdW9jSE16M1F2c3lwMkphbkEzT0JZNzYxTzdnTkxMcjF4b3U1T25ESkNjQXpmU0ItLVhfanZiaUVsWkpNcUl2ZUNoa3MxRFlHRGRNam9rRzVVblF5bjV5UTAtYW9NVldrSG1QcWwyOXJ1eG1KcFlpbFRjbmtOVGNSSFU0aGxpM1lrd0N1YVhGZWUyNmxXdFRXZVh5dnFVMTBVbERkNldBSWpN?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Bank Collapse Takes Down a President and Trump Ally in Paraguay - Bloomberg.com",
+     "desc": "Bank Collapse Takes Down a President and Trump Ally in Paraguay Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd1lQWTBZWjJNZ3ZVcXpHeHU5aFZhcFp0VWVpbmp0enFzWmozZ1pCOWUtWUEySGJjbFVueGpDV3BaRV8xc294MzAwcEJsY1pMQXFxemNrM0dqcktMZXZUb3EwNk9PdHN1WFNEYlF3S04tbkMxODJBY2dVRV9WbzhJeFFmcG4yUHN5ZG52N3JSNkFxRjVvY0p0a0NONENrRF9DYXNZOTFNYnQ3VFp4QUVzTkhQMXdZcXl3?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "パラグアイ大統領が辞任 銀行破綻で窮地",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026110600135&g=int&m=rss",
+     "via": null
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.36,
+     "title": "パラグアイ大統領が辞任 デジタル銀行破綻で混乱(共同通信)",
+     "desc": "【サンパウロ共同】南米パラグアイのペニャ大統領が5日、辞任した。同国の大手デジタル銀行「ウエノバンク」の破綻を受け、預金者らが抗議デモを実施するなど混乱が拡大。地元メディアによると、ウエノバンクは公的",
+     "url": "https://news.yahoo.co.jp/articles/abbce3e47a83c47385c867bb9e3932d53f81dcc4?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261106-01",
+   "title": "欧州の旅客機に爆破予告が相次ぐ",
+   "firstSeen": "2026-11-06",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-06": 30
+   },
+   "peak": 30,
+   "worldScore": 30,
+   "worldCoverage": "9/18",
+   "jpScore": 17,
+   "jpCoverage": "2/6",
+   "gap": 13,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 1,
+     "title": "Hoax bomb threats target European airlines and airports for second time in a week",
+     "desc": "At least 21 flights across Europe are affected in what the UK government calls a \"malicious hoax threat\".",
+     "url": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.56,
+     "title": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
+     "desc": "Planes forced into emergency landings or diversions two days after hoax alerts affected air travel Why have more than 30 European flights been hit by bomb threats this week? Hoax bomb threats have caused at least 25 flights across Europe to be disrupted, with some forced to make emergency landings, as questions mount over an apparently coordinated effort to cause chaos for travellers. The series of warnings on Thursday affected flights between Italy, Ireland, the UK, Spain, Bulgaria, Romania, Poland, Finland, Austria, Denmark, Belgium, Portugal, France, Greece, Serbia and Czechia. Continue rea",
+     "url": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Hoax bomb threats force emergency landings, evacuations across Europe",
+     "desc": "Bomb threats are causing travel disruptions at airports across Europe, targeting at least 27 flights.",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/hoax-bomb-threats-force-emergency-landings-evacuations-across-europe?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.91,
+     "title": "Bomb Threats Disrupt European Flights and Rattle Passengers",
+     "desc": "Passengers recounted landing at a military base and being subjected to security checks and travel delays after threats that turned out to be hoaxes affected planes in Italy, Poland and Spain.",
+     "url": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-airline-passengers.html",
+     "via": null
+    },
+    {
+     "id": "dw",
+     "name": "Deutsche Welle",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Bomb threats disrupt several flights across Europe",
+     "desc": "At least a dozen flights were either diverted or landed with a military escort after bomb or security threats. The first reported case involved a flight from Dublin to Rome landing outside Paris and more soon followed.",
+     "url": "https://www.dw.com/en/bomb-threats-disrupt-several-flights-across-europe/a-79861216?maca=en-rss-en-world-4025-rdf",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Europe: Dozens of flights diverted following bomb threats",
+     "desc": "Hoax bomb threats hit at least 27 affected flights around Europe this week.",
+     "url": "https://www.france24.com/en/video/20261105-europe-dozens-of-flights-diverted-following-bomb-threats",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Hoax bomb threats affect at least 20 European flights within hours",
+     "desc": "At least 20 flights in Europe deal with bomb threats, adding to what one expert calls an unusual level of hoaxes in a short time period, suggesting \"a very deliberate act.\"",
+     "url": "https://www.cbsnews.com/news/europe-flights-airlines-hoax-bomb-threats/",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Fear, sniffer dogs and fighter jets after bomb threats hit European flights",
+     "desc": "More than two dozen flights were disrupted this week after European airlines were targeted by bomb threats.",
+     "url": "https://www.straitstimes.com/world/europe/fear-sniffer-dogs-and-fighter-jets-after-bomb-threats-hit-european-flights",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Here’s what happens when airlines receive bomb threats - AP News",
+     "desc": "Here’s what happens when airlines receive bomb threats AP News",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMWFsZGlIUExzeDBTWm9KRlBBNzNhcFp2X0JTOWZwVGxsZ25ZelktU29CMWtXMHgzdENaMG1LYVdJNDdSS3BmTWxxYmZaeHhvMlR3emFWY0x1bndaRGlIbWJOZW1icnRhUkx5M0R1RE13YW5vR2tWWlhpb2N4ZlBYb2NLT1lBNDhIY2szckZHNlhsSHlZeTVMZGRJTQ?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "mainichi",
+     "name": "毎日新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "欧州発着の旅客機15便に爆発物情報 一部緊急着陸 空軍護衛も",
+     "desc": "",
+     "url": "https://mainichi.jp/articles/20261105/k00/00m/030/418000c",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "欧州の旅客機25便超に爆破予告、目的地変更や戦闘機護衛 - 日本経済新聞",
+     "desc": "欧州の旅客機25便超に爆破予告、目的地変更や戦闘機護衛 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ORDhnNHhMai1qQXdmMDUweldqV0lkYjc4Y2JPZG9TTVFkYmY5Y2lkdW1WdFgzYTlrNmRyNW9qZVF1dkIyZHc3Q0lkRzhzWEMtOHRJeFczWEVfc3pGcHM5TzJ3bVNIcExRV3NaVQ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261106-08",
+   "title": "ラッセル・ブランド被告、性的暴行で有罪",
+   "firstSeen": "2026-11-06",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-06": 25
+   },
+   "peak": 25,
+   "worldScore": 25,
+   "worldCoverage": "8/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 25,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "British comedian Russell Brand found guilty of rape, sexual assault",
+     "desc": "A London jury on Thursday convicted British comedian and actor Russell Brand of one count of rape and three counts of sexual assault.",
+     "url": "https://www.france24.com/en/europe/20261105-british-comedian-russell-brand-found-guilty-of-rape-sexual-assault",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "British comedian Russell Brand found guilty of rape and three sexual assaults by London jury",
+     "desc": "Russell Brand was convicted of four sexual offences, one rape and three sexual assaults, involving four women between 2005 and 2009 in different locations.",
+     "url": "https://www.euronews.com/2026/11/05/british-comedian-russell-brand-found-guilty-of-rape-and-three-sexual-assaults-by-london-ju",
+     "via": null
+    },
+    {
+     "id": "npr",
+     "name": "NPR",
+     "region": "world",
+     "weight": 0.91,
+     "title": "Russell Brand is convicted of rape, and judge says he'll get a prison term",
+     "desc": "A prosecutor described Brand as a ruthless, calculating, manipulative \"sexual predator.\" Brand, 51, denied the charges, saying he had never forced anyone to do something against their will.",
+     "url": "https://www.npr.org/2026/11/05/nx-s1-6030720/russell-brand-rape-sexual-assault-prison",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "British actor Russell Brand faces prison after rape, sexual assault conviction",
+     "desc": "Russell Brand was convicted on Thursday of rape and sexual assault charges on allegations dating back more than 20 years. Judge Joel Bennathan said Brand would receive a prison term when he is sentenced on Monday. He was taken into custody. A prosecutor said the British actor-comedian was a ruthless, calculating, manipulative “sexual predator”. The 51-year-old denied the charges and testified that he was obsessed with sex as a young man and once led a promiscuous life but had never forced anyone...",
+     "url": "https://www.scmp.com/news/world/europe/article/3373453/british-actor-russell-brand-faces-prison-after-rape-sexual-assault-conviction",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Russell Brand found guilty of rape and sexual assault",
+     "desc": "Actor and comedian Russell Brand was accused of three counts of rape, three counts of sexual assault and one charge of attempted indecent assault.",
+     "url": "https://www.cbsnews.com/news/russell-brand-found-guilty-rape-sexual-assault-verdict/",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Details of Russell Brand's convictions - Reuters",
+     "desc": "Details of Russell Brand's convictions Reuters",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRFZ0cDliQmlmYXNmVFZqZ1RGMUxfUnFkMmY2ZlJQckV2Z0dJOFhZcjR6a0djM2tJWWEteTV3MDFZakthZnhIR3FzU1RkcWFKakJiVmRBa1djYWRpNU5WRlNfLW02Q0tuNzlzYWFpSmJNa0hnVWVPaEMyN2dDWmIxUjVaN3hKNWZ4NUVDdXI1Vl8yV21pdG9EeQ?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Russell Brand is convicted of rape, and judge says he’ll get a prison term - AP News",
+     "desc": "Russell Brand is convicted of rape, and judge says he’ll get a prison term AP News",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVHdmLUw5N2gyTG9jUURDdEtNLVVJRmlOcnhEWEJ2OWJrNUQxT1hWWlZFZjNGZWI0LUt5RzVrTzh1X1FGZ29iTGFQWm4yTTR4bHVPSTQ1amxQY1FHdjZuUTRjQmNTNHhaUzEzTFQteXc0YnpETGtzX1pBVzJ6bzlUZTRIQUpPdWVEZE1QRVhBVVg4RFd4Z2VDeVZ4RVJkUWZL?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Russell Brand found guilty of rape and sexual assault - Financial Times",
+     "desc": "Russell Brand found guilty of rape and sexual assault Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYllZN0t6NXZMRFFXLXRvdTFfRFpaSllyTGhRNmxqcmpTbTlUcUhWaGlsVVpBMDl6UjNxX2htV3R4Q2xjNGMxWTVaYjd1bG43cjBUdm1venMzbzhEMldMU3R1cGdaV3c3TFVHNk9CSThOQVBjNGNyekEwWi1QVVpqTnF6ME4?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261106-17",
+   "title": "米ハイテク株が急落、ダウ1800ドル超安",
+   "firstSeen": "2026-11-06",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-06": 25
+   },
+   "peak": 25,
+   "worldScore": 25,
+   "worldCoverage": "8/18",
+   "jpScore": 38,
+   "jpCoverage": "4/6",
+   "gap": -13,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.75,
+     "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+     "desc": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms",
+     "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "AI stocks plunge after US election, driving down markets",
+     "desc": "Tech stocks lead US market slide as investors weigh impact of midterm election results on AI industry.",
+     "url": "https://www.aljazeera.com/economy/2026/11/5/ai-stocks-plunge-after-election-driving-down-us-markets?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "AI storm dooms tech stocks to US$2 trillion decline on darkest day since 2025",
+     "desc": "Big tech stocks slumped on Thursday in their biggest decline since ⁠the “Liberation Day” rout last year, extending what has ⁠been a punishing autumn for the AI trade. The Nasdaq 100 index ⁠was set for market value declines exceeding US$2 trillion on investor fears that the Democratic Party’s sweeping midterm victory could stall AI infrastructure expansion and force a chaotic reckoning for smaller firms whose capacity to raise funds has already been limited by higher interest rates and tighter...",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3373465/ai-storm-dooms-tech-stocks-us2-trillion-decline-darkest-day-2025",
+     "via": null
+    },
+    {
+     "id": "abc-au",
+     "name": "ABC Australia",
+     "region": "world",
+     "weight": 0.74,
+     "title": "Live: Tech stocks nosedive as Wall Street suffers mass sell-off following midterms",
+     "desc": "The Australian share market is likely to open lower as investors shy away from the tech bros after an overseas sell-off overnight. Follow live.",
+     "url": "https://www.abc.net.au/news/2026-11-06/asx-markets-business-live-news/107353758",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Wall Street fear gauge jumps most since 'Liberation Day' as AI trade stumbles - Reuters",
+     "desc": "Wall Street fear gauge jumps most since 'Liberation Day' as AI trade stumbles Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWjhqRms1YmpjV2l6LW1FMTllNnp5R3BoZzc3TExxXzJUVGk1RmNCbkQ0d3pGN05WSHBsX0RldGJ4UWxoWjd4VmpLT1RabTJQNDA5cmV5QXV4RG1ITHVBQUsxNEJla1pnWXJIYWhHTE9waEZCaUpud0dQX3lQVzZmUTlEalJLX29nSTBrcVFrLUdaSVU2cDRDNUFfbE03ZEZqcHhCbEN0My1zZmJYaXVtOWpYdUpEVDhL?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "A brutal sell-off for AI stocks sends Wall Street reeling, and the S&P 500 tumbles 4.4% - AP News",
+     "desc": "A brutal sell-off for AI stocks sends Wall Street reeling, and the S&P 500 tumbles 4.4% AP News",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcE43QWpUdHk2WE5qUmd4Z0hjYlBqQ3FGLUVoRlBTbmN4c1JJbWZpeUJmTXhpalZzaTNGMzVweE5wNDRJdnRSMzRENURHaGRIejdqbnVObV9KNEp6R0p0ZnAzT3Y5WGVYejV6VWc0dGZheFVWdG9IVDljNjMxVmVDVGpYZlpwN19nVzBibDdqVmRJOXV3Vk9YdFRiSQ?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Chips Selloff Worsens as Fears About AI Trade Grip Stock Market - Bloomberg.com",
+     "desc": "Chips Selloff Worsens as Fears About AI Trade Grip Stock Market Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWXhpS3pHOUtRckZzVEhDZ1ZZZ29uMHE0N3RSWHZsZ2IzZTJ5ZjBaYURBRWxiNjRsVkFXbExXT2c0a1d4VUx6T2otWDJZanpJVlMtc0g2QjZhaW5uYVRZdGNVT2NOd2RjTERhbE9KbU9lblpDR0FUOEZDbXFWRlNEd0JYWWtORGE3cEt1REdkZ0R5N2dfYW1fSFphX2Z0RkxhWThRRzZsMy1wMS1EZ2x2LW52Yzk?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Wall Street sheds $3.2tn as Democratic midterm sweep triggers brutal AI rout - Financial Times",
+     "desc": "Wall Street sheds $3.2tn as Democratic midterm sweep triggers brutal AI rout Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcHlBYVkxbFlvTVp3LTZ3bTlSbEFSeXdFSnJlb1c2Mi1HVF9GZDMwd2pPLUZrR09hRjIyUEZYS3NZTENMVzJ0SGJKanpSa3ZsS1VGaFU2TjRQN3o2Q1I1dDBJeFBsLVNITE9JV2xsZ1JhYlI5OTYyTXVFMG9qQ0JYVHNBRFQ?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "mainichi",
+     "name": "毎日新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "NYダウ急落、一時1800ドル超安 AI先行き懸念で売り拡大",
+     "desc": "",
+     "url": "https://mainichi.jp/articles/20261106/k00/00m/030/012000c",
+     "via": null
+    },
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "ＮＹダウは１８００ドル超安で取引を終えた",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026110600159&g=flash&m=rss",
+     "via": null
+    },
+    {
+     "id": "yahoo",
+     "name": "Yahoo!ニュース主要",
+     "region": "jp",
+     "weight": 0.8,
+     "title": "NYダウ急落 一時1800ドル超安",
+     "desc": "",
+     "url": "https://news.yahoo.co.jp/pickup/6601477?source=rss",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "米ナスダック5%急落、NYダウ1800ドル安 AI株が総崩れ - 日本経済新聞",
+     "desc": "米ナスダック5%急落、NYダウ1800ドル安 AI株が総崩れ 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWaTdyQXhGNUw3VWU4UHhUenljVGhmUkxxYUF2ejJwLVFQWEhmVVQyMjJWcXRtVW9wUWExVDhUdnVDb2V5VFoybjZnNEo4d2ROQ1dwWVE2a01UUzlKdHJTUVNKTHp4T3ZWZm9uRA?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261106-04",
+   "title": "フランス全土で大規模ストとデモ",
+   "firstSeen": "2026-11-06",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-06": 24
+   },
+   "peak": 24,
+   "worldScore": 24,
+   "worldCoverage": "8/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 24,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.88,
+     "title": "French protests see numbers surge as unions join strikes over high cost of living",
+     "desc": "The interior ministry estimates 600,000 people joined protests across France, while the unions say the number was far higher.",
+     "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Protesters march in cities across France as unions stage general strike",
+     "desc": "Hundreds of thousands demonstrate over cost of living and cuts to public services as 70,000 police officers deployed Hundreds of thousands of people have marched in cities across France in the latest round of street demonstrations, as trade unions put pressure on the government with a general strike over the cost of living and cuts to public services. Striking teachers, hospital staff and rail workers joined high school and university students in largely peaceful demonstrations in Paris and other cities on Thursday amid a high police presence of 70,000 officers. Continue reading...",
+     "url": "https://www.theguardian.com/world/2026/nov/05/protesters-france-march-strikes-education-cost-of-living",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Mass protests in France driven by nationwide strike action",
+     "desc": "More than 250,000 people took to the streets across France on Thursday as five unions called a day of strike action.",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/mass-protests-in-france-driven-by-nationwide-strike-action?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.39,
+     "title": "After Barricades, Riots and Protests, French Workers Go on Strike",
+     "desc": "Hundreds of demonstrations took place across France on Thursday, escalating weeks of protests against the rising cost of living.",
+     "url": "https://www.nytimes.com/2026/11/05/world/europe/france-protests-general-strike.html",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "French protests: 'It's only when public, private sector act together that you can make changes'",
+     "desc": "“You can be as repressive as you want. The grievances are still here.” With this stark observation, Ariane Bogain, lecturer in French and politics at Northumbria University, captures the central dilemma confronting the French government: how can political authority be restored when the social and economic grievances driving public anger remain unresolved? Bogain and French politics editor Marc Perelman join Delano D'Souza to examine a protest movement that has evolved beyond its initial demands over purchasing power, fuel prices and education into a broader challenge to the French government. ",
+     "url": "https://www.france24.com/en/video/20261105-french-protests-it-s-only-when-public-private-sector-act-together-that-you-can-make-changes",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "France: Up to 55,000 march in Lyon amid clashes and tear gas",
+     "desc": "Tens of thousands marched through Lyon area during a nationwide strike over wages and purchasing power. Police charged demonstrators and used tear gas as clashes erupted along the protest route.",
+     "url": "https://www.euronews.com/video/2026/11/05/france-up-to-55000-march-in-lyon-amid-clashes-and-tear-gas",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Mass protests sweep France again, as workers strike and march for ‘dignified wage’",
+     "desc": "Hundreds of thousands of striking workers protested across France on Thursday against the rising cost of living following weeks of youth-led demonstrations, with police firing tear gas as clashes broke out in some cities. The marches come as the euro zone’s second-largest economy battles to redress its dire finances, six months ahead of elections to replace President Emmanuel Macron, with the far-right leading in the opinion polls. While the CGT union put Thursday’s turnout at 1.6 million across...",
+     "url": "https://www.scmp.com/news/world/europe/article/3373463/mass-protests-sweep-france-again-workers-strike-and-march-dignified-wage",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Mass protests sweep France as huge crowds demand higher wages, back students' demands - AP News",
+     "desc": "Mass protests sweep France as huge crowds demand higher wages, back students' demands AP News",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZEJaYWtWXzlvUUg3S0dxQ29sX2J2YzlEb1I3YUhzUjVtTVJKa0piZnNnS1B6VGJLZmZtaVFlUDA4YmpUQjl2NHFTN28xaklmbnNuWHJXMHVURGw4RkJBd0hTVmFqMkJtRVVwS09XaktkZWNsZVJYcmVnOFUwUFZvY3J3YW9vUkZuRy1kc0kyOWRGSkpJOC0zUk50TlM0NXUza1ZSZjM5cmQ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261106-03",
+   "title": "カリフォルニア州、死刑囚548人を減刑へ",
+   "firstSeen": "2026-11-06",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-06": 22
+   },
+   "peak": 22,
+   "worldScore": 22,
+   "worldCoverage": "7/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 22,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.92,
+     "title": "California governor commutes sentences for state's 548 death row inmates",
+     "desc": "California has historically had the largest population of people on death row in the US.",
+     "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "'Inhumane punishment': Governor Gavin Newsom to commute all 548 California death sentences",
+     "desc": "California Governor Gavin Newsom on Thursday said he would commute all 548 death sentences in the state to life in prison without parole, marking a major step away from capital punishment as he prepares to leave office after eight years.",
+     "url": "https://www.france24.com/en/americas/20261105-inhumane-punishment-california-governor-gavin-newsom-to-commute-548-death-sentences",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "California Governor Newsom granting clemency to all 548 death row inmates in state",
+     "desc": "⁠California Governor Gavin Newsom said ⁠on Thursday he would commute ⁠the death sentences of all 548 inmates currently condemned to execution in his state, the largest death row in the western hemisphere. The announcement, in a three-page letter addressed to “all Californians”, came as Newsom, a Democrat who is expected ‌to seek his party’s presidential nomination in 2028, neared the end of his second and final four-year term as governor. Newsom, who previously served as mayor of San Francisco...",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3373467/california-governor-newsom-granting-clemency-all-548-death-row-inmates-state",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "California governor Newsom says commuting all death sentences in state",
+     "desc": "The move that will affect over 500 prisoners.",
+     "url": "https://www.straitstimes.com/world/united-states/california-governor-newsom-says-commuting-all-death-sentences-in-state",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "California governor to grant clemency to all 548 death row inmates in state - Reuters",
+     "desc": "California governor to grant clemency to all 548 death row inmates in state Reuters",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONFpTdTN5c1lMaW81c2hwQkJjQ2E3U1hWWGVTUjlraUJoLVNxdGcybWNVY1FXMm03MXZkeWEwVWpabEcwdW9qRkxBeXhZRGlJRUp2NVl0T1pjWFBNRE9hX21ySTVraGxaTm54OS1TXzB6NXJLY2NkQ3JURnluWWpEM0g0VmRGMm1XczdBR1ZTVjZFRkxzejg3UjJ5eTNCZmxlbXVmczZ6bmZYd3Q0aE82LQ?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "California Gov. Newsom says he will commute all death sentences in state to life without parole - AP News",
+     "desc": "California Gov. Newsom says he will commute all death sentences in state to life without parole AP News",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOXM0d1k2ajhHSTBsWmVGM1daSlByM2dqRmttVU9uZjZJVF9fSm1wRTh5TmRFeEhDdlVDREdVcWlpMmIyWElvUm03Tnc5UkZIV2xlUGh0YmEzTTFmb1Etal8xQzB4OW43empXWVJXQVNTRnJkejN0VFc4MGFKRUN5YXdxdlFjbVg4cFFSaHg0T3NMTy1NclB5NUVpR1QwYlJSYlllLWluZmM?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Newsom Commutes Sentences of All California Death Row Inmates - Bloomberg.com",
+     "desc": "Newsom Commutes Sentences of All California Death Row Inmates Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTUp2Z3hXcHEybUdXU2hvcDVVdmluM2ZjTVFWdTF4c1JQSldwTmxXd1hVRGk5QlFmc1JSbjZHVFQ3anoyMFZfbGZrYklJVUllNHNXV0lrbzNmMGNkNVpGekVWQzhuUXFMakQwZWVBckxVd0NsdEZNTmtXOEFXOEYzbkpFS2gxN2JqZTlZRzdiSVJ2YmxCUlpFUERscHM3eHFhZjRuSHZvam43UTBaODVrU0tB?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261106-07",
+   "title": "ロナウド、ポルトガル代表引退を表明",
+   "firstSeen": "2026-11-06",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-06": 19
+   },
+   "peak": 19,
+   "worldScore": 19,
+   "worldCoverage": "7/18",
+   "jpScore": 12,
+   "jpCoverage": "1/6",
+   "gap": 7,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.38,
+     "title": "A bitter end for Ronaldo - the icon who transformed Portugal",
+     "desc": "As Cristiano Ronaldo retires from international football, Guillem Balague looks at why and what is next for the Portugal legend.",
+     "url": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Portugal: Cristiano Ronaldo announces his international retirement",
+     "desc": "Portuguese football legend Cristiano Ronaldo announced on Thursday he was retiring from international football at the age of 41.",
+     "url": "https://www.france24.com/en/video/20261105-portugal-cristiano-ronaldo-announces-his-international-retirement",
+     "via": null
+    },
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 0.65,
+     "title": "Cristiano Ronaldo bows out from national team with emotional message",
+     "desc": "Cristiano Ronaldo has announced his retirement from international football.",
+     "url": "https://news.sky.com/story/cristiano-ronaldo-retires-from-international-football-13608313",
+     "via": null
+    },
+    {
+     "id": "abc-au",
+     "name": "ABC Australia",
+     "region": "world",
+     "weight": 0.42,
+     "title": "Superstar Cristiano Ronaldo retires from international football",
+     "desc": "Cristiano Ronaldo announces his retirement from international soccer after a falling out with Portugal coach Jorge Jesus.",
+     "url": "https://www.abc.net.au/news/2026-11-06/cristiano-ronaldo-announces-retirement-international-football/107353704",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Ronaldo retires from Portugal national team",
+     "desc": "Cristiano Ronaldo says he won&#039;t play for Portugal anymore, ending a career that spanned six World Cups and included a European title and the men&#039;s all-time international scoring record.",
+     "url": "https://www.cbsnews.com/news/ronaldo-retires-portugal-legendary-career/",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Cristiano Ronaldo announces his international retirement from Portugal - AP News",
+     "desc": "Cristiano Ronaldo announces his international retirement from Portugal AP News",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaEVWTFRWMmRwQU1YbE5ldWpVMlh6UHVZM2g4ODZYWnhlU0IybGRnNDRsYWpUQkRtWEJ6MUR5QkE0WGxTV2VabHc0UXQxRVY0OW1yNWwzX0tGMm1NWXNCamYxelY2akFCU3hnUlk2RnpmTDdxd2loZXQyM2lybTZtQ0JjdmpQdDZlQ2ZKZzU4Zk1IS3ZBYTRETkllQ1RpQQ?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Cristiano Ronaldo retires from international football - Financial Times",
+     "desc": "Cristiano Ronaldo retires from international football Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZUh0Z3k1UGhTQjhDWWF1WDlubzJoVmZNME9KSExzRDEzWlhQSVJkczdkV1NSV1EyM2FXdlF1dnc3NkRuZmJSREF4a0NEWWhqM0h6c1B0STN0SVhfZ3JtRGhSUkJ3MHNXNmRZTldXUmVmQVBCVGhOR1c4QXhRR2U1SWI1Wm4?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "asahi",
+     "name": "朝日新聞",
+     "region": "jp",
+     "weight": 0.71,
+     "title": "ポルトガル代表、ロナルドが代表引退 W杯史上初の6大会連続ゴール",
+     "desc": "",
+     "url": "http://www.asahi.com/articles/ASVC54252VC5UTQP00RM.html?ref=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261028-01",
+   "title": "イスラエル総選挙後、組閣協議が本格化",
+   "firstSeen": "2026-10-28",
+   "daysSeen": 8,
+   "history": {
+    "2026-10-28": 32,
+    "2026-10-29": 49,
+    "2026-10-30": 33,
+    "2026-10-31": 23,
+    "2026-11-03": 10,
+    "2026-11-04": 10,
+    "2026-11-05": 10,
+    "2026-11-06": 16
+   },
+   "peak": 49,
+   "worldScore": 16,
+   "worldCoverage": "6/18",
+   "jpScore": 19,
+   "jpCoverage": "2/6",
+   "gap": -3,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.42,
+     "title": "Herzog to meet Israeli election rivals as decision nears on path to power",
+     "desc": "President calls on all parties to help avoid new election after Netanyahu and Eisenkot blocs fell short of majority Israel’s president, Isaac Herzog, was due to meet Benjamin Netanyahu and his chief political rival, Gadi Eisenkot, on Thursday with less than a week left before he decides which of the two men should first try to form a government. A bitterly contested election last month, seen by many observers as one of the most consequential for Israel in many decades, ended with neither Netanyahu nor Eisenkot, a former military general and chief of staff, securing a clear pathway to power. Co",
+     "url": "https://www.theguardian.com/world/2026/nov/05/herzog-netanyahu-eisenkot-israel-election-decision",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "The blame game: How the US midterm shock is shaping Israel’s race for PM",
+     "desc": "The Republican midterm rout is helping shape who leads Israel next, as Netanyahu’s US ties turn toxic.",
+     "url": "https://www.aljazeera.com/news/2026/11/5/the-blame-game-how-the-us-midterm-shock-is-shaping-israels-race-for-pm?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.42,
+     "title": "Israel’s Election Ended With No Clear Winner. These Parties Are Trying to Form a Coalition.",
+     "desc": "Israeli party leaders held discussions with President Isaac Herzog on Thursday about who should get the first chance to form a governing coalition.",
+     "url": "https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-herzog-prime-minister-meetings.html",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Israel's Arab list backs Eisenkot as Netanyahu loses ultra-Orthodox support",
+     "desc": "Israel's largest Arab party grouping said Thursday it would recommend opposition leader Gadi Eisenkot to form the next government, potentially bolstering his bid after Arab-majority lists won a record 19 seats in last week's election and Prime Minister Benjamin Netanyahu lost the support of an allied religious party.",
+     "url": "https://www.france24.com/en/middle-east/20261105-israel-main-arab-list-backs-eisenkot-to-form-government-after-election",
+     "via": null
+    },
+    {
+     "id": "abc-au",
+     "name": "ABC Australia",
+     "region": "world",
+     "weight": 0.56,
+     "title": "Israel's president set to hand Netanyahu rival first chance to form government",
+     "desc": "Neither Mr Netanyahu's Likud-led bloc nor the opposition, led by former military chief Gadi Eisenkot, secured enough seats for a parliamentary majority in last week's election.",
+     "url": "https://www.abc.net.au/news/2026-11-06/israel-president-coalition-talks/107353572",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Arab parties extend a hand to try to topple Netanyahu but challenges remain - AP News",
+     "desc": "Arab parties extend a hand to try to topple Netanyahu but challenges remain AP News",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdEhDWFhNT2VZVzZYNHZpenlNX0V5bTlpaWZDeEUtNkZwUkZGc3lfN3ViOFFDUHdBcUR4Q0Z4bFJZdWdXMTRFT3phbk41Rlc5aDA5ZlAyQ1hUU3dFd0RjNHQyUXdHcnE5WVRSbzFsWEdPamU2MkhjN0FQNTdFajFGQXc5Y2UxaTFNd3FOZVpsZ3Q1YXdLb2E3NWdSRFdlSkgtUDQxaFF3?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "ネタニヤフ氏退陣も、イスラエル総選挙の結果確定 組閣へ協議開始、野党が交渉主導か",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026110500191&g=int&m=rss",
+     "via": null
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.65,
+     "title": "過半数が元軍参謀総長推薦 イスラエル、組閣巡り(共同通信)",
+     "desc": "【エルサレム共同】イスラエルのヘルツォグ大統領は5日、国会総選挙（定数120）で議席を獲得した各党からの意見聴取を終えた。次期政権樹立への組閣に取り組む候補として反ネタニヤフ首相陣営を率いる第2党の中",
+     "url": "https://news.yahoo.co.jp/articles/09cb10ae71d6346291e72f4d937cc8061e95fa7c?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261106-18",
+   "title": "メラニア夫人、露・ウクライナ当局者と会合",
+   "firstSeen": "2026-11-06",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-06": 14
+   },
+   "peak": 14,
+   "worldScore": 14,
+   "worldCoverage": "4/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 14,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.71,
+     "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
+     "desc": "The US first lady was credited by all for playing a key though unspecified role in the ceasefire.",
+     "url": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Melania Trump hosts Russia-Ukraine meeting after Oleshky ceasefire",
+     "desc": "US First Lady Melania Trump has brought Russian and Ukrainian representatives together at the White House.",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/melania-trump-hosts-russia-ukraine-meeting-after-oleshky-ceasefire?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.85,
+     "title": "How Melania Trump Became a Dark-Horse Diplomat on Ukraine",
+     "desc": "Both Moscow and Kyiv say Mrs. Trump’s team was the driving force behind an evacuation of a besieged city. It was also in their interest to deliver her a humanitarian win.",
+     "url": "https://www.nytimes.com/2026/11/05/world/europe/melania-trump-oleshky-ukraine-ceasefire.html",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Melania Trump hosts Ukraine, Russia officials, calls for ‘more enduring’ truce",
+     "desc": "Melania ⁠Trump, US President Donald Trump’s wife, joined representatives ⁠from Russia and Ukraine on Thursday at a White House event to recognise a recent six-day ceasefire she helped broker in the Russian-controlled city of Oleshky. The event followed US officials’ ramped-up efforts to secure a deal to end the conflict between Russia and ‌Ukraine, which began when Russian forces invaded Ukraine in early 2022. A trilateral meeting with officials from the US, Ukraine and Russia is planned for...",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3373459/melania-trump-hosts-ukraine-russia-officials-calls-more-enduring-truce",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261106-19",
+   "title": "カナダでグリズリーに襲われ母娘死亡",
+   "firstSeen": "2026-11-06",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-06": 13
+   },
+   "peak": 13,
+   "worldScore": 13,
+   "worldCoverage": "4/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 13,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.88,
+     "title": "Mother and daughter killed in grizzly bear attack, Canadian authorities confirm",
+     "desc": "Conservation officers say more than one bear may have been involved in attack on women near their home Search teams in Canada have discovered the body of a 20-year-old woman and confirmed that both she and her mother were killed in an attack that conservation officers now believe could have involved multiple grizzly bears. Late on Tuesday, conservation officers in British Columbia said the two women, who were reported missing over the weekend, were located near a trail a short distance from their home. Continue reading...",
+     "url": "https://www.theguardian.com/world/2026/nov/04/canada-bear-attack-mother-daughter-killed",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Canadian Officials Search for Bears After Mother and Daughter Are Killed on Hike",
+     "desc": "Wildlife officers were working to trap grizzly bears along a trail after the remains of the two hikers were found near a remote community in British Columbia this week.",
+     "url": "https://www.nytimes.com/2026/11/05/world/canada/canada-grizzly-bear-attack-mother-daughter-killed.html",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Mother, daughter dead in suspected grizzly bear attack in Canada",
+     "desc": "Family members identified the victims as Jennifer Balcarras and her 20-year-old daughter, Selah Reed.",
+     "url": "https://www.cbsnews.com/news/grizzly-bear-attack-british-columbia-mother-daughter/",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Canadian authorities say multiple grizzlies may have attacked mother and daughter found dead - AP News",
+     "desc": "Canadian authorities say multiple grizzlies may have attacked mother and daughter found dead AP News",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSnhHSjgtSFByNEdJbE1STEozdDdWdDlFMnZFZjY5Ni1qTmlzN3R3UEdST1VueFNpWkZkNnVmQnVoMUhBYXBIajlScDkxWnk2Zllac3JxOEgxU3lIR0d6N092WjNudFhoTHdOME44YVBreVJDR0dobm4wa0dfby0xQ1pZLU9IUmVqWUdtY0hjeGdMcWxrUllfdUJLbnF3V2cxWXlR?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261105-42",
+   "title": "南アフリカ地方選、与党ANCに不満の声",
+   "firstSeen": "2026-11-05",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-05": 15,
+    "2026-11-06": 13
+   },
+   "peak": 15,
+   "worldScore": 13,
+   "worldCoverage": "4/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 13,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.3,
+     "title": "ANC under pressure to reverse South Africa decline",
+     "desc": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
+     "url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.97,
+     "title": "ANC faces anger over poor services as South Africans vote in local elections",
+     "desc": "Party expected to get less than a third of the vote amid frustration over water outages and power cuts The African National Congress is on course for a bruising result in South Africa’s local elections on Wednesday as voters go to the polls amid deep discontent over water outages, power cuts and crumbling infrastructure. The former liberation movement, which Nelson Mandela led to power in 1994 at the end of apartheid as South Africa’s first black president, is still likely to be the largest party. However, polls showed it getting less than a third of the vote, down from 45.6% at the last munic",
+     "url": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "South Africa’s ANC on track for new lows in local polls",
+     "desc": "The ANC was on about 32 percent of the vote with more than 60 percent of votes counted in municipal elections.",
+     "url": "https://www.aljazeera.com/news/2026/11/5/south-africas-anc-on-track-for-new-lows-in-local-polls?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "South Africa’s incredible shrinking ANC - Financial Times",
+     "desc": "South Africa’s incredible shrinking ANC Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQXZXb1FEYlFFM3kySWdLRlNfZlBkWnE2Y2s3cVpKOVZmV3VpX2ZWcG44TDR5bUh6X2RONzVXblkxZWZ2SnlYOUVTdUNrUG54U1JXSGZSMmlCX3pnZzNoYmh5OGl4YnJUUGdmakVpdGtaa1ZhNGhIVlY5eXMwbFhXdHotWm4?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261019-19",
+   "title": "英国人医療従事者のエボラ感染、英国へ搬送",
+   "firstSeen": "2026-10-19",
+   "daysSeen": 7,
+   "history": {
+    "2026-10-19": 6,
+    "2026-10-21": 27,
+    "2026-10-26": 6,
+    "2026-10-28": 12,
+    "2026-10-31": 10,
+    "2026-11-05": 8,
+    "2026-11-06": 12
+   },
+   "peak": 27,
+   "worldScore": 12,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 12,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 1,
+     "title": "British healthcare worker with Ebola evacuated from DR Congo to UK",
+     "desc": "Patient is ⁠in ​stable condition and will be transferred to a specialist ‘high consequence’ infectious disease unit A British healthcare worker with Ebola is being evacuated from the Democratic Republic of the Congo to the UK for medical treatment, it has been confirmed. “A British citizen currently in the DR Congo has tested positive for Ebola,” a spokesperson for the UK government said in a statement on Wednesday. “The UK has well-established procedures for dealing with cases like this, and those processes have been activated … The risk to the UK public from Ebola remains low.” Continue read",
+     "url": "https://www.theguardian.com/world/2026/nov/04/british-healthcare-worker-ebola-evacuated-drc-to-uk-document-shows",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.68,
+     "title": "British Citizen Infected With Ebola in Congo to Be Evacuated to UK, BBC Reports",
+     "desc": "The government said the risk to the British public from the disease was low. The current outbreak in Africa has spread widely across the continent, killing more than 5,000 people.",
+     "url": "https://www.nytimes.com/2026/11/05/world/europe/british-ebola-case-congo-uk.html",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "UK doctor with Ebola returns from Congo to London for treatment",
+     "desc": "Nov 5 - A British doctor who tested positive for Ebola while working on the epidemic in the Democratic Republic of Congo returned to Britain on Thursday, with health authorities saying the risk of the deadly disease spreading to the wider public remains low.",
+     "url": "https://www.straitstimes.com/world/europe/uk-doctor-with-ebola-returns-from-congo-to-london-for-treatment",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261106-20",
+   "title": "ブラジル大統領選でルラ氏が勝利",
+   "firstSeen": "2026-11-06",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-06": 11
+   },
+   "peak": 11,
+   "worldScore": 11,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 11,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.91,
+     "title": "How elderly ‘unsung heroes’ powered Lula’s historic fightback in Brazil",
+     "desc": "Older voters praised for helping tip balance in leftwing president’s favour against far-right Flávio Bolsonaro in runoff It had been nearly a decade since Celia de Oliveira Soares last voted, and months since the 101-year-old great-grandmother last left her home. But on 25 October, when Brazil held what many considered its most important presidential election in decades, relatives helped Soares into a wheelchair and drove her to a nearby school to make sure the far-right candidate, Flávio Bolsonaro, did not prevail. Continue reading...",
+     "url": "https://www.theguardian.com/world/2026/nov/05/unsung-heroes-behind-lula-surprise-election-triumph-brazil-runoff-bolsonaro",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Is Lula’s upset win also a victory for Chinese firms in Brazil?",
+     "desc": "With domestic profits narrowing and production capacity expanding, China’s firms are continuing to widen their overseas footprints in search of new, more lucrative markets. In this series, we examine China Inc.’s next phase of “going global” and the complex, challenging international environment its companies have chosen to enter. A presidential election in Brazil, a country thousands of miles away, might seem like just another headline to many in China. But for Chinese companies doing business...",
+     "url": "https://www.scmp.com/economy/global-economy/article/3373387/lulas-upset-win-also-victory-chinese-firms-brazil",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Lula’s election win dashes US hopes of quick access to Brazil’s rare earths",
+     "desc": "Brazil has the world’s second-largest rare earth reserves.",
+     "url": "https://www.straitstimes.com/world/united-states/lulas-election-win-dashes-us-hopes-of-quick-access-to-brazils-rare-earths",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261106-09",
+   "title": "香港のジョシュア・ウォン、懲役10年",
+   "firstSeen": "2026-11-06",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-06": 9
+   },
+   "peak": 9,
+   "worldScore": 9,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 9,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.8,
+     "title": "Hong Kong pro-democracy activist Joshua Wong sentenced to 10 years in prison in national security case",
+     "desc": "Wong, 30, in prison since 2020, is only activist in Hong Kong prosecuted twice under national security law Exclusive: Joshua Wong laments city’s fate from inside maximum security prison The Hong Kong activist Joshua Wong has been sentenced to 10 years in prison after earlier pleading guilty to “foreign collusion”, his second conviction under a national security law critics say has been used to silence political opposition in the city. Wong, who rose to prominence as the teenage face of Hong Kong’s 2014 pro-democracy demonstrations, submitted his guilty plea in September. He had been accused of",
+     "url": "https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.3,
+     "title": "Joshua Wong, Hong Kong Democracy Activist, Is Sentenced to 10 Years in Prison",
+     "desc": "Mr. Wong, one of the most high-profile members of a movement that was quashed in 2020, was accused of conspiracy to collude with foreign forces, a national security offense.",
+     "url": "https://www.nytimes.com/2026/11/04/world/asia/joshua-wong-hong-kong-sentenced.html",
+     "via": null
+    },
+    {
+     "id": "npr",
+     "name": "NPR",
+     "region": "world",
+     "weight": 0.56,
+     "title": "Hong Kong activist Joshua Wong is sentenced to 10 more years in prison",
+     "desc": "Wong was sentenced for his second conviction under a Beijing-imposed national security law, in a case that critics say reflects the crackdown on the city's once-thriving pro-democracy movement.",
+     "url": "https://www.npr.org/2026/11/05/g-s1-152032/hong-kong-activist-wong-sentenced",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261106-06",
+   "title": "中間選挙後、トランプ氏のイラン戦争が焦点",
+   "firstSeen": "2026-11-06",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-06": 8
+   },
+   "peak": 8,
+   "worldScore": 8,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 8,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.45,
+     "title": "Midterm Election Losses Complicate Trump’s Options on Iran War",
+     "desc": "The midterm results laid bare the deep unpopularity of the war of choice that President Trump started and is now struggling to end.",
+     "url": "https://www.nytimes.com/2026/11/05/us/politics/trump-iran-war-midterm-elections.html",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "After midterm loss, Trump is left to weigh his next move in Iran war that contributed to GOP debacle - AP News",
+     "desc": "After midterm loss, Trump is left to weigh his next move in Iran war that contributed to GOP debacle AP News",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMVdCMXZ3Y0NJQ3Y2ZG9YSHp3YW95Q2gtdm9QYTBjZDQzUGNvT2FHaDhuUnMxdXZXdlJrUzVrRW5RVXBzZExUTzhZT2JNSi1VWWVIWUw2RGpPS2pIcm4tUDJrMmRoQUpHVFRiY3p0c1pnazdEdUpDcThSbzV1NFNtbFF1ODhZczMtZkFYVTlwcjJEdw?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "dw",
+     "name": "Deutsche Welle",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Americans voted against Trump's Iran war. Gulf countries hope that means an end to the conflict",
+     "desc": "The US midterm results showed how unpopular Donald Trump's Iran war is. Now, Gulf countries, trapped for months in the middle of the war between the US and Iran, see reason for optimism.",
+     "url": "https://www.dw.com/en/americans-voted-against-trump-s-iran-war-gulf-countries-hope-that-means-an-end-to-the-conflict/a-79868398?maca=en-rss-en-world-4025-rdf",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261104-25",
+   "title": "スペインで選手が接触後死亡、警察が捜査",
+   "firstSeen": "2026-11-04",
+   "daysSeen": 3,
+   "history": {
+    "2026-11-04": 14,
+    "2026-11-05": 19,
+    "2026-11-06": 8
+   },
+   "peak": 19,
+   "worldScore": 8,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 8,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Spanish footballer Jesus de Miguel mourned by family and friends",
+     "desc": "The 30-year-old striker suffered cardiac arrest following an on-field collision.",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/spanish-footballer-jesus-de-miguel-mourned-by-family-and-friends?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 1,
+     "title": "Family of footballer who died after on-pitch collision pay tribute to him",
+     "desc": "Family, friends and teammates gathered for the funeral of the Spanish footballer who died following an on-field collision with another player.",
+     "url": "https://news.sky.com/story/jesus-de-miguel-hundreds-gather-for-funeral-of-tenerife-striker-13608553",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261106-23",
+   "title": "イラン、核計画の新提案を米に提示",
+   "firstSeen": "2026-11-06",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-06": 8
+   },
+   "peak": 8,
+   "worldScore": 8,
+   "worldCoverage": "2/18",
+   "jpScore": 8,
+   "jpCoverage": "1/6",
+   "gap": 0,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.94,
+     "title": "Iran is Reviewing ‘Concrete Proposals’ on Nuclear Program, Officials Say",
+     "desc": "Iran’s willingness to re-engage on the issue suggests that Qatar-led diplomatic efforts to avert full-blown war between the U.S. and Iran have had some success.",
+     "url": "https://www.nytimes.com/2026/11/05/world/middleeast/peace-talks-iran-united-states-qatar-nuclear-program.html",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Iran sent nuclear proposal to the US via Qatar, senior Iranian official tells Reuters - Reuters",
+     "desc": "Iran sent nuclear proposal to the US via Qatar, senior Iranian official tells Reuters Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSlJZVlphdWhPcDNGc1E5eDVNdDdMQkJNTXVDS0RYSVRqaC1tblFqQy1FekRQdldnV0FsMU5RdnVHNEI3UEZWMC1MY1l5cnRtcjBlcDlpUXdvX0hXbV91S1UxajV1TEx1VmJ2SzNLNElXSjc3YkdmYWw4VGNXZEl5NXR4RFNjRXBxeEZMLWpBT1Z5X2JRc3NEdkdMZDljQ0dkZXZRbzc3U1NmNkhnaFN5QzNhVmRzSmhsM0Q5VzU3Mm11OWZBa3M1V1lvaw?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.48,
+     "title": "7条件受け入れ後に核議論 イラン高官、米に新提案も(共同通信)",
+     "desc": "【テヘラン共同】イラン政府高官は5日、仲介国カタールを通じ、核問題に関する新たな提案を米側に送付したと表明した。イランが要求する7条件を米側が受け入れた後に核問題を協議するという従来の立場を堅持した。",
+     "url": "https://news.yahoo.co.jp/articles/ea6543f021b0265c966d6a9b2d08439036d254ed?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261106-29",
+   "title": "ヘグセス国防長官、弾劾案を巡り圧力",
+   "firstSeen": "2026-11-06",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-06": 8
+   },
+   "peak": 8,
+   "worldScore": 8,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 8,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Defiant Hegseth tells US Democrats their impeachment push ‘won’t work’",
+     "desc": "US Secretary of Defence Pete Hegseth said he will “not back down” against a “lame duck” US Congress, and that the calls for his impeachment will “not work” in his first reaction after the Democrats’ landslide victory in Tuesday’s midterm elections. In a video uploaded by the Pentagon on Thursday, Hegseth said that “a disgruntled, defeated congressman, along with all his Democrat allies”, have been submitting bills for his impeachment, resembling that of the similar attempt against US President...",
+     "url": "https://www.scmp.com/news/us/us-elections/article/3373466/defiant-hegseth-tells-democrats-their-impeachment-push-wont-work",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Pressure mounts on US defence chief after Republican midterm election rout",
+     "desc": "Pete Hegseth, a former Fox News co-host, has survived repeated scandals since taking office in early 2025.",
+     "url": "https://www.straitstimes.com/world/united-states/pressure-mounts-on-us-defence-chief-after-republican-midterm-election-rout",
+     "via": null
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Massie to Bring Hegseth Impeachment Articles Back Next Week - Bloomberg.com",
+     "desc": "Massie to Bring Hegseth Impeachment Articles Back Next Week Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNDNDZ0luYzB0ZFF0d1VqejZJS252R3d6SzRuanJYLThTdmlGMXF5SWQ4NWZPMGxfMVd4aUlzYjlaYzhfalA1cXUycVV2N1VBMDZ4QzNESnZtSi00VkNFY2RaSDVxVUgtOFNYT2QtX0pXZTNXbEFtUHRDN0kyUmZ6S3VSMFZKWUxoZTRPbWZBanRmWG4xSEo2YVF2MEtCbnc5c2pxUDY1RjYwVzRFTWdV?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261106-31",
+   "title": "マイクロソフト、データセンター提携に慎重",
+   "firstSeen": "2026-11-06",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-06": 8
+   },
+   "peak": 8,
+   "worldScore": 8,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 8,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Microsoft tightens oversight of neocloud data center projects, Bloomberg News reports - Reuters",
+     "desc": "Microsoft tightens oversight of neocloud data center projects, Bloomberg News reports Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc0lzRWp3SlczTDBjS2gyYnZPX194TnVxQVZCTWdaTTlScTVVT2dYZU55dGg1eGQ3LXNySlIzaDZ2NkNEMXktTVotakRNZ215bUwzS041X2k4dGFHaEw5VDVLYVpJb3JPYnBWVFNVTkxHTk5zZGhYd01CdmVPazM5X1I3X2xvTGg2Tk9HS3RMQUp4cFRZV2lvdXR6dVAtQVozaWgxMFRrV0N5NDFib3pydHhVdS1ZQWJ1cWc?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Microsoft Sours on Neoclouds Amid Data Center Delays, Costs - Bloomberg.com",
+     "desc": "Microsoft Sours on Neoclouds Amid Data Center Delays, Costs Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUTR2cGs0cFlMMmd0Zmx6SjMxblBNUWJVajQtQ2tWaGVyeEswUkZvbE5NeEwtSzQxVlNodHFjalBvQU95TW5UcG9Ja3FTMWRHZEplcEFCTFZNcEhiVFlUNHVVaTlJQnpsajNUQzFIRmhJa1BsQzItMkNfZndsdHZBenV3U3lIcGtsVllpZEp1NDkxREJsd25qd3kwV05IekQ4bmVlNkxZNzc2VnRjYTBIWWJ1Rm8?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Microsoft rejects multibillion-dollar AI deal with UK’s Nscale - Financial Times",
+     "desc": "Microsoft rejects multibillion-dollar AI deal with UK’s Nscale Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdnNKc0t2WlRGTk9fTmRoLXFJUWkweF9tNXY1UG1FZjUxdkhGVGtUYmlvMmtvS2ZpX3VabTE1VW1jaUNGalhsbTRENTNTZXVwb1dfZ2FDaUJwUkxhYWc0cTA4Rm5wdENKclZPTVRaQV8zT1VpcHV3eVFIUmJUWUdiWlVRRkk?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261105-32",
+   "title": "ディラン氏、ローマで教皇レオ14世と会談",
+   "firstSeen": "2026-11-05",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-05": 11,
+    "2026-11-06": 7
+   },
+   "peak": 11,
+   "worldScore": 7,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 7,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.59,
+     "title": "Pope Leo hosts Bob Dylan at official residence in Rome",
+     "desc": "Pope Leo had previously quoted Dylan's work in the preface of a book warning against nuclear rearmament.",
+     "url": "https://www.bbc.co.uk/news/articles/cm0e035n13ylo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "npr",
+     "name": "NPR",
+     "region": "world",
+     "weight": 0.65,
+     "title": "Bob Dylan comes knockin' on pope's door as Leo welcomes legend to Vatican",
+     "desc": "The American singer-songwriter and poet visited with the American pope at the Vatican during a break between concert dates in Italy. The Vatican said the encounter was brief.",
+     "url": "https://www.npr.org/2026/11/05/g-s1-152035/vatican-pope-bob-dylan",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261106-26",
+   "title": "韓国、ホルムズ海峡付近の海軍活動拡大",
+   "firstSeen": "2026-11-06",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-06": 7
+   },
+   "peak": 7,
+   "worldScore": 7,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 7,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.74,
+     "title": "South Korea says it will expand naval operations closer to strait of Hormuz",
+     "desc": "Seoul to seek parliamentary approval to extend anti-piracy Cheonghae unit’s area to about 650km from the vital strait after criticism from Donald Trump on Iran war support South Korea plans to expand the operations ⁠of its anti-piracy unit to waters closer to the strait of Hormuz, its defence ministry has said, after pressure from Donald Trump to ⁠provide support for his war in Iran. The government is to submit a motion to parliament that would expand the Cheonghae unit’s area of operation to waters near the port of Duqm in Oman, which ​is about 650km (403 miles) away from the strait. The moti",
+     "url": "https://www.theguardian.com/world/2026/nov/05/south-korea-to-expand-anti-piracy-unit-strait-of-hormuz",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "South Korea plans to extend anti-piracy patrols closer to Strait of Hormuz",
+     "desc": "Seoul said pirates have recently ventured further from the Somali coast and added that it wanted to send a patrol aircraft to protect merchant ships off Oman while keeping its forces out of the ongoing Iran war.",
+     "url": "https://www.euronews.com/2026/11/05/south-korea-plans-to-extend-anti-piracy-patrols-closer-to-strait-of-hormuz",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261106-05",
+   "title": "ネタニヤフ氏の選挙不正主張、選管が否定",
+   "firstSeen": "2026-11-06",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-06": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.3,
+     "title": "Israel’s election commission rejects Netanyahu claims of voting fraud",
+     "desc": "Move comes after attorney general blocks Shin Bet call to interrogate politicians from Palestinian-led parties Israel’s election commission on Wednesday confirmed the final results of last week’s vote that stripped Benjamin Netanyahu’s far-right coalition of its governing majority, rejecting claims of mass fraud promoted by the prime minister. The main challenger, Gadi Eisenkot, said Netanyahu had launched a “pogrom against democracy” in attempting to hold on to power by discrediting valid votes and weaponising security forces against parties led by Palestinian citizens of Israel. Continue rea",
+     "url": "https://www.theguardian.com/world/2026/nov/04/israel-election-commission-rejects-netanyahu-claims-voting-fraud",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.82,
+     "title": "Netanyahu Alleges Election Fraud in Connection With Arab Turnout",
+     "desc": "The Israeli leader and his allies are alleging that Arab voters last month stole the election. Election officials say that while foul play was being investigated, it could not have affected the result.",
+     "url": "https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-netanyahu-trump.html",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261030-18",
+   "title": "ホルムズ海峡でタンカー触雷、イラン発表",
+   "firstSeen": "2026-10-30",
+   "daysSeen": 3,
+   "history": {
+    "2026-10-30": 11,
+    "2026-10-31": 8,
+    "2026-11-06": 6
+   },
+   "peak": 11,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Iran says tankers struck in Hormuz amid fears of new US attack",
+     "desc": "Iranian forces say five oil tankers and a tugboat have caught fire in several incidents in the Strait of Hormuz.",
+     "url": "https://www.aljazeera.com/news/2026/11/5/iran-says-tankers-struck-in-hormuz-amid-fears-of-new-us-attack?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Iran says 5 tankers catch fire after striking naval mines in Strait of Hormuz",
+     "desc": "Five oil tankers and a tugboat caught fire in the Strait of Hormuz, Iran’s Revolutionary Guards and army said in separate statements, according to local media on Thursday. Since the outbreak of the Iran war in late February, Tehran has severely restricted traffic through the strategic waterway, which normally carries about one-fifth of global oil consumption. It regularly attacks ships it accuses of transiting without its authorisation. The United States military has in response imposed a...",
+     "url": "https://www.scmp.com/news/world/middle-east/article/3373454/iran-says-5-tankers-catch-fire-after-striking-naval-mines-strait-hormuz",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261105-28",
+   "title": "ゼレンスキー氏、マドリードでエネルギー支援要請",
+   "firstSeen": "2026-11-05",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-05": 6,
+    "2026-11-06": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Spain: Zelensky urges Latin America to help repair Ukraine's power grid",
+     "desc": "Ukrainian President Volodymyr Zelensky has appealed to Spain and Latin American countries for urgent help repairing Ukraine's damaged energy infrastructure. He also met King Felipe VI during the Ibero-American Summit in Madrid.",
+     "url": "https://www.euronews.com/video/2026/11/05/spain-zelensky-urges-latin-america-to-help-repair-ukraines-power-grid",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Ukraine's Zelenskiy appeals for energy infrastructure aid at Madrid summit",
+     "desc": "MADRID, Nov 5 - Ukrainian President Volodymyr Zelenskiy appealed to the Ibero-American Summit on Thursday to help his country rebuild and maintain its war-damaged energy infrastructure, calling for urgent supplies of transformers, cables, generators and other electrical equipment.",
+     "url": "https://www.straitstimes.com/world/europe/ukraines-zelenskiy-appeals-for-energy-infrastructure-aid-at-madrid-summit",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261103-02",
+   "title": "冷凍設備へのサイバー攻撃が相次ぐ",
+   "firstSeen": "2026-11-03",
+   "daysSeen": 4,
+   "history": {
+    "2026-11-03": 37,
+    "2026-11-04": 27,
+    "2026-11-05": 21,
+    "2026-11-06": 6
+   },
+   "peak": 37,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "French blood banks hit by cyberattack days after European freezer hacks",
+     "desc": "The cyberattack on several French blood banks comes after supermarkets across Europe reported their fridges​ and freezers​ were remotely taken over by hackers.",
+     "url": "https://www.cbsnews.com/news/cyberattack-france-blood-bank/",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US warns of 'ongoing cyber threat' to industrial refrigeration systems - Reuters",
+     "desc": "US warns of 'ongoing cyber threat' to industrial refrigeration systems Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNR2s2bmFfRVpxV19jRHlKYkY2NXlKbDhkbF9vVi1seHE2cDJRbi15Z0NEOEV2MjlYb1F0emRmdG9xZmRRcVY1R3VsWnRjZW9iNGlqbFQwMm1XUlRfUTVSQ3ZEbGdIRmtQQ1NrN3IzYVNiaXZ6XzJGbDUyODJzNGo1OGVSMHRqU3lfb3djN0dfY093dmYwcm5EV05wd2x4bUtJeXUxWFctcHdsM25wb0JYcS0yMGQxYllCOUczOEVKTWc?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261106-21",
+   "title": "LA市長選でラマン市議が現職を破る",
+   "firstSeen": "2026-11-06",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-06": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 12,
+   "jpCoverage": "2/6",
+   "gap": -6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "India-born democratic socialist Nithya Raman becomes LA mayor, ousting Karen Bass",
+     "desc": "India-born democratic socialist Nithya Raman ousted incumbent Democrat Karen Bass to become the next mayor of Los Angeles, ending a heated race that saw the one-time allies spar over frustration with the status quo. Bass conceded to Raman in a phone call on Thursday, after the latest numbers showed Raman with 52 per cent of the vote against the outgoing mayor’s 48 per cent, with three-quarters of votes counted. Raman, 45, campaigned in the nation’s second-largest city on a platform of “pothole...",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3373464/india-born-leftist-nithya-raman-beats-incumbent-karen-bass-become-la-mayor",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Los Angeles City Council member Nithya Raman ousts embattled Mayor Karen Bass - AP News",
+     "desc": "Los Angeles City Council member Nithya Raman ousts embattled Mayor Karen Bass AP News",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYjhIMWFLekdpYW92dVlfVkVsU0RuMUVLVURERkh2eVhqdDBPSEowZVN4VTNfeGJzNjFZenNTQTdPY09veHJILVYybk9fRFlPMmZrbk9YVWF0RGM0YkxBVnAycHFPMFZMc3JHaU5ReGhQNU9MNTlkWXN1OG44V3FJRllKdVZBeEhEMmFVdWwyZDVVQ1pa?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "asahi",
+     "name": "朝日新聞",
+     "region": "jp",
+     "weight": 0.3,
+     "title": "ロサンゼルスで「民主社会主義」市長が当確 NYに続き西の大都市で",
+     "desc": "",
+     "url": "http://www.asahi.com/articles/ASVC57DFZVC5UHBI005M.html?ref=rss",
+     "via": null
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.42,
+     "title": "米ロス市長に民主急進左派 ラマン市議、現職破る(共同通信)",
+     "desc": "【ロサンゼルス共同】3日投開票の米西部ロサンゼルス市長選で、米主要メディアは5日、急進左派の政治団体「米国民主社会主義者」（DSA）に所属する民主党のニティヤ・ラマン市議（45）が当選を確実にしたと報",
+     "url": "https://news.yahoo.co.jp/articles/c806266550314a33ad39ff168be690b92d9444af?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261106-22",
+   "title": "ウクライナ、民主党勝利後の支援拡大に期待",
+   "firstSeen": "2026-11-06",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-06": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 8,
+   "jpCoverage": "1/6",
+   "gap": -2,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "toi",
+     "name": "Times of India",
+     "region": "world",
+     "weight": 0.5,
+     "title": "‘Expect new dynamics’: Ukraine hopes for more support after Democrats sweep midterms",
+     "desc": "Ukraine anticipates enhanced military and financial assistance from the United States after the midterm elections. Foreign minister Andrii Sybiha expressed hope for new dynamics and support from the incoming Democratic majority. Ukrainian President Volodymyr Zelenskyy acknowledged the Democrats' vocal backing of Ukraine since their election success. This shift in power could enable legislation favoring aid to Ukraine despite previous limitations.",
+     "url": "https://timesofindia.indiatimes.com/world/europe/expect-new-dynamics-ukraine-hopes-for-greater-assistance-after-democrats-sweep-midterms/articleshow/135582124.cms",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Ukraine expects fresh support after US mid-terms, minister says",
+     "desc": "BUCHAREST, Nov 5 - Ukrainian foreign minister Andrii Sybiha said on Thursday he expected new steps to support Ukraine after the mid-term election in the US and added that, while it was not possible to end the war without the US, a new role for Europe was needed.",
+     "url": "https://www.straitstimes.com/world/europe/ukraine-expects-fresh-support-after-us-mid-terms-minister-says",
+     "via": null
+    },
+    {
+     "id": "mainichi",
+     "name": "毎日新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "ゼレンスキー氏、米民主党大勝でウクライナ支援拡大を期待",
+     "desc": "",
+     "url": "https://mainichi.jp/articles/20261106/k00/00m/030/013000c",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261106-24",
+   "title": "イラン高官、プーチン氏と安保問題で会談",
+   "firstSeen": "2026-11-06",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-06": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Iran’s security chief discusses regional, bilateral affairs with Putin",
+     "desc": "MOSCOW, Nov 5 - Russian President Vladimir Putin met Iranian top security official Mohsen Rezaei at the Kremlin, Iran's state media reported on Thursday, after Iranian negotiators met with mediators to discuss proposals to end hostilities with the US.",
+     "url": "https://www.straitstimes.com/world/irans-security-chief-discusses-regional-bilateral-affairs-with-putin",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Iran's security chief discusses regional, bilateral affairs with Putin - Reuters",
+     "desc": "Iran's security chief discusses regional, bilateral affairs with Putin Reuters",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMkR5dEUwb2FoSDZrZ2p1UVF1T3VzbjEwSmhUWFBSeElYM0lHamE3SE0zYVViRHNqZ2piYTBjbWtoZThDU01hQmpYRFlwMHJTTFl3S2MyWnFoZWh1VTRCdEFvckJZcHktYjNpMWxLbU1vOGp3N0k1Yi1FZ0xTMXYzU2I2OHVZeGZrVXdiUmJOZ0phb2dLTjVGTTQ4aGF0WEdOLTVzS2RLQzBYNXR5?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261106-25",
+   "title": "ウクライナのスターシールド契約、来年失効",
+   "firstSeen": "2026-11-06",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-06": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Ukraine's Starshield contract with US expires next year, diplomat says",
+     "desc": "WASHINGTON, Nov 5 - Ukraine's contract with the US government for access to its Starshield satellite network expires next year and Kyiv is urgently seeking to start talks on a new one, a senior Ukrainian diplomat said on Thursday.",
+     "url": "https://www.straitstimes.com/world/europe/ukraines-starshield-contract-with-us-expires-next-year-diplomat-says",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Ukraine's Starshield contract with US expires next year, diplomat says - Reuters",
+     "desc": "Ukraine's Starshield contract with US expires next year, diplomat says Reuters",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdVZMRzZIQS1pQmxLUWYySklZU1JZX01mSlhxZi0tRGRHQ21hZ0dvRlNaZS15TVhPbE04N0ZUdS1FRjljamJJaFNYcHdOQ2U0WTZyWXFxU1Frc2tPbmNGTDdlRWVtbnZubTZ6Sk42bmY1bUUyQTU1andhdndpNUZzYmN2Y0ZJRm9LTEJSVlJ4UWpDSEE0T1Zpa3h3eHczY1ZzR0Ezb3hiNXJVX2E0dG1POWZHQU5OQzNTSDRMQmoyNGdscDVXZUE?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261106-27",
+   "title": "トランプ氏、大統領執務室を国定記念物に",
+   "firstSeen": "2026-11-06",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-06": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump designates Oval Office as national monument",
+     "desc": "Since returning to power in 2025, Trump has bedecked the Oval Office with gold ornaments.",
+     "url": "https://www.straitstimes.com/world/united-states/trump-says-oval-office-to-become-national-monument",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump says Oval Office to become national monument - Reuters",
+     "desc": "Trump says Oval Office to become national monument Reuters",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYmpHaGcydVUtZWxPRVpuc21LWjdwd3VYcUdnRndlOVlTUlNfeHBYWU5yZEJpekt5RzVVZ29EOVo5UDNuM0lQck1BX3RnMTdhOEt4UGY2bXhpajlTZl9lZmR0U1hxeDEwTVhKQTh0c0liNE9zelpYN2xPZzFyUHd6RmM5bFVrQXhVMDZNMWVrcy1LTnM?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261106-30",
+   "title": "メキシコ判事、麻薬事件で賄賂疑惑",
+   "firstSeen": "2026-11-06",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-06": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Mexican judge accused by U.S. of taking bribes in major drug case",
+     "desc": "Luiz Benítez Alcántara is accused of releasing Andrew Clark from custody after accepting $2 million in bribe payments.",
+     "url": "https://www.cbsnews.com/news/mexican-judge-arrested-accused-us-bribes-drug-case-ryan-wedding/",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US says Mexican judge arrested in Colombia over $2 million bribe to free accused Canadian drug trafficker",
+     "desc": "MEXICO CITY, Nov 5 - The US Justice Department said on Thursday that a Mexican judge was arrested on charges of taking a $2 million bribe to free alleged Canadian drug trafficker Andrew Clark, second-in-command to Canadian former Olympic snowboarder Ryan Wedding, who is charged in a US cocaine trafficking and murder case.",
+     "url": "https://www.straitstimes.com/world/us-says-mexican-judge-arrested-in-colombia-over-2-million-bribe-to-free-accused-canadian-drug",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261106-32",
+   "title": "グーグル、ワイオミング州に170億ドル投資",
+   "firstSeen": "2026-11-06",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-06": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Google plans $17 billion Wyoming data center amid rising threats of curbs - Reuters",
+     "desc": "Google plans $17 billion Wyoming data center amid rising threats of curbs Reuters",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSXNTLVJtQV9yc3AzLTh3VGlkVkl5M1ZmMmhjOHkzSGtCWTctUHhwMkhaaHZvLTVhUXNMdmgyNGFYVldhN2RrM0FtUVRRcnBFYnV4Zkxwa0NaRjNOSlJha1RoZ0tWeHVZaTlFb0tQdjUtMTAwNm5XdERkSDVWSjhQc1pYSjV4azVJZVYteF9zb0VCbFA5OEtUZXhnbGhLQTBZUXlkNlJpUGR1RTY4TGRzQVFWLXQ?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Google Plans to Spend $17 Billion on Wyoming Data Center - Bloomberg.com",
+     "desc": "Google Plans to Spend $17 Billion on Wyoming Data Center Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNE1UblF4V2JrTFJGbnZvOWxFaURSZ3d6Y1VFRjcwWHVCcXlMQm94STFoeF95ekVHclBNbWtURXppSW1iV2NpWVFJNXdwZlU5MFd2UjlOWEhubnIyX2t5N1hhUU12MWh1QVJHZDljSjdOQk5EMHZNeWRMQ2tWUGhqdFpqR1JmMTBoUjdtZFpSSlFWU3FpaElDQV9mUzB5RWtSdnRQVmF3QTF5Zw?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261106-33",
+   "title": "グーグル、AIチャットの自殺関連で提訴",
+   "firstSeen": "2026-11-06",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-06": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US parents sue Google after their teen daughter discussed suicidal thoughts with Gemini",
+     "desc": "A 13-year-old girl spent months discussing suicidal thoughts with Google AI tools on her school-issued Chromebook, the suit claims.",
+     "url": "https://www.straitstimes.com/world/united-states/us-parents-sue-google-after-their-teen-daughter-discussed-suicidal-thoughts-with-gemini",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Google faces claims student used AI chat on US school laptop to plan suicide attempt - Reuters",
+     "desc": "Google faces claims student used AI chat on US school laptop to plan suicide attempt Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT0F0S042MGswT2lfTFJQd3hZTmdoU1hPZWhuSUVDNUhBdjRQTnRBWjJFRVdVaGNJeHVRNWN4M0hVUGVaNTVtNkU0ZFVOb2RQR2s4WkcwLWNFWXpIUEp4VWx3cTZIWFhWdWtIaUxlUlBoajhxSnZVU1VyWmJCYWItaG4wNENHMFdUTHpuS3NFcW5UUFVqczRxQk45Umh2Z2t0U25URUlMVUVjTGJ6Q1RidlFTbFlwbjlkT1Z0eEl6M3A?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261106-34",
+   "title": "英中銀、3年超ぶりの利上げ",
+   "firstSeen": "2026-11-06",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-06": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Bank of England raises key interest rate for first time in over 3 years",
+     "desc": "The Bank of England has raised interest rates to 4% as it tries to curb rising prices fuelled by the Iran war.",
+     "url": "https://www.euronews.com/2026/11/05/bank-of-england-raises-key-interest-rate-for-first-time-in-over-3-years",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "BoE hikes rate for first time in 3 years; retreating oil prices may allow for more options ahead - AP News",
+     "desc": "BoE hikes rate for first time in 3 years; retreating oil prices may allow for more options ahead AP News",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb0NDY2lDWk9qMGtnT3ZVZEhLY1RTQ1J5MFlOazFRTzk4ZVVZR3JhcDJoZ3RmNjZxZHQ2emt3M1hVdXRYS2RscjM5NFhVc3Btd25iU0htTVBLTnNLcE16aVlxVjc4Rjg3TVBrVjJOck93VV9iN19TU1gzNnJTZ1BfVlNieUJFNEpXbzdvSjkyOVM3cV9l?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261106-35",
+   "title": "米、キューバへの制裁を拡大",
+   "firstSeen": "2026-11-06",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-06": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US sanctions Chinese firms over alleged military supplies to Cuba",
+     "desc": "The United States has imposed sanctions on two Chinese companies it accuses of supplying equipment and components to Cuba’s military, as Washington intensifies pressure on Havana’s foreign suppliers and expands its authority to target businesses operating on the island. The US State Department said on Thursday that China National Electronic Import and Export Company, or CEIEC, and Beijing H&C Technologies had worked with Cuban arms procurement company Sociedad Mercantil Duna to supply...",
+     "url": "https://www.scmp.com/news/china/diplomacy/article/3373462/us-sanctions-chinese-firms-over-alleged-military-supplies-cuba",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US issues new Cuba sanctions, takes aim at sectors of Cuban economy - Reuters",
+     "desc": "US issues new Cuba sanctions, takes aim at sectors of Cuban economy Reuters",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQblVpSUg3SjBzNjdqeWlrY1hpeWNhQ2E0VzNmZW1RTVl3ekVfRW5ERnpNU2gwa3M3NUZuNWFFc3JWR3BnNGlHeS1VOENLeFcwRUxaYm00TnVxZWd1RkxtbEJ0WlJTQmFMeXZDZm9iX1Fybk5qTGJ5eVhCMlV6c2VFbUd4ZXZBS2VmeW9tM0d1SjRoN0FibW13RnAtcU11XzVENk5PVTVYV2RPMGJkM3ZlaQ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261106-36",
+   "title": "フィンランド、海底ケーブル破壊で実刑",
+   "firstSeen": "2026-11-06",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-06": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.65,
+     "title": "Finland Sends 2 Men to Prison for Damaging Undersea Cable in Baltic Sea",
+     "desc": "A Finnish court convicted the captain and boatswain of a cargo ship of aggravated criminal damage in relation to an incident last year in the Gulf of Finland.",
+     "url": "https://www.nytimes.com/2026/11/05/world/europe/finland-fitburg-russia-ship-baltic-cables-sabotage.html",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Finland jails Russian cargo ship captain over Baltic Sea cable sabotage",
+     "desc": "A Finnish court on Thursday jailed the Russian captain and an Azerbaijani crew member of the cargo ship Fitburg for aggravated sabotage over damage to two subsea ‌telecommunications cables in the Gulf of Finland last year. Finland on December 31 seized the vessel in the Gulf of Finland while it was en route from Russia to Israel, on suspicion that it had damaged cables running from Helsinki to Estonia. The Helsinki District Court sentenced the captain to three years and six ⁠months in prison and...",
+     "url": "https://www.scmp.com/news/world/europe/article/3373432/finland-jails-russian-cargo-ship-captain-over-baltic-sea-cable-sabotage",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261106-37",
+   "title": "メローニ首相、EUのウクライナ対応を批判",
+   "firstSeen": "2026-11-06",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-06": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Italian PM slams EU’s fragmented approach to Ukraine peace talks",
+     "desc": "In a letter to European Council President António Costa, Giorgia Meloni says multiple negotiating formats are making Europe “less credible” to end the war.",
+     "url": "https://www.euronews.com/2026/11/05/italian-pm-slams-eus-fragmented-approach-to-ukraine-peace-talks",
+     "via": null
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Giorgia Meloni hits out at EU’s ‘disjointed’ approach to Ukraine talks - Financial Times",
+     "desc": "Giorgia Meloni hits out at EU’s ‘disjointed’ approach to Ukraine talks Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTW9KczhyQWxEVHctaUR5NXkzcmpETHF4ZV9HakVYbU1hSk0zU2lzOVhTVzg0T3VfaDZMUGZOTW1PaDRFeEJpVTZDYUliVFFTNl84eUFiTklfX2kxczktaUh5NG5sOGVjU2xpVkZDb1ZXQ0pYQ01kX3NTRnJYVU81NVNGcE0?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261106-38",
+   "title": "トランプ氏、露特使ドミトリエフ氏と会談と発言",
+   "firstSeen": "2026-11-06",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-06": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump says he met Putin envoy Dmitriev",
+     "desc": "WASHINGTON, Nov 5 - US President Donald Trump on Thursday said he met with Russian President Vladimir Putin's special envoy Kirill Dmitriev.",
+     "url": "https://www.straitstimes.com/world/europe/trump-says-he-met-putin-envoy-dmitriev",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump says he met Putin envoy Dmitriev - Reuters",
+     "desc": "Trump says he met Putin envoy Dmitriev Reuters",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQkIyajduM2t4eXl5eGs0V1hHU0Y2amcxWjM1dmthWmtDekkwV3V5MElyZlpjZFlfOUVENC1fSXJ2S0llMDloc2VJZmktZG5jUWFvMVUwbTJ6VkNuSF9EX0dEdzliNnlzN0J6RlIydnVMVE9sdVNpV3J1VzR0MTdfRk51WVE0dVk?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261103-04",
+   "title": "ウクライナ南部の人道支援拠点へ露が空爆",
+   "firstSeen": "2026-11-03",
+   "daysSeen": 4,
+   "history": {
+    "2026-11-03": 28,
+    "2026-11-04": 22,
+    "2026-11-05": 7,
+    "2026-11-06": 5
+   },
+   "peak": 28,
+   "worldScore": 5,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 5,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 0.48,
+     "title": "Russia attacks Ukrainian aid hub in one of the deadliest strikes since war began",
+     "desc": "Russian strikes on an aid hub killed at least 40 people - making it one of Russia's deadliest attacks on Ukrainian civilians since the full-scale invasion began, officials said.",
+     "url": "https://news.sky.com/story/russia-attacks-ukrainian-aid-hub-in-one-of-the-deadliest-strikes-since-war-began-13608095",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Ukraine says \"insane attack\" on aid center may have killed 70",
+     "desc": "Ukraine&#039;s president says an \"insane attack\" by Russia on an aid distribution center may have killed 70 people, as he renews his plea for air defenses.",
+     "url": "https://www.cbsnews.com/news/ukraine-russia-war-zelenskyy-aid-center-attack-death-toll/",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261106-11",
+   "title": "露、JT資産を管理下に 日本が抗議へ",
+   "firstSeen": "2026-11-06",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-06": 3
+   },
+   "peak": 3,
+   "worldScore": 3,
+   "worldCoverage": "1/18",
+   "jpScore": 40,
+   "jpCoverage": "4/6",
+   "gap": -37,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Putin seizes Russian operations of cigarette giant Japan Tobacco International",
+     "desc": "The decree transferred JTI’s four factories, around 4,000 employees and roughly 40% of the Russian cigarette market to a state-linked holding company. The latest seizure added to a list that includes Nestlé, Auchan, Leroy Merlin and Metro.",
+     "url": "https://www.euronews.com/2026/11/05/putin-seizes-russian-operations-of-cigarette-giant-japan-tobacco-international",
+     "via": null
+    },
+    {
+     "id": "mainichi",
+     "name": "毎日新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "日本、ロシアに抗議へ JT事業の暫定管理受け 制裁への対抗か",
+     "desc": "",
+     "url": "https://mainichi.jp/articles/20261105/k00/00m/010/431000c",
+     "via": null
+    },
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "ロシア、ＪＴ資産を管理下に 対日圧力強化の一環か",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026110501153&g=int&m=rss",
+     "via": null
+    },
+    {
+     "id": "yahoo",
+     "name": "Yahoo!ニュース主要",
+     "region": "jp",
+     "weight": 0.9,
+     "title": "露 JT資産を同国企業の管理下に",
+     "desc": "",
+     "url": "https://news.yahoo.co.jp/pickup/6601467?source=rss",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "JT株価、私設取引でストップ安 ロシアが資産を一時管理下に - 日本経済新聞",
+     "desc": "JT株価、私設取引でストップ安 ロシアが資産を一時管理下に 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5nZkZXMWMyRklYTjQtaWJDenRYZEprXzdJTWpkdjdEa1ZreldFeHBTbWp3dXpHblRuWjlCQWFRTlRzQllyVnFXSERudm5xSlc0QjZrV21JNmxPb2xZU01QM2QtcGpuRWlPS0djcA?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261106-15",
+   "title": "田嶋幸三氏、FIFA会長選に立候補表明",
+   "firstSeen": "2026-11-06",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-06": 3
+   },
+   "peak": 3,
+   "worldScore": 3,
+   "worldCoverage": "1/18",
+   "jpScore": 27,
+   "jpCoverage": "2/6",
+   "gap": -24,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Top Japan FA official to stand against Infantino for FIFA presidency",
+     "desc": "Kozo Tashima second person to declare he will challenge Infantino, after former Spurs defender Ramon Vega.",
+     "url": "https://www.aljazeera.com/sports/2026/11/5/top-japan-fa-official-to-stand-against-infantino-for-fifa-presidency?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "asahi",
+     "name": "朝日新聞",
+     "region": "jp",
+     "weight": 0.68,
+     "title": "日本サッカー協会の田嶋幸三名誉会長、FIFA会長選に立候補表明",
+     "desc": "",
+     "url": "http://www.asahi.com/articles/ASVC52TXXVC5UTQP00JM.html?ref=rss",
+     "via": null
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.91,
+     "title": "田嶋JFA名誉会長、FIFA会長選に出馬…インファンティーノ氏の対抗馬に(中央日報日本語版)",
+     "desc": "日本サッカー協会（JFA）の田嶋幸三名誉会長（68）が、次期国際サッカー連盟（FIFA）会長選に出馬する。現職のジャンニ・インファンティーノ会長の対抗馬となる。共同通信は5日、田嶋名誉会長がFIFA会",
+     "url": "https://news.yahoo.co.jp/articles/20c028b82e48137c30fc7ff1bf982c9fa9cf5b47?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261106-28",
+   "title": "ルビオ国務長官、辞任を検討と報道",
+   "firstSeen": "2026-11-06",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-06": 3
+   },
+   "peak": 3,
+   "worldScore": 3,
+   "worldCoverage": "1/18",
+   "jpScore": 25,
+   "jpCoverage": "2/6",
+   "gap": -22,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Rubio Weighs Leaving Administration After GOP’s Midterm Loss - Bloomberg.com",
+     "desc": "Rubio Weighs Leaving Administration After GOP’s Midterm Loss Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOGdGY1RZR2hoRW9QZ1FpMFlUM2hmUEZWMjdsQ0w5UVZfaEdHNW5JTkstOFZ3UkVRMzZXaFlNbkVma1RUWWdLYjcwUHNxZW4tZEo0T0ZTeWVjR3NqR2xhMGdTQ3VvUGNhMjM1N0lLZGtJb25vYmlUalNmSlZtcnFUMlJ3aGhOZG5jSENoM1ZpbEFkVTZROHl0Y3NtWXdhc3pIc012eG1lTlF1VG8xcFhYbEN1WUQ?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "米国務長官 中間選挙での共和党大敗受け政権離脱を検討か(テレビ朝日系（ANN）)",
+     "desc": "アメリカの中間選挙で与党・共和党が大敗したことを受け、ルビオ国務長官がトランプ政権からの離脱を検討しているとアメリカメディアが報じました。 ブルームバーグ通信は5日、関係者の話として、ルビオ国務長官が",
+     "url": "https://news.yahoo.co.jp/articles/61cb76772d1cd613a2794cccdad8c3d2c73dd627?source=rss",
+     "via": null
+    },
+    {
+     "id": "yahoo",
+     "name": "Yahoo!ニュース主要",
+     "region": "jp",
+     "weight": 1,
+     "title": "ルビオ国務長官が辞任検討か 報道",
+     "desc": "",
+     "url": "https://news.yahoo.co.jp/pickup/6601475?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261106-10",
+   "title": "民主党が上下両院の多数派を奪還",
+   "firstSeen": "2026-11-06",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-06": 2
+   },
+   "peak": 2,
+   "worldScore": 2,
+   "worldCoverage": "1/18",
+   "jpScore": 25,
+   "jpCoverage": "2/6",
+   "gap": -23,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "npr",
+     "name": "NPR",
+     "region": "world",
+     "weight": 0.3,
+     "title": "Democrats seize full control of Congress. And, which candidates made history last night",
+     "desc": "Democrats have won the House and the Senate, taking full control of Congress for the first time since 2023. And history was made in several states. Here's what happened last night.",
+     "url": "https://www.npr.org/2026/11/04/g-s1-151745/up-first-newsletter-midterms-democrats-congress-control",
+     "via": null
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.97,
+     "title": "「隠れトランプが全部剥がれた」民主党が上下両院を奪還…トランプ氏は“出口戦略”へ？2028年「ポスト・トランプ」の行方(ABEMA TIMES)",
+     "desc": "アメリカの中間選挙で民主党が上下両院ともに多数派を奪還した。予想を上回る早さで勝敗が明らかになり、トランプ大統領率いる共和党は大敗を喫した。一方でトランプ氏はSNSに「政治評論家になるつもりだ」と投稿",
+     "url": "https://news.yahoo.co.jp/articles/915ee7c5f72b0bf469009556472067c2f107e4c6?source=rss",
+     "via": null
+    },
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "トランプ氏、弾劾けん制 野党民主、下院２４０議席超―米中間選挙",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026110500197&g=int&m=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261106-12",
+   "title": "NTTドコモ、不正アクセスで最大30万件流出",
+   "firstSeen": "2026-11-06",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-06": 0
+   },
+   "peak": 0,
+   "worldScore": 0,
+   "worldCoverage": "0/18",
+   "jpScore": 16,
+   "jpCoverage": "2/6",
+   "gap": -16,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "asahi",
+     "name": "朝日新聞",
+     "region": "jp",
+     "weight": 0.48,
+     "title": "NTTドコモ、不正アクセスで情報流出 携帯番号など最大30万件",
+     "desc": "",
+     "url": "http://www.asahi.com/articles/ASVC51JL6VC5ULFA00SM.html?ref=rss",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "ドコモ、不正アクセスで最大30万件の顧客情報流出 サイトなど停止 - 日本経済新聞",
+     "desc": "ドコモ、不正アクセスで最大30万件の顧客情報流出 サイトなど停止 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5Zzh4MnRoQUlEOFdFOTA3bmFsUkoyRXBuTUdKZW1OeEIweUlabjZMM2hpZ2VXdkpPY1dTb0hxb05seHNqQUItT1ZlNmlGMS1TRUI1b3gyS0Y2aHpRTjJjbXlKaGFKZkNZcnlteQ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261106-13",
+   "title": "三井住友系の消費者金融、32万人分漏洩",
+   "firstSeen": "2026-11-06",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-06": 0
+   },
+   "peak": 0,
+   "worldScore": 0,
+   "worldCoverage": "0/18",
+   "jpScore": 17,
+   "jpCoverage": "2/6",
+   "gap": -17,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "asahi",
+     "name": "朝日新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "カードローンの借入額、32万人分漏洩 三井住友系の消費者金融大手",
+     "desc": "",
+     "url": "http://www.asahi.com/articles/ASVC523XJVC5ULFA01DM.html?ref=rss",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "三井住友系の消費者金融大手、カードローン契約額など32万人分漏洩 - 日本経済新聞",
+     "desc": "三井住友系の消費者金融大手、カードローン契約額など32万人分漏洩 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NVS13NmMwTUlMR0lzNGpMNHR0bkkycHJyMC03WHJncDF3cXFMUG84VE5lZ1REeXBIbGdhZGN4RmtoYTc5d201SEN5LWd4TmdiNzJIbUozZWR0WmFDTW5ULXg0N0h2S3JFZ1gtaA?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261106-14",
+   "title": "政府、サイバー救援隊創設へ緊急対策",
+   "firstSeen": "2026-11-06",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-06": 0
+   },
+   "peak": 0,
+   "worldScore": 0,
+   "worldCoverage": "0/18",
+   "jpScore": 15,
+   "jpCoverage": "2/6",
+   "gap": -15,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "asahi",
+     "name": "朝日新聞",
+     "region": "jp",
+     "weight": 0.42,
+     "title": "高市首相、きょうサイバー対策発表 相次ぐ攻撃「始まりに過ぎない」",
+     "desc": "",
+     "url": "http://www.asahi.com/articles/ASVC52CWHVC5UTFK003M.html?ref=rss",
+     "via": null
+    },
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "「サイバー救援隊」創設へ 政府緊急対策、６日決定",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026110500942&g=pol&m=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261106-16",
+   "title": "高市首相、日米関係強化へトランプ氏と連携",
+   "firstSeen": "2026-11-06",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-06": 0
+   },
+   "peak": 0,
+   "worldScore": 0,
+   "worldCoverage": "0/18",
+   "jpScore": 14,
+   "jpCoverage": "2/6",
+   "gap": -14,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "asahi",
+     "name": "朝日新聞",
+     "region": "jp",
+     "weight": 0.36,
+     "title": "高市首相「日米関係を強化すべくトランプ氏と協力」 中間選挙めぐり",
+     "desc": "",
+     "url": "http://www.asahi.com/articles/ASVC53JT2VC5UTFK017M.html?ref=rss",
+     "via": null
+    },
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "高市首相は米中間選挙を受け、日米関係強化のためトランプ大統領と連携すると述べた。",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026110501010&g=flash&m=rss",
+     "via": null
+    }
+   ]
+  }
+ ]
+}
