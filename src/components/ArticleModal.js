@@ -8,14 +8,15 @@
 
 import { escapeHtml, formatDate, splitParagraphs } from '../utils.js';
 import { TIERS } from '../article.js';
-import { renderScore } from './NewsCard.js';
+import { renderFacts } from './NewsCard.js';
 
 const ACCESS_LABEL = { body: '本文確認', excerpt: '抜粋確認', headline: '見出しのみ' };
 
 export function renderArticleModal(article, isBookmarked, sectionLabel) {
   if (!article) return '';
 
-  const tierLabel = article.score != null ? TIERS.find(t => t.id === article.tier)?.label : '';
+  // 国際の段階（必読など）は点数から機械的に付けたもので意味が薄いので、AI日報だけに出す
+  const tierLabel = article.stream === 'ai' && article.score != null ? TIERS.find(t => t.id === article.tier)?.label : '';
   const showOriginal = article.originalTitle && article.originalTitle !== article.headline;
 
   return `
@@ -23,7 +24,6 @@ export function renderArticleModal(article, isBookmarked, sectionLabel) {
       <div class="modal-content" role="dialog" aria-modal="true" aria-labelledby="modal-title">
         <div class="modal-topbar">
           <div class="card-meta">
-            ${renderScore(article)}
             ${article.depth === 'deep' ? '<span class="depth-badge">深掘り</span>' : ''}
             ${tierLabel ? `<span class="tier-label tier-label-${article.tier}">${tierLabel}</span>` : ''}
             ${sectionLabel ? `<span class="card-category">${escapeHtml(sectionLabel)}</span>` : ''}
@@ -37,6 +37,7 @@ export function renderArticleModal(article, isBookmarked, sectionLabel) {
           <h2 class="modal-title" id="modal-title">${escapeHtml(article.headline)}</h2>
           ${showOriginal ? `<p class="modal-original-title">${escapeHtml(article.originalTitle)}</p>` : ''}
           <div class="card-source">${escapeHtml(article.outlet)} ・ ${formatDate(article.pubDate)}</div>
+          ${renderFacts(article)}
           ${renderContinuity(article)}
           ${article.body ? renderBody(article) : renderSummary(article)}
           ${renderSources(article)}
@@ -68,7 +69,7 @@ export function renderArticleModal(article, isBookmarked, sectionLabel) {
 function renderContinuity(article) {
   const c = article.continuity;
   if (!c) return '';
-  return `<p class="continuity-note">${escapeHtml(c.previousDate)} の続き${c.previousScore != null ? `（前回 ${c.previousScore}）` : ''}</p>`;
+  return `<p class="continuity-note">${escapeHtml(c.previousDate)} の続き</p>`;
 }
 
 /** 深掘りの本文。節のラベルを見出しにして順に並べる */
