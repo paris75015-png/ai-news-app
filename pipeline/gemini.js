@@ -118,7 +118,13 @@ async function claudeJson({ system, prompt, schema, retryWaitsMs }) {
         if (/authenticat|401|403/i.test(String(res.result))) err.fatal = true; // 認証の失敗は待っても直らない
         throw err;
       }
-      const json = extractJson(res.result);
+      let json = extractJson(res.result);
+      // 形の確認（2026-11-03 は items のない JSON が返り、短信が「items is not iterable」で止まった）
+      // 配列だけが返ったときは、スキーマの唯一の配列項目として包み直す
+      const req = schema?.required || [];
+      if (Array.isArray(json) && req.length === 1 && schema.properties?.[req[0]]?.type === 'array') json = { [req[0]]: json };
+      const missing = req.filter(k => json?.[k] === undefined);
+      if (missing.length) throw new SyntaxError(`応答の JSON に ${missing.join('・')} がない`); // 再試行の対象にする
       usedModels.add(CLAUDE_MODEL);
       lastModel = CLAUDE_MODEL;
       return json;
