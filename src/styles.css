@@ -453,11 +453,22 @@ body {
   transition: color 0.2s ease;
 }
 
-.card-coverage {
-  font-size: 0.75rem;
-  color: var(--text-muted, #94a3b8);
+.card-facts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
   margin: -2px 0 2px;
 }
+.fact-chip {
+  font-size: 0.72rem;
+  line-height: 1.6;
+  padding: 0 8px;
+  border-radius: var(--radius-full);
+  color: var(--text-muted, #94a3b8);
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid var(--border-color);
+}
+.fact-chip.fact-jp-none { color: #fcd34d; border-color: rgba(245, 158, 11, 0.35); }
 
 .card-lead {
   font-size: 0.875rem;

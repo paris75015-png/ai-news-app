@@ -36,6 +36,7 @@
  * @typedef {Object} Coverage
  * @property {string} world  海外で取り上げた媒体数 'n/N'
  * @property {string} jp     日本の測定媒体の見出しに出た数 'n/N'
+ * @property {number} [daysSeen] 海外で報じられ続けている日数（短信のみ。2026-11-07 から）
  */
 
 /**
@@ -119,7 +120,8 @@ export const SECTIONS = {
   intl: [
     { id: 'followup', label: '続く話題の深掘り' },
     { id: 'world', label: '海外メディアが大きく扱った話題' },
-    { id: 'gap', label: '日本の報道が薄い話題' },
+    // 日本6媒体の主要見出しに出たかだけで測っているので、「報道が薄い」とは言わない（2026-11-07）
+    { id: 'gap', label: '日本の主要見出しに出ていない話題' },
     // 以下は 2026-10-01 以前の紙面（旧方式）の節
     { id: 'unseen', label: '日本では見えにくい論点' },
     { id: 'structural', label: '構造的トレンドの進展' },
