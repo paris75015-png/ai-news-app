@@ -1,0 +1,2562 @@
+{
+ "date": "2026-11-09",
+ "generatedAt": "2026-11-08T21:08:25.459Z",
+ "measured": {
+  "world": 18,
+  "jp": 6
+ },
+ "unreachable": [],
+ "ranking": [
+  {
+   "id": "s-20261109-01",
+   "title": "エジプトで列車衝突、7人死亡100人超負傷",
+   "firstSeen": "2026-11-09",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-09": 46
+   },
+   "peak": 46,
+   "worldScore": 46,
+   "worldCoverage": "13/18",
+   "jpScore": 17,
+   "jpCoverage": "1/6",
+   "gap": 29,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.96,
+     "title": "Seven dead and more than 100 injured after trains collide in Egypt",
+     "desc": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
+     "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 1,
+     "title": "Collision of two trains in Egypt kills at least seven",
+     "desc": "President orders prompt investigation after one train derails in collision in al-Ayyat about 30 miles from Cairo Seven people were killed and more than 100 injured when two trains collided on Sunday south of the Egyptian capital, Cairo, officials said. The crash occurred in al-Ayyat district in Giza province, about 30 miles south of Cairo, when a train travelling to Fayoum province crashed into the rear of a train heading to the southern province of Aswan, according to the transport ministry. Continue reading...",
+     "url": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Train crash kills seven, injures dozens near Egypt’s Cairo city",
+     "desc": "The passenger train was travelling from Egypt&#039;s capital to Aswan in the south when it derailed, overturning carriages.",
+     "url": "https://www.aljazeera.com/news/2026/11/8/train-crash-kills-four-injures-dozens-near-egypts-cairo-city?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.97,
+     "title": "Trains Collide Near Cairo, Killing 4",
+     "desc": "The crash between two passenger trains was the latest in a history of deadly rail accidents in Egypt, despite billions spent modernizing the network.",
+     "url": "https://www.nytimes.com/2026/11/08/world/middleeast/egypt-train-collision-al-ayyat-district.html",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "At least seven dead, more than 100 injured as two trains collide south of Cairo",
+     "desc": "The accident occurred about 52 kilometres south of Cairo, when one train hit the rear of another and one derailed. Egyptian President Abdelfatah al-Sisi has ordered an investigation to determine the causes and responsibility.",
+     "url": "https://www.euronews.com/2026/11/08/at-least-four-dead-88-injured-as-two-trains-collide-south-of-cairo",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Train collision in Egypt kills 7, injures 112",
+     "desc": "Two trains collided south of the Egyptian capital on Sunday, derailing several carriages, killing seven people and injuring more than 100 others, according to the authorities. Egypt’s railway authority said a train travelling from Giza to Fayoum crashed into the rear of another service heading south from Cairo to the city of Aswan. The health ministry said 112 people were injured and were now being treated in hospitals around the Giza area. The ministry said the injuries ranged from bruises and...",
+     "url": "https://www.scmp.com/news/world/africa/article/3373713/train-collision-egypt-kills-4-injures-88",
+     "via": null
+    },
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 0.72,
+     "title": "Seven dead and 114 injured in train crash near Cairo",
+     "desc": "At least seven people have died and more than 100 have been left injured in a major train crash south of Cairo, according to the Egyptian Chief Prosecutor’s office.",
+     "url": "https://news.sky.com/story/four-dead-and-88-injured-in-train-crash-near-cairo-13609748",
+     "via": null
+    },
+    {
+     "id": "abc-au",
+     "name": "ABC Australia",
+     "region": "world",
+     "weight": 0.65,
+     "title": "Seven dead and 100 injured after trains collide in Egypt",
+     "desc": "The collision on the edge of Cairo killed at least seven people and injured more than 110.",
+     "url": "https://www.abc.net.au/news/2026-11-09/train-collision-egypt-giza/107361794",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trains collide in Egypt, killing at least 7 and injuring more than 100",
+     "desc": "The crash occurred in al-Ayyat district in Giza province, about 32 miles south of Cairo, when a train traveling to the southwestern Fayoum province crashed into the rear of another train.",
+     "url": "https://www.cbsnews.com/news/trains-collision-egypt-giza/",
+     "via": null
+    },
+    {
+     "id": "toi",
+     "name": "Times of India",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Egypt train collision: Several injured as train derails after hitting another train",
+     "desc": "",
+     "url": "https://timesofindia.indiatimes.com/world/rest-of-world/egypt-train-collision-over-60-injured-as-passenger-train-derails-after-hitting-another-train-in-giza/articleshow/135660889.cms",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Train collision in Egypt’s Giza kills 4, injures 88",
+     "desc": "One train crashed into the rear of another service, according to the rail authority.",
+     "url": "https://www.straitstimes.com/world/train-collision-in-egypts-giza-kills-4-injures-88-health-ministry",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Train collision in Egypt kills at least 7, injures dozens, health ministry says - Reuters",
+     "desc": "Train collision in Egypt kills at least 7, injures dozens, health ministry says Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQTVkajR2S0QtUzdnUVhFVGh6b3JRdjFaOWx1VGVySUdhcjVYck1Sbm54emJiZy1XX3RNbkFDTDdPcDI0UGYyUjZWczVWNW5lOEVKekpLOF9hbkNHWXdmUG5wdFFTODRMSlhLV09LX3Q1d1BMdjZjTVBocUcwdFpYS0ZvWkoyc3lnakN4QXY2N05LbFQzb1JqYy1KWjNWOGIwd3MwbC1PZmgyd0o5NS1ZWmtLU0FaUktSSHRCOWtsaG1mcHc?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Collision between 2 trains in Egypt kills 7 and injures at least 125 - AP News",
+     "desc": "Collision between 2 trains in Egypt kills 7 and injures at least 125 AP News",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR1pDemVhQ0RJdmhpWXA2akRYZHFLSkpCaXlHdUIwRmZab2JCcHdDMEU0VU5QajU2ODBvc21yUm5TLW9oUlRhWVI0Z2FUX2cta21RZFhYSEJIa3R4TjhDQkpnTWlBS0VvZDRhSnowTGlwdThyODM2UlEwTHlHQnM3N0E5LTR5dWlXZEZDZS02T3NlbnBmQ1ZaSXdhV21nbVJWRmZuTWF6Q3g5MDQ?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 1,
+     "title": "列車追突で脱線、7人死亡 エジプト、百人以上負傷(共同通信)",
+     "desc": "【カイロ共同】エジプトの首都カイロ近郊ギザで8日、列車が別の列車に追突する事故があり、車両の一部が脱線した。鉄道当局が発表した。検察当局は、運転士を含む7人が死亡し、100人以上が負傷したと明らかにし",
+     "url": "https://news.yahoo.co.jp/articles/0f403f3b8a53d4c027aad6efa0231bb6b14773fb?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261109-02",
+   "title": "クラクフ銃乱射、6人死亡 テロ捜査へ",
+   "firstSeen": "2026-11-09",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-09": 46
+   },
+   "peak": 46,
+   "worldScore": 46,
+   "worldCoverage": "13/18",
+   "jpScore": 17,
+   "jpCoverage": "2/6",
+   "gap": 29,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 1,
+     "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+     "desc": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
+     "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.59,
+     "title": "Two police officers hailed as heroes for confronting Kraków gunman",
+     "desc": "Jakub Kulik critically injured and Artur Morański also wounded after actions that ‘prevented further casualties’ Two Polish police officers who were injured as they pursued and detained the gunman in Kraków on Saturday have been hailed as heroes. One of them is Jakub Kulik, a former paratrooper and volunteer firefighter, who was left critically injured after a close-range exchange of fire with the suspect, a 24-year-old Polish national who killed six and injured 17 in an attack believed to have been inspired by far-right ideologies. Continue reading...",
+     "url": "https://www.theguardian.com/world/2026/nov/08/two-police-officers-heroes-confronting-krakow-gunman-poland",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.94,
+     "title": "What to Know About the Mass Shooting in Krakow, Poland",
+     "desc": "At least nine people were dead and at least 16 injured after shootings in Krakow and another town, the police said. The motive remains unclear.",
+     "url": "https://www.nytimes.com/2026/11/08/world/europe/poland-krakow-mass-shooting.html",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Poland in shock after 6 killed in Krakow far-right shooting",
+     "desc": "Poland on Sunday launched a terror probe into the mass shooting in Krakow the day before, in which six people were killed and many more were injured. Authorities have said that the 24-year-old suspect, who used a semi-automatic rifle in his killing spree, was “fascinated by far-right ideologies”. He is currently in critical condition in hospital. FRANCE 24 journalist Adrien Sariat reports from Poland.",
+     "url": "https://www.france24.com/en/poland-in-shock-after-6-killed-in-krakow-far-right-shooting",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Condolences and solidarity: European and world leaders react to Krakow shooting.",
+     "desc": "The tragedy in Krakow sparked reactions worldwide. Leaders of Germany, France, Italy, Ukraine, the Baltic states, the EU and the US offered condolences, stressing: \"Poland does not stand alone\".",
+     "url": "https://www.euronews.com/2026/11/08/condolences-and-solidarity-european-and-world-leaders-react-to-krakow-shooting",
+     "via": null
+    },
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 0.86,
+     "title": "Briton among six killed by 'far-right' gunman in Krakow rampage",
+     "desc": "A 32-year-old British man is among six people killed in a mass shooting in Krakow, in which another Briton was wounded, Polish officials have said.",
+     "url": "https://news.sky.com/story/british-national-among-six-killed-by-far-right-gunman-in-krakow-rampage-13609612",
+     "via": null
+    },
+    {
+     "id": "abc-au",
+     "name": "ABC Australia",
+     "region": "world",
+     "weight": 0.94,
+     "title": "Poland treats fatal mass shooting as 'terrorist offence'",
+     "desc": "Four women and two men were killed in the shooting in the Main Square of Krakow's Old Town, which Poland's defence minister has described as an \"act of terror\".",
+     "url": "https://www.abc.net.au/news/2026-11-09/poland-treating-mass-shooting-as-terrorist-offence/107362106",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Poland mourns Krakow shooting victims as terrorism probe launched",
+     "desc": "The attack, which Poland&#039;s defense minister described as an \"act of terror,\" happened in Main Square, a major tourist hub in the heart of Krakow&#039;s Old Town.",
+     "url": "https://www.cbsnews.com/news/poland-mourns-krakow-mass-shooting-victims-terrorism-probe/",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Krakow assailant appeared highly skilled, fellow shooting club member says",
+     "desc": "STARACHOWICE, Poland, Nov 8 - The young gunman who killed six people in central Krakow on Saturday in Poland's unprecedented mass shooting appeared to be highly skilled in military-style marksmanship, the spokesperson for his sports shooting club said on Sunday.",
+     "url": "https://www.straitstimes.com/world/europe/krakow-assailant-appeared-highly-skilled-fellow-shooting-club-member-says",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Poland mourns victims of Krakow shooting amid security fears - Reuters",
+     "desc": "Poland mourns victims of Krakow shooting amid security fears Reuters",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVjUxVkw1TWRaU0FNWjdiZlUyUk9KcmFRMjlobjltclhvd2xEMFZic2QyLVJ1U2M4WEtOVWJ0S3J6WHdkT19pcUJwQml5Z3UyLV9PalUtQWV5X1J0dzJVMnFyc2pDQllBWTNKNTh2dVNkUVFMQWZ0OWlnUFp0Tm5LZmt0YXItSUprX09QVE93dElVd082LXpyck04QU0xemMySklEV0xSVDZRcWx5LVdUWA?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Polish gunman who killed 6 people in Krakow has ‘ultranationalistic’ views, authorities say - AP News",
+     "desc": "Polish gunman who killed 6 people in Krakow has ‘ultranationalistic’ views, authorities say AP News",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOT3JpbnhmUWhOUkNrNkUwYVdXYkk1cDFHbEVsVGlsOElHU1dkOUNWa3JVLUdsWkdlQ1A1aWlqbkRQMmVxMk1iRko4Vng5cWdKWTA2cVdBR0xaVUVWU3pQbjJveEFwbzhmTktUX0dyQWFxX3R4eU9zbFFaWTBBM3FRaDE1TW1pZFJHUlBJbVpGMHZCVnpZVV9FUGVn?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Poland’s Deadliest Shooting in Years Deepens Political Divide - Bloomberg.com",
+     "desc": "Poland’s Deadliest Shooting in Years Deepens Political Divide Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX2hwd0JrVldmU3RLTkJIQU54RHMzMEZnWV9ZRHU3bXgtbW9oWE80VEttTGR5S1RiV0owUDl5NW5kdlQxaVlhTXFwX0lndzFqcFdobVlaOTcwS0QyVzd0azJwTGxlSzFiRGpxR0k3bzBMS3RYbXR2bW5xcGNSTE1sb3c5ZDFNanNMZG9abTducnhDY2xfajZMQ21RSmJPWmZtUlZRaVlCZV9hc3NXTEY5emR3?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Gunman kills six in Kraków shooting - Financial Times",
+     "desc": "Gunman kills six in Kraków shooting Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONEFvcW0yMFZtXzY2UHp6SVc1cHZLTGh6NzhfdUFZSU5zMTRaWVFXYzZUQWc5RkVMcFJfQU1nQjFwTDZZS2lDTFZSWmFIOFEwZ3A2QTVoRkV4RXZBSGRwOF95OHgxbWx3Z0pXWTd0Nm50Yzd4bnRNTktFTDRXZXdJVnc2M2w?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "中心市街で銃乱射、６人死亡 実行犯は極右思想傾倒か―ポーランド南部",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026110800135&g=int&m=rss",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "ポーランド南部、銃乱射事件で6人死亡 容疑者を拘束 - 日本経済新聞",
+     "desc": "ポーランド南部、銃乱射事件で6人死亡 容疑者を拘束 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sdDFLTzlfa2NjWmo4dERVZEdwaWdpZ29rcWlPT28wTWxqbkhfVXlnZDN4bjVoRmp0dGVOV0NvbGxSVGFUQnFkTU1WTjdydXFHNV9uYllVN3E5ZmUxRHVrN1EtLXQyQU1ZS0VYag?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261028-01",
+   "title": "イスラエル大統領、アイゼンコット氏に組閣指示",
+   "firstSeen": "2026-10-28",
+   "daysSeen": 9,
+   "history": {
+    "2026-10-28": 32,
+    "2026-10-29": 49,
+    "2026-10-30": 33,
+    "2026-10-31": 23,
+    "2026-11-03": 10,
+    "2026-11-04": 10,
+    "2026-11-05": 10,
+    "2026-11-06": 16,
+    "2026-11-09": 43
+   },
+   "peak": 49,
+   "worldScore": 43,
+   "worldCoverage": "14/18",
+   "jpScore": 28,
+   "jpCoverage": "3/6",
+   "gap": 15,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Gadi Eisenkot reaches out to Netanyahu allies as he strives to form government",
+     "desc": "Former military chief says prime minister brought Israel to historic crisis and it is approaching ‘point of no return’ Israel’s former military chief Gadi Eisenkot started the tough task of forming a government on Sunday, reaching out to Benjamin Netanyahu’s allies as he said the veteran prime minister had brought the country to a historic crisis. Eisenkot, 66, the leader of the Yashar party, who has vowed to bridge Israel’s deep polarisation under Netanyahu, formally received a mandate from the president, Isaac Herzog, who gave him 28 days to form a government despite his bloc lacking a clear",
+     "url": "https://www.theguardian.com/world/2026/nov/08/gadi-eisenkot-netanyahu-allies-form-israel-government",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Eisenkot open to Netanyahu joining Israel’s next government",
+     "desc": "Israel&#039;s president officially tasks the opposition leader with forming a new government.",
+     "url": "https://www.aljazeera.com/news/2026/11/8/israels-president-tasks-eisenkot-to-form-new-coalition-government?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.88,
+     "title": "How Israel’s Opposition Could Unseat Netanyahu (or Not)",
+     "desc": "Gadi Eisenkot, the leading rival of Prime Minister Benjamin Netanyahu, now has a chance to form Israel’s governing coalition. Here are three routes he could try.",
+     "url": "https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html",
+     "via": null
+    },
+    {
+     "id": "dw",
+     "name": "Deutsche Welle",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Israeli president tasks Gadi Eisenkot with forming government",
+     "desc": "President Isaac Herzog has picked former Israeli military chief Gadi Eisenkot, leader of an anti-Netanyahu alliance, to take the first shot at trying to form a government. Tricky coalition talks are expected.",
+     "url": "https://www.dw.com/en/israeli-president-tasks-gadi-eisenkot-with-forming-government/a-79888288?maca=en-rss-en-world-4025-rdf",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Gadi Eisenkot receives mandate to form government",
+     "desc": "Israel's opposition leader Gadi Eisenkot has officially been tasked with forming the country's next government, following a formal announcement by President Isaac Herzog. He now has up to six weeks to negotiate with potential coalition partners and secure a parliamentary majority. While an alliance with Arab Israeli parties appears to be the easiest option mathematically, it remains politically sensitive. Eisenkot must now navigate difficult negotiations to build a coalition capable of replacing Benjamin Netanyahu. Noga Tarnopolsky reports from Jerusalem.",
+     "url": "https://www.france24.com/en/gadi-eisenkot-receives-mandate-to-form-government",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Netanyahu rival Eisenkot to be tasked with forming new government following Israeli elections",
+     "desc": "In Israel, a candidate tasked with forming a new government has 28 days to carry out the job. The president is able to extend this by a maximum of 14 days before giving the mandate to someone else.",
+     "url": "https://www.euronews.com/2026/11/08/netanyahu-rival-eisenkot-to-be-tasked-with-forming-new-government-following-israeli-electi",
+     "via": null
+    },
+    {
+     "id": "npr",
+     "name": "NPR",
+     "region": "world",
+     "weight": 0.56,
+     "title": "Israeli president invites Netanyahu's opposition leader to broker new government",
+     "desc": "Israel's political landscape shifts as President Herzog hands opposition leader Gadi Eisenkot the mandate to form a government, dealing a blow to Benjamin Netanyahu's grip on power.",
+     "url": "https://www.npr.org/2026/11/07/nx-s1-6032606/israeli-president-invites-netanyahus-opposition-leader-to-broker-new-government",
+     "via": null
+    },
+    {
+     "id": "abc-au",
+     "name": "ABC Australia",
+     "region": "world",
+     "weight": 0.8,
+     "title": "Eisenkot is trying to form government in Israel. Here are five ways it could go",
+     "desc": "Gadi Eisenkot's path to power could involve some creative political arithmetic and manoeuvring. So, what are the options from here?",
+     "url": "https://www.abc.net.au/news/2026-11-09/five-ways-israel-coalition-negotiations-could-go/107361790",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Israel&#039;s president taps opposition candidate Eisenkot to form a government",
+     "desc": "Gadi Eisenkot, a former military chief, ran against Prime Minister Benjamin Netanyahu, but neither won a clear majority.",
+     "url": "https://www.cbsnews.com/news/israel-election-government-gadi-eisenkot-benjamin-netanyahu/",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Netanyahu rival Eisenkot seeks ‘wide’ government but path to power uncertain",
+     "desc": "His options include relying on Arab party support, forming an ultra-Orthodox coalition or joining Netanyahu in a unity government; all are fraught with obstacles.",
+     "url": "https://www.straitstimes.com/world/middle-east/netanyahu-rival-eisenkot-seeks-wide-government-but-path-to-power-uncertain",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Netanyahu rival Eisenkot seeks 'wide' government but path to power uncertain - Reuters",
+     "desc": "Netanyahu rival Eisenkot seeks 'wide' government but path to power uncertain Reuters",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQejJnOTcwYVNEbnpEdVN4M0cwM3BsNEVBbXBpd21YUEcyM3RfX0FKUWsxaHk2dDVmc2NZZXR5cmNZY1NyY0o2MzlMSzU3SW1oVFpadFRLWjlTWHlWY3UxN2FXbUNQeFB4TlZrNlRyRW5jal9zQ2NaQWE2aGNfbHQxb1Zxb3VHcjRxcnNFaDZpdEw0Vm14eHNPLTVhM2l1ejJiYkMyQU51YzZRWEZSdm51ck5HOUh2NFNaQW5ONnhn?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Israel’s president taps opposition candidate Eisenkot to form a government, in setback for Netanyahu - AP News",
+     "desc": "Israel’s president taps opposition candidate Eisenkot to form a government, in setback for Netanyahu AP News",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ2hLdHByWTZwTzZfZ1oxdmpTcXltazRXS3hxcEczRm1taGhHd0JJSW9KVEdmMDlUMjRsai02SzdkbkNwWFRwZnBXelM5TldhSG10anV2dE1tSGVXbFRERHdBSWI3bkN3bC1pTDkySGZEakxPUWd0X2xsa011SWxYcFFR?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Eisenkot Gets Chance to Form Israeli Govt After Tight Vote - Bloomberg.com",
+     "desc": "Eisenkot Gets Chance to Form Israeli Govt After Tight Vote Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaVZud29jTGxDTUtlcHRIN1ZMcDRMcmNDQ0NtN2kwUGFFZUNfbjNxMWhjR2FrXzc2WWUwRHhQQUFycVQ0eVl0NkxFS0JHSFljd3VVS05FM3pPU2tQQy1qRkxwRjk0ZnpMWTJocEZTZDdXMjdEWS13amNyeUxqZzlrUE1PcTFFNUdSYTJzS3pmUW43QWJGNmFEbldyNzI0ZDZuc0lKQ19sdFgtbWxZQV96R0pn?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Israel’s president gives Gadi Eisenkot first chance at forming government - Financial Times",
+     "desc": "Israel’s president gives Gadi Eisenkot first chance at forming government Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYTZjUWtqZE5xNi1MSGprM2UxMzFpWml5MFNDakFiclhwN0VERnNudk9reHJaVm1LcmN0VXNUcy1yTWNQREVFd0JkQTd0WDk5aFBiZm5ZQTI3bWYzMXFjc2RxX2FFZnIyRi01UkhoNkxBbm1FT3FjYTJPaU9TRExzby1oS24?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "イスラエル大統領、野党党首に組閣指示へ 反ネタニヤフ陣営結集へ連立交渉",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026110800117&g=int&m=rss",
+     "via": null
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.68,
+     "title": "元軍参謀総長に組閣指示 イスラエル、連立交渉加速(共同通信)",
+     "desc": "【エルサレム共同】イスラエルのヘルツォグ大統領は8日、国会（定数120）総選挙の結果を受け、反ネタニヤフ首相陣営を率いる中道ヤシャルの党首、アイゼンコット元軍参謀総長に組閣を指示した。連立交渉が一段と",
+     "url": "https://news.yahoo.co.jp/articles/d64f1a1d6580b52ce17a7a05df35d055fb9f7762?source=rss",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "イスラエル大統領、野党アイゼンコット氏に組閣要請 連立交渉は難航 - 日本経済新聞",
+     "desc": "イスラエル大統領、野党アイゼンコット氏に組閣要請 連立交渉は難航 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13UGxqNXZjNnMxNWxUUDROWWJYakNZejRJTkxrWGktQjRKclZpcFZVMnMtemhlQVFtQXAteEV4eHdJdHUxdDF5aTJ3aDluU3Zkbk0yZGY5REZXNEN3WVlWdHNzS2VtSGFEYmc5Qg?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261109-16",
+   "title": "教皇レオ14世、ウルグアイ・アルゼンチン歴訪",
+   "firstSeen": "2026-11-09",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-09": 42
+   },
+   "peak": 42,
+   "worldScore": 42,
+   "worldCoverage": "12/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 42,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.73,
+     "title": "Pope in 'pretty good health' as he starts Latin America tour",
+     "desc": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.",
+     "url": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.94,
+     "title": "Pope’s visit to Argentina sets up showdown with ‘hyper-capitalist’ Milei",
+     "desc": "President has opposing views on many issues, and once called Leo’s predecessor the ‘representative of the Evil One’ Trees are being planted in the garden. The brightly coloured buildings are getting another coat of paint. The choir rehearses. Hundreds of other residents, several of them using wheelchairs, practise their positions outside the sanctuary. Excitement is in the air, because on Monday 9 November, the Cottolengo Don Orione – a Catholic-run home for disabled people – will be the first stop on Pope Leo XIV’s first full day of his trip to Argentina. But the pope’s visit to Claypole, abo",
+     "url": "https://www.theguardian.com/world/2026/nov/08/popes-visit-to-argentina-sets-up-showdown-with-hyper-capitalist-milei",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Pope Leo XIV delivers homily to thousands in Uruguay",
+     "desc": "Pope Leo XIV delivers homily to thousands in Uruguay",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/pope-leo-xiv-delivers-homily-to-thousands-in-uruguay?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 1,
+     "title": "In Argentina, Pope Leo to Meet Church at Odds With President Milei",
+     "desc": "The pontiff’s trip comes amid tensions between the country’s libertarian leader and its Catholic Church, which is deeply committed to social justice.",
+     "url": "https://www.nytimes.com/2026/11/08/world/americas/pope-leo-argentina-milei.html",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Pope Leo urges men to respect wives amid Latin American femicide crisis",
+     "desc": "Pope Leo XIV urged men to respect their wives as he wrapped up the first leg of his 12-day tour of Latin America. The region recorded nearly 20,000 instances of women being killed over the past five years alone, most of them murdered by a current or former partner.",
+     "url": "https://www.france24.com/en/americas/20261108-pope-leo-urges-husbands-to-respect-wives-amid-femicide-crisis-across-latin-america",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Pope Leo XIV ends his visit to Uruguay with a tribute to women before departing to Argentina",
+     "desc": "Tens of thousands of people packed Florida’s main square for the Mass under brilliant blue skies, some walking for several kilometers to reach the site. The city has a population of about 40,000 but the Vatican estimated 50,000 were attending.",
+     "url": "https://www.euronews.com/2026/11/08/pope-leo-xiv-ends-his-visit-to-uruguay-with-a-tribute-to-women-before-departing-to-argenti",
+     "via": null
+    },
+    {
+     "id": "npr",
+     "name": "NPR",
+     "region": "world",
+     "weight": 0.82,
+     "title": "After a successful trip to Uruguay, Pope Leo heads to Argentina",
+     "desc": "On Sunday, tens of thousands packed the main square in Florida, Uruguay, to watch Pope Leo speak.",
+     "url": "https://www.npr.org/2026/11/08/nx-s1-6033992/after-a-successful-trip-to-uruguay-pope-leo-heads-to-argentina",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Pope Leo leaves Uruguay and heads to most fraught stop of his tour in Milei’s Argentina",
+     "desc": "Pope Leo XIV wrapped up his visit to Uruguay on Sunday by praising the women who have passed the Catholic faith on to younger generations, as he highlighted the role the church has played since the founding of Latin America’s most secular country. The pope travelled to the city of Florida, north of Montevideo, to mark an important Catholic feast day before heading to Argentina for the second leg of his South American tour. It is expected to be the most politically delicate stop, given the...",
+     "url": "https://www.scmp.com/news/world/americas/article/3373717/pope-leo-leaves-uruguay-and-heads-most-fraught-stop-his-tour-mileis-argentina",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Pope Leo calls for universal healthcare weeks after lung cancer surgery",
+     "desc": "Pope Leo XIV spoke about access to healthcare on his first stop in Uruguay during his 12-day Latin American tour.",
+     "url": "https://www.cbsnews.com/news/pope-leo-xiv-universal-healthcare-uruguay/",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Leo's trip will be the papal visit Argentines hoped Francis would make",
+     "desc": "BUENOS AIRES, Nov 8 - Pope Leo's arrival in Argentina on Sunday, the second stop on his South American tour, marks a papal visit many Catholics hoped his predecessor, Francis, would make.",
+     "url": "https://www.straitstimes.com/world/europe/leos-trip-will-be-the-papal-visit-argentines-hoped-francis-would-make",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Pope Leo arrives in Milei's Argentina as tensions loom over austerity, Iran - Reuters",
+     "desc": "Pope Leo arrives in Milei's Argentina as tensions loom over austerity, Iran Reuters",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYV8wSU00NXg1Q0xRcmpIZWxTdkhGYV8zZmZuZ1pxdWpwQWpabFdGQVFQY1VSUkY5cUdNd1lnQWJjV3VkYy11Sk1nUHdkeGdnbFZ3bXRTNGxaeE9XWnVHRHlMVEF2T0I3QjVEX2dLY054QlZWUi1aTnBzc01RY21GUG1MYXhTcXhmZTl2UF9XZDh5WHlrNjk4ZXZ0OU16UkNhdnBjUi1mSDAwSkpxTnRMQjBLa3BVaWs?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "With an ode to mate tea, pope urges faithful in Uruguay to build bridges of fraternity and faith - AP News",
+     "desc": "With an ode to mate tea, pope urges faithful in Uruguay to build bridges of fraternity and faith AP News",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONEJXOWR4cEZFc2ZCSUozaVVxQ1ZTNGFqc2taVW96VVNXRkkwR2Z1ZFpEYU9wbWZjSGRzMTY5cV9EOElweEl0T0tVY1dfX0JoMEF0SWJNUnN2aF95S3hGbm5yWXpPQW8zZnBrNmJVMUpRYkxIYVFaVXJZRnM5bGtiQ0xMUGlhVlZCWVRJZmY3aEk5WndxUlhhN2s5T2U?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261109-14",
+   "title": "フーシ派、リヤドのアラムコ施設を攻撃",
+   "firstSeen": "2026-11-09",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-09": 22
+   },
+   "peak": 22,
+   "worldScore": 22,
+   "worldCoverage": "7/18",
+   "jpScore": 8,
+   "jpCoverage": "1/6",
+   "gap": 14,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.91,
+     "title": "Saudi Aramco Tower Damaged as Yemen’s Houthis Attack Riyadh",
+     "desc": "The Saudi authorities said no one was hurt after “falling shrapnel” hit the building in Riyadh’s financial district — one of the highest-profile areas targeted by the Houthis.",
+     "url": "https://www.nytimes.com/2026/11/08/world/middleeast/saudi-aramco-tower-riyadh-hit.html",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Yemen's Houthis claim attack on Aramco skyscraper in Riyadh",
+     "desc": "A skyscraper belonging to Saudi oil giant Aramco was hit by a Houthi-claimed attack on Sunday, blowing out windows across several floors but causing no casualties. The Iran-aligned group has repeatedly targeted Aramco facilities and infrastructure.",
+     "url": "https://www.france24.com/en/middle-east/20261108-yemen-s-houthis-claim-attack-on-aramco-building-in-riyadh-s-financial-district",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Houthi attack damages Aramco building in Riyadh’s financial district",
+     "desc": "Windows were blown out across several floors of Saudi oil giant Aramco’s corporate office in the heart of the financial district of the capital Riyadh on Sunday by what the energy ministry said was debris from an attempt to attack the building. The ministry said damage to the ‌Aramco Tower was limited and there were no injuries or fatalities, without assigning responsibility for the attack. The Saudi-led coalition fighting Iran-aligned Houthis in Yemen said Saudi air defences had intercepted...",
+     "url": "https://www.scmp.com/news/world/middle-east/article/3373700/saudi-aramco-building-riyadh-damaged-attempted-attack",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Houthi attack damages Aramco building in Riyadh's financial district - Reuters",
+     "desc": "Houthi attack damages Aramco building in Riyadh's financial district Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMEd1Mi1tMEV0cUFGYkd2V01lQ1NkczNNYzZXTlpTOXByR3BaSk82N21DOEpTeEtNMlJ1bFJ3S2pLTVZBOUp5cDFwOUpGakNxMTR1a2RyaHJBcDNOZUJqR1dDZllfejBPWGZ3UVYyT2s3Uk9XaFE3LW1qQkxtNHhlcmFRcGk0bDlWeHZyQmNNOEJyT1lWeVZlTEJlZ0xpRHF6UUs0RnRTWExlbEJ4eDc4YTY4d0VfM2x3dllKUGhZa1Z4QQ?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Saudi Arabia intercepts missiles as Aramco building in Riyadh is damaged, and other Mideast news - AP News",
+     "desc": "Saudi Arabia intercepts missiles as Aramco building in Riyadh is damaged, and other Mideast news AP News",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOU1hPV0p1dkZfcU92OEJVMkYtQTNHb3hKSDdGZHp5U1RkUTZlc2dzTU9oNjQ4dk5nUGZ6WVhkTlk2VTJ0cFkxOHozbE9aWUJObXFUYVBCZEwtaktnOGExQjVfUlhNdFlxRV9KeHMzS1Rsc2c3OFAxNHF6RjM2X0FRamhCalJsTk1BY1g2NFhHX2ZnUQ?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Saudi Aramco Tower Targeted in Rare Strike on Riyadh Finance Hub - Bloomberg.com",
+     "desc": "Saudi Aramco Tower Targeted in Rare Strike on Riyadh Finance Hub Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLUpUaXJBZU5CYXNqcDJjZkEtUlc5MWZRcVlsWmFWaWhDcHRJMTNLM05iV25SMEtHTGZyTTZHN3NlaGlGY1dwUFUxQmxXcFNxdmt5R3J1MVJGbmdjblFVMmR0UldtU2M3b0htSGE0YmNBSnNpd1JtVnJHTWlMMnRycHdYUFR1WGN5ck1rdjM0ZmtjNEstR1ZjZjh5X1d2M3g4RUY0bXVoR1VOOUNuWllTVm9qVzJuQQ?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Saudi Aramco office in Riyadh damaged in latest Houthi strikes - Financial Times",
+     "desc": "Saudi Aramco office in Riyadh damaged in latest Houthi strikes Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNd0pYaTlDYm1VZnZDclFIendYbXdjbUpSbzJIR0dKSXlTUFNaTTZjSFd5T0huLWJZQlc2dGJxTWpUbHVoZ1JJbFhIQ3dOZWtzeWVMbVp6eXZYMlUyTldVc0JIdHVPNndGbEdTOHVOdUhtUHppZHhZVHVhNy14eVJJUHJYazM?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "フーシ声明「サウジアラビア首都を攻撃した」 イエメンでは33人死亡 - 日本経済新聞",
+     "desc": "フーシ声明「サウジアラビア首都を攻撃した」 イエメンでは33人死亡 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCcndrRlNVR2c5ZGljUUtfMTFtVjhCeV8yV1BSNlJDenhCYmFfYm1BcFpIUlgyYnZyOEk3SUFtNk9pMzFBcTQwWVUta0ZrdDVQSUNqek1KTW1iR0xkVjJtNkx1Rk4zVmI1TzF2eg?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261103-36",
+   "title": "欧州もアブダビのウクライナ協議に参加へ",
+   "firstSeen": "2026-11-03",
+   "daysSeen": 4,
+   "history": {
+    "2026-11-03": 3,
+    "2026-11-04": 11,
+    "2026-11-05": 6,
+    "2026-11-09": 17
+   },
+   "peak": 17,
+   "worldScore": 17,
+   "worldCoverage": "5/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 17,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Europe will take part in US-mediated Ukraine talks in Abu Dhabi, French FM says",
+     "desc": "France will participate in the upcoming Abu Dhabi peace talks on ending the Ukraine war, Foreign Minister Jean-Noël Barrot said Sunday, adding that Europeans will be represented at the summit. The talks will take place under US mediation on Tuesday and Wednesday.",
+     "url": "https://www.france24.com/en/europe/20261108-europe-will-take-part-us-mediated-ukraine-peace-talks-abu-dhabi-french-fm-says",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Europeans to join Russia-Ukraine talks in Abu Dhabi, says French FM Barrot",
+     "desc": "\"No one will speak in our name\", French Foreign Minister Jean-Noël Barrot says, adding that Europeans will join next week's Russia-Ukraine talks. He also accused hard left presidential candidate Jean-Luc Mélenchon of echoing Kremlin propaganda.",
+     "url": "https://www.euronews.com/2026/11/08/europeans-to-join-russia-ukraine-talks-in-abu-dhabi-says-french-fm-barrot",
+     "via": null
+    },
+    {
+     "id": "npr",
+     "name": "NPR",
+     "region": "world",
+     "weight": 1,
+     "title": "Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections",
+     "desc": "France says European officials will attend this week's U.S.-mediated Russia-Ukraine talks in Abu Dhabi, the first three-way round of negotiations since February.",
+     "url": "https://www.npr.org/2026/11/08/nx-s1-6034014/europe-join-us-brokered-ukraine-talks-abu-dhabi-russia",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Europeans will join Ukraine talks in Abu Dhabi, French foreign minister says",
+     "desc": "PARIS, Nov 8 - Europeans will participate in talks on Ukraine in Abu Dhabi next week, French Foreign Minister Jean-Noel Barrot said on Sunday.",
+     "url": "https://www.straitstimes.com/world/europe/europeans-will-join-ukraine-talks-in-abu-dhabi-french-foreign-minister-says",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Europeans will join Ukraine talks in Abu Dhabi, French foreign minister says - Reuters",
+     "desc": "Europeans will join Ukraine talks in Abu Dhabi, French foreign minister says Reuters",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ2FDU05aeklyMGVkQjdLeFI3el9yaEtTUTF0RUlTQndFY2hZTVM2MFM0ZkhUX0RoUkI3VWxMQmZ0WGdmbmxyNVN2ZVRsQ2J0U29QaEljZXZVdFkwVG9IYmtHaGhIeUYyNXZ2U3didGRaUm95S3M5WEJBMjhCTkRhbndRUURPcXdmUVZWR2pHV0hWT0ZvTEFuUTVKcFdNZElmeklRNHhpWEc4TkQ0VEZ3ZUxqbVJKb0NzaTJ2cnBR?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261109-18",
+   "title": "ニュージーランド総選挙、結果判明せず連立交渉へ",
+   "firstSeen": "2026-11-09",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-09": 17
+   },
+   "peak": 17,
+   "worldScore": 17,
+   "worldCoverage": "4/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 17,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.81,
+     "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+     "desc": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
+     "url": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.85,
+     "title": "NZ election 2026: New Zealand faces weeks of uncertainty with results ‘too close to call’",
+     "desc": "National party will be largest in parliament but ultimate shape of next government won’t be settled for some time New Zealand could be facing a weeks-long wait to know the shape of its next government, after its nail-biting election failed to hand a decisive victory to either the incumbent rightwing coalition or opposition left bloc. On preliminary results, the centre-right National party, led by the prime minister, Christopher Luxon, managed to secure enough seats to govern alongside its traditional coalition partners, the libertarian Act and populist New Zealand First parties. Continue readi",
+     "url": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "New Zealand's knife-edge parliamentary election delivers no clear winner",
+     "desc": "No clear winner was produced in New Zealand’s legislative elections Saturday, setting up the two main blocs – Prime Minister Christopher Luxon's right-wing coalition and opposition leader Chris Hipkins' left-wing alliance – for weeks of political wrangling to attempt to cobble together a majority. Hipkins said that while New Zealanders had spoken, \"it may take us a little bit longer to figure out exactly what it is that you've said\".",
+     "url": "https://www.france24.com/en/asia-pacific/20261108-new-zealand-election-produces-no-clear-winner-as-smaller-parties-make-record-gains",
+     "via": null
+    },
+    {
+     "id": "npr",
+     "name": "NPR",
+     "region": "world",
+     "weight": 0.91,
+     "title": "No clear winner in New Zealand election, as leaders prepare for weeks of talks",
+     "desc": "Prime Minister Christopher Luxon, who will lead a caretaker government while negotiations take place, said: \"I think everyone's over politics so let's all have a bit of a break for the next three weeks\".",
+     "url": "https://www.npr.org/2026/11/08/nx-s1-6033999/no-clear-winner-in-new-zealand-election-as-leaders-prepare-for-weeks-of-talks",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261105-11",
+   "title": "中間選挙敗北後、共和党内で責任論が噴出",
+   "firstSeen": "2026-11-05",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-05": 19,
+    "2026-11-09": 16
+   },
+   "peak": 19,
+   "worldScore": 16,
+   "worldCoverage": "6/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 16,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.34,
+     "title": "The Trump coalition is shattered - what will Republicans do now?",
+     "desc": "Republicans can stick with Trumpism or chart a new path, writes BBC Washington correspondent Daniel Bush.",
+     "url": "https://www.bbc.co.uk/news/articles/cm3r5gnxqz3jo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "After the midterms, where does the Republican Party stand?",
+     "desc": "GOP suffered a loss, but it is hardly a historic one. A party in power has always been held to account in the midterms.",
+     "url": "https://www.aljazeera.com/opinions/2026/11/8/after-the-midterms-where-does-the-republican-party-stand?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "‘Trump has cost us’: After midterm losses, MAGA asks if it’s over",
+     "desc": "Some say MAGA must rebuild, while others call it “dead” or “stale”.",
+     "url": "https://www.straitstimes.com/world/trump-has-cost-us-after-midterm-losses-maga-asks-if-its-over",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "‘Trump has cost us’: After midterm losses, MAGA asks if it’s over - Reuters",
+     "desc": "‘Trump has cost us’: After midterm losses, MAGA asks if it’s over Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaTdYU2RDRkZwOVM0SXV4d2VCdExubk1wWngyTG5LOFNRVC1MWUU5NnVkS1FseU0zTlhwRXBRdW1OR2haNHNZcFM5cmVzNWI4cEhadmpDVzdVM2h4YmtuTU1TWFdtRTNMbjdnWGRQaGh2QTZrcnd6U0phWENkTVVNbFJUSWhEZXV2WVU4RWMtV0Vwc2dzQy05Ylp1cjFTZkhoZFVtY3pSTms?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Several Senate Republicans Call for Delaying Leadership Election - Bloomberg.com",
+     "desc": "Several Senate Republicans Call for Delaying Leadership Election Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSTFER0RHZkt1bl9Eb3g4ZjI2R3FSSEk5Z3VzbnlOMEhET2tRSTRNa2RUUmlQODFXTHlaS0gyeDg0eF93TWVWM2RONlg4b2R4TXd5dFVvaXY2YkN4cUNTWnQ5UkRsVTNaWWE3ckU0SC1tWVZwLS14cnFYQUNic3NMNXlhUmpWQ0VRbElxWXp1VkEwWUdKSlFQQzBBcmo4THZHSTA0d0ZaRWZVZk9IRlE2SDIwUUZxdw?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Republican infighting mounts over corruption claims after midterms wipeout - Financial Times",
+     "desc": "Republican infighting mounts over corruption claims after midterms wipeout Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOC1xcnVFb0p6VGo5WGdxZHNnZEhkaHdoVExaY2FtOTQzLVl3X3AxNmZVQlFGQVpycEpicDI0dHlzeWp2RUl2ZHRELUNzN29tTUJOdjZIV0hhemJ0WnB0MXAzWnRtTkZ0cXBlT2xoMFp1SGlZblZ4N182djJINTltakxIZTI?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261102-01",
+   "title": "露軍の攻撃でウクライナ数十万人停電",
+   "firstSeen": "2026-11-02",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-02": 11,
+    "2026-11-09": 15
+   },
+   "peak": 15,
+   "worldScore": 15,
+   "worldCoverage": "5/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 15,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.65,
+     "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
+     "desc": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
+     "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Ukraine: Russian strikes leave hundreds of thousands without power",
+     "desc": "Hundreds of thousands of Ukrainians were left without electricity on Sunday following Russian airstrikes targeting the country's energy infrastructure. Moscow has intensified its attacks as winter approaches, leaving residents in Kyiv and other parts of the country struggling with power cuts as temperatures continue to drop. Clemence Waller reports.",
+     "url": "https://www.france24.com/en/ukraine-russian-strikes-leave-hundreds-of-thousands-without-power",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Russian strikes on Ukraine leave 850,000 without power as Zelenskyy reports drone attack on Komyshuvakha",
+     "desc": "Zelenskyy said Russia had launched a drone strike on the site of a recent attack on Komyshuvakha, where rescuers have been carrying out search operations following a bombing that killed at least 55 people on Monday.",
+     "url": "https://www.euronews.com/2026/11/08/russian-strikes-on-ukraine-leave-850000-without-power-as-zelenskyy-reports-drone-attack-on",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "More than 600,000 left with no power in Ukraine after strikes, authorities say",
+     "desc": "Ukraine has been bracing for Russian attacks on its energy infrastructure ahead of winter.",
+     "url": "https://www.cbsnews.com/news/ukraine-russia-war-strike-power/",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Russia says hit power substations in Ukraine and three ships in Black Sea",
+     "desc": "MOSCOW, Nov 8 - Russia said on Sunday overnight strikes by its forces had hit three cargo vessels that were carrying military goods for Ukraine and two electricity substations, which it said supplied power to the Ukrainian defence industry.",
+     "url": "https://www.straitstimes.com/world/europe/russia-says-hit-power-substations-in-ukraine-and-three-ships-in-black-sea",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261109-17",
+   "title": "インドでディワリ祭、各地で灯りの祝い",
+   "firstSeen": "2026-11-09",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-09": 15
+   },
+   "peak": 15,
+   "worldScore": 15,
+   "worldCoverage": "4/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 15,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.92,
+     "title": "Homes and temples glow across India to mark Diwali",
+     "desc": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets.",
+     "url": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Rangoli makers adapt to rising costs to preserve colourful Diwali tradition",
+     "desc": "Rangoli makers in India are adapting to rising material costs by turning to organic alternatives.",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/_8-11-sv-rangoli-diwali-india-081126?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.8,
+     "title": "Polluted Delhi Tries ‘Green’ Fireworks to Clear the Air at Diwali",
+     "desc": "India’s top court decreed that only more environmentally friendly fireworks could be set off this weekend, citing air quality concerns. But environmental activists call it a “green wash.”",
+     "url": "https://www.nytimes.com/2026/11/08/world/asia/delhi-pollution-green-fireworks-diwali.html",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Diwali: Over one billion people mark victory of light over darkness",
+     "desc": "Diwali celebrations began on Sunday, with people across India and the global diaspora gathering to mark one of the most important festivals in the Hindu tradition. In Ayodhya, believed to be the birthplace of Lord Rama, the deity celebrated during the festival, festivities included performances based on the Hindu epic Ramayana, laser and light shows, live music, fireworks and drone displays.",
+     "url": "https://www.france24.com/en/diwali-over-one-billion-people-mark-victory-of-light-over-darkness",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261106-02",
+   "title": "パラグアイ前大統領、銀行破綻受け起訴",
+   "firstSeen": "2026-11-06",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-06": 41,
+    "2026-11-09": 15
+   },
+   "peak": 41,
+   "worldScore": 15,
+   "worldCoverage": "5/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 15,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.77,
+     "title": "Paraguay's former president charged after bank collapse",
+     "desc": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+     "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.71,
+     "title": "Prosecutors Charge Paraguay’s Former President With Corruption",
+     "desc": "Santiago Peña was impeached, removed from office, placed under house arrest and charged with using his office to enrich himself after a bank with close ties to his administration went under.",
+     "url": "https://www.nytimes.com/2026/11/06/world/americas/paraguay-president-removed-ueno.html",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Paraguay: Senate impeached Peña rather than accept his offer to resign",
+     "desc": "Paraguay's ousted president, Santiago Peña, has been charged over the collapse of Ueno Bank. Initially placed under house arrest, he has since been transferred to a military facility for his own safety. Nearly three million customers were locked out of their accounts after regulators seized control of the online bank. Repayments are now under way, but protests continue as customers demand access to their money. Peña denies any wrongdoing. Jack Pownall reports.",
+     "url": "https://www.france24.com/en/video/20261108-paraguay-senate-impeached-pe%C3%B1a-rather-than-accept-his-offer-to-resign",
+     "via": null
+    },
+    {
+     "id": "npr",
+     "name": "NPR",
+     "region": "world",
+     "weight": 0.3,
+     "title": "Ousted Paraguayan president appears before prosecutors",
+     "desc": "Paraguayan President Santiago Peña was removed from office and placed under house arrest Friday. The Senate voted on his impeachment after the collapse of a state-affiliated bank.",
+     "url": "https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Paraguay&#039;s president under house arrest after bank collapse",
+     "desc": "The president was placed under house arrest after being removed from office following the collapse of a bank linked to the government.",
+     "url": "https://www.cbsnews.com/news/paraguay-president-arrest-bank-ueno-collapse/",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261109-03",
+   "title": "トランプ氏、UFC代表に大統領報道官就任を打診",
+   "firstSeen": "2026-11-09",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-09": 14
+   },
+   "peak": 14,
+   "worldScore": 14,
+   "worldCoverage": "5/18",
+   "jpScore": 13,
+   "jpCoverage": "2/6",
+   "gap": 1,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Donald Trump wants UFC fighters as assistants",
+     "desc": "After a series of combative press briefings between the Trump administration and journalists, the US president surprised many by reportedly offering Dana White, the head of the Ultimate Fighting Championship (UFC) and a longtime friend, the role of White House press secretary. Trump praised White as a “violent fighter and warrior”, but US media reports say he has already turned down the offer. Was it a punchy choice by the president or simply a punchline? Jack Pownall takes a closer look.",
+     "url": "https://www.france24.com/en/donald-trump-wants-ufc-fighters-as-assistants",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump offers UFC boss White House press secretary role: 'Dana, please take the job!'",
+     "desc": "Trump and White have forged a close relationship over the years, with Trump a regular attendee at UFC events and White having spoken at a number of the president's rallies.",
+     "url": "https://www.euronews.com/2026/11/08/trump-offers-ufc-boss-press-secretary-role-dana-please-take-the-job",
+     "via": null
+    },
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 0.44,
+     "title": "Trump asks UFC boss Dana White to be his new press secretary",
+     "desc": "Donald Trump has asked mixed martial arts promoter Dana White to be his new White House press secretary.",
+     "url": "https://news.sky.com/story/trump-asks-ufc-boss-dana-white-to-become-white-house-press-secretary-13609613",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "UFC's Dana White says he will meet with Trump Monday over offer to be White House press secretary - AP News",
+     "desc": "UFC's Dana White says he will meet with Trump Monday over offer to be White House press secretary AP News",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ2FyWVhVOHdId05JN1ZCTzFidHJyRktaVjg5NkM2WVV2ZFlrLWFrLXlWSHFkQlZ6a1BUSWV2Zzk4cWlmTHdTOFNWc3FpenFDYVpkYnQ1ZXYtdWdLRlFTVldySXU2c0VuTlhvWFZDVDRZenIzOGtNOUdSZWplX3FDaFdjdmpsa2xtLTQtbHFpQ3I4OGFEU1IwRkhsS0Y?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump Asks UFC’s Dana White to Be His Next Press Secretary - Bloomberg.com",
+     "desc": "Trump Asks UFC’s Dana White to Be His Next Press Secretary Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVW1kOHVYMUt5THg5LXlCTnFyc0dlSXRJa0pIanpVWXlhcFdxQ0lLZG0yTks0M1FsQ1JKOWpiRzVPem5jbGtzQXNpQjc5NDZsb19YTXJuaXN2NndGdkVyajktcDFSMkx1YTktUzdZYkVQWlRYWXFhWmFfTWtNbUUtUGh3MlhBYmNHWkRucVZqNG9BdHIxdFJSOVY5QjBaWWswQldxYzRqWWYycW1nUkE?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.3,
+     "title": "トランプ大統領が異例のオファー 格闘技団体の代表に報道官の就任を打診(テレビ朝日系（ANN）)",
+     "desc": "アメリカのトランプ大統領は格闘技団体の代表にホワイトハウスの報道官の就任を打診しました。 トランプ大統領は7日、「荒々しいファイターで戦士のダナ・ホワイトに報道官を打診した。どうか引き受けてくれ」とS",
+     "url": "https://news.yahoo.co.jp/articles/17d239ee3a7688a7beab4be268144e85af041e3c?source=rss",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "トランプ氏、総合格闘技UFCトップに大統領報道官を打診 - 日本経済新聞",
+     "desc": "トランプ氏、総合格闘技UFCトップに大統領報道官を打診 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rdzhOTUJzVmZEdlNZYnN1Q2R4QUs3Mk5xcWVNRU9IVV9mYlZCM3l3UnRuOWFNNWpNb1FNbXpJVHp0WkVKTUdJSVB2MklqMEZxN0l5YTU0YWlRWDhuZG10d29fQ1lTd2RLeXlJMQ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261109-12",
+   "title": "エヌビディアCEO、中国スパイ疑惑で調査",
+   "firstSeen": "2026-11-09",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-09": 14
+   },
+   "peak": 14,
+   "worldScore": 14,
+   "worldCoverage": "4/18",
+   "jpScore": 8,
+   "jpCoverage": "1/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 1,
+     "title": "Tech giant Nvidia launches investigation after reports CEO was targeted by Chinese intelligence",
+     "desc": "Tech giant Nvidia says it is investigating reports that CEO Jensen ⁠Huang had been targeted by a foreign intelligence effort.",
+     "url": "https://news.sky.com/story/tech-giant-nvidia-launches-investigation-after-reports-ceo-was-targeted-by-chinese-intelligence-13609986",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Nvidia opens probe after report that CEO Huang was target of foreign intelligence - Reuters",
+     "desc": "Nvidia opens probe after report that CEO Huang was target of foreign intelligence Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOFNRSy1yS0duakdXT1hKbjI2MkFsMVhHeTQ1VVh4QlZYOVdvd0ZKaWVjTzFXT2JCRlR2T2IzSjRKcENSTkNLbVR2VU90Q1VyUHhEZWp0NGZLQUZPRXJ1NlNVNG9OZ0U0T2VwYmJuaURBMWVBYXhHd1hDb00zZU9aUXJGaU10bmFrclgySUZoUE1GX210Q19TQ1pXRjJTVFpoZjN2NG9qblVQMXhHUC1vV3JxaHkxbVJiVkhldEZISHlCdw?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Nvidia Board to Probe Spying Case After CEO Admits Affair - Bloomberg.com",
+     "desc": "Nvidia Board to Probe Spying Case After CEO Admits Affair Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeU5sZExFMm9PT0FDekcxMEVUWTFWVEJVNUNBcmx0bFlzNkI2SnZYLWVlanJfdEtxN0lMV1RMZ2lfRHlYVHMwMm05dU1lNlQzS21OQlJwY1J2VThCVUpxZU5hcmxRWE8yTUNaVzlnZzRCTUJUNFFfSERTZ0RQaU9QdmRTMUZ1dEwxVDR5MzFOOXNBVmt4eW0zbHlEaWVRWWdFQUYydXVXWFIxcE5scC05YlZ4ckw1VkNtUDd1UXBGa2I2cjg?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Nvidia’s Jensen Huang admits to affair after allegations of relationship with Chinese spy - Financial Times",
+     "desc": "Nvidia’s Jensen Huang admits to affair after allegations of relationship with Chinese spy Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQX1hVaUg5SUpMcFFNMDBfVzRYcmhXQzlNNW5vb2ExZU5XN09PeThPc2dtQlBrSW5NejdDZWpOXzFVdXRLVERrWEdoa0l0RDBJUHdQZUJCbTBmeHhOamZHc1ZUZUt1SUhFYmRMaWs0OHdPYWVtY0lWeS00M1MtMFQzWjNTS3E?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "米半導体大手トップと「恋愛関係」 女性スパイ、中国当局が雇用―英紙",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026110800226&g=int&m=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261109-22",
+   "title": "セネガル沖で移民船沈没、21人以上死亡",
+   "firstSeen": "2026-11-09",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-09": 14
+   },
+   "peak": 14,
+   "worldScore": 14,
+   "worldCoverage": "5/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 14,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Migrant boat sinks off Senegal, killing at least 34 people, authorities say",
+     "desc": "A boat carrying migrants along the hazardous Atlantic Ocean route from West Africa to Europe sank off the coast of Senegal, killed at least 34 people, authorities said Sunday. Only one survivor has so far been found, and \"an indeterminate number\" are still missing.",
+     "url": "https://www.france24.com/en/africa/20261108-migrant-boat-sinks-off-senegal-killing-at-least-34-people-authorities-say",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "At least 21 dead after migrant boat capsizes off Senegal, authorities say",
+     "desc": "The United Nations' International Organization for Migration (IOM) says the dangerous Atlantic Route is a key pathway for West African migrants travelling to Europe.",
+     "url": "https://www.euronews.com/2026/11/08/at-least-21-dead-after-migrant-boat-capsizes-off-senegal-authorities-say",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "At least 21 dead after migrant boat sinks off Senegal coast, government says",
+     "desc": "DAKAR, Nov 8 - At least 21 people have died after a boat carrying migrants sank off the Senegalese coast, the interior ministry said on Sunday.",
+     "url": "https://www.straitstimes.com/world/europe/at-least-21-dead-after-migrant-boat-sinks-off-senegal-coast-government-says",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "At least 21 dead after migrant boat sinks off Senegal coast, government says - Reuters",
+     "desc": "At least 21 dead after migrant boat sinks off Senegal coast, government says Reuters",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQWEyY01QZXphanRHT21PZUR2UVdNcEQzUVdRSW44Z2oxb1hfanV3TE00ZXhkMDJnZVdXYnF6OTdsZ3Jwd0lqamgxYlpTS2h3NjBjaTVaNC1nQXM0RXFNX2phMWItS1Q4UldFdzN3WFlocExfUElZZEJwQ2hVX1YzRmlDQnpDMEhrTC1oNk5VYmVCQ2pLc090LUlfbFY5VXk3YTFhTlg4NUJSTXk1WDVVTXdNYkp1RmF3TW02bDZR?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "At least 21 dead after boat carrying migrants sinks off Senegal coast, interior ministry says - AP News",
+     "desc": "At least 21 dead after boat carrying migrants sinks off Senegal coast, interior ministry says AP News",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdXdCUmJHMFNmV25BSjlQbEZWSHlrVDE4cGF5amtpS2ZPUmtJNHdiMjdpQmk0ZXdfX2ZwblhmN2NfN2p0SGpNLWJjX1EycDRaLWZmTkxybDRSOXQzdVlsRmJ3ajV3RTFDNTlMNkh1WGJKaC1mOFpzaUc4U0o1ODJKTmkwTkNjTGtlQ09TVW5vcGNJZw?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261109-15",
+   "title": "サウジとフーシ派の交戦激化、イエメンで死者多数",
+   "firstSeen": "2026-11-09",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-09": 12
+   },
+   "peak": 12,
+   "worldScore": 12,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 12,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.84,
+     "title": "Houthis say at least 33 killed in Saudi air strike",
+     "desc": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+     "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.74,
+     "title": "More Than 50 Killed in Yemen in One of the Deadliest 24 Hours of the War",
+     "desc": "Strikes show the heavy toll since fighting between the Houthis and the Saudi-backed government reignited in August, with civilians paying a heavy price.",
+     "url": "https://www.nytimes.com/2026/11/07/world/middleeast/more-than-50-killed-in-yemen.html",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Saudi Arabia turns to Syria for help as fighting with Houthis escalates - AP News",
+     "desc": "Saudi Arabia turns to Syria for help as fighting with Houthis escalates AP News",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObFNfMGFpaEpaOGRfS0RYa3FEOFh5OWFNaWxxbUlkcEFjNF84YWhEdHRKV283Q3loNmdQVnhUQTl6SXRzSjlIQ3pyVWhwV2JhejFpaEUyc2gtVjN1QU12NGdFNVVfU3BJektraHNJc0ZOTURqTVJyTFFpZzBKSDlwUlVWY2UwSmJ1eEFtNXJOQkpzVUl6eTdyVTFB?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261109-19",
+   "title": "COP31、9日からトルコで気候交渉",
+   "firstSeen": "2026-11-09",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-09": 10
+   },
+   "peak": 10,
+   "worldScore": 10,
+   "worldCoverage": "3/18",
+   "jpScore": 8,
+   "jpCoverage": "1/6",
+   "gap": 2,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.77,
+     "title": "Cop31 must deliver climate progress that people can see is real, host says",
+     "desc": "High-stakes talks involving 190 countries begin on Monday as world grapples with El Niño supercharged by fossil fuels The Cop31 summit must produce progress, “a tangible outcome ... that people can see is real”, its host has said as scores of world leaders and representatives of close to 190 countries gather in Turkey for the UN climate talks. The high-stakes meeting begins on Monday, as countries around the world grapple with the strongest El Niño weather system on record , supercharged by fossil fuels, which is set to take hundreds of thousands of lives and cause damage costing trillions of ",
+     "url": "https://www.theguardian.com/environment/2026/nov/08/cop31-climate-summit-deliver-progress-real-host-says",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.56,
+     "title": "A Guide to COP31 Climate Talks in Antalya, Turkey",
+     "desc": "Negotiators and leaders are gathering for annual United Nations climate talks. They come as global temperatures are set to breach a key threshold.",
+     "url": "https://www.nytimes.com/2026/11/08/climate/what-is-cop31-climate.html",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Turkish villagers demand COP31 leaders see for themselves devastation caused by coal - Reuters",
+     "desc": "Turkish villagers demand COP31 leaders see for themselves devastation caused by coal Reuters",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVGhlRE5JMEs0azJVTzgtQjZNd3ROQ0dlN0FzX1BFeTFhQndEWFJqV3RwSFhDaW5BcUtiYlgyZzFXV28wVDdHWFpWeUlReFhtTnk3d1pZOUp1VDBtV3Jkc3dQQTJPc2ZqcDZRNnlzeFdUN0o3WEtKcnhZZmUyTDJsOG9TamVKNE9Ic09GU0o4MkMzRWNmcFNtUkpSc3ZEcFdBWW1wNjUyMTcxMl9QTGE3c2pnOUJnWktJVGtMcHBIbjVYS3pMa2oyMTNpc0FSdDY1?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "9日からCOP31開幕 「パリ協定の現在地」まとめ読み - 日本経済新聞",
+     "desc": "9日からCOP31開幕 「パリ協定の現在地」まとめ読み 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WLU5NWUpESVVsVGhrTWVjaHlkckFfNlhfTjJBbl9qNXpueWxOT0YwTjVLcmlVa1JNSEVXTkZnSThiY3FmNVYyd3o0VHExMl95VnExSk01cjJYUjVyUTJJcU5qb05HM0tvWDRWdQ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261109-29",
+   "title": "イラン、1月の抗議関連で男3人を処刑",
+   "firstSeen": "2026-11-09",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-09": 10
+   },
+   "peak": 10,
+   "worldScore": 10,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 10,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.88,
+     "title": "Iran executes three men for 'armed unrest' after January protests",
+     "desc": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
+     "url": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Iran executes 3 more men over January protests, judiciary says",
+     "desc": "Iranian authorities executed three men on Sunday on charges linked to January 2026 protests, the judiciary said, after what rights groups described as an unfair trial. Norway-based Iran Human Rights (IHR) said the hangings at dawn of Hassan Divband, Hamid Kazemi and Reza Zanganeh in the city of Karaj outside Tehran brought the number of men hanged over the January protests to at least 39 and warned many more were at risk. The judiciary’s Mizan news agency said the three had been convicted of...",
+     "url": "https://www.scmp.com/news/world/middle-east/article/3373716/iran-executes-3-more-men-over-january-protests-judiciary-says",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Iran executes three men over armed unrest during January protests - Reuters",
+     "desc": "Iran executes three men over armed unrest during January protests Reuters",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQ3AtenozM05Va3RPQ1JUYWZ2T2ZYSHVLeDVpN0pKd2lObzVlTjFmSTAyazZoUzNFbHNEc3F5NVBsclI5Rkt3MlpQaVpISy1HdEtOTmNWQVFPQ0IyOGVMOUp0aURUQWJNWENqTklhSUlNQkRqTnFSWm9QR2o3R201b0FVRk00WjV2dG5XaEwzRjIwWVoxQUtkRExIVWdUV1FqdFdPNUQxRjBIdXdfUVJ5RWJ3RkFEX0p5dUZtSzFVLVpsQlI2OTdRQ0pJeDl5djg?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261109-28",
+   "title": "イタリア、個人情報流出で露系ハッカーを非難",
+   "firstSeen": "2026-11-09",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-09": 9
+   },
+   "peak": 9,
+   "worldScore": 9,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 9,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.69,
+     "title": "Italian foreign minister says hackers leaked his personal data",
+     "desc": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online.",
+     "url": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Italy&#039;s leader blames pro-Russian hackers for personal data leaks",
+     "desc": "Italy&#039;s foreign minister said he was targeted because of his country&#039;s support for Ukraine.",
+     "url": "https://www.cbsnews.com/news/italy-giorgia-meloni-ukraine-russia-hack-data-leak/",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "G7 ministers to discuss recent cyber attacks, Italy says - Reuters",
+     "desc": "G7 ministers to discuss recent cyber attacks, Italy says Reuters",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcHF2VFVWdGExcXZzQ21UTV9taFMyUzJObWJYRXoxRzVWeDB6WmcwTkpJRkFtN3ozU183YzVDVG9Ockk1UjI4WUxTLS1vbDEwYndDeFQ1NV92WEI2Y1VDUzdJVmJTOGVQV1ZxVTQ0NnJfSFJpd3A5Tzh2R1ZyTWlYbk8yMWVyX1hMNDFOYlAzZmlwWjZGTVQ0dk13?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261109-05",
+   "title": "民主党、トランプ政権や献金者への調査計画",
+   "firstSeen": "2026-11-09",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-09": 8
+   },
+   "peak": 8,
+   "worldScore": 8,
+   "worldCoverage": "3/18",
+   "jpScore": 10,
+   "jpCoverage": "1/6",
+   "gap": -2,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US Democrats plan probes of Elon Musk, Stephen Miller, corporate America after midterm rout",
+     "desc": "Investigations will focus on Musk’s involvement in the firing of federal workers and Miller’s role in the immigration crackdown.",
+     "url": "https://www.straitstimes.com/world/democrats-eye-musk-miller-probes-after-midterm-rout",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Democrats plan probes of Musk, Miller, corporate America after midterm rout - Reuters",
+     "desc": "Democrats plan probes of Musk, Miller, corporate America after midterm rout Reuters",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbWFGX05UdDR5UEFldE1ZWU5JTEpqczV4ZkFvZFRROWlvLWdsMlpocDZaY0R4eU1FSkJONjlVMGtDOFRVVjJHeWp3X3VWVWREMGdqQWN5WDdFamtYR2VBb0h3b3BrZTlUQlpGTDRzdVd6ZWowSDJoQnJ1eVFvX3B5SVZ5N0h2X0EwMWhYdGhHUzFHd0VUTEdLVW9OVFh6UUFLb09ZWF9BWQ?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Democrats vow to impeach Trump officials and investigate Republican donors - Financial Times",
+     "desc": "Democrats vow to impeach Trump officials and investigate Republican donors Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMWpsZzhWZUVfLWJSNGp2TTFlQnk0RUhZb3QyVWZNY2tSb2lHZEtmN3BFSTRUUVY3Vk9ST08zQjR6cWR0MTMyLUlQdkU0VkVWUVdsRGhQZFkxblphVWg4NGNYR0hWY2o0UUdJRlRGMUFSaDFtdEpqbnptNUdWaW5mN2hnUzQ?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.59,
+     "title": "【トランプ一族に包囲網】民主が中間選挙で両院奪還“疑惑追及へ加速”調査の焦点は(テレビ朝日系（ANN）)",
+     "desc": "11月3日に行われた米中間選挙は、民主党が上下両院の多数派を奪還する大勝となった。来年1月に発足する新議会では、トランプ政権の政府契約や大統領一族の事業を巡る利益相反の疑惑について、議会調査が本格化す",
+     "url": "https://news.yahoo.co.jp/articles/885c13a92c66a9888147249bd7f28ae21d5b6f78?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261109-07",
+   "title": "ハッキング記録、露のウクライナ戦死者40万人超",
+   "firstSeen": "2026-11-09",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-09": 8
+   },
+   "peak": 8,
+   "worldScore": 8,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 8,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Rosstat hack: data obtained suggests over 390,000 Russian deaths in Ukraine war",
+     "desc": "Hacker groups Cyberpartisans BY and Silent Crow say they hacked Rosstat and counted Russian losses since the invasion of Ukraine. Their tally: between 393,000 and 450,000 killed.",
+     "url": "https://www.euronews.com/2026/11/08/rosstat-hack-data-obtained-suggests-over-390000-russian-deaths-in-ukraine-war",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Hacked records show 400,000 Russians killed in war on Ukraine",
+     "desc": "Between Feb 24, 2022, and late August 2026, almost 392,700 death certificates in the data explicitly link the fatalities to the war.",
+     "url": "https://www.straitstimes.com/world/europe/hacked-records-show-400000-russians-killed-in-war-on-ukraine",
+     "via": null
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Hacked Records Show 400,000 Russians Killed in War on Ukraine - Bloomberg.com",
+     "desc": "Hacked Records Show 400,000 Russians Killed in War on Ukraine Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ1NnNTdWOTdCT2lPOXg3dlU1V3EtSmlfcDhGdHUwZUpuNmVvcFN5dHFOUkZkZkpvM3lmeG1ab2YtLWxiNWtyMFd0WVo4eVpzZTJSb2RBWk40MkkycHU4ZFoyMGtraTVFc0g0cEF5Smg5b2d4OThHX3U4dkFyT2RLMW9zSUFDMHRyNE1NVDV4Qml4SURFbDlfOUU3VHZzWWppaVlWd3FuOGJjXzlZQWRQN1p3?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261109-13",
+   "title": "アンソロピック、AI向け発電で34億ドル契約",
+   "firstSeen": "2026-11-09",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-09": 8
+   },
+   "peak": 8,
+   "worldScore": 8,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 8,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Anthropic secures $3.4 billion generator deal for AI data centers, FT reports - Reuters",
+     "desc": "Anthropic secures $3.4 billion generator deal for AI data centers, FT reports Reuters",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTUktcGxpNENhQ1llV2F3a3V5RUZya0dDc0ZLeFVTZmFqclBqSVhuYkNiSFpSTkkwVnZ2NkFVVEVjQjZPLTJzMGMyU0dnaFg0X1pPd2pMV0ZCWWtMWlpSdTNvckRlaGxLcWs1SnljenEwcUs0N0doWG0yRDdET2o4YlZMVWl6c2lpYWJ1emstVFI1S3VyUXdIdG1xdmZpS3k3ZW5LVUpibUZ0SWxmZUNLNXN0SDBMZE5nWFJZdDlQSQ?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Anthropic Buys Power for AI Data Centres in $3.4B Deal, FT Says - Bloomberg.com",
+     "desc": "Anthropic Buys Power for AI Data Centres in $3.4B Deal, FT Says Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSi00VTRySXpJSXQwU3ZiRnZUYzk3MDYtTEJLZ3V0cm0zRlBMVDV1czVMalNRbmRldHhCSWNaaFNoMEpfZkI1dU9HVW9pVXN5VGhYQ1VwRV9UOVF4cmVTY0ViMFhwZll3NjNjVE9sTDZFM0xFUzRFZ1VuSE5WNXdweFdJaU1NaURWanYxUG1VRkQ3emo0clAwRFFya3BBUDVLWHVENjQ4SkdrdGU3Q1FYZGdR?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Anthropic strikes $3.4bn deal to generate gas-fired power for data centres - Financial Times",
+     "desc": "Anthropic strikes $3.4bn deal to generate gas-fired power for data centres Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaDhoaHlMZk8tNWhZWlFEczhOc1FpNnZjcnlZTF9MUDJrVG5mb2NvUkdzZlBldmx2YkhEMkQtdVRuaXpWYkhTcDd2N3VLWlFvLW81S0ttcWxKTUlkdXBOMWRNZUIzS0o4ZVM1Y1dpbUIxRG4waXdxRVlncjJiVTM2TGtTZ0g?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261106-04",
+   "title": "仏で生活費抗議デモ続く、催涙弾規制求める声",
+   "firstSeen": "2026-11-06",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-06": 24,
+    "2026-11-09": 8
+   },
+   "peak": 24,
+   "worldScore": 8,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 8,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "dw",
+     "name": "Deutsche Welle",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Amid protests, France's rising debt costs threaten stability",
+     "desc": "France plans to spend an extra €4 billion on education amid nationwide protests. But with public debt mounting and interest costs climbing, how much fiscal room does the government have?",
+     "url": "https://www.dw.com/en/amid-protests-france-s-rising-debt-costs-threaten-stability/a-79865654?maca=en-rss-en-world-4025-rdf",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "‘10 times more painful’: Menstrual disorders fuel calls to ban tear gas at French protests",
+     "desc": "French police have made extensive use of tear gas during protests that have roiled France in recent weeks, sometimes causing grievous injuries. Thousands of accounts of women experiencing acutely painful periods and increased bleeding are further challenging assumptions that the chemical irritant carries only minor consequences.",
+     "url": "https://www.france24.com/en/france/20261108-abnormal-menstraution-periods-fuel-calls-ban-tear-gas-french-protests-police",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "France&#039;s cost of living protests continue",
+     "desc": "Protests continue in France for a fourth straight weekend as demonstrators voice their discontent over high cost of living and degraded public services. Ramy Inocencio has more.",
+     "url": "https://www.cbsnews.com/video/frances-cost-of-living-protests-continue/",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261109-27",
+   "title": "米の任務部隊、イランの陸路遮断へ",
+   "firstSeen": "2026-11-09",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-09": 8
+   },
+   "peak": 8,
+   "worldScore": 8,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 8,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US task force to cut off Iran’s transport of advanced weapons: What we know",
+     "desc": "As fears of an escalation grow, Washington announces &#039;Task Force Iron Gate&#039;.",
+     "url": "https://www.aljazeera.com/news/2026/11/8/us-task-force-to-cut-off-irans-transport-of-advanced-weapons-what-we-know?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Iran downplays new U.S. task force aimed at disrupting land routes",
+     "desc": "The U.S. did not say whether any military action would be involved in preventing weapons technology or sanctioned items from entering Iran.",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US asks Iraq to shut most Iran border crossings, Iraqi foreign minister says",
+     "desc": "Nov 8 - The US Treasury has asked Iraq to close all border crossings with Iran except for two as part of Washington's policy of increasing economic pressure on Tehran, Iraqi Foreign Minister Fuad Hussein said in an interview with Al Jazeera.",
+     "url": "https://www.straitstimes.com/world/middle-east/us-asks-iraq-to-shut-most-iran-border-crossings-iraqi-foreign-minister-says",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261103-31",
+   "title": "トランプ氏、イラン攻撃再開の可能性は低いと発言",
+   "firstSeen": "2026-11-03",
+   "daysSeen": 4,
+   "history": {
+    "2026-11-03": 6,
+    "2026-11-04": 10,
+    "2026-11-05": 12,
+    "2026-11-09": 6
+   },
+   "peak": 12,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 16,
+   "jpCoverage": "1/6",
+   "gap": -10,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump says resumption of war with Iran ‘highly unlikely’",
+     "desc": "Trump said any decision to resume hostilities 'depends on whether or not they sign a very strong agreement.'",
+     "url": "https://www.straitstimes.com/world/united-states/trump-says-resumption-of-war-with-iran-highly-unlikely",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump says he is unlikely to order Iran attack if talks progress, CNN reports - Reuters",
+     "desc": "Trump says he is unlikely to order Iran attack if talks progress, CNN reports Reuters",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbV96cm81eEtLUU91T0xKaWxycHdBV3c4VGNZb2dCbzA0M2M0V2ZPZXp2R1NRcmJ1Wl9TLUxZZWtQRDRtazg2dHVzRWlIdGpmWVRJTUl3cU95cUNheHJtMFJFU2lKM2c2cndGc2ZTbmFqZUpaT0hWRFRyZ1VPYzFFbXlSZUVCR1NuLWFqM0dFaUo2UHI4dWFKZlRoUHEwZ2UwNF95T0NzUGNHME15MFQtMWpMeXZaWDhGQnNkZDNRYnQyTjlQcUE?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.97,
+     "title": "対イラン戦闘再開「可能性低い」 米大統領、中間選大敗が影響か(共同通信)",
+     "desc": "【ワシントン、テヘラン共同】トランプ米大統領は8日、CNNテレビの電話インタビューで、イランの核開発やエネルギー輸送の要衝ホルムズ海峡を巡る交渉に進展がある限り、イランとの戦闘再開を命じる可能性は「極",
+     "url": "https://news.yahoo.co.jp/articles/3034092737eda325c76d47be482a0fc58219f830?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261109-04",
+   "title": "トランプ政権、首席補佐官にミラー氏起用",
+   "firstSeen": "2026-11-09",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-09": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 12,
+   "jpCoverage": "1/6",
+   "gap": -6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "With Stephen Miller at the helm, Trump charts a course for conflict",
+     "desc": "Miller is regarded as a combative ideologue with unswerving loyalty to Trump.",
+     "url": "https://www.straitstimes.com/world/united-states/with-stephen-miller-at-the-helm-trump-charts-a-course-for-conflict",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "With Stephen Miller at the helm, Trump charts a course for conflict - Reuters",
+     "desc": "With Stephen Miller at the helm, Trump charts a course for conflict Reuters",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ0hzOUNLZUw4VklCNFBfZ0lyaU1WWTVXaFJUT0NNd3J4VUloem9VdDRfbW96WXh6MWQwLURSbC1LN3d5N2h5VGhteVRyWlB6RXI0bTBpdTBXVkVFbmQyRjZqLWlvVUl5R2g4QU13QzFlbzRKVmMwSmRCdEtyaHZQbGdBSmZvY2ZqRmFWMFJDQm5YVGVQNnRKYW03STJMVTI2RkhDLVh6N2dyX01JaWc?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.74,
+     "title": "「最も野蛮で非人道的」ミラー氏が首席補佐官＆「狂暴なファイター」が報道官に？(テレビ朝日系（ANN）)",
+     "desc": "日本時間8日未明、トランプ氏のSNSへの投稿に衝撃が走りました。「狂暴なファイターであり戦士、ダナ・ホワイト氏に大統領報道官のオファーを出した」屈強な格闘家らを率いる総合格闘技団体「UFC」のトップで",
+     "url": "https://news.yahoo.co.jp/articles/15357933a708d2f38ead6b067a22e8e73af413ad?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261109-06",
+   "title": "司法長官選で民主党勝利、訴訟への影響",
+   "firstSeen": "2026-11-09",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-09": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Democratic attorney-general wins could reshape US lawsuits on abortion, immigration and more",
+     "desc": "Democrats won key state attorney-general races in Georgia, Iowa, Ohio, Kansas and Texas.",
+     "url": "https://www.straitstimes.com/world/united-states/democratic-attorney-general-wins-could-reshape-us-lawsuits-on-abortion-immigration-and-more",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Democratic wins in state AG races give Trump a new headache - Reuters",
+     "desc": "Democratic wins in state AG races give Trump a new headache Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa1BiWGc0bklZX2ZNUE9aZ1NIMWRhTlZXcjZBWFBheERnZG1EMmlxVXNvZXhrMHBrZ0kzWDYyLVBHTWMtNlh0Y2RBVWY1LXhyY0t1S3JJWTJYclBBeWNDZGRmUGY4azhSaG11bEFRV1pjeFZYQmxWQnhTbTJvelpxU2VLVjZkendlcVE2ekEtV3hfT29VODlfMTdrenZkZThDZmZnVlRrQ2x6V0E?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261106-08",
+   "title": "ラッセル・ブランド被告、有罪後に量刑へ",
+   "firstSeen": "2026-11-06",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-06": 25,
+    "2026-11-09": 6
+   },
+   "peak": 25,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.33,
+     "title": "Russell Brand case must be wake-up call to protect women in media, Lisa Nandy says",
+     "desc": "Culture secretary says there is still a problem with exploitation and abuse in the industry and public life The culture secretary, Lisa Nandy, has said there is still a problem with exploitation and abuse in the media industry and a failure to properly deal with allegations after Russell Brand’s conviction for rape and sexual assault. She said women who came forward were too often not protected by institutions across public life, including in politics, and that huge power imbalances meant speaking up came at a very heavy cost. Continue reading...",
+     "url": "https://www.theguardian.com/media/2026/nov/08/women-abuse-media-industry-lisa-nandy-russell-brand",
+     "via": null
+    },
+    {
+     "id": "npr",
+     "name": "NPR",
+     "region": "world",
+     "weight": 0.74,
+     "title": "Russell Brand to learn sentence after being found guilty of rape and sexual assault",
+     "desc": "Comedian Brand faces a \"significant\" prison sentence, which a London court judge is set to hand down on Monday.",
+     "url": "https://www.npr.org/2026/11/08/nx-s1-6033957/russell-brand-learn-sentence-found-guilty-rape-sexual-assault",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261109-20",
+   "title": "アムステルダムで反イスラエル大規模デモ",
+   "firstSeen": "2026-11-09",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-09": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Hundreds of thousands join Amsterdam’s ‘Red Line’ protest against Israel",
+     "desc": "Protesters seek stricter trade restrictions on Israel and a halt to all arms sales.",
+     "url": "https://www.aljazeera.com/news/2026/11/8/hundreds-of-thousands-protesters-storm-amsterdam?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Tens of thousands of Dutch protesters take to Amsterdam streets to support Palestinians",
+     "desc": "Tens of thousands of people dressed in red thronged the streets of Amsterdam on Sunday to denounce ongoing violence against Palestinians in Gaza, carrying signs reading “Stop the Genocide”. Organisers said some 20,000 people attended the “red line” protest, demanding that the Dutch government take action against Israel. “Stop sending weapons to Israel,” one of the protesters, Steven Eisinger, a 33-year-old robotics engineer originally from the United States, told Agence France-Presse, wearing a...",
+     "url": "https://www.scmp.com/news/world/europe/article/3373715/tens-thousands-dutch-protesters-take-amsterdam-streets-support-palestinians",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261109-21",
+   "title": "エジプト、12年ぶりリビア大使館再開",
+   "firstSeen": "2026-11-09",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-09": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Egyptian embassy reopens in Libya for the first time in 12 years",
+     "desc": "Egypt has reopened its embassy in Libya’s capital, Tripoli, after a 12-year closure.",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/egyptian-embassy-reopens-in-libya-for-the-first-time-in-12-years?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Egypt reopens Tripoli embassy after 12 years and raises concerns over Turkey-Libya maritime deal",
+     "desc": "Egypt is seeking closer ties with Libya’s western government after years of backing its eastern rival. Talks in Tripoli covered energy projects and Egypt’s objections to Libya’s maritime deal with Turkey.",
+     "url": "https://www.euronews.com/2026/11/08/egypt-reopens-tripoli-embassy-after-12-years-and-raises-concerns-over-turkey-libya-maritim",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261109-23",
+   "title": "英国で戦没者追悼、国王とハリー王子が別々に",
+   "firstSeen": "2026-11-09",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-09": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "UK pays tribute to armed services members fallen in conflicts on Remembrance Sunday",
+     "desc": "Remembrance Sunday is held on the second Sunday in November, nearest to Armistice Day on 11 November, the anniversary of the end of World War I, and is led by the monarch.",
+     "url": "https://www.euronews.com/2026/11/08/uk-pays-tribute-to-armed-service-members-fallen-in-conflicts-on-remembrance-sunday",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "King Charles and Prince Harry mark Remembrance Day separately",
+     "desc": "Prince Harry attended a Remembrance Sunday event in a small English town, far away from Britain’s main ceremony to honour the country’s war dead led by his father, King Charles. Ceremonies are held at war memorials across Britain on the Sunday closest to Armistice Day, November 11, which marks the peace agreement that ended World War I. The Sun and the Daily Mail tabloid newspapers posted photographs online of former British Army captain Harry, in a dark suit with military medals, chatting to...",
+     "url": "https://www.scmp.com/news/world/europe/article/3373720/king-charles-and-prince-harry-mark-remembrance-day-separately",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261109-24",
+   "title": "英文化相、メディア業界の性的虐待問題を指摘",
+   "firstSeen": "2026-11-09",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-09": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Media industry still has a problem with sexual abuse, UK culture minister says",
+     "desc": "Britain’s culture minister, Lisa Nandy, said on ⁠Sunday there ⁠was still a problem ⁠with sexual abuse in the media industry after Russell Brand, once a high-profile comedian and actor, was convicted of raping a woman and sexually assaulting three more. Brand’s conviction on Thursday ‌renewed scrutiny of how Britain’s entertainment industry has treated well-known performers accused of abusing their power, with some women saying they feared speaking out could harm their careers. Asked whether...",
+     "url": "https://www.scmp.com/news/world/europe/article/3373718/media-industry-still-has-problem-sexual-abuse-uk-culture-minister-says",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Media industry still has a problem with sexual abuse, British minister says",
+     "desc": "Culture minister Lisa Nandy said is time for the media industry to take the matter seriously.",
+     "url": "https://www.straitstimes.com/world/europe/media-industry-still-has-a-problem-with-sexual-abuse-uk-minister-says",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261109-26",
+   "title": "オマーン湾で船舶被弾、米とイランの見解割れ",
+   "firstSeen": "2026-11-09",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-09": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US forces strike commercial vessel in Gulf of Oman after crew 'ignored repeated warnings'",
+     "desc": "The UKMTO maritime agency said late on Saturday that it had received a report of an incident involving a bulk carrier and military forces in the gulf.",
+     "url": "https://www.euronews.com/2026/11/08/us-forces-strike-commercial-vessel-in-gulf-of-oman-after-crew-ignored-repeated-warnings",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Iran suggests blasts are not US attacks as both sides report ships hit",
+     "desc": "CAIRO, Nov 8 - Iranian media suggested explosions in southern Iran on Saturday evening were related to Iranian military activities rather than US strikes while both sides reported that shipping had been hit in or near the Strait of Hormuz.",
+     "url": "https://www.straitstimes.com/world/middle-east/iran-suggests-blasts-are-not-us-attacks-as-both-sides-report-ships-hit",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261109-30",
+   "title": "英文化相、EU再加盟の選択肢を巡り慎重",
+   "firstSeen": "2026-11-09",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-09": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.65,
+     "title": "Lisa Nandy wary of ‘circular arguments’ about rejoining EU",
+     "desc": "Culture secretary pushes back against talk of revisiting Brexit but says closer ties would fulfil referendum promises One of Andy Burnham’s cabinet ministers has said she wants to avoid “circular arguments” about whether the UK should rejoin the EU, underlining divisions at the top of government over revisiting Brexit. Lisa Nandy, the culture secretary, appeared to suggest she was not in favour of rejoining the trade bloc, but she said the prime minister should still pursue closer ties to fulfil the promises made at the time of the referendum. Continue reading...",
+     "url": "https://www.theguardian.com/politics/2026/nov/08/lisa-nandy-wary-of-circular-arguments-about-rejoining-eu",
+     "via": null
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "UK culture secretary Lisa Nandy questions whether rejoining EU is a ‘choice we have’ - Financial Times",
+     "desc": "UK culture secretary Lisa Nandy questions whether rejoining EU is a ‘choice we have’ Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSXpxTy1lZ0FvTlNUdS1LbTRGQXhSWnJZTmN3NDZJVEdTM09NVnJpZ05ZY2x4aEJseFd2cWpHMWdrd0hKbG5JMmRkTm1EOU1DUkphNWRiTWx0VEFnVnVuN3l6WHZyUGJFYmMxSjVPSnQxOFE4cHA2OFgwYUl6c281RmxUbG4?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261106-29",
+   "title": "ヘグセス国防長官の弾劾、民主党が推進",
+   "firstSeen": "2026-11-06",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-06": 8,
+    "2026-11-09": 5
+   },
+   "peak": 8,
+   "worldScore": 5,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 5,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "abc-au",
+     "name": "ABC Australia",
+     "region": "world",
+     "weight": 0.48,
+     "title": "Congress ultimatum to Trump: Fire Hegseth or we will impeach him",
+     "desc": "The US president's ambition to leverage his final two years sparks speculation that Defense Secretary Pete Hegseth could be among the casualties.",
+     "url": "https://www.abc.net.au/news/2026-11-09/donald-trump-revamping-team-and-pete-hegeth-could-be-next/107358974",
+     "via": null
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Hegseth Impeachment Backed by Democratic Leader Jeffries - Bloomberg.com",
+     "desc": "Hegseth Impeachment Backed by Democratic Leader Jeffries Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSUh1QkpsemtEOHdRQWFZSDVDckJ4d0sxWS02Q2d4VGVHNkdHdHpyUElYUFE1ZWVXMDJPN0Z4UmpaV1ZpVDlnTXA2cURzR1ZLeVRBVFktdXlvMkxCZzM1el90bGNIYWdUT1cyVm5tNFdkclN2dHBjX1lhSGI1UTJkem05T3hCYjR1ZEV4Mkc3YUNYelZOOEhmLW5wMWJSQlRVd0hjMzZlekhqNy0yNW9BVGpjaw?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261109-08",
+   "title": "愛知県で震度5強、22人負傷 静岡西部地震",
+   "firstSeen": "2026-11-09",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-09": 3
+   },
+   "peak": 3,
+   "worldScore": 3,
+   "worldCoverage": "1/18",
+   "jpScore": 23,
+   "jpCoverage": "2/6",
+   "gap": -20,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Strong earthquake shakes central Japan, shattering store windows and injuring at least 22 - AP News",
+     "desc": "Strong earthquake shakes central Japan, shattering store windows and injuring at least 22 AP News",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWUdHZWFQdzh4U25aT0hXNC16czN1X1NmMzFMYXZleGZ6SWU1bWswdzktZ0pFbXRXQTBTajJTRGg3MFhMMzE5Q1NzMHIwU1dKMW1vUE5LTGdBU2dZa2NqN2J4TjN2aVU0ZDZaLWRaVjhqTjFqMXl3M0dRNUJrY3NSNnhB?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "asahi",
+     "name": "朝日新聞",
+     "region": "jp",
+     "weight": 0.85,
+     "title": "静岡県内では3人がけが 深夜の緊急地震速報に釣り人「パニックに」",
+     "desc": "",
+     "url": "http://www.asahi.com/articles/ASVC80FVWVC8UTPB003M.html?ref=rss",
+     "via": null
+    },
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "愛知で震度５強 ３０年ぶり、２２人重軽傷―気象庁「南海トラフと違う」",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026110800027&g=soc&m=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261109-10",
+   "title": "大阪・梅田の書店で店員刺傷、男逮捕",
+   "firstSeen": "2026-11-09",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-09": 3
+   },
+   "peak": 3,
+   "worldScore": 3,
+   "worldCoverage": "1/18",
+   "jpScore": 23,
+   "jpCoverage": "2/6",
+   "gap": -20,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Japan man with ‘grudge against society’ stabs bookshop worker",
+     "desc": "Japanese police arrested a 33-year-old man who admitted to stabbing a bookshop worker in Osaka on Sunday, a spokesman said, adding that the suspect said he “held a grudge against society”. The man, identified as Satoshi Okamoto, allegedly used a kitchen knife to stab the worker – who called police immediately afterwards – at a branch of national chain Maruzen & Junkudo in the heart of Japan’s second largest city. Police did not elaborate on the victim’s condition, but there was no fear for his...",
+     "url": "https://www.scmp.com/news/asia/east-asia/article/3373708/japan-man-grudge-against-society-stabs-bookshop-worker",
+     "via": null
+    },
+    {
+     "id": "asahi",
+     "name": "朝日新聞",
+     "region": "jp",
+     "weight": 0.88,
+     "title": "大阪・梅田の書店で従業員が刺される 男を傷害容疑で現行犯逮捕",
+     "desc": "",
+     "url": "http://www.asahi.com/articles/ASVC82QDTVC8OXIE00HM.html?ref=rss",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "大阪・梅田のMARUZEN&ジュンク堂で店員刺傷 傷害疑い30代男逮捕 - 日本経済新聞",
+     "desc": "大阪・梅田のMARUZEN&ジュンク堂で店員刺傷 傷害疑い30代男逮捕 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZSy1XWnQtRVJUYTJmQ3hQVEdOOXRoT1YwYk10Rk54azYzSDlBeTJWSnN2TXAyOWxxbVJFTzdCbDdVZjhQT1J4WGk0QXR3VTFoQ2d6TTNpQnBrVERhb2NFR05EYUg2ek9WWkVscQ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261106-15",
+   "title": "田嶋幸三氏、FIFA会長選で勝算を主張",
+   "firstSeen": "2026-11-06",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-06": 3,
+    "2026-11-09": 3
+   },
+   "peak": 3,
+   "worldScore": 3,
+   "worldCoverage": "1/18",
+   "jpScore": 12,
+   "jpCoverage": "1/6",
+   "gap": -9,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Infantino’s Japanese challenger claims he could unseat FIFA president",
+     "desc": "Kozo Tashima believes he has a &#039;20 to 30 percent&#039; chance of winning the FIFA presidency election against Infantino.",
+     "url": "https://www.aljazeera.com/sports/2026/11/8/infantinos-japanese-challenger-claims-he-could-unseat-fifa-president?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.71,
+     "title": "田嶋幸三氏は｢勝つ可能性ある｣とUEFA元幹部 FIFA会長選“日本人初”誕生は(テレビ朝日系（ANN）)",
+     "desc": "「サムライ魂で“彼”と戦う」FIFA・国際サッカー連盟の会長選への出馬を電撃表明した田嶋幸三さんがイギリスBBCの取材に力強く答えました。【田嶋幸三氏に聞く】岡田副会長の辞任との関連は…ワールドカップ",
+     "url": "https://news.yahoo.co.jp/articles/ba3846352e68e173f8350688d285a2c647b2c366?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261109-25",
+   "title": "ガザで豪雨、テント数万張が浸水",
+   "firstSeen": "2026-11-09",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-09": 3
+   },
+   "peak": 3,
+   "worldScore": 3,
+   "worldCoverage": "1/18",
+   "jpScore": 6,
+   "jpCoverage": "1/6",
+   "gap": -3,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Gaza: Heavy rain inundates thousands of tents",
+     "desc": "Heavy rainfall has flooded thousands of tents sheltering displaced Palestinians across the Gaza Strip, including in Deir al-Balah. Residents say overflowing sewage has mixed with the floodwater, further worsening already dire living conditions. Families are struggling to salvage their belongings, building makeshift earthen barriers and trying to drain the water by hand. Many have seen essential items soaked and rendered unusable, adding to the hardship faced by those already displaced.",
+     "url": "https://www.france24.com/en/gaza-heavy-rain-inundates-thousands-of-tents",
+     "via": null
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.33,
+     "title": "ガザで豪雨 7万張のテント浸水 「ビニールシートでは雨をしのげない」(テレビ朝日系（ANN）)",
+     "desc": "パレスチナ自治区ガザ地区が豪雨に見舞われ、少なくとも7万張のテントが浸水しました。厳しい生活を強いられている避難民らに深刻な被害が出ています。 ガザ地区の当局によりますと、7日の豪雨で少なくとも7万張",
+     "url": "https://news.yahoo.co.jp/articles/e1582a9c32a395dabcd42a21da58b30fd75e3abb?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261109-09",
+   "title": "福井の山中で女性遺体、監禁容疑で男逮捕",
+   "firstSeen": "2026-11-09",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-09": 0
+   },
+   "peak": 0,
+   "worldScore": 0,
+   "worldCoverage": "0/18",
+   "jpScore": 46,
+   "jpCoverage": "4/6",
+   "gap": -46,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "asahi",
+     "name": "朝日新聞",
+     "region": "jp",
+     "weight": 0.97,
+     "title": "福井の山中で発見の遺体、身元は監禁容疑事件の被害者 死因は窒息",
+     "desc": "",
+     "url": "http://www.asahi.com/articles/ASVC842RMVC8PJLB002M.html?ref=rss",
+     "via": null
+    },
+    {
+     "id": "mainichi",
+     "name": "毎日新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "福井遺体、26歳女性と確認 交際相手を送検、殺人容疑も視野",
+     "desc": "",
+     "url": "https://mainichi.jp/articles/20261109/k00/00m/040/001000c",
+     "via": null
+    },
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "福井の山林に女性遺体 交際相手か、「殺害し遺棄」―監禁容疑で４９歳男逮捕・石川県警",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026110800228&g=soc&m=rss",
+     "via": null
+    },
+    {
+     "id": "yahoo",
+     "name": "Yahoo!ニュース主要",
+     "region": "jp",
+     "weight": 0.8,
+     "title": "福井の山中に女性遺体 死因は窒息",
+     "desc": "",
+     "url": "https://news.yahoo.co.jp/pickup/6601853?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261109-11",
+   "title": "消費減税法案、与党が参院で多数派工作へ",
+   "firstSeen": "2026-11-09",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-09": 0
+   },
+   "peak": 0,
+   "worldScore": 0,
+   "worldCoverage": "0/18",
+   "jpScore": 17,
+   "jpCoverage": "2/6",
+   "gap": -17,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "与党、少数参院で多数派工作 消費減税法案、１１日審議入り",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026110700339&g=pol&m=rss",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "自民党の小林政調会長「党議拘束重い」 減税法案の採決前退席巡り - 日本経済新聞",
+     "desc": "自民党の小林政調会長「党議拘束重い」 減税法案の採決前退席巡り 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UcmhBZFNZZXAtdEhPa2REQ0tCcDZ2bThfNjhoNzkxYUljamtLTVV6TGhlbW1IWjR4MkV3TzI3N2xUQlE1MTdEVi1mRC1TWXRlZnhrUU44VWYwWmh5N1NUN0dRbTA3LWNwMG9HaA?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  }
+ ]
+}
