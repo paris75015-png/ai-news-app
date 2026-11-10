@@ -1,0 +1,3400 @@
+{
+ "date": "2026-11-10",
+ "generatedAt": "2026-11-10T00:43:13.808Z",
+ "measured": {
+  "world": 18,
+  "jp": 6
+ },
+ "unreachable": [],
+ "ranking": [
+  {
+   "id": "s-20261103-02",
+   "title": "仏、冷蔵庫サイバー攻撃をイラン関与と発表",
+   "firstSeen": "2026-11-03",
+   "daysSeen": 5,
+   "history": {
+    "2026-11-03": 37,
+    "2026-11-04": 27,
+    "2026-11-05": 21,
+    "2026-11-06": 6,
+    "2026-11-10": 41
+   },
+   "peak": 41,
+   "worldScore": 41,
+   "worldCoverage": "11/18",
+   "jpScore": 37,
+   "jpCoverage": "4/6",
+   "gap": 4,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.88,
+     "title": "France accuses Iran of supermarket fridge hacking",
+     "desc": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
+     "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.68,
+     "title": "Cyber-attack on French supermarket freezers has geopolitical context",
+     "desc": "‘Not particularly complex’ defrosting hack has been attributed to Iran, with presumption it is linked to others across Europe Iranian hackers like to send a message. In 2023 a state-backed group interrupted TV streaming services in the United Arab Emirates to broadcast a deepfake report on the war in Gaza. In the same year, hackers affiliated with Iran displayed the slogan “down with Israel” on the screens of water-control equipment made by an Israeli firm. Continue reading...",
+     "url": "https://www.theguardian.com/technology/2026/nov/09/cyber-attack-french-supermarket-freezers-iran-europe",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.97,
+     "title": "France Blames Iran for Cyberattack on Refrigeration Systems",
+     "desc": "The French foreign minister said he had summoned the Iranian ambassador to France after a cyberattack on hundreds of supermarkets last month. Iran did not immediately respond.",
+     "url": "https://www.nytimes.com/2026/11/09/world/europe/france-iran-refrigerators-cyberattack.html",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "France blames Iran for cyberattack on supermarket fridges",
+     "desc": "French Foreign Minister Jean-Noël Barrot on Monday accused Iran's Revolutionary Guards of being behind a recent cyberattack on French supermarket fridges, saying there would be consequences for the country.",
+     "url": "https://www.france24.com/en/video/20261109-france-blames-iran-for-cyberattack-on-supermarket-fridges",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "France says Iran behind cyberattacks on supermarket fridges",
+     "desc": "French Foreign Minister Barrot said that an investigation into the fridge hack was still underway and that Iran's ambassador to France would be summoned.",
+     "url": "https://www.euronews.com/2026/11/09/france-says-iran-behind-cyberattacks-on-supermarket-fridges",
+     "via": null
+    },
+    {
+     "id": "npr",
+     "name": "NPR",
+     "region": "world",
+     "weight": 1,
+     "title": "France accuses Iran of cyber 'sabotage' in fridge attacks",
+     "desc": "France says Iranian military hackers took over refrigeration controllers at around 700 different retail sites last month, turning up temperatures in the middle of the night and spoiling millions of dollars' worth of food.",
+     "url": "https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "French officials accuse Iran of being behind fridge cyberattacks",
+     "desc": "France on Monday said Iran’s Revolutionary Guards were behind “unprecedented” cyberattacks on supermarket fridges in the country last month, vowing sanctions on a European level against Tehran. That would make the hacks among the most disruptive cyberattacks of the war with Iran that began in February, a conflict that has been marked by scattered incidents of alleged cyber disruption. These have included disruptions to the Los Angeles transit system in March, to US water treatment plants in July...",
+     "url": "https://www.scmp.com/news/world/europe/article/3373845/french-officials-suspect-iran-behind-fridge-cyberattacks-sources-say",
+     "via": null
+    },
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 0.88,
+     "title": "France blames Iran for massive cyber attack on supermarket fridges",
+     "desc": "France has accused Iran of being behind the massive cyber attack on supermarket fridges last month.",
+     "url": "https://news.sky.com/story/france-accuses-iran-of-being-behind-massive-cyber-attack-on-supermarket-fridges-13610319",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "France says Iran behind costly grocery store refrigeration hacks",
+     "desc": "The Paris prosecutor&#039;s office says investigators have determined that a cyberattack on grocery store chains was \"carried out to serve a foreign power — in this case, Iran.\"",
+     "url": "https://www.cbsnews.com/news/france-iran-behind-refrigerator-freezer-hack-cyberattack/",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "EXCLUSIVE: French officials blame Iran for refrigerator hacks, vow retaliation - Reuters",
+     "desc": "EXCLUSIVE: French officials blame Iran for refrigerator hacks, vow retaliation Reuters",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQam51ejNqNThjR0wtTnFjaTNObkVoS25CUzUySnBhRVc5bWlIZnhpM0ZleDhuSnJ2Z19xcWd3Q1Z3bnJkQmo1NmlJZGZnYUhEQ3ZCNHF6Y1hKM3BHZlpYOUZGTDA4WjhyaEZXcVU1NzM3YUxsUWJvRl9tYS1YSU1WSEpCN3h0eWx5SU1ReU1pRUlzaFNJd2N1YS1PNDFsbndESXV1ODJTaUE4YldYVzFicWln?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "France blames Iran for last month’s cyberattack on supermarket fridges - AP News",
+     "desc": "France blames Iran for last month’s cyberattack on supermarket fridges AP News",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQX3MxdFVOdmN3Y2lHVWlZVHRIdjJLbElKcTl6YnN0N3RwZXZXalAySVdselJLaEVMSXp5Q3MzVU9UNWxBSmhMWXJCYzF2bV94bEgzM0x2UUpwbS1CWUgtaDBpVmEwRTluSGNtVlE1N2QyWTJURWg5OUpFTy1WQm41RWEyYUxfWXhoZjVEUVNVbldOX3UySFh1VjctSWNqN0NPaTMwVlprWF82UVg0OVE?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "asahi",
+     "name": "朝日新聞",
+     "region": "jp",
+     "weight": 0.3,
+     "title": "スーパー冷蔵庫の温度操作、「イラン部隊のサイバー攻撃」 仏外務省",
+     "desc": "",
+     "url": "http://www.asahi.com/articles/ASVC9635VVC9UHBI03PM.html?ref=rss",
+     "via": null
+    },
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "冷蔵庫サイバー攻撃で注意喚起 政府",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026110900997&g=pol&m=rss",
+     "via": null
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.91,
+     "title": "冷蔵庫サイバー攻撃イラン関与か フランス、革命防衛隊を捜査(共同通信)",
+     "desc": "【パリ共同】フランスで10月中旬、大手スーパーなど多数の店舗の冷蔵・冷凍設備がサイバー攻撃を受け、温度が上昇して大量の食品が廃棄された事件で、パリ検察庁は9日、イラン革命防衛隊が関与した可能性があると",
+     "url": "https://news.yahoo.co.jp/articles/fa958926abdcc6c077ff07ab6451e9dcada2450b?source=rss",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "冷蔵庫サイバー攻撃は「イランの犯行」 仏当局、端末のIPアドレス特定 - 日本経済新聞",
+     "desc": "冷蔵庫サイバー攻撃は「イランの犯行」 仏当局、端末のIPアドレス特定 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkZmNMOG5zRlc2UGJycmp6N2RObnpzaml5T0lXcHM5VzVMNmtJU0RRTjFsNDBOVk1yeUNrLTNieVlZbGJEa2c0NUJ0czIxV1BLaGp5TDNMVnhsbklfaEJkWUhSZXl5Z3lnRXBkSA?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261109-02",
+   "title": "クラクフ銃乱射、容疑者が病院で死亡",
+   "firstSeen": "2026-11-09",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-09": 46,
+    "2026-11-10": 28
+   },
+   "peak": 46,
+   "worldScore": 28,
+   "worldCoverage": "9/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 28,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.62,
+     "title": "Krakow shooting suspect has died in hospital, police say",
+     "desc": "Six people were killed in the shooting, and three bodies of the suspect's family members were found at their home.",
+     "url": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.56,
+     "title": "Polish prosecutors say ‘too early’ to tell if Kraków gunman was motivated by political ideology",
+     "desc": "Terrorism investigation will continue after suspect who killed six after opening fire in market square died Polish prosecutors have said they do not currently have any evidence tying the man who killed six people and injured 16 in a rare mass shooting in Kraków to any particularly political ideology. The 24-year-old Polish national died in hospital early on Monday after being critically injured in a shootout with police officers as they apprehended him after the attack in the city’s busy market square on Saturday afternoon. Continue reading...",
+     "url": "https://www.theguardian.com/world/2026/nov/09/krakow-shooting-suspected-gunman-dead",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.94,
+     "title": "Mass Killing in Poland Becomes Cause for a Political Fight",
+     "desc": "The government blames the far right for inspiring the gunman, while the opposition accuses the government of lax security.",
+     "url": "https://www.nytimes.com/2026/11/09/world/europe/poland-mass-shooting-krakow-politics.html",
+     "via": null
+    },
+    {
+     "id": "dw",
+     "name": "Deutsche Welle",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Krakow mass shooting suspect has died in hospital, police in Poland say",
+     "desc": "The alleged gunman who killed six people in a shooting spree in the Polish city of Krakow has died of injuries sustained in a shootout with police, authorities say.",
+     "url": "https://www.dw.com/en/krakow-mass-shooting-suspect-has-died-in-hospital-police-in-poland-say/a-79895626?maca=en-rss-en-world-4025-rdf",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Poland: Tusk and Nawrocki honour six victims of Kraków shooting",
+     "desc": "Poland's President and Prime Minister set aside their political differences to honour the six victims of a deadly shooting in Kraków. The two leaders laid candles and knelt together at a vigil in the historic city centre.",
+     "url": "https://www.euronews.com/video/2026/11/09/poland-tusk-and-nawrocki-honour-six-victims-of-krakow-shooting",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Gunman who opened fire in Krakow, Poland, dies in hospital, police say",
+     "desc": "The 24-year-old who opened fire in Krakow, Poland, killing six and wounding at least 15 others, died in a hospital on Monday, police say. Ramy Inocencio reports.",
+     "url": "https://www.cbsnews.com/video/gunman-who-opened-fire-in-krakow-poland-dies-in-hospital-police-say/",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Thousands participate in silent march after Krakow mass shooting that shocked the nation",
+     "desc": "The government said the 24-year-old man may have been inspired by far-right ideology, but officials appeared to have backtracked since then.",
+     "url": "https://www.straitstimes.com/world/europe/thousands-participate-in-silent-march-after-krakow-mass-shooting-that-shocked-the-nation",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Thousands participate in silent march after Krakow mass shooting that shocked the nation - Reuters",
+     "desc": "Thousands participate in silent march after Krakow mass shooting that shocked the nation Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdWw0eFdQQ241MXc4cEJodjl6UWtSVFNSaEdUeFEtSjB5b3ZYRVh1aGRJR2lyeGtYM09sejhMQzF1TnBwWjcteHUtUlVwSTZ6SFFEN3M4cFlLU3NaMkZYMlZoWFJmRE1KODBVRlh3TmNQNklvY2p3UVEtc1VrU0FzLWlLeHpDenVuN1dkSGMxb2QxRXR2dzV5dWhRUE1lQVR6UU14aWJZVml6bi1sT2hLQU42VENxUEVGQnhQSU82N04?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Polish gunman who killed 6 in Krakow square dies in a hospital - AP News",
+     "desc": "Polish gunman who killed 6 in Krakow square dies in a hospital AP News",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPT3F0cG9XZEVlN0pBaEFzQTlWdjFka082QUE5eDRWd0RUMEpvQURHTG4zNHVpb0haZ1E4OVFiQmFXaHE2djVpVHhCcHRzSXp4cWF4cmRDcnotMXRlZ3UwNXR4NHprdWZBMDZnMXBTWUFYRnE2QXAwTjJwQXh5eUR3eTlrR3ZsTVNJZ1E?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261109-12",
+   "title": "エヌビディア、CEO疑惑で社内調査・株価下落",
+   "firstSeen": "2026-11-09",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-09": 14,
+    "2026-11-10": 27
+   },
+   "peak": 27,
+   "worldScore": 27,
+   "worldCoverage": "8/18",
+   "jpScore": 20,
+   "jpCoverage": "2/6",
+   "gap": 7,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.97,
+     "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+     "desc": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
+     "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.85,
+     "title": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
+     "desc": "CEO reportedly ‌had close relationship ‌with a Chinese businesswoman who passed information to ‌Beijing Nvidia said ⁠on Sunday it “is initiating an independent investigation in light of recent reporting that founder and CEO Jensen Huang has been the target of a foreign intelligence effort”. The New York Times reported in ​October that Donald Trump had been briefed last year on intelligence that Huang ‌had a close relationship ‌with a Chinese businesswoman who passed information to ‌Beijing. Continue reading...",
+     "url": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Nvidia shares slide as board probes CEO over affair with alleged Chinese spy",
+     "desc": "Nvidia CEO Jensen Huang is facing scrutiny after reports he was targeted in a suspected Chinese intelligence operation involving a businesswoman with whom he was having an affair. The controversy has rattled investors, sending Nvidia shares tumbling.",
+     "url": "https://www.france24.com/en/video/20261110-nvidia-shares-slide-as-board-probes-ceo-over-affair-with-alleged-chinese-spy",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Nvidia faces defining test as Jensen Huang probe adds to chip stock turbulence",
+     "desc": "Nvidia is facing an unprecedented valuation test as a board inquiry into CEO Jensen Huang exposes the US chipmaker to a rare key-person risk, while investors also weigh the midterm elections’ potential impact on Washington’s chip controls and AI regulation. The company’s shares slumped 7.3 per cent as markets opened in the United States on Monday, following Huang’s bombshell confirmation over the weekend that he had been unfaithful to his wife and would cooperate with an investigation into his...",
+     "url": "https://www.scmp.com/tech/big-tech/article/3373825/nvidia-faces-defining-test-jensen-huang-probe-adds-chip-stock-turbulence",
+     "via": null
+    },
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 0.53,
+     "title": "AI giant Nvidia launches investigation into CEO's affair with 'Chinese spy'",
+     "desc": "The chief executive of tech giant Nvidia has admitted having an affair, with the company investigating reports that he was targeted by a foreign intelligence effort.",
+     "url": "https://news.sky.com/story/tech-giant-nvidia-launches-investigation-after-reports-ceo-was-targeted-by-chinese-intelligence-13609986",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Nvidia shares drop amid CEO&#039;s alleged Chinese spy affair",
+     "desc": "Shares of Nvidia, the world&#039;s top AI chipmaker, fell more than 4% on Monday, wiping out about $200 billion in stock market value. The company&#039;s CEO admitted to an affair with a woman identified by U.S. intelligence as a former data center executive suspected of spying for China. Jo Ling Kent reports.",
+     "url": "https://www.cbsnews.com/video/nvidia-shares-drop-amid-ceos-alleged-chinese-spy-affair/",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Nvidia investigates whether CEO Jensen Huang was targeted by Chinese spy with whom he had an affair - AP News",
+     "desc": "Nvidia investigates whether CEO Jensen Huang was targeted by Chinese spy with whom he had an affair AP News",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUzB5YTdpVVRqQUNKMHhoR3ZQNEdMb00yeU1kQUpTM2tDT2lHbTRmb1p5NHpmdDZqZ21EQlVNTEIzd2tlbDh2cUIwM1RNOVVQeFF6bDdjbXplNjhnWU1VUTR1NndXOFRGTUJlbHJGcmstaWgxWGdSX05SWW9qWmRaUlpLVTBGX1VNc3RnOEpqSktRZW96d0lVYVd0SEg5ZGlnd1FFMDNpdWo?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Nvidia shares fall as it probes alleged Chinese spy scandal - Financial Times",
+     "desc": "Nvidia shares fall as it probes alleged Chinese spy scandal Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPX3VKdWJFVzFQMEtxRW5JaEhiOWpNVkEyd0tJTUhtdWRyS1lCR0lJaFFyN2hvc1ZDZklzSmdyZUwwMVVEV0V3Y2loOFgwSno1ZHlZYXB2bUpjaS1STmt3cTdBRjh3c1o2TFktRzdaVHBaSjVUeU9tLTdweGcxV0hKWmNlTzk?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.68,
+     "title": "ジェンスン・フアン氏の不倫認定に揺れるエヌビディア…株価一時8％急落(中央日報日本語版)",
+     "desc": "エヌビディアのジェンスン・フアン最高経営責任者（CEO）が中国の情報機関との関連が疑われる女性企業家との不倫を認めた中で、ニューヨーク証券市場でエヌビディアの株価は6％超以上急落した。9日午前9時40",
+     "url": "https://news.yahoo.co.jp/articles/6a3c1d96e7f47c97b6ebf5e544d96bb2cf67ef23?source=rss",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "NVIDIA、ファン氏スパイ関与疑惑で株価4%安 議会は超党派で追及 - 日本経済新聞",
+     "desc": "NVIDIA、ファン氏スパイ関与疑惑で株価4%安 議会は超党派で追及 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DbVdXS1JmUFpuaFlYYXhXRlA4SXlGYUpxNll0VzRMZWJYZXpFUDdEZk9kYXpNNkpqOWY0RlgxUWxzMVZCZ2V6cGkwYUtveFU3MmhuSVNiamtIdWhuM2I5bXlLN3lsbUVIbTdvWQ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261106-08",
+   "title": "ラッセル・ブランド被告に懲役10年半の判決",
+   "firstSeen": "2026-11-06",
+   "daysSeen": 3,
+   "history": {
+    "2026-11-06": 25,
+    "2026-11-09": 6,
+    "2026-11-10": 26
+   },
+   "peak": 26,
+   "worldScore": 26,
+   "worldCoverage": "9/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 26,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.39,
+     "title": "Jemima Goldsmith says ex-partner Russell Brand physically assaulted her",
+     "desc": "TV producer, who was in relationship with ex-comedian that reportedly ended in 2014, accuses him of ‘violence, coercive control and abuse’ Russell Brand sentenced to more than 10 years in prison for rape and sexual assault Jemima Goldsmith has said Russell Brand physically assaulted her and she accused him of “violence, coercive control and abuse”. The 52-year-old TV producer said she has always been “strongly and unequivocally” on the side of Brand’s victims as she opened up about her own “painful” experience with her former partner in a social media post on Monday. Continue reading...",
+     "url": "https://www.theguardian.com/news/2026/nov/09/jemima-goldsmith-says-ex-partner-russell-brand-physically-assaulted-her",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Russell Brand sentenced to 10.5 years over sexual assault charges",
+     "desc": "Russell Brand has been sentenced to 10 years and six months in prison after being convicted of raping one woman",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/russell-brand-sentenced-to-10-5-years-over-sexual-assault-charges?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "'Sexual predator' Russell Brand jailed for 10 years for rape, assault",
+     "desc": "British comedian and TV star Russell Brand was Monday jailed for more than 10 years for a string of sex offences including rape, as the judge told him he had been a \"sexual predator\" whose fame had protected him. Brand, 51, showed no emotion as judge Joel Bennathan said he had acted with \"staggering arrogance\" and shown \"contempt\" for his victims, who had suffered significant and lasting harm. FRANCE 24's Carys Garland reports.",
+     "url": "https://www.france24.com/en/sexual-predator-russell-brand-jailed-for-10-years-for-rape-assault",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Moment judge sentences Russell Brand for rape and sexual assault",
+     "desc": "British comedian Russell Brand has been sentenced to 10 years and 6 months in prison after being convicted of rape and three sexual assaults against four women between 2004 and 2009.",
+     "url": "https://www.euronews.com/video/2026/11/09/moment-judge-sentences-russell-brand-for-rape-and-sexual-assault",
+     "via": null
+    },
+    {
+     "id": "npr",
+     "name": "NPR",
+     "region": "world",
+     "weight": 0.84,
+     "title": "British comedian Russell Brand sentenced to over 10 years for rape and sexual assault",
+     "desc": "Russell Brand, who became a celebrity darling in the early 2000s, was found guilty on one count of rape and three counts of sexual assault in a case brought by six women.",
+     "url": "https://www.npr.org/2026/11/09/nx-s1-6034335/british-comedian-russell-brand-sentenced",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "‘Sexual predator’ Russell Brand jailed for 10 years in UK for rape and assault",
+     "desc": "British comedian and television star Russell Brand was on Monday jailed for more than 10 years for a string of sex offences including rape, as the judge told him he had been a “sexual predator” whose fame had protected him. Brand, 51, showed no emotion as judge Joel Bennathan said he had acted with “staggering arrogance” and shown “contempt” for his victims, who had suffered significant and lasting harm. “About 20 years ago Russell Brand, you were becoming famous, you were clever, and in many...",
+     "url": "https://www.scmp.com/news/world/europe/article/3373841/uks-russell-brand-sentenced-10-1/2-years-jail-rape-sexual-assault",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Russell Brand sentenced to over 10 years for rape and sex assault",
+     "desc": "Disgraced British television personality and Hollywood actor Russell Brand has been sentenced to prison for raping a woman in 2009 and sexually assaulting three others.",
+     "url": "https://www.cbsnews.com/news/russell-brand-sentenced-prison-rape-sexual-assault/",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Russell Brand is sentenced to 10 1/2 years in British prison for rape and sexual assault - AP News",
+     "desc": "Russell Brand is sentenced to 10 1/2 years in British prison for rape and sexual assault AP News",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa3k5bUZCVzZ3bmpKMWtIVlVJM3YxWHRkUFpyQ0hjNE1WNWpUUkhwNldwZ0tkSmZxLWFUNzlZSzFSUjdIallGc3hDazdfMkUteWhyUFFhdmVFUTJscWNNQXJfMk5KRmdfN0Z5RTJ1anNrYWl2RXVpWlljR3AzMnhnc1FGVHd2elp2UW93Zkh6VDJvOTBDRWF2MERMclFObmJtNUdQdkk0VVJEVzFVWEZTdHJOVQ?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Russell Brand jailed for 10 years and six months for rape and sexual assault - Financial Times",
+     "desc": "Russell Brand jailed for 10 years and six months for rape and sexual assault Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaFo3VEpKQ3J5RWl3MHVESWRfNGg4RU9xR2E5aHZlNWVhUGRuWklPRDZLMUQ1WlpRR3FRVDJ2ZlN0Q0JiYXBVanVLdHZqWk10QnFQMDJacWh6VHJUNjVOdTFSLXNfOURialNPRHhHRUQwRzdTUlVYYWkyRmUyWnZIdllaekk?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261103-36",
+   "title": "ウクライナ和平協議、アブダビで再開へ",
+   "firstSeen": "2026-11-03",
+   "daysSeen": 5,
+   "history": {
+    "2026-11-03": 3,
+    "2026-11-04": 11,
+    "2026-11-05": 6,
+    "2026-11-09": 17,
+    "2026-11-10": 26
+   },
+   "peak": 26,
+   "worldScore": 26,
+   "worldCoverage": "8/18",
+   "jpScore": 10,
+   "jpCoverage": "1/6",
+   "gap": 16,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.94,
+     "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+     "desc": "Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first trilateral talks since February.",
+     "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.88,
+     "title": "Ukraine Peace Talks Resume This Week in Abu Dhabi",
+     "desc": "U.S.-led talks to end the war between Russia and Ukraine will resume this week in Abu Dhabi. A cease-fire won’t be on the table.",
+     "url": "https://www.nytimes.com/2026/11/09/world/europe/ukraine-russia-peace-talks.html",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "What to expect as Russia, Ukraine and the US hold trilateral talks in Abu Dhabi",
+     "desc": "Negotiators from Ukraine, Russia and the United States are set to meet in the capital of the United Arab Emirates (UAE) on Tuesday for a new round of talks aimed at ending nearly five years of full-scale war triggered by Moscow's invasion of its neighbour. Security guarantees for the warring sides are set to top the agenda, with US officials insisting that a broader security architecture for Europe must be part of any peace deal.",
+     "url": "https://www.france24.com/en/europe/20261109-what-to-expect-as-russia-ukraine-and-us-hold-trilateral-talks-in-abu-dhabi",
+     "via": null
+    },
+    {
+     "id": "npr",
+     "name": "NPR",
+     "region": "world",
+     "weight": 0.38,
+     "title": "Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections",
+     "desc": "France says European officials will attend this week's U.S.-mediated Russia-Ukraine talks in Abu Dhabi, the first three-way round of negotiations since February.",
+     "url": "https://www.npr.org/2026/11/08/nx-s1-6034014/europe-join-us-brokered-ukraine-talks-abu-dhabi-russia",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Russia, Ukraine to meet for US-backed talks after Trump says broad deal possible",
+     "desc": "European powers will also send officials to the talks in Abu Dhabi.",
+     "url": "https://www.straitstimes.com/world/europe/russia-ukraine-to-meet-for-us-backed-talks-after-trump-says-broad-deal-possible",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump says US seeing 'strong inclination' to end Russia's war in Ukraine - Reuters",
+     "desc": "Trump says US seeing 'strong inclination' to end Russia's war in Ukraine Reuters",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc21fOTJsSUt2S1FtclRIdUVUUnBmcVAyWjd2WkdvcWt4bEw4MUtmaFFoZF9EYlNCZUwzRVJtekFhMy1rWElPTUxwekhLQXRXT25pTWdLa2NGdkFteWtibmxSdUNOLWZEcUpjeVJtcTZ3S0ZWUWx4T3p1a2hwTTV5ZEp0amVHdHRsZ2hiM2E5QUQ2U2owd09vcDdKMmlZWEIyNEl3U1Fic2puR2hhendj?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump envoys aim to persuade Russia to include Europe in negotiations on ending war with Ukraine - AP News",
+     "desc": "Trump envoys aim to persuade Russia to include Europe in negotiations on ending war with Ukraine AP News",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSzJmdDczN2hxRVpiY0V5UzZWZlFBR3oxaUlhWW96SzNvUEcxd3Q5clI3M1FXUTZqMkF5dmpZV29xdjFZV1hBNDZpeXVwalQ4X1lISlZGY1lIWVZ2UXpYUUExQXl0aVlZazNycEFHQ25xclZiNHQyOW5nWlFoYlFPU3VyeTZwa0hPUkNMeTJ5ck9UVk95?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Europeans join Abu Dhabi talks in bid to thwart Russian security demands - Financial Times",
+     "desc": "Europeans join Abu Dhabi talks in bid to thwart Russian security demands Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLUVnaVMxYXoyeHNoQ3pDcWVYbjZpUDBjMERYMFIyVk1Zb3lFSnBucmx6ckpvMEhaSnhjUU9MYTdNaEpMTjUwZk8yeFc5WXBPaDd2V196b1NtVkNxM3dHNzVTTUREYjhYNE9OeFNBSXd2VTZHVGx1WG9yQXBQUDRmeFNZei0?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.62,
+     "title": "米政府当局者、露ウクライナ双方が「水面下では少し柔軟に」 領土問題めぐり(産経新聞)",
+     "desc": "【ワシントン＝本間英士】米政府当局者は9日、ロシアによるウクライナ侵略の終結に向けた米露ウクライナ3カ国の高官協議について、領土問題をめぐるロシアとウクライナ双方の姿勢が「水面下では少し柔軟になってい",
+     "url": "https://news.yahoo.co.jp/articles/54a4b49d06d10421f25328fc4ffce0a4d87a5ffe?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261110-06",
+   "title": "CEO不倫問題、AI業界と米中関係への影響を分析",
+   "firstSeen": "2026-11-10",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-10": 25
+   },
+   "peak": 25,
+   "worldScore": 25,
+   "worldCoverage": "9/18",
+   "jpScore": 6,
+   "jpCoverage": "1/6",
+   "gap": 19,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.3,
+     "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
+     "desc": "Jensen Huang is being investigated by his own company over an extramarital affair with a woman alleged to be a Chinese spy.",
+     "url": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.62,
+     "title": "The Nvidia Affair",
+     "desc": "An illicit relationship between the C.E.O. and an alleged Chinese spy is putting the spotlight on a murky ecosystem of companies smuggling A.I. chips into China.",
+     "url": "https://www.nytimes.com/2026/11/09/world/nvidia-affair-jensen-huang-russell-brand.html",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Nvidia's Huang scandal rattles AI industry built around him",
+     "desc": "Nvidia chief Jensen Huang sits at the center of the artificial intelligence boom, and the spy scandal that erupted over the weekend threatens to shake the company at a time when confidence in the AI investment frenzy is already fragile. Taiwan-born Huang is regarded as the godfather of the AI economy, the executive every player in the industry must turn to because the technology depends on the graphics processing units (GPUs) that his company designs. FRANCE 24's Wassim Cornet reports from Los Angeles.",
+     "url": "https://www.france24.com/en/nvidia-s-huang-scandal-rattles-ai-industry-built-around-him",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "How could the Jensen Huang 'spy' scandal affect Nvidia's future?",
+     "desc": "Nvidia CEO Jensen Huang faces a board investigation over alleged Chinese intelligence links involving a business executive he had an affair with. The allegations raise concerns over security breaches and the future of the world's leading AI chipmaker.",
+     "url": "https://www.euronews.com/video/2026/11/09/how-could-the-jensen-huang-spy-scandal-affect-nvidias-future",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Nvidia scandal may test fragile US-China truce, experts say",
+     "desc": "The fallout from the Nvidia scandal may test the fragile truce between the US and China, analysts say, as calls in Washington grow to tighten semiconductor export controls just days before US President Donald Trump is due to meet Chinese leader Xi Jinping in Shenzhen, China. “I think that [scandal] could have a bigger impact down the line during the meeting in Miami or even further down the line,” said Ilaria Mazzocco, a senior fellow at the Centre for Strategic and International Studies....",
+     "url": "https://www.scmp.com/news/china/diplomacy/article/3373859/nvidia-scandal-may-test-fragile-us-china-truce-experts-say",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Nvidia CEO Jensen Huang&#039;s affair with suspected Chinese spy rocks tech world",
+     "desc": "Nvidia CEO Jensen Huang is under investigation by the tech giant&#039;s board after admitting to an affair with a woman the U.S. government suspects of spying for China. Jo Ling Kent reports.",
+     "url": "https://www.cbsnews.com/video/nvidia-ceo-jensen-huangs-affair-with-suspected-chinese-spy-rocks-tech-world/",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Is Jensen Huang too powerful to be punished by Nvidia?",
+     "desc": "He leads the company with no clear successor, and his family holds key roles.",
+     "url": "https://www.straitstimes.com/world/united-states/is-jensen-huang-too-powerful-to-be-punished-by-nvidia",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "'No ordinary CEO': Why the AI race cannot do without Nvidia's Jensen Huang - Reuters",
+     "desc": "'No ordinary CEO': Why the AI race cannot do without Nvidia's Jensen Huang Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMERscVA0bmtmSTlEYWRSTzV1bzVFVnFOQnR4ZjMtMzgyR0o0aFpzVmZDTklKMjUxZ2ptTTU2ZlA3UzRiNU1HUFIzd2gycHliSlo3ZkpOMk93akxqcjdQX05iSWZuQU9ZWlV2Q2o5cV80TTBqckFzOFlOREtOTHR4dVpFb29ZRkRTbDl3RGJrN0FrNEp1aGdTeVN2bkR3UlNYa0padDRqTTNINlNNdzVzTG9CcjlZV2tUaFV2SHlxcENUS28?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Huang Had His Head in the Clouds - Bloomberg.com",
+     "desc": "Huang Had His Head in the Clouds Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeUR0clZfM25EYzd4UWFHU0ZuWXdYa0ZMYlZjNm5FUi00NkRYRXR5ZW9hdG1XcUFaRVhNMWVPR1hHeFNud2hPaGI0S3MweVVKRHVyd29qaXBNWWdMMjRrbFpRZ2FJUVF4UUJhMlFfb2NYTFhvcDNCSW1JOHFDM0U0VmN0WmdUM2tLWTVhaFZfMTRLdHYtVXpJSndOSjl6MldfOVREUm9BbE8?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.36,
+     "title": "黒いジャケットの裏切り…ジェンスン・フアン氏の不倫ショック、米中関係とAI供給網の信管に(中央日報日本語版)",
+     "desc": "台湾出身の60代の米国人男性が米中関係と人工知能（AI）・半導体業界の信管に浮上した。エヌビディアのジェンスン・フアン最高経営責任者（CEO）が8日、中国の情報機関に抱き込まれたもの疑われる女性企業家",
+     "url": "https://news.yahoo.co.jp/articles/05b9fdd0d842842bac9d15823ae44fb5b0a0bff1?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261106-29",
+   "title": "ヘグセス国防長官の弾劾決議案、共和党議員が提出",
+   "firstSeen": "2026-11-06",
+   "daysSeen": 3,
+   "history": {
+    "2026-11-06": 8,
+    "2026-11-09": 5,
+    "2026-11-10": 23
+   },
+   "peak": 23,
+   "worldScore": 23,
+   "worldCoverage": "8/18",
+   "jpScore": 17,
+   "jpCoverage": "2/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.85,
+     "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+     "desc": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process next year.",
+     "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.3,
+     "title": "Donald Trump doubles down on defense of Pete Hegseth and attacks fresh effort to impeach him – live",
+     "desc": "Thomas Massie, Republican congressman, accuses defense secretary of illegally waging war without congressional authorization; president claims Hegseth both won and is winning war with Iran Republican Thomas Massie moves to force vote to impeach Pete Hegseth Sign up for US Breaking News email Democratic Congressman Hakeem Jeffries , currently the House minority leader who is poised to become new Speaker next year, told CBS News that the Trump administration will hold a closed-door congressional briefing today to discuss Jensen Huang’s affair with an alleged Chinese spy . Last week the Republica",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US congressman files resolution to impeach Defence Secretary Pete Hegseth",
+     "desc": "Outgoing Republican lawmaker Thomas Massie calls on Congress to oust Hegseth over accusations of unlawful orders.",
+     "url": "https://www.aljazeera.com/news/2026/11/9/us-congressman-files-resolution-to-impeach-defence-secretary-pete-hegseth?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US Defense Secretary Hegseth faces expected impeachment vote this week",
+     "desc": "A Republican lawmaker moved Monday to impeach US Defense Secretary Pete Hegseth over the war in Iran, setting up a potentially explosive vote in Congress days after President Donald Trump's party suffered a crushing midterm defeat. Kentucky congressman Thomas Massie introduced eight articles of impeachment accusing Hegseth of illegally waging war without congressional authorization and abusing his powers as Pentagon chief. FRANCE 24's Fraser Jackson reports from Washington.",
+     "url": "https://www.france24.com/en/us-defense-secretary-hegseth-faces-expected-impeachment-vote-this-week",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Hegseth calls Iran war necessary and waves off expected impeachment push",
+     "desc": "Facing an expected impeachment resolution in Congress, Defence Secretary Pete Hegseth said he is eager to litigate the military actions that he and US President Donald Trump have taken against Iran, Yemen’s Iranian-backed Houthi rebels and Venezuela’s previous leaders. “If you want to take issue with what we did in Epic Fury or Rough Rider or nabbing Nicolas Maduro, you’re taking issue with the troops and what they accomplished, which is historic,” Hegseth told reporters on Monday, using the...",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3373848/hegseth-calls-iran-war-necessary-and-waves-noise-expected-impeachment-push",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "How impeaching US Defence Secretary Pete Hegseth would work",
+     "desc": "Hegseth has portrayed the impeachment effort as part of a larger culture war.",
+     "url": "https://www.straitstimes.com/world/united-states/how-impeaching-us-defence-secretary-pete-hegseth-would-work",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Pentagon chief Hegseth expected to face House impeachment vote this week - Reuters",
+     "desc": "Pentagon chief Hegseth expected to face House impeachment vote this week Reuters",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMWxSRW95b2hyeC00X2Q5VmF0alVielFMcVhtMVFhdFBfRUNmQlAyM3IwUkthb3JDYldrNmhuX1dVXzRRS21LMWNxX2Q2VHN3WGdOSHRyVkVBSVc1UHpIYmVFYjRvUFlIS292a3VPMkljcW5HWVBYVkdpX1ZKSE1qRWs2T21JRm9pcjZVMzRSR0FVZk1fMUs5QlhCTnBFVXpUczJIbW1n?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "How Impeaching Defense Secretary Pete Hegseth Would Work - Bloomberg.com",
+     "desc": "How Impeaching Defense Secretary Pete Hegseth Would Work Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbzJ6V0JXWTB3TFhrVlBXQzJtYjdOZmYtYWh6VTRFTDBINmJuWnNIN3V6bE55eTZEdWlTS2E3ck5JaFZEdG90VUFOWFNSamtjbzRJd1dxYkk3Q3AwZ1lYQnFQODRGWWg4ODI3b2xPQWw1Z3l1c0NGekhPdUlDekpsSlphQUpkVTBtd3NfUFc0NW9mYWNaS3dsMmJNbzZDbDNrWWFyYkNia3dWWFFUQTF2LTdha1I?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.53,
+     "title": "米共和党マッシー下院議員、ヘグセス国防長官の弾劾決議案を提出(CNN.co.jp)",
+     "desc": "（CNN） 米共和党のトーマス・マッシー下院議員（ケンタッキー州選出）は9日、ヘグセス国防長官に対する弾劾（だんがい）訴追決議案を下院本会議に提出した。採決は11日までに行う必要がある。マッシー氏は決",
+     "url": "https://news.yahoo.co.jp/articles/7cbbef92143729916646889931c3c65cbb8ac2b8?source=rss",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "ヘグセス米国防長官の弾劾決議案を提出 反トランプ派共和議員 - 日本経済新聞",
+     "desc": "ヘグセス米国防長官の弾劾決議案を提出 反トランプ派共和議員 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tMTl0ZjhVN3NHXzU0aWctODZRUDZnZnF2NnpQTmhZakxaN1dCQWFybGNQWmtWaVpVXy14Qlk5OFdRV2d1d1VYbTVsYkhEWXNldGlWbTBhUmFaeTVpMXQ2V0c2QWNHNXFLNEEwNw?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261110-01",
+   "title": "トランプ氏、CEO問題でFBI捜査に言及",
+   "firstSeen": "2026-11-10",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-10": 22
+   },
+   "peak": 22,
+   "worldScore": 22,
+   "worldCoverage": "7/18",
+   "jpScore": 15,
+   "jpCoverage": "1/6",
+   "gap": 7,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 1,
+     "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+     "desc": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+     "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump defends Nvidia’s Huang after calling about spy scandal",
+     "desc": "Trump told reporters he believes Nvidia’s CEO Jensen Huang had no idea his alleged mistress was a suspected Chinese spy.",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-defends-nvidias-huang-after-calling-about-spy-scandal?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump backs Nvidia’s Huang over spy allegations, says Xi may raise case",
+     "desc": "US President Donald Trump said on Monday that Nvidia chief executive Jensen Huang had told him he did not know a woman at the centre of espionage allegations was a suspected Chinese spy, and that he believed the technology executive’s account. Speaking to reporters at the White House, Trump said he had spoken to Huang earlier in the day, as the chipmaker faces scrutiny over whether its founder was targeted by a foreign intelligence operation. “I asked him that question. Did you have any idea...",
+     "url": "https://www.scmp.com/news/china/diplomacy/article/3373857/trump-backs-nvidias-huang-over-spy-allegations-says-xi-may-raise-case",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump says Nvidia CEO Jensen Huang had ‘no idea’ lover was alleged Chinese spy",
+     "desc": "The US leader said Huang was “suffering greatly”.",
+     "url": "https://www.straitstimes.com/world/united-states/trump-says-nvidia-ceo-jensen-huang-told-him-he-did-not-know-the-woman-linked-to-him-was-a-spy",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump says Nvidia CEO told him he did not know the woman linked to him was a spy - Reuters",
+     "desc": "Trump says Nvidia CEO told him he did not know the woman linked to him was a spy Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcWxSVUVzOF9TSjBVVUprWWFUcXVrVUJLOUZySFBSSWtLcXBMc29NcGZtRjEyRHRkbzNGZDVFRmg1Mm1XY1BWT0EyQWVlem1LejZXdjEyLWxxT253ang3TzJ3WXhGeVNZczJxYzRqSWFRcEVuYVNMUXhMUmtjS0ZGUl9QaU9ObEZQY1pGQ2VFSnpENV9tRkhQLUNCQjU5a2VXTkV1WC03TzQ3T2NQSEhMQ0xlVUZSNFZ3M2I0?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump Says FBI Investigating Huang Affair, Called Embattled CEO - Bloomberg.com",
+     "desc": "Trump Says FBI Investigating Huang Affair, Called Embattled CEO Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSTFFSkVjWmpFaEtPb09fWE5NNEtNZXM3dG03d1ZQVEJlTnRGVTVPLVdJcXFEb0ZkXzQ2QkNPZDJHdUFUTnpsdTN4bUZXOTdvbVZPUnlEdWZpMURXVWZMLVRqTXFUUDJkNzZZQjlRTllYTE1qZzVUc3M2QnlWZ1RnZ1RFM0RSNkhvQVNWYzlmWU90SlMxNzZwSUVmQVVFZGRSaHRibl9yM2hsMHdPSXRUQ2ozMA?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump says FBI is ‘looking into’ Nvidia’s Jensen Huang - Financial Times",
+     "desc": "Trump says FBI is ‘looking into’ Nvidia’s Jensen Huang Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNFlyX1dvS2RSNTlOYWl0MllWTXI1a0o5YUdhRnRBVXVsd1dIYnFuSkkzM3RxaDdxUGJqczNUS0xjYUlNdG9IdUNUWUdSd0hIOVZGbDNRZ0swTGo5U3UxVmtXSzBJNDI3RXJxcEt6QnZZOWdXYnBxVTUwei1EdU5ld1owaGU?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.88,
+     "title": "トランプ氏、エヌビディアのフアンCEOと会話 不倫相手の中国スパイ疑惑「知らなかった」(CNN.co.jp)",
+     "desc": "（CNN） トランプ米大統領は9日、半導体大手エヌビディアのジェンスン・フアン最高経営責任者（CEO）と話したと明らかにした。フアン氏は中国の情報工作員と報じられた女性との不倫関係を認めているが、女性",
+     "url": "https://news.yahoo.co.jp/articles/edef07c1cfc8ea851902e68dbf111693731c5231?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261103-31",
+   "title": "トランプ氏、イラン戦争は終結に向かうと発言",
+   "firstSeen": "2026-11-03",
+   "daysSeen": 5,
+   "history": {
+    "2026-11-03": 6,
+    "2026-11-04": 10,
+    "2026-11-05": 12,
+    "2026-11-09": 6,
+    "2026-11-10": 19
+   },
+   "peak": 19,
+   "worldScore": 19,
+   "worldCoverage": "6/18",
+   "jpScore": 10,
+   "jpCoverage": "1/6",
+   "gap": 9,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Iran war live: Trump says war ‘effectively over’, Iran demands ‘surrender’",
+     "desc": "US President Donald Trump made the remarks after meeting Qatar&#039;s prime minister in Washington, DC.",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-war-effectively-over-iran-demands-surrender?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 1,
+     "title": "'Positive momentum' towards end to Iran war, Trump says",
+     "desc": "There is \"positive momentum\" towards an end to the Iran war, Donald Trump has said.",
+     "url": "https://news.sky.com/story/positive-momentum-towards-end-to-iran-war-trump-says-13610128",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump says Iran war at \"status quo,\" warns U.S. \"locked and loaded\"",
+     "desc": "President Trump told 60 Minutes the war with Iran was a \"good decision\" in the long term, despite its short-term impact.",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-deal-negotiations/",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump tells Reuters that Qatar, Saudi Arabia want peaceful Iran deal, US ready for strikes if needed",
+     "desc": "WASHINGTON, Nov 9 - President Donald Trump told Reuters on Monday that Qatar and Saudi Arabia were eager for a peaceful solution on the Iran conflict but the United States was ready to resume military strikes if necessary.",
+     "url": "https://www.straitstimes.com/world/middle-east/trump-tells-reuters-that-qatar-saudi-arabia-want-peaceful-iran-deal-us-ready-for-strikes-if-needed",
+     "via": null
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump Sees ‘Momentum’ Toward War’s End After Meeting Qatari PM - Bloomberg.com",
+     "desc": "Trump Sees ‘Momentum’ Toward War’s End After Meeting Qatari PM Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTVduRDc4eWZyV3N1OXZIUnAzOG0yNGNTVDVBd3FaU0t2ZmJua2RXQ2xHSE9WTkdRbW53bTlrTVpkOXNPdzNFVWxzeTh6LVE1X1BNZ3VjVmtybEh4Wmhyd1pPQkFnMTE2Smh2R3FjMl9vaVBLcWFRa19OMkJnWHNQSlM5SmZMYVc1ZjZhRFJnMFBmU2h0bEx4cXE3S3J4Sk8xQXJJdUNPc3paNUx5MlRKUw?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump hails ‘positive momentum’ towards ending Iran war - Financial Times",
+     "desc": "Trump hails ‘positive momentum’ towards ending Iran war Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONWtPWmlRWllyd3RZZ1VmUkt3QWtSVjUyQzFaaWNabTM5a3JMZS15QUFlZEZaNVdPTFlNeGhDVk1zS1RGdlV1cVQ0eHNHYmltWjQteGhmVlpISmNOSlJYa0JLWU9MTkc2RE1weGtoZFNZdHRuaVJhNnRqcGl0bndYS05DVWw?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.59,
+     "title": "「軍事的には事実上終了した」 トランプ大統領が記者団に発表(AP通信)",
+     "desc": "コロンビア特別区、11月10日 (AP) ー トランプ米大統領は9日、カタール首相との会談後にホワイトハウスのブリーフィングルームを突然訪れ、記者団に対し、イランとの戦争について「軍事的には事実上終了",
+     "url": "https://news.yahoo.co.jp/articles/fc993df69e4587040f52b23b9ec4019ac1d4f19a?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261110-09",
+   "title": "トルコ西部の製鉄工場で爆発、16〜17人死亡",
+   "firstSeen": "2026-11-10",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-10": 19
+   },
+   "peak": 19,
+   "worldScore": 19,
+   "worldCoverage": "6/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 19,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.8,
+     "title": "Turkey steel factory blast kills at least 17 people",
+     "desc": "Eyewitnesses say the explosion shook the ground, with one believing an earthquake had hit near the Habas Demir Celik plant in Aliaga.",
+     "url": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Deadly explosion at Iron and steel plant in Turkiye",
+     "desc": "Deadly explosion at Iron and steel plant in Turkiye",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/deadly-explosion-at-iron-and-steel-plant-in-turkiye?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Turkey: Steel plant explosion kills 17 in Izmir province",
+     "desc": "A devastating explosion at the Habaş iron and steelworks in Aliağa, in western Turkey has killed 17 people. Witnesses described an earthquake-like blast, while footage shows flames, thick smoke and distressed relatives outside the factory.",
+     "url": "https://www.euronews.com/video/2026/11/09/turkey-steel-plant-explosion-kills-17-in-izmir-province",
+     "via": null
+    },
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 0.65,
+     "title": "Explosion at steel plant in Turkey kills 16, president says",
+     "desc": "A major fire broke out following an explosion at an iron and steel plant in Turkey on Monday killing 16 people, the country's president confirmed.",
+     "url": "https://news.sky.com/story/explosion-at-steel-plant-in-turkey-kills-at-least-16-officials-say-13610161",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Anger as 17 killed in Turkey steel factory blast",
+     "desc": "The explosion occurred when an overhead crane collapsed into a large industrial furnace used during the liquid steel casting process.",
+     "url": "https://www.straitstimes.com/world/middle-east/anger-as-17-killed-in-turkey-steel-factory-blast",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Explosion at steel plant in western Turkey leaves 16 dead and 13 injured - AP News",
+     "desc": "Explosion at steel plant in western Turkey leaves 16 dead and 13 injured AP News",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSFJ6cWlWT1R0aFp0dy1UbkxJS2RXTllwTEowcFU2VGxkVl8wQ3BBTVI0dXh3blExMmRoQnpvTDNnYlU2ZkpQUlJOWm1CWVl0ejI3dmlTaDlidmJjRGxaZjN2RVRlZWJfdEJuSjh2MUtxcTdzVV9yT2w5ZDVnWEtnQW1YUWNGNnpFRUttVWltdlBhTmQ2ZTVXOWF6RjdOaGF4XzFZ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261109-01",
+   "title": "エジプトで列車衝突、7人死亡",
+   "firstSeen": "2026-11-09",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-09": 46,
+    "2026-11-10": 16
+   },
+   "peak": 46,
+   "worldScore": 16,
+   "worldCoverage": "5/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 16,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.36,
+     "title": "Footage shows derailed carriages after fatal train crash in Egypt",
+     "desc": "At least seven people died when two trains collided, causing several carriages to derail and fall down an embankment.",
+     "url": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 1,
+     "title": "Collision of two trains in Egypt kills at least seven",
+     "desc": "President orders prompt investigation after one train derails in collision in al-Ayyat about 50km from Cairo Seven people were killed and at least 125 injured when two trains collided on Sunday south of the Egyptian capital, Cairo, officials said. The crash occurred in al-Ayyat district in Giza province, about 50km (30 miles) south of Cairo, when a train travelling to Fayoum province crashed into the rear of a train heading to the southern province of Aswan, according to the transport ministry. Continue reading...",
+     "url": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.68,
+     "title": "Trains Collide Near Cairo, Killing 4",
+     "desc": "The crash between two passenger trains was the latest in a history of deadly rail accidents in Egypt, despite billions spent modernizing the network.",
+     "url": "https://www.nytimes.com/2026/11/08/world/middleeast/egypt-train-collision-al-ayyat-district.html",
+     "via": null
+    },
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 0.3,
+     "title": "Seven dead and 114 injured in train crash near Cairo",
+     "desc": "At least seven people have died and more than 100 have been left injured in a major train crash south of Cairo, according to the Egyptian Chief Prosecutor’s office.",
+     "url": "https://news.sky.com/story/four-dead-and-88-injured-in-train-crash-near-cairo-13609748",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trains collide in Egypt, killing at least 7 and injuring more than 100",
+     "desc": "The crash occurred in al-Ayyat district in Giza province, about 32 miles south of Cairo, when a train traveling to the southwestern Fayoum province crashed into the rear of another train.",
+     "url": "https://www.cbsnews.com/news/trains-collision-egypt-giza/",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261109-19",
+   "title": "COP31開幕、トルコ・アンタルヤで気候交渉",
+   "firstSeen": "2026-11-09",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-09": 10,
+    "2026-11-10": 14
+   },
+   "peak": 14,
+   "worldScore": 14,
+   "worldCoverage": "5/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 14,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "COP31 opens amid energy crisis as activists demand climate action",
+     "desc": "COP31 has opened in Turkiye amid war-driven energy disruptions and a renewed reliance on fossil fuels.",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/cop31-opens-amid-energy-crisis-as-activists-demand-climate-action?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.45,
+     "title": "A Guide to COP31 Climate Talks in Antalya, Turkey",
+     "desc": "Negotiators and leaders are gathering for annual United Nations climate talks. They come as global temperatures are set to breach a key threshold.",
+     "url": "https://www.nytimes.com/2026/11/08/climate/what-is-cop31-climate.html",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Turkey: Delegates arrive in Antalya as COP31 climate talks begin",
+     "desc": "The United Nations COP31 climate summit has opened in Antalya after a year marked by deadly heatwaves and devastating floods. Delegates face fresh challenges as the war in Iran disrupts global energy supplies.",
+     "url": "https://www.euronews.com/video/2026/11/09/turkey-delegates-arrive-in-antalya-as-cop31-climate-talks-begin",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Brazil’s Lula heads to Cop31 on first trip since re-election",
+     "desc": "Brazilian President Luiz Inacio Lula da Silva flew to Turkey to attend Cop31 on Monday, marking his first international trip since his surprise re-election two weeks ago. This year’s United Nations Climate Change Conference will take place in the Turkish city of Antalya from November 9 to 20. “We are going to show the world how Brazil is setting an example in environmental preservation and energy transition, fundamental pillars of our sustainable development,” Lula said in an Instagram post. The...",
+     "url": "https://www.scmp.com/news/world/americas/article/3373847/brazils-lula-heads-cop31-first-trip-re-election",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "UN climate summit kicks off in Turkey after a disastrous year of extreme weather - AP News",
+     "desc": "UN climate summit kicks off in Turkey after a disastrous year of extreme weather AP News",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObU8wcnlKSFdOUDFITlRFV21ZNHVjNF9kQktSTi12UTZGX3dtbC13OG5YMkkzdVVuYS0wcFREbGpCWkd4R2x2cDdvTnVacE5VVTNUTE5SS01tSW1wbEZFQkQza3RaLTg4QWoxdEJHRDBORTVJRWN5bGRzV05MUmZnNzBFaE1xZFhZYlBDaU9EWXd5ZVlFX3pkRWtR?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261109-22",
+   "title": "セネガル沖で移民船沈没、死者39人",
+   "firstSeen": "2026-11-09",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-09": 14,
+    "2026-11-10": 12
+   },
+   "peak": 14,
+   "worldScore": 12,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 12,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.65,
+     "title": "At least 39 die after Europe-bound migrant boat sinks off Senegal",
+     "desc": "The Atlantic crossing to Spain's Canary Islands remains dangerous for migrants seeking a better life",
+     "url": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 1,
+     "title": "Shipwreck Off Senegal Kills Dozens as Canary Islands Declare Migrant Emergency",
+     "desc": "Migrant arrivals to Europe are down overall but still claiming scores of victims, overwhelming local officials and dominating political debate.",
+     "url": "https://www.nytimes.com/2026/11/09/world/africa/senegal-migrant-boat-capsize-europe.html",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Death toll rises to 39 after migrant boat capsizes off Senegal - AP News",
+     "desc": "Death toll rises to 39 after migrant boat capsizes off Senegal AP News",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYklfYkxhNmV0ZTZfbzREdHMydzhnWXMzalM0a1lqOWhGYUFoTDA4aDdVX1RJamNLc1Y2dXhVNW91UTlMNWJNNTU5Ym9fNHZyMlVaS0Fpd1FQaVRBYV9QT2xncTNLRHpzTGd0SXIybnh5VXlwZkRsQmE3ZHdBUVJxV1Zhd1Y5ZTAzQlRnblZWQXQ0dVh0b25OOXF6MmRiazl6eWNGeGZ5TnRNQmhOMU5J?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261109-16",
+   "title": "教皇、アルゼンチンでミレイ政権の経済政策を批判",
+   "firstSeen": "2026-11-09",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-09": 42,
+    "2026-11-10": 12
+   },
+   "peak": 42,
+   "worldScore": 12,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 12,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.91,
+     "title": "Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit",
+     "desc": "Pontiff tells Argentina’s president the economy must benefit all on second stop of 12-day Latin America tour Pope Leo XIV has delivered a stinging critique of Argentine president Javier Milei’s harsh austerity measures, insisting growth must benefit all in a speech met with rapturous applause in Buenos Aires. “The economy must be at the service of the people, rather than people being at the service of the economy,” he said on Sunday, shortly after landing in Argentina on the second leg of a Latin America tour. Continue reading...",
+     "url": "https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.8,
+     "title": "In Argentina, Pope Leo Tells President Milei Economy Must Serve the Needy",
+     "desc": "The pontiff’s trip comes amid tensions between the country’s libertarian leader and its Catholic Church, which is deeply committed to social justice.",
+     "url": "https://www.nytimes.com/2026/11/08/world/americas/pope-leo-argentina-milei.html",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Argentina: Pope Leo XIV urges Milei's government to protect the most vulnerable",
+     "desc": "The Pontiff visited the Cottolengo Don Orione, which cares for over 400 people and has been hit by Javier Milei's cuts, and said a nation's progress should be judged by how it treats those most in need.",
+     "url": "https://www.euronews.com/2026/11/09/argentina-pope-leo-xiv-urges-mileis-government-to-protect-the-most-vulnerable",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261110-15",
+   "title": "柔道のリネール氏、仏大統領選への出馬表明",
+   "firstSeen": "2026-11-10",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-10": 12
+   },
+   "peak": 12,
+   "worldScore": 12,
+   "worldCoverage": "4/18",
+   "jpScore": 20,
+   "jpCoverage": "2/6",
+   "gap": -8,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.62,
+     "title": "‘I know what it’s like to fight’- France’s most popular sportsman says he’s running for president",
+     "desc": "Five-times Olympic judo champion Teddy Riner says he is neither leftwing nor rightwing but would seek to ‘bring people together’ The French judo star and five-times Olympic gold medallist Teddy Riner has announced plans to run in next year’s presidential election, describing himself as someone neither leftwing nor rightwing but who would seek to “bring people together”. With more than five months before the April-May ballot to replace Emmanuel Macron, the race has been shaping up to be a showdown between political extremes. Polls point to a hollowing out of the political centre, suggesting tha",
+     "url": "https://www.theguardian.com/world/2026/nov/09/judo-star-teddy-riner-plan-france-presidential-election",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "French Judo superstar Teddy Riner says will run for president",
+     "desc": "France's multiple Olympic judo champion Teddy Riner announced on Monday he would run in next year's presidential election, after expressing concern about the \"rise of the far right\". \"My name is Teddy Riner and today, I am telling you face to face: I am a candidate in the 2027 presidential election,\" the 37-year-old said in a surprise announcement on social media. Riner, one of the greatest judokas in history, said in the two-minute-37-second video that he feared France could soon become deeply divided, appearing to cast himself as a candidate for voters unwilling to choose between two politic",
+     "url": "https://www.france24.com/en/french-judo-superstar-teddy-riner-says-will-run-for-president",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "France’s Macron welcomes judo star Teddy Riner’s entrance into the 2027 presidential race",
+     "desc": "French President Emmanuel Macron ⁠on Monday ⁠welcomed news that ⁠judo champion Teddy Riner, one of France’s best-known sports figures, was running in France’s 2027 presidential election. “I am very pleased … ‌that someone like Teddy Riner, who is a great champion, has decided to get involved in this presidential debate and to contribute his convictions, his ideas and his talent; this ⁠can only benefit the country,” Macron told the C a ‌vous news show on France 5 television. Riner, 37, announced...",
+     "url": "https://www.scmp.com/news/world/europe/article/3373852/frances-macron-welcomes-judo-star-teddy-riners-entrance-2027-presidential-race",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "France's Macron welcomes judo star Teddy Riner's entrance in 2027 presidential race",
+     "desc": "PARIS, Nov 9 - French President Emmanuel Macron on Monday welcomed news that judo champion Teddy Riner, one of France's best-known sports figures, was running in France's 2027 presidential election.",
+     "url": "https://www.straitstimes.com/world/europe/frances-macron-welcomes-judo-star-teddy-riners-entrance-in-2027-presidential-race",
+     "via": null
+    },
+    {
+     "id": "asahi",
+     "name": "朝日新聞",
+     "region": "jp",
+     "weight": 0.71,
+     "title": "柔道王者リネール氏、フランス大統領選への出馬表明 「責任果たす」",
+     "desc": "",
+     "url": "http://www.asahi.com/articles/ASVC94FWCVC9BQBQ24VM.html?ref=rss",
+     "via": null
+    },
+    {
+     "id": "mainichi",
+     "name": "毎日新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "柔道のリネール氏「フランス立て直すため」 大統領選に出馬表明",
+     "desc": "",
+     "url": "https://mainichi.jp/articles/20261110/k00/00m/030/008000c",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261110-02",
+   "title": "米議会、CEO疑惑で説明要求・規制論",
+   "firstSeen": "2026-11-10",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-10": 11
+   },
+   "peak": 11,
+   "worldScore": 11,
+   "worldCoverage": "4/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 11,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US Congress ramps up pressure on Nvidia’s Jensen Huang over alleged China spy links",
+     "desc": "Growing bipartisan pressure is mounting in the US Congress on Nvidia chief executive Jensen Huang over his ties to a businesswoman suspected by US intelligence officials of working for Beijing’s intelligence services, with lawmakers from both parties demanding to know whether US national security was compromised. Chinese authorities have dismissed the spying allegations. The controversy escalated over the weekend when Nvidia’s board announced an independent investigation after Huang admitted he...",
+     "url": "https://www.scmp.com/news/china/diplomacy/article/3373853/us-congress-ramps-pressure-nvidias-jensen-huang-over-alleged-china-spy-links",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US lawmakers demand details on Nvidia amid Jensen Huang scandal",
+     "desc": "Lawmakers rushed to assess the potential national security fallout from the scandal.",
+     "url": "https://www.straitstimes.com/world/united-states/us-lawmakers-demand-details-on-nvidia-amid-jensen-huang-scandal",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Nvidia spy allegations likely to spur laws to tighten China's access to AI chips - Reuters",
+     "desc": "Nvidia spy allegations likely to spur laws to tighten China's access to AI chips Reuters",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPd3I1WGxHazNEeGdYc1VaNnZPbWZwN2xOQjVRZFhEbHBXVU9iYUNxQzRpZ0wtaktjcjV5NHFBNDgyWTN5OEkyRlcwMFhEbFRSZTc3ZUhjbm5nRkFrRmNQQnlIWk5WeE5RYWNPbDZlLWFWdkhuY1puVDNqaFVySUN6WWRoUWxOaDJYNGtPRVZncGh6cENyNjU5NkVSU3VnTFM3d29iOE9LZGp5TTlKclhiVUtfUzZKMWwwdnVOZ2Y2SF9PaEUt?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "All the Questions Congress Needs to Ask Jensen Huang - Bloomberg.com",
+     "desc": "All the Questions Congress Needs to Ask Jensen Huang Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZGNpZmFFX1hXNlpQOGVNTHdzUkRRLWI0bGNVNjRobk5BR3JXXzgwT3RieVIxbG9HUDhOV3ZXZFYzM0RDaEpvei1Za2VmMGpyN19semZLa2NfSWY4cVFmMGYzOWVleElkb3dPNVd0LVFOSEVjeGZPN2ZzaDZEN1dVOWROZE1RSlNkQjVMMmkzVkVpU1gwVHFLclhlUktuV0R4bE5WNHNYaTFya3ZaejZrVWtDaDc4WEpid3lGanozWDRNUQ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261110-04",
+   "title": "スパイ容疑の女性、AIチップ取引を売り込み",
+   "firstSeen": "2026-11-10",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-10": 11
+   },
+   "peak": 11,
+   "worldScore": 11,
+   "worldCoverage": "4/18",
+   "jpScore": 14,
+   "jpCoverage": "1/6",
+   "gap": -3,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.45,
+     "title": "Who is the suspected Chinese spy at centre of the Nvidia investigation?",
+     "desc": "Alice Huang, a Chinese businesswoman, had a close relationship with Nvidia boss Jensen Huang, reports say.",
+     "url": "https://www.bbc.co.uk/news/videos/c80404zyr53wo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "toi",
+     "name": "Times of India",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Alice Huang boasted about Nvidia AI chip access to investors, told them Alibaba would be a client for the project",
+     "desc": "",
+     "url": "https://timesofindia.indiatimes.com/world/us/alice-huang-boasted-about-nvidia-ai-chip-access-to-investors-told-them-alibaba-would-be-a-client-for-the-project/articleshow/135692642.cms",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Honey traps: Sex, lies and a spy’s oldest trick",
+     "desc": "The latest incident centres on Jensen Huang and his affair with a woman accused of spying for China.",
+     "url": "https://www.straitstimes.com/world/united-states/honey-traps-sex-lies-and-a-spys-oldest-trick",
+     "via": null
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Alleged Chinese spy linked to Nvidia chief pitched AI chip deals to investors - Financial Times",
+     "desc": "Alleged Chinese spy linked to Nvidia chief pitched AI chip deals to investors Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeVdBVmhnUnpvZmd0dWRaZjYyWktobjJJQWVEakd1emFsY2M3VHJweE1YbkV1ZDhaWWd0NEJ5VUNRNURZTzl4WGN1ZDg1QXdFTFh0OWVSaldXZmhBN1FyZElrdDMyNUI0S0VoM3dDODdwd0ExQlprR3Y1STRGRHVWMEE0UzA?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.85,
+     "title": "「フアンＣＥＯの恋人」アリス・フアン…中国名しか判明していない「正体不明の人物」(ハンギョレ新聞)",
+     "desc": "エヌビディアのジェンスン・フアン最高経営責任者（CEO）が「恋人関係」だと認めたアリス・フアン氏は、中国名が黄楽（ホアン・ルー）であること以外、年齢、出身地、出身校、結婚の有無など、多くが謎に包まれて",
+     "url": "https://news.yahoo.co.jp/articles/89a1023fdaa94434b1b2727325b4f871d8c5b50c?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261110-16",
+   "title": "FDA、GLP-1薬に視力障害の警告表示を指示",
+   "firstSeen": "2026-11-10",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-10": 11
+   },
+   "peak": 11,
+   "worldScore": 11,
+   "worldCoverage": "4/18",
+   "jpScore": 8,
+   "jpCoverage": "1/6",
+   "gap": 3,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US drug watchdog orders new safety warnings for weight-loss drugs over potential risk of vision loss",
+     "desc": "The US Food and Drug Administration (FDA) is requiring manufacturers of GLP-1 medicines to update their safety labels to warn of a potential increased risk of a rare but serious eye condition that can cause permanent vision loss.",
+     "url": "https://www.euronews.com/2026/11/09/us-drug-watchdog-orders-new-safety-warnings-for-weight-loss-drugs-over-potential-risk-of-v",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US FDA orders new eye risk warnings for Ozempic, Zepbound - Reuters",
+     "desc": "US FDA orders new eye risk warnings for Ozempic, Zepbound Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUG9HX0xJekVOS0FKR3BLMDJBSVJ6SEFrd2FSTU1aUmp1bTR0Vzl6V2Ewand4MTNVbGlTSXhFZEtGM19WZzhieEZrN3paaW1PWUVkZHlWdy1YalQ1OFlWblV4REdtc1hMQzlzTWJmWFRVRmNnNDdVY05oS292b00yTHQtZnh5djFrbTBpdGJDUnJ3akQ0ZlZoRzhaUXRDMXRURFhuM3lySkg4bnBmeDQyN0NjYXJIMDJJRW1LSUhxNHR0Zw?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "FDA adds rare vision-loss warning to popular GLP-1 drugs - AP News",
+     "desc": "FDA adds rare vision-loss warning to popular GLP-1 drugs AP News",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWVZSQ09GWGpSaFhYeklfRVNZVUNsNGtycVZrOTJ1eXUzSEl3OFhpUnF3eTVJSWNCT0QxR19JXzhrNU5rOUFjclhnS2hxb0ZSazRjNjhKcWo1ZlV4RFl0ZzZDWjVmcm9ZN2xiZzlqR3c0RWxvSnJPOFRFRkdlZVJWMUd4SDRNOE1XckNLZFpnOUxhMmpf?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US regulator orders blindness risk warning on obesity drugs - Financial Times",
+     "desc": "US regulator orders blindness risk warning on obesity drugs Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQVZsTFdFc2FxSEQzeGgxRUpNbXdUUTNZa1V0aTQ5dlhoRnRLQ1M5bGthNV9SSXhFekF6WkhrX0lvdUtDcVF6aVVBdEZRM1I4MmJtdkFmNFl2Mk0wZmJmbmdOcUNkS0E5elIxY0dQam51NTFvZDNjY1duc2R2dkVTLUxrTmM?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "抗肥満薬「GLP-1」に視力障害リスク 米FDAが警告ラベルに明記要求 - 日本経済新聞",
+     "desc": "抗肥満薬「GLP-1」に視力障害リスク 米FDAが警告ラベルに明記要求 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YSFY4bVdoN09zbUJUd1ZYdXRiaXlMWEthVzNmTWlXdk9zZmNPWmdfMnVyTUhwaUxXOVlTdGhUOVBSWWo1MFFGMnh3Y2Y2a0NBNmFuaTllMGZzUFBpWWhnRm5CeU9uUXhIeEtwSQ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261110-22",
+   "title": "米最高裁、テキサスの国境壁建設を容認",
+   "firstSeen": "2026-11-10",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-10": 11
+   },
+   "peak": 11,
+   "worldScore": 11,
+   "worldCoverage": "4/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 11,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US Supreme Court allows border wall in Big Bend National Park to proceed",
+     "desc": "Lawsuit had sought to block border wall construction in national park by targeting waivers that sidestep protections.",
+     "url": "https://www.aljazeera.com/news/2026/11/9/us-supreme-court-allows-border-wall-in-big-bend-national-park-to-proceed?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Supreme Court allows Trump border wall at Big Bend National Park in Texas - Reuters",
+     "desc": "Supreme Court allows Trump border wall at Big Bend National Park in Texas Reuters",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWkJpVmZsai1WS0dCdl9Fa1hVNGtGV2RhNHMtZVJuUG5EU3JZZ2xCbWhYbjE1aUxJUVJubjdhSEpUMFR0cFpJeFJFT3RWVWU2UVZaU3lpZGxFSkY4VTVESmo5ZjZyMGpBemc4VW9yOWJ6MEVjVnhxQV9IcmVLVThhci1NT0IzMkZnQzFaZG5xdWp2cWZxTFZYd3F5ZUpmRE9pX0hhTzJ4QnYydG5VUUE?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Supreme Court clears the way for border wall construction in Texas’s Big Bend to resume - AP News",
+     "desc": "Supreme Court clears the way for border wall construction in Texas’s Big Bend to resume AP News",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRk1ybDBxZkkyR0VzaXo3MHg1N044cE1ub3JCV3phSFFrR0c5b0RVQThwU3R5MFhfZmpqQVpLdHhRT2JPVE5peGJBQkNQYUw3eWkxYUROYXNWdFVlSVZiQ1AyMGhtZHdwMGtuZlBRTTQ3SG93QmtvcVpub0tDUHk0aGowUEZLbnlOT1hUQ20xVHJOOE5RMGc?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Supreme Court Allows Trump Border Wall Construction in Big Bend - Bloomberg.com",
+     "desc": "Supreme Court Allows Trump Border Wall Construction in Big Bend Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQjFTWmVQQ1NvNkxZUW5iTVpMSkJXaTE0cG1ETmFwTmV3SmIxemZjMVJXc3U4Nmc0cUlDamt2QzdoYnFJaVlIYUpFbk5OdEx5Z3hpZVZsZkpQZXhVQk9VYkp5RkRTT2ZVbnB4cXBaYjlhdWZqR2FOUUkyRnNCYXhzZldlZk55WV9JelBhR2pVZl8tOUpFS3Z1SmhlTkQ4RklySjJfVHkya01VZ2pZeFlmSVRXWDg?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261103-14",
+   "title": "クランシー被告、殺人罪の棄却申し立て却下",
+   "firstSeen": "2026-11-03",
+   "daysSeen": 3,
+   "history": {
+    "2026-11-03": 8,
+    "2026-11-04": 7,
+    "2026-11-10": 10
+   },
+   "peak": 10,
+   "worldScore": 10,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 10,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.77,
+     "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
+     "desc": "The ruling means the case can move forward, possibly with reduced charges in a new trial.",
+     "url": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US judge denies Lindsay Clancy’s motion to dismiss charges in the deaths of her 3 children",
+     "desc": "A judge on Monday denied a motion to dismiss charges against Lindsay Clancy in the deaths of her three young children, potentially clearing the way for a retrial in the case next year. Clancy’s defence team had asked the court to end the case based on an unusual argument that the judge should not have declared a mistrial in September when jurors were unable to reach a unanimous verdict. They argued that the judge should have removed the one juror who favoured conviction, then allowed jury...",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3373851/judge-denies-lindsay-clancys-motion-dismiss-charges-deaths-her-3-children",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Lindsay Clancy loses bid to dismiss murder charges, retrial looms - Reuters",
+     "desc": "Lindsay Clancy loses bid to dismiss murder charges, retrial looms Reuters",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZVVFc1VJd2t6czZHa2k3ZHQ5N21IbS0yNXhsSlppZHl2UklnWmhva000US14d0ZxQ3VZeld1bHR6SGVrSl9jMXd0S1R0VW5aLUVvbTVVSUc2SlUxanJMRzVGcDFVZEhGTHVRaGlQa2lvZTlTR2FMZGVLMHMzUkJOcTRqYUdERGdaUlBTRTJUczdsSnZUZGttbHNKVVJTbkh2T183M01B?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261110-25",
+   "title": "M・ジョン・ハリソン氏、ブッカー賞を最年長受賞",
+   "firstSeen": "2026-11-10",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-10": 10
+   },
+   "peak": 10,
+   "worldScore": 10,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 10,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "UK writer M. John Harrison wins Booker Prize for AI-tinged apocalyptic novel",
+     "desc": "UK author M. John Harrison won the Booker Prize on Monday for his enigmatic novel \"The End of Everything\", which echoes concerns about artificial intelligence in a darkly satirical depiction of post-apocalyptic Britain.",
+     "url": "https://www.france24.com/en/europe/20261109-uk-writer-m-john-harrison-wins-booker-prize-for-ai-tinged-apocalyptic-novel",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "M John Harrison becomes oldest ever winner of the Booker prize for his satirical novel 'The End of Everything'",
+     "desc": "The judges of the prestigious English literary prize praised the novel for it's \"extraordinary expert writing and huge ambition\" - Harrison is the oldest ever recipient of the prize that is famed for kickstarting careers and says he feels like a proper writer at last.",
+     "url": "https://www.euronews.com/2026/11/09/m-john-harrison-becomes-oldest-ever-winner-of-the-booker-prize-for-his-satirical-novel-the",
+     "via": null
+    },
+    {
+     "id": "abc-au",
+     "name": "ABC Australia",
+     "region": "world",
+     "weight": 0.71,
+     "title": "81-year-old sci-fi writer becomes oldest winner of $95k Booker Prize",
+     "desc": "Octogenarian M John Harrison has won the Booker Prize for The End of Everything, which the judges described as \"the politics of now seen through the lens of the future\".",
+     "url": "https://www.abc.net.au/news/2026-11-10/booker-prize-2026-m-john-harrison-the-end-of-everything/107342508",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261110-26",
+   "title": "南アで露・ウクライナ戦争へ向かう外国人9人拘束",
+   "firstSeen": "2026-11-10",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-10": 10
+   },
+   "peak": 10,
+   "worldScore": 10,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 10,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.71,
+     "title": "Nine Zimbabweans caught allegedly trying to leave South Africa to fight in Ukraine",
+     "desc": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine.",
+     "url": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "South Africa detains foreigners suspected of heading to join Russian forces",
+     "desc": "Africans and others continue to be recruited to fight for Russia in its war on Ukraine.",
+     "url": "https://www.aljazeera.com/news/2026/11/9/south-africa-detains-foreigners-suspected-of-heading-to-join-russian-forces?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "South African police arrest 9 foreigners for trying to join Russia-Ukraine war - AP News",
+     "desc": "South African police arrest 9 foreigners for trying to join Russia-Ukraine war AP News",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR2N4a2djZmNTTXYyR2ZhemFQZURkNGFrSE0tcU1pc3dPakRmQ2lVMWs2eTRDZklrUXpsQlRGVGlMVDFRTnFpSWZnd2c3TGU3M2dnY3B3WGFEVHhzcHg1Mm5DUXlCNWdzTk9WNnlKU3RFX3ZRSzVFcEhFMmlocEU4SmphbWphWHptZkNlLWo2cnVweHFoNUZ5cEZyQm1nQlNFcGZCVHlKY0VNRW8?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261110-07",
+   "title": "トランプ氏、中間選挙の結果に不正の疑義",
+   "firstSeen": "2026-11-10",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-10": 9
+   },
+   "peak": 9,
+   "worldScore": 9,
+   "worldCoverage": "3/18",
+   "jpScore": 8,
+   "jpCoverage": "1/6",
+   "gap": 1,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.68,
+     "title": "Trump questions midterm elections integrity after previously accepting results",
+     "desc": "Trump made the claims, without evidence, on Truth Social on Monday.",
+     "url": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump reverses stance, alleges fraud in recent US midterm elections",
+     "desc": "Democratic Senate leader Schumer criticises Trump&#039;s poll denialism, calling it an avoidable return to baseless claims.",
+     "url": "https://www.aljazeera.com/news/2026/11/9/trump-reverses-stance-alleges-fraud-in-recent-us-midterm-elections?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "toi",
+     "name": "Times of India",
+     "region": "world",
+     "weight": 0.5,
+     "title": "'Anybody believe this was honest?' Trump revives fraud claims after midterm results",
+     "desc": "",
+     "url": "https://timesofindia.indiatimes.com/world/us/does-anybody-believe-this-was-honest-trump-flips-stance-on-midterms-result-revives-2020-style-fraud-claims/articleshow/135687611.cms",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "トランプ氏、中間選挙の正当性に疑問 「結果受け入れ」から転換 - 日本経済新聞",
+     "desc": "トランプ氏、中間選挙の正当性に疑問 「結果受け入れ」から転換 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tU3J3MWlKejFiTkZTUkhULWY2QXA4eFhPWHZFZ3psX0U5ZGJrMlF1VFh5b3h1UGlFb3k0QnRJbkVCUi1LbWtrM09UQVJvQ2dhZnhwMy1JenNDempDX1VXV1BXald4WFdBM1JmVw?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261109-03",
+   "title": "UFC代表、トランプ氏の報道官就任打診を断る",
+   "firstSeen": "2026-11-09",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-09": 14,
+    "2026-11-10": 9
+   },
+   "peak": 14,
+   "worldScore": 9,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 9,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.53,
+     "title": "Dana White declines Trump’s offer to be White House press secretary",
+     "desc": "In a social media post over the weekend, the president asked the UFC boss to take over the role, but later said he was \"having a little fun\".",
+     "url": "https://www.bbc.co.uk/news/videos/cwm2328pyy1jo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump says he was ‘kidding’ about Dana White press secretary job, amid online mix-up claims",
+     "desc": "Donald Trump says he was \"only kidding\" when he announced he had offered his friend and UFC boss Dana White the job of White House press secretary. The president shared an AI-generated video of White behind the briefing room podium and UFC fighters attacking journalists. But the announcement also sparked online speculation that Trump may have confused the UFC executive with a former Pentagon spokesperson, also called Dana White. There's no evidence of a mix-up, as Vedika Bahl explains.",
+     "url": "https://www.france24.com/en/tv-shows/truth-or-fake/20261109-trump-says-he-was-kidding-about-dana-white-press-secretary-job-amid-online-mix-up-claims",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "UFC chief Dana White declines Trump’s White House job offer",
+     "desc": "White is Trump's long-time friend and helped host a massive UFC match on the White House lawn.",
+     "url": "https://www.straitstimes.com/world/united-states/ufc-chief-dana-white-declines-trumps-white-house-job-offer",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261109-15",
+   "title": "フーシ派の攻撃でサウジとイエメンの交戦激化",
+   "firstSeen": "2026-11-09",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-09": 12,
+    "2026-11-10": 9
+   },
+   "peak": 12,
+   "worldScore": 9,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 9,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Yemen government forces claim new advances as Houthi border attacks resume",
+     "desc": "Yemeni forces claim fresh advances across key fronts as cross-border Houthi attacks surge amid heavy clashes.",
+     "url": "https://www.aljazeera.com/news/2026/11/9/yemen-government-forces-claim-new-advances-as-houthi-border-attacks-resume?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.65,
+     "title": "Saudi Aramco Tower Damaged as Yemen’s Houthis Attack Riyadh",
+     "desc": "The Saudi authorities said no one was hurt after “falling shrapnel” hit the building in Riyadh’s financial district — one of the highest-profile areas targeted by the Houthis.",
+     "url": "https://www.nytimes.com/2026/11/08/world/middleeast/saudi-aramco-tower-riyadh-hit.html",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "At least 44 people killed in air strike near Yemeni capital, Houthi rebels say",
+     "desc": "The death toll from air strikes near Yemen’s capital has increased to 44, most of them women and children, health authorities from the Iran-backed Houthi rebels said overnight. The strikes on the village of Al-Shariya, east of Sanaa, wounded 40 others, including eight children and nine women, said Anees al-Asbahi, spokesman for the Houthi-run Health Ministry. The dead included 21 children and 10 women, he said, making the strikes one of the deadliest attacks in the latest bout of violence in...",
+     "url": "https://www.scmp.com/news/world/middle-east/article/3373850/houthi-rebels-say-least-44-people-killed-air-strike-near-yemeni-capital",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261109-25",
+   "title": "ガザで豪雨・土砂崩れ、テントが浸水",
+   "firstSeen": "2026-11-09",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-09": 3,
+    "2026-11-10": 9
+   },
+   "peak": 9,
+   "worldScore": 9,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 9,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.53,
+     "title": "Witnesses recount struggle to save people buried in ‘horrifying’ Gaza landslide",
+     "desc": "High winds and heavy train triggered collapse of sand bank overlooking camp for displaced families Witnesses have described the frantic struggle to save three members of a family buried by a landslide triggered by high winds and heavy rain in Gaza. A sand bank overlooking a camp for displaced families south of Deir al-Balah collapsed on Sunday, killing five people and crushing at least three tents. Continue reading...",
+     "url": "https://www.theguardian.com/world/2026/nov/09/witnesses-struggle-save-people-buried-gaza-landslide",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "How is Gaza coping with another severe winter?",
+     "desc": "How is Gaza coping with another severe winter?",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/how-is-gaza-coping-with-another-severe-winter?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "'Life in Gaza simply miserable': Amid flooding, lack of aid, conditions 'worsen' for Palestinians",
+     "desc": "Erin Ogunkeye is pleased to welcome Shaina Low, Communication Adviser for the Norwegian Refugee Council (NRC). Thirteen months into what she describes as a \"so-called ceasefire,\" the humanitarian crisis in Gaza continues to deepen, exposing the profound gap between diplomatic commitments and the lived realities of Palestinian civilians. In an interview with France 24, Shayna Low, communications adviser in Palestine for the Norwegian Refugee Council (NRC), describes a population confronting winter flooding, repeated displacement, deteriorating shelter conditions and persistent restrictions on h",
+     "url": "https://www.france24.com/en/life-in-gaza-simply-miserable-amid-flooding-lack-of-aid-conditions-worsen-for-palestinians",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261110-28",
+   "title": "ジェシー・ベアード殺害公判、被告が執着を否定",
+   "firstSeen": "2026-11-10",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-10": 9
+   },
+   "peak": 9,
+   "worldScore": 9,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 9,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.82,
+     "title": "Beau Lamarre-Condon denies being ‘obsessed’ with Jesse Baird as evidence to double murder trial continues",
+     "desc": "Former police officer tells jury he joked about being ‘white girl crazy’ with friends as lawyer questions him over start of relationship with Baird Beau Lamarre-Condon has denied being “obsessed” with Jesse Baird from the start of their relationship, telling a court he would have liked the TV presenter even if he was “a garbage cleaner”. The former police officer is accused of fatally shooting Baird and his new partner, Luke Davies, with his police service weapon in Baird’s Paddington home in Sydney on 19 February 2024. In Australia, the crisis support service Lifeline is on 13 11 14. In the U",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/10/beau-lamarre-condon-murder-trial-ntwnfb",
+     "via": null
+    },
+    {
+     "id": "abc-au",
+     "name": "ABC Australia",
+     "region": "world",
+     "weight": 0.85,
+     "title": "Live: Beau Lamarre-Condon says he was smitten, not obsessed with Jesse Baird",
+     "desc": "Beau Lamarre-Condon is back being cross-examined by the prosecution in his double murder trial.",
+     "url": "https://www.abc.net.au/news/2026-11-10/beau-lamarre-condon-trial-live-blog-cross-examination-tuesday/107367164",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261110-03",
+   "title": "エヌビディアとCEO、株主から提訴される",
+   "firstSeen": "2026-11-10",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-10": 8
+   },
+   "peak": 8,
+   "worldScore": 8,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 8,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "abc-au",
+     "name": "ABC Australia",
+     "region": "world",
+     "weight": 0.45,
+     "title": "Nvidia CEO Huang sued by shareholders over ties with suspected Chinese spy",
+     "desc": "Nvidia shares tumbled after the company opened an investigation into Mr Huang's ties ‌with a ⁠suspected Chinese spy.",
+     "url": "https://www.abc.net.au/news/2026-11-10/nvidia-share-price-falls-ceo-jensen-huang-investigated/107366868",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Nvidia, CEO Jensen Huang sued over disclosures related to suspected Chinese spy",
+     "desc": "Nvidia shareholders led by Mark Kistenmacher are seeking unspecified damages from the defendants.",
+     "url": "https://www.straitstimes.com/world/united-states/nvidia-ceo-jensen-huang-sued-over-disclosures-related-to-suspected-chinese-spy",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Nvidia, CEO Huang sued over disclosures related to suspected Chinese spy - Reuters",
+     "desc": "Nvidia, CEO Huang sued over disclosures related to suspected Chinese spy Reuters",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPc3pwXzVncjFkZFl3THF5NjBkQmFOMmpMc3RvR2ZmNmw4WnRtTHBhNkQzWlR0eE1yWW84ZnI5ZzlWSWlBRU41RkZUR2hJakpsS29VVHdhS3ZGR2NYdmg0UEtXblA3ajN1dFY2ZEJ1eGQtTG9kRDU4Sl9lcFhIMGpfUFNWYWNSUFJ0UE1SemM0ODhZRF9UUUVQZF9rdjZEMEFKQmh0MEZXdHFMRlhtSlBV?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261110-08",
+   "title": "クレタ島沖で移民船沈没、13〜14人死亡",
+   "firstSeen": "2026-11-10",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-10": 8
+   },
+   "peak": 8,
+   "worldScore": 8,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 8,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.59,
+     "title": "Thirteen migrants die after boat sinks off Crete",
+     "desc": "The Greek coastguard says it has rescued 18 people, all of whom were Sudanese nationals.",
+     "url": "https://www.bbc.co.uk/news/articles/c65ynyxrjdyeo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 0.77,
+     "title": "At least 14 dead after boat carrying migrants found near Crete",
+     "desc": "At least 14 people have died after a boat carrying migrants was found near Crete, Greek authorities have said.",
+     "url": "https://news.sky.com/story/at-least-14-dead-after-boat-carrying-migrants-found-near-crete-13610083",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261028-01",
+   "title": "エイゼンコット氏に組閣要請、協議難航も",
+   "firstSeen": "2026-10-28",
+   "daysSeen": 10,
+   "history": {
+    "2026-10-28": 32,
+    "2026-10-29": 49,
+    "2026-10-30": 33,
+    "2026-10-31": 23,
+    "2026-11-03": 10,
+    "2026-11-04": 10,
+    "2026-11-05": 10,
+    "2026-11-06": 16,
+    "2026-11-09": 43,
+    "2026-11-10": 8
+   },
+   "peak": 49,
+   "worldScore": 8,
+   "worldCoverage": "3/18",
+   "jpScore": 8,
+   "jpCoverage": "1/6",
+   "gap": 0,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Gadi Eisenkot reaches out to Netanyahu allies as he strives to form government",
+     "desc": "Former military chief says prime minister brought Israel to historic crisis and it is approaching ‘point of no return’ Israel’s former military chief Gadi Eisenkot started the tough task of forming a government on Sunday, reaching out to Benjamin Netanyahu’s allies as he said the veteran prime minister had brought the country to a historic crisis. Eisenkot, 66, the leader of the Yashar party, who has vowed to bridge Israel’s deep polarisation under Netanyahu, formally received a mandate from the president, Isaac Herzog, who gave him 28 days to form a government despite his bloc lacking a clear",
+     "url": "https://www.theguardian.com/world/2026/nov/08/gadi-eisenkot-netanyahu-allies-form-israel-government",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.48,
+     "title": "Who Is Gadi Eisenkot, Israel’s Opposition Leader?",
+     "desc": "Mr. Eisenkot, a career general and the leading rival of Prime Minister Benjamin Netanyahu of Israel, will now have up to six weeks to form a coalition.",
+     "url": "https://www.nytimes.com/2026/11/08/world/middleeast/israel-eisenkot-netanyahu-what-to-know.html",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Will Eisenkot succeed in 'minefield of Israeli politics' where 'so many other generals' have failed?",
+     "desc": "François Picard welcomes Dahlia Scheindlin, Israeli author, political analyst, strategic consultant and pollster, to examine a question that reaches far beyond the immediate struggle for power: Can Israel move beyond Netanyahu amid coalition deadlock, growing disillusionment in Washington and the persistent limits of political inclusion? As Gadi Eisenkot embarks on a 45-day race to form a government, following Israeli President Isaac Herzog's decision to entrust him with the task of assembling an elusive parliamentary majority, Scheindlin offers a timely reminder: “It's always too early to eul",
+     "url": "https://www.france24.com/en/tv-shows/spotlight/20261109-will-eisenkot-succeed-in-minefield-of-israeli-politics-where-so-many-other-generals-have-failed",
+     "via": null
+    },
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "アラブ系との連携不透明 イスラエル、組閣協議難航か",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026110900917&g=int&m=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261110-12",
+   "title": "教皇レオ14世、ブエノスアイレスで群衆が歓迎",
+   "firstSeen": "2026-11-10",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-10": 8
+   },
+   "peak": 8,
+   "worldScore": 8,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 8,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Millions fill Buenos Aires streets to welcome Pope Leo XIV",
+     "desc": "The Pope celebrated an outdoor Mass in Argentina's capital, the second stop on a 12-day tour of Latin America, just three weeks after having had surgery for lung cancer.",
+     "url": "https://www.bbc.co.uk/news/videos/cvp8g82pled5o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Argentina: Pope Leo XIV receives warm welcome in Claypole",
+     "desc": "Pope Leo XIV was welcomed by crowds in Claypole, near Buenos Aires, as he visited the Don Orione care home. The pontiff greeted the faithful and unveiled a plaque during his 12-day South American tour.",
+     "url": "https://www.euronews.com/video/2026/11/09/argentina-pope-leo-xiv-receives-warm-welcome-in-claypole",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Pope Leo on 3-country tour, weeks after lung cancer surgery",
+     "desc": "Pope Leo is in Argentina after wrapping up his visit to Uruguay. The 71-year-old pope arrived in Buenos Aires, where he was greeted at the airport by President Javier Milei and a military band. Chris Livesay is traveling with the pontiff and has more.",
+     "url": "https://www.cbsnews.com/video/pope-leo-3-country-tour-weeks-after-lung-cancer-surgery/",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261110-14",
+   "title": "サウジ東西石油パイプラインが攻撃される",
+   "firstSeen": "2026-11-10",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-10": 8
+   },
+   "peak": 8,
+   "worldScore": 8,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 8,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Saudi Arabia reports new attack on key East-West pipeline",
+     "desc": "The oil pipeline runs through the desert to the coast and is essential for bypassing the Strait of Hormuz.",
+     "url": "https://www.aljazeera.com/news/2026/11/9/saudi-arabia-reports-new-attack-on-key-east-west-pipeline?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Saudi East-West oil pipeline hit in Medina region, state media reports - Reuters",
+     "desc": "Saudi East-West oil pipeline hit in Medina region, state media reports Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeEtKMGZOdkpGT0I4d1dsaUtDQjlLSlhyV1o4M0Rqcm5KZHV4ZHhXeEdnTUwwV0x5eU1Ldmo1cFk0RG16SnFCMlZ0SkNlQzBmdkxPU2pmdmNqWmYwNEcwWGVVeEVNQVhqTnduTnZYNnVqZ3padlFRRkpGNGpYWHRRYVJsX0h3SXN6OFVaTWI2TGFfUVV2LVpLUGtydXppb0VFaDBNZy1YZ2pXWS1XSUxOTng3ZVpkZ18xd1E?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Saudi Arabia’s vital East-West pipeline struck in attack - Financial Times",
+     "desc": "Saudi Arabia’s vital East-West pipeline struck in attack Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYVc1aXVWTlN3MlpidFgtWnZKLUhrQkt3dWJPcVFnc3lyY045aDVrY1hzNzZycjQ3dHg2YUdZV2x4WlZqUkVlTU96WVZ6S243WG5Odmlia0FNS29WRXptdjVQeDdPSUROMTFXTHBWOWFla2tsNnRva3NPdU53RTRrdXdtMjM?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261106-02",
+   "title": "パラグアイ、銀行破綻を受け大統領が辞任",
+   "firstSeen": "2026-11-06",
+   "daysSeen": 3,
+   "history": {
+    "2026-11-06": 41,
+    "2026-11-09": 15,
+    "2026-11-10": 8
+   },
+   "peak": 41,
+   "worldScore": 8,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 8,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.82,
+     "title": "A Country’s President Led to a Bank’s Stunning Rise, and Its Fall",
+     "desc": "Prosecutors accused President Santiago Peña of Paraguay of funneling nearly a billion dollars of government funds to the Ueno bank as its executives made reckless insider loans.",
+     "url": "https://www.nytimes.com/2026/11/09/world/americas/paraguay-bank-president-ueno.html",
+     "via": null
+    },
+    {
+     "id": "npr",
+     "name": "NPR",
+     "region": "world",
+     "weight": 0.61,
+     "title": "How a bank collapse left millions in limbo and toppled Paraguay's president",
+     "desc": "A bank's collapse in Paraguay left millions locked out of their money, toppled the president and exposed a web of political and financial ties.",
+     "url": "https://www.npr.org/2026/11/09/nx-s1-6034066/paraguay-president-pena-ueno",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261110-29",
+   "title": "ビーコンズフィールド鉱山事故の生存者が死去",
+   "firstSeen": "2026-11-10",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-10": 8
+   },
+   "peak": 8,
+   "worldScore": 8,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 8,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.8,
+     "title": "Todd Russell, Beaconsfield mine collapse survivor, dies aged 54 due to illness",
+     "desc": "Tasmanian premier leads tributes for Russell, who earlier this month returned home to ‘see out his days’ Get our breaking news email , free app or daily news podcast Beaconsfield mine collapse survivor Todd Russell has died aged 54 after recently announcing deteriorating health. The Tasmanian premier, Jeremy Rockliff, led the tributes on Tuesday morning, saying his thoughts were with Russell’s loved ones. Continue reading...",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/10/todd-russell-dies-beaconsfield-mine-collapse-survivor-death-illness-aged-54",
+     "via": null
+    },
+    {
+     "id": "abc-au",
+     "name": "ABC Australia",
+     "region": "world",
+     "weight": 0.59,
+     "title": "Beaconsfield mine collapse survivor Todd Russell dies aged 54",
+     "desc": "Todd Russell, whose rescue, along with colleague Brant Webb, from a collapsed gold mine captivated the world for weeks in 2006, has died days after returning home from hospital.",
+     "url": "https://www.abc.net.au/news/2026-11-10/todd-russell-beaconsfield-mine-disaster-survivor-dies/105147924",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261110-11",
+   "title": "カーク氏射殺事件、被告の公判は2028年6月",
+   "firstSeen": "2026-11-10",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-10": 7
+   },
+   "peak": 7,
+   "worldScore": 7,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 7,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.74,
+     "title": "Trial date of alleged Charlie Kirk killer set for June 2028",
+     "desc": "Tyler Robinson has pleaded not guilty to aggravated murder and six other charges in connection with the 2025 killing of the conservative activist.",
+     "url": "https://www.bbc.co.uk/news/articles/cq0mem8d2p3xo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Utah judge sets 2028 trial date for Charlie Kirk killing",
+     "desc": "Utah District Court Judge Tony Graf set jury selection for the trial for June 21, 2028.",
+     "url": "https://www.straitstimes.com/world/united-states/utah-judge-sets-2028-trial-date-for-charlie-kirk-killing",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261110-13",
+   "title": "国連気候トップ、化石燃料高騰と健康危機に警告",
+   "firstSeen": "2026-11-10",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-10": 7
+   },
+   "peak": 7,
+   "worldScore": 7,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 7,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.77,
+     "title": "High fossil fuel prices spread inflation ‘like a cancer’, UN climate chief tells Cop31",
+     "desc": "Simon Stiell makes opening address at summit in Turkey, where talks are under way about speeding up shift to electrification A global fossil fuel price crisis is “spreading inflation like a cancer” around the planet, the UN’s climate chief, Simon Stiell, told the opening plenary of critical UN climate talks in Turkey. Stiell joined Cop31 hosts Turkey and Australia, which is leading the negotiations, in promoting renewable energy and a new electrification goal as an optimistic alternative to a planet still tied to oil, coal and gas. Continue reading...",
+     "url": "https://www.theguardian.com/environment/2026/nov/09/high-fossil-fuel-prices-spread-inflation-like-cancer-cop31egotiator-tells-cop31",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Health gets just a small fraction of climate finance as COP31 warns of growing crisis",
+     "desc": "As the health impacts of climate change become increasingly difficult to ignore, COP31 is putting healthcare systems and their ability to adapt at the centre of discussions on the first day of the UN climate conference.",
+     "url": "https://www.euronews.com/2026/11/09/health-gets-just-a-small-fraction-of-climate-finance-as-cop31-warns-of-growing-crisis",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261110-24",
+   "title": "露独立系紙ノーバヤ・ガゼタ、編集局を閉鎖",
+   "firstSeen": "2026-11-10",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-10": 7
+   },
+   "peak": 7,
+   "worldScore": 7,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 7,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.82,
+     "title": "Russia's leading independent newspaper closes after eviction",
+     "desc": "The outlet has been evicted from its offices of three decades and says it's been blocked from receiving donations.",
+     "url": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "dw",
+     "name": "Deutsche Welle",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Russia: Independent Novaya Gazeta shuts its Moscow newsroom",
+     "desc": "The investigative newspaper is closing its doors after Russian authorities labeled it a \"foreign agent\" and ordered it vacate its Moscow premises.",
+     "url": "https://www.dw.com/en/russia-independent-novaya-gazeta-shuts-its-moscow-newsroom/a-79899827?maca=en-rss-en-world-4025-rdf",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261110-33",
+   "title": "デリーでディワリ後にスモッグ、大気汚染深刻",
+   "firstSeen": "2026-11-10",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-10": 7
+   },
+   "peak": 7,
+   "worldScore": 7,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 7,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.42,
+     "title": "Polluted Delhi Tries ‘Green’ Fireworks to Clear the Air at Diwali",
+     "desc": "India’s top court decreed that only more environmentally friendly fireworks could be set off this weekend, citing air quality concerns. But environmental activists call it a “green wash.”",
+     "url": "https://www.nytimes.com/2026/11/08/world/asia/delhi-pollution-green-fireworks-diwali.html",
+     "via": null
+    },
+    {
+     "id": "npr",
+     "name": "NPR",
+     "region": "world",
+     "weight": 0.92,
+     "title": "Thick smog shrouds New Delhi after Diwali firecrackers add to seasonal pollution",
+     "desc": "New Delhi, home to over 30 million people, regularly ranks among the world's most polluted areas during winter, with pollution worsening in late October and November.",
+     "url": "https://www.npr.org/2026/11/09/g-s1-152634/thick-smog-shrouds-new-delhi-after-diwali-firecrackers-add-to-seasonal-pollution",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261110-05",
+   "title": "Megaspeed関連の密輸捜査にエヌビディアが介入",
+   "firstSeen": "2026-11-10",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-10": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Singapore firm Megaspeed back in the spotlight over Nvidia scandal, China chip allegations",
+     "desc": "A little-known Singapore-registered company is embroiled in a mounting love scandal surrounding Nvidia chief Jensen Huang and US allegations of Chinese espionage. Huang’s admission of an extramarital affair has renewed scrutiny of Megaspeed, after media reports identified a former executive of the Singapore firm as the woman involved in the relationship, which US officials suspect was linked to Chinese espionage. Megaspeed, a major Nvidia customer, is believed to have been founded and led by...",
+     "url": "https://www.scmp.com/week-asia/politics/article/3373840/singapore-firm-megaspeed-back-spotlight-over-nvidia-scandal-china-chip-allegations",
+     "via": null
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Nvidia Intervened in US Probe of Megaspeed Chip Smuggling - Bloomberg.com",
+     "desc": "Nvidia Intervened in US Probe of Megaspeed Chip Smuggling Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeXNPUU9vdEUwTnhJZGx5WGo1dXU4d0NRRldncEtnMTNMbFpRUzJYM1FUUllYTGI1bEFMWjdTdHczUTRZcmVZaFhTbXdrZXo1UGE0ekthOWs4eVpPQVZmM3AtLVZ2MWVkSkR5Y1dJTEV4NFl5M0t4RkVmV2MyLS1CMG80WHE3aW1LYkN0LS1adTJiQkc1N1lkSUZydFJIWFZRa1dZRVl4bHBhRXdh?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261103-35",
+   "title": "トランプ氏の支持率、32%と過去最低付近",
+   "firstSeen": "2026-11-03",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-03": 11,
+    "2026-11-10": 6
+   },
+   "peak": 11,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump approval holds at 32%, near lowest of his career, Reuters/Ipsos poll finds",
+     "desc": "The poll showed just 21% of Americans giving Trump a thumbs-up on his management of the cost of living.",
+     "url": "https://www.straitstimes.com/world/trump-approval-holds-at-32-near-lowest-of-his-career-reuters-ipsos-poll-finds",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump approval holds at 32%, near lowest of his career, Reuters Ipsos poll finds - Reuters",
+     "desc": "Trump approval holds at 32%, near lowest of his career, Reuters Ipsos poll finds Reuters",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOT09jaEZiM3FVcWRIMzNEeEU0QV9OcU5IZ1FGMW0tdnNVM2UxSnNlVmNPbVV0aEFheG1CT1NqYTRVRHJxUWllZ21FaHg3SDlrSkZQb0FrSG5ieGFvSHRubFZXUkN4aEJEWWlmcXgySDQ0ajRkdlpLMUtIR1Y3aUZuNTd1Y2FJbjlKNFhkUVV1NFJNdldEaFJWeHRxaW41WGV5Q3dINDRsRUZHMGdkTWRZa1V1SVoxRzA?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261110-10",
+   "title": "独首相、ウクライナ支援とEU予算の連動を表明",
+   "firstSeen": "2026-11-10",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-10": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "No deal on Ukraine aid? Then no deal on EU budget, Merz says",
+     "desc": "The stakes for the EU budget have risen sharply as the German chancellor ties the deal to approving an additional €45 billion for Kyiv. \"Supporting Ukraine is a matter of our indivisible European security,\" Merz said in a letter to Council President Antonio Costa.",
+     "url": "https://www.euronews.com/2026/11/09/no-deal-on-ukraine-aid-then-no-deal-on-eu-budget-merz-says",
+     "via": null
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Germany issues ultimatum to secure Ukraine funding - Financial Times",
+     "desc": "Germany issues ultimatum to secure Ukraine funding Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMEZHeDdVWDlfZXBiMmJQYU5RSDhWTEJ0ckNVMWNoQlE5TkJ6MjI0cVpwbGthMnowRzloOXVOTlZZS0J0ZDFNZFdpZlJkWnB1dUwwOE9JMWhndjNSYlg5V0x4WF9NYmV4M1JrN2p2QTVCMzdoY21jM0ZIc2JYRm03bzh0Qmo?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261106-04",
+   "title": "仏で緊縮策に抗議デモ、最低賃金引き上げ前倒し",
+   "firstSeen": "2026-11-06",
+   "daysSeen": 3,
+   "history": {
+    "2026-11-06": 24,
+    "2026-11-09": 8,
+    "2026-11-10": 6
+   },
+   "peak": 24,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Broken system? French protesters rage against austerity",
+     "desc": "How can the nation of haute couture and high speed rail have an affordability issue? On paper, France boasts the planet’s seventh largest economy. Its top diplomat started the week hosting a Group of Seven Industrialized Nations foreign ministers meeting inside the regal setting of its landmark Left Bank ministry.",
+     "url": "https://www.france24.com/en/tv-shows/the-debate/20261109-broken-system-french-protesters-rage-against-austerity",
+     "via": null
+    },
+    {
+     "id": "toi",
+     "name": "Times of India",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Unions dismiss France's 24-euro minimum wage increase",
+     "desc": "",
+     "url": "https://timesofindia.indiatimes.com/world/europe/five-euros-is-one-kilo-of-tomatoes-unions-dismiss-frances-24-euro-minimum-wage-increase/articleshow/135690069.cms",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261110-17",
+   "title": "アンソロピック、新AIモデル発表 IPO前に",
+   "firstSeen": "2026-11-10",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-10": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Anthropic unveils new Fable, Mythos models as competition heats up ahead of IPO - Reuters",
+     "desc": "Anthropic unveils new Fable, Mythos models as competition heats up ahead of IPO Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVzhYdUhsNzNPQkZ3aVh2eGJ4NEgtNlpiX0tRaDA3UFpFclkzMWRycGVrQlhaZVRNSnVoSlFBY2tWR0dyV2JTWWRBcy1qVnZyQ0VFWWE4SkozSFgyMmdzSXdQMkVLaXVJS0dFUUh5WXd6N1UyRjFGczJvU2VycHVEemxlZkRKQk5PRWtyakNiM0dSdzllZ1ItcjlJRzcyWnhkVE0zTy1paTZpWmJhLWZPaFVpeVFvWjMwNDdn?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Anthropic Unveils New Fable, Mythos AI Models Ahead of IPO - Bloomberg.com",
+     "desc": "Anthropic Unveils New Fable, Mythos AI Models Ahead of IPO Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaGNFTXptZ1NYTjh3SWxCeUlTQmZ2elFyZG80bW9hdG94NGszVXE5cmxjRV83QVg5UGEwTGVLVjlzXzBKT0xPdVAwc1NCMlhUcEVOY2tBNGxQRHJPQW80bkNvbGp4cW1OazY2NU5IRXRraG93RUhmbzdGMmlVZDU5LVpoczVFOWE0NkNnQjl0eGNCTUpabk1lLTFUa3ItNUQ5MmhvS25IZ1loaG9Q?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261110-18",
+   "title": "ボーイング、民間機部門の人員5%削減",
+   "firstSeen": "2026-11-10",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-10": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Boeing to cut 5% of commercial jet workforce amid production struggles - Reuters",
+     "desc": "Boeing to cut 5% of commercial jet workforce amid production struggles Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYVdQLTVQc2wtZzFUaDBNM3phQnpkZ0dfUlBXY2N3Z1BYcnZ3ajlMVjByY0gtcXExaWx5Qmx6T2M5LS1TMVhKb21teGtmZ082TmdoRGhGZkQwMTlqQzhncDFZaDhhNW9Rbml4VVZRSTZlTGRGb29JYW1pVUsxNUt4amNpdTlVTmRxZmdTMk0zNW55UXRLSHE5a0ZpZDFJenQwd2hPWjZ0UFZ2NzhiYl9meWphV0YzR1REZWNSOGRuMDZHTl9qdE1odw?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Boeing to Cut 5% of Civil Aircraft Workforce Amid Ramp Up Delays - Bloomberg.com",
+     "desc": "Boeing to Cut 5% of Civil Aircraft Workforce Amid Ramp Up Delays Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVjZSa3psX0VQOXdvbnk3dkU0RWJWeGdxM0tFQjBvLVdUUlJFdUxVWDJuamRhcTUxUlQ0Rzh1UWhFT0tLUzN5Q3RLVFYtTWFFb3gtVHgwNFc3ZFM5Uk1jWjhNR2M4U2JDY0hkSnZiRDVsV3p1aVUwdF84RDZDM2prOW5KSE41ZUl4N0EzTnlvanJ1c2ZLbDBtdWFNb3RwdlhscU5qRTVRU2M0bEs3czVhampRcw?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261110-19",
+   "title": "テイクツー、予約見通しが市場予想を下回る",
+   "firstSeen": "2026-11-10",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-10": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Take-Two projects third-quarter bookings below estimates - Reuters",
+     "desc": "Take-Two projects third-quarter bookings below estimates Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVU1kNnl5WDJ3dmRVVTJEczM5UF9Lc0otMlB3YlRqWGtmYzNlZ0VtTlhJN1VWQjd5M2RNbVNlbnROS2JDajd2cjhISzBNRHVnc0d0MG8yT292SFJJb19RdEd5b0diUVVkLXIzWFFRbGhKZFNBRXJISGdLVzZpd0ExTWVza1BGSjV5TW9BY3VTa1huVXN4SGpTU3Q4M1ZVcDdMYVNv?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Take-Two’s ‘NBA 2K’ Sales Disappoint Due to ‘Grand Theft Auto VI’ - Bloomberg.com",
+     "desc": "Take-Two’s ‘NBA 2K’ Sales Disappoint Due to ‘Grand Theft Auto VI’ Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLV9CV2RJWTM3a1Y4aFRtNl9rWDVpT2t4emZ5YTRSOUVtcFJxanhqdDdEUVdXMVgwTUhiajdoUmJIaWtPY1hsMGxEMUR5UlN5djdCVmNTQWhqQ2R3LTV1VUd0RVE4cGpkN24yVVRfdGFsQTZheDhTN2lIVWpDVjFJMkJBQmZIR2o1RldMb0VCRmxtc185RDdDcTMwVVRLaFBlWE9mX3ZzbElEbkQtRVo0bDJPbWVtWVZKU0Rj?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261110-20",
+   "title": "DCスタジオ、ガン氏とサフラン氏が退任",
+   "firstSeen": "2026-11-10",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-10": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Skydance names Marvel veteran Latcham to lead DC Studios, replacing Gunn and Safran - Reuters",
+     "desc": "Skydance names Marvel veteran Latcham to lead DC Studios, replacing Gunn and Safran Reuters",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcUcwY2JIOVpIc1pqclVkQjNqOTFxczlqeWJPMF90TkZKend3NVNpdTdGbkUwZ1lJYkVELWFBWGh6a0QtNDY4YXVvSTJmRGNjeUhCenY5UUFJQ1RyR1F4bV9sMWJOcnRUZWc5YlgwenVzU0piaXA2Z1lEUHhJUkRBeFo5aEJhMXBDRUxDU3dneDBIc1dJX3djSkNBSi1OUnVaSnRmMFp5SGJpbTFsTkxfb24xR05fdFdvckNzbUZMZE9icVlqUGNHU094VUpLbkVkZ0E?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "In another shake-up at DC Studios, Gunn and Safran are out as Skydance appoints Marvel vet Latcham - AP News",
+     "desc": "In another shake-up at DC Studios, Gunn and Safran are out as Skydance appoints Marvel vet Latcham AP News",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQemJKMVNvR0JlUlRKdnUtemFUWlBTTkpFV1EtRHhlcnFNcXdfV2xPWjZpU21lZUVQbG9fM213YmNicF9heGIzdm9YZ3RlUHhHZTdzbkhBTFZjMTljOUkyQnlRVldCdDZEVzRKRUJ4OTR2Y3FvNmdfSTg2cjB5MGJIUkxwZW8tQXlyVlIxb2VLaklNRXBq?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261110-21",
+   "title": "スペースX、テキサスで240億ドル規模の計画",
+   "firstSeen": "2026-11-10",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-10": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "SpaceX plans $24 billion gas power plant, data center project in Texas - Reuters",
+     "desc": "SpaceX plans $24 billion gas power plant, data center project in Texas Reuters",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZGhRNnpDTGdodFotZVZacFc5cC1NdnhETU5xb19iMFIxUUgySlJiOEYyX1RsdnFwY1h5VkM5RWpoVVVseFVJMFFFQ3ByaGxUOXZxY3R2M2RNSFJGaXhqU3VzSmhndWpmdklTd2RIekc1Nlg2b1FRVGdsdnN0YzVEQVVrZmpqT1JUVG9GamZ1U29EZjdaV0xFZEJTemZxdUZleGlLb055UEo0Slhod1VBU09kNWw0ajZmQnJmQUp3?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "SpaceX Plans $24 Billion Data Center and Gas Plant in Texas - Bloomberg.com",
+     "desc": "SpaceX Plans $24 Billion Data Center and Gas Plant in Texas Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa2tLdTRWMGF3cFpraEd5VWpXMzdGNlpZRUdvY0VOTVZNLWl6MXBncjJoRl9TTzZBN0JjMHhSd3NjLTJ5alRFWDlMZFRKSmVIaktDLW14U2piaUIxUVBPWnU3MTBmVWx3WjRrYjA1ejFWWGFwSm9xbzhFWWZzY1VoVDRSb1U4UERRbFJ6ZHhMV2JLUGxGRFFuWmd0YmloVXROdzByZ0lIVzhLV2dhYlE?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261106-17",
+   "title": "NYダウ大幅反発、AI株買い戻しと原油安で",
+   "firstSeen": "2026-11-06",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-06": 25,
+    "2026-11-10": 6
+   },
+   "peak": 25,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 34,
+   "jpCoverage": "3/6",
+   "gap": -28,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US stocks rally and recover most of last week’s losses as oil prices swing lower - AP News",
+     "desc": "US stocks rally and recover most of last week’s losses as oil prices swing lower AP News",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcjdpMlgzTnVJbUkwOFpXUWtRQnJUd29DZndWUk1vZXNLUEhNcVg3TUU5TFBncjY2djNYbHV4dlB4aUxxdFlsMW1NLUU5VWN3dGZHOFg4aGxETUl0NGx5ZWp2X3NXOG54WmlTSUl0UHpDdGlQeDRWanlkejRweTlqYV9WRk1WbVl4dkh4bU9CaWE?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Asian Stocks to Rally on US Tech Surge, Oil Slump: Markets Wrap - Bloomberg.com",
+     "desc": "Asian Stocks to Rally on US Tech Surge, Oil Slump: Markets Wrap Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNXVKNll2bkFUUU5EVDg4eTF6a3YwZ0pIS0d4bGFTdkItMkl3SkFCbGRiZFdzSmlidHZZN3I1YzF1VkVXYlM0dDJrRlRPeDRGYXp6cVBuRGVjbl9vNWxrdlRYLTl4NTRxMnRFcGtuOUROekFvUUsxdTE1R3IwWmRKRVlUVFpFTlY0WXNlWTZTa1hIdmV1?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "asahi",
+     "name": "朝日新聞",
+     "region": "jp",
+     "weight": 0.56,
+     "title": "NYダウ1100ドル超上昇、原油は下落 エヌビディアは4%超安に",
+     "desc": "",
+     "url": "http://www.asahi.com/articles/ASVC977LHVC9UHBI001M.html?ref=rss",
+     "via": null
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 1,
+     "title": "ニューヨーク市場、AI株急落の衝撃乗り越え反騰…エヌビディアだけ4％台急落(中央日報日本語版)",
+     "desc": "米ニューヨーク証券市場の3大株価指数が9日、国際原油価格急落とハイテク株の安値買いの流れを受け一斉に急騰した。この日ニューヨーク証券取引所でダウ平均は前日より2．15％上がった5万2389．75で取引",
+     "url": "https://news.yahoo.co.jp/articles/7c1bb0e6021afed5c433f1e364cbedf5d2b1a267?source=rss",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "NYダウ急騰1104ドル高 AI株買い戻し、トランプ発言で原油安追い風 - 日本経済新聞",
+     "desc": "NYダウ急騰1104ドル高 AI株買い戻し、トランプ発言で原油安追い風 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96SkIwb18yaFRFYWg0alQ3WG5qTldxZ2NBV0JGWkM4YjF4SGNoM2k1RUkwXzNmZEFKUXcxb0tLQi1WcXhZa0VGMWZCSWhyT1QyR056WUs4UU9lNDczalhYNEJ1YU5ibkhxclBOZA?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261110-23",
+   "title": "EU、次期ECB総裁を年内選出へ",
+   "firstSeen": "2026-11-10",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-10": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "dw",
+     "name": "Deutsche Welle",
+     "region": "world",
+     "weight": 0.5,
+     "title": "EU aims to pick new ECB chief by year-end",
+     "desc": "Christine Lagarde's decision to step down early as head of the European Central Bank (ECB) has put the European Union on a tight schedule. The bloc expects to pick a new ECB chief by the end of December.",
+     "url": "https://www.dw.com/en/eu-aims-to-pick-new-ecb-chief-by-year-end/a-79898169?maca=en-rss-en-world-4025-rdf",
+     "via": null
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "ECB contender Klaas Knot ‘won’t hesitate’ to act in a debt crisis - Financial Times",
+     "desc": "ECB contender Klaas Knot ‘won’t hesitate’ to act in a debt crisis Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdmprSmNXZTFPM2RvT0FXbjBBWFpXVHNUZm53SlVmcXZhcUVUWHBibXd6bXVSRWMtbk9EMW1EWHE5bnNlajRRTU40eFkwb01lMnBhenVwbklhem52OTRWd2tkMXM2c0g4QVU1M2pNQTJjanh2U2o5X1VvYUU4R2JGbE9uQUI?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261110-27",
+   "title": "トランプ氏、移民取り締まりは「厳しすぎた」",
+   "firstSeen": "2026-11-10",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-10": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump says his deportation policy ‘might have been too tough’ for voters in the election - AP News",
+     "desc": "Trump says his deportation policy ‘might have been too tough’ for voters in the election AP News",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYnAzZ2VkbDFaRjdSZ2t1bXZBa0Jvbk1jbEFhSGtVUU9XVkhFeGJkUWR4bmdaNkp1ejJWdFZ4Y2pLOFZ4dGdUelN1dDAzZVdsNEExczIxa3JSS1dLN0dON3ZselJCUnZJdF9MUXJGY3NkSWJKUnhXNkpwTk9aM0VXdWllUzV2T3dCQzVWRjBXaEY4eVNNVkZvWlBwZXFxbGs?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump says he was ‘too tough’ on immigrants as he floats amnesty deal - Financial Times",
+     "desc": "Trump says he was ‘too tough’ on immigrants as he floats amnesty deal Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSXZka0lpTzYwTVFBZ3plcU9HVnNKSlZzOE1LalBxbHFtc3h4UzRwZmFjQnBna0E5a3dnUlZlSlBWaTNSTGFrSE1xYWdMd3IwVHg0VHVCUnhvcVFnYmJmNE40OVZVUHF6Y0RWZWFzcjVsRURhQWJveWNid3hVQU9YYUlIdW8?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261105-42",
+   "title": "南ア統一地方選、与党ANCが過去最低の結果",
+   "firstSeen": "2026-11-05",
+   "daysSeen": 3,
+   "history": {
+    "2026-11-05": 15,
+    "2026-11-06": 13,
+    "2026-11-10": 6
+   },
+   "peak": 15,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "dw",
+     "name": "Deutsche Welle",
+     "region": "world",
+     "weight": 0.5,
+     "title": "South Africa elections: ANC marks its worst-ever performance",
+     "desc": "The African National Congress, the party of late liberation icon Nelson Mandela, slumped to its worst-ever result in South Africa's municipal election. Voters blame the ANC for water and electricity shortages.",
+     "url": "https://www.dw.com/en/south-africa-elections-anc-marks-its-worst-ever-performance/a-79887482?maca=en-rss-en-world-4025-rdf",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "South Africa’s ANC suffers a historic setback in local elections as coalition talks begin",
+     "desc": "South Africa’s ruling ANC suffers its worst-ever local election results, securing just 30% of the vote, as coalition talks loom. Meanwhile, former Ugandan military intelligence officer Herbert Matanda Mabonga accuses the army of secretly detaining and torturing opponents, following the release of videos that sparked national outrage. Finally, in Senegal, more than 200,000 free tickets are giving young people the chance to experience the games live on home soil, in a bid to inspire a new generation of athletes.",
+     "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20261109-south-africa-s-anc-suffers-a-historic-setback-in-local-elections-as-coalition-talks-begin",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261110-30",
+   "title": "ホワイトハウス付近で2件、2人逮捕",
+   "firstSeen": "2026-11-10",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-10": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 17,
+   "jpCoverage": "2/6",
+   "gap": -11,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Two security breaches near White House prompt brief lockdown",
+     "desc": "Active investigations are under way after a vehicle crashed at Lafayette Park and a second individual jumped a barrier.",
+     "url": "https://www.aljazeera.com/news/2026/11/9/two-security-breaches-near-white-house-prompt-brief-lockdown?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Two arrested near White House in separate incidents, Secret Service says - Reuters",
+     "desc": "Two arrested near White House in separate incidents, Secret Service says Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdW9QcVFUNXlLNjJXVk94TkxESXlGMFZNckt6X2NoMzNVYkl5WFhuQWVYZUEwLS15bFBCRnBVMjNtM0pkRkNYd3RtSmNqSVZ0TEt4UmZHMzhLRENEamlsUENmQi1lM2p5OWtycVJxTzlpMkRDWXJWQ2JMMTJ0d0N0YWVMSGtDS0drOF9WaHdYN3V0czhCMHVXYVVGZ09XNExhSDRKeGwyNzRIWWFPVjJGbGtiMA?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "ホワイトハウス前広場で事故 バリケード乗り越えも、２人逮捕―米",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026111000152&g=int&m=rss",
+     "via": null
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "ホワイトハウス前の広場で車が歩道に突っ込む 運転手ら2人逮捕 現場周辺が一時封鎖(テレビ朝日系（ANN）)",
+     "desc": "アメリカのホワイトハウス近くで乗用車が歩道に突っ込み、運転手ら2人が逮捕されました。ホワイトハウスの前にあるラファイエット広場で9日、乗用車が歩道に突っ込みました。アメリカメディアによりますと、運転手",
+     "url": "https://news.yahoo.co.jp/articles/5676764dd822a8576a41c0d0b7d604cb582913ff?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261110-31",
+   "title": "上院、エネルギー許認可法案の採決へ",
+   "firstSeen": "2026-11-10",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-10": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US Senate advances energy permitting Bill opposed by some Democrats, tribes",
+     "desc": "The vote marked an early test of whether the Bill’s Democratic sponsors could keep enough of their party aligned.",
+     "url": "https://www.straitstimes.com/world/united-states/us-senate-advances-energy-permitting-bill-opposed-by-some-democrats-tribes",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Democratic US senators push for energy permitting bill ahead of key Senate vote - Reuters",
+     "desc": "Democratic US senators push for energy permitting bill ahead of key Senate vote Reuters",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRlk4Zm1Ba0RjZlZ5d010c2dKOGtJNWJheHhrNHBPbGRuNzdlOVRMSHZQRkxhSW5DaWJJT28wSEg1SjJkXzdBOGxoYm1pWWxDS18xdjNPZ2ctMFdYX0szaEkzTHlvbDhDT3VXWGYxSklCbU5CUmxfOGtTbm9XVHg2QWg5ZHBWXzhQZmhJeVJmWjFJQVFBVF9yeGxGOHRZczBwM0ZKZ0tWaFRDbWUycy1iTG8zZEUzTWY5Wi1BMklDcw?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261110-32",
+   "title": "メーガン妃の父、児童性的画像事件で精神鑑定",
+   "firstSeen": "2026-11-10",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-10": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Meghan Markle pulls out of Brussels speech after dad’s arrest over child sex abuse images",
+     "desc": "Meghan, the Duchess of Sussex, has pulled out of making a joint speech with the Duke of Sussex in Brussels about online child safety because she is “not strong enough” after her father’s arrest. Prince Harry and Meghan had both been due to deliver the keynote address to the European Parliament on Tuesday. The duchess will still join Harry at the event but has decided not to speak after Thomas Markle appeared in a US court on Friday charged with possession of child abuse material. “She’s just not...",
+     "url": "https://www.scmp.com/news/world/europe/article/3373846/meghan-markle-pulls-out-brussels-speech-after-dads-arrest-over-child-sex-abuse-images",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Psychiatric exam ordered for Thomas Markle, father of Duchess Meghan, in child pornography case",
+     "desc": "It is to determine if he is mentally fit to answer to charges against him.",
+     "url": "https://www.straitstimes.com/world/united-states/psychiatric-exam-ordered-for-thomas-markle-in-child-pornography-case",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261106-11",
+   "title": "露、JT子会社を管理下に 事業継続と損失懸念",
+   "firstSeen": "2026-11-06",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-06": 3,
+    "2026-11-10": 0
+   },
+   "peak": 3,
+   "worldScore": 0,
+   "worldCoverage": "0/18",
+   "jpScore": 22,
+   "jpCoverage": "2/6",
+   "gap": -22,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.8,
+     "title": "【社説】ロシアの圧力 JT管理の横暴許されぬ(西日本新聞me)",
+     "desc": "ロシアが現地の日本企業に対し、経営権を実質的に奪う暴挙に出た。断じて許されない措置である。日本政府は欧米諸国などと連携し、撤回させなくてはならない。 ロシアのプーチン大統領は日本たばこ産業（JT）のグ",
+     "url": "https://news.yahoo.co.jp/articles/c9d053bbdbd0b56ed566668b62d84aaa299d3d83?source=rss",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "JT、ロシア事業「現時点で継続」 現地法人の一時管理下巡り - 日本経済新聞",
+     "desc": "JT、ロシア事業「現時点で継続」 現地法人の一時管理下巡り 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00Z3lwM3JQSHhTY3RYV3ZuWWhNMkpQQWdnQzVnMGw4ZFhYV3B3aTNTTlNTNUdUblVpVU43Z05VWTdXN2N2X09ib19BemwyMzNXcEFhY3U5M3lNRUhZTkJSd0luQ3lHR2Zpbkp2cw?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261110-34",
+   "title": "札幌のマンション敷地で男性2人死亡",
+   "firstSeen": "2026-11-10",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-10": 0
+   },
+   "peak": 0,
+   "worldScore": 0,
+   "worldCoverage": "0/18",
+   "jpScore": 22,
+   "jpCoverage": "2/6",
+   "gap": -22,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "mainichi",
+     "name": "毎日新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "マンション敷地内に倒れた男性2人 搬送先で死亡確認 札幌",
+     "desc": "",
+     "url": "https://mainichi.jp/articles/20261110/k00/00m/040/006000c",
+     "via": null
+    },
+    {
+     "id": "yahoo",
+     "name": "Yahoo!ニュース主要",
+     "region": "jp",
+     "weight": 0.8,
+     "title": "マンション敷地に倒れた2人 死亡",
+     "desc": "",
+     "url": "https://news.yahoo.co.jp/pickup/6601995?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261110-35",
+   "title": "石破氏ら4人、消費税法案採決で戒告処分",
+   "firstSeen": "2026-11-10",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-10": 0
+   },
+   "peak": 0,
+   "worldScore": 0,
+   "worldCoverage": "0/18",
+   "jpScore": 24,
+   "jpCoverage": "3/6",
+   "gap": -24,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "asahi",
+     "name": "朝日新聞",
+     "region": "jp",
+     "weight": 0.42,
+     "title": "「血のにじむ先輩の努力」処分された4人が語ったもの 自民冷ややか",
+     "desc": "",
+     "url": "http://www.asahi.com/articles/ASVC93GFYVC9UTFK00LM.html?ref=rss",
+     "via": null
+    },
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "石破、小渕氏ら戒告処分 採決棄権、自民「看過できず」",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026110900659&g=pol&m=rss",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "石破茂・小渕優子氏ら4氏に戒告処分 自民党、消費税法案採決退席で - 日本経済新聞",
+     "desc": "石破茂・小渕優子氏ら4氏に戒告処分 自民党、消費税法案採決退席で 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CUmExZFZKeVA5ZUtXMjZmOEV3QUpxWkNTQ1pmZm1YRU9zMm1PUjEyVVg5TlJDa1QxQTVFM3ZsVDgwSm8ycTBEMXp0VWZialNIWGp5UU04RWthWHo0aldNYUx1dVdmc2hCTXc1WQ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261110-36",
+   "title": "安保3文書改定、自衛官定員削減などを協議",
+   "firstSeen": "2026-11-10",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-10": 0
+   },
+   "peak": 0,
+   "worldScore": 0,
+   "worldCoverage": "0/18",
+   "jpScore": 23,
+   "jpCoverage": "2/6",
+   "gap": -23,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "asahi",
+     "name": "朝日新聞",
+     "region": "jp",
+     "weight": 0.39,
+     "title": "「ブレーキ役」不在の影響は 安保3文書で自民・維新が与党協議へ",
+     "desc": "",
+     "url": "http://www.asahi.com/articles/ASVC93PSNVC9UTFK00DM.html?ref=rss",
+     "via": null
+    },
+    {
+     "id": "yahoo",
+     "name": "Yahoo!ニュース主要",
+     "region": "jp",
+     "weight": 1,
+     "title": "自衛官定員削減 安保3文書明記へ",
+     "desc": "",
+     "url": "https://news.yahoo.co.jp/pickup/6601979?source=rss",
+     "via": null
+    }
+   ]
+  }
+ ]
+}

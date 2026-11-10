@@ -1,6 +1,6 @@
 {
- "date": "2026-11-09",
- "generatedAt": "2026-11-08T21:08:25.459Z",
+ "date": "2026-11-10",
+ "generatedAt": "2026-11-10T00:43:13.808Z",
  "model": "claude-haiku-5-5",
  "measured": {
   "world": 18,
@@ -8,483 +8,497 @@
  },
  "articles": [
   {
-   "id": "intl-brief-2026-11-09-s-20261109-02",
+   "id": "intl-brief-2026-11-10-s-20261103-02",
    "stream": "intl",
    "depth": "brief",
    "section": "world",
-   "headline": "クラクフ銃撃、6人死亡 警官2人は「英雄」と称賛",
-   "originalTitle": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-   "outlet": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+   "headline": "仏外相、イランによるスーパー冷蔵設備攻撃を非難",
+   "originalTitle": "France accuses Iran of cyber 'sabotage' in fridge attacks",
+   "outlet": "NPR",
+   "url": "https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks",
    "region": "overseas",
    "category": null,
-   "score": 46,
+   "score": 41,
    "tier": "should",
-   "pubDate": "2026-11-08T21:08:25.459Z",
+   "pubDate": "2026-11-10T00:43:13.808Z",
    "body": null,
-   "summary": "ポーランドのクラクフで、男が中央広場周辺で無差別に発砲し、6人が死亡、15人が負傷しました。死者には英国人とオーストリア人の女性が含まれています。容疑者は24歳のポーランド人男性で、重体です。政府は極右思想の影響を受けた可能性があるとしています。現場に居合わせた外科医2人が治療にあたり、撃たれた警官2人は日曜に昏睡から覚めたと報じられています。首相は警官2人を「真の英雄」と称えました。",
+   "summary": "フランスのバロ外相は、先月のスーパー数百店の冷蔵設備へのサイバー攻撃をイラン革命防衛隊が行ったと非難した。外相は在仏イラン大使を召喚したと明らかにし、相応の結果が伴うと述べた。仏国家サイバーセキュリティ庁によると、イア軍関係のハッカーが約700の小売店で冷蔵制御機器を乗っ取った。夜間に温度を上げられ、食品が大量に傷んだという。パリ検察も捜査を始め、国際逮捕状を請求したと発表した。イラン側は直ちには反応していない。",
    "sources": [
     {
-     "outlet": "BBC",
-     "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
-     "date": "2026-11-09",
+     "outlet": "NPR",
+     "url": "https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks",
+     "date": "2026-11-10",
      "access": "body",
      "via": null,
-     "note": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says"
+     "note": "France accuses Iran of cyber 'sabotage' in fridge attacks"
     },
     {
      "outlet": "New York Times",
-     "url": "https://www.nytimes.com/2026/11/08/world/europe/poland-krakow-mass-shooting.html",
-     "date": "2026-11-09",
+     "url": "https://www.nytimes.com/2026/11/09/world/europe/france-iran-refrigerators-cyberattack.html",
+     "date": "2026-11-10",
      "access": "excerpt",
      "via": null,
-     "note": "What to Know About the Mass Shooting in Krakow, Poland"
+     "note": "France Blames Iran for Cyberattack on Refrigeration Systems"
     },
     {
-     "outlet": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-09/poland-treating-mass-shooting-as-terrorist-offence/107362106",
-     "date": "2026-11-09",
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-10",
      "access": "excerpt",
      "via": null,
-     "note": "Poland treats fatal mass shooting as 'terrorist offence'"
+     "note": "France accuses Iran of supermarket fridge hacking"
     },
     {
      "outlet": "Sky News",
-     "url": "https://news.sky.com/story/british-national-among-six-killed-by-far-right-gunman-in-krakow-rampage-13609612",
-     "date": "2026-11-09",
+     "url": "https://news.sky.com/story/france-accuses-iran-of-being-behind-massive-cyber-attack-on-supermarket-fridges-13610319",
+     "date": "2026-11-10",
      "access": "excerpt",
      "via": null,
-     "note": "Briton among six killed by 'far-right' gunman in Krakow rampage"
+     "note": "France blames Iran for massive cyber attack on supermarket fridges"
     },
     {
      "outlet": "The Guardian",
-     "url": "https://www.theguardian.com/world/2026/nov/08/two-police-officers-heroes-confronting-krakow-gunman-poland",
-     "date": "2026-11-09",
+     "url": "https://www.theguardian.com/technology/2026/nov/09/cyber-attack-french-supermarket-freezers-iran-europe",
+     "date": "2026-11-10",
      "access": "excerpt",
      "via": null,
-     "note": "Two police officers hailed as heroes for confronting Kraków gunman"
+     "note": "Cyber-attack on French supermarket freezers has geopolitical context"
     },
     {
      "outlet": "France 24",
-     "url": "https://www.france24.com/en/poland-in-shock-after-6-killed-in-krakow-far-right-shooting",
-     "date": "2026-11-09",
+     "url": "https://www.france24.com/en/video/20261109-france-blames-iran-for-cyberattack-on-supermarket-fridges",
+     "date": "2026-11-10",
      "access": "excerpt",
      "via": null,
-     "note": "Poland in shock after 6 killed in Krakow far-right shooting"
+     "note": "France blames Iran for cyberattack on supermarket fridges"
     },
     {
      "outlet": "Euronews",
-     "url": "https://www.euronews.com/2026/11/08/condolences-and-solidarity-european-and-world-leaders-react-to-krakow-shooting",
-     "date": "2026-11-09",
+     "url": "https://www.euronews.com/2026/11/09/france-says-iran-behind-cyberattacks-on-supermarket-fridges",
+     "date": "2026-11-10",
      "access": "excerpt",
      "via": null,
-     "note": "Condolences and solidarity: European and world leaders react to Krakow shooting."
-    },
-    {
-     "outlet": "CBS News",
-     "url": "https://www.cbsnews.com/news/poland-mourns-krakow-mass-shooting-victims-terrorism-probe/",
-     "date": "2026-11-09",
-     "access": "excerpt",
-     "via": null,
-     "note": "Poland mourns Krakow shooting victims as terrorism probe launched"
-    },
-    {
-     "outlet": "The Straits Times",
-     "url": "https://www.straitstimes.com/world/europe/krakow-assailant-appeared-highly-skilled-fellow-shooting-club-member-says",
-     "date": "2026-11-09",
-     "access": "excerpt",
-     "via": null,
-     "note": "Krakow assailant appeared highly skilled, fellow shooting club member says"
-    },
-    {
-     "outlet": "Reuters",
-     "url": null,
-     "date": "2026-11-09",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Poland mourns victims of Krakow shooting amid security fears - Reuters"
-    },
-    {
-     "outlet": "Associated Press",
-     "url": null,
-     "date": "2026-11-09",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Polish gunman who killed 6 people in Krakow has ‘ultranationalistic’ views, authorities say - AP News"
-    },
-    {
-     "outlet": "Bloomberg",
-     "url": null,
-     "date": "2026-11-09",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Poland’s Deadliest Shooting in Years Deepens Political Divide - Bloomberg.com"
-    },
-    {
-     "outlet": "Financial Times",
-     "url": null,
-     "date": "2026-11-09",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Gunman kills six in Kraków shooting - Financial Times"
-    }
-   ],
-   "continuity": null,
-   "coverage": {
-    "world": "13/18",
-    "jp": "2/6",
-    "worldTotal": 18,
-    "jpTotal": 6,
-    "daysSeen": 1
-   },
-   "bodyAvailable": true,
-   "discussionUrl": null,
-   "summarizedBy": "claude-haiku-5-5"
-  },
-  {
-   "id": "intl-brief-2026-11-09-s-20261028-01",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "world",
-   "headline": "イスラエル大統領、アイゼンコット氏に組閣を指名",
-   "originalTitle": "How Israel’s Opposition Could Unseat Netanyahu (or Not)",
-   "outlet": "New York Times",
-   "url": "https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html",
-   "region": "overseas",
-   "category": null,
-   "score": 43,
-   "tier": "should",
-   "pubDate": "2026-11-08T21:08:25.459Z",
-   "body": null,
-   "summary": "イスラエルのヘルツォグ大統領は、野党党首で元軍参謀総長のガディ・アイゼンコット氏に組閣の任務を与えました。組閣の期限は28日で、大統領の判断で最大14日延長できます。ガーディアンは、アイゼンコット氏がネタニヤフ首相の周辺にも接触していると伝えています。アルジャジーラは、同氏がネタニヤフ氏の連立参加に前向きだと伝えています。ニューヨーク・タイムズは、組閣に向けた3つの道筋を示しています。",
-   "sources": [
-    {
-     "outlet": "New York Times",
-     "url": "https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html",
-     "date": "2026-11-09",
-     "access": "excerpt",
-     "via": null,
-     "note": "How Israel’s Opposition Could Unseat Netanyahu (or Not)"
-    },
-    {
-     "outlet": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-09/five-ways-israel-coalition-negotiations-could-go/107361790",
-     "date": "2026-11-09",
-     "access": "body",
-     "via": null,
-     "note": "Eisenkot is trying to form government in Israel. Here are five ways it could go"
-    },
-    {
-     "outlet": "NPR",
-     "url": "https://www.npr.org/2026/11/07/nx-s1-6032606/israeli-president-invites-netanyahus-opposition-leader-to-broker-new-government",
-     "date": "2026-11-09",
-     "access": "excerpt",
-     "via": null,
-     "note": "Israeli president invites Netanyahu's opposition leader to broker new government"
-    },
-    {
-     "outlet": "The Guardian",
-     "url": "https://www.theguardian.com/world/2026/nov/08/gadi-eisenkot-netanyahu-allies-form-israel-government",
-     "date": "2026-11-09",
-     "access": "excerpt",
-     "via": null,
-     "note": "Gadi Eisenkot reaches out to Netanyahu allies as he strives to form government"
-    },
-    {
-     "outlet": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/8/israels-president-tasks-eisenkot-to-form-new-coalition-government?traffic_source=rss",
-     "date": "2026-11-09",
-     "access": "excerpt",
-     "via": null,
-     "note": "Eisenkot open to Netanyahu joining Israel’s next government"
-    },
-    {
-     "outlet": "Deutsche Welle",
-     "url": "https://www.dw.com/en/israeli-president-tasks-gadi-eisenkot-with-forming-government/a-79888288?maca=en-rss-en-world-4025-rdf",
-     "date": "2026-11-09",
-     "access": "excerpt",
-     "via": null,
-     "note": "Israeli president tasks Gadi Eisenkot with forming government"
-    },
-    {
-     "outlet": "France 24",
-     "url": "https://www.france24.com/en/gadi-eisenkot-receives-mandate-to-form-government",
-     "date": "2026-11-09",
-     "access": "excerpt",
-     "via": null,
-     "note": "Gadi Eisenkot receives mandate to form government"
-    },
-    {
-     "outlet": "Euronews",
-     "url": "https://www.euronews.com/2026/11/08/netanyahu-rival-eisenkot-to-be-tasked-with-forming-new-government-following-israeli-electi",
-     "date": "2026-11-09",
-     "access": "excerpt",
-     "via": null,
-     "note": "Netanyahu rival Eisenkot to be tasked with forming new government following Israeli elections"
-    },
-    {
-     "outlet": "CBS News",
-     "url": "https://www.cbsnews.com/news/israel-election-government-gadi-eisenkot-benjamin-netanyahu/",
-     "date": "2026-11-09",
-     "access": "excerpt",
-     "via": null,
-     "note": "Israel&#039;s president taps opposition candidate Eisenkot to form a government"
-    },
-    {
-     "outlet": "The Straits Times",
-     "url": "https://www.straitstimes.com/world/middle-east/netanyahu-rival-eisenkot-seeks-wide-government-but-path-to-power-uncertain",
-     "date": "2026-11-09",
-     "access": "excerpt",
-     "via": null,
-     "note": "Netanyahu rival Eisenkot seeks ‘wide’ government but path to power uncertain"
-    },
-    {
-     "outlet": "Reuters",
-     "url": null,
-     "date": "2026-11-09",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Netanyahu rival Eisenkot seeks 'wide' government but path to power uncertain - Reuters"
-    },
-    {
-     "outlet": "Associated Press",
-     "url": null,
-     "date": "2026-11-09",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Israel’s president taps opposition candidate Eisenkot to form a government, in setback for Netanyahu - AP News"
-    },
-    {
-     "outlet": "Bloomberg",
-     "url": null,
-     "date": "2026-11-09",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Eisenkot Gets Chance to Form Israeli Govt After Tight Vote - Bloomberg.com"
-    },
-    {
-     "outlet": "Financial Times",
-     "url": null,
-     "date": "2026-11-09",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Israel’s president gives Gadi Eisenkot first chance at forming government - Financial Times"
-    }
-   ],
-   "continuity": {
-    "previousDate": "2026-10-28",
-    "previousScore": 49,
-    "note": "9日連続で報じられている"
-   },
-   "coverage": {
-    "world": "14/18",
-    "jp": "3/6",
-    "worldTotal": 18,
-    "jpTotal": 6,
-    "daysSeen": 9
-   },
-   "bodyAvailable": true,
-   "discussionUrl": null,
-   "summarizedBy": "claude-haiku-5-5"
-  },
-  {
-   "id": "intl-brief-2026-11-09-s-20261109-16",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "world",
-   "headline": "教皇レオ14世、中南米歴訪 ウルグアイでミサ",
-   "originalTitle": "In Argentina, Pope Leo to Meet Church at Odds With President Milei",
-   "outlet": "New York Times",
-   "url": "https://www.nytimes.com/2026/11/08/world/americas/pope-leo-argentina-milei.html",
-   "region": "overseas",
-   "category": null,
-   "score": 42,
-   "tier": "should",
-   "pubDate": "2026-11-08T21:08:25.459Z",
-   "body": null,
-   "summary": "ローマ教皇レオ14世は、中南米歴訪を始め、ウルグアイでミサを行いました。歴訪は12日間で、ウルグアイ、アルゼンチン、ペルーを回ります。BBCは、肺がんの手術から3週間後の教皇が「かなり良好な健康状態」だと伝えています。アルゼンチンでは、教会と自由主義のミレイ大統領との対立が注目されています。フランス24は、女性殺害が深刻な中南米で、教皇が男性に妻を尊重するよう訴えたと伝えています。",
-   "sources": [
-    {
-     "outlet": "New York Times",
-     "url": "https://www.nytimes.com/2026/11/08/world/americas/pope-leo-argentina-milei.html",
-     "date": "2026-11-09",
-     "access": "excerpt",
-     "via": null,
-     "note": "In Argentina, Pope Leo to Meet Church at Odds With President Milei"
-    },
-    {
-     "outlet": "The Guardian",
-     "url": "https://www.theguardian.com/world/2026/nov/08/popes-visit-to-argentina-sets-up-showdown-with-hyper-capitalist-milei",
-     "date": "2026-11-09",
-     "access": "body",
-     "via": null,
-     "note": "Pope’s visit to Argentina sets up showdown with ‘hyper-capitalist’ Milei"
-    },
-    {
-     "outlet": "NPR",
-     "url": "https://www.npr.org/2026/11/08/nx-s1-6033992/after-a-successful-trip-to-uruguay-pope-leo-heads-to-argentina",
-     "date": "2026-11-09",
-     "access": "excerpt",
-     "via": null,
-     "note": "After a successful trip to Uruguay, Pope Leo heads to Argentina"
-    },
-    {
-     "outlet": "BBC",
-     "url": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
-     "date": "2026-11-09",
-     "access": "excerpt",
-     "via": null,
-     "note": "Pope in 'pretty good health' as he starts Latin America tour"
-    },
-    {
-     "outlet": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/pope-leo-xiv-delivers-homily-to-thousands-in-uruguay?traffic_source=rss",
-     "date": "2026-11-09",
-     "access": "headline",
-     "via": null,
-     "note": "Pope Leo XIV delivers homily to thousands in Uruguay"
-    },
-    {
-     "outlet": "France 24",
-     "url": "https://www.france24.com/en/americas/20261108-pope-leo-urges-husbands-to-respect-wives-amid-femicide-crisis-across-latin-america",
-     "date": "2026-11-09",
-     "access": "excerpt",
-     "via": null,
-     "note": "Pope Leo urges men to respect wives amid Latin American femicide crisis"
-    },
-    {
-     "outlet": "Euronews",
-     "url": "https://www.euronews.com/2026/11/08/pope-leo-xiv-ends-his-visit-to-uruguay-with-a-tribute-to-women-before-departing-to-argenti",
-     "date": "2026-11-09",
-     "access": "excerpt",
-     "via": null,
-     "note": "Pope Leo XIV ends his visit to Uruguay with a tribute to women before departing to Argentina"
+     "note": "France says Iran behind cyberattacks on supermarket fridges"
     },
     {
      "outlet": "South China Morning Post",
-     "url": "https://www.scmp.com/news/world/americas/article/3373717/pope-leo-leaves-uruguay-and-heads-most-fraught-stop-his-tour-mileis-argentina",
-     "date": "2026-11-09",
+     "url": "https://www.scmp.com/news/world/europe/article/3373845/french-officials-suspect-iran-behind-fridge-cyberattacks-sources-say",
+     "date": "2026-11-10",
      "access": "excerpt",
      "via": null,
-     "note": "Pope Leo leaves Uruguay and heads to most fraught stop of his tour in Milei’s Argentina"
+     "note": "French officials accuse Iran of being behind fridge cyberattacks"
     },
     {
      "outlet": "CBS News",
-     "url": "https://www.cbsnews.com/news/pope-leo-xiv-universal-healthcare-uruguay/",
-     "date": "2026-11-09",
+     "url": "https://www.cbsnews.com/news/france-iran-behind-refrigerator-freezer-hack-cyberattack/",
+     "date": "2026-11-10",
      "access": "excerpt",
      "via": null,
-     "note": "Pope Leo calls for universal healthcare weeks after lung cancer surgery"
-    },
-    {
-     "outlet": "The Straits Times",
-     "url": "https://www.straitstimes.com/world/europe/leos-trip-will-be-the-papal-visit-argentines-hoped-francis-would-make",
-     "date": "2026-11-09",
-     "access": "excerpt",
-     "via": null,
-     "note": "Leo's trip will be the papal visit Argentines hoped Francis would make"
+     "note": "France says Iran behind costly grocery store refrigeration hacks"
     },
     {
      "outlet": "Reuters",
      "url": null,
-     "date": "2026-11-09",
+     "date": "2026-11-10",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "Pope Leo arrives in Milei's Argentina as tensions loom over austerity, Iran - Reuters"
+     "note": "EXCLUSIVE: French officials blame Iran for refrigerator hacks, vow retaliation - Reuters"
     },
     {
      "outlet": "Associated Press",
      "url": null,
-     "date": "2026-11-09",
+     "date": "2026-11-10",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "With an ode to mate tea, pope urges faithful in Uruguay to build bridges of fraternity and faith - AP News"
+     "note": "France blames Iran for last month’s cyberattack on supermarket fridges - AP News"
     }
    ],
-   "continuity": null,
+   "continuity": {
+    "previousDate": "2026-11-03",
+    "previousScore": 41,
+    "note": "5日連続で報じられている"
+   },
    "coverage": {
-    "world": "12/18",
-    "jp": "0/6",
+    "world": "11/18",
+    "jp": "4/6",
     "worldTotal": 18,
     "jpTotal": 6,
-    "daysSeen": 1
+    "daysSeen": 5
    },
    "bodyAvailable": true,
    "discussionUrl": null,
    "summarizedBy": "claude-haiku-5-5"
   },
   {
-   "id": "intl-brief-2026-11-09-s-20261109-14",
+   "id": "intl-brief-2026-11-10-s-20261103-36",
    "stream": "intl",
    "depth": "brief",
    "section": "world",
-   "headline": "リヤドのアラムコ高層ビル損傷、フーシ派が攻撃主張",
-   "originalTitle": "Saudi Aramco Tower Damaged as Yemen’s Houthis Attack Riyadh",
+   "headline": "米露ウクライナ3者協議、アブダビで再開へ",
+   "originalTitle": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+   "outlet": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+   "region": "overseas",
+   "category": null,
+   "score": 26,
+   "tier": "interest",
+   "pubDate": "2026-11-10T00:43:13.808Z",
+   "body": null,
+   "summary": "米国、ロシア、ウクライナの代表団が、アブダビで3者協議を行う。2月以来の3者会談となる。米当局者は、両国が非公開では「わずかな柔軟性」を示していると述べた。争点はドネツク州で、ロシアはウクライナ側に残る地域の譲渡を求め、ウクライナは現在の接触線の凍結を求めている。停戦は協議の議題に入らないとの報道もある。欧州の当局者もロシア側の反対を押し切る形で参加する。",
+   "sources": [
+    {
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-10",
+     "access": "body",
+     "via": null,
+     "note": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say"
+    },
+    {
+     "outlet": "New York Times",
+     "url": "https://www.nytimes.com/2026/11/09/world/europe/ukraine-russia-peace-talks.html",
+     "date": "2026-11-10",
+     "access": "excerpt",
+     "via": null,
+     "note": "Ukraine Peace Talks Resume This Week in Abu Dhabi"
+    },
+    {
+     "outlet": "France 24",
+     "url": "https://www.france24.com/en/europe/20261109-what-to-expect-as-russia-ukraine-and-us-hold-trilateral-talks-in-abu-dhabi",
+     "date": "2026-11-10",
+     "access": "excerpt",
+     "via": null,
+     "note": "What to expect as Russia, Ukraine and the US hold trilateral talks in Abu Dhabi"
+    },
+    {
+     "outlet": "The Straits Times",
+     "url": "https://www.straitstimes.com/world/europe/russia-ukraine-to-meet-for-us-backed-talks-after-trump-says-broad-deal-possible",
+     "date": "2026-11-10",
+     "access": "excerpt",
+     "via": null,
+     "note": "Russia, Ukraine to meet for US-backed talks after Trump says broad deal possible"
+    },
+    {
+     "outlet": "Reuters",
+     "url": null,
+     "date": "2026-11-10",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Trump says US seeing 'strong inclination' to end Russia's war in Ukraine - Reuters"
+    },
+    {
+     "outlet": "Associated Press",
+     "url": null,
+     "date": "2026-11-10",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Trump envoys aim to persuade Russia to include Europe in negotiations on ending war with Ukraine - AP News"
+    },
+    {
+     "outlet": "Financial Times",
+     "url": null,
+     "date": "2026-11-10",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Europeans join Abu Dhabi talks in bid to thwart Russian security demands - Financial Times"
+    },
+    {
+     "outlet": "NPR",
+     "url": "https://www.npr.org/2026/11/08/nx-s1-6034014/europe-join-us-brokered-ukraine-talks-abu-dhabi-russia",
+     "date": "2026-11-10",
+     "access": "excerpt",
+     "via": null,
+     "note": "Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections"
+    }
+   ],
+   "continuity": {
+    "previousDate": "2026-11-03",
+    "previousScore": 26,
+    "note": "5日連続で報じられている"
+   },
+   "coverage": {
+    "world": "8/18",
+    "jp": "1/6",
+    "worldTotal": 18,
+    "jpTotal": 6,
+    "daysSeen": 5
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "claude-haiku-5-5"
+  },
+  {
+   "id": "intl-brief-2026-11-10-s-20261110-06",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "world",
+   "headline": "エヌビディアCEO、中国のスパイ疑惑で社内調査",
+   "originalTitle": "The Nvidia Affair",
    "outlet": "New York Times",
-   "url": "https://www.nytimes.com/2026/11/08/world/middleeast/saudi-aramco-tower-riyadh-hit.html",
+   "url": "https://www.nytimes.com/2026/11/09/world/nvidia-affair-jensen-huang-russell-brand.html",
+   "region": "overseas",
+   "category": null,
+   "score": 25,
+   "tier": "interest",
+   "pubDate": "2026-11-10T00:43:13.808Z",
+   "body": null,
+   "summary": "米半導体大手エヌビディアのフアンCEOは、中国のスパイの疑いがある女性との不倫を認めた上で、取締役会の調査を受けている。報道によると、米当局はこの女性を中国のために活動していたとみている。中国政府は関与の主張を否定している。ニューヨーク・タイムズは、AIチップを中国へ密輸する企業の不透明な実態に光が当たっていると報じた。",
+   "sources": [
+    {
+     "outlet": "New York Times",
+     "url": "https://www.nytimes.com/2026/11/09/world/nvidia-affair-jensen-huang-russell-brand.html",
+     "date": "2026-11-10",
+     "access": "excerpt",
+     "via": null,
+     "note": "The Nvidia Affair"
+    },
+    {
+     "outlet": "France 24",
+     "url": "https://www.france24.com/en/nvidia-s-huang-scandal-rattles-ai-industry-built-around-him",
+     "date": "2026-11-10",
+     "access": "excerpt",
+     "via": null,
+     "note": "Nvidia's Huang scandal rattles AI industry built around him"
+    },
+    {
+     "outlet": "Euronews",
+     "url": "https://www.euronews.com/video/2026/11/09/how-could-the-jensen-huang-spy-scandal-affect-nvidias-future",
+     "date": "2026-11-10",
+     "access": "excerpt",
+     "via": null,
+     "note": "How could the Jensen Huang 'spy' scandal affect Nvidia's future?"
+    },
+    {
+     "outlet": "South China Morning Post",
+     "url": "https://www.scmp.com/news/china/diplomacy/article/3373859/nvidia-scandal-may-test-fragile-us-china-truce-experts-say",
+     "date": "2026-11-10",
+     "access": "excerpt",
+     "via": null,
+     "note": "Nvidia scandal may test fragile US-China truce, experts say"
+    },
+    {
+     "outlet": "CBS News",
+     "url": "https://www.cbsnews.com/video/nvidia-ceo-jensen-huangs-affair-with-suspected-chinese-spy-rocks-tech-world/",
+     "date": "2026-11-10",
+     "access": "excerpt",
+     "via": null,
+     "note": "Nvidia CEO Jensen Huang&#039;s affair with suspected Chinese spy rocks tech world"
+    },
+    {
+     "outlet": "The Straits Times",
+     "url": "https://www.straitstimes.com/world/united-states/is-jensen-huang-too-powerful-to-be-punished-by-nvidia",
+     "date": "2026-11-10",
+     "access": "excerpt",
+     "via": null,
+     "note": "Is Jensen Huang too powerful to be punished by Nvidia?"
+    },
+    {
+     "outlet": "Reuters",
+     "url": null,
+     "date": "2026-11-10",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "'No ordinary CEO': Why the AI race cannot do without Nvidia's Jensen Huang - Reuters"
+    },
+    {
+     "outlet": "Bloomberg",
+     "url": null,
+     "date": "2026-11-10",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Huang Had His Head in the Clouds - Bloomberg.com"
+    },
+    {
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-10",
+     "access": "excerpt",
+     "via": null,
+     "note": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "9/18",
+    "jp": "1/6",
+    "worldTotal": 18,
+    "jpTotal": 6,
+    "daysSeen": 1
+   },
+   "bodyAvailable": false,
+   "discussionUrl": null,
+   "summarizedBy": "claude-haiku-5-5"
+  },
+  {
+   "id": "intl-brief-2026-11-10-s-20261106-29",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "world",
+   "headline": "共和党議員、ヘグセス国防長官の弾劾決議案を提出",
+   "originalTitle": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+   "outlet": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+   "region": "overseas",
+   "category": null,
+   "score": 23,
+   "tier": "interest",
+   "pubDate": "2026-11-10T00:43:13.808Z",
+   "body": null,
+   "summary": "共和党のマッシー下院議員は、イランでの軍事行動を議会の承認なく90日以上続けたとして、ヘグセス国防長官の弾劾決議案を提出した。下院はこの決議を48時間以内に採決、委員会付託、棚上げのいずれかに振り分ける。可決の見込みは低いとされる。BBCによると、狙いは民主党が弾劾を始める前に、トランプ大統領にヘグセス氏を交代させることにあるという。ヘグセス氏は弾劾の動きを「茶番」と呼んで反発している。",
+   "sources": [
+    {
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-10",
+     "access": "body",
+     "via": null,
+     "note": "Republican congressman to force impeachment vote on Defence Secretary Hegseth"
+    },
+    {
+     "outlet": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/9/us-congressman-files-resolution-to-impeach-defence-secretary-pete-hegseth?traffic_source=rss",
+     "date": "2026-11-10",
+     "access": "body",
+     "via": null,
+     "note": "US congressman files resolution to impeach Defence Secretary Pete Hegseth"
+    },
+    {
+     "outlet": "France 24",
+     "url": "https://www.france24.com/en/us-defense-secretary-hegseth-faces-expected-impeachment-vote-this-week",
+     "date": "2026-11-10",
+     "access": "excerpt",
+     "via": null,
+     "note": "US Defense Secretary Hegseth faces expected impeachment vote this week"
+    },
+    {
+     "outlet": "South China Morning Post",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3373848/hegseth-calls-iran-war-necessary-and-waves-noise-expected-impeachment-push",
+     "date": "2026-11-10",
+     "access": "excerpt",
+     "via": null,
+     "note": "Hegseth calls Iran war necessary and waves off expected impeachment push"
+    },
+    {
+     "outlet": "The Straits Times",
+     "url": "https://www.straitstimes.com/world/united-states/how-impeaching-us-defence-secretary-pete-hegseth-would-work",
+     "date": "2026-11-10",
+     "access": "excerpt",
+     "via": null,
+     "note": "How impeaching US Defence Secretary Pete Hegseth would work"
+    },
+    {
+     "outlet": "Reuters",
+     "url": null,
+     "date": "2026-11-10",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Pentagon chief Hegseth expected to face House impeachment vote this week - Reuters"
+    },
+    {
+     "outlet": "Bloomberg",
+     "url": null,
+     "date": "2026-11-10",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "How Impeaching Defense Secretary Pete Hegseth Would Work - Bloomberg.com"
+    },
+    {
+     "outlet": "The Guardian",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
+     "date": "2026-11-10",
+     "access": "excerpt",
+     "via": null,
+     "note": "Donald Trump doubles down on defense of Pete Hegseth and attacks fresh effort to impeach him – live"
+    }
+   ],
+   "continuity": {
+    "previousDate": "2026-11-06",
+    "previousScore": 23,
+    "note": "3日連続で報じられている"
+   },
+   "coverage": {
+    "world": "8/18",
+    "jp": "2/6",
+    "worldTotal": 18,
+    "jpTotal": 6,
+    "daysSeen": 3
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "claude-haiku-5-5"
+  },
+  {
+   "id": "intl-brief-2026-11-10-s-20261110-01",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "world",
+   "headline": "トランプ氏、エヌビディアCEOの件でFBIが捜査と発言",
+   "originalTitle": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+   "outlet": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
    "region": "overseas",
    "category": null,
    "score": 22,
    "tier": "interest",
-   "pubDate": "2026-11-08T21:08:25.459Z",
+   "pubDate": "2026-11-10T00:43:13.808Z",
    "body": null,
-   "summary": "サウジアラビアの首都リヤドで、石油大手アラムコの高層ビルが、イエメンのフーシ派が主張する攻撃を受けました。サウジ当局は、落下した破片が当たったと説明し、けが人はいないとしています。フランス24によると、複数階の窓ガラスが吹き飛んだといいます。フーシ派はイランと連携するとされます。ブルームバーグは、リヤドの金融拠点が狙われたまれな攻撃だと伝えています。",
+   "summary": "トランプ米大統領は、エヌビディアのフアンCEOが中国のスパイの疑いがある女性と関係していた問題について、FBIが捜査していると明らかにした。大統領は月曜にフアン氏と電話で話し、女性がスパイだとは知らなかったという説明を信じると述べた。FBIはコメントを控えた。中国外務省は、関与の主張を「全くの根拠がない」と否定した。エヌビディアの株価は一時約4%下落した。",
    "sources": [
     {
-     "outlet": "New York Times",
-     "url": "https://www.nytimes.com/2026/11/08/world/middleeast/saudi-aramco-tower-riyadh-hit.html",
-     "date": "2026-11-09",
-     "access": "excerpt",
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-10",
+     "access": "body",
      "via": null,
-     "note": "Saudi Aramco Tower Damaged as Yemen’s Houthis Attack Riyadh"
+     "note": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy"
     },
     {
-     "outlet": "France 24",
-     "url": "https://www.france24.com/en/middle-east/20261108-yemen-s-houthis-claim-attack-on-aramco-building-in-riyadh-s-financial-district",
-     "date": "2026-11-09",
+     "outlet": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-defends-nvidias-huang-after-calling-about-spy-scandal?traffic_source=rss",
+     "date": "2026-11-10",
      "access": "excerpt",
      "via": null,
-     "note": "Yemen's Houthis claim attack on Aramco skyscraper in Riyadh"
+     "note": "Trump defends Nvidia’s Huang after calling about spy scandal"
     },
     {
      "outlet": "South China Morning Post",
-     "url": "https://www.scmp.com/news/world/middle-east/article/3373700/saudi-aramco-building-riyadh-damaged-attempted-attack",
-     "date": "2026-11-09",
+     "url": "https://www.scmp.com/news/china/diplomacy/article/3373857/trump-backs-nvidias-huang-over-spy-allegations-says-xi-may-raise-case",
+     "date": "2026-11-10",
      "access": "excerpt",
      "via": null,
-     "note": "Houthi attack damages Aramco building in Riyadh’s financial district"
+     "note": "Trump backs Nvidia’s Huang over spy allegations, says Xi may raise case"
+    },
+    {
+     "outlet": "The Straits Times",
+     "url": "https://www.straitstimes.com/world/united-states/trump-says-nvidia-ceo-jensen-huang-told-him-he-did-not-know-the-woman-linked-to-him-was-a-spy",
+     "date": "2026-11-10",
+     "access": "excerpt",
+     "via": null,
+     "note": "Trump says Nvidia CEO Jensen Huang had ‘no idea’ lover was alleged Chinese spy"
     },
     {
      "outlet": "Reuters",
      "url": null,
-     "date": "2026-11-09",
+     "date": "2026-11-10",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "Houthi attack damages Aramco building in Riyadh's financial district - Reuters"
-    },
-    {
-     "outlet": "Associated Press",
-     "url": null,
-     "date": "2026-11-09",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Saudi Arabia intercepts missiles as Aramco building in Riyadh is damaged, and other Mideast news - AP News"
+     "note": "Trump says Nvidia CEO told him he did not know the woman linked to him was a spy - Reuters"
     },
     {
      "outlet": "Bloomberg",
      "url": null,
-     "date": "2026-11-09",
+     "date": "2026-11-10",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "Saudi Aramco Tower Targeted in Rare Strike on Riyadh Finance Hub - Bloomberg.com"
+     "note": "Trump Says FBI Investigating Huang Affair, Called Embattled CEO - Bloomberg.com"
     },
     {
      "outlet": "Financial Times",
      "url": null,
-     "date": "2026-11-09",
+     "date": "2026-11-10",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "Saudi Aramco office in Riyadh damaged in latest Houthi strikes - Financial Times"
+     "note": "Trump says FBI is ‘looking into’ Nvidia’s Jensen Huang - Financial Times"
     }
    ],
    "continuity": null,
@@ -495,207 +509,335 @@
     "jpTotal": 6,
     "daysSeen": 1
    },
-   "bodyAvailable": false,
+   "bodyAvailable": true,
    "discussionUrl": null,
    "summarizedBy": "claude-haiku-5-5"
   },
   {
-   "id": "intl-brief-2026-11-09-s-20261103-36",
+   "id": "intl-brief-2026-11-10-s-20261103-31",
    "stream": "intl",
    "depth": "brief",
    "section": "world",
-   "headline": "欧州もアブダビのウクライナ協議に参加へ 仏外相",
-   "originalTitle": "Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections",
-   "outlet": "NPR",
-   "url": "https://www.npr.org/2026/11/08/nx-s1-6034014/europe-join-us-brokered-ukraine-talks-abu-dhabi-russia",
+   "headline": "トランプ氏、イラン戦争は「事実上終わった」と発言",
+   "originalTitle": "'Positive momentum' towards end to Iran war, Trump says",
+   "outlet": "Sky News",
+   "url": "https://news.sky.com/story/positive-momentum-towards-end-to-iran-war-trump-says-13610128",
    "region": "overseas",
    "category": null,
-   "score": 17,
+   "score": 19,
    "tier": "interest",
-   "pubDate": "2026-11-08T21:08:25.459Z",
+   "pubDate": "2026-11-10T00:43:13.808Z",
    "body": null,
-   "summary": "フランスのバロ外相は、米国が仲介するロシアとウクライナの協議に、欧州も参加すると表明しました。協議はアブダビで11月10〜11日に予定されています。ロシアのペスコフ報道官は、欧州の役割を認めない姿勢を示していました。バロ氏は、誰が出席するか、交渉に直接加わるかは明らかにしていません。ゼレンスキー氏は合意の詳細を知らされていないと語ったと、NPRは伝えています。",
+   "summary": "トランプ米大統領は、カタール首相との会談後、イラン戦争は「事実上終わった」と述べた。和平に向けた「前向きな勢い」があり、攻撃の再開は「ほぼあり得ない」とした。ロイターの取材には、カタールとサウジアラビアが平和的な解決を望んでいると語り、必要なら軍事行動を再開する用意もあると述べた。原油価格は外交協議への期待から急落し、ウォール街も上昇したという。",
    "sources": [
     {
-     "outlet": "NPR",
-     "url": "https://www.npr.org/2026/11/08/nx-s1-6034014/europe-join-us-brokered-ukraine-talks-abu-dhabi-russia",
-     "date": "2026-11-09",
+     "outlet": "Sky News",
+     "url": "https://news.sky.com/story/positive-momentum-towards-end-to-iran-war-trump-says-13610128",
+     "date": "2026-11-10",
+     "access": "excerpt",
+     "via": null,
+     "note": "'Positive momentum' towards end to Iran war, Trump says"
+    },
+    {
+     "outlet": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-war-effectively-over-iran-demands-surrender?traffic_source=rss",
+     "date": "2026-11-10",
      "access": "body",
      "via": null,
-     "note": "Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections"
+     "note": "Iran war live: Trump says war ‘effectively over’, Iran demands ‘surrender’"
     },
     {
-     "outlet": "France 24",
-     "url": "https://www.france24.com/en/europe/20261108-europe-will-take-part-us-mediated-ukraine-peace-talks-abu-dhabi-french-fm-says",
-     "date": "2026-11-09",
+     "outlet": "CBS News",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-deal-negotiations/",
+     "date": "2026-11-10",
      "access": "excerpt",
      "via": null,
-     "note": "Europe will take part in US-mediated Ukraine talks in Abu Dhabi, French FM says"
-    },
-    {
-     "outlet": "Euronews",
-     "url": "https://www.euronews.com/2026/11/08/europeans-to-join-russia-ukraine-talks-in-abu-dhabi-says-french-fm-barrot",
-     "date": "2026-11-09",
-     "access": "excerpt",
-     "via": null,
-     "note": "Europeans to join Russia-Ukraine talks in Abu Dhabi, says French FM Barrot"
+     "note": "Trump says Iran war at \"status quo,\" warns U.S. \"locked and loaded\""
     },
     {
      "outlet": "The Straits Times",
-     "url": "https://www.straitstimes.com/world/europe/europeans-will-join-ukraine-talks-in-abu-dhabi-french-foreign-minister-says",
-     "date": "2026-11-09",
+     "url": "https://www.straitstimes.com/world/middle-east/trump-tells-reuters-that-qatar-saudi-arabia-want-peaceful-iran-deal-us-ready-for-strikes-if-needed",
+     "date": "2026-11-10",
      "access": "excerpt",
      "via": null,
-     "note": "Europeans will join Ukraine talks in Abu Dhabi, French foreign minister says"
+     "note": "Trump tells Reuters that Qatar, Saudi Arabia want peaceful Iran deal, US ready for strikes if needed"
     },
     {
-     "outlet": "Reuters",
+     "outlet": "Bloomberg",
      "url": null,
-     "date": "2026-11-09",
+     "date": "2026-11-10",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "Europeans will join Ukraine talks in Abu Dhabi, French foreign minister says - Reuters"
+     "note": "Trump Sees ‘Momentum’ Toward War’s End After Meeting Qatari PM - Bloomberg.com"
+    },
+    {
+     "outlet": "Financial Times",
+     "url": null,
+     "date": "2026-11-10",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Trump hails ‘positive momentum’ towards ending Iran war - Financial Times"
     }
    ],
    "continuity": {
     "previousDate": "2026-11-03",
-    "previousScore": 17,
-    "note": "4日連続で報じられている"
+    "previousScore": 19,
+    "note": "5日連続で報じられている"
    },
    "coverage": {
-    "world": "5/18",
-    "jp": "0/6",
+    "world": "6/18",
+    "jp": "1/6",
     "worldTotal": 18,
     "jpTotal": 6,
-    "daysSeen": 4
+    "daysSeen": 5
    },
    "bodyAvailable": true,
    "discussionUrl": null,
    "summarizedBy": "claude-haiku-5-5"
   },
   {
-   "id": "intl-brief-2026-11-09-s-20261109-18",
+   "id": "intl-brief-2026-11-10-s-20261109-19",
    "stream": "intl",
    "depth": "brief",
    "section": "world",
-   "headline": "ニュージーランド選挙、明確な勝者出ず",
-   "originalTitle": "No clear winner in New Zealand election, as leaders prepare for weeks of talks",
-   "outlet": "NPR",
-   "url": "https://www.npr.org/2026/11/08/nx-s1-6033999/no-clear-winner-in-new-zealand-election-as-leaders-prepare-for-weeks-of-talks",
+   "headline": "COP31、トルコで開幕 エネルギー危機の中で",
+   "originalTitle": "COP31 opens amid energy crisis as activists demand climate action",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/cop31-opens-amid-energy-crisis-as-activists-demand-climate-action?traffic_source=rss",
    "region": "overseas",
    "category": null,
-   "score": 17,
+   "score": 14,
    "tier": "interest",
-   "pubDate": "2026-11-08T21:08:25.459Z",
+   "pubDate": "2026-11-10T00:43:13.808Z",
    "body": null,
-   "summary": "ニュージーランドの総選挙では、右派と左派のどちらも明確な勝利を得られませんでした。ルクソン首相の国民党は議席数で最大の党になりました。ただし正式結果は11月27日発表で、政権の形は数週間先になる見通しです。新興政党「オポチュニティ」は7議席を獲得しました。どちらの陣営にも属さず、交渉の行方を左右する存在です。BBCは、政治への失望感から既存の主要政党を離れた有権者の動きを伝えています。",
+   "summary": "国連気候変動会議COP31がトルコ南部アンタルヤで開幕した。20日まで開かれ、排出削減や電化、メタン削減などが議題となる。イラン戦争でホルムズ海峡が事実上封鎖され、燃料や肥料の価格が上昇している。エネルギー安全保障と再生可能エネルギーへの投資を巡る議論が高まっている。国連のサイモン・スティール気候変動担当トップは、進展はまだ十分でも公平でもないと警告した。",
    "sources": [
     {
-     "outlet": "NPR",
-     "url": "https://www.npr.org/2026/11/08/nx-s1-6033999/no-clear-winner-in-new-zealand-election-as-leaders-prepare-for-weeks-of-talks",
-     "date": "2026-11-09",
-     "access": "body",
+     "outlet": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/cop31-opens-amid-energy-crisis-as-activists-demand-climate-action?traffic_source=rss",
+     "date": "2026-11-10",
+     "access": "excerpt",
      "via": null,
-     "note": "No clear winner in New Zealand election, as leaders prepare for weeks of talks"
+     "note": "COP31 opens amid energy crisis as activists demand climate action"
     },
     {
-     "outlet": "The Guardian",
-     "url": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count",
-     "date": "2026-11-09",
+     "outlet": "Euronews",
+     "url": "https://www.euronews.com/video/2026/11/09/turkey-delegates-arrive-in-antalya-as-cop31-climate-talks-begin",
+     "date": "2026-11-10",
      "access": "body",
      "via": null,
-     "note": "NZ election 2026: New Zealand faces weeks of uncertainty with results ‘too close to call’"
+     "note": "Turkey: Delegates arrive in Antalya as COP31 climate talks begin"
+    },
+    {
+     "outlet": "South China Morning Post",
+     "url": "https://www.scmp.com/news/world/americas/article/3373847/brazils-lula-heads-cop31-first-trip-re-election",
+     "date": "2026-11-10",
+     "access": "excerpt",
+     "via": null,
+     "note": "Brazil’s Lula heads to Cop31 on first trip since re-election"
+    },
+    {
+     "outlet": "Associated Press",
+     "url": null,
+     "date": "2026-11-10",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "UN climate summit kicks off in Turkey after a disastrous year of extreme weather - AP News"
+    },
+    {
+     "outlet": "New York Times",
+     "url": "https://www.nytimes.com/2026/11/08/climate/what-is-cop31-climate.html",
+     "date": "2026-11-10",
+     "access": "excerpt",
+     "via": null,
+     "note": "A Guide to COP31 Climate Talks in Antalya, Turkey"
+    }
+   ],
+   "continuity": {
+    "previousDate": "2026-11-09",
+    "previousScore": 14,
+    "note": "2日連続で報じられている"
+   },
+   "coverage": {
+    "world": "5/18",
+    "jp": "0/6",
+    "worldTotal": 18,
+    "jpTotal": 6,
+    "daysSeen": 2
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "claude-haiku-5-5"
+  },
+  {
+   "id": "intl-brief-2026-11-10-s-20261109-22",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "world",
+   "headline": "セネガル沖の移民船沈没、死者39人に増加",
+   "originalTitle": "Shipwreck Off Senegal Kills Dozens as Canary Islands Declare Migrant Emergency",
+   "outlet": "New York Times",
+   "url": "https://www.nytimes.com/2026/11/09/world/africa/senegal-migrant-boat-capsize-europe.html",
+   "region": "overseas",
+   "category": null,
+   "score": 12,
+   "tier": "interest",
+   "pubDate": "2026-11-10T00:43:13.808Z",
+   "body": null,
+   "summary": "セネガル沖で沈没した移民船の死者は39人に増えた。スペイン領カナリア諸島を目指していた。捜索は25キロの海岸線で続いている。身元が確認された24人の遺体は遺族に引き渡されたが、11人は確認待ちという。回収された遺体は、日曜夜までに全てセネガル人だったと支援団体の創設者が語った。ファイ大統領は、移民船を組織する網の摘発を強化すると表明した。",
+   "sources": [
+    {
+     "outlet": "New York Times",
+     "url": "https://www.nytimes.com/2026/11/09/world/africa/senegal-migrant-boat-capsize-europe.html",
+     "date": "2026-11-10",
+     "access": "excerpt",
+     "via": null,
+     "note": "Shipwreck Off Senegal Kills Dozens as Canary Islands Declare Migrant Emergency"
     },
     {
      "outlet": "BBC",
-     "url": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
-     "date": "2026-11-09",
+     "url": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-10",
+     "access": "body",
+     "via": null,
+     "note": "At least 39 die after Europe-bound migrant boat sinks off Senegal"
+    },
+    {
+     "outlet": "Associated Press",
+     "url": null,
+     "date": "2026-11-10",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Death toll rises to 39 after migrant boat capsizes off Senegal - AP News"
+    }
+   ],
+   "continuity": {
+    "previousDate": "2026-11-09",
+    "previousScore": 14,
+    "note": "2日連続で報じられている"
+   },
+   "coverage": {
+    "world": "3/18",
+    "jp": "0/6",
+    "worldTotal": 18,
+    "jpTotal": 6,
+    "daysSeen": 2
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "claude-haiku-5-5"
+  },
+  {
+   "id": "intl-brief-2026-11-10-s-20261109-16",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "world",
+   "headline": "教皇、アルゼンチンでミレイ政権の緊縮策に苦言",
+   "originalTitle": "Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit",
+   "outlet": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity",
+   "region": "overseas",
+   "category": null,
+   "score": 12,
+   "tier": "interest",
+   "pubDate": "2026-11-10T00:43:13.808Z",
+   "body": null,
+   "summary": "ローマ教皇レオ14世は、アルゼンチンのブエノスアイレスで、経済は人々に仕えるべきだと演説した。ミレイ大統領の緊縮策に事実上の苦言を呈した形だ。障害者や年金受給者など、困難を抱える人々への配慮を求めた。政府による障害者支援の削減をめぐる遠回しの批判とも報じられている。教皇は71歳で、3週間前に肺がんの手術を受けた。アルゼンチン訪問は約40年ぶりとなる。",
+   "sources": [
+    {
+     "outlet": "The Guardian",
+     "url": "https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity",
+     "date": "2026-11-10",
+     "access": "body",
+     "via": null,
+     "note": "Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit"
+    },
+    {
+     "outlet": "New York Times",
+     "url": "https://www.nytimes.com/2026/11/08/world/americas/pope-leo-argentina-milei.html",
+     "date": "2026-11-10",
      "access": "excerpt",
      "via": null,
-     "note": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years"
+     "note": "In Argentina, Pope Leo Tells President Milei Economy Must Serve the Needy"
+    },
+    {
+     "outlet": "Euronews",
+     "url": "https://www.euronews.com/2026/11/09/argentina-pope-leo-xiv-urges-mileis-government-to-protect-the-most-vulnerable",
+     "date": "2026-11-10",
+     "access": "excerpt",
+     "via": null,
+     "note": "Argentina: Pope Leo XIV urges Milei's government to protect the most vulnerable"
+    }
+   ],
+   "continuity": {
+    "previousDate": "2026-11-09",
+    "previousScore": 42,
+    "note": "2日連続で報じられている"
+   },
+   "coverage": {
+    "world": "3/18",
+    "jp": "0/6",
+    "worldTotal": 18,
+    "jpTotal": 6,
+    "daysSeen": 2
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "claude-haiku-5-5"
+  },
+  {
+   "id": "intl-brief-2026-11-10-s-20261110-15",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "world",
+   "headline": "五輪金メダリストのリネール氏、仏大統領選に出馬表明",
+   "originalTitle": "‘I know what it’s like to fight’- France’s most popular sportsman says he’s running for president",
+   "outlet": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/09/judo-star-teddy-riner-plan-france-presidential-election",
+   "region": "overseas",
+   "category": null,
+   "score": 12,
+   "tier": "interest",
+   "pubDate": "2026-11-10T00:43:13.808Z",
+   "body": null,
+   "summary": "五輪柔道で5度の金メダルを獲得したテディ・リネール氏が、来年の仏大統領選への出馬を表明した。右派にも左派にも属さず、人々を結びつけたいと語った。ただ、政治経験や政党の支持はなく、アナリストは大穴とみている。世論調査では、極右・国民連合のマリーヌ・ルペン氏が先頭に立つ可能性が指摘されている。マクロン大統領は、リネール氏の出馬を歓迎した。",
+   "sources": [
+    {
+     "outlet": "The Guardian",
+     "url": "https://www.theguardian.com/world/2026/nov/09/judo-star-teddy-riner-plan-france-presidential-election",
+     "date": "2026-11-10",
+     "access": "body",
+     "via": null,
+     "note": "‘I know what it’s like to fight’- France’s most popular sportsman says he’s running for president"
     },
     {
      "outlet": "France 24",
-     "url": "https://www.france24.com/en/asia-pacific/20261108-new-zealand-election-produces-no-clear-winner-as-smaller-parties-make-record-gains",
-     "date": "2026-11-09",
+     "url": "https://www.france24.com/en/french-judo-superstar-teddy-riner-says-will-run-for-president",
+     "date": "2026-11-10",
      "access": "excerpt",
      "via": null,
-     "note": "New Zealand's knife-edge parliamentary election delivers no clear winner"
+     "note": "French Judo superstar Teddy Riner says will run for president"
+    },
+    {
+     "outlet": "South China Morning Post",
+     "url": "https://www.scmp.com/news/world/europe/article/3373852/frances-macron-welcomes-judo-star-teddy-riners-entrance-2027-presidential-race",
+     "date": "2026-11-10",
+     "access": "excerpt",
+     "via": null,
+     "note": "France’s Macron welcomes judo star Teddy Riner’s entrance into the 2027 presidential race"
+    },
+    {
+     "outlet": "The Straits Times",
+     "url": "https://www.straitstimes.com/world/europe/frances-macron-welcomes-judo-star-teddy-riners-entrance-in-2027-presidential-race",
+     "date": "2026-11-10",
+     "access": "excerpt",
+     "via": null,
+     "note": "France's Macron welcomes judo star Teddy Riner's entrance in 2027 presidential race"
     }
    ],
    "continuity": null,
    "coverage": {
     "world": "4/18",
-    "jp": "0/6",
-    "worldTotal": 18,
-    "jpTotal": 6,
-    "daysSeen": 1
-   },
-   "bodyAvailable": true,
-   "discussionUrl": null,
-   "summarizedBy": "claude-haiku-5-5"
-  },
-  {
-   "id": "intl-brief-2026-11-09-s-20261109-03",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "world",
-   "headline": "トランプ氏、UFCのホワイト氏に報道官就任を打診",
-   "originalTitle": "Donald Trump wants UFC fighters as assistants",
-   "outlet": "France 24",
-   "url": "https://www.france24.com/en/donald-trump-wants-ufc-fighters-as-assistants",
-   "region": "overseas",
-   "category": null,
-   "score": 14,
-   "tier": "interest",
-   "pubDate": "2026-11-08T21:08:25.459Z",
-   "body": null,
-   "summary": "トランプ米大統領は土曜、UFCのトップ、ダナ・ホワイト氏にホワイトハウス報道官の職を提示したと発表しました。ホワイト氏は、月曜にトランプ氏と会うとしています。報道官の職は、前任のケイティ・ザカリア氏が就任から5日足らずで辞任し、空席になっていました。ホワイト氏は自身のインスタグラムに「次の章へ」と投稿したと報じられています。",
-   "sources": [
-    {
-     "outlet": "France 24",
-     "url": "https://www.france24.com/en/donald-trump-wants-ufc-fighters-as-assistants",
-     "date": "2026-11-09",
-     "access": "excerpt",
-     "via": null,
-     "note": "Donald Trump wants UFC fighters as assistants"
-    },
-    {
-     "outlet": "Euronews",
-     "url": "https://www.euronews.com/2026/11/08/trump-offers-ufc-boss-press-secretary-role-dana-please-take-the-job",
-     "date": "2026-11-09",
-     "access": "body",
-     "via": null,
-     "note": "Trump offers UFC boss White House press secretary role: 'Dana, please take the job!'"
-    },
-    {
-     "outlet": "Associated Press",
-     "url": null,
-     "date": "2026-11-09",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "UFC's Dana White says he will meet with Trump Monday over offer to be White House press secretary - AP News"
-    },
-    {
-     "outlet": "Bloomberg",
-     "url": null,
-     "date": "2026-11-09",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Trump Asks UFC’s Dana White to Be His Next Press Secretary - Bloomberg.com"
-    },
-    {
-     "outlet": "Sky News",
-     "url": "https://news.sky.com/story/trump-asks-ufc-boss-dana-white-to-become-white-house-press-secretary-13609613",
-     "date": "2026-11-09",
-     "access": "excerpt",
-     "via": null,
-     "note": "Trump asks UFC boss Dana White to be his new press secretary"
-    }
-   ],
-   "continuity": null,
-   "coverage": {
-    "world": "5/18",
     "jp": "2/6",
     "worldTotal": 18,
     "jpTotal": 6,
@@ -706,128 +848,50 @@
    "summarizedBy": "claude-haiku-5-5"
   },
   {
-   "id": "intl-brief-2026-11-09-s-20261109-12",
+   "id": "intl-brief-2026-11-10-s-20261110-26",
    "stream": "intl",
    "depth": "brief",
-   "section": "world",
-   "headline": "エヌビディア、CEOのスパイ報道で調査へ",
-   "originalTitle": "Tech giant Nvidia launches investigation after reports CEO was targeted by Chinese intelligence",
-   "outlet": "Sky News",
-   "url": "https://news.sky.com/story/tech-giant-nvidia-launches-investigation-after-reports-ceo-was-targeted-by-chinese-intelligence-13609986",
+   "section": "gap",
+   "headline": "南ア警察、露・ウクライナ戦争参加目的の9人逮捕",
+   "originalTitle": "Nine Zimbabweans caught allegedly trying to leave South Africa to fight in Ukraine",
+   "outlet": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss",
    "region": "overseas",
    "category": null,
-   "score": 14,
+   "score": 10,
    "tier": "interest",
-   "pubDate": "2026-11-08T21:08:25.459Z",
+   "pubDate": "2026-11-10T00:43:13.808Z",
    "body": null,
-   "summary": "エヌビディアは、ファンCEOが外国の情報機関の標的になったとの報道について、調査を始めると発表しました。フィナンシャル・タイムズは、ファン氏が不倫関係を認めたと伝えています。中国のスパイとされる人物との関係が疑われたことを受けた対応です。ブルームバーグは、取締役会がこの問題を調べると伝えています。ロイターも、外国情報機関の標的になったとの報道を受けた調査だと伝えています。",
+   "summary": "南アフリカ警察は、ロシアとウクライナの戦争に参加する目的で出国しようとした外国人9人を逮捕した。BBCによると、いずれもジンバブエ国籍で、20〜26歳とされる。日曜夜、ヨハネスブルクの空港とホテルで拘束された。インターポールも協力した。容疑は、政府の許可なく傭兵行為を禁じる法律違反とされる。参加先がロシアかウクライナかは明らかになっていない。",
    "sources": [
     {
-     "outlet": "Sky News",
-     "url": "https://news.sky.com/story/tech-giant-nvidia-launches-investigation-after-reports-ceo-was-targeted-by-chinese-intelligence-13609986",
-     "date": "2026-11-09",
-     "access": "excerpt",
-     "via": null,
-     "note": "Tech giant Nvidia launches investigation after reports CEO was targeted by Chinese intelligence"
-    },
-    {
-     "outlet": "Reuters",
-     "url": null,
-     "date": "2026-11-09",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Nvidia opens probe after report that CEO Huang was target of foreign intelligence - Reuters"
-    },
-    {
-     "outlet": "Bloomberg",
-     "url": null,
-     "date": "2026-11-09",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Nvidia Board to Probe Spying Case After CEO Admits Affair - Bloomberg.com"
-    },
-    {
-     "outlet": "Financial Times",
-     "url": null,
-     "date": "2026-11-09",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Nvidia’s Jensen Huang admits to affair after allegations of relationship with Chinese spy - Financial Times"
-    }
-   ],
-   "continuity": null,
-   "coverage": {
-    "world": "4/18",
-    "jp": "1/6",
-    "worldTotal": 18,
-    "jpTotal": 6,
-    "daysSeen": 1
-   },
-   "bodyAvailable": false,
-   "discussionUrl": null,
-   "summarizedBy": "claude-haiku-5-5"
-  },
-  {
-   "id": "intl-brief-2026-11-09-s-20261109-22",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "world",
-   "headline": "セネガル沖で移民船沈没、少なくとも21人死亡",
-   "originalTitle": "Migrant boat sinks off Senegal, killing at least 34 people, authorities say",
-   "outlet": "France 24",
-   "url": "https://www.france24.com/en/africa/20261108-migrant-boat-sinks-off-senegal-killing-at-least-34-people-authorities-say",
-   "region": "overseas",
-   "category": null,
-   "score": 14,
-   "tier": "interest",
-   "pubDate": "2026-11-08T21:08:25.459Z",
-   "body": null,
-   "summary": "セネガル内務省は日曜、移民らを乗せた船が沈み、少なくとも21人が死亡したと発表しました。船はケベメール沖で問題が生じ、捜索救助が続いています。生存者は1人が見つかっています。フランス24は死者を少なくとも34人と報じており、数字は媒体で異なります。国際移住機関（IOM）は、大西洋ルートが欧州を目指す西アフリカ移民の主要な経路だと指摘しています。",
-   "sources": [
-    {
-     "outlet": "France 24",
-     "url": "https://www.france24.com/en/africa/20261108-migrant-boat-sinks-off-senegal-killing-at-least-34-people-authorities-say",
-     "date": "2026-11-09",
-     "access": "excerpt",
-     "via": null,
-     "note": "Migrant boat sinks off Senegal, killing at least 34 people, authorities say"
-    },
-    {
-     "outlet": "Euronews",
-     "url": "https://www.euronews.com/2026/11/08/at-least-21-dead-after-migrant-boat-capsizes-off-senegal-authorities-say",
-     "date": "2026-11-09",
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-10",
      "access": "body",
      "via": null,
-     "note": "At least 21 dead after migrant boat capsizes off Senegal, authorities say"
+     "note": "Nine Zimbabweans caught allegedly trying to leave South Africa to fight in Ukraine"
     },
     {
-     "outlet": "The Straits Times",
-     "url": "https://www.straitstimes.com/world/europe/at-least-21-dead-after-migrant-boat-sinks-off-senegal-coast-government-says",
-     "date": "2026-11-09",
-     "access": "excerpt",
+     "outlet": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/9/south-africa-detains-foreigners-suspected-of-heading-to-join-russian-forces?traffic_source=rss",
+     "date": "2026-11-10",
+     "access": "body",
      "via": null,
-     "note": "At least 21 dead after migrant boat sinks off Senegal coast, government says"
-    },
-    {
-     "outlet": "Reuters",
-     "url": null,
-     "date": "2026-11-09",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "At least 21 dead after migrant boat sinks off Senegal coast, government says - Reuters"
+     "note": "South Africa detains foreigners suspected of heading to join Russian forces"
     },
     {
      "outlet": "Associated Press",
      "url": null,
-     "date": "2026-11-09",
+     "date": "2026-11-10",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "At least 21 dead after boat carrying migrants sinks off Senegal coast, interior ministry says - AP News"
+     "note": "South African police arrest 9 foreigners for trying to join Russia-Ukraine war - AP News"
     }
    ],
    "continuity": null,
    "coverage": {
-    "world": "5/18",
+    "world": "3/18",
     "jp": "0/6",
     "worldTotal": 18,
     "jpTotal": 6,
@@ -838,50 +902,208 @@
    "summarizedBy": "claude-haiku-5-5"
   },
   {
-   "id": "intl-brief-2026-11-09-s-20261109-15",
+   "id": "intl-brief-2026-11-10-s-20261109-15",
    "stream": "intl",
    "depth": "brief",
-   "section": "world",
-   "headline": "サウジ空爆で33人死亡、フーシ派系メディアが報道",
-   "originalTitle": "Houthis say at least 33 killed in Saudi air strike",
-   "outlet": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+   "section": "gap",
+   "headline": "イエメン政府軍、フーシ派の陣地制圧を発表",
+   "originalTitle": "Saudi Aramco Tower Damaged as Yemen’s Houthis Attack Riyadh",
+   "outlet": "New York Times",
+   "url": "https://www.nytimes.com/2026/11/08/world/middleeast/saudi-aramco-tower-riyadh-hit.html",
    "region": "overseas",
    "category": null,
-   "score": 12,
+   "score": 9,
    "tier": "interest",
-   "pubDate": "2026-11-08T21:08:25.459Z",
+   "pubDate": "2026-11-10T00:43:13.808Z",
    "body": null,
-   "summary": "イエメンのフーシ派系メディアは、サウジアラビアの空爆で女性や子どもを含む少なくとも33人が死亡したと伝えました。舞台は首都サナアの東にある町シャリヤとされ、救助隊が瓦礫から遺体を運び出す映像が流れました。サウジ主導の連合は、この件へのコメントを出していません。ニューヨーク・タイムズは、50人以上が死亡した、戦闘が始まって以来の激しい24時間だったと伝えています。",
+   "summary": "イエメン政府軍は、南部ラハジ県でフーシ派が支配していた陣地を制圧したと発表した。北部ジャウフ県でも数日間前進しているという。フーシ派は、タイズ市を包囲して攻撃を続けているとされる。政府軍は、過去数時間で約1000回の攻撃を行い、フーシ派の戦闘員120人以上を死傷させたと主張している。独立した確認は取れていない。一方、フーシ派は首都サヌアへの空爆で死者が44人に増えたと発表した。",
    "sources": [
     {
-     "outlet": "BBC",
-     "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-     "date": "2026-11-09",
+     "outlet": "New York Times",
+     "url": "https://www.nytimes.com/2026/11/08/world/middleeast/saudi-aramco-tower-riyadh-hit.html",
+     "date": "2026-11-10",
+     "access": "excerpt",
+     "via": null,
+     "note": "Saudi Aramco Tower Damaged as Yemen’s Houthis Attack Riyadh"
+    },
+    {
+     "outlet": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/9/yemen-government-forces-claim-new-advances-as-houthi-border-attacks-resume?traffic_source=rss",
+     "date": "2026-11-10",
      "access": "body",
      "via": null,
-     "note": "Houthis say at least 33 killed in Saudi air strike"
+     "note": "Yemen government forces claim new advances as Houthi border attacks resume"
     },
     {
-     "outlet": "New York Times",
-     "url": "https://www.nytimes.com/2026/11/07/world/middleeast/more-than-50-killed-in-yemen.html",
-     "date": "2026-11-09",
+     "outlet": "South China Morning Post",
+     "url": "https://www.scmp.com/news/world/middle-east/article/3373850/houthi-rebels-say-least-44-people-killed-air-strike-near-yemeni-capital",
+     "date": "2026-11-10",
      "access": "excerpt",
      "via": null,
-     "note": "More Than 50 Killed in Yemen in One of the Deadliest 24 Hours of the War"
+     "note": "At least 44 people killed in air strike near Yemeni capital, Houthi rebels say"
+    }
+   ],
+   "continuity": {
+    "previousDate": "2026-11-09",
+    "previousScore": 12,
+    "note": "2日連続で報じられている"
+   },
+   "coverage": {
+    "world": "3/18",
+    "jp": "0/6",
+    "worldTotal": 18,
+    "jpTotal": 6,
+    "daysSeen": 2
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "claude-haiku-5-5"
+  },
+  {
+   "id": "intl-brief-2026-11-10-s-20261110-14",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "gap",
+   "headline": "サウジ東西パイプラインに再び攻撃、国営メディア",
+   "originalTitle": "Saudi Arabia reports new attack on key East-West pipeline",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/9/saudi-arabia-reports-new-attack-on-key-east-west-pipeline?traffic_source=rss",
+   "region": "overseas",
+   "category": null,
+   "score": 8,
+   "tier": "interest",
+   "pubDate": "2026-11-10T00:43:13.808Z",
+   "body": null,
+   "summary": "サウジアラビアの東西石油パイプラインが再び攻撃を受けたと、国営メディアが報じた。エネルギー省の当局者によると、月曜にメディナ地域で攻撃があり、限定的な火災が起きたが消し止められた。死傷者はなく、操業への影響もなかったという。攻撃の主体は明らかにされていない。このパイプラインは、ホルムズ海峡を迂回する重要な経路とされる。9月にはドローン攻撃で数日間停止していた。",
+   "sources": [
+    {
+     "outlet": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/9/saudi-arabia-reports-new-attack-on-key-east-west-pipeline?traffic_source=rss",
+     "date": "2026-11-10",
+     "access": "body",
+     "via": null,
+     "note": "Saudi Arabia reports new attack on key East-West pipeline"
     },
     {
-     "outlet": "Associated Press",
+     "outlet": "Reuters",
      "url": null,
-     "date": "2026-11-09",
+     "date": "2026-11-10",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "Saudi Arabia turns to Syria for help as fighting with Houthis escalates - AP News"
+     "note": "Saudi East-West oil pipeline hit in Medina region, state media reports - Reuters"
+    },
+    {
+     "outlet": "Financial Times",
+     "url": null,
+     "date": "2026-11-10",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Saudi Arabia’s vital East-West pipeline struck in attack - Financial Times"
     }
    ],
    "continuity": null,
    "coverage": {
     "world": "3/18",
+    "jp": "0/6",
+    "worldTotal": 18,
+    "jpTotal": 6,
+    "daysSeen": 1
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "claude-haiku-5-5"
+  },
+  {
+   "id": "intl-brief-2026-11-10-s-20261110-03",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "gap",
+   "headline": "エヌビディアとフアンCEO、株主から集団訴訟",
+   "originalTitle": "Nvidia, CEO Jensen Huang sued over disclosures related to suspected Chinese spy",
+   "outlet": "The Straits Times",
+   "url": "https://www.straitstimes.com/world/united-states/nvidia-ceo-jensen-huang-sued-over-disclosures-related-to-suspected-chinese-spy",
+   "region": "overseas",
+   "category": null,
+   "score": 8,
+   "tier": "interest",
+   "pubDate": "2026-11-10T00:43:13.808Z",
+   "body": null,
+   "summary": "エヌビディアとフアンCEOは、CEOと中国のスパイの疑いがある女性との関係を隠し、株主を欺いたとして集団訴訟を起こされた。訴えは9日、カリフォルニア州の連邦裁判所に提起された。原告は、国家安全保障上の懸念が同社の評判や事業見通しを脅かす点を開示しなかったと主張している。損害賠償の額は示されていない。エヌビディアはコメントを直ちには出していない。",
+   "sources": [
+    {
+     "outlet": "The Straits Times",
+     "url": "https://www.straitstimes.com/world/united-states/nvidia-ceo-jensen-huang-sued-over-disclosures-related-to-suspected-chinese-spy",
+     "date": "2026-11-10",
+     "access": "body",
+     "via": null,
+     "note": "Nvidia, CEO Jensen Huang sued over disclosures related to suspected Chinese spy"
+    },
+    {
+     "outlet": "Reuters",
+     "url": null,
+     "date": "2026-11-10",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Nvidia, CEO Huang sued over disclosures related to suspected Chinese spy - Reuters"
+    },
+    {
+     "outlet": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-10/nvidia-share-price-falls-ceo-jensen-huang-investigated/107366868",
+     "date": "2026-11-10",
+     "access": "body",
+     "via": null,
+     "note": "Nvidia CEO Huang sued by shareholders over ties with suspected Chinese spy"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "3/18",
+    "jp": "0/6",
+    "worldTotal": 18,
+    "jpTotal": 6,
+    "daysSeen": 1
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "claude-haiku-5-5"
+  },
+  {
+   "id": "intl-brief-2026-11-10-s-20261110-08",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "gap",
+   "headline": "クレタ島沖で移民船沈没、13人死亡",
+   "originalTitle": "At least 14 dead after boat carrying migrants found near Crete",
+   "outlet": "Sky News",
+   "url": "https://news.sky.com/story/at-least-14-dead-after-boat-carrying-migrants-found-near-crete-13610083",
+   "region": "overseas",
+   "category": null,
+   "score": 8,
+   "tier": "interest",
+   "pubDate": "2026-11-10T00:43:13.808Z",
+   "body": null,
+   "summary": "ギリシャのクレタ島沖で移民を乗せた船が沈没し、少なくとも13人が死亡した。沿岸警備隊は、スーダン国籍の18人を救助した。救助者のうち4人が病院に搬送され、幼児も含まれる。船は数日間海上にあり、強風で岸にたどり着けなかったとみられる。ギリシャには今年、3万7000人超の移民が到着し、2025年の年間総数を既に上回ったという。",
+   "sources": [
+    {
+     "outlet": "Sky News",
+     "url": "https://news.sky.com/story/at-least-14-dead-after-boat-carrying-migrants-found-near-crete-13610083",
+     "date": "2026-11-10",
+     "access": "excerpt",
+     "via": null,
+     "note": "At least 14 dead after boat carrying migrants found near Crete"
+    },
+    {
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/c65ynyxrjdyeo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-10",
+     "access": "body",
+     "via": null,
+     "note": "Thirteen migrants die after boat sinks off Crete"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "2/18",
     "jp": "0/6",
     "worldTotal": 18,
     "jpTotal": 6,
