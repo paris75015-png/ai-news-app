@@ -1,278 +1,323 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "stream": "intl",
   "title": "国際深掘り",
-  "generatedAt": "2026-11-10T22:29:22.424Z",
+  "generatedAt": "2026-11-11T23:36:14.155Z",
   "model": "claude-sonnet-5-5",
   "editorialVersion": 3,
   "articles": [
     {
-      "id": "intl-2026-11-11-s-20261110-01",
+      "id": "intl-2026-11-12-s-20261110-06",
       "stream": "intl",
       "depth": "deep",
       "section": "followup",
-      "headline": "NvidiaのCEO問題、FBI捜査と米中関係への波及",
-      "originalTitle": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
+      "headline": "エヌビディアCEO、不倫相手に中国スパイ疑惑",
+      "originalTitle": "CEO不倫問題、AI業界と米中関係への影響を分析",
       "outlet": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
       "region": "overseas",
       "category": null,
-      "score": 21,
+      "score": 17,
       "tier": "interest",
-      "pubDate": "2026-11-11T00:00:00+09:00",
+      "pubDate": "2026-11-12T07:00:00+09:00",
       "body": [
         {
           "label": "経過",
-          "text": "きっかけは、ニューヨーク・タイムズの報道である。エヌビディアのJensen Huang最高経営責任者（CEO）に、ある女性との親密な関係があったという内容だった。女性は、中国の情報機関のために動いていた疑いを持たれている。CEOは週末に不倫を認めた。11月8日には従業員にメッセージを送り、家族と社員に謝罪している。\n\n女性はAlice Huang氏で、シンガポール企業メガスピードの幹部とされる。同社はエヌビディアの顧客である。Alice Huang氏はCEOの親族ではない。取締役会は日曜に調査の実施を発表した。10日（火）には、法律事務所Wachtell, Lipton, Rosen & Katzの起用を明らかにした。調査を率いるのは、元連邦検事のJoon Kim氏である。\n\n9日にはトランプ大統領が記者団に語った。CEOから「スパイだとは知らなかった」と聞いた、という。FBIが調べているとも述べた。世界の注目度は、初日の22から2日目の21へ、ほぼ横ばいで推移している。"
+          "text": "エヌビディアのジェンスン・フアンCEOは11月8日、妻への不貞を認めた。相手は、米当局が中国のスパイと特定したとされるアリス・フアン氏である。ニューヨーク・タイムズは10月、同氏が中国の国家安全部に勧誘されたと米当局が結論づけたと報じていた。同氏は、数十億ドル分の同社チップを買ったシンガポールのメガスピード社の元幹部とされる。\n\n同社の取締役会は調査を始めた。同社は、国家安全保障や企業秘密が損なわれたと考える理由はないと説明している。中国外務省の郭嘉昆報道官は、疑惑を「中国への中傷にすぎない」と述べた。世界の注目度は、初日の10日に25、12日に17だった。"
         },
         {
           "label": "各社の見え方",
-          "text": "読めた範囲を先に断る。本文を読めたのは3つである。BBC、South China Morning Post（SCMP）、Straits Timesが載せたAFP電だ。CBSは動画の紹介文だけだった。Sky NewsとAl Jazeeraはフィードの要約文だけを読めた。\n\nBBCは、社内調査と市場への影響を軸に据えた。取締役会は、独立取締役の委員会が調査を監督するとしている。同社は、企業秘密や国家安全保障が損なわれたと考える理由はないと説明した。BBCは株価にも触れた。金曜からの時価総額の減少は5,000億ドルを超え、株価は1年近い安値に落ちたという。\n\nBBCは経緯も詳しく書いた。メガスピードは、半導体を中国へ迂回させたと疑われていた。エヌビディアは、調査して疑いは晴れたとしている。ニューヨーク・タイムズによれば、ルビオ国務長官は春に警告の覚書を送っていた。下院外交委員会の幹部は、CEOに非公開の説明を求めたという。\n\nSCMPは、米中関係への波及を軸にした。登場するのは中国の識者である。南京大学のZhu Feng氏は、調査の過程そのものが反中の波を生むと述べた。「もう一つの気球事件になる」とも語っている。復旦大学のXin Qiang氏は、関係を壊すまでにはならないとみる。清華大学のSun Chenghao氏は、中国政府の関与を示す公開の証拠はないと指摘した。\n\nSCMPは人種の問いも載せた。北京大学のRao Yi氏は、メディア王マードック氏の例と比べ、華人だから安全保障の問題にされると投稿した。ゲイツ氏やベゾス氏の件は「タブロイド紙の種」にとどまった、とSCMPは対比している。読めた範囲に、株価や社内調査の細部は出てこない。\n\nStraits Timesが載せたAFP電は、トランプ氏の発言が中心である。トランプ氏はCEOを「素晴らしい人物」と呼び、「本当に信じている」と述べた。5月の訪中時には知らなかったと言う。いつ知ったかは明言せず、「それほど前ではない」と答えた。AFPの問い合わせに、FBIはコメントしなかった。\n\nSky Newsの要約文は、トランプ氏がFBIの関与に触れたと伝える。CEOを「とても名誉ある人物」と呼んだ点も記している。"
+          "text": "ニューヨーク・タイムズの記事（ストレーツ・タイムズが転載）は、シリコンバレーの擁護論を中心に据えた。投資家たちは、不貞を個人の過ちとし、フアン氏を失う損失のほうが大きいと主張した。セコイア・キャピタルのショーン・マグワイア氏は「米国のAIでの主導権に代えがたい」と投稿した。マスク氏は「同意する」と応じた。\n\n同記事は、トランプ大統領の発言も伝える。トランプ氏は9日、女性がスパイだとは知らなかったとフアン氏から聞いたと述べ、「彼を本当に信じている」と語った。タイムズは、トランプ氏が1年前に女性の工作員情報の説明を受けていたと報じた。トランプ氏は10日、2025年の説明の有無を問われ、答えなかった。\n\nBBCのゾーイ・クラインマン氏の分析は、輸出規制と安全保障を軸にした。メガスピードが規制対象のチップの中国への持ち込みに関わった可能性を示す見方がある、と書く。同社は不正な利用を否定している。国家安全保障上の情報が渡った可能性を、「もう一つの爆弾」と呼んだ。\n\nBBCは、フアン氏が会社の行動規範に反したことにも触れる。規範は、顧客との関係を禁じている。後継者になりうる人物は見当たらず、弱ったエヌビディアのもとでAI業界は「確実に遅くなる」と書く。\n\nサウス・チャイナ・モーニング・ポスト（SCMP）は、米中関係と議会を軸にした。見出しは「脆弱な米中の休戦が試される」である。トランプ氏と習近平氏が深圳のAPECで会う予定を前に、議会の規制強化の圧力が強まったと書く。\n\n専門家の見方は割れた。ジョージタウン大のサム・ブレスニック氏は、首脳会談への大きな影響はないとみる。戦略国際問題研究所のイラリア・マッツォッコ氏は、影響はマイアミでの会談など先で大きくなりうると述べた。国際危機グループのアリ・ワイン氏は、議会にできることは限られると語った。\n\nユーロニュースは、市場と投資家に絞って短く伝えた。アナリストのダン・アイブス氏は、フアン氏を株主にとって「ほとんどスーパーヒーロー」と評した。株価は9日の取引前に約5%下げたという。\n\nフランス24の映像記事は、読めたのが説明文だけである。フアン氏を「AI経済の名付け親」と呼び、AI投資への信頼がもろい時期の出来事と位置づけた。\n\n見出しや抜粋だけの媒体もある。ロイターは12日配信で「エヌビディアがフアン氏の解任を準備、WSJ報道」と見出しを立てた。スカイニュースは抜粋で、株価が52週間の安値をつけ、2度目の不倫を米メディアが主張したと伝える。ニューヨーク・タイムズ本紙の要約は、チップを中国へ密輸する不透明な企業群に焦点を当てている。"
         },
         {
           "label": "論点ごとの比較",
-          "text": "FBIの扱いは、媒体で温度差がある。BBCは「FBIも独自に調べている」と事実として書いた。AFP電では、トランプ氏が「別の件で」調べていると述べ、FBIは確認を避けた。Sky Newsの見出しは「FBIが調べている」と言い切り、要約文はトランプ氏の発言として書く。調査の対象や範囲は、資料からは断定できない。\n\n議会の動きも書き方が違う。BBCは下院外交委員会の幹部が来週の説明を求めたと書く。SCMPは共和党の3委員長が、11月18日の非公開説明を求めたと書く。同じ要請を指すのかは、資料からは断定できない。\n\n女性の位置づけは、BBCが「米政府がスパイとみている」とする。SCMPは、情報機関のために動いていた可能性を報じたと書く。Sun氏は、中国政府の関与を示す証拠は公開されていないと述べた。北京の否定は、BBCが「中国を中傷するため」、SCMPが「根拠のない捏造」と訳し、言葉が異なる。\n\n今後の見通しも割れた。Zhu氏は米中関係の悪化を、Xin氏は限定的な影響を見込む。Sun氏は、半導体規制が法制化されると、トランプ氏の交渉の余地が狭まるとみる。"
+          "text": "株価の数字は、時点が違うため並ばない。ユーロニュースは9日の取引前に約5%安と書いた。BBCは、下げたが暴落ではないと書いた。スカイニュースは12日に52週間の安値と伝えた。\n\nフアン氏の処遇では、見立てが分かれる。ストレーツ・タイムズ転載の記事とBBCは、投資家、取締役会、大統領の支持を書く。SCMPのブレスニック氏は、事態があまりに悪化すれば、トランプ氏は距離を置くと予想した。ロイターの12日付見出しは解任準備を伝えるが、本文は読めていない。\n\n議会の動きは、書き方が違う。ストレーツ・タイムズ転載の記事は、下院3委員会の共和党トップが非公開の説明を求めたと書く。SCMPは、議員らが11月18日の非公開の説明を求めたと書き、上院のクーンズ議員の調査要求も挙げる。同じ動きの別の側面か、資料からは断定できない。\n\n女性の肩書も、記述が異なる。ストレーツ・タイムズ転載の記事は「メガスピードの元幹部」とする。BBCは「アリス・フアン氏の会社、メガスピード」と書き、彼女が率いていた時期に触れる。この違いの理由は、資料からは断定できない。\n\nトランプ氏の発言は、媒体間で一致する。「彼を本当に信じている」は、ストレーツ・タイムズ転載の記事とSCMPが引く。フアン氏を「立派な人物」と呼んだ点は、BBCとSCMPが引く。"
         },
         {
           "label": "視点の差",
-          "text": "BBCは企業統治と国家安全保障の両面を、企業側の説明を中心に書いた。SCMPは中国の識者に語らせ、輸出規制と米中首脳会談への影響に結びつけた。SCMPによれば、トランプ氏と習近平国家主席は、来週のAPEC首脳会議の場で会う見通しである。AFP電は大統領の言葉をそのまま運び、記者の問いも載せた。\n\n違いが出た最も大きな要因は、各記事が誰の言葉を引いたかである。BBCは企業と情報筋、SCMPは中国の研究者、AFPはホワイトハウスでの大統領である。\n\nここは推測。SCMPが中国側の専門家を軸にしたのは、読者が中国の事情に関心を持つためかもしれない。FBIをめぐる書き方の差は、情報源の確度の違いを映している可能性がある。資料だけでは確かめられない。"
+          "text": "各社の中心は3つに分かれた。ニューヨーク・タイムズ、ユーロニュース、フランス24は、AI業界と投資家を据えた。BBCは、輸出規制と情報漏れを据えた。SCMPは、米中首脳会談と議会を据えた。\n\nSCMPの記事は、同紙の外交欄に載っている。BBCの記事は、署名入りの分析である。ただし、これが焦点の違いの理由かどうかは、資料からは断定できない。\n\nここは推測。12日にWSJ報道が出たとすれば、10日までの擁護が優勢という構図が変わる可能性がある。ただし、ロイターの見出ししか読めておらず、確認はできない。"
         }
       ],
       "summary": null,
       "sources": [
         {
+          "outlet": "New York Times",
+          "url": "https://www.straitstimes.com/world/united-states/tech-allies-rally-behind-jensen-huang-calling-him-vital-in-ai-race",
+          "date": "2026-11-12",
+          "access": "body",
+          "via": "The Straits Times",
+          "note": "投資家とトランプ氏の擁護、下院3委員会の説明要請、取締役会の調査を伝える。"
+        },
+        {
           "outlet": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-11",
+          "url": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-10",
           "access": "body",
           "via": null,
-          "note": "Wachtellを起用した調査、5,000億ドル超の時価総額減、ルビオ国務長官の覚書、下院委員会の説明要請を伝えた。"
+          "note": "輸出規制と情報漏れの可能性、行動規範違反、後継者不在を論じる。"
         },
         {
           "outlet": "South China Morning Post",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3373986/will-nvidia-ceo-jensen-huangs-affair-become-another-spy-balloon-saga-us-china-ties",
-          "date": "2026-11-11",
-          "access": "body",
-          "via": null,
-          "note": "中国の識者3人が気球事件との類比や輸出規制への影響を論じ、Rao Yi氏が人種的偏見を指摘した。"
-        },
-        {
-          "outlet": "AFP",
-          "url": "https://www.straitstimes.com/world/united-states/trump-says-nvidia-ceo-jensen-huang-told-him-he-did-not-know-the-woman-linked-to-him-was-a-spy",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3373859/nvidia-scandal-may-test-fragile-us-china-truce-experts-say",
           "date": "2026-11-10",
           "access": "body",
-          "via": "The Straits Times",
-          "note": "トランプ氏がCEOを信じると述べ、知った時期を明言せず、FBIはコメントしなかった。"
+          "via": null,
+          "note": "米中の休戦と首脳会談への影響、議会の規制強化圧力を専門家の見方で伝える。"
+        },
+        {
+          "outlet": "Euronews",
+          "url": "https://www.euronews.com/video/2026/11/09/how-could-the-jensen-huang-spy-scandal-affect-nvidias-future",
+          "date": "2026-11-10",
+          "access": "body",
+          "via": null,
+          "note": "取締役会の調査と、株価が取引前に約5%下げたことを短く伝える。"
+        },
+        {
+          "outlet": "France 24",
+          "url": "https://www.france24.com/en/nvidia-s-huang-scandal-rattles-ai-industry-built-around-him",
+          "date": "2026-11-10",
+          "access": "body",
+          "via": null,
+          "note": "読めたのは映像記事の説明文のみ。AI業界の中心にいる点を強調する。"
+        },
+        {
+          "outlet": "New York Times",
+          "url": "https://www.nytimes.com/2026/11/09/world/nvidia-affair-jensen-huang-russell-brand.html",
+          "date": "2026-11-10",
+          "access": "excerpt",
+          "via": null,
+          "note": "要約は、チップを中国へ密輸する企業群に焦点を当てている。"
         },
         {
           "outlet": "Sky News",
-          "url": "https://news.sky.com/story/fbi-to-investigate-nvidia-ceo-over-affair-with-alleged-chinese-spy-trump-says-13610382",
-          "date": "2026-11-11",
+          "url": "https://news.sky.com/story/nvidia-shares-hit-52-week-low-amid-claims-ceo-jensen-huang-had-second-affair-13611255",
+          "date": "2026-11-12",
           "access": "excerpt",
           "via": null,
-          "note": "要約文は、トランプ氏がFBIの関与に触れ、CEOを名誉ある人物と呼んだと伝える。"
+          "note": "要約は、株価が52週間の安値をつけたことと、2度目の不倫の主張を伝える。"
+        },
+        {
+          "outlet": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTlA5REZDN0pJYkxyUXM4YjE1Q1BLN0tKNENxM3NsV3RKblNhbWpsdEFUUVRieUtNckY4S3YwdkFUdjhvZVk4Nm1Ga1JNUmZkRzMtaEhHazhHNmZDX3Z1WUNzZnJmdEpLeVRmcngzdEMwM2N3b1I1ckQ1Q2N2a2NRNWtfa0ZTTkhYaXlqc1NqbklwWUxIdktqdzZvS0M2cGhSYkE?oc=5",
+          "date": "2026-11-12",
+          "access": "headline",
+          "via": null,
+          "note": "見出しのみ。WSJ報道として解任準備を伝える。"
         }
       ],
       "continuity": {
         "previousDate": "2026-11-10",
-        "previousScore": 22,
-        "note": "企業の社内調査とFBI、議会の動きに、米中首脳会談を前にした中国側の見方が加わり、各社の力点が分かれ始めた。"
+        "previousScore": 25,
+        "note": "11日以降も、擁護論、議会の動き、米中首脳会談への影響へと論点が広がり、12日にはWSJの解任準備報道が見出しに現れた。"
       },
       "bodyAvailable": true,
       "discussionUrl": null,
       "summarizedBy": "claude-sonnet-5-5",
-      "coverage": {
-        "world": "7/18",
-        "jp": "2/6",
-        "daysSeen": 2
-      }
+      "coverage": null
     },
     {
-      "id": "intl-2026-11-11-s-20261110-12",
+      "id": "intl-2026-11-12-s-20261106-19",
       "stream": "intl",
       "depth": "deep",
       "section": "followup",
-      "headline": "教皇レオ14世、アルゼンチンで巨大ミサ続く",
-      "originalTitle": "Photos: Crowds greet Pope Leo in Argentina after 40-year wait",
-      "outlet": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/11/10/photos-historic-crowds-greet-pope-leo-xiv-in-argentina-after-40-year-wait?traffic_source=rss",
+      "headline": "カナダのグリズリー、母娘襲撃で4頭を殺処分",
+      "originalTitle": "カナダでグリズリーに襲われ母娘死亡",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss",
       "region": "overseas",
       "category": null,
-      "score": 15,
+      "score": 14,
       "tier": "interest",
-      "pubDate": "2026-11-11T00:00:00+09:00",
+      "pubDate": "2026-11-12T07:00:00+09:00",
       "body": [
         {
           "label": "経過",
-          "text": "教皇レオ14世は、12日間のラテンアメリカ歴訪の途中にある。ウルグアイに続いてアルゼンチンを訪れた。71歳で、肺がんの手術から1か月足らずである。\n\n9日（月）のブエノスアイレスのミサには、約250万人が集まったと伝えられた。10日（火）はコルドバで、バチカンの発表では65万人が参列した。11日（水）にはルハンでミサを行い、ペルーへ向かう予定である。\n\n読めたのは、Al JazeeraとEuronewsの2媒体の本文で、比較は限られる。BBC、CBS、France 24は動画ページの短い紹介文だけだった。注目度は、初日の8から2日目の15に上がっている。"
+          "text": "カナダのブリティッシュ・コロンビア州ベラクーラ近くで、母娘が遺体で見つかった。48歳のジェニー・バルカラスさんと、20歳の娘セラ・リードさんである。家族は、リードさんが土曜夜の定例の電話に出なかったため、異変を知らせた。\n\n捜索隊は先に母親の遺体を見つけた。娘の遺体は、熊が餌を蓄える場所で見つかった。\n\n当初、当局は複数の熊が関わった可能性を調べていた。10日（火）、州の保全官サービスは、DNA検査で雌1頭と1歳の子3頭が関わったと結論づけたと発表した。4頭は捕獲され、殺処分された。世界の注目度は、初日の6日に13、12日に14で、ほぼ変わらない。"
         },
         {
           "label": "各社の見え方",
-          "text": "Al Jazeeraは、政治との関係に目を向けた。レオ14世は3日間を通じて、ミレイ大統領の右派政権に注文をつけてきたと書く。経済をより包摂的にすること、労働組合を守ること、貧困層や障害者に響く予算削減を戻すことである。\n\nAl Jazeeraは歴史にも触れた。ミサの会場は、空軍が運営してきた航空機工場の敷地である。軍が1975年末に、左派ゲリラへの攻撃で最初に使った攻撃機を造った工場だという。人権団体の推計では、1976年からの軍事独裁で約3万人が殺害または強制失踪した。説教で教皇は、過去の不正に向き合うよう各世代に促した。\n\nEuronewsは、聖人と前教皇フランシスコの存在を軸にした。教皇はアルゼンチンの聖人たちの「輝く模範」に倣うよう呼びかけた。名前が挙がったのは、「ガウチョ司祭」ブロチェロと、2024年に同国初の女性聖人となったママ・アントゥラである。教皇はXで、12年間、教会がフランシスコの声に耳を傾けてきたと書いた。\n\nEuronewsは、ミサ後の場面も載せた。教皇は大司教公邸のバルコニーに姿を見せた。1987年にヨハネ・パウロ2世が挨拶した同じ場所である。ウルグアイでのAIへの警告や、ペルーでの出迎えの準備にも触れた。読めた範囲に、ミレイ政権への注文は出てこない。\n\n動画ページのBBCは、250万人が街に出たと短く伝える。手術から3週間とも書いた。New York Timesは要約文のみで、フランシスコは就任後に母国へ戻らなかったと書く。新教皇が前任者の大きな存在感に向き合う、という見立てである。AP通信は見出しだけで、聖職者虐待の被害者との面会を挙げている。"
+          "text": "ガーディアンは、捜索の段階で書いた。州の保全官サービスのジェフ・タイア氏が、複数の熊が関わった可能性を調べていると語ったと伝える。犠牲者の人柄にも紙幅を割いた。バルカラスさんはアートセラピストで、新しい仕事のために最近ベラクーラへ移ったという。\n\nCBSニュース（AP通信と共同の記事）は、当局の結論と背景の数字を中心に据えた。タイア氏は、襲撃は捕食的な行動を伴った可能性が高く、「非常にまれ」だと述べた。「始まりは分からないが、結末は分かっている」とも語った。\n\nCBSは背景の数字も補う。州内のグリズリーは1万〜1万3,000頭と推定され、種としては「危急」に分類される、と補う。\n\nBBCの記事は、冒頭が欠けた断片である。保全官12人超が、険しい地形と天候の中で1週間調べたと書く。先住民ヌクサル・ネーションのサミュエル・スクーナー首長は、今回の襲撃が昨年の襲撃の傷を深くえぐったと述べた。CBSも同じ発言を引き、自主的な夜間外出自粛と、警察が児童を学校へ付き添ったことも書く。\n\n見出しの主語は、媒体で違う。BBCは「4頭が殺処分された」と、熊を対象に据えた。\n\nCBSは「4頭が母娘を殺した」と、熊を主語にした。ニューヨーク・タイムズは「当局が4頭を殺した」と、当局を主語にした。スカイニュースの見出しは、CBSと同じく熊を主語にする。"
         },
         {
           "label": "論点ごとの比較",
-          "text": "人数は、2媒体で一致した。ブエノスアイレスが約250万人、コルドバが65万人である。Al Jazeeraは、65万人をバチカンの発表と明記した。Euronewsは「推計」とする。\n\n手術からの期間は、BBCが3週間、Al Jazeeraが1か月足らずと書く。基準日が違うのか、資料からは断定できない。\n\n訪問の意味づけは割れた。Al Jazeeraは、約40年ぶりの訪問と政権への注文を並べた。Euronewsは、聖人への言及を通じて、フランシスコとの継続を示した。New York Timesの見出しは前任者の影、APの見出しは虐待の問題を前に出す。"
+          "text": "昨年の学校団体への襲撃は、書き方に差がある。BBCは11人が負傷し2人が重体と書く。CBSは約20人の児童と教員のうち11人が負傷し、2人が重体だったと書く。\n\nガーディアンは冒頭で「年内」と書き、後段で「昨年11月」と書いた。同じ記事の中で、時期の書き方が割れている。\n\n事件の性格は、BBCとCBSがタイア氏の「捕食的な行動の可能性が高い」を引いて一致する。熊の処分も、両社とも殺処分と書く。\n\nCBSは、致死的な襲撃に関わった熊は移送も更生もできないというタイア氏の説明を載せる。熊の数は、BBC、CBS、NYTの要約で、雌1頭と子3頭と一致する。"
         },
         {
           "label": "視点の差",
-          "text": "2媒体の差は、拾った場面の差である。Al Jazeeraは演説のうち社会と政治に関わる部分を、Euronewsは信仰と聖人、AIの警告を拾った。見出しだけの媒体は、さらに別の論点を挙げている。\n\nここは推測。1回の訪問に、政治・歴史・信仰・教会内の課題という複数の顔があり、各社が選ぶ顔が違うのだろう。ただし2媒体の本文だけでは、編集方針の違いまでは言えない。"
+          "text": "ガーディアンは犠牲者と地域、CBSは当局の結論と背景の数字、BBCは調査の経過と先住民の声を、それぞれ厚く書いた。読めた範囲で、論調の対立はない。差は、何を中心に据えたかにとどまる。\n\nここは推測。ガーディアンが人物を厚く描き、CBSが数字を並べたのは、書いた時点の違いによるのかもしれない。ガーディアンは捜索中、CBSは結論の発表後である。ただし、資料からは断定できない。"
         }
       ],
       "summary": null,
       "sources": [
         {
-          "outlet": "Al Jazeera",
-          "url": "https://www.aljazeera.com/gallery/2026/11/10/photos-historic-crowds-greet-pope-leo-xiv-in-argentina-after-40-year-wait?traffic_source=rss",
+          "outlet": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/04/canada-bear-attack-mother-daughter-killed",
+          "date": "2026-11-06",
+          "access": "body",
+          "via": null,
+          "note": "捜索段階の記事。複数の熊の関与の可能性、犠牲者の人柄、地域の動揺を伝える。"
+        },
+        {
+          "outlet": "CBS News",
+          "url": "https://www.cbsnews.com/news/4-grizzly-bears-killed-woman-daughter-canada-dna/",
+          "date": "2026-11-12",
+          "access": "body",
+          "via": "AP通信と共同の記事",
+          "note": "DNAで雌1頭と1歳の子3頭を特定、捕食的な攻撃の可能性が高いとの当局の見解、州内の個体数と過去の襲撃を載せる。"
+        },
+        {
+          "outlet": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-12",
+          "access": "body",
+          "via": null,
+          "note": "冒頭が欠けた断片。調査の規模、昨年の襲撃との無関係、首長の発言を読めた。"
+        },
+        {
+          "outlet": "New York Times",
+          "url": "https://www.nytimes.com/2026/11/10/world/canada/british-columbia-bear-attack.html",
+          "date": "2026-11-12",
+          "access": "excerpt",
+          "via": null,
+          "note": "要約は、DNAで雌と子3頭が関与と結論づけたと伝える。"
+        },
+        {
+          "outlet": "Sky News",
+          "url": "https://news.sky.com/story/four-grizzly-bears-killed-mother-and-daughter-in-canada-officials-say-13610812",
+          "date": "2026-11-12",
+          "access": "excerpt",
+          "via": null,
+          "note": "要約は、捕獲された4頭が母娘を殺したと当局が述べたと伝える。"
+        }
+      ],
+      "continuity": {
+        "previousDate": "2026-11-06",
+        "previousScore": 13,
+        "note": "初期は複数の熊の関与が疑われ、DNA検査で雌1頭と子3頭と特定され、4頭が殺処分されたことで、事件が結論に至った。"
+      },
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-sonnet-5-5",
+      "coverage": null
+    },
+    {
+      "id": "intl-2026-11-12-s-20261111-02",
+      "stream": "intl",
+      "depth": "deep",
+      "section": "followup",
+      "headline": "英枢密院、トリニダード・トバゴの同性愛処罰法を違憲に",
+      "originalTitle": "トリニダード・トバゴで同性愛禁止法が無効に",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o?at_medium=RSS&at_campaign=rss",
+      "region": "overseas",
+      "category": null,
+      "score": 11,
+      "tier": "interest",
+      "pubDate": "2026-11-12T07:00:00+09:00",
+      "body": [
+        {
+          "label": "経過",
+          "text": "ロンドンの枢密院司法委員会は11月10日（火）、トリニダード・トバゴの同性間の性行為を処罰する法律を違憲と判断した。ジェイソン・ジョーンズ氏が、1986年の性犯罪法の2つの条項が憲法上の権利を侵すと訴えていた。5人の裁判官が全員一致で控訴を認めた。\n\nジョーンズ氏は2018年に同国の高等裁判所で勝訴した。2025年には、国内の控訴裁判所が判断を一部覆した。その後、同氏は最終審の枢密院へ進んだ。\n\n政府、福音派教会の協議会、国内最大のヒンドゥー教団体が、訴えに反対した。世界の注目度は、初日の11日に17、12日に11だった。"
+        },
+        {
+          "label": "各社の見え方",
+          "text": "ドイチェ・ヴェレは、裁判の経緯と周辺国の状況を厚く書いた。法律は近年執行されていないが、威嚇的なメッセージを送ってきたという批判者の見方を伝える。政府は、1986年の法律を、憲法より前の植民地期の刑罰に根ざす「既存の法」だと主張した。判決は、その例外の条件を満たさないと退けた。\n\nジョーンズ氏は61歳で、1996年に暴力と差別を逃れて国を出たという。同氏は「社会は私を犯罪者以下に扱った」と語った。弁護人で元司法長官のアナンド・ラムローガン氏は、憲法上の権利は多数派がいつも正しいとは限らないから存在する、と述べた。\n\nドイチェ・ヴェレは周辺国の状況も並べる。バハマは1991年、英領の5地域は2001年に非犯罪化した。バルバドスなど4か国の裁判所も、近年同様の法を違憲とした。グレナダ、ジャマイカ、セントビンセント・グレナディーンでは、なお犯罪だという。\n\nBBCは、英連邦への波及を中心に据えた。枢密院が同性間の親密な関係の非犯罪化を判断したのは初めてで、活動家は他国での同様の訴えを期待すると書く。判決前、英連邦で同性愛を処罰する国は約34あり、一部では死刑もあるとする。\n\nBBCは、法廷の争点も書く。政府は、英国法を引き継いだ「保存条項」で守られると主張した。弁護側は、1986年に刑が重くなった以上、その保護は及ばないと反論した。ジョーンズ氏は「そのメッセージは今日で終わる」と述べた。\n\nユーロニュースは、活動家と国連の反応に絞った。ジョーンズ氏は今後、同国に限らず、カリブ地域の同性愛嫌悪への「的を絞った活動」をすると語った。国連人権高等弁務官のフォルカー・テュルク氏は、判決を平等と権利の重要な節目として歓迎した。\n\nロイター（ストレーツ・タイムズとSCMPが転載）は、事実関係を短く伝えた。ジョーンズ氏は歓迎しつつ、判決は英連邦などで植民地期の法のもとに否定されてきた権利の問題全体には答えていない、と述べた。司法長官室は、取材に直ちに答えなかった。ニューヨーク・タイムズの要約は、判決が他の英連邦諸国の法に影響しうると指摘し、法制度が旧宗主国と絡み合う点に光を当てた。"
+        },
+        {
+          "label": "論点ごとの比較",
+          "text": "刑期の数字は、媒体で違う。ドイチェ・ヴェレは最長5年と書く。ユーロニュースは、「serious indecency」に2年、「buggery」に5年と書く。BBCとロイターは、同国の刑期を書かない。\n\n条文の罪名も揺れる。ロイターは「gross indecency」と書く。ドイチェ・ヴェレとユーロニュースは「serious indecency」と書く。原文が同じか、資料からは断定できない。\n\nジョーンズ氏の年齢は、ドイチェ・ヴェレが61歳、BBCが62歳である。裁判の長さは、ドイチェ・ヴェレが2017年の提起から「ほぼ10年」、BBCが「11年」と書く。2025年の国内控訴審を、ドイチェ・ヴェレは「一部覆した」とし、BBCとロイターは「覆した」とする。理由は資料からは断定できない。\n\n最終審の説明にも差がある。ドイチェ・ヴェレは、英連邦の一部の国を含む最終審とする。ユーロニュースは、英国の海外領土などの最終審と書く。"
+        },
+        {
+          "label": "視点の差",
+          "text": "判決の主語の置き方が分かれた。ロイター、スカイニュース、ドイチェ・ヴェレは、ロンドンの裁判所や英国の枢密院と書く。ユーロニュースの見出しは、同国の最高裁と書いた。BBCの見出しは、主語を置かない。\n\n焦点も分かれた。中心に据えた点は、各社で違う。ドイチェ・ヴェレは歴史と周辺国、BBCは英連邦への波及である。ユーロニュースは人権団体と国連、ロイターは当事者と政府の応答である。\n\nここは推測。ドイチェ・ヴェレが英国の1967年の非犯罪化まで書いたのは、旧宗主国の歴史という枠で読ませる狙いがあるのかもしれない。確認はできない。"
+        }
+      ],
+      "summary": null,
+      "sources": [
+        {
+          "outlet": "Deutsche Welle",
+          "url": "https://www.dw.com/en/uk-privy-council-overrules-trinidad-and-tobago-gay-sex-law/a-79912163?maca=en-rss-en-world-4025-rdf",
+          "date": "2026-11-12",
+          "access": "body",
+          "via": null,
+          "note": "裁判の経緯、政府の主張、判決の論理、周辺国の状況、英国の歴史を詳しく伝える。"
+        },
+        {
+          "outlet": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o?at_medium=RSS&at_campaign=rss",
           "date": "2026-11-11",
           "access": "body",
           "via": null,
-          "note": "コルドバの65万人と政権への注文、軍事独裁の歴史を伝えた。"
+          "note": "枢密院で初の非犯罪化判断。英連邦への波及と、保存条項をめぐる争点を伝える。"
         },
         {
           "outlet": "Euronews",
-          "url": "https://www.euronews.com/2026/11/10/pope-leo-xiv-draws-huge-crowds-in-cordoba-after-record-buenos-aires-mass",
-          "date": "2026-11-11",
+          "url": "https://www.euronews.com/2026/11/11/trinidad-and-tobago-highest-court-overturns-gay-sex-ban",
+          "date": "2026-11-12",
           "access": "body",
           "via": null,
-          "note": "聖人への言及、フランシスコへの言及、AIへの警告、ペルーの準備を伝えた。"
+          "note": "刑期、ジョーンズ氏の今後の活動、国連人権高等弁務官の歓迎を伝える。"
         },
         {
-          "outlet": "BBC",
-          "url": "https://www.bbc.co.uk/news/videos/cvp8g82pled5o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-10",
+          "outlet": "Reuters",
+          "url": "https://www.straitstimes.com/world/europe/uk-court-overturns-trinidad-and-tobago-law-criminalising-homosexual-sex",
+          "date": "2026-11-11",
           "access": "body",
-          "via": null,
-          "note": "動画の紹介文のみ。250万人と手術から3週間を伝える。"
+          "via": "The Straits Times / SCMP",
+          "note": "判決の要旨とジョーンズ氏の反応を短く伝える。司法長官室は直ちに答えなかった。"
         },
         {
           "outlet": "New York Times",
-          "url": "https://www.nytimes.com/2026/11/10/world/americas/pope-leo-argentina-visit-francis.html",
-          "date": "2026-11-11",
+          "url": "https://www.nytimes.com/2026/11/11/world/americas/trinidad-same-sex-ruling.html",
+          "date": "2026-11-12",
           "access": "excerpt",
           "via": null,
-          "note": "要約文は、前任者フランシスコの存在感に向き合う新教皇という見立てを示す。"
+          "note": "要約は、他の英連邦諸国への影響と旧宗主国との司法の結びつきを指摘する。"
+        },
+        {
+          "outlet": "Sky News",
+          "url": "https://news.sky.com/story/uk-court-overturns-trinidad-and-tobago-law-criminalising-homosexual-sex-13610702",
+          "date": "2026-11-12",
+          "access": "excerpt",
+          "via": null,
+          "note": "要約は、男性同士の合意に基づく性行為を処罰する法が、英国の裁判所に覆されたと伝える。"
         }
       ],
       "continuity": {
-        "previousDate": "2026-11-10",
-        "previousScore": 8,
-        "note": "ブエノスアイレスからコルドバへ訪問が進み、参列者の規模と政権への注文が報じられた。"
+        "previousDate": "2026-11-11",
+        "previousScore": 17,
+        "note": "判決の速報から、周辺国や英連邦への波及、旧宗主国の司法の役割へと各社の論点が移った。"
       },
-      "bodyAvailable": false,
+      "bodyAvailable": true,
       "discussionUrl": null,
       "summarizedBy": "claude-sonnet-5-5",
-      "coverage": {
-        "world": "5/18",
-        "jp": "0/6",
-        "daysSeen": 2
-      }
-    },
-    {
-      "id": "intl-2026-11-11-s-20261109-25",
-      "stream": "intl",
-      "depth": "deep",
-      "section": "followup",
-      "headline": "ガザの豪雨被害、救援の遅れ巡り主張が対立",
-      "originalTitle": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
-      "outlet": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o?at_medium=RSS&at_campaign=rss",
-      "region": "overseas",
-      "category": null,
-      "score": 12,
-      "tier": "interest",
-      "pubDate": "2026-11-11T00:00:00+09:00",
-      "body": [
-        {
-          "label": "経過",
-          "text": "8日（日）、ガザ中部の避難民キャンプで、砂の土手が崩れた。強風と豪雨が引き金とされ、テントが押しつぶされた。国連は、26,000世帯超が住まいや所持品の被害を届け出たと発表している。\n\n9日（月）には、国連の人道調整官が、ガザ内の越冬用の備蓄は尽きたと述べた。イスラエル外務省の報道官は、冬に備えた計画を進めてきたと説明した。11日付の報道では、Board of Peaceが、イスラエルの対応は不十分だと表明した。同組織は、トランプ大統領のガザ和平計画の履行を監督する米国支援の機関である。\n\n読めたのは、BBCとGuardianの2媒体の本文で、比較は限られる。France 24は、人道団体職員との対談の紹介文だけである。注目度は、3、9、12と3日連続で上がった。"
-        },
-        {
-          "label": "各社の見え方",
-          "text": "BBCは、当事者どうしの応酬を軸に据えた。Board of Peaceは、イスラエルの承認の遅れが「予見できた人道上の課題」を悪化させたと批判した。BBCはこれを「異例の批判」と位置づけた。同時に、Hamasが武装解除と権限移譲を果たしていない点も、困難を重ねたとの声明を載せている。\n\nBBCは各当事者の言い分を並べた。イスラエル軍の調整機関Cogatは、テント9万1,000張超と、8,200台超のトラックを入れたと主張する。報道官は、Hamasが支援物資を抱え込んでいると非難した。Hamasは、声明は原因を歪めていると反論し、イスラエルの搬入制限を挙げた。国連OCHAは、域外に15万張超のテントが待機していると述べた。\n\nGuardianは、現場の証言と構造的な要因を軸にした。土手が崩れた現場で、巨大な岩を砕いて埋まった人を掘り出した様子を、目撃者の言葉で描く。Unicefの広報官は、崩落は「起こるべくして起きた」と述べた。ガザ市議会の議員は、イスラエルがプレハブ住宅の搬入を認めていないと語った。\n\nGuardianは、金属製のテント支柱が「二重用途」品として制限されると書いた。支援団体は、食料輸送用パレットの木材で代用したという。中国、エジプト、サウジアラビアが供給したテントは、雨風を防ぐ力が限られるという評価も載せた。Cogatの数字は、記事の終盤に置かれている。BBCで中心だったBoard of Peaceの声明は、Guardianの記事には出てこない。\n\nNew York Timesは要約文のみで、「ガザの洪水で4人死亡」と題した。同じ家族の少なくとも4人が死に、数千人が避難先を失ったという。要約文は、イスラエルが武装解除まで再建しないと述べていると伝える。France 24では、ノルウェー難民評議会の職員が、停戦は名ばかりだと語った。「すべての検問所を開け、制限をなくせ」と求めている。"
-        },
-        {
-          "label": "論点ごとの比較",
-          "text": "死者数は割れた。BBCは、3人の子どもと女性の計4人とする。Guardianは5人が死亡したと書き、8歳と6歳の子どもと母親がその中にいたとする。New York Timesの要約文は、同じ家族の少なくとも4人という。差の理由は、資料からは断定できない。\n\n浸水の規模は、数え方が違う。Hamas側の報道機関は、初日に7万張のテントが浸水したと主張した。Guardianが引くこの数字は、一方の当事者の発表である。国連の数字は、被害を届けた世帯の数で、26,000超である。テントの数と世帯の数は、単位が異なる。\n\n地図上の数字も食い違う。BBCは、イスラエルがガザの60%を占領するとする。Guardianは、約3分の2を支配するとする。住民の状況は、BBCが国連の言葉として、人口の65%、約140万人がテントや仮設の住まいにいると書く。Guardianは、人口230万の大半がテントか廃墟で暮らすとした。\n\n責任の所在は、BBCが当事者の言い分を併記する。Guardianは、支援物資の制限に紙幅を割く。"
-        },
-        {
-          "label": "視点の差",
-          "text": "BBCは、停戦後の枠組みが停滞していると読む。双方が互いを責め、次の段階が止まっているという書き方である。Guardianは、避難民が置かれた過密な環境と、搬入制限が支援の現場に及ぼす影響を軸にした。\n\n違いは、重心をどこに置いたかにある。BBCは外交の言葉、Guardianは現場の物資の話である。\n\nここは推測。Guardianの記事はURLの日付が9日で、Board of Peaceの声明より前に書かれた可能性がある。だとすれば、声明が出てこないのは視点の差ではなく、時間の差かもしれない。資料だけでは確かめられない。"
-        }
-      ],
-      "summary": null,
-      "sources": [
-        {
-          "outlet": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-11",
-          "access": "body",
-          "via": null,
-          "note": "Board of Peaceが対応は不十分と表明し、イスラエルとHamasが互いに責任を主張した。"
-        },
-        {
-          "outlet": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/nov/09/witnesses-struggle-save-people-buried-gaza-landslide",
-          "date": "2026-11-11",
-          "access": "body",
-          "via": null,
-          "note": "土手の崩落の目撃証言、搬入制限品目、5人死亡、Hamas側発表の7万張を伝えた。"
-        },
-        {
-          "outlet": "New York Times",
-          "url": "https://www.nytimes.com/2026/11/10/world/middleeast/gaza-flooding-israel.html",
-          "date": "2026-11-11",
-          "access": "excerpt",
-          "via": null,
-          "note": "要約文は、同じ家族の少なくとも4人が死亡したと伝える。"
-        },
-        {
-          "outlet": "France 24",
-          "url": "https://www.france24.com/en/life-in-gaza-simply-miserable-amid-flooding-lack-of-aid-conditions-worsen-for-palestinians",
-          "date": "2026-11-10",
-          "access": "body",
-          "via": null,
-          "note": "紹介文のみ。ノルウェー難民評議会の職員が検問所の開放を求めた。"
-        }
-      ],
-      "continuity": {
-        "previousDate": "2026-11-09",
-        "previousScore": 3,
-        "note": "被害の報道から、支援の遅れをめぐる当事者の応酬へ焦点が移った。"
-      },
-      "bodyAvailable": false,
-      "discussionUrl": null,
-      "summarizedBy": "claude-sonnet-5-5",
-      "coverage": {
-        "world": "3/18",
-        "jp": "0/6",
-        "daysSeen": 3
-      }
+      "coverage": null
     }
   ],
   "essays": [],
   "productionNote": {
     "reachedOutlets": [
+      "New York Times（ストレーツ・タイムズ転載）",
       "BBC",
       "South China Morning Post",
-      "AFP（Straits Times掲載）",
-      "Al Jazeera",
       "Euronews",
-      "The Guardian"
+      "France 24",
+      "The Guardian",
+      "CBS News",
+      "Deutsche Welle",
+      "Reuters（ストレーツ・タイムズ転載）"
     ],
     "unreachedOutlets": [
-      "Bloomberg",
-      "Financial Times",
-      "Reuters",
-      "Associated Press"
+      "Associated Press（見出しのみ）",
+      "Bloomberg（見出しのみ）"
     ],
     "excluded": [],
     "counts": {
       "deep": 3,
       "brief": 0,
       "essays": 0,
-      "chars": 5373
+      "chars": 5264
     },
-    "text": "Nvidia：独立した本文はBBC、SCMP、AFP（Straits Times）の3つ。SCMPは資料で wire=Reuters とされたが、読めた本文に署名はなく、独自取材として数えた。CBSは動画の紹介文だけで本文には数えない。Sky NewsとAl Jazeeraは要約文のみ。教皇：独立した本文はAl JazeeraとEuronewsの2つ。BBC、CBS、France 24は動画ページの紹介文のみ。2媒体の比較のため、1,200字を下限に書いた。ガザ：独立した本文はBBCとGuardianの2つ。France 24は対談の紹介文のみ。同じく1,200字を下限に書いた。記事ごとの字数は 2138 / 1405 / 1830。"
+    "text": "本日の資料は3件で、すべて書いた。エヌビディア：独立した本文はNYT（ストレーツ・タイムズ転載）、BBC、SCMP、ユーロニュース、フランス24（映像の説明文のみ）。CBSの本文は関連見出しの一覧で、本文として読めず使っていない。ロイター・AP・ブルームバーグは見出しのみ。グリズリー：独立した本文はガーディアン、CBS（AP共同）、BBC（冒頭欠落の断片）の3媒体。読めた範囲で媒体間の論調の対立はなく、材料は薄いため字数は短めである。トリニダード・トバゴ：独立した本文はDW、BBC、ユーロニュース、ロイター（ストレーツ・タイムズとSCMPの転載は1と数えた）。日本との関わりは資料の本文になく、節を省いた。"
   }
 }

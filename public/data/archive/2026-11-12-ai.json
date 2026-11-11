@@ -1,0 +1,988 @@
+{
+  "date": "2026-11-12",
+  "stream": "ai",
+  "title": "AI日報",
+  "generatedAt": "2026-11-11T23:45:07.178Z",
+  "model": "claude-haiku-5-5",
+  "editorialVersion": 13,
+  "categories": [
+    {
+      "id": "ai",
+      "label": "AI",
+      "desc": "AIモデル・AIサービス・AI企業の動向"
+    },
+    {
+      "id": "it",
+      "label": "IT",
+      "desc": "ソフトウェア開発・ネットサービス・セキュリティ・デバイス・通信（AIが主題のものは除く）"
+    },
+    {
+      "id": "science",
+      "label": "科学",
+      "desc": "研究成果・医療・宇宙・環境・エネルギー技術"
+    }
+  ],
+  "articles": [
+    {
+      "id": "e9253ae6619e",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+      "headline": "エヌビディアのファン最高経営責任者、解任検討と報じられ株価下落",
+      "originalTitle": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+      "outlet": "TechCrunch",
+      "region": "overseas",
+      "category": "ai",
+      "score": 96,
+      "tier": "must",
+      "pubDate": "2026-11-11T22:31:06.000Z",
+      "body": null,
+      "summary": "ウォール・ストリート・ジャーナル（WSJ）は、エヌビディアが共同創業者でCEOのジェンスン・ファン氏の解任を検討していると報じた。同氏は過去33年にわたり同社を率いてきており、取締役会が早ければ水曜日にも会合を開き、同氏の去就を決める見通しだという。\n\nファン氏は日曜日、米情報機関が中国のスパイとみているとされる女性と不倫関係にあったことを認めた。水曜日の夕方にはニューヨーク・タイムズが、同氏の直属の幹部とも関係をもっていたと報じた。同氏は約60人の直属の部下を抱え、業務をほとんど任せていないと語ったという。\n\nエヌビディアはAIブームを支える半導体を設計し、世界有数の時価総額をもつ企業に成長した。報道を受けて水曜日の時間外取引では株価が約8%下落し、過去5日間では約11%下落している。同社には明確な後継者候補や後継者計画もないという。",
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+          "date": "2026-11-11",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "9337f1a2ba07",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2611/11/2000003093/",
+      "headline": "グーグル、「最強」とうたうAIモデル「Gemini 4 Carbon」を一般提供",
+      "originalTitle": "Googleの「最強」モデル「Gemini 4 Carbon」一般提供開始 Antigravityでのマルチエージェントチーム編成機能も",
+      "outlet": "ITmedia AI+",
+      "region": "domestic",
+      "category": "ai",
+      "score": 93,
+      "tier": "must",
+      "pubDate": "2026-11-11T01:47:35.000Z",
+      "body": null,
+      "summary": "グーグルは11月10日（現地時間）、同社が「最強」とするAIモデル「Gemini 4 Carbon」（以下、Carbon）の一般提供を開始した。セキュリティ、ナレッジワーク（文書作成や情報分析など知識を要する業務）、コーディングなどで、OpenAIの「GPT-6 Astra」やAnthropicの「Claude Opus 5.5」を超える性能をうたっている。同時に、大規模な開発プロジェクトを効率的に進めるためのマルチエージェントチーム編成機能「/swarm」も発表した。\n\nCarbonは、グーグルが10月に「Gemini 4 Argon」（以下、Argon）の次世代モデルとして発表し、サイバーセキュリティ向けプログラム「Fairwind Program」を通じて一部企業に提供してきたモデルである。科学的推論などの複数のベンチマーク（性能を比較する試験）でも、競合モデルを上回るとしている。\n\n「/swarm」は「群れ」の意味で、開発者向けツール「Google Antigravity」（以下、Antigravity）の新機能としてプレビュー版が公開された。単一の指示に基づいて複数のAIエージェント（目的に応じて自律的に作業を行うAI）に作業を並列で分担させられる。通常のチャットより多くのトークン（AIが処理する文字の単位）を消費するが、大規模プロジェクトを効率的に進められるとしている。各エージェントには異なるモデルを指定でき、グーグルは多くの業務にはArgonが最適であるとしつつ、統括役や アーキテクチャ設計、サイバーセキュリティ監査にはCarbonが適していると説明している。\n\nCarbonは、個人向けプラン「Google AI Ultra」、企業向けサブスクリプション「Gemini for Business」（旧「Gemini Enterprise」）、APIで利用できる。API価格は100万トークンあたり入力4ドル、出力20ドルで、11月30日までは半額の導入価格となる。また、科学者・研究者は、Antigravityを通じてCarbonとArgonを無料で利用できるプログラムに応募できる。",
+      "sources": [
+        {
+          "outlet": "ITmedia AI+",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2611/11/2000003093/",
+          "date": "2026-11-11",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "29f521837a1e",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+      "headline": "OpenAIの四半期売上高が初めて100億ドル超、ブルームバーグ報道",
+      "originalTitle": "OpenAI's quarterly revenue reportedly crosses $10B for the first time",
+      "outlet": "TechCrunch",
+      "region": "overseas",
+      "category": "ai",
+      "score": 91,
+      "tier": "must",
+      "pubDate": "2026-11-11T16:14:44.000Z",
+      "body": null,
+      "summary": "ブルームバーグは匿名の情報源を引用し、OpenAIの四半期売上高が初めて100億ドルを超えたと報じた。報道どおりであれば、第2四半期の67億ドルから約50%増となる。同社は今年初めに低迷していたが、回復しつつあるという。\n\n成長率も上昇したとされる。第1四半期から第2四半期にかけての成長率は約18%だったという。また、調整後営業利益率はマイナス150%からマイナス109%へと改善し、赤字幅が縮小したと報じられた。同社の年換算売上高（直近の売上を年に換算した値）は500億ドルに達したという。\n\n一方、競合のAnthropicは企業向け市場で先行しており、最近発表した第3四半期の売上高は170億ドルだという。Anthropicは10月末時点の年換算売上高が1か月で100億ドル増えて810億ドルになったと明らかにし、近く実施される見通しの株式公開で1.4兆ドルの評価額を目指しているとされる。両社は年換算の算定方法が異なり、Anthropicはクラウド事業者経由の販売を含める一方、OpenAIは提携先を通じた売上のうち自社分のみを計上している。\n\n両社はこのほか、メタ、アマゾン、マイクロソフト、グーグルのモデルや、中国などのオープンソースのAI開発元による低価格で高性能なモデルとも競合している。",
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+          "date": "2026-11-11",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "bff78d9dcdee",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003114/",
+      "headline": "メール配信のユミルリンク、不正アクセスで約4786万件の個人情報流出",
+      "originalTitle": "メール配信のユミルリンク、不正アクセスで約4786万件漏えい JR東海やアイスタイルに影響",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "it",
+      "score": 88,
+      "tier": "should",
+      "pubDate": "2026-11-11T08:35:52.000Z",
+      "body": null,
+      "summary": "ユミルリンクは11月11日、10月19日に公表した不正アクセスにより、メールアドレスなど延べ4786万4147件の個人情報が外部に流出したと発表した。10月26日時点では最大約5162万件が流出した可能性があるとしていたが、その後の調査で件数を精査した。同社のメール配信サービスを利用する企業では10月後半から影響の公表が相次ぎ、化粧品口コミサイト「@cosme」を運営するアイスタイルは11月9日に約280万人分の顧客情報の流出を公表し、JR東海など3社も11月5日に新幹線予約サービス「スマートEX」「エクスプレス予約」で計約17万件の会員情報が流出したと発表した。\n\n被害を受けたのは、同社のメール配信サービス「Cuenote FC」の49システムである。流出した情報は、メールアドレス4786万4147件、会員ID3050万167件、氏名666万5055件、性別205万9658件、生年月日94万9217件、電話番号41万2794件、郵便番号182万3551件などで、都道府県や住所、ハッシュ化されたパスワード（元に戻せない形に変換したパスワード）、会社名、学校名、顧客が運用していたサービスの認証情報も含まれる。同社が10月26日に発表したところによると、顧客管理システム「Cuenote BASE」でも、契約企業名や氏名、電話番号、メールアドレスなど190件が外部から閲覧可能な状態にあった。\n\n同社によると、攻撃者はシステムの脆弱性（セキュリティ上の弱点）を悪用してサーバに不正なプログラムを仕込み、データベースにアクセスした。さらに利用者のログイン状態を示す情報を盗み、正規の利用者になりすまして管理画面からデータを持ち出したという。同社は10月16日に不正アクセスを把握し、脆弱性の修正と不正プログラムの除去を進めた。\n\n現在、「Cuenote FC」の一部システムと「Cuenote BASE」を除く各サービスは正常に稼働しているという。再発防止策として、AIを活用したソースコードレビューや24時間365日の監視体制を導入する方針である。外部の専門機関による最終調査を終えた後、改めて結果を公表する予定としている。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003114/",
+          "date": "2026-11-11",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "a86af765ffaf",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "science",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+      "headline": "Google DeepMind、遺伝子変異の細胞ごとの影響を予測する新AIを発表",
+      "originalTitle": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+      "outlet": "The Verge",
+      "region": "overseas",
+      "category": "science",
+      "score": 87,
+      "tier": "should",
+      "pubDate": "2026-11-11T15:00:00.000Z",
+      "body": null,
+      "summary": "Google DeepMindは、DNAの変化が細胞ごとにどのような影響を与えるかを解析する新しいAIモデル「AlphaGenome 2」を発表した。昨年公開された遺伝子予測AIモデル「AlphaGenome」の後継にあたり、同社は、従来より細かく見ることで病気の原因解明や新たな治療法につながる手がかりが得られる可能性があるとしている。\n\n人体の細胞はほぼすべて同じDNAを持つが、心筋細胞や皮膚細胞、感染と戦う免疫細胞などは、細胞の種類や状態に応じて働かせる遺伝子を切り替えており、そのパターンは細胞の働きによって変わる。そのため同じ遺伝子変異（DNAの配列の変化）でも、細胞の種類や状態によって影響が大きく異なる。AlphaGenome 2は、こうした違いを捉えて、個々の細胞の種類や状態ごとに遺伝子変異の影響を予測するよう設計された。\n\n同社は、68の組織にわたる1億以上の個々の細胞のデータで学習させたとしている。細胞を詳しく分類した大規模なデータ集である「細胞アトラス」を、ヒトの遺伝学を予測するエンジンに変えたと説明しており、従来の最先端モデルに比べて遺伝子の働き（遺伝子発現）を変えうる変異をほぼ2倍多く特定できたという。さらに、再学習なしで新しい種類の細胞や生物学的状態についても予測でき、実験データの不足部分を示して次に調べるべき課題の判断に役立つ可能性もあるとしている。\n\n研究者のアダム・ガヨソ氏は、この研究の大きな前進を「ヒトの遺伝学と細胞生物学を結びつけたこと」だと述べた。ゲノム研究の責任者であるジガ・アフセック氏は、薬の開発では特定のタンパク質や細胞の種類を標的にするため、こうした精密さが重要だと説明した。一方でAlphaGenome 2は計算コストが高く、すぐにAlphaGenomeに取って代わるものではないという。Googleは本日から、AlphaGenome APIを通じて非商用の研究向けに提供し、商用研究向けには限定的な「プライベートプレビュー」を用意したとしている。",
+      "sources": [
+        {
+          "outlet": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+          "date": "2026-11-11",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "9d0d46181104",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html",
+      "headline": "ジェンスン・ファン氏の不倫疑惑、エヌビディア取締役会が解任を準備と報道",
+      "originalTitle": "Jensen Huang had a second affair – with an employee",
+      "outlet": "cnbc.com",
+      "region": "overseas",
+      "category": "ai",
+      "score": 83,
+      "tier": "should",
+      "pubDate": "2026-11-11T22:29:27.000Z",
+      "body": null,
+      "summary": "ウォール・ストリート・ジャーナル（WSJ）は、エヌビディアの取締役会が最高経営責任者（CEO）のジェンスン・ファン氏を解任する準備を進めていると報じた。この報道を受け、同社株は水曜日の時間外取引で9%超下落した。報道は、ニューヨーク・タイムズがファン氏と同社の別の幹部との不倫関係を報じた数分後に出た。取締役会は水曜日にも会合を開き、ファン氏の去就を判断する見通しだという。\n\nニューヨーク・タイムズによると、不倫相手とされるのは同社のヘルスケア事業担当バイスプレジデントのキンバリー・パウエル氏である。同紙は、2人が3月にカリフォルニア州サンノゼのホテルで親密な様子をカメラに捉えられたとも伝えている。エヌビディアとパウエル氏は、報道へのコメント要請に即答していない。ファン氏は少なくとも昨年には危機管理PR会社のヘラーを起用していたと報じられている。\n\nファン氏は、報道の数日前に中国のスパイとみられる女性との不倫関係を認めていた。フィナンシャル・タイムズとニューヨーク・タイムズによると、ファン氏と関係があったとされるアリス・ファン氏は、米国の情報当局が中国国家安全部のスパイとみている人物だという。ファン氏は日曜日に従業員宛てに送ったメッセージで「私は妻に不誠実だった。私の行動は妻と子どもたちを傷つけた。言い訳の余地はない」と書き、「心から深く謝罪する」とした。取締役会は独立した調査を開始し、法律事務所ワクテル・リプトン・ローゼン・アンド・カッツを起用して、スパイ疑惑について調べている。\n\n株価は今週7%下落し、6週連続の値下がりに向かうペースとなっている。ファン氏の保有株の大部分は妻のロリ・ファン氏と共同で持ち、信託を通じて保有されている。信託分は約8億株で、ファン氏個人の保有は約7000万株であり、同社への経済的な支配力は限られるという。両者の関係をめぐる噂は数年前から出回っていたとされ、匿名の元従業員は、パウエル氏に健康や科学の経歴がないことが一因だと語った。",
+      "sources": [
+        {
+          "outlet": "cnbc.com",
+          "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html",
+          "date": "2026-11-11",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": "https://news.ycombinator.com/item?id=50459679",
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "1399104b4951",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "headline": "United Airlines、AIエージェントによる航空券予約を禁止",
+      "originalTitle": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "outlet": "cbsnews.com",
+      "region": "overseas",
+      "category": "ai",
+      "score": 82,
+      "tier": "should",
+      "pubDate": "2026-11-11T21:24:35.000Z",
+      "body": null,
+      "summary": "United Airlinesは11日、旅行者に代わってAIエージェントが航空便を予約することを禁止すると発表した。理由として、セキュリティ上のリスクと、連邦規則に違反する可能性があることを挙げている。消費者は、商品の調査や割引の探索、購入などの作業にAIエージェントを使うようになっており、記事ではMetaの「Muse」やOpenAIの「dots」が例として示されている。\n\n予約にはクレジットカード情報などの認証情報を含む個人情報が必要になる。同社は、認証情報を個人向けの第三者AIアシスタントと共有すると機密情報が漏えいする恐れがあり、意図しない購入やアカウントの変更、マイレージプログラム「MileagePlus」のマイルの利用につながる可能性があると説明している。また、AIエージェントを使ってチェックインすることは、預け荷物に禁止物質が含まれていないことを対面で確認することを求める連邦規則に反する可能性があるとしている。\n\n同社はデジタル基盤上で直接、また旅行代理店やアグリゲーター（複数の航空会社の運賃を集めて提供する事業者）を通じて間接的に、許可のない第三者のAIエージェントの利用を制限する。予約と発券の方針も、この新ルールに合わせて更新する。航空アナリストのヘンリー・ハーテベルト氏（Atmosphere Research Group）は、同社がGoogle検索や価格比較サイト、オンライン旅行会社に加えて、さらに強力な仲介者を増やしたくないのだと分析している。さらに、航空券の検索には航空会社側にコストがかかるため、AIボットによる検索の急増を避けたい意図があるとも述べている。\n\n一方で、Southwestは、ChatGPTの利用者がAIアプリを通じて同社サイトにアクセスできるよう、便の在庫を閲覧可能にしている。ハーテベルト氏によれば、Unitedの運賃はKayak、Hopper、Google Flightsなどの検索サービスを通じて引き続き予約できる。同氏は、AIボットを遮断しても、Unitedの運賃を見つけやすくなるわけではないとも指摘している。",
+      "sources": [
+        {
+          "outlet": "cbsnews.com",
+          "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+          "date": "2026-11-11",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": "https://news.ycombinator.com/item?id=50458900",
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "d48e4f7a3199",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
+      "headline": "TSMC、OpenAIとAnthropicにそれぞれ最大5億ドルを投資へ",
+      "originalTitle": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
+      "outlet": "Ars Technica",
+      "region": "overseas",
+      "category": "ai",
+      "score": 79,
+      "tier": "should",
+      "pubDate": "2026-11-11T18:16:40.000Z",
+      "body": null,
+      "summary": "台湾の半導体受託製造大手TSMCの取締役会は、OpenAIとAnthropicへの投資計画を承認したと、ロイター通信が報じている。OpenAIには大口投資家向けの優先株を最大5億ドル、Anthropicには想定される新規株式公開（IPO）価格で普通株を5億ドル分取得する。合計で最大10億ドルの投資となる。\n\nウォール・ストリート・ジャーナル紙は、この投資がAI関連の相場に陰りが見える中で市場に信頼感を与える可能性があると報じている。一方で、同紙によれば、投資家、供給企業、顧客の間で資金が循環する構造のため、AI関連のハードウェアやサービスに対する実際の需要を評価することが難しくなっているとアナリストが警告している。\n\nTSMCの工場は、NvidiaのAIデータセンター向けチップの大部分と、AppleのiPhoneやMacに使われるカスタムチップの大部分を製造している。主要な工場は台湾にあるが、日本や中国にも工場があり、米国アリゾナ州では製造拠点を拡大している。ドイツでも新工場を建設中である。",
+      "sources": [
+        {
+          "outlet": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
+          "date": "2026-11-11",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "8e4104a923ec",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "headline": "Google、判定処理に特化したGemini Decisions APIを提供開始",
+      "originalTitle": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "outlet": "Google AI Blog",
+      "region": "overseas",
+      "category": "ai",
+      "score": 77,
+      "tier": "should",
+      "pubDate": "2026-11-11T18:00:00.000Z",
+      "body": null,
+      "summary": "Googleは、新しいAPI「Gemini Decisions API」の提供を開始した。新モデル「Gemini Decision 1」（gemini-decision-1）を使い、Gemini APIを通じてGoogle AI Studioから利用できる。このAPIは、テキスト、画像、音声、動画、PDFを組み合わせた入力（最大25万6000トークン。トークンは文字列を分割した処理単位）に対して、最大1,000件の質問を一度の処理で評価する。\n\n一般的な生成AIは回答を一文字ずつ生成するが、このモデルは候補となる選択肢をまとめて採点し、確率と確信度を返す。応答時間は150〜250ミリ秒で、入力100万トークンあたり0.10ドルと、出力トークンには課金されない。ツールの選択、ポリシーの確認、モデルの振り分けなど、選択肢の範囲が決まっている判断に向けた機能として位置づけられている。\n\n質問の形式は、Yes/Noで確率を返す「noul」、2〜255個の選択肢から一つを選ぶ「choice」、順序付きの基準で採点する「score」の三種類である。各回答には0から1の確信度が付き、確信度が低いものを人間の確認に回すといった使い方ができる。同社は、共通のベンチマークで全体的に最も高い性能を示し、確信度が実際の正答率とどれだけ一致するかを示す較正誤差も最も低かったとしている。また、同じベンチマークでの費用は、Interactions API経由のGemini 3.5 Flash-Liteと比べて約5分の1だとしている。\n\n利用例として、Gemini Notebookでは問い合わせの内容を適切なモデルに振り分けるために使われ、最大40%低い遅延で応答できるようになったと説明している。CCは200以上の選択肢から絵文字によるリアクションを選ぶのに使っており、Googleの検索では、AIモデルと外部ツールをつなぐ共通規格MCPのツールに対して、攻撃的な挙動や内容を検出する安全層として利用されている。Gemini in Google Cloudでの対応は近日中に予定されているとしている。",
+      "sources": [
+        {
+          "outlet": "Google AI Blog",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+          "date": "2026-11-11",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "0edb911b02b0",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2611/11/2000003098/",
+      "headline": "中国Alibaba、AIモデル「Qwen4」発表 Qwen4-Maxのプレビュー版を提供",
+      "originalTitle": "中国AI「Qwen4」ついに登場 プレビュー版を提供開始、AlibabaのAIサービスで",
+      "outlet": "ITmedia AI+",
+      "region": "domestic",
+      "category": "ai",
+      "score": 75,
+      "tier": "should",
+      "pubDate": "2026-11-11T02:30:32.000Z",
+      "body": null,
+      "summary": "中国のAlibaba Cloudは11月11日（日本時間）、AIモデル「Qwen4」を公式Xで発表した。同社は、知識や実世界への理解、コーディング性能、自律的にタスクをこなす力が向上したとしている。「Qwen4-Max」のプレビュー版（正式版の前に試験的に公開される版）を、同社のAIサービスで提供開始した。\n\nモデルの詳細は明らかにされていない。ただし同社は、「複雑なコーディングから知識労働、フロントエンドの構築、プロフェッショナルなソフトウェアワークフローまで、実世界のタスクに対応するように設計した」とうたっている。\n\nQwen4-Maxのプレビュー版は、Alibaba Cloudのサブスクリプションサービス「Token Plan」を通じて提供される。「QwenWork」「Qoder」「Qwen APP」「QwenStudio」の各サービスでも早期アクセスが可能だとしている。",
+      "sources": [
+        {
+          "outlet": "ITmedia AI+",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2611/11/2000003098/",
+          "date": "2026-11-11",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "1eeea375c27d",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.watch.impress.co.jp/docs/news/2155544.html",
+      "headline": "OpenAI、APIの処理・推論を国内で可能に 対象はGPT-6 Luna",
+      "originalTitle": "OpenAI、APIの処理・推論が国内で可能に GPT-6 Lunaから",
+      "outlet": "Impress Watch",
+      "region": "domestic",
+      "category": "ai",
+      "score": 72,
+      "tier": "interest",
+      "pubDate": "2026-11-11T07:00:00.000Z",
+      "body": null,
+      "summary": "OpenAIは11日、OpenAI APIで提供する「GPT-6 Luna」について、リクエストの処理とモデルの推論を日本国内で行える機能の一般提供を開始した。対象はテキストと画像の入力、テキストの出力で、利用条件を満たす企業や開発者が利用できる。\n\n同社は2025年5月に、日本を含むアジア地域でデータレジデンシー（顧客データを特定地域に保存する仕組み）への対応を発表し、対象となる顧客データの国内保存を可能にしていた。今回の対応により、データの保存に加えて、APIリクエストの処理と、入力内容に基づいて回答を生成するモデルの推論も国内で行えるようになる。\n\nこれにより、金融、通信、医療、行政など、データの国内処理が求められる分野でもAIを導入しやすくなるとしている。文書の要約や回答案の作成、情報分析の支援などの業務での活用を想定する。\n\n対象APIは「Responses API」と「Chat Completions API」である。利用にはゼロデータ保持（ZDR）についてOpenAIの事前承認を受けたうえで、対象APIの利用環境でZDRを有効化する必要がある。利用者は、データの保存場所と処理場所の両方に日本を選択した新しいAPIプロジェクトを作成し、日本向けのAPIエンドポイントを使用する。対応するサービス区分は「Standard」の従量課金のみである。\n\n対象外は、ChatGPTやCodexのアプリ、GPT-6 Luna以外のモデル、音声、画像生成、OpenAIがホストするツールである。国内保存・処理の対象は所定の顧客コンテンツに限られ、アカウント情報や利用状況、課金情報などのシステムデータは含まれない。顧客が管理するツールや外部サービスの処理場所も対象外であり、すべての処理が国内で完結することを保証するものではない。OpenAIは、オーストラリアとインドでも同様の機能を提供する。",
+      "sources": [
+        {
+          "outlet": "Impress Watch",
+          "url": "https://www.watch.impress.co.jp/docs/news/2155544.html",
+          "date": "2026-11-11",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "590308af0e50",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2611/11/2000003104/",
+      "headline": "Notion、AIのチャット記録が漏えいの恐れ 委託先への不正アクセスで",
+      "originalTitle": "「AIとのチャット記録」が漏えいか、Notion 委託先に不正アクセス",
+      "outlet": "ITmedia AI+",
+      "region": "domestic",
+      "category": "it",
+      "score": 70,
+      "tier": "interest",
+      "pubDate": "2026-11-11T05:16:43.000Z",
+      "body": null,
+      "summary": "クラウド型ワークスペース「Notion」を運営する米Notion Labsは11月9日（現地時間）、Notionで使えるAIサービス「Notion AI」のチャット記録が漏えいした恐れがあると発表した。原因は委託先の米Fireworks.aiへの不正アクセスとしている。影響範囲は全ワークスペースの1％未満だとしている。\n\n漏えいした恐れがあるのは、Notion AIの利用状況を分析する機能「Insights」のチャット記録である。影響を受けたワークスペースの大半には利用者を示すラベルが付いていなかったという。ただし、チャット記録そのものには利用者に関する情報が含まれる可能性がある。\n\n同社は同日時点で対象となる利用者に連絡した。漏えいした可能性のあるチャット記録に、機密情報やパスワード、APIキー、その他の認証情報が含まれる場合は、それらを更新するよう呼び掛けている。日本語の公式Xアカウント（@NotionJP）も11日（日本時間）に同事案について発信し、不明点はメールで問い合わせるよう案内している。",
+      "sources": [
+        {
+          "outlet": "ITmedia AI+",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2611/11/2000003104/",
+          "date": "2026-11-11",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "cd7e49b900d1",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003049/",
+      "headline": "同一Wi-Fi内の通信を遮断する「クライアント分離」を突破する攻撃、米大学が検証",
+      "originalTitle": "“同じWi-Fiにいる誰か”に通信をのぞかれる？ 「クライアント分離」を2秒で突破する攻撃 米大学が検証",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "it",
+      "score": 68,
+      "tier": "interest",
+      "pubDate": "2026-11-11T03:11:32.000Z",
+      "body": null,
+      "summary": "米カリフォルニア大学リバーサイド校などの研究者らは、2026年2月に発表した論文「AirSnitch」で、Wi-Fiの同じネットワーク内にいる端末同士の通信を遮断する「クライアント分離」を突破する攻撃手法を報告した。クライアント分離には業界統一の標準規格がなく、メーカーごとに独自の実装が行われてきた。そのため、調査した家庭用・法人用ルーターや大学ネットワークのすべての環境が、いずれかの攻撃で分離機能を無効化され、通信の盗聴やデータ注入の脅威にさらされたという。\n\n主な抜け道は3つある。1つ目は、ネットワーク内の全端末への一斉送信に使われる共有暗号鍵「グループ一時鍵」（GTK）の悪用である。攻撃者はこの共通鍵で一斉送信を装い、被害者宛ての個別パケットを埋め込んで送ることで、正常な通信として受け入れさせるという。2つ目は「ゲートウェイ・バウンシング」で、多くの機器は端末の識別番号（MACアドレス）での直接通信を遮断する一方、IPアドレスでの制限を行っていない。そのため、直接の宛先をルーター、最終的な宛先を被害者のIPアドレスとしたデータを、ルーターが被害者へそのまま転送してしまうとされる。\n\n3つ目は、アクセスポイント（AP）内部のスイッチ機能と暗号化処理のズレを突く「ポートスティーリング」である。現代のAPは周波数帯や用途ごとに複数の接続口（BSSID）を持ち、内部では別々の仮想ポートとして扱われる。攻撃者がゲスト用Wi-Fiなどの別ポートから被害者のMACアドレスを偽装して接続すると、APは被害者が移動したと誤認し、被害者宛ての下り通信を攻撃者側へ転送するようになる。パスワードのないオープンなゲストWi-Fiでは、本来暗号化されている通信が暗号化されない状態で漏えいするという。さらにルーター自身のMACアドレスを偽装すれば、インターネットへ向かう上り通信も奪取できるとしている。\n\nこれらの通信の横取りとデータの再注入を組み合わせると、攻撃者は被害者にほとんど気づかれずに、双方向の通信に割り込む中間者攻撃（MitM）を確立できるという。ルーター「Netgear R8000」では、わずか約2秒で確立できた。実証実験では、ゲストWi-Fiからメインの Wi-Fi上の端末の通信を遅延なく傍受できたほか、企業の有線側にある認証サーバ（RADIUS）の通信を盗聴してパスワードを解読し、偽のAPを立ち上げて通信や認証情報を傍受できることも確認されたとしている。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003049/",
+          "date": "2026-11-11",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "019cc9ec163b",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+      "headline": "英国のAIチップ新興Fractile、7億2000万ドルのシリーズC調達を実施",
+      "originalTitle": "With $720M round, Britain's Fractile gets a leg up in the race for AI chips",
+      "outlet": "TechCrunch",
+      "region": "overseas",
+      "category": "ai",
+      "score": 67,
+      "tier": "interest",
+      "pubDate": "2026-11-11T19:34:55.000Z",
+      "body": null,
+      "summary": "英国の新興企業Fractileは、7億2000万ドルのシリーズC資金調達を実施した。出資には英国のSovereign AI Fund（政府系のAI投資ファンド）が加わっており、英政府は、英国が将来の経済を支えるハードウェアにより大きな役割を持つことを目指すと述べた。\n\nFractileは、Axelera、Etched、OLIXなどと並び、専用AIチップ開発で資金調達額の大きい新興企業の一つとされる。こうしたチップは、推論（実運用でAIモデルを動かすこと）のコストを下げる手段の一つとして開発が進められている。同社はハードウェアに加え、LLMをチップ上でできるだけ速く実行するための機械学習コンパイラ（プログラムを機械語に変換するソフトウェア）を含むフルスタック型の手法を採っている。\n\n同社は自らを最先端のAI企業と位置づけており、今回の資金調達はThrive Capital、Founders Fund、Lightspeed Venture Partners、Redpointが主導した。評価額について英政府は「50億ポンド超」としており、英紙フィナンシャル・タイムズとロイターの情報源は約70億ドルと報じたという。記事は、同社の主な差別化要因はハードウェア設計になるとみている。方向転換後は、一般的な主記憶に使われるDRAM（メモリの一種）をチップ上に積み重ねる構造を採用し、メモリと容量のトレードオフを回避することを狙うという。\n\n背景として、エージェントAI（自律的に複数の作業を連続して実行するAI）の広がりにより、大規模モデルで速度を落とさずに長い作業の連鎖を処理する需要が高まり、このトレードオフが問題になっている。CEOのWalter Goodwinは、LinkedInへの投稿で同社には「まだやるべきことが多くある」と述べ、今回の資金で来年に最初のチップとシステムを出荷したいとしている。",
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+          "date": "2026-11-11",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "81c693f5ead5",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "science",
+      "url": "https://arstechnica.com/science/2026/11/ibm-to-offer-access-to-a-dual-processor-quantum-system-in-2027/",
+      "headline": "IBM、2027年に二つのプロセッサを連結した量子システムを提供へ",
+      "originalTitle": "IBM to offer access to a dual-processor quantum system in 2027",
+      "outlet": "Ars Technica",
+      "region": "overseas",
+      "category": "science",
+      "score": 65,
+      "tier": "interest",
+      "pubDate": "2026-11-11T16:33:08.000Z",
+      "body": null,
+      "summary": "IBMは、2027年に2基のプロセッサを組み合わせた量子システムへのアクセスを提供する計画を示した。以前のロードマップでは、各世代でゲート演算の回数を増やし、2027年版では120個のハードウェア量子ビットを維持したまま1万回のゲート演算を目指すとしていた。ただし同社は、プロセッサ内の量子ビット数を増やすのではなく、複数のチップを連結して量子ビット数を増やす方向に転じる見通しを示している。誤り訂正を施した実用的な数の量子ビットを得るには、いずれ連結が必要になるとしている。\n\n前ロードマップでは2026年に3基のNighthawkプロセッサを連結して360量子ビットとする計画だったが、今年はその形では提供されていない。代わりに、9月に発表された「Nighthawk r2」が単一チップとして提供されている。IBMは、r2はr1と比べて大幅な性能向上があるとしている。その主な理由は、量子ビットを基底状態（エネルギーが最も低い状態）に戻すリセット用のハードウェアを多く組み込んだことである。458個の物理量子ビットのうち、計算に使えるプログラム可能な量子ビットは120個である。\n\nIBMのQuantum Systems担当VPであるOliver Dialは、「計算用の量子ビット1つにつき、余分な物理量子ビットを1つチップに組み込んでいる。これにより、プログラム可能な量子ビットからエネルギーを素早く取り除き、基底状態に戻せる」と説明した。そのうえで、「ユーザーはこれまでより速く回路を実行できる」と述べた。すべての演算で必要なわけではないが、一部の演算では最大19倍の高速化を報告している。なお、リセット用の素子は物理的には計算用の量子ビットと同一だが、量子ビットとしては使えないため、IBMは「dissipative reset gadgets」と呼ぶこともあるという。\n\nIBMは2027年の次世代Nighthawk r3で、この技術を維持しつつ他のハードウェア改良と組み合わせ、誤りが増えすぎずに実行できる演算の数を増やすとしている。プログラム可能な量子ビットは520個を目標としている。計算用の量子ビットとリセット用素子の比率が変わらないと仮定すると、量子ビットに相当する素子は約2000個になると推定される。これは、IBMがこれまでに提供した最大の量子プロセッサのおよそ2倍の規模に相当する。",
+      "sources": [
+        {
+          "outlet": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/11/ibm-to-offer-access-to-a-dual-processor-quantum-system-in-2027/",
+          "date": "2026-11-11",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "a698a1db8e23",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.publickey1.jp/blog/26/awsaiec2vmaws_nitro_sandboxes.html",
+      "headline": "AWS、AIエージェント向けの軽量VM「AWS Nitro Sandboxes」を提供開始",
+      "originalTitle": "AWS、AIエージェント向けに強力な隔離環境とネイティブなEC2性能を備えた軽量VM「AWS Nitro Sandboxes」提供開始",
+      "outlet": "Publickey",
+      "region": "domestic",
+      "category": "it",
+      "score": 64,
+      "tier": "interest",
+      "pubDate": "2026-11-11T15:04:47.000Z",
+      "body": null,
+      "summary": "AWSは、Amazon EC2インスタンス上で動作する軽量な仮想マシン「AWS Nitro Sandboxes」の提供を開始したと発表した。ほぼネイティブのEC2性能を保ちながら、AWSの基盤であるNitro System（AWSのハードウェアレベルでセキュリティと分離環境を実現する仕組み）による強力な隔離環境を備えるとしている。\n\nAIエージェント（利用者の指示を受けて自律的に作業を行うAIプログラム）によるコーディングの普及で、コンテナなどの軽量な仮想環境でAIが生成した信頼できないコードを実行する機会が増えている。一般的なコンテナはカーネル（OSの中核部分）を共有しており、十分に安全な分離とはいえない場合があるため、悪意のあるコードが実行されると同一マシン上の別のコンテナやサービスに影響が及ぶ可能性があると説明している。\n\nNitro Sandboxesでは、サンドボックス（隔離された実行環境）ごとにホストや他のサンドボックスとは独立したOSが提供され、サンドボックス内のシステムコール（OSへの処理要求）はサンドボックス内のゲストカーネル以外には到達しない構成だという。Amazon EC2上のサンドボックスのほか、Amazon ECSやAmazon EKSのPod（Kubernetesでコンテナをまとめて動かす単位）としても利用できる。\n\nAmazon EKSのオートモードでは、Nitro Sandboxesを有効にすることでPodを軽量VMに変更できる。変更後も従来のコンテナイメージ、デプロイメントパイプライン、ヘルムチャート（Kubernetes用のアプリ構成をまとめたパッケージ）はそのまま利用できるとしている。",
+      "sources": [
+        {
+          "outlet": "Publickey",
+          "url": "https://www.publickey1.jp/blog/26/awsaiec2vmaws_nitro_sandboxes.html",
+          "date": "2026-11-11",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "20639d02df4c",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.watch.impress.co.jp/docs/news/2155637.html",
+      "headline": "三菱電機、水道水を使ったアンテナ「Liqutenna」を開発 KDDIと接続試験に成功",
+      "originalTitle": "三菱電機、水道水+アクリルパイプがアンテナになる技術",
+      "outlet": "Impress Watch",
+      "region": "domestic",
+      "category": "it",
+      "score": 62,
+      "tier": "interest",
+      "pubDate": "2026-11-11T09:59:49.000Z",
+      "body": null,
+      "summary": "三菱電機は、KDDIと協力して水道水を用いたアンテナ「Liqutenna」（リクテナ）を開発し、通信業界で初めてモバイル端末との接続試験に成功したと発表した。試験は800MHz帯のモバイル通信で行われ、KDDIの屋内検証環境では一般的な金属製アンテナと同等の性能が確認されたという。\n\nLiqutennaはアクリルパイプの内部を水道水で満たし、その水を電波の送受信に用いる構造である。三菱電機が開発した海水アンテナ「シーエアリアル」の知見をもとにしており、水道水は海水より導電性（電気の通しやすさ）が大幅に低いが、パイプの内径や形状を工夫することで接続性能を確保したとしている。\n\n透明感のある外観を生かせるため、景観への配慮から設置が難しかった場所にも、レピータやアクセスポイントのアンテナとして周囲に馴染む形で設置できるようになる。通信環境の改善と景観との調和を両立できるとしている。\n\n今後はKDDIと協力し、電波が届きにくいエリアでの実証評価を進めて社会実装を図る方針である。",
+      "sources": [
+        {
+          "outlet": "Impress Watch",
+          "url": "https://www.watch.impress.co.jp/docs/news/2155637.html",
+          "date": "2026-11-11",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "e394e9f5a598",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003116/",
+      "headline": "ドコモ通信障害、一部復旧も完全解消には至らず 原因は調査中",
+      "originalTitle": "続くドコモ通信障害 一部除き復旧も、完全解消には至らず 原因は調査中",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "it",
+      "score": 60,
+      "tier": "interest",
+      "pubDate": "2026-11-11T09:36:04.000Z",
+      "body": null,
+      "summary": "ドコモの通信障害が続いている。一部では復旧したものの、障害は完全には解消していない。原因は調査中である。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003116/",
+          "date": "2026-11-11",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "c063829a6185",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+      "headline": "CoreWeave、顧客前払いと短期契約で資金調達の方法を見直す",
+      "originalTitle": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+      "outlet": "TechCrunch",
+      "region": "overseas",
+      "category": "ai",
+      "score": 58,
+      "tier": "interest",
+      "pubDate": "2026-11-11T19:54:00.000Z",
+      "body": null,
+      "summary": "CoreWeave（AIの計算能力を貸し出す新興クラウド事業者）は、第3四半期決算（火曜日発表）で、AI事業の資金調達の方法を見直していることを明らかにした。顧客に前払いを求める割合を高め、特定の顧客契約を担保にした借り入れを行い、価格を上げやすい短期契約も追求している。マイケル・イントレーター最高経営責任者（CEO）は決算説明会で、現在の利回りでは無担保社債市場で資金を調達しない考えを示した。\n\n業績は売上高が36億6000万ドルで前年同期比168%増となった一方、純損失は7億900万ドル、四半期の支払利息は8億4600万ドルに上った。受注残（バックログ）は1325億ドルと大きく、未建設の設備については、特定の顧客契約に連動した融資を必要に応じて引き出して賄う計画である。次の3カ月では約90億ドルの顧客前払いと預り金を見込んでおり、うち30億ドル超は既に構築済みの設備の新規契約に結びつくという。ライバルのNebiusとIRENもMicrosoftからの多額の前払いで計算能力の費用を賄っており、大手IT企業に設備投資の負担を求める流れが業界に広がっているとしている。\n\n価格面では、7月に全サービスを約25%、四半期の後半にさらに10%引き上げた。イントレーターCEOは、今四半期も価格は上昇を続けており、コスト増を十分に上回っていると述べた。短期契約は価格が見合う場合に割り当てを増やしており、設備1メガワット当たりの年間販売価格は4000万ドル超となっている。一方、4〜5年契約の新規インフラ向け価格は2000万〜2500万ドルに推移している。8月には短期契約向けの初めての融資として26億ドルの「DDTL 5.5」を締結した。必要に応じて分割で借り入れる仕組みである。\n\n短期契約は価格を高くでき、変更も頻繁に行えるが、貸し手は価格が低くても長期契約を重視する。返済には予測可能な収益が最も重要だからである。株式市場は決算に好意的に反応した一方、債券投資家は慎重で、先月は一部社債の利回りが15%を超えた。データセンター整備の資金負担が収益化の前に重くのしかかることへの懸念が背景にあるとしている。記事は、この戦略が収益を押し上げ得る一方、契約更新と価格面のリスクを伴い、AIインフラ投資が未検証の需要に依存していることを示すとしている。",
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+          "date": "2026-11-11",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "8ca8668e42d7",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://kn.itmedia.co.jp/kn/article/2611/12/2000003082/",
+      "headline": "Claude Enterpriseに設定一覧や個人アカウント遮断などを追加",
+      "originalTitle": "Claude Enterpriseがセキュリティと管理機能を強化 DLP・EDR連携など新機能の全容は",
+      "outlet": "ITmedia AI+",
+      "region": "domestic",
+      "category": "ai",
+      "score": 58,
+      "tier": "interest",
+      "pubDate": "2026-11-11T22:00:00.000Z",
+      "body": null,
+      "summary": "Anthropicは2026年11月5日、企業向けAIサービス「Claude Enterprise」のセキュリティおよび管理機能を拡充したと発表した。新たに設けたセキュリティセンターや、一般提供を開始したインファレンス（推論）フック、一元管理コンソール、アクセス制御の強化などを通じ、セキュリティ担当者がClaudeの設定状況、端末上での動作、業務中のデータ処理を把握して統制できるようにするという。\n\nセキュリティセンターは、チャットおよび「Cowork」「Claude Code」に関するセキュリティ設定を1ページで一覧できる機能である。組織の設定画面内に設けられ、自社の設定とAnthropicの推奨構成を比較できる。各項目について現在の設定値、推奨値、変更画面へのリンクを表示し、新規または最近変更された設定も確認できる。ページを読み込むたびに設定を自動で確認する仕組みで、Compliance APIを利用する組織はAPI経由で同じ結果を取得できる。\n\nリード文によると、今回の拡充にはDLP（情報漏えい防止）との連携や個人アカウントの遮断も含まれる。企業が承認していないIT利用（シャドーIT）への対策を支援するためとしている。",
+      "sources": [
+        {
+          "outlet": "ITmedia AI+",
+          "url": "https://kn.itmedia.co.jp/kn/article/2611/12/2000003082/",
+          "date": "2026-11-11",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "6bc57b8d8016",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
+      "headline": "Meta、インフラ担当の責任者サントッシュ・ジャナルダン氏が退任へ",
+      "originalTitle": "Meta is losing its longtime head of infrastructure",
+      "outlet": "TechCrunch",
+      "region": "overseas",
+      "category": "it",
+      "score": 57,
+      "tier": "spare",
+      "pubDate": "2026-11-11T20:12:01.000Z",
+      "body": null,
+      "summary": "Metaは、インフラ部門の責任者でエンジニアリング共同責任者を務めてきたサントッシュ・ジャナルダン氏が退任すると、TechCrunchに明らかにした。後任はデイブ・ブラウン氏で、今年初めにインフラ担当の副社長として入社した。ブラウン氏は前職のAmazonで19年間、計算資源、クラウド、AIを担当していたとLinkedInに記載されている。ジャナルダン氏は2009年に入社し、Metaが巨大なインターネット企業へと成長する過程を支えた。\n\n同社の説明によると、ジャナルダン氏は移行のため当面は在籍し、Meta Computeの助言役に移る。来年に退社する見通しである。ブルームバーグが社内回覧されたメモを根拠に最初に報じた。メモは「バトンを渡す」必要性に触れていたが、退任理由は明らかにされていない。ジャナルダン氏は今年初め、データセンター投資と戦略を拡大する全社的な取り組みであるMeta Computeを率いる役割を任されていた。同社はAI競争に対応するため、インフラ投資を大きく増やしているという。",
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
+          "date": "2026-11-11",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "a528a4a9a3b6",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.watch.impress.co.jp/docs/news/2155271.html",
+      "headline": "NTT、ロボットの行動前に結果を予測するフィジカルAI技術を発表",
+      "originalTitle": "NTT、“未来を予測する”フィジカルAI ロボットの失敗を回避",
+      "outlet": "Impress Watch",
+      "region": "domestic",
+      "category": "ai",
+      "score": 55,
+      "tier": "spare",
+      "pubDate": "2026-11-11T06:00:00.000Z",
+      "body": null,
+      "summary": "NTTは11日、ロボットが行動する前に荷崩れや落下などのリスクを予測し、成功率の高い行動を選択できるフィジカルAI技術を発表した。物理法則に基づいて物体の動きなどを予測する「NTTワールドモデル」を活用し、複数の行動候補を事前に評価することで作業精度を高める。ワールドモデルとは、外界の状態や変化を把握し、自身の行動によって生じる未来の状態変化を予測するモデルのことである。\n\n従来のワールドモデルは、大量の映像データから経験的に未来の変化を学習する方式が主流で、学習していない状況では物理法則に反する予測を生成する場合があった。特に空港の手荷物や宅配便など、形状・重量・配置の異なる物品を扱う現場では、あらゆる状況を想定した学習データを集めることが難しいという。NTTワールドモデルは、映像生成モデルに独自開発の「物理制御アダプタ」を組み合わせた技術である。物体の位置・姿勢・速度・質量などを推定し、運動方程式に基づいて状態の変化を予測することで、物体同士の接触や衝突などの複雑な動きを再現する。\n\n経験に基づく映像生成モデルと物理法則に基づく制御アダプタを統合したことで、物体の消失や変形などの不自然な予測を抑え、学習していない状況でも物理的な整合性を保った予測ができるという。既存のロボット制御ソフトウェアとも連携でき、VLA（視覚・言語・行動を結びつけて動作を出力するAIモデル）やモーションプランナーが生成した複数の行動候補について、実行後の状況を映像で予測し、各行動の成否をスコアとして出力する。\n\n小型ロボットによる不定形物の棚積み実験では、オープンソースのVLAモデル「π0.5」にNTTワールドモデルを組み合わせたところ、タスクの成功率が73.1%から92.3%に向上した。複数物体の衝突を含む公開ベンチマーク「OBJ3D」では、人間の知覚に近い感覚で正解映像と予測映像の類似度を測る指標「LPIPS」で7.81を記録し、既存手法の「OCK」（7.92）や「NVIDIA Cosmos Predict 2.5」（21.90）を上回る予測精度を確認したという。NTTは、形状や重量の異なる空港手荷物の積み込み・積み下ろしを最初の適用先として想定し、Mujinと連携して実証を進める。今後は物流・倉庫、製造、建設、小売などへの展開を目指すとしている。",
+      "sources": [
+        {
+          "outlet": "Impress Watch",
+          "url": "https://www.watch.impress.co.jp/docs/news/2155271.html",
+          "date": "2026-11-11",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "3588ceed4155",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://openai.com/index/ai-effect-on-freelance-work",
+      "headline": "OpenAI、AIがフリーランス業務の内容と案件規模に与える影響を分析",
+      "originalTitle": "Work at the Frontier: AI’s effect on freelance work",
+      "outlet": "OpenAI",
+      "region": "overseas",
+      "category": "ai",
+      "score": 52,
+      "tier": "spare",
+      "pubDate": "2026-11-10T07:00:00.000Z",
+      "body": null,
+      "summary": "OpenAIは、フリーランス向けマーケットプレイスのUpworkと共同で、フリーランスの案件とChatGPTの利用実態を比較した研究結果を公表した。熟練した米国の知識労働者の38%がフリーランスとして働いており（Upworkの2026年の調査）、2024年に米国のフリーランス知識労働が生んだ収入は1.5兆ドルと推計されている（Upworkの前年の調査）。フリーランスの案件は契約期間が短く、依頼内容も頻繁に更新されるため、雇用統計より早く変化が表れるとしている。\n\n分析の結果、ChatGPTの利用で比較的多い作業ほどUpworkでの案件シェアを落とし、少ない作業ほどシェアを伸ばす傾向が、63の作業カテゴリのうち43で見られた。残る20カテゴリでは逆の動きだった。ChatGPTの利用だけでフリーランス需要の変化は説明できないという。ChatGPTでは文章作成の占める割合が大きい一方、フリーランスの案件では動画・アニメーションの割合が大きい。OpenAIは、この研究が示すのは現在のChatGPT利用の実態であり、AIが支援できる作業の全範囲ではないとし、その差を「capability overhang」と呼んでいる。\n\n2023年初頭から2025年後半にかけて、AI関連の案件に含まれる作業の種類は多様化した。同じ割合で現れる作業の種類数に換算すると、約15から約21へと45%広がった相当である。クライアントはチャットボット開発、動画制作、マーケティングの自動化、アプリケーションの連携など、より多くの分野でAIの活用を求めるようになり、従来はあまり一緒に現れなかった作業を組み合わせる案件も増えた。ある案件では、AIで生成した動画、編集、モーショングラフィックスを一度に依頼していた。時給は両者で同程度だったが、AI関連の案件は固定報酬の予算が大きく、作業時間も長かった。予算の増加は作業範囲の拡大を一部反映している可能性があるとしている。\n\nAIの影響は雇用統計では捉えにくく、まず仕事の内容に表れる可能性があるという。ただし、調査結果は単純な代替の構図を示すものではない。ChatGPTで多い作業の一部はシェアを落としたが、その傾向は一様ではなかった。AI関連の業務は作業の範囲が広く、なじみの薄い形で作業を組み合わせ、予算や作業時間も大きい。AIはクライアントがフリーランスに求める業務と、プロジェクトの組み立て方の両方を変えつつある可能性があるとしている。",
+      "sources": [
+        {
+          "outlet": "OpenAI",
+          "url": "https://openai.com/index/ai-effect-on-freelance-work",
+          "date": "2026-11-10",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "bd8a8398326b",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003119/",
+      "headline": "靖国神社に不正アクセス、約1万4500件の個人情報が漏えい",
+      "originalTitle": "靖国神社に不正アクセス 約1万4500件の個人情報漏えい、パスワードが特定されるおそれも",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "it",
+      "score": 52,
+      "tier": "spare",
+      "pubDate": "2026-11-11T10:11:24.000Z",
+      "body": null,
+      "summary": "靖国神社で不正アクセスがあり、約1万4500件の個人情報が漏えいした。パスワードが特定されるおそれもあるという。\n\nITmedia NEWSのアクセスランキングには、ドコモの不正アクセスで本人確認書類の番号も流出したとする記事、メール配信サービスのユミルリンクで約4786万件が漏えいした記事、NTTデータが住友生命から受託したシステムへの不正アクセスで約8万人の情報が漏えいした記事などが並んでいる。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003119/",
+          "date": "2026-11-11",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "d49b4066d81b",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "science",
+      "url": "https://arstechnica.com/space/2026/11/anduril-demos-night-vision-sensor-for-tracking-satellites-in-darkness/",
+      "headline": "Anduril、初の衛星で地球の影の中でも敵対勢力の衛星の動きを捉えられると発表",
+      "originalTitle": "Anduril says its first satellite can see adversaries maneuver in orbital night",
+      "outlet": "Ars Technica",
+      "region": "overseas",
+      "category": "science",
+      "score": 50,
+      "tier": "spare",
+      "pubDate": "2026-11-11T20:22:03.000Z",
+      "body": null,
+      "summary": "防衛関連企業のAndurilは、同社初の衛星とされるAnduril-216に搭載した宇宙用センサーを発表した。このセンサーは長波赤外線を使い、衛星などが発する熱を捉える。地球の影に入る「食」の期間中でも熱の信号を検出できるため、従来は見えにくかった期間に敵対勢力の衛星などが軌道上で動く様子を把握できるとしている。\n\nセンサーは、同社が自律兵器で使う画像技術を宇宙向けに応用して開発された。発表された画像は、地平線の上に見える月を赤外線で撮影したものである。同社の担当者は、これは性能の一端にすぎないとしている。長波赤外線は、対象を点として観測することも、形の分かる画像を得ることもできるという。十分に近づけば、他の衛星を点検することにも使える可能性があるとしている。\n\n衛星の基盤部分（プラットフォーム）は、衛星製造のスタートアップであるApex Spaceが製造した。Andurilは自社で衛星の製造ラインを持つ計画はなく、外部の衛星基盤を購入してセンサーや演算モジュールを組み込む方針だという。Anduril-216の演算モジュールは、赤外線や可視光の撮像装置など複数のセンサーのデータを統合し、地上の分析を介さずに追跡の結果を自ら生成できるとしている。現在は低軌道を主な対象とし、将来は他の軌道や地月空間にも広げる可能性があるという。\n\n同社の別の担当者は、食の期間中は米国が物体の追跡を継続できない現状があり、その課題に対応する任務を設計したと述べた。一方、現在の主な事業は宇宙状況把握（SDA）データを取得し、米軍に販売することだと説明した。衛星やセンサーそのものを政府に販売する計画はなく、現時点では第三者向けの供給事業者としては提供していないが、将来変わる可能性はあるとしている。",
+      "sources": [
+        {
+          "outlet": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/11/anduril-demos-night-vision-sensor-for-tracking-satellites-in-darkness/",
+          "date": "2026-11-11",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "13538e44f99b",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003111/",
+      "headline": "Amazon傘下のRing、室内を自律飛行する防犯ドローンなどを発表",
+      "originalTitle": "まるで「自宅警備員」？ 室内を自律飛行する防犯ドローン、Amazon傘下が発表 約4万円から",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "it",
+      "score": 50,
+      "tier": "spare",
+      "pubDate": "2026-11-11T06:43:42.000Z",
+      "body": null,
+      "summary": "米Amazon傘下のRingは11月10日（現地時間）、家庭向け防犯ドローン「Ring Drone Cam」と、企業向けの自律走行型警備ロボット「Ring Rover Cam」を発表した。いずれもAIを使って屋内を巡回し、センサーなどが異常を検知すると指定場所へ自ら移動して状況を確認する。米国での価格はそれぞれ249.99ドル（約4万円）と999.99ドル（約16万円）である。\n\n両製品はRing独自のAIシステム「AI Pilot」を搭載している。カメラ、センサー、画像認識AIを組み合わせて建物内の間取り図を作成し、巡回地点を提案する。移動時には家具などの障害物を検知して避ける。Ring Drone Camは利用者が飛行経路やスケジュールを設定でき、任意のタイミングで飛行させることもできる。Ring製の防犯カメラ、センサー、警報器と連携し、異常が起きた場所を撮影しに行くことも可能である。飛行していない間は専用ドックで待機し、カメラをオフにする。\n\nRing Rover Camは、オフィスや店舗の巡回を想定した機器である。異常を検知した現場の確認や定期巡回に対応し、到着後は360度スキャンで周囲を確認する。最大4K画質で撮影・配信でき、移動中の映像も録画する。専用ドックでの待機中も人物の動きを検知し、利用者に通知して録画を開始する。高さを調節できるカメラを備え、カウンターや棚の上も確認できる。サイレンや警告灯で威嚇することもでき、双方向通話で離れた場所から声をかけることも可能である。録画中は本体画面やLEDで表示し、プライバシーに配慮しているとしている。\n\nRing Rover Camは2026年12月16日、Ring Drone Camは2027年1月27日に米国で出荷する予定である。Ring Drone Camはまだ米連邦通信委員会（FCC）の認証を取得しておらず、販売には認証の取得が必要となる。日本での発売時期は明らかにされていない。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003111/",
+          "date": "2026-11-11",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "2ef130776df3",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.watch.impress.co.jp/docs/news/2155595.html",
+      "headline": "ソフトバンク、地震後の建物の応急危険度判定を遠隔で行う技術実証",
+      "originalTitle": "ソフトバンク、地震後の建物検査をデジタルツインで遠隔化",
+      "outlet": "Impress Watch",
+      "region": "domestic",
+      "category": "it",
+      "score": 48,
+      "tier": "spare",
+      "pubDate": "2026-11-11T09:00:00.000Z",
+      "body": null,
+      "summary": "ソフトバンクは、和歌山県すさみ町と連携し、大規模地震後の二次災害を防ぐための応急危険度判定を遠隔で行う技術実証を6月から11月にかけて3回実施した。応急危険度判定は、地震後に建物の損傷を調べて立ち入りの可否を判断する仕組みである。同社は、建物の形状や状態をデジタル空間に再現するデジタルツインを活用した。\n\n実証は国土交通省の「スマートシティ実装化支援事業」の一環で、南海トラフ巨大地震による被害が想定されるすさみ町で行われた。防災拠点・避難所である旧江住小学校の校舎と体育館について、柱や壁のひび割れ、建物の傾きなどの被害を模擬的に再現した。その上で3次元スキャナーなどで建物を3次元データ化し、応急危険度判定士が現地から離れた場所で損傷の程度や建物の変形などを確認・評価した。\n\nその結果、鉄筋コンクリート造の建物について、応急危険度判定に必要な全項目を遠隔で確認・評価できたという。従来は現地調査に危険を伴い、人手と時間がかかることが課題だったため、その解消を図るものだとしている。11月11日に現地で行われた「令和8年度防災道の駅すさみICT防災訓練」では、有資格者の判定士がデジタルツインを使って建物の状態を遠隔で判定した。スピーカーを搭載した防災ドローンで、建物への立ち入り可否を音声で伝える訓練も行われた。\n\nソフトバンクは今回の結果を踏まえ、防災分野へのデジタルツインの活用と、応急危険度判定の遠隔技術の実用化を進める方針である。全国の自治体への提供を目指すとしている。将来はAIを用いた自動判定も検討するという。",
+      "sources": [
+        {
+          "outlet": "Impress Watch",
+          "url": "https://www.watch.impress.co.jp/docs/news/2155595.html",
+          "date": "2026-11-11",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "1ff74ee2cb10",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://openai.com/index/cogent-security",
+      "headline": "Cogent、OpenAIのモデルで企業向けサイバー防御の自動化基盤を提供",
+      "originalTitle": "Cogent and OpenAI build cyber defense factories for enterprises",
+      "outlet": "OpenAI",
+      "region": "overseas",
+      "category": "ai",
+      "score": 46,
+      "tier": "spare",
+      "pubDate": "2026-11-10T00:00:00.000Z",
+      "body": null,
+      "summary": "Cogentは、企業のセキュリティリスクを自律的に見つけて解消する「Cyber Defense Factories（サイバー防御工場）」を構築している。OpenAIの公式ブログによれば、同社にとって難しいのは脆弱性の発見ではなく修正であり、修正には攻撃経路や影響を受ける業務システム、安全に変更できる範囲といった企業環境の文脈理解が必要になる。同社のAIエージェントは、GPT‑6.1 SolとGPT‑5.6を企業の文脈と統制ルールと組み合わせ、調査から修正の検証までを担うという。\n\n企業ごとの資産、脆弱性、ID、依存関係をまとめた知識グラフ（要素同士の関係を記録したデータ構造）を「Context Engine」が保持し、バックグラウンドのエージェントがセキュリティツール間の情報を照合している。計画立案と高度な推論にはGPT‑6 Astraが使われる。エージェントが実行できる変更と承認の要否は「Agent Policies」で定義され、ツール呼び出しは実行前にポリシー執行エンジン「TRACE」が、モデルの推論を使わない決定的な方法で確認する。さらに、権限は別のAgent Gatewayが独立に確認し、リスクの高い作業は隔離環境（サンドボックス）で実行される。\n\nPHP（Webサイトの構築に使われるプログラミング言語）で重大な脆弱性「PHP2Shell」が公表された際、顧客はすでに導入していた防御工場を使った。エージェントは影響を受けるシステムを特定し、露出の度合いを評価し、アプリケーションの依存関係を考慮した修正計画を立て、顧客が定めた承認と実行の手順に沿って修正を進めて解消を検証したという。Cogentによれば、Fortune 1000に含まれる自動車分野の顧客は重大な脆弱性の平均修復時間を75%削減し、Fortune 500に含まれるITサービス分野の顧客は脆弱性トリアージ（対応の優先順位付け）の処理量を5倍にした。\n\n取引プラットフォームを提供するMarketAxessは、どの露出から修正するかの判断にCogentを使っていると述べている。同社のグローバルCISO（最高情報セキュリティ責任者）Vijay Balaは、攻撃者の視点でインターネットから脆弱なシステムまでの経路と途中の統制を確認でき、修正作業を大きなリスクに集中できるとしている。Cogentは、長時間の推論の安定性や技術的なコードベースでの幻覚（誤った出力）の少なさを理由にOpenAIのモデルを選んだと説明し、定型作業にはコスト面からGPT‑5.6を使うとしている。",
+      "sources": [
+        {
+          "outlet": "OpenAI",
+          "url": "https://openai.com/index/cogent-security",
+          "date": "2026-11-10",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "8482284ea775",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "science",
+      "url": "https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/",
+      "headline": "Outokumpu、硫化法を用いた金属抽出基盤EvoMaterialsを開発",
+      "originalTitle": "Evolving metal extraction processes",
+      "outlet": "MIT Technology Review",
+      "region": "overseas",
+      "category": "science",
+      "score": 45,
+      "tier": "spare",
+      "pubDate": "2026-11-10T13:00:00.000Z",
+      "body": null,
+      "summary": "本記事はMIT Technology Reviewのスポンサードコンテンツであり、編集部ではなく金属メーカーのOutokumpuが制作したと明記されている。同社は、業界平均より67%低い炭素排出量のフェロクロムを生産しているとしたうえで、技術基盤「EvoMaterials」により金属の抽出方法を根本から見直そうとしている。EvoMaterialsは、当初フェロクロムの排出削減を目的に研究された、硫化（金属を硫黄と結びつける反応）を基にした処理技術が出発点である。\n\n研究室での試験では、この技術が排出削減にとどまらず、低品位の資源や産業副産物から有価金属を回収できる可能性も示されたという。開発は2021年に米国で始まり、対象はEUで唯一のクロム鉱山であるフィンランドのKemi鉱山のクロマイトである。同社によれば、新たな化学環境により、従来の炭素やエネルギーを多く使う分離法よりも損失と副生成物が少ない形で金属を分離できる。MITからは非独占的な特許ライセンス契約による支援も受けている。\n\nMITのAntoine Allanore教授は、この技術を金属元素を材料から分離する新たな用途と位置付けている。欧米の多くの経済圏では国内の処理能力が縮小しており、需要の増加が見込まれるなかで課題になっているとも指摘している。Outokumpuの抽出冶金の技術部長Caspar Stinnは、EvoMaterialsを単一のプロセスではなく技術プラットフォームと説明し、一つの材料系で確立した原理を他の金属や鉱物資源に応用できる可能性があるとしている。\n\n次の段階は実証で、ニューハンプシャー州のパイロットプラントが2027年上半期に稼働を始め、1トン規模の生産を行う計画である。工業規模での展開は2030年を目標としている。同社は、低CO2のクロム濃縮フェロクロムやクロム金属に加え、ニッケルやモリブデンなどの戦略的材料にも応用できる可能性があるとしている。",
+      "sources": [
+        {
+          "outlet": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/",
+          "date": "2026-11-10",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "312065b5b7e6",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.publickey1.jp/blog/26/playwrightbun.html",
+      "headline": "PlaywrightがBunでのテスト実行を正式サポート、v1.65.0で",
+      "originalTitle": "テストフレームワーク「Playwright」がBunを正式サポート。テストランナーの実行を可能に",
+      "outlet": "Publickey",
+      "region": "domestic",
+      "category": "it",
+      "score": 44,
+      "tier": "spare",
+      "pubDate": "2026-11-11T15:07:35.000Z",
+      "body": null,
+      "summary": "Webアプリケーションのテストフレームワーク「Playwright」は、最新版のv1.65.0で、JavaScriptの実行環境「Bun」上でのテストランナー（テストを実行する仕組み）の実行を正式にサポートした。これまでテストランナーはNode.jsで動作しており、今回Node.jsに加えてBunでも実行できるようになった。Bun 1.4（2026年8月リリース）ではすでにPlaywrightが動作していたが、互換性による非公式な利用にとどまっていた。\n\nPlaywrightのリポジトリによれば、BunがTypeScriptのテストファイルを自ら変換（トランスパイル）するため、Playwrightは従来使っていたBabel（JavaScriptの変換ツール）やコンパイル関連のキャッシュを使わなくなる。これにより仕組みが単純になるという利点がある。\n\n一方で、Node.jsで実行した場合と比べて非互換な点もある。Watch Mode（ファイル変更を監視して自動で再実行するモード）がないこと、UI Modeがファイル変更時に自動で再実行しないこと、--only-changedの挙動に制限があること、--tsconfigが効かないことが挙げられている。",
+      "sources": [
+        {
+          "outlet": "Publickey",
+          "url": "https://www.publickey1.jp/blog/26/playwrightbun.html",
+          "date": "2026-11-11",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    }
+  ],
+  "essays": [],
+  "productionNote": {
+    "reachedOutlets": [
+      "TechCrunch",
+      "ITmedia AI+",
+      "ITmedia NEWS",
+      "The Verge",
+      "cnbc.com",
+      "cbsnews.com",
+      "Ars Technica",
+      "Google AI Blog",
+      "Impress Watch",
+      "Publickey",
+      "OpenAI",
+      "MIT Technology Review"
+    ],
+    "unreachedOutlets": [],
+    "excluded": [
+      {
+        "topic": "国際深掘りが当日に扱った3件",
+        "reason": "実行順により先発の系統を優先"
+      }
+    ],
+    "counts": {
+      "deep": 0,
+      "brief": 30,
+      "essays": 0,
+      "chars": 21000
+    },
+    "text": "候補107件から30件を掲載。本文が取れず不採用0件。"
+  }
+}
