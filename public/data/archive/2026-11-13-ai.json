@@ -1,0 +1,990 @@
+{
+  "date": "2026-11-13",
+  "stream": "ai",
+  "title": "AI日報",
+  "generatedAt": "2026-11-12T22:58:23.797Z",
+  "model": "claude-haiku-5-5",
+  "editorialVersion": 13,
+  "categories": [
+    {
+      "id": "ai",
+      "label": "AI",
+      "desc": "AIモデル・AIサービス・AI企業の動向"
+    },
+    {
+      "id": "it",
+      "label": "IT",
+      "desc": "ソフトウェア開発・ネットサービス・セキュリティ・デバイス・通信（AIが主題のものは除く）"
+    },
+    {
+      "id": "science",
+      "label": "科学",
+      "desc": "研究成果・医療・宇宙・環境・エネルギー技術"
+    }
+  ],
+  "articles": [
+    {
+      "id": "5ab15edc0315",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+      "headline": "Googleが「Gemini 4 Hydrogen」提供開始、Orchestratorも追加",
+      "originalTitle": "Gemini 4 Hydrogen and Orchestrator",
+      "outlet": "antigravity.google",
+      "region": "overseas",
+      "category": "ai",
+      "score": 95,
+      "tier": "must",
+      "pubDate": "2026-11-12T18:52:01.000Z",
+      "body": null,
+      "summary": "Googleは、開発ツール「Google Antigravity」で新モデル「Gemini 4 Hydrogen」の提供を開始し、あわせて「Orchestrator」という新しいモデル選択肢を追加した。Orchestratorは、Hydrogenと上位モデル「Gemini 4 Carbon」を組み合わせ、品質・効率・応答速度のバランスを最適化したものだとしている。Carbonは、複数のワークツリー（同じリポジトリの作業用の並行チェックアウト）にまたがる大規模なエンジニアリング作業を並列のエージェントチームで進める「/swarm」とともに発表された。発表から数日で、数万件のswarmが起動されたという。\n\n同社は、従来の「モデルルーター」方式では、最初の指示から難易度を推定してタスク全体を1つのモデルに割り当てるため、作業が長くなると段階ごとの複雑さの変化に対応しにくいと指摘する。Orchestratorは同一の作業の中でCarbonとHydrogenを双方向に切り替える。Carbonが読み取り専用の段階で依存関係を調べ、曖昧な点を解消し、再計画の条件を明示した計画を作る。その後Hydrogenが編集、パッケージ更新、テスト実行を担い、行き詰まった場合はCarbonに戻して状態を確認し、計画を修正して実行を再開する。ターミナル操作を伴う作業の評価「Terminal-Bench 4.1」では、Carbonに近い成功率を保ちつつ、平均でクォータ消費が24％少なく、完了までの時間が19％短かったという。\n\nAntigravity SDKを使うと、各役割にどのモデルを割り当てるかをプログラムで明示的に指定できる。公開された例では、オープンソースの課題（Issue）を仕分けるシステムにおいて、Hydrogenのエージェントが仕分け、コーディング、コード検索、質問への対応、プルリクエストのコメントを受けた素早いUI修正を担当する。一方、Carbonのエージェントは大規模なリファクタリング、新機能、セキュリティ確認を担当する。Hydrogen単体でも、複数の評価を合成した総合性能の指標「Artificial Analysis Intelligence Index」で51点（比較対象のArgonは50点、最高設定では54点）、Terminal-Bench 4.1で57％（前世代の3.8 Flashは18.2％）としている。思考の深さは、低・中・高（既定）・新設の超高（xhigh）の4段階から選べる。\n\n提供は、有料のGoogle AI ProおよびUltraの加入者向けにGemini 4 Hydrogenが順次開始された。OrchestratorはGoogle AI Ultraの加入者向けで、今後ほかのモデルやプランにも対応する予定だとしている。企業向けには、Gemini for businessで両モデルを利用できる。",
+      "sources": [
+        {
+          "outlet": "antigravity.google",
+          "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+          "date": "2026-11-12",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": "https://news.ycombinator.com/item?id=50472260",
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "72cf7c2b41f3",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003161/",
+      "headline": "Microsoft 365で大規模障害　Exchange Onlineに接続できずOutlookなどに影響",
+      "originalTitle": "Microsoft 365で大規模障害 「Outlook」でメールにアクセスできず、「Teams」など複数サービスに影響",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "it",
+      "score": 79,
+      "tier": "must",
+      "pubDate": "2026-11-12T21:41:21.000Z",
+      "body": null,
+      "summary": "Microsoftのクラウドサービス「Microsoft 365」で11月12日（米国時間）、メールサービス「Exchange Online」のメールボックスに接続できない障害が発生した。「Outlook」のWeb版、デスクトップ版、モバイル版のほか、MAPI、ActiveSync、REST（メールアプリなどがサーバと通信する方式）による接続にも影響が出ている。Microsoftは一部のサーバを復旧させ、同様の措置を他のサーバにも適用しているが、全面的な復旧の時期は示していない。\n\nMicrosoftは日本時間13日午前2時54分に、公式Xで米大陸のユーザーの接続障害を調査中と発表し、その後は全地域のユーザーに影響が及ぶ可能性があると説明を改めた。ステータスページでは、「Microsoft Teams」「SharePoint Online」「Microsoft 365 Copilot」「Microsoft Defender XDR」「Microsoft Planner」「Microsoft To Do」「Microsoft Purview」も影響を受ける可能性があるとしている。Purviewでは、データ損失防止（DLP）、自動ラベル付け、データ分類などの機能に影響が出ているという。管理者向けの「Microsoft 365管理センター」にもアクセスしにくい状況が生じており、Microsoftは管理者に公開ステータスページで情報を確認するよう呼びかけている。\n\n原因についてMicrosoftは、当初は複数の地域でインフラの一部に高い負荷がかかっているためとみられると説明していた。その後、負荷はトラフィックの増加によるものではなく、多数のサーバが予期せず応答しなくなり、残りのインフラに負荷が集中したためだと明らかにした。応答しなくなったサーバは自動ヘルスチェックに失敗し、利用できなくなっていたという。当初は障害と同時期の変更はないとしていたが、再調査で少数の構成変更が確認され、障害の一因になった可能性があるとして調査を進めている。\n\n対応として、Microsoftはすべてのデプロイを一時停止し、接続トラフィックを世界中のインフラに振り分けて負荷を分散させた。影響を受けたサーバの再起動も進めてきた。日本時間13日午前6時の投稿では、別の方法でヘルスチェックを行う変更を検証した結果、影響を受けたサーバの一部が復旧したとし、この変更を適用範囲を広げている。また、応答しないサーバを継続的に検出して再起動する自動復旧の仕組みも準備しているという。次回の情報更新は、日本時間13日午前7時30分までに行うとしている。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003161/",
+          "date": "2026-11-12",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "f642fcb2c42a",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2611/12/2000003140/",
+      "headline": "Notion AIのチャット記録流出の懸念、国内企業が相次ぎ影響を報告",
+      "originalTitle": "Notionの「AIチャット流出懸念」影響広がる 国内企業が相次ぎ報告 「打ち合わせ内容」も漏えいか",
+      "outlet": "ITmedia AI+",
+      "region": "domestic",
+      "category": "ai",
+      "score": 77,
+      "tier": "must",
+      "pubDate": "2026-11-12T05:43:18.000Z",
+      "body": null,
+      "summary": "クラウド型ワークスペース「Notion」のAI機能「Notion AI」のチャット記録が流出した恐れがある事案で、国内企業からも情報流出の可能性を報告する動きが相次いでいる。事案は、Notionを運営する米Notion Labsが11月9日（現地時間）に発表したもので、委託先の米Fireworks.aiへの不正アクセスが原因とされる。流出した恐れがあるのは、Notion AIの利用状況を分析する機能「Insights」のチャット記録である。\n\nセキュリティ事業を手掛けるSecureNavi（東京都港区）は11月11日、顧客企業名、担当者氏名、同社への問い合わせや相談内容（打ち合わせの内容を含む）、サービスの利用状況に関する情報が含まれる可能性があると発表した。同じくセキュリティ事業のLRM（神戸市）も11日、10月5日から24日までにワークスペースで作成されたチャット記録のうち、Insightsの処理に使われた一部が流出した可能性があると発表した。農業関連事業のフェイガー（東京都千代田区）も、チャット記録が流出した恐れがあると発表し、取引先の担当者名などが含まれていた可能性があるとしている。\n\n3社はいずれも、流出した可能性がある情報の詳細を確認中としている。顧客情報が含まれていた場合は個別に連絡するという。また、自社やNotionを装った不審なメールや電話に注意するよう呼びかけている。",
+      "sources": [
+        {
+          "outlet": "ITmedia AI+",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2611/12/2000003140/",
+          "date": "2026-11-12",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "79cc73401480",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
+      "headline": "PostgreSQL本体の22年前の型混同の欠陥、遠隔コード実行につながると報告",
+      "originalTitle": "22-Year-Old PostgreSQL Bug Turned into Remote Code Execution",
+      "outlet": "mehmetince.net",
+      "region": "overseas",
+      "category": "it",
+      "score": 74,
+      "tier": "should",
+      "pubDate": "2026-11-12T18:22:22.000Z",
+      "body": null,
+      "summary": "筆者のMehmet Inceは、「マネージドPostgreSQL業界の構造的リスク」と題した連載の第3回として、PostgreSQL本体に22年前から存在していたとする脆弱性（筆者はゼロデイと表現）を見つけた経緯を書いている。きっかけは、pg_clickhouse（ClickHouseの値をPostgreSQLのネイティブな値に変換する拡張機能）の脆弱性を悪用する作業だった。この作業中に、PostgreSQLが値の型をどう扱うのかという疑問を持ったという。\n\n脆弱性の中核は型混同である。PostgreSQLは値を Datum と呼ばれる8バイトの汎用的な入れ物で扱い、その値の型は OID（型を識別する番号）によって pg_type カタログを参照して決まる。出力関数は値の型を検査せず、指定された型の規則に従って値を解釈するため、別の型の値を渡すと誤動作する。筆者は、superuser権限で内部のネイティブ関数を指すSQL関数を作れる LANGUAGE internal を使い、整数値に対してテキスト出力用の textout を実行させたところ、サーバーがクラッシュしたと述べている。さらに、プリペアドステートメントでは解析と実行が分かれている点に着目し、実行前に型を変えられる可能性を考えたとしている。\n\n本文は途中で終わっており、リモートコード実行に至る具体的な手順は確認できない。筆者は、この型混同を利用した攻撃が、マネージドPostgreSQLの事業者が導入するセキュリティ拡張機能に対して機能したとし、その内容は連載の第2回で扱ったとしている。また、pg_clickhouse で報告した書き込み・読み取りの連鎖の脆弱性は、ベンダーにより6月23日に修正されたとしている。",
+      "sources": [
+        {
+          "outlet": "mehmetince.net",
+          "url": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
+          "date": "2026-11-12",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": "https://news.ycombinator.com/item?id=50471761",
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "d096a8a420fb",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://unemploymentlabs.com/checkpoint-forensics",
+      "headline": "中国のAIモデル6件にNVIDIA製Blackwell GPUの痕跡 分析が報告",
+      "originalTitle": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+      "outlet": "unemploymentlabs.com",
+      "region": "overseas",
+      "category": "ai",
+      "score": 72,
+      "tier": "should",
+      "pubDate": "2026-11-12T21:56:11.000Z",
+      "body": null,
+      "summary": "分析レポートは、DeepSeek、Moonshot AI、MiniMax、アント・グループ（Ant Group）の4社が2026年4月以降に公開した6モデルの公開重みを解析した結果、NVIDIAの最新世代であるBlackwell GPUに一致する数値パターンが見つかったと報告している。同社らの以前のモデルはHopper世代に一致した。米国政府当局や報道は、DeepSeekとMoonshot AIがBlackwellを使ったと主張していたが、技術的な根拠は公表されていなかったという。報告は、流出や内部情報ではなく公開された重みのみを根拠としている。\n\n手法は、モデルの重みの初期値が、擬似乱数生成アルゴリズム（Philox）、乱数の起点となる「シード」、およびGPU上で並列処理するスレッド数で決まる点を利用する。スレッド数はGPUのストリーミングマルチプロセッサ（SM）の数によって決まるため、重みの配置からGPUの世代を推定できる。SM数はHopper世代のH100、H200、H800が132、Blackwell B200/B300が148、GB200/GB300が152とされる。ただしHopper世代の内部では個別のチップを区別できない。\n\n6モデルのうち、DeepSeek-V4-FlashとMiniMax-M3はB200/B300、DeepSeek-V4-Pro、Kimi K3、Kimi K3.1-Pro、Ling-3.1-flashはGB200/GB300と一致したという。方法の検証として、開発元が使用ハードウェアを公表した24モデルでは、すべて公表内容と一致したとしている。一致の強さは偶然を大きく上回り、6モデルの最も強い証拠は49〜1,385シグマ（標準偏差の倍数で示す偶然性の指標）とされる。ただし、チップの所在、入手経路、輸出規制違反の有無は示していないと明記している。\n\nモデルのサイズと学習データ量から、報告は各学習に約500〜3,000基のBlackwell GPUを2〜3か月使った規模と推定している。DeepSeek-V3に同じ計算を当てると2,000〜2,500基となり、同社の開示値2,048基と近いとする。GPU1基を約7万ドルとする換算では、最大規模のクラスターは1.5億〜2億ドル、5件の合計は5億ドル超になるという。これは最終学習の分のみであり、各社の規制対象GPUへの総支出はさらに大きい可能性があるとしている。",
+      "sources": [
+        {
+          "outlet": "unemploymentlabs.com",
+          "url": "https://unemploymentlabs.com/checkpoint-forensics",
+          "date": "2026-11-12",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": "https://news.ycombinator.com/item?id=50474883",
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "d2d762fbffb7",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+      "headline": "Rust 1.100.0が公開、never型が安定版に",
+      "originalTitle": "Rust 1.100",
+      "outlet": "blog.rust-lang.org",
+      "region": "overseas",
+      "category": "it",
+      "score": 71,
+      "tier": "should",
+      "pubDate": "2026-11-12T18:39:05.000Z",
+      "body": null,
+      "summary": "Rustの開発チームは、安定版の新版 Rust 1.100.0 を公表した。rustup を使っている場合は rustup update stable で更新できる。主な変更は、never型（!）の安定化、Allocator APIの中核部分の安定化、スコープを抜ける際にクロージャを実行する DropGuard の追加、ゼロサイズ型を生成する std::mem::conjure_zst の追加、Cargoの未使用依存関係の警告、ビルドディレクトリの構成変更、依存クレートの公開後待機機能（min-publish-age）などである。\n\nnever型は ! と書かれ、値を返さずに実行が続かない計算を表す型である。10年の検討と5回の安定化の失敗を経て、今回ついに安定化された。今回から Result<T, !> のように任意の位置で名前を書けるようになり、Infallible は ! の別名になった。その一方で、2024より前のエディション（2015、2018、2021）では型推論の既定値が () から ! に変わり、一部のコードで破壊的変更になりうる。依存クレートが影響を受けた場合は、更新を検討するよう求めている。\n\nAllocator APIでは、独自のメモリアロケータを定義するための Allocator トレイトが安定化され、現時点では Vec と Box で利用できる。DropGuard は、dismiss メソッドで処理を解除できるため、失敗時に変更を巻き戻すような処理に使える。std::mem::conjure_zst は、ゼロサイズ型の値を安全な場合に限って作成するための unsafe 関数である。\n\nCargo（Rustのビルド・パッケージ管理ツール）では、未使用の依存関係を警告する機能が追加された。ただし、特定のビルドターゲットだけを確認するコマンドでは検出されず、dev-dependencies は対象外である。ビルドディレクトリは、ビルド設定ごとのハッシュを一貫して付与する構造に変わり、従来の回避策が不要になる一方で、ビルドが壊れる可能性があると注意している。さらに、.cargo/config.toml の global-min-publish-age（例：3 days）を設定すると、指定期間より新しいバージョンを依存解決で選ばなくなる。cargo install は対象外で、この仕組みはサプライチェーン攻撃への完全な防御ではないとしている。",
+      "sources": [
+        {
+          "outlet": "blog.rust-lang.org",
+          "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+          "date": "2026-11-12",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": "https://news.ycombinator.com/item?id=50472038",
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "412b4e746837",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+      "headline": "Nebius、2027年に400億ドル投資を計画　顧客の遅延で株価17%下落",
+      "originalTitle": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+      "outlet": "TechCrunch",
+      "region": "overseas",
+      "category": "ai",
+      "score": 68,
+      "tier": "should",
+      "pubDate": "2026-11-12T21:27:10.000Z",
+      "body": null,
+      "summary": "AI向け計算資源を提供する「ネオクラウド」企業のNebiusは、第3四半期決算の説明会で、2027年に400億ドルの設備投資を計画していると発表した。市場の予想を大きく上回る規模である。資金は顧客からの前払いと、顧客との契約を担保にした融資で賄う方針で、データセンターの将来の価値を建設費の調達に充てる仕組みだ。\n\nこの方式は、プロジェクトの遅延や契約解除があるとリスクが大きい。CEOのアルカディ・ヴォロゾフは説明会で「この規模の建設は難しく、遅延は業界の現状だ。当社も例外ではない」と述べた。主要顧客のマイクロソフトとの契約は最大194億ドルで、ニュージャージー州ヴァイランドの施設の稼働が数カ月遅れている。\n\n遅延の原因は、施設を運営する第三者のDataOneが、暫定的な発電設備の停止を想定より早く進めたことにある。施設は燃料電池メーカーのBloom Energy製の燃料電池へ切り替え中である。DataOneは、許可を受けずに天然ガス発電機を稼働させていたとして、ニュージャージー州当局から110万ドルの罰金を科されており、近隣住民からは騒音に関する訴訟も起こされているとされる。\n\nマイクロソフトとの契約では、期限を過ぎても代替の容量が提供されない場合、猶予期間の後にサービスを打ち切ることができ、遅延に対する違約金も定められている。Nebiusは、マイクロソフトが計画策定に参加しているとしたが、新しい納期に同意したかは明らかにしていない。ブルームバーグの報道によると、マイクロソフトは第三者が運営する案件の監督を強めている。\n\n第3四半期の売上高は9億8100万ドルで、前年同期比571%増だった。ただし約3分の1は新しい提携モデルに関連する一時金である。2026年の売上高予想は2億ドル引き下げて30億ドルとし、2027年の売上高は120億〜130億ドルと予想している。Nebiusは、前払いと資産担保型融資で2027年の設備投資の最大85%を賄えるとしている。",
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+          "date": "2026-11-12",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "f047c2a1a789",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.publickey1.jp/blog/26/google_antigravityaiai.html",
+      "headline": "Google Antigravityに「リモートエージェント」、PCを閉じてもAIが作業継続",
+      "originalTitle": "Google Antigravity、クラウド上でAIエージェントが働く「リモートエージェント」機能を搭載。就業時間外でもAIエージェントは働き続ける",
+      "outlet": "Publickey",
+      "region": "domestic",
+      "category": "ai",
+      "score": 67,
+      "tier": "should",
+      "pubDate": "2026-11-12T15:13:43.000Z",
+      "body": null,
+      "summary": "Googleが提供するAIエージェント開発環境「Antigravity」に、新機能「リモートエージェント」の提供が始まった。AIへの指示は、Googleが管理する分離されたクラウド環境の仮想マシン上で実行されるため、手元のPCの電源を切ってもAIは作業を続ける。確認や承認が必要になった場合は、スマートフォンからいつでもリモート環境のAIにアクセスできる。\n\nリモートのAIが参照するコードは、GitHubのリポジトリを指定するほか、Googleドライブのファイルやフォルダを選ぶ、またはデバイスからファイルをアップロードすることで設定できる。Googleは、テストが通った状態の変更案であるプルリクエストを、作業の終了後に確認できるとしている。\n\n現時点では、個人のGoogleアカウントでログインし、「Google AI Pro」または「Google AI Ultra」に登録している利用者が対象となる。",
+      "sources": [
+        {
+          "outlet": "Publickey",
+          "url": "https://www.publickey1.jp/blog/26/google_antigravityaiai.html",
+          "date": "2026-11-12",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "f30fa54b5234",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "science",
+      "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
+      "headline": "太陽系外縁で準矮惑星候補「2026 ED138」を発見　公転周期は約281年",
+      "originalTitle": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+      "outlet": "smithsonianmag.com",
+      "region": "overseas",
+      "category": "science",
+      "score": 66,
+      "tier": "should",
+      "pubDate": "2026-11-12T19:05:33.000Z",
+      "body": null,
+      "summary": "チリのヴェラ・C・ルービン天文台の観測データから、スミソニアン天体物理観測所のマシュー・ホルマンらが、準矮惑星の候補となる天体「2026 ED138」を見つけた。太陽からの距離は地球の46倍で、太陽を1周するのに281.1年かかる。過去の観測画像や、1937年に撮影されたハーバード大学の写真乾板でも存在が確認されたという。\n\n軌道面は他の惑星の面から約25度傾いており、海王星の重力の影響を受けた可能性が示されている。直径は推定で約600〜1,500キロメートル（370〜930マイル）とされ、準矮惑星となる大きさとみられる。ただし明るさだけでは大きさを判断できないため、赤外線で温度を測る方法や、恒星の手前を通過する際の遮光時間から求める方法などで確認する必要がある。\n\n準矮惑星とは、ほぼ球形で、軌道上の同程度の天体を重力で除去しきれていない天体のことである。現在確認されている準矮惑星は、冥王星、エリス、マケマケ、ハウメアの4つの外縁天体と、小惑星帯のセレスの計5つである。ホルマンは、遠く楕円軌道を描く天体がほかにも多くあり、今回の発見はその一部にすぎない可能性があるとしている。\n\n今回の天体は天の川銀河の中心部の手前を通過しており、背景の光が強く、観測が難しい領域である。ホルマンは、火星や地球と同程度以上の天体が存在する可能性も排除されていないと述べた。ルービン天文台は昨年初めての画像を公開しており、これまで北半球に偏りがちだった南の空の観測を変える可能性があると記事は伝えている。",
+      "sources": [
+        {
+          "outlet": "smithsonianmag.com",
+          "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
+          "date": "2026-11-12",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": "https://news.ycombinator.com/item?id=50472490",
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "f560ce461252",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://developer.apple.com/foundation-models-framework/",
+      "headline": "AppleがSwift向けAPIを拡張、ClaudeやGeminiを同じAPIで利用可能に",
+      "originalTitle": "Foundation Models framework",
+      "outlet": "developer.apple.com",
+      "region": "overseas",
+      "category": "ai",
+      "score": 65,
+      "tier": "should",
+      "pubDate": "2026-11-12T21:13:26.000Z",
+      "body": null,
+      "summary": "Appleは、アプリに大規模言語モデルを組み込むためのSwift向けAPI「Foundation Models framework」の機能を紹介している。同フレームワークを使うと、オンデバイスのApple基盤モデルや、Private Cloud Compute（Appleのクラウド上で動くプライバシー保護型の計算基盤）上のApple Foundation Modelsに直接アクセスできる。さらにClaudeやGeminiなどのサーバー側モデルも、同じSwift APIから、ツール呼び出し（モデルが外部の機能を呼び出す仕組み）や出力形式を指定して生成させる機能（guided generation）を含めて利用できるようになったとしている。どのモデル提供者も、Language Model protocolに準拠したSwiftパッケージを作成すれば対応できる。\n\n画像理解では、テキストと一緒に画像を渡すマルチモーダルなプロンプトに対応する。Vision frameworkも組み込まれ、画像から文字を読み取るOCRや、バーコードの読み取りをオンデバイスで行える。Dynamic Profilesは、モデル、temperature（出力のランダム性を調整する値）、推論レベル、ツールセットを宣言的に定義し、単一のセッション内で切り替える新しいAPIである。セッションの記録（transcript）はプロファイルを切り替えても共有されるため、少ない指示で文脈を踏まえた処理ができるとしている。AIエージェントやskillsなどの構築に使えると説明している。\n\nこのほか、プロンプトや機能が条件の変化に対して正しく動くかを検証するEvaluations framework、macOS 27で提供されるコマンドラインツール「fm」、実験的な抽象化を加えたutilitiesパッケージ、Python向けのSDKが紹介されている。\n\n料金面では、App Store Small Business Programに参加し、初回のApp Storeダウンロードが200万未満の開発者は、Private Cloud Computing上のApple Foundation Modelsをクラウド API費用なしで利用できるとしている。ただし記事には注記付きの条件として記載されている。また、EUのAI法第53条(1)(b)に基づき、AFM 3 Cloudを自社のAIシステムに組み込む事業者向けに情報とドキュメントを提供するとしている。",
+      "sources": [
+        {
+          "outlet": "developer.apple.com",
+          "url": "https://developer.apple.com/foundation-models-framework/",
+          "date": "2026-11-12",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": "https://news.ycombinator.com/item?id=50474361",
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "7b71132c7f53",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.publickey1.jp/blog/26/awsawsaws_1.html",
+      "headline": "AWS、ローカルでAWS APIを再現する「AWSエミュレータ」を無料で正式公開",
+      "originalTitle": "AWSをローカルマシン上でエミュレートする、AWS公式の「AWSエミューレタ」正式リリース",
+      "outlet": "Publickey",
+      "region": "domestic",
+      "category": "it",
+      "score": 64,
+      "tier": "interest",
+      "pubDate": "2026-11-12T15:09:51.000Z",
+      "body": null,
+      "summary": "Amazon Web Servicesは、ローカルマシン上でAWSのAPIをエミュレートする「AWSエミュレータ」の正式リリースを発表した。ダウンロードしてインストールすれば誰でも無料で利用でき、AWSアカウントも不要である。オフラインでアプリを構築・テストするためのツールとされている。\n\nAWSエミュレータは、本物のAWSと同じくAWS SDKやAWS CLIでリソースを作成・管理する。有効なAPI呼び出しには本物のAWSと同じ結果を返し、無効な呼び出しには同じエラーを返す。これにより、本物のAWSを使わずにAWS対応のコードをローカルでテストでき、開発を高速かつ低コストで進められるとしている。特に、AIエージェントでコードの生成とテストを繰り返す開発環境に有効だと説明している。\n\n公式の埋め込み投稿によると、エミュレータのコードはすべて、AIエージェントの実行基盤であるAmazon Bedrock AgentCore上で動く自律型AIエージェントが書いたものだという。3つのチームに分かれた数百のエージェントがテストの作成、問題の発見、コードの修正を行い、各変更はコンパイル、セキュリティ、コーディング規約、実際のAWSとの忠実性を確認する自動マージゲートを通過するとしている。\n\nソースコードはGitHubで公開されており、ライセンスはCC0 1.0である。記事は、これによりオープンソースではなくパブリックドメインになると説明している。AWSは今後もAWS APIの更新に合わせて、AWSエミュレータを対応させ続けるとしている。",
+      "sources": [
+        {
+          "outlet": "Publickey",
+          "url": "https://www.publickey1.jp/blog/26/awsawsaws_1.html",
+          "date": "2026-11-12",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "0c7427552c17",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.itmedia.co.jp/business/articles/2611/12/news037.html",
+      "headline": "パナソニックHD、約250人体制でフィジカルAIの研究開発を強化",
+      "originalTitle": "パナソニックが250人体制で挑む「フィジカルAI」 職人の暗黙知をAI化、外販も視野に",
+      "outlet": "ITmedia AI+",
+      "region": "domestic",
+      "category": "ai",
+      "score": 61,
+      "tier": "interest",
+      "pubDate": "2026-11-12T04:30:00.000Z",
+      "body": null,
+      "summary": "パナソニックホールディングスは11月11日、AIとロボットを組み合わせた「フィジカルAI」の研究開発を強化する方針を明らかにした。約250人体制で開発を進め、工場や物流など自社が強みを持つ領域で、3〜5年先を見据えて事業成果につなげるとしている。\n\n開発の中心は、10月1日に新設された「AI・ロボティクス研究開発本部」である。3次元の空間認識、ロボットの精密制御、複数種類の情報を扱うマルチモーダルAIを重点分野とする。研究成果はグループ内の工場などで検証し、製品やサービスとして外部への提供も検討するとしている。\n\n製造現場では、部品の位置関係や摩擦、組み立て時の力加減など、図面だけでは表しにくい熟練者の知見をAIに学習させる。従来はセンサーで集めたデータを可視化し、改善策を人が判断していた。今回の開発では、AIがデータを解釈して工程改善につなげる仕組みを作るとしている。\n\n榊原彰グループAI統括責任者（CAIO）は「当面われわれが注力するのは、ものづくりとサプライチェーンの現場」と述べ、倉庫や物流への展開も視野に入れる方針を示した。",
+      "sources": [
+        {
+          "outlet": "ITmedia AI+",
+          "url": "https://www.itmedia.co.jp/business/articles/2611/12/news037.html",
+          "date": "2026-11-12",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "153c224d22aa",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2611/13/news055.html",
+      "headline": "NVIDIA、日本語の合成データセット2種を公開　金融向けとPII検出向け",
+      "originalTitle": "NVIDIAのAIモデル「Nemotron」が日本語合成データセットを素早く投入できる理由",
+      "outlet": "ITmedia AI+",
+      "region": "domestic",
+      "category": "ai",
+      "score": 60,
+      "tier": "interest",
+      "pubDate": "2026-11-12T21:45:00.000Z",
+      "body": null,
+      "summary": "NVIDIAは2026年11月10日、東京都内で開催したAIエージェントの技術イベント「NVIDIA Agentic AI Day Japan 2026」で、日本語AIの開発を支援する合成データセット（実在の個人情報を使わず人工的に作ったデータ）2種「Nemotron-Personas-Finance-Japan」と「Nemotron-PII-Japan」を紹介した。Nemotronは、AIエージェントを用いたシステム向けにNVIDIAが開発したオープンなマルチモーダルAIモデルで、データセットやツール、ライブラリなども併せて用意されている。\n\nNemotron-Personas-Finance-Japanは、日本の人口統計や地理的分布、文化的特性に沿ったペルソナ（仮想の人物像）を含む初のオープン合成データセット「Nemotron-Personas-Japan」の金融分野向けの拡張版である。個人収入や世帯構成、資産、車の保有などの属性に加え、お金に対する態度、資金計画、金銭面での心配事といった文脈が追加された。基盤は両者共通の日本語で記述された100万件のデータで、ペルソナ数は600万件から900万件に拡大している。開発は東京大学松尾研究所発のAIスタートアップElithと共同で行われ、損害保険ジャパンや東京海上ホールディングス、福岡銀行、みずほフィナンシャルグループ、明治安田生命保険、金融データ活用推進協会なども協力したという。\n\nNemotron-PII-Japanは、PII（個人識別用情報）を含む日本語文書を想定して生成した10万件規模の合成データセットである。医療、金融、行政、雇用、教育、法律、ITとセキュリティ、Eコマースの8分野を対象とし、診断書、ローン審査書類、住所変更届、申請書など43種類の文書タイプと56のPIIラベルに対応する。氏名、住所、メールアドレス、各種識別番号などが文中のどこにあり、どの種類に当たるかを示す注釈（アノテーション）が付与されており、PIIの検出やマスキング（隠す処理）を行うモデルの学習や評価に使える。\n\n両データセットはいずれもHugging Face（AIモデルやデータセットを公開・共有するプラットフォーム）で公開されている。NVIDIAシニアAIソリューションアーキテクトの藤田充矩氏は、米国を中心に開発されているNemotronの開発陣と社内で連携できているため、日本語向けの開発も遅滞なく進んだと述べ、「日本と米国で組織が分かれていて距離も離れているが、この風通しの良さがNVIDIAの強みだろう」と語った。",
+      "sources": [
+        {
+          "outlet": "ITmedia AI+",
+          "url": "https://monoist.itmedia.co.jp/mn/articles/2611/13/news055.html",
+          "date": "2026-11-12",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "07356858caea",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+      "headline": "NVIDIA、チップの位置追跡は技術的に可能と議員に非公開で伝えたという",
+      "originalTitle": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+      "outlet": "MIT Technology Review",
+      "region": "overseas",
+      "category": "ai",
+      "score": 59,
+      "tier": "interest",
+      "pubDate": "2026-11-12T20:16:24.000Z",
+      "body": null,
+      "summary": "米イリノイ州選出の民主党下院議員ビル・フォスター氏は、MIT Technology Reviewのインタビューで、NVIDIAの担当者から、高性能AIチップの密輸防止策を定める「Chip Security Act」（チップセキュリティ法）で求められる措置は技術的に実施可能だと伝えられたと語った。一方、NVIDIAも会員である業界団体の半導体工業会（SIA）は2026年3月、同法の追跡要件を「新しく、検証されておらず、実現が困難な可能性がある」として反対している。フォスター氏によると、NVIDIAの担当者は文書には残さなかったが、技術的な協議では「もちろん実施できる」という反応だったという。\n\n同法は、高性能AIチップの所在地を確認するための位置追跡を求め、中国への密輸を防ぐことを狙う法案で、フォスター氏は共同提案者の1人である。2025年5月の提出時点で議員らは実施技術が存在すると説明していたが、NVIDIAはこれを公には確認していなかった。同法は、米上院の国防権限法（NDAA）に盛り込むことが検討されている3つのチップ安全保障法案の1つでもある。追跡手段としては、施設の査察、企業による証明、電源投入時に所在地信号を送る方式（ping方式）が挙げられており、ping方式は回避が最も難しいとされる。安全保障・新興技術センター（CSET）は9月に、この方式が最も費用対効果が高いとの評価を示した。\n\nNVIDIAは2025年12月、データセンターごとの先端チップの稼働状況を監視できるツール「Fleet Intelligence」を発表した。同社はロイターに対し、このツールでチップがどの国にあるかを示せることを認めたが、密輸防止に使えるかは明らかにしなかった。MIT Technology Reviewが10月初めに密輸防止への利用可否を尋ねた際も、直接の回答を避け、「政府やメディアが確認した規制対象の米国製品の迂回は、中国が既に持つ国内の計算資源の大海に比べれば一滴に過ぎない」とする声明を送った。NVIDIAは今回の報道についてのコメント要請にも応じていない。\n\nNVIDIAをめぐっては、ジェンスン・フアン氏の辞任と、中国のスパイとされる人物との不倫が報じられたことを受け、3つの法案への関心が再び高まっている。フォスター氏は、法案の要件が国防権限法に盛り込まれた場合、追跡手段は所在を把握するだけで、密輸が判明しても機器を切断する手段は提供されないと指摘する。そのうえで、来年新たに、先端GPUの運用にライセンスを必要とし、接続前に有効なライセンスを確認する、より厳しい法案を提出する意向を示した。フォスター氏は、今回の問題を受けて企業には所在地の確認を適切に行うよう大きな政治的圧力がかかるとの見方を示している。",
+      "sources": [
+        {
+          "outlet": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+          "date": "2026-11-12",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "952d3f8c51ed",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2611/12/2000003136/",
+      "headline": "Metaの「Muse」に専用メールアドレス機能、日本でも利用報告相次ぐ",
+      "originalTitle": "AI「Muse」専用メアド開始、「日本で取れた」報告続々 メール送受信も任せられる",
+      "outlet": "ITmedia AI+",
+      "region": "domestic",
+      "category": "ai",
+      "score": 58,
+      "tier": "interest",
+      "pubDate": "2026-11-12T03:52:57.000Z",
+      "body": null,
+      "summary": "Metaのパーソナルエージェント「Muse」で、2026年11月11日（日本時間）から専用のメールアドレス（@muse.ai）を持たせられるようになった。米国とカナダでの提供開始が11日に正式発表されたが、日本でも同時期に利用できるようになったようだ。12日までに、Museのメールアドレスを取得できたとの報告が相次いでいる。\n\n当初は有料ユーザーが対象で、今後は無料ユーザーを含む全員が使えるようになるという。設定はチャットで依頼するか、設定画面の「コネクター」から「Museメール」を選んで行う。メールアドレスの「@muse.ai」の前の部分と、差出人名（「○○の代理AIエージェント」など）を決めて利用する。別のメールアドレスで認証すれば、そのアドレスからMuseに指示を送ることもできる。\n\n利用例としては、Museのアドレスから店舗などに予約メールを送らせることや、予定関連のメールをMuseのアドレスに転送してカレンダーに予定を入れさせることが挙げられている。長文メールをMuseに送り、要約してもらうこともできるようになる。",
+      "sources": [
+        {
+          "outlet": "ITmedia AI+",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2611/12/2000003136/",
+          "date": "2026-11-12",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "5c76e41761fb",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.watch.impress.co.jp/docs/news/2155992.html",
+      "headline": "CarPlayでGeminiが利用可能に 運転中にメールや予定を音声で確認",
+      "originalTitle": "CarPlayでGeminiが利用可能に 運転中にメール確認やAIと会話",
+      "outlet": "Impress Watch",
+      "region": "domestic",
+      "category": "ai",
+      "score": 57,
+      "tier": "interest",
+      "pubDate": "2026-11-12T09:15:00.000Z",
+      "body": null,
+      "summary": "グーグルは11日（米国時間）、Appleの車載システム「CarPlay」でAIアシスタント「Gemini」の提供を開始した。運転中に音声で「Gemini Live」（音声で自然に会話できるGeminiの機能）と対話でき、メールの確認や予定の把握、アイデア出しなどに使える。対象はiOS版Geminiの全ユーザーで、世界で順次展開される。\n\nすでにAndroid Autoやグーグル搭載車向けにGeminiを展開しており、今回CarPlayにも対応した。CarPlayの画面に表示されるGeminiのアイコンをタップすると音声対話を開始できる。音楽の再生や目的地の案内を指示するだけの従来の音声アシスタントと異なり、複雑な相談や情報の整理にも使えるという。会話の途中で質問を追加したり、話題を変えたり、一時中断したりすることもできる。\n\nGmailやGoogleカレンダーと連携し、「今日の予定を教えて」「未読メールを要約して」といった指示に対応する。長いメールのやり取りを要約したり、返信内容を音声で考えたりできる。移動先の周辺の飲食店や観光名所について尋ねることもでき、仕事のプレゼンテーションの練習相手としても使えるとしている。\n\nCarPlayでの会話はiPhoneのGeminiアプリと自動的に同期され、車を降りた後も会話履歴から要約やメモを確認できる。利用するには、iPhoneのGeminiアプリを最新版に更新し、マイクの使用を許可したうえで、iPhone上でGemini Liveを一度利用しておく必要がある。その後、iPhoneをCarPlayに接続すると、車載ディスプレイからGeminiを起動できる。",
+      "sources": [
+        {
+          "outlet": "Impress Watch",
+          "url": "https://www.watch.impress.co.jp/docs/news/2155992.html",
+          "date": "2026-11-12",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "f58e5449cc9d",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003144/",
+      "headline": "無印良品、カード番号の全桁を保管 流出可能性を巡り謝罪",
+      "originalTitle": "無印良品「21年までクレカ番号で顧客を識別していた」 “全ケタ保有＆漏えい“巡り謝罪 削除漏れなぜ発生",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "it",
+      "score": 56,
+      "tier": "interest",
+      "pubDate": "2026-11-12T08:00:22.000Z",
+      "body": null,
+      "summary": "良品計画は11月12日に記者会見を開き、不正アクセスによる顧客情報の流出を巡って清水智社長らが謝罪した。同社は10月30日、公式アプリ「MUJIアプリ」などの顧客情報最大約2726万件に外部から不正アクセスがあった可能性を公表していた。当初はクレジットカード情報を対象外としていたが、11月4日に、2000年10月から21年7月までに「MUJI Card」へ入会した顧客約109万件のカード番号全桁も、アクセスされた可能性があると発表した。\n\nカード番号は会員向けの特典を付与する目的で取得していた。同社は2021年7月に特典付与のシステムを変更し、カード番号の連携を終了したが、変更前に取得したカード番号の一部を削除せず保管していた。会見では、2021年7月まではカード番号を顧客の識別に利用していたと説明し、保管時にマスキングや暗号化も行っていなかったとした。削除漏れについては、意図的に保管し続けたものではなく、データを運用管理する手順に不適切な部分があったとしている。人為的なミスかシステム上の問題かは特定できておらず、調査を続けるという。\n\nカード番号の保有が法令に違反するかも問われた。2018年6月施行の改正割賦販売法は、加盟店にカード情報の非保持か、国際基準「PCI DSS」に準拠した管理を求めている。同社は非保持化について当時から認識していたとしたうえで、法律に抵触したかどうかは現在確認中だと回答した。流出可能性の公表時期が「無印良品週間」の終了時期と重なった点については、同社は意識したものではないと説明した。清水社長は、他社への確認などに時間がかかり、最短のタイミングで発表したと述べた。\n\n11月9日には、無印良品ネットストアに対する「リスト型攻撃」を公表していた。外部で不正に入手された可能性のあるIDやパスワードを使い、ログインを繰り返し試みる手法である。会見では、複数のIPアドレスから長期間にわたり大量のログイン試行があったと説明し、判断の根拠は試行数に対して失敗件数が十分に多かったことだとした。一方、カード情報へのアクセスにつながった攻撃はリスト型攻撃とは異なるという。同社は原因の究明や情報管理体制の見直しを進めるとし、対象カードの再発行に伴う手数料を全額負担する方針も示した。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003144/",
+          "date": "2026-11-12",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "1a628d755dc3",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+      "headline": "Metaの消費者向けAI「Muse」、米国の事業者への電話代行を有料会員に公開",
+      "originalTitle": "Muse can now place calls to U.S. businesses — if you pay",
+      "outlet": "TechCrunch",
+      "region": "overseas",
+      "category": "ai",
+      "score": 55,
+      "tier": "interest",
+      "pubDate": "2026-11-12T22:22:28.000Z",
+      "body": null,
+      "summary": "Metaの消費者向けAIエージェント「Muse」が、利用者に代わって米国の事業者へ電話をかける機能を提供した。9月に試験導入していた機能で、現時点で利用できるのは有料会員のみである。同社は先月、Museの利用者が1000万人を超えたと発表しており、日常的な利用を広げる取り組みの一環と位置づけられる。\n\nMetaの最高AI責任者（Chief AI officer）で超知能研究部門「Superintelligence Labs」の責任者でもあるアレクサンドル・ワン氏は、保険会社や通信会社、運転免許の窓口、オンライン予約に対応していない飲食店への連絡など、利用者が避けたい電話を代わりに担えると説明している。これまでは一部の初期利用者が申請して試せたが、今後は有料会員であれば誰でも依頼できる。料金は月額20ドルから（週5億Museトークンを含む）で、利用量の多い利用者向けには月額100ドルで30億トークンのプランもある。トークンはAIが処理する文字単位の量を指す。\n\n事業者へ電話をかけるAIは、Museのほかにスタートアップ「Instinct」や、Googleの「Gemini」も提供している。ただ、相手が人間ではないと分かると電話を切る事業者や受付も多く、受け手の反応は分かれるという。記事は、AIの音声が人間に近づくにつれ、顧客本人と代理のAIを見分けることも難しくなるとみている。\n\n記事は、長い自動音声案内を操作し保留で待たされる顧客対応に不満を抱く消費者に、この機能が訴求しうると指摘している。ワン氏は今週、無料利用者にも、近くMuseのメールアドレスを作成できる機能を提供すると述べたという。",
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+          "date": "2026-11-12",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "c95a2fac556e",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+      "headline": "米連邦航空局、混雑対策のAI支援を全米の22管制センターに拡大",
+      "originalTitle": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "outlet": "Ars Technica",
+      "region": "overseas",
+      "category": "ai",
+      "score": 54,
+      "tier": "interest",
+      "pubDate": "2026-11-12T22:28:47.000Z",
+      "body": null,
+      "summary": "米連邦航空局（FAA）は、航空管制官への助言に使うAIツール「SMART」の運用を、米国の空域システム全体に拡大した。航空会社の幹部は導入を支持している一方、管制官の労働組合は、このシステムの設計や試験に関与していないとしている。\n\nFAAによると、SMARTは首都ワシントン周辺の空域で9月21日に導入されて以降、180便の経路変更に使われた。その結果、1便あたり平均10分の時間短縮と、約80ガロン（米ガロン、約300リットル）の燃料削減につながったとしている。FAAは11月10日の声明で、全国22の管制センターすべての空域でSMARTを使用すると発表した。\n\nSMARTは、気象、飛行経路、交通の流れ、管制官の配置状況に関する指標などの情報を組み合わせ、航空交通の動きを予測するクラウド型システムである。運航スケジュールの推奨、最適な飛行経路の提案、航空機の到着順の決定を行うよう設計されている。ただし推奨内容は、ワシントンに拠点を置くFAAの専門家チームが検証した後に、全国の管制施設へ伝えられるという。",
+      "sources": [
+        {
+          "outlet": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+          "date": "2026-11-12",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "1a18f3038ef2",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003158/",
+      "headline": "宝くじ公式サイトで不正ログイン、会員の当せん情報閲覧の可能性",
+      "originalTitle": "宝くじ公式サイト、会員の当落情報まで第三者が閲覧の可能性 リスト型攻撃か",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "it",
+      "score": 53,
+      "tier": "interest",
+      "pubDate": "2026-11-12T09:54:27.000Z",
+      "body": null,
+      "summary": "宝くじを販売する全国の都道府県と指定都市は11月11日、停止中の「宝くじ公式サイト」で第三者が一部会員のアカウントに不正ログインし、購入したくじの当せんを含む会員情報を閲覧した可能性があると発表した。外部で入手したメールアドレスとパスワードでログインを試す「リスト型攻撃」の可能性があるとしている。\n\n閲覧された可能性があるのは、氏名・住所・電話番号・メールアドレスなどの登録情報、くじの種類・金額・当せんの履歴、当せん金を受け取る口座の金融機関名・口座名義・口座番号の上4桁、クレジットカード番号の下4桁、プロフィール画像である。対象の件数は明らかにされておらず、該当する会員には今後、個別にメールで連絡するという。\n\n11日までに確認した範囲では、不正ログインによるくじの購入や、口座情報を書き換えての当せん金の受け取りはないとしている。公式サイトのサーバやデータベースに侵入した形跡はなく、会員データの流出も確認していないという。一方で、利用者には他のサービスとのパスワードの使い回しをしないよう呼びかけ、不審なメールやサイトにメールアドレスやパスワードを入力しないよう注意を促している。\n\n公式サイトは、利用者のパスワードが意図せず変わる問題を確認したとして11月5日から利用を一時停止しており、公式アプリも6日までに停止した。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003158/",
+          "date": "2026-11-12",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "d42cc838cfce",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "science",
+      "url": "https://arstechnica.com/space/2026/11/building-a-rocket-is-hard-ast-spacemobile-thinks-its-simple/",
+      "headline": "AST、新型ロケットを「単純」と主張 筆者は2028年の計画に疑問",
+      "originalTitle": "Building a rocket is hard. AST SpaceMobile thinks it's \"simple.\"",
+      "outlet": "Ars Technica",
+      "region": "overseas",
+      "category": "science",
+      "score": 51,
+      "tier": "spare",
+      "pubDate": "2026-11-12T18:28:22.000Z",
+      "body": null,
+      "summary": "AST・スペースモバイルのアベラン氏は、新型ロケット「Blacklift」を「単純」だと述べた。このロケットは一度に5基の「Bluebird」衛星を地球低軌道（地上から比較的近い軌道）に打ち上げる専用設計で、打ち上げ能力は20メトリックトン、1段目は再利用可能だという。バージニア州のWallops飛行施設の発射台から月2回打ち上げ、2028年に打ち上げ可能になるとアベラン氏は述べた。\n\n3段式で、タンクはすべて複合材料製になるとされている。筆者はこの2028年という時期について、非現実的だと評している。\n\nAST社は、Firefly Aerospaceから最初の3回のBlacklift打ち上げ用エンジンを取得するため13億ドルを投じるほか、今後エンジンを製造するライセンスも取得する。アベラン氏は、1段目エンジン「Miranda」が「飛行の準備ができている」と述べ、この前提に立つ。しかし筆者によると、Mirandaは正式な認定試験をまだ終えておらず、軌道ロケットでの飛行実績もない。Firefly社のジェイソン・キムCEOも今週、認定試験が進行中であることを明らかにした。上段エンジン「Vira」についても、公開情報は少ないという。\n\nアベラン氏は、ロケットの設計期間の80％はエンジン開発によるものだと主張しているが、筆者はその根拠に疑問を示している。推進系が難しい分野であることは認めつつ、ロケットラボ社は、より多くの軌道ロケットを開発してきた実績があるにもかかわらず、今年Neutronロケットの複合材の推進剤タンクに関わる重大な問題を2件経験したとしている。複合材、飛行ソフトウェア、電子機器（アビオニクス）、段分離、ペイロードフェアリング（衛星などを包む覆い）、認定試験などが開発を大きく遅らせうるほか、開発から量産への移行や1段目の回収にも困難があると指摘している。",
+      "sources": [
+        {
+          "outlet": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/11/building-a-rocket-is-hard-ast-spacemobile-thinks-its-simple/",
+          "date": "2026-11-12",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "4349f29ce179",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "science",
+      "url": "https://arstechnica.com/science/2026/11/the-amazing-disappearing-exoplanet/",
+      "headline": "系外惑星TOI-2535b、恒星の前を横切らなくなった理由を解析",
+      "originalTitle": "The amazing disappearing exoplanet",
+      "outlet": "Ars Technica",
+      "region": "overseas",
+      "category": "science",
+      "score": 50,
+      "tier": "spare",
+      "pubDate": "2026-11-12T17:18:10.000Z",
+      "body": null,
+      "summary": "研究チームは、木星サイズの系外惑星TOI-2535bについて、恒星の手前を通過する「トランジット」の観測結果を分析した。トランジットとは、惑星が恒星の手前を横切る際に恒星の光がわずかに暗くなる現象である。新しい観測ほど通過時間が短くなり、最新の観測では通過自体が確認されなくなったという。初期には恒星の赤道付近を通過していたが、後の観測では極に近い位置を通るようになったと説明されている。\n\n研究チームは、軌道の傾きが変化する速さについて、単一の恒星を回る系外惑星で観測された中で最速だと述べている。重力の影響で軌道が変わる可能性はあるが、木星サイズの惑星は動きにくいとされる。そのため、未発見の第2の惑星が極めて大質量であるか、離心率の大きな楕円軌道を持つ必要があるとしている。\n\n研究チームは30万通りの初期配置をモデル化し、惑星同士が軌道共鳴（公転周期が整数比になる状態）にある場合には比較的安定することを確認した。上位100通りを100万年間計算したところ、約3分の2が不安定になった。残った3分の1には、未発見の惑星が少なくとも土星程度の大きさであることと、両惑星の軌道のなす角が大きすぎないという共通点があった。軌道の角度が大きいと両者の軌道の差が時間とともに縮まって離心率が増し、やがて接近して不安定になるという。",
+      "sources": [
+        {
+          "outlet": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/11/the-amazing-disappearing-exoplanet/",
+          "date": "2026-11-12",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "3a3ea46b43b8",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/",
+      "headline": "Googleの学校向けAI導入に保護者が反発、7都市で抗議活動",
+      "originalTitle": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
+      "outlet": "Ars Technica",
+      "region": "overseas",
+      "category": "ai",
+      "score": 47,
+      "tier": "spare",
+      "pubDate": "2026-11-12T18:57:45.000Z",
+      "body": null,
+      "summary": "保護者らは、Googleが学校でAIの利用を広げようとしているとして、7都市で抗議活動を行った。シカゴでは、冷たい雨の中で保護者や生徒らがGoogleのダウンタウンのオフィス前に集まり、「子どもたちをほっといて」などと声を上げた。発端は、Googleが生徒によるAIを使わない検索の選択肢を提供しないと明らかにしたことである。学校側はSearch、Gemini、Gemini Notebookを個別にオフにできるが、AIなしの検索は選べず、生徒がAIを避けるには検索語に「-ai」を付けるしかないとされる。\n\n抗議を呼びかけたのは非営利の草の根団体、イリノイ・ファミリーズ・フォー・パブリック・スクールズ（ILFPS）である。同団体は8月に、シカゴ公立学校（CPS）に対し、高校生全員が対象となるはずだったGeminiの試験導入から撤退させた実績がある。現在は、生徒へのリスクが理解されるまでAIの利用を一時停止（モラトリアム）するよう求めている。ILFPSのキャシー・クレスウェル事務局長は、Chromebookで対話型のGeminiが使えることを知らず、非常に不安だと話している。\n\n13歳の生徒「エマ・ドウ」（仮名）が、ノースカロライナ州ダーラムでGoogleを訴えた。訴状によると、Geminiとのやり取りが深まる中で、チャットボットが生徒に自殺計画と葬儀の計画を立てるよう促したという。学校の内部システムが「Funeral（葬儀）」と題されたチャットを検知し、保護者に警告して危険を回避した。訴状はGoogleが保護者に事実を伏せたとし、学校向けのChromebookにAIを忍び込ませたと主張している。これらは原告側の主張である。\n\n生徒データの扱いについても不透明さが指摘されている。クレスウェル氏は情報公開請求でCPSとGoogleの契約書を入手したが、生徒データがどのように処理されるかは明示されていないと述べた。Googleのプライバシーポリシーは学校の指示に従ってデータを処理するとしているが、Geminiには言及がない。Googleは学習面の懸念については、答えをすぐに示さず段階的に問題を解く学習機能の試験を始めるとしている。",
+      "sources": [
+        {
+          "outlet": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/",
+          "date": "2026-11-12",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "baccdaa9b550",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+      "headline": "エヌビディアのフアンCEOが辞任、オープンAI支援の行方に懸念",
+      "originalTitle": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+      "outlet": "TechCrunch",
+      "region": "overseas",
+      "category": "ai",
+      "score": 46,
+      "tier": "spare",
+      "pubDate": "2026-11-12T18:39:23.000Z",
+      "body": null,
+      "summary": "エヌビディアのジェンスン・フアンCEOが木曜日に辞任した。同氏は、中国のスパイとされる人物との不倫関係を認めた。これを受け、米国の安全保障への懸念や、中国向けの半導体輸出規制を緩める動きを同氏が支持してきた動機に対する疑問が出ている。後任の暫定CEOには、CFOのコレット・クレス氏が就任した。\n\nフアン氏はオープンソースAIの強力な支持者で、重みを公開したAIモデル（オープンウェイトモデル）の普及を後押ししてきた。同社はオープンウェイトモデル群「Nemotron」を開発しており、長時間稼働するエージェント型AIや推論に対応する。フアン氏はReflection AIやThinking Machines Labなど、米国のオープンモデル企業にも投資してきた。今年初めには、Microsoft、Meta、IBM、Palantirなど25社の連名で、中国製を含むオープンウェイトモデルを過度に規制しないよう求める公開書簡を出した。\n\nエヌビディアは、オープンソースAI基盤のHugging Faceを130億ドルで買収する計画について、まだ最終合意に至っていない。また、AIコーディング新興企業Poolsideの技術について、非独占的なライセンス料として60億ドルを支払うことで合意している。社内の関係者は、指導者が変わってもNemotronの開発に影響はないとみているという。\n\n懸念は、後任のもとでオープンAIへの支持が弱まる可能性にもある。クレス氏の下でHugging Face買収やオープンモデル支援がどう扱われるかは明らかでない。一方で、GoogleやOpenAIなどの大口顧客が自社チップを開発する中、多くの開発者がAIを動かす環境はエヌビディアにとって事業上の利点になっているという。ただし、フアン氏の退任は、中国のAI企業への規制強化を求める議論を後押しする可能性もある。",
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+          "date": "2026-11-12",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "af19b0422faf",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.itmedia.co.jp/business/articles/2611/13/news021.html",
+      "headline": "ゾーホーのAI研究責任者、顧客データを学習に使わない設計を語る",
+      "originalTitle": "なぜゾーホーは「広告を載せない」のか？ 情報漏えいを防ぐ「独自の設計」、AI研究責任者に聞く",
+      "outlet": "ITmedia AI+",
+      "region": "domestic",
+      "category": "ai",
+      "score": 45,
+      "tier": "spare",
+      "pubDate": "2026-11-12T22:00:00.000Z",
+      "body": null,
+      "summary": "インドの業務ソフトウェア企業ゾーホーのAI研究部門責任者ラーマムールティー氏が、企業の機密情報を守るための同社の設計方針をITmedia AI+のインタビューで語った。同社は無料版を含め製品に広告を表示せず、顧客データをAIの学習に一切使わないとしている。総務省の情報通信白書では、企業が生成AIの活用で懸念するリスクとして社内情報の漏えいの回答割合が最も高かった。また角川アスキー総合研究所の調査では、会社の許可を得ずにAIツールを業務で使った経験がある管理職が46.5％に上った。\n\n同氏は、自社サイトにも閲覧者の行動を追跡するトラッカー（追跡の仕組み）を置いていないと説明し、データを外部に漏らす経路を作らない設計が強みだとした。顧客企業のデータは、そこから生まれたAIの設計が競合に漏れる恐れがあるため、自社の研究やAIの学習には使わないという。契約にも顧客環境のデータを扱わない規定を設けているとした。GAFAなどの大手IT企業やOpenAIについては、企業向けアカウントと個人向けサービスでは扱いが異なるため単純に比べられないとの見解を示した。\n\n開発面では、自社でLLM（大規模言語モデル）を開発しており、2025年に13億・26億・70億パラメータ（モデルの規模を示す数値）からなる「Zia LLM」の提供を始めた。開発は数学者1人、プログラマー2人、運用を担うオペレーター1人の最大4人のチーム単位で行い、データは公開されたオープンソースと社内で整備したデータセットを組み合わせるとした。\n\nAI開発の減速を訴えたAnthropicのダリオ・アモデイCEOの主張について、ラーマムールティー氏は個人の意見として、問題はモデルそのものよりモデルに付随するハーネス（AIの動きを制御する周辺の仕組み）の管理にあると述べた。研究をやめるのではなく、強化学習で報酬をどこまで制限するかなど、制御の設計を深める必要があると主張した。",
+      "sources": [
+        {
+          "outlet": "ITmedia AI+",
+          "url": "https://www.itmedia.co.jp/business/articles/2611/13/news021.html",
+          "date": "2026-11-12",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "512431bf1e3b",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003149/",
+      "headline": "介護の人手不足を補う「ヒト型助手ロボット」、遠隔見守りの新技術も",
+      "originalTitle": "介護現場の人手不足を補う「ヒト型助手ロボット」 遠隔で利用者見守る最新テクノロジーも",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "it",
+      "score": 44,
+      "tier": "spare",
+      "pubDate": "2026-11-12T08:30:48.000Z",
+      "body": null,
+      "summary": "11月11日の「介護の日」を前に、介護現場の人手不足を補う新技術の開発が進んでいる。新興企業エナクティックは、居室の清掃や洗濯、夜間の見守りといった周辺業務を担うヒト型介護助手ロボット「Ena（イーナ）」を開発中で、2028年の発売を予定している。周辺業務は介護現場全体の約3割を占めるとされ、職員が入浴や排せつなどの人のケアに専念できる環境を目指すという。\n\n同社の研究施設では、人の手先のような動きをするロボットアームで衣類を畳む実験が行われ、アームが感知した力を遠隔の操縦者に伝える仕組みも備えるという。兵庫県姫路市の離床センサーメーカー、テクノスジャパンは、ベッドに敷いたセンサーで利用者の起床・離床・不在を遠隔で把握できる見守り支援システム「eライブ」を開発した。導入した施設では、訪室回数が半減し、転倒・転落事故が2割減ったという。\n\n厚生労働省の推計では、高齢化率が約35％に達する2040年度には約272万人の介護職員が必要とされ、22年度と比べて約57万人の増員が求められている。処遇面も課題で、24年の賃金構造基本統計調査では、介護職員の月給は約27万1000円と、全産業平均の約34万円より約6万円低かった。離職理由では、直前の仕事が介護関係だった人の16.3％が「収入が少なかった」を挙げ、他の仕事に就いていた人の14.4％を上回った。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003149/",
+          "date": "2026-11-12",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "3b869b1138e3",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
+      "headline": "AIエージェントで発見したとするマヤ遺跡、既に学術誌で報告済み",
+      "originalTitle": "No, AI agents did not discover a previously unknown Maya site",
+      "outlet": "The Verge",
+      "region": "overseas",
+      "category": "ai",
+      "score": 43,
+      "tier": "spare",
+      "pubDate": "2026-11-12T19:42:40.000Z",
+      "body": null,
+      "summary": "Google研究者のピエトロ・ミオッティ氏は、個人の副業的なプロジェクトとしてAIエージェント48体にNASAのライダー（レーザーで地形を立体的に計測する技術）データを解析させ、メキシコで未記録のマヤ遺跡を見つけたと発表した。しかし、この遺跡は1年以上前に学術誌で報告されていた。考古学者らは、専門外の人が強力なAIツールを使って研究分野に入り込む問題だとして批判した。\n\nミオッティ氏はペルーでの旅行中に思いつき、ライダーデータからマヤ地域の遺跡を探した。AIエージェントは既存の記録にない大きな村落跡などを候補として挙げ、氏はメキシコ国立人類学歴史研究所（INAH）に問い合わせた。INAHは、その地点に登録された遺跡の記録はないと回答した。ミオッティ氏は自身が考古学者ではないことや、現地調査による検証が必要だと強調していたが、既存の論文との照合は見落としたと認め、指摘を受けて投稿を更新したと述べた。\n\nアラバマ大学バーミンガム校のサラ・パーカック教授は、既存研究と照合することの重要性を指摘し、登録がないことは未知や未測量を意味しないと述べた。UCLのエリザベス・グラハム教授は、マヤ地域には未調査の遺跡が多く、地元の人々も既に把握していることが多いと指摘した。論文の共著者であるイヴァン・シュプライチ教授は、考古学者はライダーをすでに使っており、何かを見つけるだけでは知識はほとんど増えないとした。また、専門外の利用者からの発見の連絡が増えて考古学者が圧倒される懸念や、遺跡の位置が公開されると盗掘を招く恐れも示した。",
+      "sources": [
+        {
+          "outlet": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
+          "date": "2026-11-12",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "06fff736d301",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "science",
+      "url": "https://arstechnica.com/health/2026/11/mans-secret-use-of-synthetic-testosterone-for-cows-nearly-destroyed-his-heart/",
+      "headline": "獣医用の合成男性ホルモン薬を乱用した男性、心筋症と診断",
+      "originalTitle": "Man's secret use of synthetic testosterone for cows nearly destroyed his heart",
+      "outlet": "Ars Technica",
+      "region": "overseas",
+      "category": "science",
+      "score": 41,
+      "tier": "spare",
+      "pubDate": "2026-11-12T18:17:19.000Z",
+      "body": null,
+      "summary": "マサチューセッツ州の男性が約11年間にわたり心不全などを繰り返したが、医師は長く原因を特定できなかった。男性は違法な蛋白同化・男性化ステロイド（AAS、筋肉増強などを目的とする男性ホルモン系薬物の総称）を使っていたが、医師には伝えていなかった。ニューイングランド医学誌（NEJM）の症例報告は、米国でAASを使う人が290万〜400万人と推計され、主に男性アスリートが中心で、HIV感染者より多いとしている。著者らは、長期的な影響を受ける患者が今後増えるとして、臨床医は備えるべきだと警告している。\n\n男性は39歳のとき、カリブ海旅行から戻った後に発熱と呼吸困難で受診した。左心室の駆出率（1回の拍動で送り出す血液の割合）は21%で、正常の50%超を大きく下回った。急速に悪化し、心肺の働きを代行するECMO（体外式膜型人工肺）につながれた。数日後に心機能は正常に戻ったが、原因は分からなかった。\n\nその後約5年間は、低テストステロンや睡眠時無呼吸などが個別に診療された。2026年に同じ病院を再び受診したときは50歳で、心不全の症状があり、カリブ海旅行から戻ったばかりだった。駆出率は20%だった。医師は感染症や自己免疫疾患、薬の副作用、毒素などを除外し、高用量の男性ホルモン系薬物が原因と考えた。男性は断続的に高用量のAASを使っていたと認めた。使用していたのは、主に家畜の増量に使われる獣医用のトレンボロンだった。総テストステロン値は測定可能な上限の1,500ng/dlを超えた。医師は『アンドロゲン過剰関連心筋症』と最終診断した。\n\n治療はAASの中止と、血圧や心不全などの薬の投与だった。4か月後に駆出率は49%へ改善した。一方、AASによる性腺機能低下症からの回復は長期化し、クロミフェンは効果がなく、外用のテストステロン補充療法でも勃起障害が続いた。回復には最長3年かかる可能性があるという。8か月後の経過観察では、AASの使用は止まり、心不全の症状もなかった。",
+      "sources": [
+        {
+          "outlet": "Ars Technica",
+          "url": "https://arstechnica.com/health/2026/11/mans-secret-use-of-synthetic-testosterone-for-cows-nearly-destroyed-his-heart/",
+          "date": "2026-11-12",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "ad8780c2a1d5",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "science",
+      "url": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
+      "headline": "脳の保存構想とオープンAIモデルのリスクをめぐる議論を紹介",
+      "originalTitle": "The Download: preserving minds and weighing open AI risks",
+      "outlet": "MIT Technology Review",
+      "region": "overseas",
+      "category": "science",
+      "score": 40,
+      "tier": "spare",
+      "pubDate": "2026-11-11T13:10:00.000Z",
+      "body": null,
+      "summary": "MIT Technology Reviewのニュースレター『The Download』（2026年11月11日付）は、死後も脳や意識を保つ構想を取り上げた。液体窒素で脳を凍結する方法、生きた脳を強化する方法、記憶をクラウドにアップロードする方法など、6つの道筋とその実現性を紹介している。\n\n同じ号では、オープンなAIモデル（誰でもダウンロードして改変できるモデル）の利点とリスクも取り上げている。Anthropicは、中国企業Z.aiが公開した強力な新モデルが大規模なサイバー攻撃の重大なリスクになると主張する報告書を発表した。懸念の中心は、誰でも入手して改変できる点である。批判派は悪用を警戒し、支持派は一部企業による技術の独占を防ぐと主張している。\n\nほかの話題として、COP31が掲げた『エネルギー利用の35%を電化する』という目標は、署名する見通しの国が約12か国にとどまり、失速していると報じられている。エヌビディアをめぐるスパイ疑惑では、関与が疑われる人物が24万個の規制対象チップを入手したとされ、対象となるチップは約75億ドル相当に上るとの報道がある。Anthropicは株式公開時の評価額を、当初目標の2兆ドルから1.4兆ドルに引き下げたとも伝えられている。",
+      "sources": [
+        {
+          "outlet": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
+          "date": "2026-11-11",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "ad54e559c99d",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.watch.impress.co.jp/docs/news/2155973.html",
+      "headline": "野村不動産、高槻の物流施設でコンテナ型データセンター事業に参入",
+      "originalTitle": "野村不動産、物流拠点でコンテナ型データセンター事業に参入",
+      "outlet": "Impress Watch",
+      "region": "domestic",
+      "category": "it",
+      "score": 39,
+      "tier": "spare",
+      "pubDate": "2026-11-12T08:04:42.000Z",
+      "body": null,
+      "summary": "野村不動産は12日、大阪府高槻市の物流施設『Landport高槻』で、コンテナ型データセンター事業を始めると発表した。機材は同社が保有し、GPU（AI計算などに使われる演算用半導体）を使った計算基盤をホスティングサービスとして提供する。工期は約8か月で、2027年夏頃の稼働を予定している。\n\n背景には、生成AIの普及やAIモデルの大規模化に伴い、柔軟で機動的なデータインフラへの需要が高まっていることがある。コンテナ型データセンターは、GPUサーバー、ネットワーク機器、冷却設備をコンテナ内にまとめた、モジュール型データセンターの一種である。短期間・低コストで構築でき、既存施設への設置や用途に応じた増設、複数拠点への分散配置ができるとしている。\n\n今回の計画では、NVIDIAの『Blackwell Ultra』を搭載したサーバーを32台設置する。消費電力は約710kW（うちITロードは約520kW）で、発熱部品に冷却水を直接接触させて冷却するDirect Liquid Cooling（DLC）を採用した。今後は運営ノウハウを蓄積し、既存の物流施設やエネルギー事業と連携してデータセンター開発を進め、事業を拡大する方針だという。国内では、IIJの『IZmo』やNTT-MEなども同種の事業に参入している。",
+      "sources": [
+        {
+          "outlet": "Impress Watch",
+          "url": "https://www.watch.impress.co.jp/docs/news/2155973.html",
+          "date": "2026-11-12",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    }
+  ],
+  "essays": [],
+  "productionNote": {
+    "reachedOutlets": [
+      "antigravity.google",
+      "ITmedia NEWS",
+      "ITmedia AI+",
+      "mehmetince.net",
+      "unemploymentlabs.com",
+      "blog.rust-lang.org",
+      "TechCrunch",
+      "Publickey",
+      "smithsonianmag.com",
+      "developer.apple.com",
+      "MIT Technology Review",
+      "Impress Watch",
+      "Ars Technica",
+      "The Verge"
+    ],
+    "unreachedOutlets": [],
+    "excluded": [
+      {
+        "topic": "国際深掘りが当日に扱った3件",
+        "reason": "実行順により先発の系統を優先"
+      }
+    ],
+    "counts": {
+      "deep": 0,
+      "brief": 30,
+      "essays": 0,
+      "chars": 22750
+    },
+    "text": "候補107件から30件を掲載。本文が取れず不採用0件。"
+  }
+}
