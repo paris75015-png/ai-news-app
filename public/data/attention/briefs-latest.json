@@ -1,331 +1,107 @@
 {
- "date": "2026-11-13",
- "generatedAt": "2026-11-12T22:44:26.261Z",
+ "date": "2026-11-16",
+ "generatedAt": "2026-11-15T21:43:58.567Z",
  "model": "claude-haiku-5-5",
  "measured": {
-  "world": 18,
+  "world": 17,
   "jp": 6
  },
  "articles": [
   {
-   "id": "intl-brief-2026-11-13-s-20261113-01",
+   "id": "intl-brief-2026-11-16-s-20261116-01",
    "stream": "intl",
    "depth": "brief",
    "section": "world",
-   "headline": "ガザ南部ナーセル病院へのイスラエル空爆、6人死亡",
-   "originalTitle": "Israeli air strike on Gaza hospital kills six, including surgeon",
-   "outlet": "NPR",
-   "url": "https://www.npr.org/2026/11/12/nx-s1-6038879/israeli-air-strike-on-gaza-hospital-kills-six-including-surgeon",
+   "headline": "イラン、バーレーンの米軍基地にドローン攻撃",
+   "originalTitle": "Iran Attacks Bahrain for the Second Time in Days",
+   "outlet": "New York Times",
+   "url": "https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html",
    "region": "overseas",
    "category": null,
-   "score": 35,
+   "score": 31,
    "tier": "should",
-   "pubDate": "2026-11-12T22:44:26.261Z",
+   "pubDate": "2026-11-15T21:43:58.567Z",
    "body": null,
-   "summary": "ハマス運営の保健省によると、イスラエル軍の空爆がガザ南部ハンユニスのナーセル病院を襲い、6人が死亡、約30人が負傷した。病院長によると、手術病棟と集中治療室のある建物に2発のミサイルが着弾し、1発は爆発しなかった。死者には外科医のリズク・アブ・シャイラ氏が含まれる。イスラエル軍は、ハマス武装部門の司令官らが病院を「司令部」として攻撃計画に使っており、司令官を狙ったと説明した。ハマスはこれを虚偽の説明だとして反発している。外国報道機関の取材は認められておらず、現地の確認は難しい。",
+   "summary": "イランは日曜、バーレーンの米軍基地にドローン攻撃を行った。3日間で同国への2回目の攻撃となる。革命防衛隊は、アルリファ空軍基地の米防空レーダー施設を6機のドローンで狙ったと発表した。バーレーン軍は、攻撃を迎撃し破壊したと明らかにした。背景には、ホルムズ海峡をめぐる米国とイランの対峙がある。革命防衛隊は、米国の攻撃には「さらに厳しい対応」で応じると述べた。",
    "sources": [
     {
-     "outlet": "NPR",
-     "url": "https://www.npr.org/2026/11/12/nx-s1-6038879/israeli-air-strike-on-gaza-hospital-kills-six-including-surgeon",
-     "date": "2026-11-13",
-     "access": "excerpt",
+     "outlet": "New York Times",
+     "url": "https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html",
+     "date": "2026-11-16",
+     "access": "body",
      "via": null,
-     "note": "Israeli air strike on Gaza hospital kills six, including surgeon"
+     "note": "Iran Attacks Bahrain for the Second Time in Days"
     },
     {
      "outlet": "BBC",
-     "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-     "date": "2026-11-13",
+     "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-16",
      "access": "body",
      "via": null,
-     "note": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says"
-    },
-    {
-     "outlet": "Sky News",
-     "url": "https://news.sky.com/story/israeli-strike-on-gaza-hospital-kills-six-including-doctor-health-ministry-says-13611456",
-     "date": "2026-11-13",
-     "access": "excerpt",
-     "via": null,
-     "note": "Israeli strike on Gaza hospital kills six, health ministry says"
-    },
-    {
-     "outlet": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/al-jazeera-reports-from-gaza-hospital-attacked-by-israel?traffic_source=rss",
-     "date": "2026-11-13",
-     "access": "excerpt",
-     "via": null,
-     "note": "Al Jazeera reports from Gaza hospital attacked by Israel"
-    },
-    {
-     "outlet": "Deutsche Welle",
-     "url": "https://www.dw.com/en/israel-strikes-gaza-hospital-says-hamas-senior-figure-inside/a-79927645?maca=en-rss-en-world-4025-rdf",
-     "date": "2026-11-13",
-     "access": "excerpt",
-     "via": null,
-     "note": "Israel strikes Gaza hospital, says Hamas senior figure inside"
-    },
-    {
-     "outlet": "France 24",
-     "url": "https://www.france24.com/en/israeli-strike-on-gaza-hospital-kills-six-including-surgeon-medics-say",
-     "date": "2026-11-13",
-     "access": "excerpt",
-     "via": null,
-     "note": "Israeli strike on Gaza hospital kills six, including surgeon, medics say"
-    },
-    {
-     "outlet": "Euronews",
-     "url": "https://www.euronews.com/video/2026/11/12/gaza-devastation-inside-nasser-hospital-after-deadly-israeli-strike",
-     "date": "2026-11-13",
-     "access": "excerpt",
-     "via": null,
-     "note": "Gaza: Devastation inside Nasser Hospital after deadly Israeli strike"
-    },
-    {
-     "outlet": "CBS News",
-     "url": "https://www.cbsnews.com/news/israel-strike-gaza-hospital-kills-several/",
-     "date": "2026-11-13",
-     "access": "excerpt",
-     "via": null,
-     "note": "Israeli strike on Gaza hospital kills 6, health authorities say"
-    },
-    {
-     "outlet": "Associated Press",
-     "url": null,
-     "date": "2026-11-13",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Israeli strike on Gaza hospital kills 6 people, including a doctor and a child, Health Ministry says - AP News"
-    },
-    {
-     "outlet": "New York Times",
-     "url": "https://www.nytimes.com/2026/11/11/world/middleeast/nasser-hospital-gaza-strike-israel.html",
-     "date": "2026-11-13",
-     "access": "excerpt",
-     "via": null,
-     "note": "Israeli Strikes on Gaza Hospital Kill 6 and Injure Dozens, Health Officials Say"
+     "note": "Iran targets US military base in Bahrain with drone attack"
     },
     {
      "outlet": "The Guardian",
-     "url": "https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon",
-     "date": "2026-11-13",
+     "url": "https://www.theguardian.com/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain",
+     "date": "2026-11-16",
      "access": "excerpt",
      "via": null,
-     "note": "Israeli airstrike on Nasser hospital in Gaza kills surgeon and five others"
-    }
-   ],
-   "continuity": null,
-   "coverage": {
-    "world": "11/18",
-    "jp": "0/6",
-    "worldTotal": 18,
-    "jpTotal": 6,
-    "daysSeen": 1
-   },
-   "bodyAvailable": true,
-   "discussionUrl": null,
-   "summarizedBy": "claude-haiku-5-5"
-  },
-  {
-   "id": "intl-brief-2026-11-13-s-20261109-12",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "world",
-   "headline": "エヌビディアのフアン氏、CEOと取締役を辞任",
-   "originalTitle": "Why did Nvidia CEO Jensen Huang resign, and who is Colette Kress?",
-   "outlet": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/12/why-did-nvidia-ceo-jensen-huang-resign-and-who-is-colette-kress?traffic_source=rss",
-   "region": "overseas",
-   "category": null,
-   "score": 28,
-   "tier": "interest",
-   "pubDate": "2026-11-12T22:44:26.261Z",
-   "body": null,
-   "summary": "エヌビディアのジェンスン・フアン最高経営責任者（CEO）が12日、CEOと取締役を辞任した。複数の不倫関係が報じられたことが発端とされ、うち一つは中国のスパイ容疑がかけられた女性との関係だった。同社は辞任理由を明らかにしていない。後任の暫定CEOには、最高財務責任者のコレット・クレス氏が就く。フアン氏は1993年の共同創業から33年間にわたり経営を率いてきた。米政府は、この女性が元幹部を務めたシンガポール企業が、中国向けに同社の半導体を不正に送った疑いを調べている。",
-   "sources": [
-    {
-     "outlet": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/12/why-did-nvidia-ceo-jensen-huang-resign-and-who-is-colette-kress?traffic_source=rss",
-     "date": "2026-11-13",
-     "access": "body",
-     "via": null,
-     "note": "Why did Nvidia CEO Jensen Huang resign, and who is Colette Kress?"
-    },
-    {
-     "outlet": "Deutsche Welle",
-     "url": "https://www.dw.com/en/jensen-huang-spy-row-second-affair-leaves-nvidia-without-its-rockstar-ceo/a-79926972?maca=en-rss-en-world-4025-rdf",
-     "date": "2026-11-13",
-     "access": "body",
-     "via": null,
-     "note": "Jensen Huang: Spy row, second affair leaves Nvidia without its rockstar CEO"
+     "note": "Iran launches drone attacks against US military base in Bahrain"
     },
     {
      "outlet": "France 24",
-     "url": "https://www.france24.com/en/video/20261112-nvidia-ceo-jensen-huang-resigns-after-revelations-on-extramarital-affairs",
-     "date": "2026-11-13",
+     "url": "https://www.france24.com/en/iran-claims-drone-attack-on-us-military-base-in-bahrain",
+     "date": "2026-11-16",
      "access": "excerpt",
      "via": null,
-     "note": "Nvidia CEO Jensen Huang resigns after revelations on extramarital affairs"
-    },
-    {
-     "outlet": "Euronews",
-     "url": "https://www.euronews.com/2026/11/12/huangs-exit-ai-bubble-and-financial-crisis-fears-in-focus-on-web-summits-last-day",
-     "date": "2026-11-13",
-     "access": "excerpt",
-     "via": null,
-     "note": "Huang's exit, AI bubble and financial crisis fears in focus on Web Summit's last day"
-    },
-    {
-     "outlet": "South China Morning Post",
-     "url": "https://www.scmp.com/news/china/diplomacy/article/3374270/jensen-huangs-departure-may-signal-tighter-us-controls-ai-chip-exports-china",
-     "date": "2026-11-13",
-     "access": "excerpt",
-     "via": null,
-     "note": "Jensen Huang’s departure may signal tighter US controls on AI chip exports to China"
+     "note": "Iran claims drone attack on US military base in Bahrain"
     },
     {
      "outlet": "CBS News",
-     "url": "https://www.cbsnews.com/video/nvidias-board-preparing-oust-ceo-jensen-huang-sources-say/",
-     "date": "2026-11-13",
+     "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-nuclear-material-no-deal/",
+     "date": "2026-11-16",
      "access": "excerpt",
      "via": null,
-     "note": "Nvidia&#039;s board preparing to oust CEO Jensen Huang, sources say"
+     "note": "Bahrain says it intercepted Iranian strikes, Tehran targets U.S. assets"
+    },
+    {
+     "outlet": "The Straits Times",
+     "url": "https://www.straitstimes.com/world/middle-east/bahrain-issues-first-threat-alerts-since-september-as-iran-says-it-attacked-us-base",
+     "date": "2026-11-16",
+     "access": "excerpt",
+     "via": null,
+     "note": "Bahrain intercepts Iranian aerial attacks as Tehran says it attacked US base"
     },
     {
      "outlet": "Reuters",
      "url": null,
-     "date": "2026-11-13",
+     "date": "2026-11-16",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "Instant view: Nvidia CEO Jensen Huang steps down - Reuters"
-    },
-    {
-     "outlet": "Associated Press",
-     "url": null,
-     "date": "2026-11-13",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Jensen Huang built the company that powers AI. Now Nvidia must find a way forward without him - AP News"
+     "note": "Bahrain intercepts Iranian aerial attacks as Tehran says it attacked US base - Reuters"
     },
     {
      "outlet": "Bloomberg",
      "url": null,
-     "date": "2026-11-13",
+     "date": "2026-11-16",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "Nvidia’s Board Had to Do Something - Bloomberg.com"
+     "note": "Iran Strikes Bahrain Base, Repeats Path to US Deal Remains Open - Bloomberg.com"
     },
     {
      "outlet": "Financial Times",
      "url": null,
-     "date": "2026-11-13",
+     "date": "2026-11-16",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "China warns US not to use Nvidia scandal as pretext for tech curbs - Financial Times"
-    }
-   ],
-   "continuity": {
-    "previousDate": "2026-11-09",
-    "previousScore": 28,
-    "note": "4日連続で報じられている"
-   },
-   "coverage": {
-    "world": "10/18",
-    "jp": "6/6",
-    "worldTotal": 18,
-    "jpTotal": 6,
-    "daysSeen": 4
-   },
-   "bodyAvailable": true,
-   "discussionUrl": null,
-   "summarizedBy": "claude-haiku-5-5"
-  },
-  {
-   "id": "intl-brief-2026-11-13-s-20261113-03",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "world",
-   "headline": "マイクロソフト365で大規模障害、Outlookなど影響",
-   "originalTitle": "Australia's cybersecurity chief looking into Microsoft outage",
-   "outlet": "ABC Australia",
-   "url": "https://www.abc.net.au/news/2026-11-13/microsoft-outage-teams-outlook-copilot/107381196",
-   "region": "overseas",
-   "category": null,
-   "score": 26,
-   "tier": "interest",
-   "pubDate": "2026-11-12T22:44:26.261Z",
-   "body": null,
-   "summary": "マイクロソフトのクラウドサービス「Microsoft 365」で12日、世界規模の障害が起きた。OutlookやTeams、Copilotなどが利用しにくくなった。Downdetectorへの障害報告は一時約13万件に達した。同社は、一部のサーバーが想定外に停止したと説明し、自動チェックの不具合が関係している可能性を示した。サーバーの再起動を進め、順次復旧しつつあるとした。直近の構成変更が原因の可能性も調べている。オーストラリアでは政府機関や企業の業務が止まったと報じられ、同国のサイバー安全保障担当者が調査に乗り出した。",
-   "sources": [
-    {
-     "outlet": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-13/microsoft-outage-teams-outlook-copilot/107381196",
-     "date": "2026-11-13",
-     "access": "body",
-     "via": null,
-     "note": "Australia's cybersecurity chief looking into Microsoft outage"
-    },
-    {
-     "outlet": "The Guardian",
-     "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
-     "date": "2026-11-13",
-     "access": "body",
-     "via": null,
-     "note": "Global Microsoft outage affects Outlook and Teams users, with company ‘restarting’ servers"
-    },
-    {
-     "outlet": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/12/microsoft-outage-hits-tens-of-thousands-of-users?traffic_source=rss",
-     "date": "2026-11-13",
-     "access": "excerpt",
-     "via": null,
-     "note": "Microsoft outage hits tens of thousands of users"
-    },
-    {
-     "outlet": "Euronews",
-     "url": "https://www.euronews.com/2026/11/12/microsoft-outage-hits-outlook-teams-and-copilot-disrupting-thousands",
-     "date": "2026-11-13",
-     "access": "excerpt",
-     "via": null,
-     "note": "Microsoft outage hits Outlook, Teams and Copilot, disrupting thousands"
-    },
-    {
-     "outlet": "The Straits Times",
-     "url": "https://www.straitstimes.com/world/major-outage-hits-microsoft-outlook",
-     "date": "2026-11-13",
-     "access": "excerpt",
-     "via": null,
-     "note": "Major outage hits Microsoft Outlook; Singapore users affected"
-    },
-    {
-     "outlet": "Reuters",
-     "url": null,
-     "date": "2026-11-13",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Microsoft 365, Outlook down for thousands of US users, Downdetector shows - Reuters"
-    },
-    {
-     "outlet": "Associated Press",
-     "url": null,
-     "date": "2026-11-13",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Is Outlook down? Widespread outage hits Microsoft apps - AP News"
-    },
-    {
-     "outlet": "Bloomberg",
-     "url": null,
-     "date": "2026-11-13",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Microsoft Says It’s Working to Fix Outlook, Copilot Outage - Bloomberg.com"
+     "note": "Iran attacks Bahrain in escalation of Gulf hostilities - Financial Times"
     }
    ],
    "continuity": null,
    "coverage": {
-    "world": "8/18",
-    "jp": "3/6",
-    "worldTotal": 18,
+    "world": "9/17",
+    "jp": "1/6",
+    "worldTotal": 17,
     "jpTotal": 6,
     "daysSeen": 1
    },
@@ -334,158 +110,334 @@
    "summarizedBy": "claude-haiku-5-5"
   },
   {
-   "id": "intl-brief-2026-11-13-s-20261103-36",
+   "id": "intl-brief-2026-11-16-s-20261116-04",
    "stream": "intl",
    "depth": "brief",
    "section": "world",
-   "headline": "米特使、プーチン氏と会談　欧州の協議参加に言及",
-   "originalTitle": "In Moscow, Witkoff and Kushner Ask Putin to Include Europe in Peace Talks",
-   "outlet": "New York Times",
-   "url": "https://www.nytimes.com/2026/11/12/world/europe/russia-ukraine-witkoff-kushner.html",
+   "headline": "チェコ、公共放送の財源変更に抗議集会",
+   "originalTitle": "Czechs rally against plan to switch funding of public media",
+   "outlet": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
+   "region": "overseas",
+   "category": null,
+   "score": 27,
+   "tier": "interest",
+   "pubDate": "2026-11-15T21:43:58.567Z",
+   "body": null,
+   "summary": "チェコの首都プラハで日曜、公共メディアの財源見直しに抗議する集会が開かれた。主催団体は35万人以上が参加したと発表した。政府案は受信料を廃止し、放送局の財源を国家予算に移すものだ。批判派は、政治家が報道を統制しかねないと懸念する。これに対しバビシュ首相は、政府が公共メディアを支配する意図はないと述べた。",
+   "sources": [
+    {
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-16",
+     "access": "body",
+     "via": null,
+     "note": "Czechs rally against plan to switch funding of public media"
+    },
+    {
+     "outlet": "The Guardian",
+     "url": "https://www.theguardian.com/world/2026/nov/15/czechia-protest-prague-media-freedom",
+     "date": "2026-11-16",
+     "access": "body",
+     "via": null,
+     "note": "Hundreds of thousands of Czechs protest in Prague over media freedom"
+    },
+    {
+     "outlet": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/15/thousands-rally-in-czech-republic-against-state-media-funding-changes?traffic_source=rss",
+     "date": "2026-11-16",
+     "access": "excerpt",
+     "via": null,
+     "note": "Thousands rally in Czech Republic against state media funding changes"
+    },
+    {
+     "outlet": "Euronews",
+     "url": "https://www.euronews.com/2026/11/15/hundreds-of-thousands-in-prague-protest-czech-governments-public-media-funding-plans",
+     "date": "2026-11-16",
+     "access": "excerpt",
+     "via": null,
+     "note": "Hundreds of thousands in Prague protest Czech government's public media funding plans"
+    },
+    {
+     "outlet": "South China Morning Post",
+     "url": "https://www.scmp.com/news/world/europe/article/3374518/czechs-stage-huge-rally-against-public-media-funding-overhaul",
+     "date": "2026-11-16",
+     "access": "excerpt",
+     "via": null,
+     "note": "Czechs stage huge rally against public-media funding overhaul"
+    },
+    {
+     "outlet": "The Straits Times",
+     "url": "https://www.straitstimes.com/world/europe/tens-of-thousands-of-czechs-rally-against-government-media-funding-plan",
+     "date": "2026-11-16",
+     "access": "excerpt",
+     "via": null,
+     "note": "Tens of thousands of Czechs rally against government media funding plan"
+    },
+    {
+     "outlet": "Reuters",
+     "url": null,
+     "date": "2026-11-16",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Tens of thousands of Czechs rally against government media funding plan - Reuters"
+    },
+    {
+     "outlet": "Associated Press",
+     "url": null,
+     "date": "2026-11-16",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Czechs gather in big numbers to reject government's plan to overhaul funding of public media - AP News"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "8/17",
+    "jp": "0/6",
+    "worldTotal": 17,
+    "jpTotal": 6,
+    "daysSeen": 1
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "claude-haiku-5-5"
+  },
+  {
+   "id": "intl-brief-2026-11-16-s-20261116-03",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "world",
+   "headline": "エストニア、対ロ国境の検問所を12月1日に全面閉鎖",
+   "originalTitle": "Estonia to close all border crossings with Russia after attack on drone maker",
+   "outlet": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker",
    "region": "overseas",
    "category": null,
    "score": 25,
    "tier": "interest",
-   "pubDate": "2026-11-12T22:44:26.261Z",
+   "pubDate": "2026-11-15T21:43:58.567Z",
    "body": null,
-   "summary": "米国のウィトコフ特使とクシュナー氏が12日、モスクワでプーチン大統領と約2時間会談した。両氏は直前までアブダビでロシアとウクライナの直接協議を仲介していたが、そこでは捕虜交換の合意以外に大きな進展はなかった。ウィトコフ氏は、プーチン氏が欧州代表の協議参加を認めたと述べた。一方、プーチン氏は領土要求を譲らず、外国軍の派遣は「戦争の継続」だとして拒否したと、ガーディアンが伝えた。ロシア側が欧州との協議の見通しを小さく見せたとの報道もある。両氏はこの後、ダブリンでゼレンスキー大統領と会う予定だ。",
+   "summary": "エストニアは、ロシアとの国境検問所をすべて12月1日から閉鎖すると発表した。治安当局は、ドローン製造企業への放火未遂事件をロシア軍事情報機関GRUが指示したとみている。土曜の攻撃では8人が拘束され、被害やけが人は報告されていない。首相は、閉鎖は攻撃のリスクを減らすためだと述べた。また、ロシアの狙いはエストニアのウクライナ支援を弱めることだと主張した。現在開いている検問所は3か所ある。",
    "sources": [
     {
-     "outlet": "New York Times",
-     "url": "https://www.nytimes.com/2026/11/12/world/europe/russia-ukraine-witkoff-kushner.html",
-     "date": "2026-11-13",
-     "access": "body",
-     "via": null,
-     "note": "In Moscow, Witkoff and Kushner Ask Putin to Include Europe in Peace Talks"
-    },
-    {
-     "outlet": "NPR",
-     "url": "https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks",
-     "date": "2026-11-13",
-     "access": "body",
-     "via": null,
-     "note": "U.S. envoys meet with Putin in the Kremlin after Ukraine talks in Abu Dhabi"
-    },
-    {
      "outlet": "The Guardian",
-     "url": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates",
-     "date": "2026-11-13",
+     "url": "https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker",
+     "date": "2026-11-16",
+     "access": "body",
+     "via": null,
+     "note": "Estonia to close all border crossings with Russia after attack on drone maker"
+    },
+    {
+     "outlet": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/estonia-to-close-border-crossings-with-russia-after-alleged-arson-attack?traffic_source=rss",
+     "date": "2026-11-16",
      "access": "excerpt",
      "via": null,
-     "note": "New talks with Russia, Ukraine and European countries agreed, US says - as it happened"
+     "note": "Estonia to close border crossings with Russia after alleged arson attack"
     },
     {
      "outlet": "France 24",
-     "url": "https://www.france24.com/en/video/20261112-russia-s-vladimir-putin-suggests-no-ukraine-compromise-in-meeting-with-us-envoys",
-     "date": "2026-11-13",
+     "url": "https://www.france24.com/en/europe/20261115-estonia-to-close-russian-border-crossings-after-sabotage-attempt-at-drone-factory",
+     "date": "2026-11-16",
      "access": "excerpt",
      "via": null,
-     "note": "Russia's Vladimir Putin suggests no Ukraine compromise in meeting with US envoys"
+     "note": "Estonia to close Russian border crossings after 'sabotage' attempt at drone factory"
     },
     {
      "outlet": "Euronews",
-     "url": "https://www.euronews.com/2026/11/12/russia-plays-down-peace-talks-with-europe-after-witkoff-raises-hopes-of-breakthrough",
-     "date": "2026-11-13",
+     "url": "https://www.euronews.com/2026/11/15/estonian-drone-maker-targeted-by-gru-ordered-sabotage-attempt-pm-says",
+     "date": "2026-11-16",
      "access": "excerpt",
      "via": null,
-     "note": "Russia plays down peace talks with Europe after Witkoff raises hopes of breakthrough"
+     "note": "Estonian drone maker targeted in 'GRU-ordered' sabotage attempt, PM says"
     },
     {
      "outlet": "South China Morning Post",
-     "url": "https://www.scmp.com/news/world/russia-central-asia/article/3374265/putin-indicates-he-will-not-compromise-ukraine-meeting-us-envoys",
-     "date": "2026-11-13",
+     "url": "https://www.scmp.com/news/world/russia-central-asia/article/3374514/estonia-close-russia-border-after-sabotage-bid-foreign-minister-says",
+     "date": "2026-11-16",
      "access": "excerpt",
      "via": null,
-     "note": "Putin indicates he will not compromise on Ukraine in meeting with US envoys"
+     "note": "Estonia to close Russia border after ‘sabotage’ bid, foreign minister says"
     },
     {
      "outlet": "The Straits Times",
-     "url": "https://www.straitstimes.com/world/europe/putin-lets-europe-join-ukraine-peace-talks-as-kyiv-says-starshield-disrupted-again",
-     "date": "2026-11-13",
+     "url": "https://www.straitstimes.com/world/europe/estonia-to-close-russian-border-crossings-after-attempted-arson-attack",
+     "date": "2026-11-16",
      "access": "excerpt",
      "via": null,
-     "note": "Putin agrees to Europe joining Ukraine peace talks, as Kyiv says Starshield disrupted again"
+     "note": "Estonia to close Russia border crossings after attempted arson attack on drone maker"
+    },
+    {
+     "outlet": "Reuters",
+     "url": null,
+     "date": "2026-11-16",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Estonia to close Russian border crossings after attempted arson attack - Reuters"
+    },
+    {
+     "outlet": "Bloomberg",
+     "url": null,
+     "date": "2026-11-16",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Estonia Says Russia Behind Failed Arson Attempt on Drone-Maker - Bloomberg.com"
     }
    ],
-   "continuity": {
-    "previousDate": "2026-11-03",
-    "previousScore": 36,
-    "note": "8日連続で報じられている"
-   },
+   "continuity": null,
    "coverage": {
-    "world": "7/18",
-    "jp": "0/6",
-    "worldTotal": 18,
+    "world": "8/17",
+    "jp": "3/6",
+    "worldTotal": 17,
     "jpTotal": 6,
-    "daysSeen": 8
+    "daysSeen": 1
    },
    "bodyAvailable": true,
    "discussionUrl": null,
    "summarizedBy": "claude-haiku-5-5"
   },
   {
-   "id": "intl-brief-2026-11-13-s-20261113-04",
+   "id": "intl-brief-2026-11-16-s-20261116-06",
    "stream": "intl",
    "depth": "brief",
    "section": "world",
-   "headline": "欧州政治共同体がダブリンで首脳会合、安全保障を協議",
-   "originalTitle": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
-   "outlet": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+   "headline": "カナリア諸島に1日で約1500人の移民到着",
+   "originalTitle": "Nearly 1,500 migrants reach Spain’s Canary Islands in one day",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/nearly-1500-migrants-reach-spains-canary-islands-in-one-day?traffic_source=rss",
+   "region": "overseas",
+   "category": null,
+   "score": 18,
+   "tier": "interest",
+   "pubDate": "2026-11-15T21:43:58.567Z",
+   "body": null,
+   "summary": "スペイン領カナリア諸島に、土曜だけで約1500人の移民が到着した。EFE通信によると、1日の到着数としては2020年以来の多さだ。スペイン沿岸警備隊は、過去2日間で約2200人が到着したと日曜に発表した。西アフリカ諸国からの到着が続いている。エル・イエロ島には、12隻の船で1235人が到着した。",
+   "sources": [
+    {
+     "outlet": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/nearly-1500-migrants-reach-spains-canary-islands-in-one-day?traffic_source=rss",
+     "date": "2026-11-16",
+     "access": "headline",
+     "via": null,
+     "note": "Nearly 1,500 migrants reach Spain’s Canary Islands in one day"
+    },
+    {
+     "outlet": "France 24",
+     "url": "https://www.france24.com/en/europe/20261115-nearly-2200-migrants-reach-spain-canary-islands-in-two-days",
+     "date": "2026-11-16",
+     "access": "excerpt",
+     "via": null,
+     "note": "Nearly 2,200 migrants reach Spain's Canary Islands in two days"
+    },
+    {
+     "outlet": "Euronews",
+     "url": "https://www.euronews.com/2026/11/15/record-immigration-day-in-el-hierro-as-1488-arrive-in-canary-islands",
+     "date": "2026-11-16",
+     "access": "excerpt",
+     "via": null,
+     "note": "Record immigration day in El Hierro as 1,488 arrive in Canary Islands"
+    },
+    {
+     "outlet": "The Straits Times",
+     "url": "https://www.straitstimes.com/world/europe/nearly-1500-migrants-arrive-in-canary-islands-in-one-day",
+     "date": "2026-11-16",
+     "access": "excerpt",
+     "via": null,
+     "note": "Nearly 1,500 migrants arrive in Canary Islands in one day"
+    },
+    {
+     "outlet": "Reuters",
+     "url": null,
+     "date": "2026-11-16",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Nearly 1,500 migrants arrive in Canary Islands in one day - Reuters"
+    },
+    {
+     "outlet": "Associated Press",
+     "url": null,
+     "date": "2026-11-16",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Nearly 2,200 migrants reach Canary Islands in 2 days, Spain says - AP News"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "6/17",
+    "jp": "0/6",
+    "worldTotal": 17,
+    "jpTotal": 6,
+    "daysSeen": 1
+   },
+   "bodyAvailable": false,
+   "discussionUrl": null,
+   "summarizedBy": "claude-haiku-5-5"
+  },
+  {
+   "id": "intl-brief-2026-11-16-s-20261116-02",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "world",
+   "headline": "イエメン政府系部隊が撤退、フーシ派がアデンに接近",
+   "originalTitle": "Saudi-Backed Forces Retreat in Yemen, Leaving Key Strait in Houthi Control",
+   "outlet": "New York Times",
+   "url": "https://www.nytimes.com/2026/11/15/world/middleeast/saudi-houthis-yemen-red-sea.html",
    "region": "overseas",
    "category": null,
    "score": 17,
    "tier": "interest",
-   "pubDate": "2026-11-12T22:44:26.261Z",
+   "pubDate": "2026-11-15T21:43:58.567Z",
    "body": null,
-   "summary": "欧州40カ国超の首脳が12日、アイルランド・ダブリンで欧州政治共同体（EPC）の首脳会合を開いた。議題は欧州各地で相次ぐハイブリッド攻撃への対応と、ウクライナ和平協議の枠組みだった。会合は、スーパーや血液銀行、航空会社、学校などを狙った脅迫やサイバー攻撃が続く中で開かれた。米国とゼレンスキー大統領は、欧州が対ロシア交渉の窓口を一人に絞ることを求めている。アイルランドのマーティン首相は、攻撃は混乱を生み民主主義への信頼を損なう狙いだと非難した。ロシアが和平協議の中で欧州の安全保障の枠組みを見直そうとする動きには、欧州の首脳が反発した。",
+   "summary": "イエメンで、政府を支持する南部の武装勢力が、バーブ・エル・マンデブ海峡付近から撤退すると発表した。暫定首都アデンの防衛に戦力を集中するためだという。報道によると、フーシ派はアデンから約60キロの地点まで迫っている。政府側はアデン周辺で土のうを積み、トンネルを掘るなどの防御を進めている。ニューヨーク・タイムズは、この撤退で海峡がフーシ派の支配下に入ると伝えた。",
    "sources": [
     {
-     "outlet": "BBC",
-     "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-     "date": "2026-11-13",
+     "outlet": "New York Times",
+     "url": "https://www.nytimes.com/2026/11/15/world/middleeast/saudi-houthis-yemen-red-sea.html",
+     "date": "2026-11-16",
      "access": "body",
      "via": null,
-     "note": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow"
+     "note": "Saudi-Backed Forces Retreat in Yemen, Leaving Key Strait in Houthi Control"
     },
     {
      "outlet": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/12/regional-security-dominates-european-talks-in-dublin-amid-hybrid-attacks?traffic_source=rss",
-     "date": "2026-11-13",
+     "url": "https://www.aljazeera.com/news/2026/11/15/yemeni-government-forces-redeploy-from-bab-al-mandeb-to-defend-aden?traffic_source=rss",
+     "date": "2026-11-16",
      "access": "body",
      "via": null,
-     "note": "Regional security dominates European talks in Dublin amid hybrid attacks"
+     "note": "Yemeni government forces redeploy from Bab al-Mandeb to defend Aden"
     },
     {
      "outlet": "France 24",
-     "url": "https://www.france24.com/en/zelensky-warns-europe-over-us-russia-talks-on-broader-security-arrangements",
-     "date": "2026-11-13",
+     "url": "https://www.france24.com/en/middle-east/20261115-yemen-houthis-advance-to-within-60-kilometres-of-aden-military-sources-say",
+     "date": "2026-11-16",
      "access": "excerpt",
      "via": null,
-     "note": "Zelensky warns Europe over US-Russia talks on broader security arrangements"
-    },
-    {
-     "outlet": "Euronews",
-     "url": "https://www.euronews.com/2026/11/12/europe-tells-russia-our-security-architecture-is-for-us-to-decide",
-     "date": "2026-11-13",
-     "access": "excerpt",
-     "via": null,
-     "note": "Europe tells Russia: Our security architecture is for us to decide"
+     "note": "Yemen's Houthis advance on Aden as government forces retreat to defend their capital"
     },
     {
      "outlet": "The Straits Times",
-     "url": "https://www.straitstimes.com/world/europe/european-security-should-be-decided-with-europeans-around-40-countries-expected-to-say",
-     "date": "2026-11-13",
+     "url": "https://www.straitstimes.com/world/middle-east/yemens-houthis-60km-away-from-aden-city-military-government-sources-to-afp",
+     "date": "2026-11-16",
      "access": "excerpt",
      "via": null,
-     "note": "European security should be decided with Europeans, around 40 countries expected to say"
+     "note": "Yemen’s Houthis 60km away from Aden city, military, government sources tell AFP"
+    },
+    {
+     "outlet": "Reuters",
+     "url": null,
+     "date": "2026-11-16",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Anti-Houthi forces retreat in Yemen as Iran strikes Bahrain - Reuters"
     }
    ],
    "continuity": null,
    "coverage": {
-    "world": "5/18",
+    "world": "5/17",
     "jp": "0/6",
-    "worldTotal": 18,
+    "worldTotal": 17,
     "jpTotal": 6,
     "daysSeen": 1
    },
@@ -494,68 +446,176 @@
    "summarizedBy": "claude-haiku-5-5"
   },
   {
-   "id": "intl-brief-2026-11-13-s-20261113-26",
+   "id": "intl-brief-2026-11-16-s-20261116-13",
    "stream": "intl",
    "depth": "brief",
    "section": "world",
-   "headline": "ラトニック商務長官の去就、ホワイトハウスで協議と報道",
-   "originalTitle": "White House reportedly discussing Howard Lutnick's future as Commerce secretary",
-   "outlet": "France 24",
-   "url": "https://www.france24.com/en/white-house-reportedly-discussing-howard-lutnick-s-future-as-commerce-secretary",
+   "headline": "イスラエル空爆、ハマス・ラファ旅団の司令官を殺害",
+   "originalTitle": "Hamas says senior commander killed in Israeli airstrike",
+   "outlet": "Sky News",
+   "url": "https://news.sky.com/story/hamas-says-senior-commander-killed-in-israeli-airstrike-13612384",
    "region": "overseas",
    "category": null,
    "score": 14,
    "tier": "interest",
-   "pubDate": "2026-11-12T22:44:26.261Z",
+   "pubDate": "2026-11-15T21:43:58.567Z",
    "body": null,
-   "summary": "ホワイトハウス高官らが、ラトニック商務長官を辞めさせるかどうかを協議していると、複数の関係者が伝えた。ロイターやSCMPなどが報じた。背景には、エヌビディアのフアン前CEOを巡るスパイ疑惑がある。ストレーツ・タイムズは、同長官が半導体の対中輸出を巡って批判されていると伝えた。一方、ブルームバーグは、トランプ大統領が半導体規制をめぐる批判にもかかわらず同長官を支持していると報じた。報道は食い違っている。",
+   "summary": "イスラエル軍は、ガザ南部アル・マワシで土曜に行った空爆で、ハマスのサミール・アブ・ユニス司令官を殺害したと発表した。ハマスも死亡を確認した。同司令官は9月15日に旅団の司令官に就任していた。ハマスは、2023年10月7日の攻撃の計画と指揮に関わった人物だとしている。目撃者によると、避難民が身を寄せるテントに4発のミサイルが着弾し、火災が起きた。",
    "sources": [
     {
-     "outlet": "France 24",
-     "url": "https://www.france24.com/en/white-house-reportedly-discussing-howard-lutnick-s-future-as-commerce-secretary",
-     "date": "2026-11-13",
+     "outlet": "Sky News",
+     "url": "https://news.sky.com/story/hamas-says-senior-commander-killed-in-israeli-airstrike-13612384",
+     "date": "2026-11-16",
      "access": "excerpt",
      "via": null,
-     "note": "White House reportedly discussing Howard Lutnick's future as Commerce secretary"
+     "note": "Hamas says senior commander killed in Israeli airstrike"
+    },
+    {
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-16",
+     "access": "body",
+     "via": null,
+     "note": "Israel kills Hamas commander in strike on Gaza camp, officials say"
+    },
+    {
+     "outlet": "France 24",
+     "url": "https://www.france24.com/en/middle-east/20261115-israel-kills-senior-member-of-hamas-s-military-wing-in-gaza-strike",
+     "date": "2026-11-16",
+     "access": "excerpt",
+     "via": null,
+     "note": "Israel kills senior member of Hamas's military wing in Gaza strike"
     },
     {
      "outlet": "South China Morning Post",
-     "url": "https://www.scmp.com/news/world/united-states-canada/article/3374266/white-house-discussing-howard-lutnicks-future-commerce-secretary-sources-say",
-     "date": "2026-11-13",
+     "url": "https://www.scmp.com/news/world/middle-east/article/3374498/top-hamas-commander-killed-israeli-strike-gaza",
+     "date": "2026-11-16",
      "access": "excerpt",
      "via": null,
-     "note": "White House discussing Howard Lutnick’s future as commerce secretary, sources say"
-    },
-    {
-     "outlet": "The Straits Times",
-     "url": "https://www.straitstimes.com/world/united-states/trumps-commerce-chief-lutnick-criticised-over-chip-exports-after-nvidia-ceo-resignation",
-     "date": "2026-11-13",
-     "access": "excerpt",
-     "via": null,
-     "note": "Trump’s commerce chief Lutnick criticised over chip exports after Nvidia CEO resignation"
-    },
-    {
-     "outlet": "Reuters",
-     "url": null,
-     "date": "2026-11-13",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "White House discussing Howard Lutnick's future as Commerce secretary, people familiar say - Reuters"
-    },
-    {
-     "outlet": "Bloomberg",
-     "url": null,
-     "date": "2026-11-13",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Trump Backs Lutnick Despite Uproar Over Nvidia Chip Controls - Bloomberg.com"
+     "note": "Top Hamas commander killed in Israeli strike in Gaza"
     }
    ],
    "continuity": null,
    "coverage": {
-    "world": "5/18",
+    "world": "4/17",
+    "jp": "0/6",
+    "worldTotal": 17,
+    "jpTotal": 6,
+    "daysSeen": 1
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "claude-haiku-5-5"
+  },
+  {
+   "id": "intl-brief-2026-11-16-s-20261116-16",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "world",
+   "headline": "豪首相、米中露首脳会談を歓迎 欧州は懸念",
+   "originalTitle": "Anthony Albanese welcomes Trump-Xi-Putin summit – even as European leaders express reservations",
+   "outlet": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-welcomes-trump-xi-putin-summit-even-as-european-leaders-express-reservations",
+   "region": "overseas",
+   "category": null,
+   "score": 14,
+   "tier": "interest",
+   "pubDate": "2026-11-15T21:43:58.567Z",
+   "body": null,
+   "summary": "オーストラリアのアルバニージー首相は日曜、マニラで、トランプ米大統領、習近平国家主席、プーチン露大統領による首脳会談を歓迎した。会談は中国・深圳で開かれるAPEC会合の場で行われる予定だ。首相は、戦争は終わるべきだという明確なメッセージをプーチン氏に示すべきだとした。一方、ドイツのメルツ首相は米国に「サプライズはやめてほしい」と求めた。マクロン仏大統領は、ウクライナに不公正な平和を押し付けないよう警告した。",
+   "sources": [
+    {
+     "outlet": "The Guardian",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-welcomes-trump-xi-putin-summit-even-as-european-leaders-express-reservations",
+     "date": "2026-11-16",
+     "access": "body",
+     "via": null,
+     "note": "Anthony Albanese welcomes Trump-Xi-Putin summit – even as European leaders express reservations"
+    },
+    {
+     "outlet": "Sky News",
+     "url": "https://news.sky.com/story/trump-xi-and-putin-to-hold-unprecedented-meeting-white-house-says-13612124",
+     "date": "2026-11-16",
+     "access": "excerpt",
+     "via": null,
+     "note": "Trump, Xi and Putin to hold unprecedented meeting, White House says"
+    },
+    {
+     "outlet": "CBS News",
+     "url": "https://www.cbsnews.com/news/trump-putin-xi-jinping-meeting-china-us-russia-talks/",
+     "date": "2026-11-16",
+     "access": "excerpt",
+     "via": null,
+     "note": "Trump, Putin, Xi Jinping to meet in first trilateral of its kind"
+    },
+    {
+     "outlet": "Associated Press",
+     "url": null,
+     "date": "2026-11-16",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Trump heads to Asia with hopes of shifting the momentum after midterm setbacks hurt him at home - AP News"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "4/17",
     "jp": "2/6",
-    "worldTotal": 18,
+    "worldTotal": 17,
+    "jpTotal": 6,
+    "daysSeen": 1
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "claude-haiku-5-5"
+  },
+  {
+   "id": "intl-brief-2026-11-16-s-20261116-23",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "world",
+   "headline": "ゼレンスキー氏、NATO加盟と領土割譲の交換を米国が打診と",
+   "originalTitle": "US asked if Ukraine would give up parts of Donbas for NATO membership, Zelenskyy says",
+   "outlet": "Sky News",
+   "url": "https://news.sky.com/story/us-asks-if-ukraine-would-give-up-parts-of-donbas-for-nato-membership-zelenskyy-says-13612188",
+   "region": "overseas",
+   "category": null,
+   "score": 12,
+   "tier": "interest",
+   "pubDate": "2026-11-15T21:43:58.567Z",
+   "body": null,
+   "summary": "ゼレンスキー大統領によると、米国はウクライナのNATO加盟と引き換えに、ドンバス地方の一部から撤退するかを初めて尋ねてきた。同大統領は、一定の保証があれば、この交換案を国民に問う考えを示した。CBSも、米国が領土とNATO加盟を交換する案を持ち出したと報じている。米国の打診は、同大統領の発言を中心に伝えられている。",
+   "sources": [
+    {
+     "outlet": "Sky News",
+     "url": "https://news.sky.com/story/us-asks-if-ukraine-would-give-up-parts-of-donbas-for-nato-membership-zelenskyy-says-13612188",
+     "date": "2026-11-16",
+     "access": "excerpt",
+     "via": null,
+     "note": "US asked if Ukraine would give up parts of Donbas for NATO membership, Zelenskyy says"
+    },
+    {
+     "outlet": "France 24",
+     "url": "https://www.france24.com/en/will-ukraine-make-territorial-concessions-for-nato-membership",
+     "date": "2026-11-16",
+     "access": "excerpt",
+     "via": null,
+     "note": "Will Ukraine make territorial concessions for NATO membership?"
+    },
+    {
+     "outlet": "CBS News",
+     "url": "https://www.cbsnews.com/news/ukraine-russia-war-nato-us-donbas/",
+     "date": "2026-11-16",
+     "access": "excerpt",
+     "via": null,
+     "note": "U.S. reportedly floated trading Ukrainian land for NATO membership"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "3/17",
+    "jp": "1/6",
+    "worldTotal": 17,
     "jpTotal": 6,
     "daysSeen": 1
    },
@@ -564,518 +624,394 @@
    "summarizedBy": "claude-haiku-5-5"
   },
   {
-   "id": "intl-brief-2026-11-13-s-20261112-10",
+   "id": "intl-brief-2026-11-16-s-20261113-28",
    "stream": "intl",
    "depth": "brief",
    "section": "world",
-   "headline": "教皇レオ14世、ペルーに到着し「祖国」と表明",
-   "originalTitle": "Pope declares Peru his \"homeland\" in final leg of South America trip",
-   "outlet": "CBS News",
-   "url": "https://www.cbsnews.com/news/pope-leo-peru-homeland-south-america-trip/",
-   "region": "overseas",
-   "category": null,
-   "score": 12,
-   "tier": "interest",
-   "pubDate": "2026-11-12T22:44:26.261Z",
-   "body": null,
-   "summary": "ローマ教皇レオ14世が11日、南米歴訪の最終地ペルーに到着した。米国出身の教皇は、約20年間をペルーで過ごし、2015年に同国の市民権を得ている。教皇は同国を「祖国」だと表明し、フジモリ大統領と会談した。大統領の父の政策には、かつて教皇が抗議していた。バチカンは移動の沿道に約300万人が集まったと推計している。12日もリマの街路は大勢の人で埋まった。",
-   "sources": [
-    {
-     "outlet": "CBS News",
-     "url": "https://www.cbsnews.com/news/pope-leo-peru-homeland-south-america-trip/",
-     "date": "2026-11-13",
-     "access": "body",
-     "via": null,
-     "note": "Pope declares Peru his \"homeland\" in final leg of South America trip"
-    },
-    {
-     "outlet": "The Straits Times",
-     "url": "https://www.straitstimes.com/world/millions-throng-streets-of-lima-for-pope-leos-emotional-return-to-peru",
-     "date": "2026-11-13",
-     "access": "body",
-     "via": null,
-     "note": "Crowds fill Lima streets for Pope Leo’s emotional return to Peru"
-    },
-    {
-     "outlet": "Associated Press",
-     "url": null,
-     "date": "2026-11-13",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Pope Leo returns to a national celebration in his second homeland of Peru - AP News"
-    },
-    {
-     "outlet": "New York Times",
-     "url": "https://www.nytimes.com/2026/11/11/world/europe/pope-leo-peru-visit-lima.html",
-     "date": "2026-11-13",
-     "access": "excerpt",
-     "via": null,
-     "note": "Pope Leo XIV Goes Home to Peru, Meeting Ghosts of His Past"
-    },
-    {
-     "outlet": "Sky News",
-     "url": "https://news.sky.com/story/pope-ends-argentina-visit-with-unity-plea-after-subtly-pushing-back-against-javier-mileis-austerity-agenda-13611182",
-     "date": "2026-11-13",
-     "access": "excerpt",
-     "via": null,
-     "note": "Pope ends Argentina visit with unity plea after pushing back against Milei's agenda"
-    }
-   ],
-   "continuity": {
-    "previousDate": "2026-11-12",
-    "previousScore": 12,
-    "note": "2日連続で報じられている"
-   },
-   "coverage": {
-    "world": "5/18",
-    "jp": "0/6",
-    "worldTotal": 18,
-    "jpTotal": 6,
-    "daysSeen": 2
-   },
-   "bodyAvailable": true,
-   "discussionUrl": null,
-   "summarizedBy": "claude-haiku-5-5"
-  },
-  {
-   "id": "intl-brief-2026-11-13-s-20261112-01",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "world",
-   "headline": "コロム氏が上院議席獲得、ホワイトハウスは民主党に警告",
-   "originalTitle": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
-   "outlet": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-   "region": "overseas",
-   "category": null,
-   "score": 12,
-   "tier": "interest",
-   "pubDate": "2026-11-12T22:44:26.261Z",
-   "body": null,
-   "summary": "民主党のスコット・コロム氏が、ミシシッピ州の上院議席を共和党のハイド・スミス氏から僅差で獲得した。開票に1週間以上かかった。同州で黒人の上院議員が選ばれるのは、再建期以来初めてとされる。BBCによると、トランプ氏が2年前に22ポイント差で勝った州での勝利だという。一方、NPRは、ホワイトハウスが政権の調査を計画する民主党に警告する書簡を送ったと伝えた。",
-   "sources": [
-    {
-     "outlet": "BBC",
-     "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-     "date": "2026-11-13",
-     "access": "body",
-     "via": null,
-     "note": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century"
-    },
-    {
-     "outlet": "NPR",
-     "url": "https://www.npr.org/2026/11/12/g-s1-153171/up-first-newsletter-scott-colom-trump-democrats-ukraine-russia",
-     "date": "2026-11-13",
-     "access": "body",
-     "via": null,
-     "note": "Colom wins Mississippi Senate race. And, White House warns Dems over future probes"
-    },
-    {
-     "outlet": "Associated Press",
-     "url": null,
-     "date": "2026-11-13",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Mississippi elects Democrat Scott Colom as state's first Black US senator since Reconstruction - AP News"
-    }
-   ],
-   "continuity": {
-    "previousDate": "2026-11-12",
-    "previousScore": 14,
-    "note": "2日連続で報じられている"
-   },
-   "coverage": {
-    "world": "3/18",
-    "jp": "0/6",
-    "worldTotal": 18,
-    "jpTotal": 6,
-    "daysSeen": 2
-   },
-   "bodyAvailable": true,
-   "discussionUrl": null,
-   "summarizedBy": "claude-haiku-5-5"
-  },
-  {
-   "id": "intl-brief-2026-11-13-s-20261113-25",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "world",
-   "headline": "エヌビディア株が急落、時価総額4兆ドルを割り込む",
-   "originalTitle": "Live: ASX to fall as Nvidia shares tumble following CEO exit",
-   "outlet": "ABC Australia",
-   "url": "https://www.abc.net.au/news/2026-11-13/asx-markets-business-news-live-updates-nov-13/107337368",
-   "region": "overseas",
-   "category": null,
-   "score": 12,
-   "tier": "interest",
-   "pubDate": "2026-11-12T22:44:26.261Z",
-   "body": null,
-   "summary": "エヌビディアの株価は12日の取引開始直後に一時14%下落し、時価総額は4兆ドルを下回った。2025年以来初めてとされる。フアン氏の辞任を受けた動きだ。一時的に約6010億ドルの時価総額が消えた。この規模が終値まで続けば、単一銘柄の1日の時価総額減少として過去最大になるという。株価は10月初めの高値から約35%下落している。米株式市場は序盤の損失の大半を取り戻した。決算発表は11月17日に予定されている。",
-   "sources": [
-    {
-     "outlet": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-13/asx-markets-business-news-live-updates-nov-13/107337368",
-     "date": "2026-11-13",
-     "access": "body",
-     "via": null,
-     "note": "Live: ASX to fall as Nvidia shares tumble following CEO exit"
-    },
-    {
-     "outlet": "The Straits Times",
-     "url": "https://www.straitstimes.com/world/nvidia-shares-tumble-13-after-ceo-huang-resigns",
-     "date": "2026-11-13",
-     "access": "body",
-     "via": null,
-     "note": "Nvidia market value sinks below US$4 trillion after CEO Jensen Huang resigns"
-    },
-    {
-     "outlet": "Reuters",
-     "url": null,
-     "date": "2026-11-13",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Retail buyers limit Nvidia stock rout - Reuters"
-    },
-    {
-     "outlet": "Associated Press",
-     "url": null,
-     "date": "2026-11-13",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Wall Street shakes with swings for Nvidia and oil prices but recovers most of its early losses - AP News"
-    }
-   ],
-   "continuity": null,
-   "coverage": {
-    "world": "4/18",
-    "jp": "1/6",
-    "worldTotal": 18,
-    "jpTotal": 6,
-    "daysSeen": 1
-   },
-   "bodyAvailable": true,
-   "discussionUrl": null,
-   "summarizedBy": "claude-haiku-5-5"
-  },
-  {
-   "id": "intl-brief-2026-11-13-s-20261113-28",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "world",
-   "headline": "エヌビディア、フアン氏の後任探し始まる",
-   "originalTitle": "Nvidia’s hunt for Jensen Huang’s successor: insiders, rivals and a Trump pick",
+   "headline": "フアン氏、エヌビディアCEOへの復帰を検討とFT報道",
+   "originalTitle": "Jensen Huang discusses comeback as Nvidia CEO with allies: reports",
    "outlet": "South China Morning Post",
-   "url": "https://www.scmp.com/news/china/diplomacy/article/3374268/nvidias-hunt-jensen-huangs-successor-insiders-rivals-and-trump-pick",
+   "url": "https://www.scmp.com/news/world/united-states-canada/article/3374512/bessent-says-nvidia-must-go-outside-company-find-new-ceo",
    "region": "overseas",
    "category": null,
-   "score": 11,
+   "score": 12,
    "tier": "interest",
-   "pubDate": "2026-11-12T22:44:26.261Z",
+   "pubDate": "2026-11-15T21:43:58.567Z",
    "body": null,
-   "summary": "エヌビディアは、フアン氏の辞任を受けて33年ぶりとなる新たなトップを探している。SCMPは、候補として暫定CEOのコレット・クレス氏、社内のベテラン技術者、フアン氏の家族、ライバル企業の経営者らを挙げた。トランプ大統領が推す人物が含まれるとの見方も伝えられている。同社は取締役会長に、初めてハーベイ・ジョーンズ氏を据えた。ロイターは同氏の経歴を取り上げている。",
+   "summary": "英紙フィナンシャル・タイムズは日曜、エヌビディアのジェンスン・フアン氏が最高経営責任者（CEO）への復帰を検討していると報じた。フアン氏は側近らと、その可能性を話し合っているという。同紙は、事情に通じた関係者の話として伝えている。復帰するかどうかは、報道時点で決まっていない。前回の報道では、同社で後任探しが始まったとされていた。",
    "sources": [
     {
      "outlet": "South China Morning Post",
-     "url": "https://www.scmp.com/news/china/diplomacy/article/3374268/nvidias-hunt-jensen-huangs-successor-insiders-rivals-and-trump-pick",
-     "date": "2026-11-13",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3374512/bessent-says-nvidia-must-go-outside-company-find-new-ceo",
+     "date": "2026-11-16",
      "access": "excerpt",
      "via": null,
-     "note": "Nvidia’s hunt for Jensen Huang’s successor: insiders, rivals and a Trump pick"
+     "note": "Jensen Huang discusses comeback as Nvidia CEO with allies: reports"
     },
     {
      "outlet": "Reuters",
      "url": null,
-     "date": "2026-11-13",
+     "date": "2026-11-16",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "Who is Harvey Jones, Nvidia's first-ever board chair? - Reuters"
+     "note": "Jensen Huang discusses comeback as Nvidia CEO with allies, FT reports - Reuters"
     },
     {
      "outlet": "Bloomberg",
      "url": null,
-     "date": "2026-11-13",
+     "date": "2026-11-16",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "Read the Memos From Nvidia Chairman and Interim CEO After Ouster - Bloomberg.com"
+     "note": "Huang Discusses Comeback as Nvidia Chief With Allies, FT Says - Bloomberg.com"
     },
     {
      "outlet": "Financial Times",
      "url": null,
-     "date": "2026-11-13",
+     "date": "2026-11-16",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "Meet the contenders to succeed Jensen Huang - Financial Times"
+     "note": "Jensen Huang discusses comeback as Nvidia CEO with allies - Financial Times"
     }
    ],
-   "continuity": null,
+   "continuity": {
+    "previousDate": "2026-11-13",
+    "previousScore": 12,
+    "note": "2日連続で報じられている"
+   },
    "coverage": {
-    "world": "4/18",
-    "jp": "2/6",
-    "worldTotal": 18,
+    "world": "4/17",
+    "jp": "1/6",
+    "worldTotal": 17,
     "jpTotal": 6,
-    "daysSeen": 1
+    "daysSeen": 2
    },
    "bodyAvailable": false,
    "discussionUrl": null,
    "summarizedBy": "claude-haiku-5-5"
   },
   {
-   "id": "intl-brief-2026-11-13-s-20261019-19",
+   "id": "intl-brief-2026-11-16-s-20261113-03",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "world",
+   "headline": "マイクロソフト、365の世界的障害の復旧を発表",
+   "originalTitle": "Microsoft says all services working again",
+   "outlet": "Deutsche Welle",
+   "url": "https://www.dw.com/en/microsoft-says-all-services-working-again/a-79946887?maca=en-rss-en-world-4025-rdf",
+   "region": "overseas",
+   "category": null,
+   "score": 10,
+   "tier": "interest",
+   "pubDate": "2026-11-15T21:43:58.567Z",
+   "body": null,
+   "summary": "マイクロソフトは土曜、Microsoft 365で24時間以上続いた世界的な障害が解消したと発表した。Outlook、Teams、Copilotなどが影響を受けた。同社は、原因は技術的な問題で、悪意のあるサイバー攻撃ではないとしている。障害は70以上の国・地域で報告され、英国では国民保健サービス（NHS）も影響を受けた。同社は顧客に謝罪した。",
+   "sources": [
+    {
+     "outlet": "Deutsche Welle",
+     "url": "https://www.dw.com/en/microsoft-says-all-services-working-again/a-79946887?maca=en-rss-en-world-4025-rdf",
+     "date": "2026-11-16",
+     "access": "body",
+     "via": null,
+     "note": "Microsoft says all services working again"
+    },
+    {
+     "outlet": "CBS News",
+     "url": "https://www.cbsnews.com/news/microsoft-battling-major-outage/",
+     "date": "2026-11-16",
+     "access": "body",
+     "via": null,
+     "note": "Microsoft says it \"restored service\" after major worldwide outage"
+    },
+    {
+     "outlet": "New York Times",
+     "url": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html",
+     "date": "2026-11-16",
+     "access": "excerpt",
+     "via": null,
+     "note": "Microsoft’s Global Outage and Fixes: What We Know"
+    },
+    {
+     "outlet": "Sky News",
+     "url": "https://news.sky.com/story/microsoft-confirms-all-services-are-restored-after-global-outage-13612219",
+     "date": "2026-11-16",
+     "access": "excerpt",
+     "via": null,
+     "note": "Microsoft confirms all services are restored after global outage"
+    }
+   ],
+   "continuity": {
+    "previousDate": "2026-11-13",
+    "previousScore": 26,
+    "note": "2日連続で報じられている"
+   },
+   "coverage": {
+    "world": "4/17",
+    "jp": "0/6",
+    "worldTotal": 17,
+    "jpTotal": 6,
+    "daysSeen": 2
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "claude-haiku-5-5"
+  },
+  {
+   "id": "intl-brief-2026-11-16-s-20261116-21",
    "stream": "intl",
    "depth": "brief",
    "section": "gap",
-   "headline": "コンゴ東部のエボラ、援助資金の行方と襲撃が課題に",
-   "originalTitle": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
-   "outlet": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
+   "headline": "フィリピンとオーストラリア、防衛協力の新協定に署名",
+   "originalTitle": "The Philippines and Australia strengthen joint military deterrence at ASEAN summit",
+   "outlet": "France 24",
+   "url": "https://www.france24.com/en/the-philippines-and-australia-strengthen-joint-military-deterrence-at-asean-summit",
+   "region": "overseas",
+   "category": null,
+   "score": 9,
+   "tier": "interest",
+   "pubDate": "2026-11-15T21:43:58.567Z",
+   "body": null,
+   "summary": "フィリピンとオーストラリアは日曜、マニラで防衛協力の新たな取り決めに署名した。合同パトロールや軍事演習、災害救援の調整を円滑にするのが狙いだ。1995年の協定を更新するもので、2012年発効の部隊派遣協定を土台とする。フィリピンのテオドロ国防相は、一つの作業に100の手続きが必要だったのが10になると述べた。フィリピンは南シナ海で中国との緊張が続くなか、日米とも防衛関係を深めている。",
+   "sources": [
+    {
+     "outlet": "France 24",
+     "url": "https://www.france24.com/en/the-philippines-and-australia-strengthen-joint-military-deterrence-at-asean-summit",
+     "date": "2026-11-16",
+     "access": "excerpt",
+     "via": null,
+     "note": "The Philippines and Australia strengthen joint military deterrence at ASEAN summit"
+    },
+    {
+     "outlet": "Euronews",
+     "url": "https://www.euronews.com/2026/11/15/australia-and-philippines-sign-new-defence-pact-amid-south-china-sea-tensions",
+     "date": "2026-11-16",
+     "access": "body",
+     "via": null,
+     "note": "Australia and Philippines sign new defence pact amid South China Sea tensions"
+    },
+    {
+     "outlet": "Reuters",
+     "url": null,
+     "date": "2026-11-16",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Philippines, Australia sign defence pact with eye on China - Reuters"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "3/17",
+    "jp": "0/6",
+    "worldTotal": 17,
+    "jpTotal": 6,
+    "daysSeen": 1
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "claude-haiku-5-5"
+  },
+  {
+   "id": "intl-brief-2026-11-16-s-20261116-24",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "gap",
+   "headline": "黒海で商船3隻がドローン攻撃、ルーマニアが抗議",
+   "originalTitle": "Three commercial vessels struck by drones near Romania's black sea, PM says",
+   "outlet": "Euronews",
+   "url": "https://www.euronews.com/2026/11/15/three-commercial-vessels-struck-by-drones-near-romanias-black-sea-pm-says",
+   "region": "overseas",
+   "category": null,
+   "score": 9,
+   "tier": "interest",
+   "pubDate": "2026-11-15T21:43:58.567Z",
+   "body": null,
+   "summary": "ルーマニアのニクレスク首相は、同国の黒海沿岸で土曜夕方、商船3隻がドローン攻撃を受けたと明らかにした。攻撃を受けたのは、ウクライナの輸出に使われるスリナ運河付近にいたギリシャ籍のタンカーなどで、けが人は報告されていない。首相は、国際法違反だと非難した。ルーマニア空軍は、戦闘機を2回出動させた。前日にも別の貨物船がドローンで攻撃されていた。ロシアは、ウクライナの近隣国を狙ったとする主張を否定している。",
+   "sources": [
+    {
+     "outlet": "Euronews",
+     "url": "https://www.euronews.com/2026/11/15/three-commercial-vessels-struck-by-drones-near-romanias-black-sea-pm-says",
+     "date": "2026-11-16",
+     "access": "body",
+     "via": null,
+     "note": "Three commercial vessels struck by drones near Romania's black sea, PM says"
+    },
+    {
+     "outlet": "The Straits Times",
+     "url": "https://www.straitstimes.com/world/europe/three-ships-struck-by-drones-in-black-sea-near-romanian-shipping-canal-pm-says",
+     "date": "2026-11-16",
+     "access": "body",
+     "via": null,
+     "note": "Jets scrambled as 3 ships struck by drones in Black Sea, near Romania shipping canal"
+    },
+    {
+     "outlet": "Reuters",
+     "url": null,
+     "date": "2026-11-16",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Three ships struck by drones in Black Sea near Romanian shipping canal, PM says - Reuters"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "3/17",
+    "jp": "0/6",
+    "worldTotal": 17,
+    "jpTotal": 6,
+    "daysSeen": 1
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "claude-haiku-5-5"
+  },
+  {
+   "id": "intl-brief-2026-11-16-s-20261019-19",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "gap",
+   "headline": "コンゴ東部のエボラ、アフリカCDCが収束していないと警告",
+   "originalTitle": "Africa CDC says Ebola outbreak in DR Congo ‘still not under control’",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/15/africa-cdc-says-ebola-outbreak-in-dr-congo-still-not-under-control?traffic_source=rss",
    "region": "overseas",
    "category": null,
    "score": 8,
    "tier": "interest",
-   "pubDate": "2026-11-12T22:44:26.261Z",
+   "pubDate": "2026-11-15T21:43:58.567Z",
    "body": null,
-   "summary": "コンゴ民主共和国で5月に宣言されたエボラ出血熱の流行は、死者5433人、感染者1万1114人に達した。記録上2番目に死者の多い流行という。国境なき医師団（MSF）は、対策に充てられた数億ドルの資金が現場に届いていないと報告した。現場の職員は無給で、研修や物資も不足し、救急車の燃料が切れた例もあるという。アフリカ疾病予防管理センターは先月、支援団体に支払われた9億6200万ドルのうち7億ドルが所在不明だと指摘した。医療施設や職員への襲撃も増えており、WHOは進展が後退する恐れを警告している。",
+   "summary": "アフリカ疾病対策センターのカセヤ所長は日曜、コンゴ民主共和国のエボラ出血熱の流行が、まだ収束していないと述べた。5月15日の発表以来、感染例は1万1200件超、死者は5500人超と政府データにある。新規感染の8割超は接触者リストの外で確認された。ニューヨーク・タイムズは、新たな震源地が武装勢力により支援から孤立していると伝えた。",
    "sources": [
     {
-     "outlet": "BBC",
-     "url": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
-     "date": "2026-11-13",
+     "outlet": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/15/africa-cdc-says-ebola-outbreak-in-dr-congo-still-not-under-control?traffic_source=rss",
+     "date": "2026-11-16",
      "access": "body",
      "via": null,
-     "note": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says"
+     "note": "Africa CDC says Ebola outbreak in DR Congo ‘still not under control’"
     },
     {
-     "outlet": "The Straits Times",
-     "url": "https://www.straitstimes.com/world/attacks-on-health-workers-hamper-congo-ebola-fight-africa-cdc-warns",
-     "date": "2026-11-13",
+     "outlet": "Reuters",
+     "url": null,
+     "date": "2026-11-16",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Africa CDC says Ebola outbreak still out of control six months since it was declared - Reuters"
+    },
+    {
+     "outlet": "New York Times",
+     "url": "https://www.nytimes.com/video/world/africa/100000011257751/why-aid-isnt-reaching-ebolas-epicenter.html",
+     "date": "2026-11-16",
      "access": "body",
      "via": null,
-     "note": "Attacks on health workers hamper Congo Ebola fight, Africa CDC warns"
+     "note": "Why Aid Isn’t Reaching Ebola’s Epicenter"
     }
    ],
    "continuity": {
     "previousDate": "2026-10-19",
     "previousScore": 27,
-    "note": "9日連続で報じられている"
+    "note": "10日連続で報じられている"
    },
    "coverage": {
-    "world": "2/18",
+    "world": "3/17",
     "jp": "0/6",
-    "worldTotal": 18,
+    "worldTotal": 17,
     "jpTotal": 6,
-    "daysSeen": 9
+    "daysSeen": 10
    },
    "bodyAvailable": true,
    "discussionUrl": null,
    "summarizedBy": "claude-haiku-5-5"
   },
   {
-   "id": "intl-brief-2026-11-13-s-20261113-17",
+   "id": "intl-brief-2026-11-16-s-20261116-18",
    "stream": "intl",
    "depth": "brief",
    "section": "gap",
-   "headline": "メルセデス、ドイツ国内の新規投資を停止　工場閉鎖も検討",
-   "originalTitle": "Mercedes-Benz halts new investment in German plants, considers closures",
-   "outlet": "Euronews",
-   "url": "https://www.euronews.com/2026/11/12/mercedes-benz-halts-new-investment-in-german-plants-considers-closures",
-   "region": "overseas",
-   "category": null,
-   "score": 8,
-   "tier": "interest",
-   "pubDate": "2026-11-12T22:44:26.261Z",
-   "body": null,
-   "summary": "メルセデス・ベンツは、ドイツ国内の拠点で今後の新規投資を一時停止すると決めた。人件費の高さや、従業員代表・労組IGメタルとの交渉が行き詰まっていることが背景にある。同社によると、ドイツ工場の労働1時間当たりの費用は東欧拠点の最大5倍に上る。経営側は賃金を据え置いたままの労働時間延長や特別手当の削減を求めており、従業員の抗議も起きている。人事担当役員は、採算の取れる拠点を見極める必要があり、工場閉鎖の選択肢も真剣に検討するとした。ただ、閉鎖は避けたいとも述べた。",
-   "sources": [
-    {
-     "outlet": "Euronews",
-     "url": "https://www.euronews.com/2026/11/12/mercedes-benz-halts-new-investment-in-german-plants-considers-closures",
-     "date": "2026-11-13",
-     "access": "body",
-     "via": null,
-     "note": "Mercedes-Benz halts new investment in German plants, considers closures"
-    },
-    {
-     "outlet": "Reuters",
-     "url": null,
-     "date": "2026-11-13",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Mercedes-Benz halts German investments as plant closures loom - Reuters"
-    },
-    {
-     "outlet": "Financial Times",
-     "url": null,
-     "date": "2026-11-13",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Mercedes-Benz to halt ‘all future investments’ in Germany - Financial Times"
-    }
-   ],
-   "continuity": null,
-   "coverage": {
-    "world": "3/18",
-    "jp": "0/6",
-    "worldTotal": 18,
-    "jpTotal": 6,
-    "daysSeen": 1
-   },
-   "bodyAvailable": true,
-   "discussionUrl": null,
-   "summarizedBy": "claude-haiku-5-5"
-  },
-  {
-   "id": "intl-brief-2026-11-13-s-20261113-18",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "gap",
-   "headline": "米既存住宅販売、10月は2010年以来の低水準",
-   "originalTitle": "Home sales in the US are at their lowest level since 2016",
-   "outlet": "Al Jazeera",
-   "url": "https://www.aljazeera.com/economy/2026/11/12/home-sales-in-the-us-are-at-their-lowest-level-since-2016?traffic_source=rss",
-   "region": "overseas",
-   "category": null,
-   "score": 8,
-   "tier": "interest",
-   "pubDate": "2026-11-12T22:44:26.261Z",
-   "body": null,
-   "summary": "全米リアルター協会（NAR）によると、10月の既存住宅販売は年率換算で375万戸となり、前月比5.5%減った。2010年8月以来の低水準で、前年同月比では8.8%減少した。住宅ローン金利は7%超と高止まりし、2000年以来の高さ（2023年の1カ月を除く）に達したという。NARのユン・チーフエコノミストは、買い手にも売り手にも厳しい市場だと述べた。初めて住宅を購入した人の割合は29%で、前月の31%から低下した。",
-   "sources": [
-    {
-     "outlet": "Al Jazeera",
-     "url": "https://www.aljazeera.com/economy/2026/11/12/home-sales-in-the-us-are-at-their-lowest-level-since-2016?traffic_source=rss",
-     "date": "2026-11-13",
-     "access": "body",
-     "via": null,
-     "note": "Home sales in the US are at their lowest level since 2016"
-    },
-    {
-     "outlet": "Associated Press",
-     "url": null,
-     "date": "2026-11-13",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "US home sales slumped in October to slowest pace in more than 16 years as mortgage rates surged - AP News"
-    },
-    {
-     "outlet": "Bloomberg",
-     "url": null,
-     "date": "2026-11-13",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Sales of Existing US Homes Tumble to Lowest Level Since 2010 - Bloomberg.com"
-    }
-   ],
-   "continuity": null,
-   "coverage": {
-    "world": "3/18",
-    "jp": "0/6",
-    "worldTotal": 18,
-    "jpTotal": 6,
-    "daysSeen": 1
-   },
-   "bodyAvailable": true,
-   "discussionUrl": null,
-   "summarizedBy": "claude-haiku-5-5"
-  },
-  {
-   "id": "intl-brief-2026-11-13-s-20261113-09",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "gap",
-   "headline": "英裁判所、イラン人2人に英国のジャーナリスト監視で有罪",
-   "originalTitle": "Two men found guilty of helping Iran try to ‘eliminate’ UK-based journalists",
-   "outlet": "The Guardian",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/12/two-men-found-guilty-over-iranian-attempts-to-eliminate-uk-based-journalists",
-   "region": "overseas",
-   "category": null,
-   "score": 8,
-   "tier": "interest",
-   "pubDate": "2026-11-12T22:44:26.261Z",
-   "body": null,
-   "summary": "ロンドンの裁判所は、イラン出身の男2人が、イラン当局の情報機関の指示で英国内の標的を監視したとして有罪と判断した。罪は国家安全保障法違反。標的には、ペルシャ語放送局イラン・インターナショナルの記者らが含まれていた。男らはSNSで募集され、ChatGPTを使って住所を調べたという。うち1人は、暴力攻撃を計画した罪でも有罪となった。英国では先月、イラン体制が支援するとされる犯罪組織の依頼で殺害計画に加わった19歳のノルウェー人が終身刑となっている。",
-   "sources": [
-    {
-     "outlet": "The Guardian",
-     "url": "https://www.theguardian.com/uk-news/2026/nov/12/two-men-found-guilty-over-iranian-attempts-to-eliminate-uk-based-journalists",
-     "date": "2026-11-13",
-     "access": "body",
-     "via": null,
-     "note": "Two men found guilty of helping Iran try to ‘eliminate’ UK-based journalists"
-    },
-    {
-     "outlet": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/iranian-men-guilty-of-spying-on-british-journalists?traffic_source=rss",
-     "date": "2026-11-13",
-     "access": "excerpt",
-     "via": null,
-     "note": "Iranian men guilty of spying on British journalists"
-    },
-    {
-     "outlet": "Deutsche Welle",
-     "url": "https://www.dw.com/en/uk-court-convicts-2-iranian-men-of-spying-on-journalists/a-79931583?maca=en-rss-en-world-4025-rdf",
-     "date": "2026-11-13",
-     "access": "excerpt",
-     "via": null,
-     "note": "UK court convicts 2 Iranian men of spying on journalists"
-    }
-   ],
-   "continuity": null,
-   "coverage": {
-    "world": "3/18",
-    "jp": "0/6",
-    "worldTotal": 18,
-    "jpTotal": 6,
-    "daysSeen": 1
-   },
-   "bodyAvailable": true,
-   "discussionUrl": null,
-   "summarizedBy": "claude-haiku-5-5"
-  },
-  {
-   "id": "intl-brief-2026-11-13-s-20261112-04",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "gap",
-   "headline": "トランプ氏、イランとの合意は「必要ない」と発言",
-   "originalTitle": "Trump says US does not ‘need a deal with Iran’",
-   "outlet": "South China Morning Post",
-   "url": "https://www.scmp.com/news/world/united-states-canada/article/3374257/trump-says-us-does-not-need-deal-iran",
+   "headline": "米中間選挙後、若年男性票の争奪が激化",
+   "originalTitle": "Battle for young male US voters intensifies after their midterm rebuke of Republicans",
+   "outlet": "The Straits Times",
+   "url": "https://www.straitstimes.com/world/united-states/battle-for-young-male-voters-intensifies-after-us-midterm-rebuke-of-republicans",
    "region": "overseas",
    "category": null,
    "score": 6,
    "tier": "interest",
-   "pubDate": "2026-11-12T22:44:26.261Z",
+   "pubDate": "2026-11-15T21:43:58.567Z",
    "body": null,
-   "summary": "トランプ米大統領は12日、イランとの戦争は勝利したとして、「合意は必要ない」と述べた。バンス副大統領には、対イラン交渉ではなく国内の不正・犯罪対策に集中するよう指示したという。APとFTは、バンス氏による和平交渉の取り組みに終止符を打つ姿勢と伝えた。イラン側は譲歩せず、船舶への攻撃も続けていると報じられている。イランのカリバフ首席交渉官は、米国がプーチン露大統領にイランとの仲介を求めたと主張した。ホワイトハウスはこれに直接答えていない。",
+   "summary": "米中間選挙では、18〜29歳の男性の約59%が民主党の下院候補に投票したと推計されている。共和党候補への投票は37%だった。2024年は、同じ層でトランプ氏がハリス氏を14ポイント上回っていた。民主党は支持をどう定着させるかを議論し、共和党は敗因の分析を始めている。経済不安が主因の一つだったが、外交政策も影響したとの調査がある。",
    "sources": [
     {
-     "outlet": "South China Morning Post",
-     "url": "https://www.scmp.com/news/world/united-states-canada/article/3374257/trump-says-us-does-not-need-deal-iran",
-     "date": "2026-11-13",
-     "access": "excerpt",
-     "via": null,
-     "note": "Trump says US does not ‘need a deal with Iran’"
-    },
-    {
-     "outlet": "CBS News",
-     "url": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-strait-of-hormuz/",
-     "date": "2026-11-13",
+     "outlet": "The Straits Times",
+     "url": "https://www.straitstimes.com/world/united-states/battle-for-young-male-voters-intensifies-after-us-midterm-rebuke-of-republicans",
+     "date": "2026-11-16",
      "access": "body",
      "via": null,
-     "note": "Trump says \"we don&#039;t need a deal with Iran\""
+     "note": "Battle for young male US voters intensifies after their midterm rebuke of Republicans"
+    },
+    {
+     "outlet": "Reuters",
+     "url": null,
+     "date": "2026-11-16",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Battle for young male voters intensifies after US midterm rebuke of Republicans - Reuters"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "2/17",
+    "jp": "0/6",
+    "worldTotal": 17,
+    "jpTotal": 6,
+    "daysSeen": 1
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "claude-haiku-5-5"
+  },
+  {
+   "id": "intl-brief-2026-11-16-s-20261109-19",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "gap",
+   "headline": "COP31、1.5度目標の扱いで各国の立場割れる",
+   "originalTitle": "COP31: Protesters, UN urge swift climate deal",
+   "outlet": "Deutsche Welle",
+   "url": "https://www.dw.com/en/cop31-protesters-un-urge-swift-climate-deal/a-79948501?maca=en-rss-en-world-4025-rdf",
+   "region": "overseas",
+   "category": null,
+   "score": 6,
+   "tier": "interest",
+   "pubDate": "2026-11-15T21:43:58.567Z",
+   "body": null,
+   "summary": "トルコ・アンタルヤで開かれている国連気候変動会議COP31で、スティール事務局長は、各国に「戦術的な遅延を避けるよう」求めた。交渉は後半に入り、焦点は気温上昇を1.5度に抑える目標の扱いだ。世界はすでに産業革命前より約1.4度温暖化している。国連は9月、1.5度を超えることは避けられないと宣言していた。太平洋島国パラオのウィップス大統領は、1.5度は「存亡の脅威」だと訴えた。",
+   "sources": [
+    {
+     "outlet": "Deutsche Welle",
+     "url": "https://www.dw.com/en/cop31-protesters-un-urge-swift-climate-deal/a-79948501?maca=en-rss-en-world-4025-rdf",
+     "date": "2026-11-16",
+     "access": "body",
+     "via": null,
+     "note": "COP31: Protesters, UN urge swift climate deal"
+    },
+    {
+     "outlet": "The Straits Times",
+     "url": "https://www.straitstimes.com/world/europe/nations-grapple-with-loss-of-1-5-deg-c-target-at-un-climate-summit",
+     "date": "2026-11-16",
+     "access": "body",
+     "via": null,
+     "note": "Nations grapple with loss of 1.5 deg C target at UN climate summit"
     }
    ],
    "continuity": {
-    "previousDate": "2026-11-12",
-    "previousScore": 6,
-    "note": "2日連続で報じられている"
+    "previousDate": "2026-11-09",
+    "previousScore": 17,
+    "note": "6日連続で報じられている"
    },
    "coverage": {
-    "world": "2/18",
+    "world": "2/17",
     "jp": "0/6",
-    "worldTotal": 18,
+    "worldTotal": 17,
     "jpTotal": 6,
-    "daysSeen": 2
+    "daysSeen": 6
    },
    "bodyAvailable": true,
    "discussionUrl": null,

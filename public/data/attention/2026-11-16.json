@@ -1,0 +1,2433 @@
+{
+ "date": "2026-11-16",
+ "generatedAt": "2026-11-15T21:43:58.567Z",
+ "measured": {
+  "world": 17,
+  "jp": 6
+ },
+ "unreachable": [
+  {
+   "id": "npr",
+   "name": "NPR",
+   "error": "更新が止まっている（新しい見出し 1件）"
+  }
+ ],
+ "ranking": [
+  {
+   "id": "s-20261116-01",
+   "title": "イラン、バーレーンの米軍基地へドローン攻撃",
+   "firstSeen": "2026-11-16",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-16": 31
+   },
+   "peak": 31,
+   "worldScore": 31,
+   "worldCoverage": "9/17",
+   "jpScore": 8,
+   "jpCoverage": "1/6",
+   "gap": 23,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.78,
+     "title": "Iran targets US military base in Bahrain with drone attack",
+     "desc": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
+     "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.62,
+     "title": "Iran launches drone attacks against US military base in Bahrain",
+     "desc": "Strikes cast further doubt on peace talks between Tehran and Washington with increasing risk of escalation Iran has launched drone attacks against a US military base in Bahrain, casting further doubt on peace talks between Tehran and Washington and raising the spectre of escalation. Blasts sounded over the Gulf nation on Sunday in the second Iranian drone attack in three days in retaliation for US strikes in Iran. Continue reading...",
+     "url": "https://www.theguardian.com/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.94,
+     "title": "Iran Attacks Bahrain for the Second Time in Days",
+     "desc": "The resumption of attacks after a two-month lull comes as peace talks between the U.S. and Iran appear to have stalled.",
+     "url": "https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Iran claims drone attack on US military base in Bahrain",
+     "desc": "Bahrain issued two alerts of potential threats on Sunday, its first such warnings since September as blasts rocked the capital, Manama. It comes after Iran targeted an airbase in the US-allied island state, ending a long lull in strikes during the Middle East War and comes as negotiations to end the conflict remain at a stalemate, with the US maintaining its naval blockade and Iran its stranglehold over the strait of Hormuz. Story by Rachael Griffiths.",
+     "url": "https://www.france24.com/en/iran-claims-drone-attack-on-us-military-base-in-bahrain",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Bahrain says it intercepted Iranian strikes, Tehran targets U.S. assets",
+     "desc": "The attacks come after the U.S. carried out minor strikes on Iran&#039;s Qeshm island in recent weeks.",
+     "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-nuclear-material-no-deal/",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Bahrain intercepts Iranian aerial attacks as Tehran says it attacked US base",
+     "desc": "Bahrain had earlier urged residents to seek shelter.",
+     "url": "https://www.straitstimes.com/world/middle-east/bahrain-issues-first-threat-alerts-since-september-as-iran-says-it-attacked-us-base",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Bahrain intercepts Iranian aerial attacks as Tehran says it attacked US base - Reuters",
+     "desc": "Bahrain intercepts Iranian aerial attacks as Tehran says it attacked US base Reuters",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS2FyaWZZTTd4ZWFoWFdoTnFNVmpjakdwQUVnZ0UtMEY5MFc1dEFBeGd4UmczdGh1ektRTHBjRGxBOVlVQy1XV3NOdV9MbWotQkNVa1NBdmJaUloya1VhR2FEUTN3QkgwZ1JRN00wME5tc243TmZHU20zdlpaUHR2Q2lyby0tUkJsR0w5N1lXclI4ZWI5RTdfbjB2d1hxMXVjOVp4MlJPOF9IcjIxSE1JWWx3?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Iran Strikes Bahrain Base, Repeats Path to US Deal Remains Open - Bloomberg.com",
+     "desc": "Iran Strikes Bahrain Base, Repeats Path to US Deal Remains Open Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTXpxVVpLejY0TU5TcHFqQUFIY1YtTThlNkc3MFJ2OVkwM2JZZHcyeHF5WVkzVzdXX1IwZHlWeDBPcnkyeXdtQXkyWHpKdlU4aGl6SnA4cmVfMmxUWEhBMlR4MjluNkNUNUJieUxhSDlZZzVRYkxKdUxYY0RGNTJGWXB6NlpPb09jcWhOYS0wOE40QjdnZWRzTFNPOTZ1dEpuTERPWFcyZkxqcmwwcF80V2VfNA?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Iran attacks Bahrain in escalation of Gulf hostilities - Financial Times",
+     "desc": "Iran attacks Bahrain in escalation of Gulf hostilities Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV1NnZUh3czlKU042ZUlRajRsMzFZdUN4WkwycmtaYVRTa3kycVB5ai04SGFWV2JvOURhSVNmSUE0VDdMUGk5VERpM0NjaUI0UmY5eUpTRmlEZFk4NWEyaFp1eDRoclkxVnBfcFh0YW13ejBybkRGdnE1VDhubnJjZk9zUko?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "バーレーンの米軍施設に攻撃 イラン革命防衛隊、報復か - 日本経済新聞",
+     "desc": "バーレーンの米軍施設に攻撃 イラン革命防衛隊、報復か 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aZmZDTGxfeWxPa1RfUzM0b0xsMUJBLWlmM3pIZUhoSDJnQ2xFZmxITGtMOEdrRThEUXRDZUJ6eldETmRBbmlocmpjYWl3U0NnUW5WMVdObnllQXppcWpKU3VLUmpoOHJtbUNEZQ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261116-04",
+   "title": "チェコで大規模抗議、公共メディア財源案に反対",
+   "firstSeen": "2026-11-16",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-16": 27
+   },
+   "peak": 27,
+   "worldScore": 27,
+   "worldCoverage": "8/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 27,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.82,
+     "title": "Czechs rally against plan to switch funding of public media",
+     "desc": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs.",
+     "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.71,
+     "title": "Hundreds of thousands of Czechs protest in Prague over media freedom",
+     "desc": "Estimated 350,000 people rally against plan to scrap licence fees and fund broadcasters from state budget Hundreds of thousands of Czechs have rallied in Prague to protest against a perceived government attempt to stifle media freedom. The gathering on Sunday to save the mandatory licence fees that fund Czechia’s public broadcasters drew more than 350,000 people, making it one of the biggest in the country’s history, organisers said. Continue reading...",
+     "url": "https://www.theguardian.com/world/2026/nov/15/czechia-protest-prague-media-freedom",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Thousands rally in Czech Republic against state media funding changes",
+     "desc": "Critics say proposed funding changes will give the government more control of state media.",
+     "url": "https://www.aljazeera.com/news/2026/11/15/thousands-rally-in-czech-republic-against-state-media-funding-changes?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Hundreds of thousands in Prague protest Czech government's public media funding plans",
+     "desc": "The crowd protested on Sunday afternoon against government plans affecting Czech public television and radio. It was the largest rally so far against the three-party government led by Prime Minister Andrej Babis.",
+     "url": "https://www.euronews.com/2026/11/15/hundreds-of-thousands-in-prague-protest-czech-governments-public-media-funding-plans",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Czechs stage huge rally against public-media funding overhaul",
+     "desc": "Hundreds of thousands of Czechs rallied in Prague on Sunday against the nationalist government’s plan to overhaul public-media funding, which critics see as a threat to press freedom. The government of billionaire Prime Minister Andrej Babis wants to switch from funding Czech TV and Czech Radio through licence fees paid by viewers and listeners to payments from the state budget. Opponents say the move will stifle media freedom as it will make the outlets more dependent on the state. “We need to...",
+     "url": "https://www.scmp.com/news/world/europe/article/3374518/czechs-stage-huge-rally-against-public-media-funding-overhaul",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Tens of thousands of Czechs rally against government media funding plan",
+     "desc": "PRAGUE, Nov 15 - Tens of thousands of Czechs rallied in Prague on Sunday against a government plan to cut a public media fee and move funding to the state budget — a policy critics say would dent the broadcasters' independence and viability.",
+     "url": "https://www.straitstimes.com/world/europe/tens-of-thousands-of-czechs-rally-against-government-media-funding-plan",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Tens of thousands of Czechs rally against government media funding plan - Reuters",
+     "desc": "Tens of thousands of Czechs rally against government media funding plan Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV0pRaS1YQ3ZuYW42YldaYWdvWTBoN19GMFBGaXJBbGtSLWNtc3ZRRGoydDRzM3EyV0pPNjhEODV5Q3dRSXVtaTNwVzlBa2huUGR1SHNBUER4Z2RQaFlORENfUkdRMHFvcVRCWngxUTJiTnVXZGVRQzc1Tm9SQjNIQk5YYkFHZFdHbUtwa3czQ1YxVTA3QWdMd1BYNHY0cVpqZ1c2LXc4ODNrWFpRbVhUX2RpUkV6NTdJWVFDeW9idW9xUQ?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Czechs gather in big numbers to reject government's plan to overhaul funding of public media - AP News",
+     "desc": "Czechs gather in big numbers to reject government's plan to overhaul funding of public media AP News",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbWotSHY0d2pGeVpPN3VPNk4wbzJ6a3VZSVBFSWRpdm0yRG1DZ1IyUlhfOVVzeWxmWjVzeWlEYnZ3TzIyWkY2ejNKOFRLY010dWdGSVJiYkhaUXl6OWRDcDMzRXRGaDl1UW1mN0kxRmY2eFRONHVZSk51cEhGVXNlX2IxSEUwQ2FOVGQ3d014TURKMlBlUWp3?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261110-05",
+   "title": "エヌビディア関連のスパイ疑惑、元幹部が退社",
+   "firstSeen": "2026-11-10",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-10": 6,
+    "2026-11-16": 26
+   },
+   "peak": 26,
+   "worldScore": 26,
+   "worldCoverage": "8/17",
+   "jpScore": 9,
+   "jpCoverage": "1/6",
+   "gap": 17,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.87,
+     "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+     "desc": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+     "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Why the Nvidia scandal is bad news for Europe’s AI ambitions",
+     "desc": "Nvidia's Jensen Huang poured money into open-source AI, from French-founded Hugging Face to chips for Mistral's data centres, and fought Washington's attempts to restrict it. With Huang gone and China hawks emboldened, Tech 24 asks whether Europe's AI ambitions have lost their most powerful ally, and whether he was ever the champion Europe needed.",
+     "url": "https://www.france24.com/en/tv-shows/tech-24/20261115-why-the-nvidia-scandal-is-bad-news-for-europe-s-ai-ambitions",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Megaspeed says alleged Chinese spy, Alice Huang, left company last year",
+     "desc": "The cloud computing company with ties to Nvidia, Megaspeed, has said that Alice Huang, an alleged Chinese spy, left the company in 2025. Huang is at the heart of an international corporate scandal and alleged to have had an affair with former Nvidia CEO Jensen Huang",
+     "url": "https://www.euronews.com/2026/11/15/megaspeed-says-alleged-chinese-spy-alice-huang-left-company-last-year",
+     "via": null
+    },
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 0.72,
+     "title": "Company caught up in Nvidia controversy launches internal investigation",
+     "desc": "A cloud computing company facing scrutiny over claims involving tech giant Nvidia has launched an internal investigation conducted by external lawyers.",
+     "url": "https://news.sky.com/story/company-caught-up-in-nvidia-controversy-launches-internal-investigation-13612539",
+     "via": null
+    },
+    {
+     "id": "abc-au",
+     "name": "ABC Australia",
+     "region": "world",
+     "weight": 0.3,
+     "title": "Alleged Chinese spy left Megaspeed last year, company says",
+     "desc": "Singapore-based Megaspeed International is under scrutiny from US authorities over reports it shipped AI chips to China in breach of trade restrictions.",
+     "url": "https://www.abc.net.au/news/2026-11-16/alice-huang-megaspeed-departure/107388304",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Megaspeed says Alice Huang left company in 2025, denies wrongdoing",
+     "desc": "The company denies wrongdoing after accusations that it smuggled Nvidia&#039;s AI chips into China.",
+     "url": "https://www.cbsnews.com/news/nvidia-alice-huang-jensen-ai-china-singapore-megaspeed/",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Megaspeed says Alice Huang left the company in August 2025 - Reuters",
+     "desc": "Megaspeed says Alice Huang left the company in August 2025 Reuters",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVGhZTlZ0MDBVVUhqYkJMZmtuTk5OazlET0NjTVN5WDZsWTZPSUJjemowSWtRN09mSUdhUmUtdHRnamVjeHp4U0g2ak1VUW51NEZfaW5hM2c0X25DVkVHeG93Q1hHcW5oUlhUMDN1RFVrSDdFZG01RjdyT1pkQmc4MjJxdzhCUnNHZFhPRE9hQ21oczRBVVl2aVpFQWo?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Nvidia Sought Taipei’s Help Over Employee’s Chip Smuggling Case - Bloomberg.com",
+     "desc": "Nvidia Sought Taipei’s Help Over Employee’s Chip Smuggling Case Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRGtpVzRBYjlOTE9OUVd4eWdPWnp4UENBT29YZi1VUFNETjVuRWdmS1ByTlBQWFozVlZBdEtqU1NVaTNJQ2VEVDJCZTdpbXFXXzRvekNqT1lWazBHYUtGVk9DdVJtWDc1UERkRFN5NVFwOS1LdG9VNDUtMl9IXzV2NzIweDdneGoxRmhkdlVTdE1maDFBZ2Z6Z0paR3NoNXhKWEJHSjN6VDlYZmotZEZrVkFvR20?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.56,
+     "title": "【独自】中国スパイ疑惑 最先端半導体を迂回輸出で入手か 疑惑マレーシア企業を追跡(テレビ朝日系（ANN）)",
+     "desc": "黄色のワンピースに身を包んだ女性。エヌビディアのCEOフアン氏と不倫関係にあり、中国のスパイ疑惑もあるアリス・フアン氏です。番組では、公開されているデータや中国、シンガポール、台湾、アメリカなど世界各",
+     "url": "https://news.yahoo.co.jp/articles/e566a5bd815e71e4fba85b2e083a73f54a903e5e?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261116-03",
+   "title": "エストニア、露との国境を閉鎖へ 放火未遂受け",
+   "firstSeen": "2026-11-16",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-16": 25
+   },
+   "peak": 25,
+   "worldScore": 25,
+   "worldCoverage": "8/17",
+   "jpScore": 24,
+   "jpCoverage": "3/6",
+   "gap": 1,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.74,
+     "title": "Estonia to close all border crossings with Russia after attack on drone maker",
+     "desc": "Authorities say Russian intelligence service ordered attack Estonian PM links to Tallinn’s support for Ukraine Estonia will close all its border crossings with Russia from 1 December after a suspected sabotage attack on a drone maker in the Baltic state over the weekend, which authorities said was ordered by Russia’s GRU military intelligence service. On Saturday morning, eight people were detained during an attempted attack on Threod Systems, a defence company that manufactures long-range attack and reconnaissance drones. No injuries or damage were reported after the company’s security team r",
+     "url": "https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Estonia to close border crossings with Russia after alleged arson attack",
+     "desc": "Estonia is closing its border crossings with Russia following an alleged arson attempt at a drone factory.",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/estonia-to-close-border-crossings-with-russia-after-alleged-arson-attack?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Estonia to close Russian border crossings after 'sabotage' attempt at drone factory",
+     "desc": "Estonia will close all its border crossing points with Russia from December 1, its ​foreign minister ‌said on Sunday, following a suspected ⁠sabotage attack on an Estonian defence company that Tallinn blamed on ‌Moscow.",
+     "url": "https://www.france24.com/en/europe/20261115-estonia-to-close-russian-border-crossings-after-sabotage-attempt-at-drone-factory",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Estonian drone maker targeted in 'GRU-ordered' sabotage attempt, PM says",
+     "desc": "Prime Minister Kristen Michal said Estonia was preparing to potentially close its border with Russia to \"reduce the risks to our people and national security.\"",
+     "url": "https://www.euronews.com/2026/11/15/estonian-drone-maker-targeted-by-gru-ordered-sabotage-attempt-pm-says",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Estonia to close Russia border after ‘sabotage’ bid, foreign minister says",
+     "desc": "Estonia said on Sunday it would close its border with Russia after stopping what it said was an attempted arson attack by Russia’s GRU military intelligence on a drone factory. “Estonia will close all Estonian-Russian border crossing points as of 1 December,” Foreign Minister Margus Tsahkna posted on social media, citing “clear evidence” that the GRU had ordered the attack. Earlier on Sunday, Prime Minister Kristen Michal wrote on social media that the GRU had ordered a “sabotage attempt” at the...",
+     "url": "https://www.scmp.com/news/world/russia-central-asia/article/3374514/estonia-close-russia-border-after-sabotage-bid-foreign-minister-says",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Estonia to close Russia border crossings after attempted arson attack on drone maker",
+     "desc": "Estonia has three open border crossings with Russia at Narva, Luhamaa and Koidula.",
+     "url": "https://www.straitstimes.com/world/europe/estonia-to-close-russian-border-crossings-after-attempted-arson-attack",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Estonia to close Russian border crossings after attempted arson attack - Reuters",
+     "desc": "Estonia to close Russian border crossings after attempted arson attack Reuters",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVkhQYlBYSGp1OG16aUlIS0JBcWpXQnpYbDlDaVFqb0V4cG04dm9wbnptbW1WRnI1bmh2ck0tTmM2Vl9pYVN2dG5NVmpTM2liUG9JWDNkVTZPVUxQc0swQ3FuN3UyZ2tyanRHVENpeUQtbTl0Z3RYSlIzVFB3QnFtdzVvWURCWDlCVjhlclpUTlpWaVhxektwaEFtY2Z2ZGRUYmJ1Z0ozUW9jY0lSOURycDkxSktlRnc?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Estonia Says Russia Behind Failed Arson Attempt on Drone-Maker - Bloomberg.com",
+     "desc": "Estonia Says Russia Behind Failed Arson Attempt on Drone-Maker Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeW1fVUx5bUF2dWVuM3UzTGk5SndncS1CWGF6Wi1Nd3Zwb25TLW5rNlRxZVRoRWtxUVlWODNZZzJjS2M0djZQWmVrZC1EeGlXSjNrYWowWnF3MnMzcVBsalFTbVVvd3dUMXJNWFFHNkZlMlN4UURrVWpYWF9wSjAwYTR4OVZFZzNPeHQtc3RXbkUwb0RCSmo1cU81c3J5eFFzM2swSXZfRDZqMklhczRhT0hDcw?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "asahi",
+     "name": "朝日新聞",
+     "region": "jp",
+     "weight": 0.3,
+     "title": "エストニア、ロシアとの国境を封鎖へ ドローン施設への爆破未遂受け",
+     "desc": "",
+     "url": "http://www.asahi.com/articles/ASVCH6TC0VCHUHBI026M.html?ref=rss",
+     "via": null
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.65,
+     "title": "エストニア“放火未遂”関与疑惑でロシアとの国境閉鎖へ ドローン工場で爆発のおそれ(テレビ朝日系（ANN）)",
+     "desc": "バルト三国のエストニアでロシアの関与が疑われるドローン工場への放火未遂事件があり、当局は来月からロシアとの国境を閉鎖すると発表しました。 エストニア当局は15日、首都タリン近郊にある防衛企業のドローン",
+     "url": "https://news.yahoo.co.jp/articles/7665353e7da33d401c5bf4117b05195d87044883?source=rss",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "エストニア、ロシア国境を閉鎖へ 放火未遂事件受け12月から - 日本経済新聞",
+     "desc": "エストニア、ロシア国境を閉鎖へ 放火未遂事件受け12月から 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNMDZTQXVTbnF3UHZha1FTQm44OHlNMmJvSmktdmp1Vkc3clVJb3pNUXJzd2RpVGZGX3BNcXBCd2twbGtJTF9yUnFxUlNrenZySk1SZzZ3RWV6emZiTlE2akhkenBsNG9pd1A1dw?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261116-07",
+   "title": "米国の全国的な航空便の欠航・遅延が長期化",
+   "firstSeen": "2026-11-16",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-16": 21
+   },
+   "peak": 21,
+   "worldScore": 21,
+   "worldCoverage": "7/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 21,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.65,
+     "title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
+     "desc": "The US transport secretary says that normal air-traffic operations may not be restored until Monday.",
+     "url": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US probes nationwide flights stoppage as travel disruptions persist",
+     "desc": "US air travel is expected to return to normal this Sunday, following a nationwide ground stop Friday night that stranded hundreds of thousands of passengers and disrupted travel worldwide. The Trump administration blamed the incident on a botched replacement of old copper wire communication lines and said there was no evidence this was a cyberattack. The ground stop now raises questions about the country's aging infrastructure and lawmakers are calling for an investigation. Analysis by Philip Mann, aviation expert at Vector Strategic Consulting.",
+     "url": "https://www.france24.com/en/us-probes-nationwide-flights-stoppage-as-travel-disruptions-persist",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump breaks silence on US ground stop, demands more money from Congress",
+     "desc": "US President Donald Trump on Sunday broke his silence on the nationwide ground stop that snarled airline travel this weekend, using the incident to push Congress on money to fully upgrade America’s air traffic control system. The Republican president has been conspicuously quiet on the ground stop since it began on Friday afternoon, instead issuing statements on social media about completely different topics as frustrated passengers were left stranded at airports and his government scrambled...",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3374509/trump-breaks-silence-us-ground-stop-demands-more-money-congress",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US air travel disruptions continue into third day",
+     "desc": "Transportation Secretary Sean Duffy predicted a return to normality by Nov 16.",
+     "url": "https://www.straitstimes.com/world/united-states/us-air-travel-disruptions-continue-into-third-day",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US air travel disruptions continue into third day - Reuters",
+     "desc": "US air travel disruptions continue into third day Reuters",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSC1Vbm9ZWDVxQWFoSHk3aWN6WXpKVG1vNkRBWEktdnIzUGU0V0lfQWVySGZCNEROMDhHelRDVkhscDV2cm9qVXU4Ty1kYklOWi1hTXJ6b2JVc1ZSMk0tY3FBMGxzQ2M1aGpNbmZ5RC1JVVFqNXZtbFBtTFAxV0xQRkpBbXJmN2pQYjZpdkFIREpNMjF4NmVOVDRn?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US air travel should normalize Sunday after ground stop triggers mass cancellations, FAA says - AP News",
+     "desc": "US air travel should normalize Sunday after ground stop triggers mass cancellations, FAA says AP News",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQzlDRHBLSTNHTHRtbnpudnNXdXZpYnpEQ1hhLVNrU3ZRM0xRNm9NcUx2NjRIVFVOQVJKWXZGZzZCZ0hTcEdjd1ppTkFIelBlc282aU05SS1YYU45WTNwRUx1RzBCX3hwNW9Ed20wQ1JmQ3hHVmFSUktDSjM1eklkYTFPN3FkWUR0V1pUSjRIMHk3MjJjX0VrSm8zaFJ6a2paSnRwNzVrQlZpZw?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "One router overload brought US air travel to a standstill - Financial Times",
+     "desc": "One router overload brought US air travel to a standstill Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaUxaazZEWDlnYnJQUGQ3ZjgwX0xSR3hWclVzd2ZFOUtvYXh5Nkl5WTdBSVE0S21Xb3hvazVIa2xYZklNZVBROG9OeUstY1U4N01hbERCc1o1TVdNZkotVU1PeGNPNnFyajZNbmVBaFR2WFZjaldlN3JPenRnZldjaFpzRkg?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261116-05",
+   "title": "ヨルダン、教会襲撃事件で男3人に死刑判決",
+   "firstSeen": "2026-11-16",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-16": 20
+   },
+   "peak": 20,
+   "worldScore": 20,
+   "worldCoverage": "6/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 20,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.74,
+     "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
+     "desc": "The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month.",
+     "url": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Jordan sentences three men to death over deadly church attack in Karak",
+     "desc": "Jordan sentences three men to death over deadly church attack in Karak",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/jordan-sentences-three-men-to-death-over-deadly-church-attack-in-karak?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.68,
+     "title": "Jordan Sentences 3 to Death Over Greek Orthodox Church Attack",
+     "desc": "The Jordanian military said that the men, who were arrested after a shooting at a Greek Orthodox church last month, had been convicted of terrorism charges.",
+     "url": "https://www.nytimes.com/2026/11/15/world/middleeast/jordan-church-attack-death-sentence.html",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Jordan sentences 3 men to death over deadly church attack",
+     "desc": "A Jordanian court on Sunday sentenced three men to death by hanging over a deadly church shooting, as the kingdom’s Christmas celebrations were cancelled in solidarity with the victims’ families. Gunmen killed nine people and wounded 25 others when they stormed a funeral at a Greek Orthodox church in southern Hammoud village, Karak governorate, on October 23. Authorities said three men, two Jordanian brothers and their relative by marriage, had fled after the attack and were arrested three days...",
+     "url": "https://www.scmp.com/news/world/middle-east/article/3374499/jordan-sentences-3-men-death-over-deadly-church-attack",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Jordan sentences three men to death over deadly church attack",
+     "desc": "AMMAN, Nov 15 - Jordan’s State Security Court sentenced three men to death on Sunday for carrying out an attack on a church in the southern governorate of Karak last month that killed nine people, the state news agency Petra reported.",
+     "url": "https://www.straitstimes.com/world/middle-east/jordan-sentences-three-men-to-death-over-deadly-church-attack",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Jordan sentences three men to death over deadly church attack - Reuters",
+     "desc": "Jordan sentences three men to death over deadly church attack Reuters",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSW5qZzl5QmYwRkpOaUNfQlVXU1FOdEhVX0RUWEtsYjU5a3ZfWEJGS3R4MjVRYlVha3ZrcWpnQVV1SHQ0c09qY0V2U2RscnZUNjlaVjUwYW1GN2pfMjNHNE1LemRjUEZTSGlQY3JhcUNFTjhOYlNDZkVQTzFVbHZ1elgzX01md3BoRG0tam4zVEFha2tnUjU5TlllRmtrb09PMHFQVFZmNXNWSm9wTVRPYUFn?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261113-05",
+   "title": "スターリンク通信の制限が再発、ウクライナ",
+   "firstSeen": "2026-11-13",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-13": 9,
+    "2026-11-16": 19
+   },
+   "peak": 19,
+   "worldScore": 19,
+   "worldCoverage": "5/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 19,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 1,
+     "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+     "desc": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks.",
+     "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.77,
+     "title": "Ukraine’s Starshield Access Is Being Restricted Again, Zelensky Says",
+     "desc": "President Volodymyr Zelensky said the system, which Ukraine uses to guide drones, was being throttled over Russian-occupied territory. SpaceX, its developer, has denied the claim.",
+     "url": "https://www.nytimes.com/2026/11/14/world/europe/ukraine-starshield-zelensky.html",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Zelenskyy questions SpaceX over reported Starshield speed restrictions",
+     "desc": "The restrictions have been directly affecting Ukraine's ability to intercept Russian jet-powered attack drones, Zelenskyy said in an address at the European Political Community summit in Dublin earlier this week.",
+     "url": "https://www.euronews.com/2026/11/15/zelenskyy-questions-spacex-over-reported-starshield-speed-restrictions",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Zelensky warns Starshield restrictions threaten Ukraine’s winter energy defences",
+     "desc": "Restrictions on Ukraine’s Starshield satellite communications system are hindering its ability to intercept Russian drones, President Volodymyr Zelensky said on Sunday. He warned that limitations on the system, operated by Elon Musk’s SpaceX, could weaken defences around Ukraine’s energy infrastructure ahead of the winter months, when Moscow has repeatedly targeted the power grid. Ukraine’s interceptor drones continue to lose contact with their operators when flying faster than 161km/h (100mph)...",
+     "url": "https://www.scmp.com/news/world/russia-central-asia/article/3374516/zelensky-says-starshield-restrictions-threaten-ukraines-energy-defences-ahead-winter",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Zelenskyy says Starshield restrictions threaten Ukraine’s energy defenses ahead of winter - AP News",
+     "desc": "Zelenskyy says Starshield restrictions threaten Ukraine’s energy defenses ahead of winter AP News",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOenBGVVA1c2RUMjI4QVhIb2RGb193VUVXanFoaGxvUFV6MExoS1NsOUJnWDFENzhsbTk3UGs1T1lIYUs2a3phVkU2RGVlbWRvbUtPMk5ya3dsclFOdThkMWdNMFdXSFVFTlhSUUFncjlIbEFhXzZhZ3M0SkNjQk50cHh1elBVMlpWcXZDQ2pYRXB2cWNfaGdGelBsWmxRR0NkcjdSU1hQYlBkR0pCZXFF?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261116-06",
+   "title": "カナリア諸島に移民が殺到、2日で約2200人",
+   "firstSeen": "2026-11-16",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-16": 18
+   },
+   "peak": 18,
+   "worldScore": 18,
+   "worldCoverage": "6/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 18,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Nearly 1,500 migrants reach Spain’s Canary Islands in one day",
+     "desc": "Nearly 1,500 migrants reach Spain’s Canary Islands in one day",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/nearly-1500-migrants-reach-spains-canary-islands-in-one-day?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Nearly 2,200 migrants reach Spain's Canary Islands in two days",
+     "desc": "Nearly 2,200 migrants have reached the Canary Islands over the past two days, Spain’s coastguard said Sunday, continuing a recent surge of arrivals from West African countries to the Spanish archipelago, where the authorities declared a migration emergency earlier this week.",
+     "url": "https://www.france24.com/en/europe/20261115-nearly-2200-migrants-reach-spain-canary-islands-in-two-days",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Record immigration day in El Hierro as 1,488 arrive in Canary Islands",
+     "desc": "12 cayucos carrying 1,235 people reached El Hierro on Saturday, and two more boats reached Gran Canaria and Tenerife. The Canaries saw 1,488 arrivals in a day and over 2,300 in two days; President Clavijo said they are overwhelmed.",
+     "url": "https://www.euronews.com/2026/11/15/record-immigration-day-in-el-hierro-as-1488-arrive-in-canary-islands",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Nearly 1,500 migrants arrive in Canary Islands in one day",
+     "desc": "MADRID, Nov 15 - Almost 1,500 migrants arrived in Spain's Canary Islands on Saturday, the highest number in a single day since 2020, the EFE news agency reported on Sunday, citing the maritime rescue service.",
+     "url": "https://www.straitstimes.com/world/europe/nearly-1500-migrants-arrive-in-canary-islands-in-one-day",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Nearly 1,500 migrants arrive in Canary Islands in one day - Reuters",
+     "desc": "Nearly 1,500 migrants arrive in Canary Islands in one day Reuters",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNV80Q09DeEFLU2dxNDdvQTZZeWkyQkVmZUoxbEpNY2RHTHJhY2ZpRTRxT1N4QXFZaGNmWWdOV0thQ3ZLdml4cmpDdmZVTElvaWdGTG1JZUNnNUJFMFZuS2pDYTRDNEd0LUV3eUc5ZlVSU3ZmelZWT28yQm9OOF9zeXdKbnN5bWtrWURSNV9TSGhyOXN1c2J1RWhVV05MTV9o?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Nearly 2,200 migrants reach Canary Islands in 2 days, Spain says - AP News",
+     "desc": "Nearly 2,200 migrants reach Canary Islands in 2 days, Spain says AP News",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOR3hsQmM3QjN3aXVLQ0UzaF9LcVJMb2xHd0JsYXY5WTNtd2tZT1VFX3pydVprLTdiaktwelM0dlkyZldVR19yT3cwMlhGbk4wemc2ajU1NzBPd01PQi1zMkZFNVRKdnpUTE13X3RtYy04ZGduR00tb1NSMHFoWWFTeDdzT1RNd2FLZWtTYmNmbThmQ0FxdGxScWRYREJQRDUxN1FGSA?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261116-02",
+   "title": "イエメン政府軍が海峡から撤退、フーシ派前進",
+   "firstSeen": "2026-11-16",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-16": 17
+   },
+   "peak": 17,
+   "worldScore": 17,
+   "worldCoverage": "5/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 17,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Yemeni government forces redeploy from Bab al-Mandeb to defend Aden",
+     "desc": "Spokesman for the Southern Armed Forces says group is repositioning from Dhubab airport and areas around Bab al-Mandeb.",
+     "url": "https://www.aljazeera.com/news/2026/11/15/yemeni-government-forces-redeploy-from-bab-al-mandeb-to-defend-aden?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.91,
+     "title": "Saudi-Backed Forces Retreat in Yemen, Leaving Key Strait in Houthi Control",
+     "desc": "It’s a setback for the Yemeni government and its ally Saudi Arabia, as analysts said the momentum in country’s civil war was tilting toward the Iran-backed Houthis.",
+     "url": "https://www.nytimes.com/2026/11/15/world/middleeast/saudi-houthis-yemen-red-sea.html",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Yemen's Houthis advance on Aden as government forces retreat to defend their capital",
+     "desc": "Houthi forces in Yemen have advanced to within 60 kilometres of Aden, the seat of the country's internationally recognised government, military and government sources said Sunday. The embattled government earlier announced it was pulling back its last forces from the Bab el-Mandeb Strait to defend its temporary capital on the southern coast of Yemen.",
+     "url": "https://www.france24.com/en/middle-east/20261115-yemen-houthis-advance-to-within-60-kilometres-of-aden-military-sources-say",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Yemen’s Houthis 60km away from Aden city, military, government sources tell AFP",
+     "desc": "Government forces have begun erecting sandbag defences and digging tunnels around Aden.",
+     "url": "https://www.straitstimes.com/world/middle-east/yemens-houthis-60km-away-from-aden-city-military-government-sources-to-afp",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Anti-Houthi forces retreat in Yemen as Iran strikes Bahrain - Reuters",
+     "desc": "Anti-Houthi forces retreat in Yemen as Iran strikes Bahrain Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdTFBcWR1YzJhai1UdGgzMHpvdm40VExxeXFqM0NtbU9YVmNSNXpNeDlXTGllRXFtczhIUzVsaFFWdVV5TGxESWdneGlXbER1Qlg2b2VhQ2lqMmxVaEd4U01nZmNXcFY2bmNhSTdIN0VycE84MWJDRXdZOGxMRGo0U1k1UjhiamFNQ1JIQmp1MUdxNlZGRm1UanBvaENxR3V2N25NdFVOaWpXX1E?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261116-12",
+   "title": "韓国税理士試験の首位合格者、AI使用の不正を認める",
+   "firstSeen": "2026-11-16",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-16": 17
+   },
+   "peak": 17,
+   "worldScore": 17,
+   "worldCoverage": "4/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 17,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.96,
+     "title": "South Korea's top scorer in tax accountancy exam admits cheating",
+     "desc": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
+     "url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.97,
+     "title": "160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating",
+     "desc": "Fears for national college entrance exam next week as test taker admits sending photos of questions to AI tool The marks attained by the top scorer ⁠on South Korea’s national exam for aspiring tax accountants this year seemed too good to be true. On Sunday, sceptics were ⁠proven right when he ⁠confessed to ​using generative AI to cheat. The scandal has followed months of speculation after he scored near-perfect marks on hundreds of questions over two exams ⁠taken in April and July. It has also raised the stakes for organisers of South Korea’s annual college entrance exam this Thursday. Continu",
+     "url": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Top scorer on South Korean tax exam confesses to cheating with AI - Reuters",
+     "desc": "Top scorer on South Korean tax exam confesses to cheating with AI Reuters",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVjJtaVF1ZGdVTmRVNlB2Mk5GeEVtaTk2UHIxbW16RHU2M0hNQ1hTZW1XTkVPTzlYQnNYV2FDMlZGQjZpMXdySHZhMDFUMDkxOWJybnE4ekV6LVRuV3p5bHZiU3dTVWsyNkpOTkdaV3gxR3plNTF1TTdyVDlIUklCekFkNG5yaFdQZ3lQVjhyQXNxX09UQnVuYlhLMjNoMVVDZFk4R2xhQVd4T2xjaWNfdVZFZW4?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Korea’s Top Scorer in Tax Accountant Exam Admits to AI Cheating - Bloomberg.com",
+     "desc": "Korea’s Top Scorer in Tax Accountant Exam Admits to AI Cheating Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQTBkMHVFbnVDOWNRajdDT204QVNpM1h5aWJaNEdINjl5OWMyOWY4WVZVRUwxbC12RUlXUmltSFRsZzZ5Qnc5N2kyX1M1RXdiS1h5eHVIS2Nnam93Sk5laE5BUGdWTEtTYnljM192WjdWUU4ya3gzajVMTnJMZV9USk1oRmFUUUhfS09wN2JFNW5ZRkk3SHdXLUh1Z2Y3bnByd05CRnlWVGlkdlAwaVZoN254dE8?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261112-10",
+   "title": "教皇レオ14世、ペルーの高地やアマゾンを訪問",
+   "firstSeen": "2026-11-12",
+   "daysSeen": 3,
+   "history": {
+    "2026-11-12": 10,
+    "2026-11-13": 12,
+    "2026-11-16": 14
+   },
+   "peak": 14,
+   "worldScore": 14,
+   "worldCoverage": "4/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 14,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.91,
+     "title": "Pope Leo rides in helicopter cockpit during Peru trip",
+     "desc": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour.",
+     "url": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Photos: Pope Leo visits Peru’s Amazon and Andean regions during 12-day tour",
+     "desc": "The pope has called for the preservation of Indigenous traditions in Peru as he wraps up a 12-day tour of Latin America.",
+     "url": "https://www.aljazeera.com/gallery/2026/11/15/photos-pope-leo-visits-perus-amazon-and-andean-regions-during-12-day-tour?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Pope Leo visits high Andes, testing recovery from lung cancer surgery",
+     "desc": "Pope Leo on Sunday faced his toughest physical test since undergoing lung cancer surgery, visiting high-altitude Cusco on the final full day of his South America tour. The 71-year-old pontiff, who had part of a lung removed a month ago, arrived in the ancient Inca capital, more than 3,400 metres (11,000ft) above sea level – high enough to leave many a visitor breathless. Children in brightly woven ponchos and embroidered skirts greeted the pope as he stepped off the plane for the latest stop on...",
+     "url": "https://www.scmp.com/news/world/americas/article/3374515/pope-leo-visits-high-andes-testing-recovery-lung-cancer-surgery",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Pope visits high Andes in Peru, testing lung cancer recovery",
+     "desc": "The ancient Inca capital of Cusco sits more than 3,400m above sea level.",
+     "url": "https://www.straitstimes.com/world/pope-visits-high-andes-in-peru-testing-lung-cancer-recovery",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261116-13",
+   "title": "イスラエル、ガザ攻撃でハマス幹部を殺害",
+   "firstSeen": "2026-11-16",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-16": 14
+   },
+   "peak": 14,
+   "worldScore": 14,
+   "worldCoverage": "4/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 14,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.52,
+     "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+     "desc": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
+     "url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Israel kills senior member of Hamas's military wing in Gaza strike",
+     "desc": "The Israeli military said on Sunday its forces had killed a senior member of Hamas's military wing in Gaza. The militant group confirmed the death of Samir Abu Younis, the commander of its Rafah brigade, adding that he played a prominent role in planning the October 7, 2023 attacks.",
+     "url": "https://www.france24.com/en/middle-east/20261115-israel-kills-senior-member-of-hamas-s-military-wing-in-gaza-strike",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Top Hamas commander killed in Israeli strike in Gaza",
+     "desc": "Hamas said on Sunday that a senior commander who helped plan and oversee the October 7, 2023, attack on Israel had been killed in an Israeli air strike, with the Israeli ‌military confirming his death. Samir Abu Younis, 53, the commander of the Rafah brigade, was killed on Saturday, said the Palestinian militant group’s armed wing, the Al-Qassam Brigades. The Israeli military said it had killed Abu Younis in a strike in the southern Gaza Strip overnight, ⁠adding that he had led the Rafah brigade...",
+     "url": "https://www.scmp.com/news/world/middle-east/article/3374498/top-hamas-commander-killed-israeli-strike-gaza",
+     "via": null
+    },
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 0.86,
+     "title": "Hamas says senior commander killed in Israeli airstrike",
+     "desc": "A senior Hamas commander who helped plan and oversee the 7 October 2023 attack had been killed in an Israeli airstrike, according to the Palestinian militant group.",
+     "url": "https://news.sky.com/story/hamas-says-senior-commander-killed-in-israeli-airstrike-13612384",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261116-16",
+   "title": "トランプ・習・プーチン3氏、史上初の首脳会談へ",
+   "firstSeen": "2026-11-16",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-16": 14
+   },
+   "peak": 14,
+   "worldScore": 14,
+   "worldCoverage": "4/17",
+   "jpScore": 16,
+   "jpCoverage": "2/6",
+   "gap": -2,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.85,
+     "title": "Anthony Albanese welcomes Trump-Xi-Putin summit – even as European leaders express reservations",
+     "desc": "‘We think dialogue is a good thing,’ Australian PM says after German chancellor urges the US to work with Europe for peace in Ukraine Australia has endorsed this week’s historic summit between Donald Trump, Xi Jinping and Vladimir Putin in China, even as European leaders warn that the US president must not make major concessions over the war in Ukraine. The three-way summit is planned to take place in Shenzhen, where the leaders will gather for the Asia-Pacific Economic Cooperation (Apec) meeting. The Ukrainian president, Volodymyr Zelenskyy, has warned the talks must not lead to a redistribut",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-welcomes-trump-xi-putin-summit-even-as-european-leaders-express-reservations",
+     "via": null
+    },
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 0.58,
+     "title": "Trump, Xi and Putin to hold unprecedented meeting, White House says",
+     "desc": "The leaders of the US, China and Russia will hold an unprecedented meeting on the sidelines of a major economic summit, the White House has said.",
+     "url": "https://news.sky.com/story/trump-xi-and-putin-to-hold-unprecedented-meeting-white-house-says-13612124",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump, Putin, Xi Jinping to meet in first trilateral of its kind",
+     "desc": "President Trump is looking to talk about reducing nuclear arsenals in the first formal trilateral between the leaders of the U.S., China and Russia.",
+     "url": "https://www.cbsnews.com/news/trump-putin-xi-jinping-meeting-china-us-russia-talks/",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump heads to Asia with hopes of shifting the momentum after midterm setbacks hurt him at home - AP News",
+     "desc": "Trump heads to Asia with hopes of shifting the momentum after midterm setbacks hurt him at home AP News",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPU1NqQ012SUxkSlBybGhjS290cUFLdzVaU0NabWlVbkN3Y3IzbzRqTGsteHlBOFMwUFF6M21sa0lhVGZsaUM2MkZwaHBCN3ZqRGVKSk5DWFdOVGhVR2JHcXo2OXFtQTNrUm9jSWxqWVZ0cndRMHB0UnRtWm1rc29heE9xLXdtRnhhZ0tCdW1yZHlhVEJTN0E?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.48,
+     "title": "「第2のヤルタ」？ウクライナは領土割譲を警戒 史上初米中露首脳会談の思惑(テレビ朝日系（ANN）)",
+     "desc": "トランプ大統領は、木曜日に史上初の米中露首脳会談に臨みます。日本含め、世界各国が注目する中、「第2のヤルタ会談」とも言われ、大国によって世界秩序、勢力圏が決められることへの警戒感が高まっています。11",
+     "url": "https://news.yahoo.co.jp/articles/b9df98c5ba52aba08d8f7f33d15d3eb06bdbd69b?source=rss",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "米中ロ「現代版ヤルタ」で探る秩序 首脳が核軍縮協議、思惑一致せず - 日本経済新聞",
+     "desc": "米中ロ「現代版ヤルタ」で探る秩序 首脳が核軍縮協議、思惑一致せず 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yZWVNSzg5emd5WFpqWFAtNEdRQV9BV25zeTNmRVpYUkpCZUFpY0xrR2tzc2RnT3dqLU9Cb25ka1cyMkFOaGVqQm4zdE9vMDg0SUt3ck14UEtDWVZLWElWeFlZdHFmeTJJWXlPUg?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261113-28",
+   "title": "フアン氏、CEO復帰を関係者と協議 FT報道",
+   "firstSeen": "2026-11-13",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-13": 11,
+    "2026-11-16": 12
+   },
+   "peak": 12,
+   "worldScore": 12,
+   "worldCoverage": "4/17",
+   "jpScore": 12,
+   "jpCoverage": "1/6",
+   "gap": 0,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Jensen Huang discusses comeback as Nvidia CEO with allies: reports",
+     "desc": "⁠Jensen Huang is considering a comeback as Nvidia’s chief executive, and has discussed with confidants the possibility of returning, the Financial Times ‌reported on Sunday, citing people familiar with the matter. One Huang ally told the Financial Times they were putting together a “war room” of Silicon Valley executives to lobby for the former Nvidia chief’s ⁠return and would try to get support from the White ‌House. “Everyone that matters in tech outside the frontier labs loves Jensen,” the...",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3374512/bessent-says-nvidia-must-go-outside-company-find-new-ceo",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Jensen Huang discusses comeback as Nvidia CEO with allies, FT reports - Reuters",
+     "desc": "Jensen Huang discusses comeback as Nvidia CEO with allies, FT reports Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMjJiT3lpV1Ezamlva2NQWFNtWlB6VnRkdXhSOVBselpmQUk5Y2x0RGUyajctclFfY19VMW0wc1Z1VFBhZkdUM2QyUHE3ZC15MUUxVkk4VkJJM25jTFhlM2RaTkFZaGF0UXNUTlp3aFBfckxCaURVUWZMNVBIQ0hZU2FxWThpQldRUjM2RERqalRRNFhGaWJlZFkzWFZkRnFDRzBHamc3ZDZFLWtVdGFuZDEwUQ?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Huang Discusses Comeback as Nvidia Chief With Allies, FT Says - Bloomberg.com",
+     "desc": "Huang Discusses Comeback as Nvidia Chief With Allies, FT Says Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUS0wX1Z6cGRDOHZsRkh5ZF96eHZzczdQeDNHa21rT3JQZ0l2X3lXYVQ2NlliYWs2V3pCTlZPcFctSl9EeXU2VDhwRHlmbnZoQ19mWFhBY1pkcnZDRldzUzR0eG9hYVhPMzBKcEllQzFJdld6SnN1cjdzYktzWHJGUXRaQjZZWG1fNmVTbG1BNzVzTzFtcXNMWkp2R1d3cktlNXo1SldBNW5RNld2TW1yMw?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Jensen Huang discusses comeback as Nvidia CEO with allies - Financial Times",
+     "desc": "Jensen Huang discusses comeback as Nvidia CEO with allies Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWElqY2Q5cFBEQ1UtUklpRjRlZlVPLXBPSzNVcThPUTk2QktDc25fS1NlaWdrSURWdFFETlVxWnpNOWIyT1c1cGxwNXE0YTNoR1BOVVJMbHBRZy1kWWh2ZXRvdUh2Y2JMcEh5bDFnLWlrYnNFWDNFel9YVi1UbThMUmNnYzQ?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "yahoo",
+     "name": "Yahoo!ニュース主要",
+     "region": "jp",
+     "weight": 0.7,
+     "title": "NVIDIAフアン氏復帰を 署名広がる",
+     "desc": "",
+     "url": "https://news.yahoo.co.jp/pickup/6602724?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261116-23",
+   "title": "NATO加盟と引き換えのドンバス割譲打診、ウクライナ",
+   "firstSeen": "2026-11-16",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-16": 12
+   },
+   "peak": 12,
+   "worldScore": 12,
+   "worldCoverage": "3/17",
+   "jpScore": 8,
+   "jpCoverage": "1/6",
+   "gap": 4,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Will Ukraine make territorial concessions for NATO membership?",
+     "desc": "The United States suggested Ukraine make territorial concessions in exchange for a NATO membership, according to Volodymyr Zelensky. The Ukrainian president also claims that Russia has rejected an energy truce. This week’s US-mediated negotiations did not result in any tangible progress. Story by Simon Moritz.",
+     "url": "https://www.france24.com/en/will-ukraine-make-territorial-concessions-for-nato-membership",
+     "via": null
+    },
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 1,
+     "title": "US asked if Ukraine would give up parts of Donbas for NATO membership, Zelenskyy says",
+     "desc": "The US has asked for the first time whether Ukraine would withdraw from parts of the Donbas region if Kyiv were admitted to NATO, Volodymyr Zelenskyy said.",
+     "url": "https://news.sky.com/story/us-asks-if-ukraine-would-give-up-parts-of-donbas-for-nato-membership-zelenskyy-says-13612188",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "U.S. reportedly floated trading Ukrainian land for NATO membership",
+     "desc": "The Ukrainian president said he would put the question of a potential exchange to the people if certain guarantees were in place.",
+     "url": "https://www.cbsnews.com/news/ukraine-russia-war-nato-us-donbas/",
+     "via": null
+    },
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "「ＮＡＴＯ加盟と引き換えにドンバス撤退を」 米から打診とゼレンスキー氏",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026111500163&g=int&m=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261113-03",
+   "title": "マイクロソフト大規模障害、全サービス復旧と発表",
+   "firstSeen": "2026-11-13",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-13": 26,
+    "2026-11-16": 10
+   },
+   "peak": 26,
+   "worldScore": 10,
+   "worldCoverage": "4/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 10,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.36,
+     "title": "Microsoft’s Global Outage and Fixes: What We Know",
+     "desc": "Disruptions to the company’s email, messaging and other products lasted about 36 hours, hampering companies and services around the world.",
+     "url": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html",
+     "via": null
+    },
+    {
+     "id": "dw",
+     "name": "Deutsche Welle",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Microsoft says all services working again",
+     "desc": "US tech giant Microsoft says it has fixed problems that led to a global outage of its services. The glitch severely disrupted online communications in businesses and governments for more than 24 hours.",
+     "url": "https://www.dw.com/en/microsoft-says-all-services-working-again/a-79946887?maca=en-rss-en-world-4025-rdf",
+     "via": null
+    },
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 0.3,
+     "title": "Microsoft confirms all services are restored after global outage",
+     "desc": "Microsoft has said that all services have been fully restored after a global outage which affected the NHS, police, schools and other services across the UK.",
+     "url": "https://news.sky.com/story/microsoft-confirms-all-services-are-restored-after-global-outage-13612219",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Microsoft says it \"restored service\" after major worldwide outage",
+     "desc": "A Microsoft outage involving services like Outlook and Teams impacted many users, companies and government services.",
+     "url": "https://www.cbsnews.com/news/microsoft-battling-major-outage/",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261116-08",
+   "title": "連邦地裁、トランプ氏のゴルフ場改修を一時差し止め",
+   "firstSeen": "2026-11-16",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-16": 9
+   },
+   "peak": 9,
+   "worldScore": 9,
+   "worldCoverage": "3/17",
+   "jpScore": 8,
+   "jpCoverage": "1/6",
+   "gap": 1,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.61,
+     "title": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
+     "desc": "The temporary order is part of a months-long challenge to the US president's plans to upgrade East Potomac Golf Links into a championship course.",
+     "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "toi",
+     "name": "Times of India",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump slams judge’s order blocking Washington golf course renovation",
+     "desc": "",
+     "url": "https://timesofindia.indiatimes.com/world/us/highly-destructive-and-political-decision-trump-slams-judges-order-blocking-washington-golf-course-renovation/articleshow/135859401.cms",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Judge temporarily blocks Trump from moving ahead on Washington public golf course redevelopment - AP News",
+     "desc": "Judge temporarily blocks Trump from moving ahead on Washington public golf course redevelopment AP News",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSWFjODE3SE95MjcyaDJrR2tkNFlTX3VjMWE0aEUxN21aQUotWDdsdWlTd3pCRDdGMHRmejk0Q1M2UzJUdXE3MkRTQnlNRU95QkJYMmk4UThqSHI3djNtdGxnRmlpeTRwelFyeEpZUVVMZG0taUQzREdMQzlFS25wT1dnUXg4QTVtVlY3Sk5KTHpUN1E0OHdkTU42ZGNWTkZkbEJ3bXo5TG5YLWtIakc2RWRB?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "トランプ氏表明のゴルフ場改修工事に「待った」 米連邦地裁 - 日本経済新聞",
+     "desc": "トランプ氏表明のゴルフ場改修工事に「待った」 米連邦地裁 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9TWWl4NWFLemhuRGprcjlmVU9wb244ZDlNRkJ2Yk1SRVRRaW42bGx0TUxIYTFMTGFCYk1ES01za3VhNkhac3FFd1pvd2tZeEJaVG1ieTcyZGE2WXlSR01pMTczUk9QTW9yTkZXeA?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261116-09",
+   "title": "スペースX、スターシップの機体をキャッチ回収",
+   "firstSeen": "2026-11-16",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-16": 9
+   },
+   "peak": 9,
+   "worldScore": 9,
+   "worldCoverage": "3/17",
+   "jpScore": 8,
+   "jpCoverage": "1/6",
+   "gap": 1,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.48,
+     "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+     "desc": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
+     "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Watch: SpaceX catches Starship in midair on return to launch tower",
+     "desc": "SpaceX's Starship spacecraft was successfully caught by giant mechanical arms at its Texas launch tower after a 22-hour journey, marking the first successful midair capture of a Starship returning from space.",
+     "url": "https://www.euronews.com/video/2026/11/15/watch-spacex-catches-starship-in-midair-on-return-to-launch-tower",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "SpaceX’s Starship returns from orbit and is captured by launch pad arms in a dramatic first - AP News",
+     "desc": "SpaceX’s Starship returns from orbit and is captured by launch pad arms in a dramatic first AP News",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOERhUktkSjNrXzRTU1BmN20xXzk4WE9HT2V1ek5MeHZGYW1KU2tOMzdLbm8xc2J1NXBSWi03S0Rudld0amJUdHkwWVQ1YnZfRVhhMGhaV0FzSWJMR2Nfc3FWVXlZWUtieWRPaUlwSTUzUTBKZ3d4bF9VYThwR0RvQmlaQzJsTmowems1aHJSUGFpTEpsbjRn?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "スペースX、ロケット宇宙船のキャッチ成功 完全回収に弾み - 日本経済新聞",
+     "desc": "スペースX、ロケット宇宙船のキャッチ成功 完全回収に弾み 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9odEk0bmhUTUNtLUhpZ096eTVOMWVfLVJpRFpiMnA4OUVyUXVWcy0xbGZ0QlJ1NVpiTGQ2QzFHWjJ1Rm1MMUhYWEZRNW5CVkJqWTRTRmh6UWNTX3F6VDU1NUFKNkc5V1lXSFdfWA?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261116-11",
+   "title": "マイアミ空港で航空機2機が地上衝突",
+   "firstSeen": "2026-11-16",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-16": 9
+   },
+   "peak": 9,
+   "worldScore": 9,
+   "worldCoverage": "3/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 9,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Two aircraft collide at Miami International Airport",
+     "desc": "It came as travellers across the US continued to face disruption following a nationwide ground stop that caused chaos at airports this weekend.",
+     "url": "https://www.euronews.com/2026/11/15/two-aircraft-collide-at-miami-international-airport",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Planes collide at Miami airport, weeks after deadly Amazon crash",
+     "desc": "The wingtip of a Copa Airlines passenger jet Copa clipped the nose of a UPS aircraft.",
+     "url": "https://www.straitstimes.com/world/united-states/planes-collide-at-miami-airport-weeks-after-deadly-amazon-crash",
+     "via": null
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Copa, UPS Planes Collide on Miami Airport Tarmac While Taxiing - Bloomberg.com",
+     "desc": "Copa, UPS Planes Collide on Miami Airport Tarmac While Taxiing Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRmtPR29CRzk4ZnlRVGRUNU55eEpvUVFvd0RTRjR3aS1ZWGtBcG1XaS1nUEtIYm5GWVQzaXhOTE5QVEhVZVlhMG9hcjNwQ3JCbHE5VzEtOWFpemNPcWtjRkMzNThPWVM3U3pNMUtJQ0dFemFwSlJWSXlvenBuS293Z0hYTWRnNDEzQVNWZ2U3TEhVcVBCTFBFUzJhaGlXdFZ1RExHM2tjeXZ4ZEpCbVlSRHpB?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261116-14",
+   "title": "ベッセント財務長官、エヌビディアに社外CEOを要求",
+   "firstSeen": "2026-11-16",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-16": 9
+   },
+   "peak": 9,
+   "worldScore": 9,
+   "worldCoverage": "3/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 9,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Bessent says Nvidia must 'go outside the company' to find new CEO - Reuters",
+     "desc": "Bessent says Nvidia must 'go outside the company' to find new CEO Reuters",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVGladEJOQmtqRldzTHdlQ25Fb3pCREJuYmthQTgzclB5Snl6WWFmaXdtWU1KU1NqVGhTZzIyakttSVpxR0p3MVlGU1pBcjhjRjVkVl9wNGU5OS1kOUJkeXRobzlOSjlMUkVPTWkxbmdib3Bna3ZoRVRoM1RybkQ2NE92ZWZTMjBuNF80a1lhVENxQUhTU2hkY0QzaTU0NGc?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Bessent Says Nvidia Needs ‘Dramatic Shakeup’ With Huang Out - Bloomberg.com",
+     "desc": "Bessent Says Nvidia Needs ‘Dramatic Shakeup’ With Huang Out Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS1ZOWlF3ZUlxWGYyZm9kX3NnZUsyNEpjYXhKaWMxY3hPbnRvSlJYeHc3ak9lejRYcHdmWjB2dk54cmMweklHdXdpVDdmRm9yNE91LWJKV2VoUC16bF9sdzRTM2NhWk5MMnBROXJ2UHA2SU0tSDNpeEZLZkxJZGg4T1laVHUyU1Fid0dtYjQ3c0tHMFRsOVp3TndoeEUzaElUSkxVT3hlOGQyZTVPZDF3emxB?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Bessent says Nvidia needs ‘shake-up’ with external CEO - Financial Times",
+     "desc": "Bessent says Nvidia needs ‘shake-up’ with external CEO Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZGRUdGlLOWNRUEhzcHBmVUI2Sk50czlMU0J6OE91cllXRmxxN2lwc1lDQkx3T09mWTJ5ZjBRdXp2U3hndUhKRzVyR3BqM09Qb1pmd3ZjbDdQTjljS2VCREVuZDFIY0lJY3oxdzB2SWdRWm5nWEgzM0RNLUticUZGcWFSTDc?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261116-21",
+   "title": "フィリピンとオーストラリア、防衛協定に署名",
+   "firstSeen": "2026-11-16",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-16": 9
+   },
+   "peak": 9,
+   "worldScore": 9,
+   "worldCoverage": "3/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 9,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "The Philippines and Australia strengthen joint military deterrence at ASEAN summit",
+     "desc": "Southeast Asian leaders opened their annual summit in the Philippine capital Manila on Sunday. During three days, world leaders are expected to focus on trade, energy and conflict – including the war in Iran. Donald Trump is expected to land in Manila on Tuesday. Details by FRANCE 24 correspondent in Bangkok Tommy Walker.",
+     "url": "https://www.france24.com/en/the-philippines-and-australia-strengthen-joint-military-deterrence-at-asean-summit",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Australia and Philippines sign new defence pact amid South China Sea tensions",
+     "desc": "The Philippines is building closer military ties with Australia, Japan and the US as tensions with China continue in the South China Sea. The partnerships cover joint exercises, surveillance equipment and closer coordination between their forces.",
+     "url": "https://www.euronews.com/2026/11/15/australia-and-philippines-sign-new-defence-pact-amid-south-china-sea-tensions",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Philippines, Australia sign defence pact with eye on China - Reuters",
+     "desc": "Philippines, Australia sign defence pact with eye on China Reuters",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQVp4NnMwSDJUWVYzTmJ2NDFUMkdvVlZqUm5PUU1pLVRHMEtVd1k1NDVTakFYUURCZGR3Y3ZHMGRyVktDQmZ4UC1lN0NIREp0bHpzYTQ1RHlvZjl2dmFZNkFINmJVS3luVmVvMlNFVmhQQVJjVXJiWUc0S0dwTDRVNzRMYzNlbGpZSFU3MFFmY2dKNzVodTdqNmZGd3BGWFlfTmhnSg?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261116-24",
+   "title": "黒海で商船3隻がドローン攻撃、ルーマニア沿岸",
+   "firstSeen": "2026-11-16",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-16": 9
+   },
+   "peak": 9,
+   "worldScore": 9,
+   "worldCoverage": "3/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 9,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Three commercial vessels struck by drones near Romania's black sea, PM says",
+     "desc": "Romania's Prime Minister called the attack on the three vessels Saturday 'unacceptable' and a 'violation of international law'. A day prior, a separate cargo-bound vessel was also struck. No injuries were reported.",
+     "url": "https://www.euronews.com/2026/11/15/three-commercial-vessels-struck-by-drones-near-romanias-black-sea-pm-says",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Jets scrambled as 3 ships struck by drones in Black Sea, near Romania shipping canal",
+     "desc": "Russia has denied targeting Ukraine’s neighbours with drones.",
+     "url": "https://www.straitstimes.com/world/europe/three-ships-struck-by-drones-in-black-sea-near-romanian-shipping-canal-pm-says",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Three ships struck by drones in Black Sea near Romanian shipping canal, PM says - Reuters",
+     "desc": "Three ships struck by drones in Black Sea near Romanian shipping canal, PM says Reuters",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWEpyZzYwM3Y0YzMtU0h3LXZXb1RBQ00yS3lLZklVczJEOUVtcFU0MWYzRlNIMWxKN1RlMkZrSXZ3eFJkdjV4cTJuQVJBbVZob3JfYjdEbFotQ21iQzFQSHJYUE5VNUJDRDA0aV9OYy1qQTRVQ0EtOXJlSWQzWDV2VnpCRXdkQUpWSEhzUHVFWGstd2t4anhiMnZ4RHdVOHl4UjkxYjdWVmI0LTF3b2x1UTZJdGotUGU5bXkwVUF6N2IwY3g4S2lxbVNvM0kyZVBoTmR5YQ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261116-25",
+   "title": "カーボベルデで大統領選投票、移民が争点",
+   "firstSeen": "2026-11-16",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-16": 9
+   },
+   "peak": 9,
+   "worldScore": 9,
+   "worldCoverage": "3/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 9,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Cape Verde heads to the polls in presidential election",
+     "desc": "Incumbent President José Maria Neves, who won the 2021 presidential election, is favoured to win a second term in office.",
+     "url": "https://www.euronews.com/2026/11/15/cape-verde-heads-to-the-polls-in-presidential-election",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Cape Verde votes for president with emigration in focus",
+     "desc": "PRAIA, Nov 15 - Cape Verdeans voted on Sunday for the next president with incumbent José Maria Neves challenged by the archipelago's first female candidate, a former justice minister, in a campaign focused on the need to create more jobs for young people.",
+     "url": "https://www.straitstimes.com/world/cape-verde-votes-for-president-with-emigration-in-focus",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Cape Verde votes for president with emigration in focus - Reuters",
+     "desc": "Cape Verde votes for president with emigration in focus Reuters",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUWI3OGxfWTRxVTVMY3diaEZFMWZmRlZGYnZ0dnJKSzZqYjN4U2xmMTIyMVJ4U3QxcnI1VEVSblhZck40NTZCaGVhamRFQ2l0VDZnNXhYLTRTRUNRSDNqVW9FQ2pHZXRfQzNQOUEzRG9vaU82Q094M2J0eGo4T3N3QWdadEVmQ3BJR3FPRGNHUXdmcWpWcWItVl9LVERRUQ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261116-28",
+   "title": "米FDA、中国発の肺がん薬を承認せず",
+   "firstSeen": "2026-11-16",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-16": 9
+   },
+   "peak": 9,
+   "worldScore": 9,
+   "worldCoverage": "3/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 9,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US FDA declines to approve Summit lung cancer drug after trial misses key survival goal - Reuters",
+     "desc": "US FDA declines to approve Summit lung cancer drug after trial misses key survival goal Reuters",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSkdFR0ppNThGcnFUbE1vVHBkWG5GQkFrQ3B5M2x0VFh4bDNRVFdXUm9LazNYYUI4WnpBdXpQQ0NpS2llVWFEcE1LTWpLRWVqdFp4eTRibUtROW16ZU5XeXRmc1RwaTZCbzV2UXlKcEhvaHpCNlJSeTFucnl4ZXZvUWVWbXl2MUtHY1hXUzJ3SEFCR3ZZUDY2VGFuTC1lek80UmRZTGlxRkItd2I4S1lrcnotSF8tVG5tTnJySnBoMlJ0NXJtcEo5bjROV1c?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US FDA Rejects Summit’s China-Originated Lung Cancer Drug - Bloomberg.com",
+     "desc": "US FDA Rejects Summit’s China-Originated Lung Cancer Drug Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPelZQa1Q5Rk16X1ViWXNVRzZsX3YtOVU5R01FcThBUzlEME5HUHpMWnltbGFuTnEwaHdnOUpySllUUzczaF9SMGZGTVJuLVZ3U1Fvd2pNQ2c2YWhaMXVSWjdSWlJQQlVVZ2Q3Tm1OaEVXOGJUYV9qNWR1bnpTMkZkSXRpZEdjRG5fZDBGUEZHUUoyWVdldkxhX2FZbUZrMXFlWWtnUVBadkZVYXY2?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "FDA rejects cancer drug invented in China in blow to Beijing’s biotech sector - Financial Times",
+     "desc": "FDA rejects cancer drug invented in China in blow to Beijing’s biotech sector Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSF81czliZUJkMnRRbzNpUENZS2NDTm5QNzd5UkI3Qk10R1hmcnIyNnJfQVY1SkJlZkJnc2RMUzhobDh5VTI4cUs2NjIwN3FPdVhHSV9taHRhaDBJWjlNZUFHLThTd01vZGZzVklhLVV4NlFOTlZZWjEzN2s4RW1peDF5N0w?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261019-19",
+   "title": "コンゴのエボラ、制御できていないとアフリカCDC",
+   "firstSeen": "2026-10-19",
+   "daysSeen": 10,
+   "history": {
+    "2026-10-19": 6,
+    "2026-10-21": 27,
+    "2026-10-26": 6,
+    "2026-10-28": 12,
+    "2026-10-31": 10,
+    "2026-11-05": 8,
+    "2026-11-06": 12,
+    "2026-11-12": 6,
+    "2026-11-13": 8,
+    "2026-11-16": 8
+   },
+   "peak": 27,
+   "worldScore": 8,
+   "worldCoverage": "3/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 8,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Africa CDC says Ebola outbreak in DR Congo ‘still not under control’",
+     "desc": "&#039;If we don&#039;t stop this outbreak now, it would be the worst Ebola outbreak,&#039; Africa ​CDC director says.",
+     "url": "https://www.aljazeera.com/news/2026/11/15/africa-cdc-says-ebola-outbreak-in-dr-congo-still-not-under-control?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.33,
+     "title": "Why Aid Isn’t Reaching Ebola’s Epicenter",
+     "desc": "The Ebola outbreak in the eastern Democratic Republic of the Congo has a new epicenter, one largely isolated from aid by an armed group that has killed and kidnapped aid workers. Declan Walsh, our chief Africa correspondent, reports from a town where health workers are struggling to contain the outbreak.",
+     "url": "https://www.nytimes.com/video/world/africa/100000011257751/why-aid-isnt-reaching-ebolas-epicenter.html",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Africa CDC says Ebola outbreak still out of control six months since it was declared - Reuters",
+     "desc": "Africa CDC says Ebola outbreak still out of control six months since it was declared Reuters",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQU25FZUdud21zOGRwcHdZRTZESUh4dUY0ajFFSTBhSXQwUWo5SXFVNGtXb0ZBcF9HUnZJeklFQXd0c0h4MUtWandzSVhzeldqZXFEdGZ3d0poQU5KV1dtTWZWUzdCQk1tQW56ZTAwT0cwZklldnZ6Q3dHVHFDQWJmNjhQaHFYOGZOa1lnU1Y2dGNwVGRZaFBrTTlESzk0a1B6Z0JQU0swOTZCanZBanVRS0hnTFhrQlRsSHRRbXhfTlFRaXB4aUhGS2VDV09VVDFvZThlOUFQLTJiaDJx?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261116-15",
+   "title": "AI株が下落、エヌビディア決算を前に売り広がる",
+   "firstSeen": "2026-11-16",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-16": 8
+   },
+   "peak": 8,
+   "worldScore": 8,
+   "worldCoverage": "2/17",
+   "jpScore": 8,
+   "jpCoverage": "1/6",
+   "gap": 0,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "abc-au",
+     "name": "ABC Australia",
+     "region": "world",
+     "weight": 0.85,
+     "title": "Live: Wall Street slides as Nvidia pulls down tech stocks, ASX treading water",
+     "desc": "The ASX looks set for a cautious opening after Wall Street slipped on Friday. Follow the day's events and insights from our business reporters on the ABC News live markets blog.",
+     "url": "https://www.abc.net.au/news/2026-11-16/asx-markets-business-live-news-nov-16/107388134",
+     "via": null
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Will Nvidia earnings steady the AI sell-off? - Financial Times",
+     "desc": "Will Nvidia earnings steady the AI sell-off? Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOanRDUmp4Q3pKeGgxSDFSVTN1S1pseVh2ZVVhcHkyUDdxdjVCVVVfSGtEaTl1ZjMyVU5HSndJdlBZb1dKZTRsUHpNLW1iT0JNOFU0Q2V3d2xuT2plQUJiZHNSdDJ1c0FYeEpjQzRhSlFSTEdrcDBnbTluVkJIMVJiVXNtWWU?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "NVIDIA17日決算、カリスマなき成長に懸念 今週の市場・予定 - 日本経済新聞",
+     "desc": "NVIDIA17日決算、カリスマなき成長に懸念 今週の市場・予定 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2MDU4ZV9fbllTSExQcVlmeGhKSTR1cUVFVXZDSlpOZFdaMjVseTYxQk5hYjlIcnhXaW9NbUw0d0FVTUtsRkZVVHVoR2dxMGwwT1g2dXZiNFdlTW03ZnRQTmg0T1hCNzZrQTZvNw?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261027-01",
+   "title": "アンソロピック、上場へ 国内でも個人向け募集",
+   "firstSeen": "2026-10-27",
+   "daysSeen": 8,
+   "history": {
+    "2026-10-27": 25,
+    "2026-10-28": 3,
+    "2026-10-31": 3,
+    "2026-11-03": 11,
+    "2026-11-04": 3,
+    "2026-11-11": 14,
+    "2026-11-12": 6,
+    "2026-11-16": 6
+   },
+   "peak": 25,
+   "worldScore": 6,
+   "worldCoverage": "2/17",
+   "jpScore": 8,
+   "jpCoverage": "1/6",
+   "gap": -2,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Anthropic Is About to Become the World’s Most Important AI Stock - Bloomberg.com",
+     "desc": "Anthropic Is About to Become the World’s Most Important AI Stock Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ0FXWUttSDRhNUNacC1GM0hiUWtnSVRoamZreG5QRkFqNlZVTHdSUjNNeHNCNmhGWWZBcGxiaTBIcDhvSDZxNExuclFYRlBJTXFuRXdjd2xzNkdpZ2RkblFZYlFNNnBkcHdfU0VRQXhvaWNaamU2SUNNdDNCVTctZnB5cUZiVmFuXy1aWFNqRWlXQ3pZSl9NcGQ1MFFnWEZBTHdaZE9GNGI5cEJSaG1pQkhGNA?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Anthropic’s IPO is the next big test for AI - Financial Times",
+     "desc": "Anthropic’s IPO is the next big test for AI Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOelhLb2QtNy1faTdqOEwwQVNzSk5IX25mc0VOQjQzVTdPc3pZdUMyOE9EWkxVd1pJX0huTDZMMTBNR0ZLV0E2WHVkb1Vuam1vMjJ3TUptVGloS2VhWFlmYW1ITGJvVjJpNzNCdkYyQ3hTdXIzUlhaUElJN01UQzVWc2NfSjE?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "アンソロピック「220兆円」上場 AIの価値を市場が審判 - 日本経済新聞",
+     "desc": "アンソロピック「220兆円」上場 AIの価値を市場が審判 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41MUJYRW53Yk50aGpYTEZmcWM5WlVEdXZTRFVnNGIyLVJMc2p0aVFxNW45a1BoejFlTHp5LWljUnBRQlYtUWtqQkM5bUlnU20tT0ZxZW1xM0tYN0pmZzBMWDM5OHlWMlVYaDhicA?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261116-17",
+   "title": "トランプ氏の判事任命攻勢に共和党内から反発",
+   "firstSeen": "2026-11-16",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-16": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump’s judge appointment blitz faces Republican resistance",
+     "desc": "The fight could slow 23 pending nominations, but all judicial nominees should be confirmed in 2026.",
+     "url": "https://www.straitstimes.com/world/united-states/trumps-judge-appointment-blitz-faces-republican-resistance",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump's judge appointment blitz faces Republican resistance - Reuters",
+     "desc": "Trump's judge appointment blitz faces Republican resistance Reuters",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYTg5d09JVTFvR2R5VTRRVWZPV3NRcGx4UlBRRHEybkdwV0FvMUViaTJDejNTSkFuSkxZSE9UMnBPRWJLQngzdklQMUZUQndnc2xXemdSTmpqdTdSQjZZRlJLMEQ1akp1eHdqVmczSFI4MFE4SHFSSUNlVmtaVk5mT1dsMkI1YVl4WjdUWXZVak5xY05ISW14eGpOUGd2UDUzY1JvZ1JtSXFlclU4MFhfWg?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261116-18",
+   "title": "中間選挙後、若い男性層の票を巡る争奪戦が激化",
+   "firstSeen": "2026-11-16",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-16": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Battle for young male US voters intensifies after their midterm rebuke of Republicans",
+     "desc": "An estimated 59% of men ages 18 to 29 voted for Democratic US House of Representatives candidates.",
+     "url": "https://www.straitstimes.com/world/united-states/battle-for-young-male-voters-intensifies-after-us-midterm-rebuke-of-republicans",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Battle for young male voters intensifies after US midterm rebuke of Republicans - Reuters",
+     "desc": "Battle for young male voters intensifies after US midterm rebuke of Republicans Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUXZuc1Exa0s2dzJKQ3U1bkdxd01NelRtemI0SnpSVHZNQ2Z1bGM3MlpLQ29pZ1ZRNHJLWS1OQTM5bFJySnBKUUNLSXlNeDNvUlJ2Um00ZVZFaU13bW5rSTFwWHJINlJFSkd4UHNPUVk2Y1A0dWQ4cE5VeU5tRjVtZHlXZEt2c1VPeU9tNEl4N2RZWjRCRmpPMm92NjU0VVhiLTZTQXQ4cFY2YnZld3d0OFVwRnFxRkpP?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261116-19",
+   "title": "ASEAN、南シナ海行動規範の年内妥結を断念",
+   "firstSeen": "2026-11-16",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-16": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/17",
+   "jpScore": 17,
+   "jpCoverage": "2/6",
+   "gap": -11,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "South China Sea code of conduct: can Beijing and Asean meet 2026 deadline?",
+     "desc": "China and Southeast Asian nations have made progress in negotiating a code of conduct for the South China Sea, with Manila announcing that roughly 80 per cent of the draft agreement is complete. Yet whether the long-awaited accord can meet its year-end deadline comes down to Beijing and regional claimants finding common ground on key concessions, according to a Chinese expert. Philippine Foreign Secretary Theresa Lazaro said on Saturday after a series of Asean ministerial meetings that 77 per...",
+     "url": "https://www.scmp.com/news/china/diplomacy/article/3374495/south-china-sea-code-conduct-can-beijing-and-asean-meet-2026-deadline",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "ASEAN, China fail to conclude South China Sea code of conduct - Reuters",
+     "desc": "ASEAN, China fail to conclude South China Sea code of conduct Reuters",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOb1RJdXlfUmlvM01RTEVHbEIzRzA0eTYxLWVtMGdlOEhXT1hyRHl0ejhBMjBvSGFVU25SUTNsMXJXV3ZhRkRldDJOd3VMTWdqSTdpQ0FXcHl4aGtUbzNQWWdnSlpQWkM3d1d1VldFeE4wNmMwZUhrVEdyQnlTdTBTNDM1a3oxRVZCS0pTRnpSLXRMbFVOM1VrUWY2bWFZQU41VDV5cg?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "ミャンマーへの関与継続で合意 ＡＳＥＡＮ首脳、政治代表の復帰巡り協議―南シナ海「行動規範」年内妥結見送り",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026111500069&g=int&m=rss",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "ASEAN、南シナ海「行動規範」年内の妥結断念 比外相「8割合意」 - 日本経済新聞",
+     "desc": "ASEAN、南シナ海「行動規範」年内の妥結断念 比外相「8割合意」 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54OTlwNEw3NXhkNVVZTFg0WWF5ZkRJY2x4UWdZUDVJUEhKTnhMSHJOaVh2MVczMmFSMXI4b21CVHBkTFpzVzNMMXljMGRQb3o4V1ZsMFNoMWlqSE1aSHVCd1JLLTBoT1gyazRlSQ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261116-26",
+   "title": "仏語圏首脳会議がカンボジアで開幕",
+   "firstSeen": "2026-11-16",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-16": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Francophone summit opens in Cambodia, overshadowed by tensions in Africa",
+     "desc": "The 20th Francophonie Summit opened on Sunday in Phnom Penh, Cambodia, overshadowed by a high-stakes leadership dispute. The International Organisation of the Francophonie is set to elect its next secretary-general on Monday for a four-year term, but escalating friction between Rwanda, which has led the OIF for eight years, and the Democratic Republic of Congo has thrown the summit into crisis. Details by Liza Kaminov.",
+     "url": "https://www.france24.com/en/video/20261115-francophone-summit-opens-in-cambodia-overshadowed-by-tensions-in-africa",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "French-speaking nations hold a summit in Cambodia as a conflict in Africa threatens a rift - AP News",
+     "desc": "French-speaking nations hold a summit in Cambodia as a conflict in Africa threatens a rift AP News",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSFF4emZuN20xb2VrOFVEVmRWbEppdFl4UDRGN040eTlPZjZCcm9Rb3AtNGxhWU91YjQ5UlI3VmxPTFlsa0hoMTZRY1M4Y3V6ZFpJdkJKaVBpQVNQdm56MHdyZHB3R1ItaUdVUktkSkRuUlJRaHQydFVZSmZoTWZoUHNyZkVVVUxmZk1GZGFuVFZOWFNUX1ZoN2liMlJ1eEVkM3pLejdxdlIzQQ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261116-27",
+   "title": "プラボウォ大統領、煙害でシンガポールなどに謝罪",
+   "firstSeen": "2026-11-16",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-16": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Indonesia’s Prabowo apologises to Singapore, Malaysia over transboundary haze",
+     "desc": "Indonesian President Prabowo Subianto apologised on Sunday for the transboundary haze from forest and land fires in his country that has affected Singapore and Malaysia, according to a statement from the Indonesian Presidential Secretariat. The statement, issued late on Sunday following the first day of the 49th Asean Leaders’ Summit in Manila, said Prabowo had conveyed the apology on behalf of the Indonesian government and people while assuring regional leaders that his country had done its...",
+     "url": "https://www.scmp.com/news/asia/southeast-asia/article/3374510/indonesias-prabowo-apologises-singapore-malaysia-over-transboundary-haze",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Indonesia president conveys apology to Singapore, Malaysia over wildfire haze - Reuters",
+     "desc": "Indonesia president conveys apology to Singapore, Malaysia over wildfire haze Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcHo5U295dTNfU3R0MVRNU1FYbkVCc3FtbXgxV2hwOHF0dnptUExXdjFqU0NQR3lldzh3UTlubXpORUNvU3NSdml5T0t2a0M3LUs2ZXBWcGtWM2RRNUNNYVV0c1hScjU0STVyZkg4ZnJ4Skg3ZWhiWF9XWjNQUTZ6SnlPcDg5UmpBdHBuYnEzWjBNV1Q0cm1HaGRSaEpuRXVhZTdFcFNoX0ItcU9MSGdwNmxKU3J6TUUzTnJCbUVVMVNRcEc4czRDTV93?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261109-19",
+   "title": "COP31、1.5度目標の喪失を巡り各国が協議",
+   "firstSeen": "2026-11-09",
+   "daysSeen": 6,
+   "history": {
+    "2026-11-09": 10,
+    "2026-11-10": 14,
+    "2026-11-11": 8,
+    "2026-11-12": 17,
+    "2026-11-13": 9,
+    "2026-11-16": 6
+   },
+   "peak": 17,
+   "worldScore": 6,
+   "worldCoverage": "2/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "dw",
+     "name": "Deutsche Welle",
+     "region": "world",
+     "weight": 0.5,
+     "title": "COP31: Protesters, UN urge swift climate deal",
+     "desc": "The UN climate chief has warned that \"tactical delays\" at the COP31 climate talks in Turkey could prevent a deal to slow global warming.",
+     "url": "https://www.dw.com/en/cop31-protesters-un-urge-swift-climate-deal/a-79948501?maca=en-rss-en-world-4025-rdf",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Nations grapple with loss of 1.5 deg C target at UN climate summit",
+     "desc": "The UN declared in September that crossing 1.5 deg C was imminent and unavoidable.",
+     "url": "https://www.straitstimes.com/world/europe/nations-grapple-with-loss-of-1-5-deg-c-target-at-un-climate-summit",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261113-13",
+   "title": "NATO、2027年のアルバニア首脳会議を見送り",
+   "firstSeen": "2026-11-13",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-13": 3,
+    "2026-11-16": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Nato to skip 2027 Albania leaders’ summit as high-level meetings are scaled back",
+     "desc": "Nato is scaling back its high-level meetings and will not hold a leaders’ summit in Albania next year as previously planned amid tension within the alliance over defence spending, Iran and the war in Ukraine. Albanian Prime Minister Edi Rama said on Thursday that “there is not yet a common position on when the summit will happen, for sure not in 2027”. He said that “in 2028, if it will be a summit, it will be in Tirana”, Albania’s capital. Nato Secretary General Mark Rutte played down the issue....",
+     "url": "https://www.scmp.com/news/world/europe/article/3374517/nato-skip-leaders-summit-albania-next-year-high-level-meetings-are-scaled-back",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "NATO to skip a leaders’ summit in Albania next year as high-level meetings are scaled back - AP News",
+     "desc": "NATO to skip a leaders’ summit in Albania next year as high-level meetings are scaled back AP News",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMzFrV1BVbGZ1Z2syOHpIeUZXUEhEUU5WSk5vajlXVklHTzVyNnlHLW5mS2FEbWExdno4X2NyaDlsNDFNM0d6X25JX3YydTAwNUE3MkVPRXh6R3VTN1VrQUV3QmxkbTRzaGY3bDNzbGhobDNzVC1pV1pnNXYtMThYZERqVmhQT0hBalJ6OG1HaVR5Y0JfclNoWXBMYjNBb282OXVwclJ3WE1WZw?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261116-10",
+   "title": "ニューオーリンズでクルーズ船が油槽船と衝突",
+   "firstSeen": "2026-11-16",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-16": 5
+   },
+   "peak": 5,
+   "worldScore": 5,
+   "worldCoverage": "2/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 5,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.43,
+     "title": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
+     "desc": "Around 130 people were rescued from a cruise ship after it was struck by a tanker while docked in New Orleans, Louisiana on Friday.",
+     "url": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "New Orleans port sues to get control of tanker that crashed into cruise ship on Mississippi River - AP News",
+     "desc": "New Orleans port sues to get control of tanker that crashed into cruise ship on Mississippi River AP News",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSkpYTERHb0JjNU1SY2JyaXFOREZsSzkxdTZVa1lXVW1xVjV3ZTdqZmhFLXl3eExxZmdPY1B2dURNSmRwQVczSG81emlfOEh0NTNhcW44cVBFcU03Y2hadEFmVlRPVHR3bDRPX0p0ZF9JR3B3QkZQUnVxVUZfMXNsSzJDclQ1elJ6ZVBHZGZpRXVUM09KcmgxWmdHajA?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261116-29",
+   "title": "英政府、就労も訓練もしていない若者に雇用保証",
+   "firstSeen": "2026-11-16",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-16": 5
+   },
+   "peak": 5,
+   "worldScore": 5,
+   "worldCoverage": "2/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 5,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.42,
+     "title": "Burnham pledges early intervention and ‘benefits backstop’ to tackle youth jobs crisis",
+     "desc": "Prime minister promises ‘root-and-branch rethink’ of support for young people as Milburn report advises sweeping changes to some benefits Andy Burnham: The crisis facing Britain’s young people is politicians’ fault. To fix it, we need a generational response Andy Burnham has pledged to intervene as early as childhood to tackle youth unemployment before a watershed review, promising “a root-and-branch rethink of how we support childhood in the modern world”. Burnham said the government would intervene at all the stages of life in which young people fell behind, and “long before they find themse",
+     "url": "https://www.theguardian.com/society/2026/nov/15/no-free-lunch-milburn-mcfadden-kuenssberg-uk-benefits-youth-unemployment-neet",
+     "via": null
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Young Britons out of work or training for a year to be guaranteed jobs - Financial Times",
+     "desc": "Young Britons out of work or training for a year to be guaranteed jobs Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaE5NUTh2a1lUS01feVlhQTBYMWJ5ZkhjaXg1V2l5MmJBaXVoTDRWbHpMcU1oM1Zzcl9neHVxeXBFaWZiQTNGNFFXVkc3YlVJalhWTllOd2RNYV9JZGZhbU9uUFZQMVRkUW8tZ1hHT05EVVUzVURLeGc2UDdXRGFjTTh0T3I?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261116-20",
+   "title": "ASEAN、ミャンマーの政治代表の復帰を見送り",
+   "firstSeen": "2026-11-16",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-16": 3
+   },
+   "peak": 3,
+   "worldScore": 3,
+   "worldCoverage": "1/17",
+   "jpScore": 8,
+   "jpCoverage": "1/6",
+   "gap": -5,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "ASEAN keeps Myanmar restrictions but opens path to political return - Reuters",
+     "desc": "ASEAN keeps Myanmar restrictions but opens path to political return Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQ2lVZFhnSzJQQnIxTUhnVXpjbGl2eDdWT0RVMEwzamtmMGJZWFVpU1V1TDlhZEQwdU1hSEFMa1E3bVMzRTg0SnREcDZuNXRLQTZnbFlMMjFvQk9rODZxYkVMUVVGS3ZRdi1nRDJKTnBpOFJybUl1MmdDMy1IbmxYb2dCUEhvTklULXhFNDNCV3BxRUNrYUpiNUJTbEFCU1pHR3hGeVdua3Bja0RCREpid0xWaGtyRFJsZGk4VU0tdFQ3WUE2Y3Nieg?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "mainichi",
+     "name": "毎日新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "ASEAN首脳会議 ミャンマーの復帰を見送り 接触は継続へ",
+     "desc": "",
+     "url": "https://mainichi.jp/articles/20261115/k00/00m/030/188000c",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261116-22",
+   "title": "米と同盟国、AI供給網を中国から守る協定に署名",
+   "firstSeen": "2026-11-16",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-16": 3
+   },
+   "peak": 3,
+   "worldScore": 3,
+   "worldCoverage": "1/17",
+   "jpScore": 8,
+   "jpCoverage": "1/6",
+   "gap": -5,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US and allies sign accord to protect AI supply chains from China - Financial Times",
+     "desc": "US and allies sign accord to protect AI supply chains from China Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeVM3Y2hkVkZKUTFFcUhkRUJlX3pWbFBGZlZ6QW1tMjJTUUZ5WUgtS0lWMmh5V3YweURabUtma0pDeTBNM0M1cTYtUkQwcDhrODFmM0RPdmoxYzNZYldpdmxKN0ROTVNmMFhOZ3dpVFpnQ2VSUkRyOWtnaG9udTNpbTdRemg?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "米「パックス・シリカ」に抗議 トランプ氏訪問控え市民らデモ―フィリピン",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026111500227&g=int&m=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261116-30",
+   "title": "福岡市長選、再選挙へ 法定得票数に届かず",
+   "firstSeen": "2026-11-16",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-16": 0
+   },
+   "peak": 0,
+   "worldScore": 0,
+   "worldCoverage": "0/17",
+   "jpScore": 40,
+   "jpCoverage": "4/6",
+   "gap": -40,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "asahi",
+     "name": "朝日新聞",
+     "region": "jp",
+     "weight": 0.39,
+     "title": "再選挙の福岡市長選、各候補者どうする？「挑む」「まだ決められず」",
+     "desc": "",
+     "url": "http://www.asahi.com/articles/ASVCH5GJ6VCHTIPE012M.html?ref=rss",
+     "via": null
+    },
+    {
+     "id": "mainichi",
+     "name": "毎日新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "福岡市長選、再選挙へ 最多得票者が法定得票数に達せず",
+     "desc": "",
+     "url": "https://mainichi.jp/articles/20261114/k00/00m/010/179000c",
+     "via": null
+    },
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "福岡市長選が再選挙に 政令市２例目、法定数届かず",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026111600018&g=pol&m=rss",
+     "via": null
+    },
+    {
+     "id": "yahoo",
+     "name": "Yahoo!ニュース主要",
+     "region": "jp",
+     "weight": 1,
+     "title": "福岡市長選 再選挙の見通し",
+     "desc": "",
+     "url": "https://news.yahoo.co.jp/pickup/6602736?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261116-31",
+   "title": "首里城正殿の復元完了、内部を報道公開",
+   "firstSeen": "2026-11-16",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-16": 0
+   },
+   "peak": 0,
+   "worldScore": 0,
+   "worldCoverage": "0/17",
+   "jpScore": 17,
+   "jpCoverage": "2/6",
+   "gap": -17,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "mainichi",
+     "name": "毎日新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "首里城の復元工事が完了 正殿内部、深みある朱色の空間",
+     "desc": "",
+     "url": "https://mainichi.jp/articles/20261115/k00/00m/040/193000c",
+     "via": null
+    },
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "首里城正殿、内部を報道公開 令和の復元、装飾新たに―沖縄",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026111600002&g=soc&m=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261116-32",
+   "title": "ハンズ渋谷店が閉店、48年の歴史に幕",
+   "firstSeen": "2026-11-16",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-16": 0
+   },
+   "peak": 0,
+   "worldScore": 0,
+   "worldCoverage": "0/17",
+   "jpScore": 18,
+   "jpCoverage": "2/6",
+   "gap": -18,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "asahi",
+     "name": "朝日新聞",
+     "region": "jp",
+     "weight": 0.56,
+     "title": "ハンズ渋谷店、営業48年で閉店 客ら惜しむ「渋谷が変わる寂しさ」",
+     "desc": "",
+     "url": "http://www.asahi.com/articles/ASVCH3GT9VCHULFA00XM.html?ref=rss",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "ハンズ渋谷が閉店、48年の歴史に幕 来店客「思い入れのある場所」 - 日本経済新聞",
+     "desc": "ハンズ渋谷が閉店、48年の歴史に幕 来店客「思い入れのある場所」 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xZFJveHBmVmYwNm84amV6cFM4UWFfWWZLNjgwaHJwZjh4b3JtbHRhT0NYT3V6WkdCdVplOFoxNVFVRHJicWxtRGxtS3B3X0RtWXlOTWdwOEtCQUprd3kwdHR4V0NwaDFmNGxVRA?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  }
+ ]
+}
