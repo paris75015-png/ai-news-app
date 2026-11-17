@@ -1,0 +1,2758 @@
+{
+ "date": "2026-11-17",
+ "generatedAt": "2026-11-17T00:48:14.492Z",
+ "measured": {
+  "world": 18,
+  "jp": 6
+ },
+ "unreachable": [],
+ "ranking": [
+  {
+   "id": "s-20261117-01",
+   "title": "EU5か国、拒否された移民をルワンダへ送還計画",
+   "firstSeen": "2026-11-17",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-17": 33
+   },
+   "peak": 33,
+   "worldScore": 33,
+   "worldCoverage": "9/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 33,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 1,
+     "title": "Five EU countries announce migrant deportation centre in Rwanda",
+     "desc": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
+     "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 1,
+     "title": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda",
+     "desc": "Germany, Austria, Netherlands, Denmark and Greece likely to face challenges to policy criticised as ‘grave moral failing’ Five EU member states have announced plans to set up an offshore centre in Rwanda for people with no legal right to stay in Europe, in a pilot scheme that is expected to face legal challenges and has been denounced as “a grave moral failing”. The five countries – Germany, Austria, the Netherlands, Denmark and Greece – are the first to seek to use the EU’s newly agreed returns law that allows people who have exhausted all avenues of appeal against their removal from Europe t",
+     "url": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Five EU countries announce plan to send rejected asylum seekers to Rwanda",
+     "desc": "In a joint statement, 47 aid, trade union and rights groups urged ‌the five countries to ​abandon the Rwanda plan.",
+     "url": "https://www.aljazeera.com/news/2026/11/16/five-eu-countries-announce-plan-to-send-rejected-asylum-seekers-to-rwanda?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.88,
+     "title": "Five European Countries Plan to Deport Migrants to Rwanda",
+     "desc": "Germany, Austria, the Netherlands, Greece and Denmark are seeking to establish a hub for rejected asylum seekers. Here’s what to know about their effort.",
+     "url": "https://www.nytimes.com/2026/11/16/world/europe/deport-rwanda-asylum-migration.html",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Rwanda to host hub for rejected EU migrants",
+     "desc": "In tonight's edition, five European countries are negotiating a deal to deport rejected asylum seekers to Rwanda. Also, the Democratic Republic of Congo and Rwanda's political animosity spills over at the Francophonie Summit in Cambodia. And in Tunisia, young women are increasingly turning towards weightlifting and bodybuilding as a form of self-expression.",
+     "url": "https://www.france24.com/en/rwanda-to-host-hub-for-rejected-eu-migrants",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Europe Tonight: MEPs debate Rwanda deportation scheme announced by five EU countries",
+     "desc": "On Euronews' first edition of Europe Tonight, presenter Mared Gwyn Jones led a debate on Europe's latest migration crackdown, after five EU countries announced a partnership with Rwanda to establish deportation hubs for irregular migrants.",
+     "url": "https://www.euronews.com/2026/11/16/europe-tonight-meps-debate-rwanda-deportation-scheme-announced-by-five-eu-countries",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Five EU countries unveil plans for Rwanda deportation hub",
+     "desc": "Five European countries unveiled plans on Monday to send rejected asylum seekers to a deportation hub in Rwanda, drawing condemnation from rights groups who said it would leave vulnerable people at risk of abuse. Under the planned scheme – which is still being negotiated with Rwanda – Germany, Austria, Greece, Denmark and the Netherlands would send people to a centre where the migrants could choose to return home, settle or go somewhere else where they had a ‌right to stay, Kigali said. “I think...",
+     "url": "https://www.scmp.com/news/world/europe/article/3374648/five-eu-countries-unveil-plans-rwanda-deportation-hub",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Five EU countries unveil plans for Rwanda deportation hub",
+     "desc": "Under the planned scheme, these countries will send people to a centre where the migrants could choose to return home, settle or go somewhere else.",
+     "url": "https://www.straitstimes.com/world/europe/five-eu-countries-to-announce-rwanda-deportation-hub-scheme",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "5 European countries aim to send rejected asylum-seekers to center in Rwanda - AP News",
+     "desc": "5 European countries aim to send rejected asylum-seekers to center in Rwanda AP News",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaHFsczFJUW53WXdfU3FNXzFiZTk3SVV0WkpvZkM0QW9KR0NfcUNOM09CRDVteExmQ1hNYVJoekVVNEpXN3pOalQ5cHlsckREdWFGdzZQa2FJU2llSXRicVlYS1UwZmJWV0RGbjNLRTBHOFkzUjQzdGJZZTRESWNvRFlaSGQyN3N0UFdtVXdQczdINkV4ZUFfY203Z2dXQQ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261116-16",
+   "title": "トランプ氏、習近平・プーチン両氏と首脳会談へ",
+   "firstSeen": "2026-11-16",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-16": 14,
+    "2026-11-17": 26
+   },
+   "peak": 26,
+   "worldScore": 26,
+   "worldCoverage": "8/18",
+   "jpScore": 8,
+   "jpCoverage": "1/6",
+   "gap": 18,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.82,
+     "title": "Trump to embark on Asia trip in apparent foreign policy push before end of term",
+     "desc": "Experts say US president may lean toward global affairs after domestic influence curtailed in midterm elections Donald Trump is embarking on his first overseas trip since his Republican party’s thumping midterm repudiation by US voters, in what may herald a renewed focus on foreign policy for the remainder of his presidency. The US president will meet his Chinese and Russian counterparts, Xi Jinping and Vladimir Putin, for their first trilateral summit, on the sidelines of the Asia-Pacific Economic Cooperation (Apec) forum in the Chinese city of Shenzhen. Before that, he will land in Manila in",
+     "url": "https://www.theguardian.com/us-news/2026/nov/16/trump-asia-foreign-domestic-policy",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump departs for ASEAN on summit with Xi and Putin",
+     "desc": "Donald Trump is heading to the Philippines where he’s scheduled to speak at a meeting of ASEAN leaders in Manila.",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/trump-departs-for-asean-on-summit-with-xi-and-putin?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.77,
+     "title": "Trump’s Asia Trip Will Bring Him to the Table With Xi and Putin: What to Know",
+     "desc": "President Trump will also meet with regional leaders, including Australia’s prime minister, who said “we want to see a de-escalation in the conflicts.”",
+     "url": "https://www.nytimes.com/2026/11/16/world/asia/trump-asia-china-xi-putin.html",
+     "via": null
+    },
+    {
+     "id": "npr",
+     "name": "NPR",
+     "region": "world",
+     "weight": 0.53,
+     "title": "Trump heads to Asia to meet with Xi and Putin amid Nvidia fallout",
+     "desc": "The trip to China marks Trump's second time this year, and comes as the president and his party faced widespread backlash from voters in the recent midterm elections.",
+     "url": "https://www.npr.org/2026/11/16/nx-s1-6041738/trump-xi-and-putin-china-nvidia",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US-China-Russia talks: as Seoul fears ‘another Yalta’, could Pyongyang emerge the winner?",
+     "desc": "South Korea fears that nuclear arms talks this week between US President Donald Trump and his Chinese and Russian counterparts could undermine efforts to denuclearise North Korea, potentially leaving Seoul sidelined in decisions affecting its own security. Analysts and South Korean officials have expressed concern that the talks may treat the North as an established nuclear power, weakening international pressure on Pyongyang to give up its weapons in favour of efforts to limit its arsenal. The...",
+     "url": "https://www.scmp.com/week-asia/politics/article/3374642/us-china-russia-talks-seoul-fears-another-yalta-could-pyongyang-emerge-winner",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump heads to Asia for Putin, Xi summit; possible Kim meeting",
+     "desc": "President Trump is setting off on a multi-day swing in Asia, where he&#039;s scheduled to meet with Russian President Vladimir Putin and China&#039;s President Xi Jinping for a highly anticipated summit.",
+     "url": "https://www.cbsnews.com/news/trump-asia-trip-trilateral-summit-putin-xi/",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump’s Asia trip: Deals in Manila and Shenzhen, nuclear summit with Xi and Putin, maybe Kim meeting - AP News",
+     "desc": "Trump’s Asia trip: Deals in Manila and Shenzhen, nuclear summit with Xi and Putin, maybe Kim meeting AP News",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcGw5a2lMb1B2bEtyYWotSkJYcWhXNHN2R3lwQlNuSUxfSHB5VzJ4Y25wNjZvcnVMLWhlN01rNnM3LXo2OHVScndJZm5VRWhjVFNrNnJZZDRhdEpoSThDelpzbDJlMTB0QXZ2al9FLWFkS3JTU1FfaFpBVkp1X2lrMU93bU5FbzlIQl9qbzFQLXE?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Yalta 2.0? Trump, Xi and Putin lead Asia’s week of high-stakes diplomacy - Financial Times",
+     "desc": "Yalta 2.0? Trump, Xi and Putin lead Asia’s week of high-stakes diplomacy Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY1RucjZ4VXNEU1dsQXR0QVJlTXlwM2dVSmM3d0VxdjFsZU8tbE9hT01qVXVjVHlWWWV3Rk9jblZlczBwU2NaY2djZ0o4dkxzdkxyN0FnTjk2MEt4X0Y4WktXU2VjaDhDbzdkazVQM044RDhEZlJUaWVQVklyT2xCcVpSdlU?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "米中ロ「世界平和」協議 「反ファシズム」と日本けん制か―３首脳会談、１９日午後開催・中国",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026111600465&g=int&m=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261117-02",
+   "title": "パティンソン氏、次期ジェームズ・ボンドに",
+   "firstSeen": "2026-11-17",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-17": 24
+   },
+   "peak": 24,
+   "worldScore": 24,
+   "worldCoverage": "8/18",
+   "jpScore": 13,
+   "jpCoverage": "2/6",
+   "gap": 11,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.85,
+     "title": "When will we see Robert Pattinson as Bond in cinemas?",
+     "desc": "Robert Pattinson has been announced as the next James Bond, becoming the seventh actor to take up the mantle of 007.",
+     "url": "https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "British actor Robert Pattinson named as new James Bond",
+     "desc": "The actor called the studio&#039;s decision a &#039;dream come true&#039;.",
+     "url": "https://www.aljazeera.com/news/2026/11/16/british-actor-robert-pattinson-named-as-new-james-bond?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Robert Pattinson: British actor will be the next James Bond",
+     "desc": "British actor Robert Pattinson is set to become the next James Bond in the long-running 007 spy franchise. Discussions over the casting of the new James Bond had been going on for months, with Pattinson emerging as one of the frontrunners from the outset.",
+     "url": "https://www.france24.com/en/video/20261116-robert-pattinson-british-actor-will-be-the-next-james-bond",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Meet the new James Bond: It's Pattinson, Robert Pattinson",
+     "desc": "Daniel Craig’s successor has been confirmed after a long casting process, making Pattinson the seventh actor to play the role of 007.",
+     "url": "https://www.euronews.com/2026/11/16/meet-the-new-james-bond-its-pattinson-robert-pattinson",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Robert Pattinson is named the 7th James Bond, taking over from Daniel Craig",
+     "desc": "Robert Pattinson was unveiled as the next James Bond on Monday, becoming the seventh actor to play the iconic British spy and the first since Amazon MGM took over the beloved film franchise. The naming of Pattinson comes during the longest hiatus in 007 history and ends years of rampant speculation about who would inherit the role from Daniel Craig. It comes five years after 2021’s No Time to Die, the first film in Bond’s 64-year history on the silver screen to conclude with the character’s...",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3374641/robert-pattinson-named-7th-james-bond-taking-over-daniel-craig",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "British actor Robert Pattinson named as new James Bond - Reuters",
+     "desc": "British actor Robert Pattinson named as new James Bond Reuters",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObllicENrQVpJdklkNVZHUnZ5cURLZ1gwU1N3WXZJRG5QNE9MTXJ0RU1VdEFQSWNadnFZRGxKT0pJcWMyWUhFYk5aRVFSbS16SjBrbVY4Y3c4VjZqdVJLQWtPM0M1aGZIUkFXaXE3QU9jUm1qdmV4TzBZQkFRLTBTQTJoODRVemdMeFhsMEJJeWFlODNvdnVfLWhmZFp4QQ?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Robert Pattinson is named the seventh James Bond, taking over from Daniel Craig - AP News",
+     "desc": "Robert Pattinson is named the seventh James Bond, taking over from Daniel Craig AP News",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3WVdwdnRSYW5oWmtlN1hsVXVZUV91UVR3bi02WEdFYXV0cHAyckFqNGhhRjVmWjZaWlNQYW5VM185akwyZjgzQmFhZzZWVlFoY3FUcXNmbmNObmNOQWlxUGVmc19kNXJmZmlqcW84V280ajE1d0RZWVFPczlKVXM?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Bond Has Robert Pattinson. Now Comes the Hard Part - Bloomberg.com",
+     "desc": "Bond Has Robert Pattinson. Now Comes the Hard Part Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcEhmOHlQTEV2RUVxeFFPOHdQaklfb29iQkRlWVRFOXJwbXFGbEVRZHA2ZXZVeVpfck51ZGM2NmlDUzNFb2doeEZQSjQwZUlYbUZVd3BvQ083Xzc4VzlUNXZQUkFnZHpOeDNKYU82QWpQNEZUZXdlR0NqOXlySnppZWV0M2ExWmtxdi00QzFwdlp3VmFXMXIyUkNRYlhlV01tM0c0dFBHdW1DSmhnVnJWdVpORGZFMXZCNGd3LQ?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "mainichi",
+     "name": "毎日新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "次期ジェームズ・ボンド役はロバート・パティンソンさん 「007」",
+     "desc": "",
+     "url": "https://mainichi.jp/articles/20261117/k00/00m/030/003000c",
+     "via": null
+    },
+    {
+     "id": "yahoo",
+     "name": "Yahoo!ニュース主要",
+     "region": "jp",
+     "weight": 0.3,
+     "title": "7代目ボンド役にR・パティンソン",
+     "desc": "",
+     "url": "https://news.yahoo.co.jp/pickup/6602855?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261109-12",
+   "title": "NVIDIAのファン氏復帰を巡る論争",
+   "firstSeen": "2026-11-09",
+   "daysSeen": 5,
+   "history": {
+    "2026-11-09": 14,
+    "2026-11-10": 27,
+    "2026-11-12": 22,
+    "2026-11-13": 28,
+    "2026-11-17": 22
+   },
+   "peak": 28,
+   "worldScore": 22,
+   "worldCoverage": "7/18",
+   "jpScore": 37,
+   "jpCoverage": "3/6",
+   "gap": -15,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.93,
+     "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+     "desc": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
+     "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Musk, Silicon Valley insiders urge Nvidia to restore Jensen Huang as CEO",
+     "desc": "Nvidia faces a potential 30 percent value loss in value without Jensen Huang, market analysts say, amid a stock downturn.",
+     "url": "https://www.aljazeera.com/economy/2026/11/16/silicon-valley-insiders-urge-nvidia-to-restore-jensen-huangs-ceo-role?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "President Trump says he 'wouldn't mind' Jensen Huang being reinstated as Nvidia CEO",
+     "desc": "The comments come as a petition calls on Nvidia to reinstate Huang.",
+     "url": "https://www.euronews.com/2026/11/16/president-trump-says-he-wouldnt-mind-jensen-huang-being-reinstated-as-nvidia-ceo",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump backs potential return of Jensen Huang as Nvidia CEO - Reuters",
+     "desc": "Trump backs potential return of Jensen Huang as Nvidia CEO Reuters",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOXlLTW9ld2U2cjRMU3pVOFBtOEhlQzE2TnlxazhiOHltQU9icEhwRmhvUFRhWC1uQzJ0bldzQmhJcnNsMmVFVHJhY1hEcWdNcG9KLWJoWlVKSlNHOEZvREdCQjhsQTl5cm5FdXVFNmk4VGFSOHh6ZVlaZUh4NVE0MXUyMVNmNHhvbm1mLTlyR3VGQ25uM094OTdsUDJQNGFfaGxST0VyanJCdENNS213?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump backs campaign to reinstate Nvidia CEO despite allegations he had an affair with a Chinese spy - AP News",
+     "desc": "Trump backs campaign to reinstate Nvidia CEO despite allegations he had an affair with a Chinese spy AP News",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUG5xR2UxLXNkQkhHXzNPQVliSkVQYnJSaDhia2VYdjZPeFBtU1VHN0ZHeVpuRE5Vd0hTNmpsYWtjaVh1ZFRvX2Fnd3JDQWhEQVJxNFY2RjVrLU5IcWhuSVZrZ3lFNDMzeWVwUTBYclE1RDFnUTdkR3NGUjFuaTFPd1hybm9DYzBSR1U2bDU4a19iWTA2YWc0eEdUazBGbXZ1VTc3WFAtSkEyZw?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "People Miss Jensen Huang Already - Bloomberg.com",
+     "desc": "People Miss Jensen Huang Already Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQS3A1WU5FMDNEb25jYnVfMTBuRzhnejRnNnllR2pISG9xZGMwdjlYZ2FSdlJoV1hqTHREa2EwcGIwaVEyQW92dGp1eFpCQjUzSUlDbFlOVnlSMko2Y3lmN3NOQzZiTHJaZm95Nng1U1ZaTHlRVWN3U1hlYkhnZ2hRV2NGMHVnSk9Zd3VXcjZKTGRld2M?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Jensen Huang’s fall hits ‘open’ models in boost to Anthropic and OpenAI - Financial Times",
+     "desc": "Jensen Huang’s fall hits ‘open’ models in boost to Anthropic and OpenAI Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdVhYSlplNHZVVUFRTlRWc1BIbWFqTFFSWkRLR1NfMUhhazRKRjhLYjM4emVsYU9IRzBKMVlaUlVLZzRsRW40NkZwY3dhNjFwVjVsd29GVGNlcnVPanlOVUw4RWZBdjVWZ0JOb2pBQTJrb3VMZkRSS0tfNUkwN3ZrSThSdDg?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.82,
+     "title": "【インタビュー】「フアン氏の退任、米中双方のＡＩ発展を遅らせる可能性も」(ハンギョレ新聞)",
+     "desc": "エヌビディア（NVIDIA）のジェンスン・フアン最高経営責任者（CEO）の不名誉な退任が、米国と中国双方の人工知能（AI）技術の発展速度を鈍らせる結果につながる可能性があるという米国の専門家の分析が出",
+     "url": "https://news.yahoo.co.jp/articles/d85c4b5991210ab1d3d36c0529faa00bdd8394fd?source=rss",
+     "via": null
+    },
+    {
+     "id": "yahoo",
+     "name": "Yahoo!ニュース主要",
+     "region": "jp",
+     "weight": 0.9,
+     "title": "米大統領 フアン氏復帰検討に理解",
+     "desc": "",
+     "url": "https://news.yahoo.co.jp/pickup/6602861?source=rss",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "トランプ氏、NVIDIAのファン氏復帰「悪くない考え」と見解 - 日本経済新聞",
+     "desc": "トランプ氏、NVIDIAのファン氏復帰「悪くない考え」と見解 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QRG51bks0bWxoT05TcDJ6dW96WmZUWmZkWkZ2amtPbXE1MEpMQkVvYklXbnJXWjJFb3V5YllvWU9pMl9JSEtzZk1BYVJOU2k0MVdEZElIYnZ0aGRXM0lKSWRCbHZzcVNOVER3ZQ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261117-21",
+   "title": "国連の自律型致死兵器規制、協議が難航",
+   "firstSeen": "2026-11-17",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-17": 18
+   },
+   "peak": 18,
+   "worldScore": 18,
+   "worldCoverage": "5/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 18,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.82,
+     "title": "U.N. Starts Uncertain Effort to Regulate Lethal Autonomous Weapons",
+     "desc": "Delegates met in Geneva to discuss guardrails for such systems even as their development grows. Russia and the United States have resisted the efforts.",
+     "url": "https://www.nytimes.com/2026/11/16/world/europe/un-killer-robots-autonomous-weapons.html",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "'A futuristic debate now very real': Why the world is struggling to regulate killer robots",
+     "desc": "Representatives from 128 nations are meeting in Geneva on Monday to decide whether to move ahead with negotiating legally binding rules around the use of AI-powered weapons that can kill without human involvement. FRANCE 24 spoke with artificial intelligence researcher Vincent Boulanin to find out just what is at stake.",
+     "url": "https://www.france24.com/en/technology/20261116-a-futuristic-debate-now-very-real-why-the-world-is-struggling-to-regulate-killer-robots",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Countries to decide future of 'killer robots' at UN conference",
+     "desc": "UN Secretary General and Pope Leo XIV have urged countries to agree stricter rules for autonomous weapon systems, to stop them from being given the ability to make life and death decisions without human intervention.",
+     "url": "https://www.euronews.com/2026/11/16/countries-to-decide-future-of-killer-robots-at-un-conference",
+     "via": null
+    },
+    {
+     "id": "npr",
+     "name": "NPR",
+     "region": "world",
+     "weight": 0.88,
+     "title": "U.N. talks seek to rein in 'killer robots' as fears over AI weapons grow",
+     "desc": "Countries are meeting in Geneva to negotiate rules on weapons that can select and kill targets without human intervention. But with the U.S., Russia and Israel resisting legally binding controls, campaigners fear the window to act is closing.",
+     "url": "https://www.npr.org/2026/11/16/nx-s1-6042548/un-killer-robots-ai-weapons-drones",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Russia plunges UN killer robot talks into ‘procedural impasse’",
+     "desc": "Russia triggered a procedural stand-off by objecting to allowing observers including the EU and civil society organisations to participate in the debate.",
+     "url": "https://www.straitstimes.com/world/europe/russia-plunges-un-killer-robot-talks-into-procedural-impasse",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261103-14",
+   "title": "クランシー被告、再審は来年3月",
+   "firstSeen": "2026-11-03",
+   "daysSeen": 4,
+   "history": {
+    "2026-11-03": 8,
+    "2026-11-04": 7,
+    "2026-11-10": 10,
+    "2026-11-17": 17
+   },
+   "peak": 17,
+   "worldScore": 17,
+   "worldCoverage": "5/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 17,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.78,
+     "title": "Lindsay Clancy to face retrial next year for deaths of her three children",
+     "desc": "The 36-year-old's first trial this year fell apart when a 12-person jury failed to reach a verdict.",
+     "url": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US judge sets March retrial for Lindsay Clancy, accused of killing her 3 children",
+     "desc": "A Massachusetts judge on Monday set a second trial for Lindsay Clancy for March 29 after a jury deadlocked in her initial trial on murder charges for killing her three young children at her home in 2023. During a hearing in Plymouth, Massachusetts, Judge William Sullivan set the date for a ‌second trial in a case in which the defence has argued that Clancy was in the throes of postpartum psychosis when she killed the children. Sullivan declared a mistrial on September 4 in the first trial after...",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3374644/judge-sets-march-retrial-lindsay-clancy-accused-killing-her-3-children",
+     "via": null
+    },
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 0.88,
+     "title": "Retrial date set for Lindsay Clancy over killing of her three children",
+     "desc": "Lindsay Clancy is due to face a retrial next March over the killing of her three young children.",
+     "url": "https://news.sky.com/story/lindsay-clancy-retrial-date-set-over-killing-of-her-three-children-13612927",
+     "via": null
+    },
+    {
+     "id": "abc-au",
+     "name": "ABC Australia",
+     "region": "world",
+     "weight": 0.39,
+     "title": "Lindsay Clancy to face retrial in March",
+     "desc": "A Massachusetts judge schedules Lindsay Clancy's retrial for late March, with lawyers to discuss trial logistics and media arrangements in late December.",
+     "url": "https://www.abc.net.au/news/2026-11-17/lindsay-clancy-to-face-march-retrial/107393036",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Lindsay Clancy to face March retrial in deaths of her 3 children - AP News",
+     "desc": "Lindsay Clancy to face March retrial in deaths of her 3 children AP News",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTXhlVy1lNkh3XzNRSXRLSTVlZUJybGJKdGtnT1RvTjRsVTVOUXd3OXVPbkxVa1hXcFp3eDhUUEFLWnFLZ0lNUXVvRURaekNndi1ESk5UMk45OC1TRjQ2aFYwOC0xNVpjY043M0ZpWHdEdkRmM0phNW5MVzBkejl6eVJVSDBIQk1wMWR2ZUlWdU9xQjVEaF9JV2hraWNYWmlwbWc?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261117-12",
+   "title": "JPモルガンなど米銀、オンライン取引に障害",
+   "firstSeen": "2026-11-17",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-17": 17
+   },
+   "peak": 17,
+   "worldScore": 17,
+   "worldCoverage": "6/18",
+   "jpScore": 21,
+   "jpCoverage": "2/6",
+   "gap": -4,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Thousands report online banking outages at major US banks",
+     "desc": "Customers report online access issues at major US banks, including Chase, Wells Fargo and Bank of America.",
+     "url": "https://www.aljazeera.com/news/2026/11/16/thousands-report-difficulties-accessing-accounts-online-at-major-us-banks?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Chase outage disrupts online banking and Zelle payments in United States",
+     "desc": "American users of several major banking apps and online portals reported outages on Monday, according to the monitoring site Downdetector.com, with one institution ruling out a cyberattack as the cause. Among those affected by the outages were Bank of America, JPMorgan Chase and the popular money transfer app Zelle.",
+     "url": "https://www.france24.com/en/americas/20261116-chase-outage-disrupts-online-banking-and-zelle-payments-in-united-states-us-software",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Customers at major US banks report difficulty with some online services",
+     "desc": "Customers reported difficulty accessing the online accounts at some major US banks on Monday. Bank of America, Chase, US Bank, Wells Fargo and Truist were listed by users as down or experiencing issues, according to the website downdetector.com. Chase Bank’s services are experiencing a technical bug issue, not a cyber issue, a spokesperson said on Monday. “Due to a technical issue, some transactions are taking longer than usual to complete but customers still have access to their accounts and...",
+     "url": "https://www.scmp.com/business/banking-finance/article/3374651/customers-major-us-banks-report-difficulty-some-online-services",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "JPMorgan says software bug slows its transactions - Reuters",
+     "desc": "JPMorgan says software bug slows its transactions Reuters",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMmhqb0E4Q3hTMkFoVnU5d2Ffby1IUFhtMEROZ2pRZ2xva3dxZTVabklKVnJhRk9XWmxxX0hfM2ZIV1JjQ01yNXJCLXpaaXZmTmV6QkkycXcwV1pNbF91OXptLTA1QjZVM1RhOTN5WHUwTFRtRmNlbkkxc2Nod1oydmFJeV9TZkZfdjBqb1l5TWJXeUVkRVZDdjNzbW10dW80?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "A technical issue at JPMorgan Chase triggers online banking delays for major US banks - AP News",
+     "desc": "A technical issue at JPMorgan Chase triggers online banking delays for major US banks AP News",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT2I5X1NCMDRQZURDMlVFTTY4TmJ1TFVCeUIyWFRuenhhUmV4QTd5ZW9ydEdUaUFXb0dGTVFjR3VubUxvaExsZ3pfWUd2dUw1dEdFbDg5TWhkbEFxNEJydHNtaTgxRnJ1VXRNdjJQY25GSU1NdEZRcG9wUlN0NTJlRHk4QW5WbHk1eV9XOTROU2M3M3N4ZU0wbkxBSTY?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "JPMorgan Works to Fix ‘Technical Issue’ Affecting Customers - Bloomberg.com",
+     "desc": "JPMorgan Works to Fix ‘Technical Issue’ Affecting Customers Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWGFoSHNvSVhKcVAzTlhNTWtnSzRfTHlIVzZqYkVIR21YdDFURUhoX1I0Zkw0NXdYYWJ3QThLaS1iLUtFQmVnQUFpcmdkN0lyTG9BTldRTXdPazI1dkY3X2tGTEdOOEFGb1RoQ09YenNaWDZiX0xLRmRSMlhLbVQyQmpJTWhiNGRURm94a1JGbWtGZkJ5SE41OEx3Z0ZjYkZwZFE2clMyamNuVFZJZ2JnZExjWQ?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.74,
+     "title": "米チェース銀行、オンラインサービスに障害 数千人が不具合報告(CNN.co.jp)",
+     "desc": "ニューヨーク（CNN） 米チェース銀行の顧客数千人が16日、オンライン口座の利用に不具合が生じたと報告した。同行の広報担当者は同日、「JPモルガン・チェースで、ソフトウエアのバグに関連する一時的な問題",
+     "url": "https://news.yahoo.co.jp/articles/73b888abe17f2e3e32718b71a91888d7611afb26?source=rss",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "JPモルガンでオンライン取引障害 米国の複数行に波及、ソフト不具合 - 日本経済新聞",
+     "desc": "JPモルガンでオンライン取引障害 米国の複数行に波及、ソフト不具合 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5TlhpT1YtNmZLRldNTUFqWkpndnQybURXOTZ0cXU4dWdyTlRNclN3dFBrWWZzdnZYTHVkS2hUSTRPdzk2S2FxTkV0Z1lwd0VfSDVoR0NkUE1meDNLZkNoQVI1YzNpX295NlVZaw?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261116-02",
+   "title": "イエメン、フーシ派が前進 サウジ側は後退",
+   "firstSeen": "2026-11-16",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-16": 17,
+    "2026-11-17": 16
+   },
+   "peak": 17,
+   "worldScore": 16,
+   "worldCoverage": "5/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 16,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.96,
+     "title": "Houthi rebel advance in Yemen may further destabilise global economy",
+     "desc": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.",
+     "url": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.39,
+     "title": "Saudi Arabia strategy challenged by anti-Houthi forces in Yemen",
+     "desc": "Accusations of incompetence follow retreat of Riyadh-backed forces in effort to relieve siege of Taiz and protect Aden Saudi Arabia has been accused by anti-Houthi forces over its military strategy after its Yemeni allies withdrew troops from the strategic Bab al-Mandab strait and pulled back forces from parts of Marib in the central part of the country. The Saudi-backed government explained the repositioning by saying the strategic priority was to break the attritional siege on Taiz , Yemen’s third city, and to protect Aden, the southern port city in which the Saudi-backed and UN-recognised g",
+     "url": "https://www.theguardian.com/world/2026/nov/16/saudi-arabia-challenged-yemeni-allies-ceding-ground-houthis",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Live: Houthis advance in Yemen as tankers hit sea mines in Strait of Hormuz",
+     "desc": "Iran-aligned Houthi fighters kept up their push in southern Yemen as oil tankers hit sea mines in the Strait of Hormuz.",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.45,
+     "title": "Saudi-Backed Forces Retreat in Yemen, Leaving Key Strait in Houthi Control",
+     "desc": "It’s a setback for the Yemeni government and its ally Saudi Arabia, as analysts said the momentum in country’s civil war was tilting toward the Iran-backed Houthis.",
+     "url": "https://www.nytimes.com/2026/11/15/world/middleeast/saudi-houthis-yemen-red-sea.html",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "After Yemen setback, Saudi Arabia replaces military commander - Reuters",
+     "desc": "After Yemen setback, Saudi Arabia replaces military commander Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbllfNkZoYzF4U1ZLdmUtaGE2VnZsblBfeXMyV0xFSEVwcDRya3hzTG1jR2JVS08zYUFBR1laaGhkTVhyZ3hueTl5N1k5ZkFTc3V0blFaUm02WFd0Y2Y2bTR5Rm53XzhTZV8wYy1YWVRNQWo3Vjc5VF9GeXJMaU9zZnhOV3N4aDNkbmcyalJnenlReWFCamtKS0NPZWNLRV9EQ1A3SEVLeU9BNjBvYzd6VzNnQQ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261117-10",
+   "title": "米、中国向けAI半導体の規制を強化",
+   "firstSeen": "2026-11-17",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-17": 16
+   },
+   "peak": 16,
+   "worldScore": 16,
+   "worldCoverage": "5/18",
+   "jpScore": 14,
+   "jpCoverage": "2/6",
+   "gap": 2,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US clamps down on chip 'loophole' in foreign access to advanced AI chips",
+     "desc": "A new US Commerce Department rule targets foreign remote access to chips like Nvidia's Blackwell.",
+     "url": "https://www.euronews.com/2026/11/16/us-clamps-down-on-chip-loophole-in-foreign-access-to-advanced-ai-chips",
+     "via": null
+    },
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 1,
+     "title": "US to further curb China's access to Nvidia chips",
+     "desc": "The US government is set to further restrict China's access to the most powerful AI chips, such as the ones provided by tech giant Nvidia.",
+     "url": "https://news.sky.com/story/us-to-further-curb-chinas-access-to-ai-chips-from-companies-like-nvidia-13612884",
+     "via": null
+    },
+    {
+     "id": "abc-au",
+     "name": "ABC Australia",
+     "region": "world",
+     "weight": 0.33,
+     "title": "US moves to stop AI chip-smuggling amid push to reinstate Huang",
+     "desc": "Donald Trump adds weight to a push to reinstate former Nvidia CEO Jensen Huang, just a few days after his resignation amid fears he had been in a relationship with a Chinese spy.",
+     "url": "https://www.abc.net.au/news/2026-11-17/donald-trump-says-he-would-not-mind-jensen-huang-comeback/107393002",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Singapore studying new US rules on AI chip exports that may hit data centres",
+     "desc": "Introduced as Trump comes to Asia, new rule curbs China’s ability to access high-end AI chips through data centres in South-east Asia",
+     "url": "https://www.straitstimes.com/world/united-states/singapore-studying-new-us-rules-on-ai-chip-exports-that-may-hit-data-centres",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US to curb China's access to AI chips as Trump heads to Asia - Reuters",
+     "desc": "US to curb China's access to AI chips as Trump heads to Asia Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOFRscFU2Tnd4dkpNWURqN2NDcEg1eHBNUW9VTTd5YkRBNlA2eVJkV0xsWHpqNExCek4xTUY0VlU5TjJYM1ZJaWE3YkVNZndhUE5CamYyZlh3WGhRUHhUVzhDRW1IUkVTXzBBQ1hXMTkzM0tiNF9DZGpZcUlTb0xQOFBsVEM1VDhnV0taSlpYYTNsQUpyMnlKQzNSenU3alBia0ZJR1QyQ2hSX3g5bG1yX3d3dTBublY1?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.36,
+     "title": "トランプ政権、AI半導体の輸出規制を強化 大統領の訪中控え(CNN.co.jp)",
+     "desc": "（CNN） 米商務省は16日、中国が人工知能（AI）を駆動する機密性の高い半導体チップへアクセスするのを防ぐため、輸出規制を強化した。この問題への対応を巡っては、トランプ政権内で意見が対立していた。【",
+     "url": "https://news.yahoo.co.jp/articles/4149587ef8d59ddb0c291d61c7fb864272a2b6d2?source=rss",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "米商務省、中国による半導体の「遠隔利用」規制 NVIDIA疑惑で - 日本経済新聞",
+     "desc": "米商務省、中国による半導体の「遠隔利用」規制 NVIDIA疑惑で 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qU0xSc2dtbGQ2N1FHOU1ZQmZrWHF5V2kxMzlZSjNMbXA2bDdLMmplUV9JdWE1MGlQdGVWdnlhUWhvRjJuUzE5dWlac0xsWWxxTGhtWHB4cTZUOFl0eW04Xy1jZkktNDdDMXk4ag?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261116-07",
+   "title": "全米の航空便の欠航・遅延が長期化",
+   "firstSeen": "2026-11-16",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-16": 21,
+    "2026-11-17": 15
+   },
+   "peak": 21,
+   "worldScore": 15,
+   "worldCoverage": "5/18",
+   "jpScore": 8,
+   "jpCoverage": "1/6",
+   "gap": 7,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Nationwide ground stop could cost US airlines hundreds of millions",
+     "desc": "Airline executives support modernising FAA systems as US Transportation Secretary Duffy seeks $50bn from Congress.",
+     "url": "https://www.aljazeera.com/news/2026/11/16/nationwide-ground-stop-could-cost-us-airlines-hundreds-of-millions?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump says he needs funding for air traffic control after ground stop",
+     "desc": "US ​President ​Donald Trump, pressed on a ​technology ‌failure ⁠that ‌grounded thousands of ⁠flights last week, ​on ‌Monday told reporters ‌that ​the government needed funding for upgrade ​to ​air traffic ​control equipment. FRANCE 24's Monte Francis speaks with Sheldon Jacobson, Professor of Computer Science at the University of Illinois. He explains that \"the Republicans have had full control of the House and the Senate since the President came in. They controlled everything. If they needed the money and wanted the money they could have approved the money. The fact that they didn't, in the t",
+     "url": "https://www.france24.com/en/trump-says-he-needs-funding-for-air-traffic-control-after-ground-stop",
+     "via": null
+    },
+    {
+     "id": "npr",
+     "name": "NPR",
+     "region": "world",
+     "weight": 0.77,
+     "title": "FAA ground stop still affecting thousands of flights. And, Trump meets Xi, Putin in Asia",
+     "desc": "U.S. Transportation Secretary Sean Duffy said that things could be back to normal at the end of Monday after an FAA ground stop disrupted flights. And, Trump heads to Asia for a high-profile trilateral summit.",
+     "url": "https://www.npr.org/2026/11/16/g-s1-153841/up-first-newsletter-faa-ground-stop-democratic-leaders-congress-trump-asia-trip",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US air travel largely returns to normal as funding fight brews",
+     "desc": "Transportation Secretary Sean Duffy estimated the economic impact of the disruptions that delayed nearly 28,000 flights to be in the billions of dollars.",
+     "url": "https://www.straitstimes.com/world/united-states/us-air-travel-largely-returns-to-normal-as-funding-fight-brews",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US probes why a router installation sparked mass flight grounding - Reuters",
+     "desc": "US probes why a router installation sparked mass flight grounding Reuters",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOLTd6Y3lmaHRRTHpqaVp4VG5uLVRVMXVObTgyR3RTZnA0M0JMTkFZMVBiZkJTUHNBNGkyVmlHejBwc0g4MXM5VUNCWUNfQTRIRVFsVklJUENJd0EwLU4wXzdxV18yVHU2Y0tkRV9oU1ZaQnptZDJQdjB5dU5DeHAyNTNCbFNVRlk3NjM3TDYxcTRGNTE3dTMyRzFaSmEtaUVqd1dORTdrSE5PZ0RvMGlXRlZjc2ItYzVKZXMyd2kwaUN3ZGRm?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "全米の空港で離陸停止、L3ハリスの機材が原因の可能性 当局が指摘 - 日本経済新聞",
+     "desc": "全米の空港で離陸停止、L3ハリスの機材が原因の可能性 当局が指摘 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PaUdqWkhWX0RhR0lraEtld21zSFVoN243dlQtcmZZOXZoMzV4VkhGbGlMLXctVzB2M0huaG1XUGFPUW1fSEVHTjlBd2V4bUtkQlJLZ1NuS2xtT0V0bE9rSUlfTHFsY211U1FsQw?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261117-03",
+   "title": "ウクライナ、クリミア橋をドローンで攻撃",
+   "firstSeen": "2026-11-17",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-17": 14
+   },
+   "peak": 14,
+   "worldScore": 14,
+   "worldCoverage": "4/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 14,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.89,
+     "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
+     "desc": "Russia said Ukraine had launched over 2,000 drones over the course of a day, while Kyiv came under a record 17 air raid alerts.",
+     "url": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.56,
+     "title": "Ukraine hits Kerch bridge between Russia and occupied Crimea",
+     "desc": "Traffic temporarily restricted on key connection after bridge targeted during overnight drone barrage by Ukraine Ukraine has hit the Kerch bridge connecting occupied Crimea with Russia, in a symbolic blow that temporarily paralysed road traffic and left thousands of drivers stranded. A Ukrainian kamikaze drone crashed into one of the bridge’s arches at 5.38am local time, local channels reported. Earlier drones could be heard buzzing above the structure, as Russian air defence units opened fire. Continue reading...",
+     "url": "https://www.theguardian.com/world/2026/nov/16/ukraine-drone-kerch-bridge-russia-occupied-crimea",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Ukraine hits key Crimea bridge with drones",
+     "desc": "\"I think the Ukrainians are trying to send a message to the Russians with this - 'If you hit our bridges we can hit yours,'\" reports Gulliver Cragg from Kyiv.",
+     "url": "https://www.france24.com/en/video/20261116-ukraine-hits-key-crimea-bridge-with-drones",
+     "via": null
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Ukraine strikes Crimean Bridge in record drone attack - Financial Times",
+     "desc": "Ukraine strikes Crimean Bridge in record drone attack Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMjhQYVU3SkRRaTZVN29Vd0lEekN4SEc3Q3AwUmRsTG9kU2RiTEdOZ2lxekZfVXd2cGFrblBULVlOSVdkUDEweXNuVDRxcW1zc1lJOGxia1NLUl9fQlJCYXJKMXkzb251Rm53N1VGaDY1QkpnOUFhX1lJY1RIeFJHYVY4aXQ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261117-06",
+   "title": "トランプ氏、中国で金正恩氏と会う可能性",
+   "firstSeen": "2026-11-17",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-17": 14
+   },
+   "peak": 14,
+   "worldScore": 14,
+   "worldCoverage": "5/18",
+   "jpScore": 31,
+   "jpCoverage": "3/6",
+   "gap": -17,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump says he could meet with North Korean leader Kim Jong-un in China",
+     "desc": "Trump is planning to discuss nuclear disarmament when he meets with Russian President Vladimir Putin and Chinese President Xi Jinping in Shenzhen, China this week.",
+     "url": "https://www.euronews.com/2026/11/16/trump-says-he-could-meet-with-north-korean-leader-kim-jong-un-in-china",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump floats Kim meeting in China, says he’ll discuss Ukraine with Xi and Putin",
+     "desc": "US President Donald Trump said on Monday he might meet North Korean leader Kim Jong-un in China this week and planned to discuss Russia’s war in Ukraine with Chinese President Xi Jinping and Russian President Vladimir Putin in Shenzhen. “We may meet with Kim Jong-un,” Trump told reporters at the White House before leaving for Asia. He said any meeting would take place in China. Trump and Kim met three times during the American’s first term, and Washington has sought to draw Pyongyang back into...",
+     "url": "https://www.scmp.com/news/us/article/3374640/trump-floats-kim-meeting-china-says-hell-discuss-ukraine-xi-and-putin",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump says he may meet with North Korea&#039;s Kim Jong Un in China",
+     "desc": "President Trump said he may meet with North Korean leader Kim Jong Un on his China trip this week.",
+     "url": "https://www.cbsnews.com/news/trump-says-may-meet-kim-jong-un-china/",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump says he might meet with North Korea’s Kim Jong Un in China",
+     "desc": "Trump also has a planned meeting with Vladimir Putin and Xi Jinping.",
+     "url": "https://www.straitstimes.com/world/united-states/trump-says-he-might-meet-with-north-koreas-kim-jong-un-in-china",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump says he might meet with North Korea's Kim Jong Un in China - Reuters",
+     "desc": "Trump says he might meet with North Korea's Kim Jong Un in China Reuters",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOb29EcDdndEN4TW9IeVFRVnVQTV9YVzNZVHUyT0F3aElTeTFQMFU2X05QUXR3c01hVVlrTEotZjVhU3YwNFZuTlUyZDVfM2pTTjNGTHR1Q25GalEtUFByZTFKLUd4TV84UU9vUngxd245SktvQ00tbWNOMDZ0WkRoVDV3OXh6UWxMZ0t3aWVuSC01U2VYclVHX2k1ZnpnTHFTSTh3bw?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "mainichi",
+     "name": "毎日新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "トランプ氏、正恩氏と「会談するかもしれない」と発言 アジア訪問で",
+     "desc": "",
+     "url": "https://mainichi.jp/articles/20261117/k00/00m/030/001000c",
+     "via": null
+    },
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "トランプ氏「正恩氏と会談するかも」 「習主席次第」、ロシアも同調",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026111700165&g=int&m=rss",
+     "via": null
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.85,
+     "title": "トランプ氏 中国で金正恩氏と「会うかもしれない」(聯合ニュース)",
+     "desc": "【ワシントン聯合ニュース】トランプ米大統領は16日（現地時間）、ホワイトハウスで記者団に対し、中国・深圳で開かれるアジア太平洋経済協力会議（APEC）首脳会議に合わせて北朝鮮の金正恩（キム・ジョンウン",
+     "url": "https://news.yahoo.co.jp/articles/5f23832cfe4291a0a40bdd4f59cd6bb9438ac223?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261103-36",
+   "title": "ウクライナ和平協議、米欧で新たな調整",
+   "firstSeen": "2026-11-03",
+   "daysSeen": 9,
+   "history": {
+    "2026-11-03": 3,
+    "2026-11-04": 11,
+    "2026-11-05": 6,
+    "2026-11-09": 17,
+    "2026-11-10": 26,
+    "2026-11-11": 23,
+    "2026-11-12": 36,
+    "2026-11-13": 25,
+    "2026-11-17": 14
+   },
+   "peak": 36,
+   "worldScore": 14,
+   "worldCoverage": "5/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 14,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "What will Europe do next in Ukraine?",
+     "desc": "There is division within the European Union over diplomatic strategy for efforts to end the Russia-Ukraine war.",
+     "url": "https://www.aljazeera.com/video/inside-story/2026/11/16/what-will-europe-do-next-in-ukraine?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Russia's war on Ukraine: 'Americans want to have a deal whatever the cost for both Ukraine & Europe'",
+     "desc": "Delano D'Souza is pleased to welcome Grégoire Roos, Director of the Europe and Russia and Eurasia Programmes at Chatham House. As European countries prepare to take part in the next round of Ukraine peace talks, Roos questions whether having five European representatives could weaken their negotiating position. \"The other option is to realize that it dilutes the negotiating power of Europe. And I would lean towards that,\" he says, proposing Finnish President Alexander Stubb as a possible representative. Roos also points to differences between Washington and European governments over negotiatio",
+     "url": "https://www.france24.com/en/russia-s-war-on-ukraine-americans-want-to-have-a-deal-whatever-the-cost-for-both-ukraine-europe",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Ukraine held new talks with US, European officials on peace prospects, Zelensky says",
+     "desc": "Ukrainian President Volodymyr Zelensky said ⁠on Monday that his nation had ⁠held new online talks with ⁠US presidential envoys Steve Witkoff and Jared Kushner, as well as European representatives, on the prospects of ending the war with Russia. Zelensky, speaking in his nightly video address, also said Ukraine had intelligence that Russia was ‌planning major strikes on Ukrainian targets on Monday evening, overnight and on Tuesday. The talks came less than a week after US, Ukrainian and Russian...",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3374650/ukraine-held-new-talks-us-european-officials-peace-prospects-zelensky-says",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Ukraine, US, Europe discuss ways to tempt Russia into talks",
+     "desc": "Zelensky said that for the first time, Europe was represented by “those who will represent it in negotiations with the Russians”.",
+     "url": "https://www.straitstimes.com/world/europe/ukraine-us-europe-discuss-ways-to-tempt-russia-into-talks",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US envoy Kushner says progress made in Ukraine talks - Reuters",
+     "desc": "US envoy Kushner says progress made in Ukraine talks Reuters",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVmhPQUFLblhESV9CWnFmX2ZONzdHOTFMQkhHMW9hUzNoYlp6ZU5BUnE5b1pJZ05TbjFOODNDa2VKTW9UMzRETE5hdVBhSzVmLTJjalRFUjA2RERZdW5GS0lXOUdMM0RLRmIyWndqWUFrUjA3VFZISUMtTHdVMjQzYUJreWdKaGFnSV8xbkR5NWs4b2VBTE1BMVJlZlNvdGl3?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261112-10",
+   "title": "教皇レオ14世、ペルーなど南米を歴訪",
+   "firstSeen": "2026-11-12",
+   "daysSeen": 4,
+   "history": {
+    "2026-11-12": 10,
+    "2026-11-13": 12,
+    "2026-11-16": 14,
+    "2026-11-17": 13
+   },
+   "peak": 14,
+   "worldScore": 13,
+   "worldCoverage": "4/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 13,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.48,
+     "title": "Pope Leo rides in helicopter cockpit during Peru trip",
+     "desc": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour.",
+     "url": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.91,
+     "title": "Pope Endures Grueling Travel in South America Weeks After Surgery",
+     "desc": "When doctors operated on Pope Leo XIV’s lung in October, some wondered if he’d postpone a long-planned trip to South America. It’s gone well so far.",
+     "url": "https://www.nytimes.com/2026/11/16/world/europe/pope-leo-peru-health.html",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Pope concludes South America homecoming, reassures faithful after cancer scare",
+     "desc": "Pope Leo XIV finished Monday his 12-day tour of Uruguay, Argentina and Peru reiterating his advocacy for social justice, environmental protection and the importance of community. Just a month after undergoing lung cancer surgery, the 71-year-old pontiff drew millions of faithful across South America, where he spent nearly two decades as a missionary.",
+     "url": "https://www.france24.com/en/americas/20261116-pope-concludes-south-america-homecoming-reassures-faithful-after-cancer-scare",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Pope Leo revisits Peruvian city where he once served as a missionary, bishop",
+     "desc": "Pope Leo wrapped up a historic visit to South America. He flew by helicopter to a mountainous area of Peru to celebrate Mass, where he once served as a missionary. Chris Livesay is traveling with the pontiff and has more.",
+     "url": "https://www.cbsnews.com/video/pope-leo-revisits-peruvian-city-once-served-missionary-bishop/",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261110-05",
+   "title": "NVIDIA関連企業、中国スパイ疑惑で調査",
+   "firstSeen": "2026-11-10",
+   "daysSeen": 3,
+   "history": {
+    "2026-11-10": 6,
+    "2026-11-16": 26,
+    "2026-11-17": 11
+   },
+   "peak": 26,
+   "worldScore": 11,
+   "worldCoverage": "3/18",
+   "jpScore": 15,
+   "jpCoverage": "1/6",
+   "gap": -4,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.77,
+     "title": "Megaspeed, the company linked to the downfall of Nvidia boss, says it’s a ‘legitimate and lawful business’",
+     "desc": "Company insists Alice Huang, who is accused of being a Chinese spy, left business in late 2025 Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen Huang Business live – latest updates Megaspeed International, the company linked to the downfall of the Nvidia chief, Jensen Huang , says it is a “legitimate and lawful business” and has announced that its director, who allegedly had an affair with Jensen Huang, left the business in late 2025. The Singapore-based cloud computing company on the weekend said it was “aware of recent media reports containing assertions about our busin",
+     "url": "https://www.theguardian.com/technology/2026/nov/16/megaspeed-company-breaks-slience-nvidia-jensen-huang-alice-huang",
+     "via": null
+    },
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 0.65,
+     "title": "Company caught up in Nvidia controversy launches internal investigation",
+     "desc": "A cloud computing company facing scrutiny over claims involving tech giant Nvidia has launched an internal investigation conducted by external lawyers.",
+     "url": "https://news.sky.com/story/company-caught-up-in-nvidia-controversy-launches-internal-investigation-13612539",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Megaspeed says Alice Huang left company in 2025, denies wrongdoing",
+     "desc": "The company denies wrongdoing after accusations that it smuggled Nvidia&#039;s AI chips into China.",
+     "url": "https://www.cbsnews.com/news/nvidia-alice-huang-jensen-ai-china-singapore-megaspeed/",
+     "via": null
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.88,
+     "title": "トランプ大統領「アリス・フアン氏、スパイではないかも…中国刺激したくない」(中央日報日本語版)",
+     "desc": "トランプ米大統領がジェンスン・フアン前エヌビディア最高経営責任者（CEO）の不倫相手のアリス・フアン氏の中国スパイ疑惑に対し「証明されていない」として慎重な立場を見せた。ジェンスン・フアン氏のスキャン",
+     "url": "https://news.yahoo.co.jp/articles/522a915ea95cc138e843ef88bef0ba0520035404?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261117-11",
+   "title": "米ユナイテッド航空、システム障害で遅延",
+   "firstSeen": "2026-11-17",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-17": 11
+   },
+   "peak": 11,
+   "worldScore": 11,
+   "worldCoverage": "4/18",
+   "jpScore": 17,
+   "jpCoverage": "1/6",
+   "gap": -6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "United Airlines has widespread system failure just days after nationwide ground stop",
+     "desc": "United Airlines said on Monday it had resolved a technology issue that delayed departing flights, just days after a malfunction in the US Federal Aviation Administration’s network prompted a nationwide ground stop. Chicago-based United said in a statement that while some flights were delayed because of the issue on Monday afternoon, flights that were in the air and flights on its United Express regional network were not impacted. “There is no indication that this was a cybersecurity-related...",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3374655/united-airlines-has-widespread-system-failure-just-days-after-nationwide-ground-stop",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "United Airlines says technology outage that delayed departures has been resolved - Reuters",
+     "desc": "United Airlines says technology outage that delayed departures has been resolved Reuters",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV0JVRTluN1llSzlnQ3d2ZDRDSFYxYkU4OGhkRUwxWFEwWGNJWlIxaUxSNHVSU1Q2bXJjRkRCbnJZV3U4cHY4WXJvZWJGMG5wdTFkck5Pck9PRVl2TGpoQkZPTDVKS2g5T3kzQ0dCSmdrWm1LaWZaa3RKcFNtekRmdmhpNTBaUWVtMkxvdUhFQ2VET3p2Y2lKdFdRZloyS2p4ZnZQTnZJNVE1OTlpc2dn?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "United Airlines has a widespread system outage just days after nationwide ground stop - AP News",
+     "desc": "United Airlines has a widespread system outage just days after nationwide ground stop AP News",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc2xoSnd5Sm9rYTl5eFVRVzc2MFlNSk5qNUJRckg2X0tVazZEZG4wNTVVYW9JeWNyY1J6TWlKS0VURXd1c1JzUUdYU01WQzhQNWhkOEVCOXo4TTlLSnFNanUzVW9BYkZMOVBSb3ZfRnFMWXZFSGp1ZE5vSF9MTEd3VmxSTGI0YlR1VlE?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "United Airlines Hit by System Outage Days After FAA Ground Stop - Bloomberg.com",
+     "desc": "United Airlines Hit by System Outage Days After FAA Ground Stop Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMTBGUVN0OVB3ZFpsRUNKVm9IVXNKeEwzdld4ajd2NG9fVVh1UThxWnlwRjRlQnZyRWRyTjA1dS1pQUlrZGpWb2VRa3U5M0gzeDMzQVgySzh6TW1WUWhUXzZqWVF3YXJBMXFOMERIS0N2NHVGak1mMi1leXIxZjhJTGlJSFFTaDBwMDliZk0xMlloNzdPeXg5NTJVajBtYWlacG9kQ05ub1Ntd3U3cFZZZnlMeXU?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 1,
+     "title": "米ユナイテッド航空で一時的なシステム障害、米出発便に遅れ(CNN.co.jp)",
+     "desc": "（CNN） 米ユナイテッド航空で16日、一時的なシステム障害が発生し、米国の空港から出発する便の一部に遅れが出た。同社がCNNに明らかにした。米国では数日前、システム障害が原因で連邦航空局（FAA）が",
+     "url": "https://news.yahoo.co.jp/articles/4bf50d4f4b35b2ef59ebfda6f73c7c5ceb638f69?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261117-24",
+   "title": "仏サッカー連盟会長、FIFA会長選に出馬へ",
+   "firstSeen": "2026-11-17",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-17": 11
+   },
+   "peak": 11,
+   "worldScore": 11,
+   "worldCoverage": "4/18",
+   "jpScore": 12,
+   "jpCoverage": "1/6",
+   "gap": -1,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "UEFA backs Diallo to challenge Infantino for FIFA presidency",
+     "desc": "UEFA has found its candidate to take on Gianni Infantino in next year’s FIFA presidential election",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/uefa-backs-diallo-to-challenge-infantino-for-fifa-presidency?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "UEFA backs France's Diallo to stand against Infantino in FIFA election",
+     "desc": "European football's governing body UEFA has given its \"unanimous\" backing to French Football Federation chief Philippe Diallo to stand against incumbent Gianni Infantino in March's FIFA presidential election, it said in a statement Monday. Under its Slovenian president Aleksander Ceferin, UEFA has led the opposition to Infantino since his announcement in late July of a project to sell stakes in the World Cup to private investors. FRANCE 24's Selina Sykes speaks with Dr. Emanuel Macedo de Medeiros, Co-founder and Global CEO of the Sport Integrity Global Alliance.",
+     "url": "https://www.france24.com/en/uefa-backs-france-s-diallo-to-stand-against-infantino-in-fifa-election",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "French football chief Diallo set to run against Infantino for FIFA presidency",
+     "desc": "The next FIFA presidential election is due to take place at the 77th FIFA Congress on Thursday, 18 March 2027 in Rabat, Morocco.",
+     "url": "https://www.euronews.com/2026/11/16/french-football-chief-diallo-set-to-run-against-infantino-for-fifa-presidency",
+     "via": null
+    },
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 0.53,
+     "title": "FIFA president Gianni Infantino faces challenge from French football chief",
+     "desc": "The head of the French Football Federation (FFF) will stand against Gianni Infantino in the FIFA presidential election, UEFA have revealed.",
+     "url": "https://news.sky.com/story/head-of-french-football-to-stand-against-infantino-in-fifa-presidential-election-13612894",
+     "via": null
+    },
+    {
+     "id": "asahi",
+     "name": "朝日新聞",
+     "region": "jp",
+     "weight": 0.71,
+     "title": "FIFA会長選、フランスサッカー連盟会長が立候補へ UEFA発表",
+     "desc": "",
+     "url": "http://www.asahi.com/articles/ASVCJ767LVCJUHBI039M.html?ref=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261117-04",
+   "title": "デパルデュー被告、有罪判決への控訴を取り下げ",
+   "firstSeen": "2026-11-17",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-17": 10
+   },
+   "peak": 10,
+   "worldScore": 10,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 10,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.71,
+     "title": "Gérard Depardieu drops appeal against sexual assault conviction",
+     "desc": "The French film star was due to start an appeal trial after being found guilty of sexually assaulting two women on a Paris set.",
+     "url": "https://www.bbc.co.uk/news/articles/cm20vexye1d0o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.53,
+     "title": "Gérard Depardieu drops appeal against sexual assault conviction",
+     "desc": "French actor apologises to two women he was convicted of assaulting on a film set in 2021 The French actor Gérard Depardieu has dropped his appeal against a conviction for sexually assaulting two women on a film set, and has for the first time apologised to the victims. “I was found guilty. I hear it and I accept this conviction,” Depardieu, 77, said in a written statement. “I address my deep and sincere apologies to those who suffered.” Continue reading...",
+     "url": "https://www.theguardian.com/film/2026/nov/16/gerard-depardieu-drops-appeal-against-sexual-assault-conviction",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "French film star Depardieu drops appeal against sexual conviction",
+     "desc": "French film star Gérard Depardieu on Monday dropped his appeal against a conviction for sexually assaulting two women during the filming of a movie in 2021 and issued \"sincere apologies\" for his past behaviour on set. \"For a long time on film sets, I hid behind provocation and ribald humour,\" Depardieu, 77, said in the statement, withdrawing his appeal on the day it was set to go to trial. \"I believed my remarks and some of my gestures would be without consequences\" for those involved, he said. \"They were not, particularly coming from a powerful figure such as I once was.\"",
+     "url": "https://www.france24.com/en/video/20261116-french-film-star-depardieu-drops-appeal-against-sexual-conviction",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261117-25",
+   "title": "英首相バーナム氏、EUとの関係再構築を表明",
+   "firstSeen": "2026-11-17",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-17": 10
+   },
+   "peak": 10,
+   "worldScore": 10,
+   "worldCoverage": "4/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 10,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.34,
+     "title": "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
+     "desc": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
+     "url": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.48,
+     "title": "Andy Burnham to say Brexit ‘has not worked’ and he will sign new deal with EU",
+     "desc": "PM to meet European leaders at summit this week aiming to secure agreements that ‘could raise GDP by 0.4%’ Andy Burnham will say on Monday that Brexit “has not worked” and that he will sign a new deal with the EU. It is the latest in a string of comments by the prime minister criticising Brexit, after he told the Welsh Labour conference on Saturday that the UK has “lost more than we gained” through leaving the EU. Is consistent with the Labour manifesto and the government’s red lines. It improves the Brexit deal and brings it closer to what people thought they were voting for in 2016. And it p",
+     "url": "https://www.theguardian.com/politics/2026/nov/16/andy-burnham-brexit-has-not-worked-sign-new-deal-with-eu",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "UK PM Andy Burnham says Brexit has not worked ahead of a reset summit with the EU",
+     "desc": "UK Prime Minister Andy Burnham said on Monday that it is time to admit that Brexit has not delivered for the UK and that the country needs a much closer relationship with the European Union to combat growing isolationism around the world. He compared the outcome of Britain’s divorce from the EU, triggered by a 2016 referendum, to the Hans Christian Andersen fairy tale The Emperor’s New Clothes, in which no one is willing to tell the ruler that he is, in fact, naked. “Well, I do try to say things...",
+     "url": "https://www.scmp.com/news/world/europe/article/3374654/uk-pm-andy-burnham-says-brexit-has-not-worked-ahead-reset-summit-eu",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Brexit the sequel? Leave voices reorganise as Burnham chases EU reset",
+     "desc": "Burnham said Britain has lost more than it had gained since leaving the bloc.",
+     "url": "https://www.straitstimes.com/world/europe/brexit-the-sequel-leave-voices-reorganise-as-burnham-chases-eu-reset",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261117-09",
+   "title": "カリフォルニア州、オープンAIを提訴",
+   "firstSeen": "2026-11-17",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-17": 8
+   },
+   "peak": 8,
+   "worldScore": 8,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 8,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "California files lawsuit against OpenAI alleging lack of proper safeguards",
+     "desc": "Attorney General Rob Bonta says Hugging Face attack was &#039;entirely predictable&#039; result of emphasis on rapid growth.",
+     "url": "https://www.aljazeera.com/news/2026/11/16/california-files-lawsuit-against-openai-alleging-lack-of-proper-safeguards?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Rogue AI: California sues OpenAI over \"Hugging Face\" and other cyberattacks",
+     "desc": "The US state of California has filed a lawsuit against OpenAI over the \"Hugging Face\" and other cyberattacks, accusing the ChatGPT maker of knowingly testing dangerous advanced AI models without adequate safeguard. Meanwhile, the US Commerce Department has tightened rules over the export of US technology, aiming to close a loophole around remote access to advanced AI chips.",
+     "url": "https://www.france24.com/en/tv-shows/business/20261116-rogue-ai-california-sues-openai-over-hugging-face-and-other-cyberattacks",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "California sues OpenAI over AI models’ cyberattacks on Hugging Face, other companies - Reuters",
+     "desc": "California sues OpenAI over AI models’ cyberattacks on Hugging Face, other companies Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUnZpbWVjMld3R0NVUjRwT1ZIZW04eFJwYVYzNzUzUi1pckdSQmJiZkh5MnNWeHlnX2ZDVUtBVGU5emdtV3hweWlENDBqeXFoTThlSWhTY0pNRURXbFBmOWRySmkwOGxFZGlPQW9qekNhVzB2bW1SQW1rbU52M01vRTc2M0V3Zktfb00xNE04NElpSTU3c2RXTlVZT3JPYkdSRkFqRUpVSmhvZ0JtcHM5LURPN2hXWDZ5Mk1HVkVZQW5Cdw?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261117-13",
+   "title": "マムダニNY市長、警察部隊の解散を発表",
+   "firstSeen": "2026-11-17",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-17": 8
+   },
+   "peak": 8,
+   "worldScore": 8,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 8,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Mamdani to disband NYPD unit deployed at Columbia protests",
+     "desc": "New York City Mayor Zohran Mamdani says he is disbanding the NYPD’s Strategic Response Group or SRG.",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/mamdani-to-disband-nypd-unit-deployed-at-columbia-protests?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "New York Mayor Mamdani disbands ‘notorious’ police unit that used excessive force on protesters",
+     "desc": "Mamdani said he is creating a new civilian-led group, whose members would be unarmed and would not have arrest powers.",
+     "url": "https://www.straitstimes.com/world/united-states/new-york-mayor-mamdani-disbands-notorious-police-unit-that-used-excessive-force-on-protesters",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "New York Mayor Mamdani disbands 'notorious' police unit that used excessive force on protesters - Reuters",
+     "desc": "New York Mayor Mamdani disbands 'notorious' police unit that used excessive force on protesters Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa2JsVlhpeXA3WlV6djZ6N3BGTlYxdE1MZjJfUjZ0QjQwckZZZVFURkhkSzYzTDMxMHZHRlY1WFJoT2JCRTBhbTRwQlQzN0Q3WkliTS03T2d6blB5cDdVeFFYcjhFbzBqUG83WkFqdjU1M3JPbWF4RjNDWUtEMkxfT1M2SF91T2dFQ0JxQjVWZGlmRC1kVmMxQVUxRzVaYnFkbi01LTlrdzBGYkVaWkhiSTEzWFFOQmJNUm53dFRsT1M5QQ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261117-14",
+   "title": "ルペン氏、ウクライナ支援への姿勢に言及",
+   "firstSeen": "2026-11-17",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-17": 8
+   },
+   "peak": 8,
+   "worldScore": 8,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 8,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "France can no longer support Kyiv 'financially,' Le Pen tells Ukrainian ambassador",
+     "desc": "The National Rally party's stance on Ukraine has come under increasing scrutiny over its pledges to withdraw financial aid and questions over historical ties to Russia.",
+     "url": "https://www.euronews.com/2026/11/16/france-can-no-longer-support-kyiv-financially-le-pen-tells-ukrainian-ambassador",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Le Pen says France will keep giving Ukraine aid if she is elected",
+     "desc": "PARIS, Nov 16 - French far-right leader Marine Le Pen said on Monday that France would continue to give Ukraine material and humanitarian assistance if she is elected president next spring.",
+     "url": "https://www.straitstimes.com/world/europe/le-pen-says-france-will-keep-giving-ukraine-aid-if-she-is-elected",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Le Pen says France will keep giving Ukraine aid if she is elected - Reuters",
+     "desc": "Le Pen says France will keep giving Ukraine aid if she is elected Reuters",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbnY1dHJyUUt2WXptNzV2UFR5WXNVVWF5alZUcVdJLTFIOVcyLUcwNUpVQy0ySzA4cWd1QnBmYzJkaUw5SENRRGpzR3BlQ3B1VFJtU1JvdmdoSmotYTMyVmlwUmhsenIwY21SeXVsTF9yRUoxdV9jVmx6UTk2SDgwYTNNa2IycS1ZV0tveTJReUI2VEhVZUhxMVlaOXVvRi1MZzc2dWhFUnhPanZx?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261117-30",
+   "title": "豪財務相、中間予算で歳出削減を示唆",
+   "firstSeen": "2026-11-17",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-17": 8
+   },
+   "peak": 8,
+   "worldScore": 8,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 8,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.62,
+     "title": "Mid-year budget update will ‘cut enough, but not too much’, Jim Chalmers says",
+     "desc": "Under growing pressure to sell government’s strategy, treasurer says Myefo will ‘help ease immediate capacity pressures without putting growth at risk’ Get our breaking news email , free app or daily news podcast Jim Chalmers has promised next month’s mid-year budget update “will cut enough, but not too much”, as he flagged “substantial savings” to help in the fight against inflation. The treasurer has come under growing pressure to sell the government’s economic strategy after five interest rate hikes , and amid rising unemployment and cost-of-living pressures. Continue reading...",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/17/myefo-mid-year-budget-update-australia-treasurer-jim-chalmers",
+     "via": null
+    },
+    {
+     "id": "abc-au",
+     "name": "ABC Australia",
+     "region": "world",
+     "weight": 0.85,
+     "title": "Chalmers says spending will be cut in mid-year update 'but not too much'",
+     "desc": "Treasurer Jim Chalmers confirms a \"substantial\" package of savings in the mid-year budget update, which will be delivered in December.",
+     "url": "https://www.abc.net.au/news/2026-11-17/chalmers-says-mid-year-budget-update-to-contain-cuts/107393416",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261116-01",
+   "title": "イラン、バーレーンの米軍基地にドローン攻撃",
+   "firstSeen": "2026-11-16",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-16": 31,
+    "2026-11-17": 7
+   },
+   "peak": 31,
+   "worldScore": 7,
+   "worldCoverage": "3/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 7,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.33,
+     "title": "Iran launches drone attacks against US military base in Bahrain",
+     "desc": "Strikes cast further doubt on peace talks between Tehran and Washington with increasing risk of escalation Iran has launched drone attacks against a US military base in Bahrain, casting further doubt on peace talks between Tehran and Washington and raising the spectre of escalation. Blasts sounded over the Gulf nation on Sunday in the second Iranian drone attack in three days in retaliation for US strikes in Iran. Continue reading...",
+     "url": "https://www.theguardian.com/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.42,
+     "title": "Iran Attacks Bahrain for the Second Time in Days",
+     "desc": "The resumption of attacks after a two-month lull comes as peace talks between the U.S. and Iran appear to have stalled.",
+     "url": "https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Bahrain says it intercepted Iranian strikes, Tehran targets U.S. assets",
+     "desc": "The attacks come after the U.S. carried out minor strikes on Iran&#039;s Qeshm island in recent weeks.",
+     "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-nuclear-material-no-deal/",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261116-12",
+   "title": "韓国税理士試験、首位合格者がAI不正認める",
+   "firstSeen": "2026-11-16",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-16": 17,
+    "2026-11-17": 7
+   },
+   "peak": 17,
+   "worldScore": 7,
+   "worldCoverage": "2/18",
+   "jpScore": 7,
+   "jpCoverage": "1/6",
+   "gap": 0,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.74,
+     "title": "160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating",
+     "desc": "Fears for national college entrance exam next week as test taker admits sending photos of questions to AI tool The marks attained by the top scorer ⁠on South Korea’s national exam for aspiring tax accountants this year seemed too good to be true. On Sunday, sceptics were ⁠proven right when he ⁠confessed to ​using generative AI to cheat. The scandal has followed months of speculation after he scored near-perfect marks on hundreds of questions over two exams ⁠taken in April and July. It has also raised the stakes for organisers of South Korea’s annual college entrance exam this Thursday. Continu",
+     "url": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "AI cheating fears spook South Korea before high-stakes college entrance exam later this week - AP News",
+     "desc": "AI cheating fears spook South Korea before high-stakes college entrance exam later this week AP News",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTGplSkhGeTJ3YnFIQkF5S21vemk1MFNZaGx1SmpvWmtVajFhdGw5REpGSGVJSWJ0a1pzTjEzWnV2WDRDVHNQbzdNc0tpODVfYThGXzNNZmxYbVAyMm5QYWJudkVmMUJKUnhfSHMtQ3d1dVFuZnRhcllkUkJvbHJLR2p1ODBlMjdmWmhIUExJNU5lOE13N0piMjZPeXhYQUtRUWNadUdxVFo?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.42,
+     "title": "税理士試験トップ合格者が不正 YouTubeで認め謝罪 韓国(ABEMA TIMES)",
+     "desc": "韓国で税理士試験をトップ成績で合格した男性が、「AIを使った不正行為だった」と認めました。【映像】税理士試験トップ合格の男性がAI不正を認める 男性は15日、代理人弁護士のYouTubeチャンネルに出",
+     "url": "https://news.yahoo.co.jp/articles/6e96e943227195eb7a756e2455843f8c16650aca?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261111-32",
+   "title": "カーニー首相、習近平氏と会談へ",
+   "firstSeen": "2026-11-11",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-11": 8,
+    "2026-11-17": 7
+   },
+   "peak": 8,
+   "worldScore": 7,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 7,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.8,
+     "title": "Canada could work with Chinese automakers if US trade talks fail, says Carney",
+     "desc": "Ahead of Apec summit, PM says ‘Canada is going to move forward either way’ when asked if Chinese investment was leverage in US negotiations The prime minister of Canada, Mark Carney, said the country could turn to Chinese automakers if trade negotiations with the US president, Donald Trump, failed to preserve an integrated North American auto industry. Carney’s comments in Cambodia on Monday came ahead of a planned meeting with Chinese leader Xi Jinping this week in Shenzhen, China, where auto manufacturing is expected to be discussed. The two leaders reached an agreement in January allowing t",
+     "url": "https://www.theguardian.com/world/2026/nov/16/canada-carney-cars-evs-tariffs-xi-jinping-china-trump-trade-talks",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Carney to meet Xi on Tuesday to talk food, energy and financial services",
+     "desc": "OTTAWA, Nov 16 - Canada's Prime Minister Mark Carney will meet with Chinese President Xi Jinping on Tuesday ahead of the Asia-Pacific Economic Cooperation (APEC) meeting, seeking to deepen ties on food, energy and financial services.",
+     "url": "https://www.straitstimes.com/world/carney-to-meet-xi-on-tuesday-to-talk-food-energy-and-financial-services",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261117-05",
+   "title": "教皇、ペルーでロザリオが目に当たる",
+   "firstSeen": "2026-11-17",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-17": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Pope Leo XIV struck in eye by rosary during tour of South America",
+     "desc": "The pontiff was able to continue with his schedule and appeared to be uninjured. Leo's tour of South America has also seen him visit Uruguay and Argentina and came just weeks after he underwent lung cancer surgery in Rome.",
+     "url": "https://www.euronews.com/2026/11/16/pope-leo-xiv-struck-in-eye-by-rosary-during-tour-of-south-america",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Pope Leo misses the catch as rosary from crowd hits his eye in Peru - Reuters",
+     "desc": "Pope Leo misses the catch as rosary from crowd hits his eye in Peru Reuters",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPd2FLd3hqa2NhZzVyWkNPMXhZWlZ0NGZzcUJoNmlOOGlCSnNtVXlfbGgwdWxYb0hpbWVCc1dtLTc2Mmt0MzJTUjRkRVpqWWNBa1g1bV9JYmU1N19XSDk0eVk3elJOY0p6cWZnSVpMd2JSajNZRHR4THJ0MjZSVkFXM1NZdE1RVmhONGhHVUNidG5USmxNbUVBRHFHZnh2VWJ1NlIyVVp3?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261103-35",
+   "title": "トランプ氏の支持率、32%で過去最低付近",
+   "firstSeen": "2026-11-03",
+   "daysSeen": 3,
+   "history": {
+    "2026-11-03": 11,
+    "2026-11-10": 6,
+    "2026-11-17": 6
+   },
+   "peak": 11,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump approval holds near career low at 32%, Reuters/Ipsos poll finds",
+     "desc": "The president's popularity tumbled after the US war with Iran, which sent fuel prices soaring.",
+     "url": "https://www.straitstimes.com/world/united-states/trump-approval-holds-near-career-low-at-32-reutersipsos-poll-finds",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump approval holds near career low at 32%, Reuters/Ipsos poll finds - Reuters",
+     "desc": "Trump approval holds near career low at 32%, Reuters/Ipsos poll finds Reuters",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRUpsOFJNT0Q1TUExNXF1cUJ6b1ExaTFpTFptdnluUVRMR1RvNDFkQlpLa3ZxeUxRM0kxOEJyQVJkeTJIOHBxTjhlQ05nUmp6dVQ2emVBclZ3TTJLbERHeUpRTkIwMmFLaG1VeVA1UU91Yk5UZFFaU2dZVFFCNzY1RXNTRjFCTHhpRGhWQksxQndNNHZZT1hGX1RQMGtVS25GNGQ4T2VmOHZmSHNl?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261116-23",
+   "title": "ウクライナ、NATO加盟と引き換えの割譲案",
+   "firstSeen": "2026-11-16",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-16": 12,
+    "2026-11-17": 6
+   },
+   "peak": 12,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Should Ukraine trade Donbas for NATO membership?",
+     "desc": "President Volodymyr Zelensky asserting that the United States has asked him about a straight-up swap Russia gets the Donbas, the rest of Ukraine gets NATO membership, a guarantee against Moscow later having a second go and annexing the entire country. Whether or not the offer’s real, serious or that either side would accept it. We’ll ask if the talk of partition signals some kind of turning point in a nearly five-year war that's also a brutal stalemate.",
+     "url": "https://www.france24.com/en/tv-shows/the-debate/20261116-should-ukraine-trade-donbas-for-nato-membership",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "U.S. reportedly floated trading Ukrainian land for NATO membership",
+     "desc": "The Ukrainian president said he would put the question of a potential exchange to the people if certain guarantees were in place.",
+     "url": "https://www.cbsnews.com/news/ukraine-russia-war-nato-us-donbas/",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261117-08",
+   "title": "米AI株・ハイテク株が急落、NVIDIA主導",
+   "firstSeen": "2026-11-17",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-17": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 17,
+   "jpCoverage": "2/6",
+   "gap": -11,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Stocks tumble on Wall Street as Nvidia leads another sell-off in technology companies - AP News",
+     "desc": "Stocks tumble on Wall Street as Nvidia leads another sell-off in technology companies AP News",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYXdFLTA2eFh1c1k5N2ZnWnBXdkpYX3ZzMkNaUC03SjBXeDlVcHplSm1fUnRnVzJsaGhFb0I2eHp2Si1uaTNRaEotekFyYlZYRVlxdzNydUhEaXZaa0c5dW1ybEp5T2wyWUN2eVhGaTdpdVV5bkRuRDJxQVd0X2wySmFhQXNiaWROVmRJRXdIRDVtSC1CN3c?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Asian Stocks to Fall Ahead of Nvidia, Anthropic: Markets Wrap - Bloomberg.com",
+     "desc": "Asian Stocks to Fall Ahead of Nvidia, Anthropic: Markets Wrap Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSHFoREFNUWJRYTJxR0pTRnpHM2Q1NlhjQ1pjN0w3U1FWM09sclNuMlVNLWx4YXF0TURpOEdtSk9sc3BXTEpBakhLd21neWhod2pvZ1hRNVAtZWxNTlZmUXl4TXNJQ0MyTTFqa0tpRGVmOVpQZlRidlZzYkFLYnlNSXduLUtPSXo3QUJ0aVhlM0xWVFNh?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "ＮＹ株大幅反落、７３９ドル安 エヌビディア混乱でリスク回避",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026111700183&g=int&m=rss",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "日経平均、米AI株安が重荷 NVIDIA決算控え様子見（先読み株式相場） - 日本経済新聞",
+     "desc": "日経平均、米AI株安が重荷 NVIDIA決算控え様子見（先読み株式相場） 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14SXVmVnlhcWFrUTdjd2hYMTNhX2VlQjNYZGpDdVhWbDFsSWdKMnZFeG5mZ3hxWlBKUnBYQlZNNjBFR0kzS3F1R3RRTFh1SmpGTm1sanozRWlFamQ1Y0NXQThnbFBIUFptVF9kQQ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261117-15",
+   "title": "ブルガリア沖で貨物船転覆、ドローン攻撃の疑い",
+   "firstSeen": "2026-11-17",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-17": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Cargo ship capsizes off Bulgaria’s Black Sea coast",
+     "desc": "Bulgaria&#039;s Transport Ministry says that all 12 of the ship&#039;s crew members were saved in a rescue operation.",
+     "url": "https://www.aljazeera.com/news/2026/11/16/cargo-ship-capsizes-off-bulgarias-black-sea-coast?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "12 crew members rescued after cargo ship capsizes off Bulgaria following suspected drone strike",
+     "desc": "All 12 crew members working on board the vessel were rescued and were being flown by helicopter to Bulgaria's Chaika air base, according to authorities.",
+     "url": "https://www.euronews.com/2026/11/16/12-crew-members-rescued-after-cargo-ship-capsizes-off-bulgaria-following-suspected-drone-s",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261116-04",
+   "title": "チェコで公共メディア財源案に抗議デモ",
+   "firstSeen": "2026-11-16",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-16": 27,
+    "2026-11-17": 6
+   },
+   "peak": 27,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Czech mass protests: Media is the first casualty 'when you want to attack democracy'",
+     "desc": "As hundreds of thousands of people gather in Prague to protest the Czech government's proposal to replace public broadcasting licence fees with direct state funding, Delano D'Souza is pleased to welcome Bára Stárek, Executive Director of Díky, že můžem. Stárek warns that the proposed changes offer \"no real safeguards\" against political influence, pointing to developments in Slovakia and Hungary. She also drew a parallel with the Velvet Revolution of 1989, recalling that \"we didn't have a free media and we only had a state media\" under communist rule. \"Media is the first (line of) attack when y",
+     "url": "https://www.france24.com/en/czech-mass-protests-media-is-the-first-casualty-when-you-want-to-attack-democracy",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Czechs gather in big numbers to reject government's plan to overhaul funding of public media - AP News",
+     "desc": "Czechs gather in big numbers to reject government's plan to overhaul funding of public media AP News",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbWotSHY0d2pGeVpPN3VPNk4wbzJ6a3VZSVBFSWRpdm0yRG1DZ1IyUlhfOVVzeWxmWjVzeWlEYnZ3TzIyWkY2ejNKOFRLY010dWdGSVJiYkhaUXl6OWRDcDMzRXRGaDl1UW1mN0kxRmY2eFRONHVZSk51cEhGVXNlX2IxSEUwQ2FOVGQ3d014TURKMlBlUWp3?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261117-17",
+   "title": "ウォーシュFRB議長、AIが成長を支えると発言",
+   "firstSeen": "2026-11-17",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-17": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Fed's Warsh says emerging technologies to have 'significant impact,' but there are risks - Reuters",
+     "desc": "Fed's Warsh says emerging technologies to have 'significant impact,' but there are risks Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQjBEWTRZekl4NlZXbUFpUW93VUNEU3JOUkVnZFk5VDAyRFBNRXYyTGNCREVZRFNEd2JEdWY4VmxsUGtxdnAwQnhZSlFiX3p2WWRHVU1iS1dIbXpDel8waEpsT25wdjFhTHlPNG8xMnJWdHdtc09aMnBDa2I5MGN3SkVjendsRWFOTUxvdnZrMmFKdDN6RmV3OXRISEdERjhuSEpDYmQ4dkVldmx2dENTcGRZR0NuVk9xYk85OTJCVmRteEk?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Fed chair Kevin Warsh says AI boom could help sustain ‘substantially higher’ US growth - Financial Times",
+     "desc": "Fed chair Kevin Warsh says AI boom could help sustain ‘substantially higher’ US growth Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPX3h5VmhlVnFXRnoyYTFyd2dVbDhrRlNKT1gzNEoxQ01CQ1hJYW53UXRDMkhnUndZX21zWGpMaHNDZ2FIUHl2TGdpX2N1emdJY19jZmY3RzZjdnQwTUswbldMLS1pOUQ2d2ZiNjFDbVU5elc2elN5OTVYZGFyYXBnQVBiZzM?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261117-18",
+   "title": "シェブロン、約50億ドルの油田企業買収へ",
+   "firstSeen": "2026-11-17",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-17": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Chevron closes in on $5 billion Beacon deal, FT reports - Reuters",
+     "desc": "Chevron closes in on $5 billion Beacon deal, FT reports Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUEpxd1RzMXA1S24yQjZNaHhac1FuaExxWG9qcXR2VW8xMXdhWXcyV0RwZmU3TV9qaVk4TmNtVmRMa0syb19oT1JrS25iNzlBeEFsTWJaUjgzYzBYRHNyakJjY1Q1ckRQTkd3YmlZdDAzRzZDZm9yQjlVa2xaVXJySDl1cy12bjRGWWJwRjlMek5IdUVDaGZYcW93Rjk0RTBNbkhnaC1TaUs1bXJHOUhwd3JzRWFwZ3VDbXY0?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Chevron nears $5bn deal for Blackstone-backed oil producer in US Gulf - Financial Times",
+     "desc": "Chevron nears $5bn deal for Blackstone-backed oil producer in US Gulf Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTF9WemdwMmpZRlpib2p6V0pGeEs4ZXBzb3c0bU4yUnBORGp4cWt6OFdSY1VNNkIwLUVFN3pqdlFtQTg4aDh4ZEJuclJLSW52MmNZcHFlcU9XRlJqdGJYRkdJeTJwSU9Td2k1blQzTGJqSUttTF9JSnlZejU0VmlKWk5WSVk?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261117-19",
+   "title": "トランプ・メディア、10億ドル返済の可能性",
+   "firstSeen": "2026-11-17",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-17": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump Media faces possible US$1 billion debt repayment as stock nears record lows",
+     "desc": "Trump Media & Technology Group faces a possible US$1 ⁠billion cash demand ⁠from convertible debt holders this ⁠month, putting pressure on the Truth Social parent as its shares trade near record lows and more than half its assets are digital assets. The US$1 billion in convertible ‌notes, issued in May 2025, mature in 2028, but holders can demand cash repayment on November 30, according to company filings. The notes convert into shares at US$34.72, well above the current price. Trump Media shares...",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3374645/trump-media-faces-possible-us1-billion-debt-repayment-stock-nears-record-lows",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump Media faces possible $1 billion debt repayment as stock nears record lows - Reuters",
+     "desc": "Trump Media faces possible $1 billion debt repayment as stock nears record lows Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMElzZFpVRVdZdFB2WFY3NjVyRVUzeHhWcDE5WGZoR3BjRXhkbUZJMkhYdF9Cb2t6X3YyVEltQ1VwZ3JfbHdtbTRLX1dQWVdqTmFuYk1IaFczNUJVelljOG83NjlRZXFsaGJtUE45YlF6VFJEVjZtNTBlcDRRN3hJRi1Ycy1EM2tteDF0SGhSeGNJRlduVlNCRmtETzFnSlFCVjdTVmlhTHVZVThCdnUteUNycW1RdVdmaHpCUWJIRmNGb2pGaGZrSG1qQQ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261117-20",
+   "title": "MIT卒兄弟、暗号資産詐欺容疑で棄却",
+   "firstSeen": "2026-11-17",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-17": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US judge clears MIT-educated brothers of $25 million cryptocurrency heist charges - Reuters",
+     "desc": "US judge clears MIT-educated brothers of $25 million cryptocurrency heist charges Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdW1pNlZXMVNNRXJtVGFiRUhPUm0tWGFqeGt4Q1VwallIOGtKTGFiTlZGZnZCd2F5RldrQ2E0b0V0emF1TkFkOTh0Q1FOa3phejllUmhxZGpGUkhlUFJqUlhoSkNFUWR6ZVhhbmxiUDRENXJXTEFZS3ZVUzQ1clVybUVIUFBzTWNhejhxSURKeUVEa2RSaWNGd3czU1B4WWxmZ1R6QURmVWJLWWJIMkVlck5UVnRxY1luMlFXVFBqMVVmeWQ2clpvOGhn?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "MIT Brothers Cleared of Charges in $25 Million Crypto Case - Bloomberg.com",
+     "desc": "MIT Brothers Cleared of Charges in $25 Million Crypto Case Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPckIwQjFMRmlqWlZFcmx5WDBDRVVvai1rVEZRZjd1eE1ja3NjTHZ6M20wUU1Md1Y4SUpJbFVVTkJDSVhETnFSZ1pnMEx0S18tWEpMOHQ3Y1hKN0UtcW1GalROMFAtYzlUUy1iVUdISWxUY0ptRGhqYl9KdDZNMWVCMXV4THpFSGwwQnpBLUxnMmlJUFVPeDZ1a2lsQXBaZUhfLWRMUWJ5M1lGd2JaTXpKbGxBZw?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261117-22",
+   "title": "メキシコの麻薬王ガジャルド受刑者が死亡",
+   "firstSeen": "2026-11-17",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-17": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.53,
+     "title": "Miguel Ángel Félix Gallardo, Mexican Drug Lord, Dies in Prison",
+     "desc": "Miguel Ángel Félix Gallardo, who helped build the foundations of modern-day drug empires, was the subject of a major U.S. manhunt for his role in the murder of a D.E.A. agent.",
+     "url": "https://www.nytimes.com/2026/11/15/world/americas/felix-gallardo-mexico-dead.html",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Drug lord who orchestrated murder of U.S. agent dies at 80",
+     "desc": "Miguel Angel Felix Gallardo, the architect of modern Mexican drug trafficking, was known as \"the boss of bosses.\"",
+     "url": "https://www.cbsnews.com/news/miguel-angel-felix-gallardo-dies-drug-lord-behind-us-agent-murder-age-80/",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261117-23",
+   "title": "ブランド事件、英で同意年齢法の見直し論",
+   "firstSeen": "2026-11-17",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-17": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Russell Brand investigated over ‘appalling’ message from jail, Downing Street says",
+     "desc": "A message from disgraced comedian Russell Brand on social media after he was jailed for rape and sexual assault was “appalling” and being investigated, a spokesperson for the UK prime minister said on Monday. Brand’s wife Laura Gallacher read out the message in which he protested his innocence in a video uploaded to their YouTube channel on Sunday. The 51-year-old comedian and actor turned conservative, religious online guru, was sentenced to 10-and-a-half years in prison last week for one rape...",
+     "url": "https://www.scmp.com/news/world/europe/article/3374646/russell-brand-investigated-over-appalling-message-jail-downing-street-says",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "U.K. mulls changing sexual consent laws after Russell Brand case",
+     "desc": "Britain&#039;s government will consider adopting staggered ages for sexual consent in the wake of \"appalling\" stories of \"abuse of power by powerful men.\"",
+     "url": "https://www.cbsnews.com/news/russell-brand-rape-uk-sexual-consent-age-possible-law-change/",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261117-31",
+   "title": "豪政府、ワーキングホリデー制度を修正",
+   "firstSeen": "2026-11-17",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-17": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/18",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.71,
+     "title": "Labor policy backflip will allow more backpackers to work in regional Australia",
+     "desc": "Number of people allowed to stay for third year on holiday maker visa to be increased from 5,000 to 25,000 under revised plan Get our breaking news email , free app or daily news podcast The federal government has backpedaled on its plan to cut backpacker numbers, arguing the change is the “best possible outcome” for regional industries who had criticised the crackdown because they rely on travellers for labour. On Tuesday, the Albanese government announced it would lift the proposed cap on third-year working holiday visas, boost regional work requirements and delay the start of a new ballot s",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/17/labor-backpacker-policy-backflip-work-regional-australia-holiday-visas",
+     "via": null
+    },
+    {
+     "id": "abc-au",
+     "name": "ABC Australia",
+     "region": "world",
+     "weight": 0.42,
+     "title": "Live: Backpacker visa changes to be altered following backlash",
+     "desc": "The federal government has announced further changes to the backpacker visa scheme following a backlash from regional Australia. Follow live.",
+     "url": "https://www.abc.net.au/news/2026-11-17/federal-politics-live-blog-senate-albanese-/107391106",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261027-01",
+   "title": "アンソロピック、上場を巡る動き",
+   "firstSeen": "2026-10-27",
+   "daysSeen": 9,
+   "history": {
+    "2026-10-27": 25,
+    "2026-10-28": 3,
+    "2026-10-31": 3,
+    "2026-11-03": 11,
+    "2026-11-04": 3,
+    "2026-11-11": 14,
+    "2026-11-12": 6,
+    "2026-11-16": 6,
+    "2026-11-17": 3
+   },
+   "peak": 25,
+   "worldScore": 3,
+   "worldCoverage": "1/18",
+   "jpScore": 8,
+   "jpCoverage": "1/6",
+   "gap": -5,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Anthropic Faces a Longer Wait Than SpaceX to Join Stock Indexes - Bloomberg.com",
+     "desc": "Anthropic Faces a Longer Wait Than SpaceX to Join Stock Indexes Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTVhxVzJmTGluQ2c1ZF9WS1hEUDhRcUpOazlVTnd1eDJoWW0xV291ejdCQ1pWdndCQ0wyRjAtS3lQY3g4SlNUUUpBWXNISmhva1l4Yjk5dU0wRDFDTi00YTBBYThzaWxrY1A3cHphLXlTVUk5azJCa0h5UXB4V1NsX21GZndDcUxNeTFtNHRpSjVaTEJfaEIyV1JtRmlyM2dJRjJTWUQtbFR0U004cnUxbnBhUVk?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "アンソロピックのすべて AIの新たな旗手、平均38歳「創業者セブン」 - 日本経済新聞",
+     "desc": "アンソロピックのすべて AIの新たな旗手、平均38歳「創業者セブン」 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wS2NrME9lUUVZaU9PQjE5bGhpeGVjYVZTMkdEZ3JpUTFXN1B6bU85SHdqMkdMVjBGLWVRcmJRckdLdVhQdm5iTmlHYkYtZE52Mm1GVkNRVEhTcjUxOUYzLVFFbVpjVC1INmdaYw?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261117-16",
+   "title": "テスラ、ドイツ工場に新棟 サイバーキャブ生産",
+   "firstSeen": "2026-11-17",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-17": 3
+   },
+   "peak": 3,
+   "worldScore": 3,
+   "worldCoverage": "1/18",
+   "jpScore": 8,
+   "jpCoverage": "1/6",
+   "gap": -5,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Tesla plans $3.3 billion Cybercab boost for Germany's troubled auto sector - Reuters",
+     "desc": "Tesla plans $3.3 billion Cybercab boost for Germany's troubled auto sector Reuters",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaHd0RC1iZmQwWUtkTl9CYjJVMUhGYmtxNEZyQU92Rm5mZS1OZ0Z2bHl6TmJuLUFJYWpQUW5GQ1h2anVqSHR5TDF3aThnaWhDd3lDYl9oY3VqbTVLaUMwMGtSME5IckZnZE5PQVhURTNPQ1BaS2tBejl6OU15X1B1N3VOM0o3dktRbnpLSjc1eWI5WWs4bjZqNnFOOA?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "テスラ、独工場に5300億円で新棟 自動運転車「サイバーキャブ」生産 - 日本経済新聞",
+     "desc": "テスラ、独工場に5300億円で新棟 自動運転車「サイバーキャブ」生産 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VMEdQb2dCSU9OdDZXRUJONWR4Ui1DQ2ZycEZvcnlvVHVJeVJLNnM4WDhJR0NsR1VmbkJqS2VTX2MxQTFzaFo0Y0VXUkhlNkFCZ2MzVGNEWWlocF9SblRNbEoyalNpbzNULTEyWA?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261117-26",
+   "title": "7〜9月期GDP、1年ぶりマイナス成長",
+   "firstSeen": "2026-11-17",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-17": 3
+   },
+   "peak": 3,
+   "worldScore": 3,
+   "worldCoverage": "1/18",
+   "jpScore": 9,
+   "jpCoverage": "1/6",
+   "gap": -6,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Japan’s economy contracts slightly in the latest quarter as oil prices remain high - AP News",
+     "desc": "Japan’s economy contracts slightly in the latest quarter as oil prices remain high AP News",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQa24tRTMxWGhOWk03aC1adk9iUmNGUmtYQURyQXo0NU9yRWUzQlJkYWVKVXJkcmIzSUtpWkZpX2pHTk16MGxKUWdPclB5NkI5aFF5eHNwQXR0a0xSQ01KSmkyMjYzXzg5Y25zRmFYaDJYNXU5MDF2R0wyS04tYklWSlE4Qkt2MVJ6NDA1cGp3cGFCR0ZTcEJOUHVHdFR1NVA0UmUw?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "asahi",
+     "name": "朝日新聞",
+     "region": "jp",
+     "weight": 0.53,
+     "title": "7～9月期GDP、1年ぶりマイナス成長 個人消費に弱さ",
+     "desc": "",
+     "url": "http://www.asahi.com/articles/ASVCJ048GVCJULFA01MM.html?ref=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261117-07",
+   "title": "APECで日ロ首脳会談の可能性、ロシア側",
+   "firstSeen": "2026-11-17",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-17": 0
+   },
+   "peak": 0,
+   "worldScore": 0,
+   "worldCoverage": "0/18",
+   "jpScore": 18,
+   "jpCoverage": "2/6",
+   "gap": -18,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "mainichi",
+     "name": "毎日新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "APECで日露首脳の接触可能性「否定できない」 ロシア報道官",
+     "desc": "",
+     "url": "https://mainichi.jp/articles/20261117/k00/00m/030/012000c",
+     "via": null
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.56,
+     "title": "ロシア、APEC首脳会議での日露首脳対面会談「排除せず」 実現なら2019年以来(産経新聞)",
+     "desc": "ロシアのペスコフ大統領報道官は16日、中国南部・深圳で18、19日に開かれるアジア太平洋経済協力会議（APEC）首脳会議に合わせ、プーチン露大統領と高市早苗首相が会談する可能性を「排除しない」と述べた",
+     "url": "https://news.yahoo.co.jp/articles/697fdfddab44aecabdea645140e2e9ead015dfb8?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261110-36",
+   "title": "安保3文書改定、有事への社会全体の備え",
+   "firstSeen": "2026-11-10",
+   "daysSeen": 4,
+   "history": {
+    "2026-11-10": 0,
+    "2026-11-11": 0,
+    "2026-11-12": 0,
+    "2026-11-17": 0
+   },
+   "peak": 0,
+   "worldScore": 0,
+   "worldCoverage": "0/18",
+   "jpScore": 24,
+   "jpCoverage": "3/6",
+   "gap": -24,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "asahi",
+     "name": "朝日新聞",
+     "region": "jp",
+     "weight": 0.42,
+     "title": "社会全体で備え、国民理解促す広報も 識者「総力戦体制の現代版か」",
+     "desc": "",
+     "url": "http://www.asahi.com/articles/ASVCJ3TV4VCJUTFK001M.html?ref=rss",
+     "via": null
+    },
+    {
+     "id": "mainichi",
+     "name": "毎日新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "激動期の安保:「駐屯地が標的」でぼやけた最新鋭長射程ミサイルの重要な課題",
+     "desc": "",
+     "url": "https://mainichi.jp/articles/20261114/k00/00m/010/187000c",
+     "via": null
+    },
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "政府、安保支援で新指針 ＯＤＡ・ＯＳＡを戦略運用―３文書改定踏まえ策定へ",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026111600511&g=pol&m=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261109-11",
+   "title": "消費減税、給付の対象と上限額の案",
+   "firstSeen": "2026-11-09",
+   "daysSeen": 3,
+   "history": {
+    "2026-11-09": 0,
+    "2026-11-12": 0,
+    "2026-11-17": 0
+   },
+   "peak": 0,
+   "worldScore": 0,
+   "worldCoverage": "0/18",
+   "jpScore": 17,
+   "jpCoverage": "2/6",
+   "gap": -17,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "mainichi",
+     "name": "毎日新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "「示されぬ」不満が影響？ 支持広がらぬ高市政権の消費減税法案",
+     "desc": "",
+     "url": "https://mainichi.jp/articles/20261115/k00/00m/010/107000c",
+     "via": null
+    },
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "給付イメージ、年収上限４５０万円 支援金３０００万人対象で―片山財務相",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026111600828&g=pol&m=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261117-27",
+   "title": "東京・中野で女性刺殺、男を逮捕",
+   "firstSeen": "2026-11-17",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-17": 0
+   },
+   "peak": 0,
+   "worldScore": 0,
+   "worldCoverage": "0/18",
+   "jpScore": 46,
+   "jpCoverage": "4/6",
+   "gap": -46,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "asahi",
+     "name": "朝日新聞",
+     "region": "jp",
+     "weight": 0.94,
+     "title": "東京・中野で女性が刺され死亡 逃走した男を強盗殺人未遂容疑で逮捕",
+     "desc": "",
+     "url": "http://www.asahi.com/articles/ASVCJ3VT4VCJUTIL01GM.html?ref=rss",
+     "via": null
+    },
+    {
+     "id": "mainichi",
+     "name": "毎日新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "逮捕の男性は店の客「冷たくあしらわれた」 中野で女性襲われ死亡",
+     "desc": "",
+     "url": "https://mainichi.jp/articles/20261116/k00/00m/040/239000c",
+     "via": null
+    },
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "女性働く飲食店の客か 逮捕の男、自ら１１０番も―中野強殺・警視庁",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026111700149&g=soc&m=rss",
+     "via": null
+    },
+    {
+     "id": "yahoo",
+     "name": "Yahoo!ニュース主要",
+     "region": "jp",
+     "weight": 0.8,
+     "title": "女性刺され死亡 雑に扱われたと男",
+     "desc": "",
+     "url": "https://news.yahoo.co.jp/pickup/6602858?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261117-28",
+   "title": "マンション短期転売に税上乗せ・規制を検討",
+   "firstSeen": "2026-11-17",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-17": 0
+   },
+   "peak": 0,
+   "worldScore": 0,
+   "worldCoverage": "0/18",
+   "jpScore": 17,
+   "jpCoverage": "2/6",
+   "gap": -17,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "asahi",
+     "name": "朝日新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "マンション「1年以内の投機取引」税率10％上乗せ検討 価格高騰で",
+     "desc": "",
+     "url": "http://www.asahi.com/articles/ASVCJ3DYSVCJULFA015M.html?ref=rss",
+     "via": null
+    },
+    {
+     "id": "mainichi",
+     "name": "毎日新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "投機目的どう抑制？マンションの短期転売規制、1年以内を対象に",
+     "desc": "",
+     "url": "https://mainichi.jp/articles/20261116/k00/00m/020/232000c",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261117-29",
+   "title": "EU、ロシア富豪女性らに制裁を追加",
+   "firstSeen": "2026-11-17",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-17": 0
+   },
+   "peak": 0,
+   "worldScore": 0,
+   "worldCoverage": "0/18",
+   "jpScore": 17,
+   "jpCoverage": "2/6",
+   "gap": -17,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "ＥＵ、「ロシアで最も裕福な女性」に制裁 １１３個人・団体を追加指定",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026111700215&g=int&m=rss",
+     "via": null
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.53,
+     "title": "「ロシア版アマゾン」創業者の高麗人女性実業家、EUの制裁対象リストに(中央日報日本語版)",
+     "desc": "欧州連合（EU）が「ロシア版アマゾン」と呼ばれるロシア最大の電子商取引企業ワイルドベリーズの創業者タチアナ・キム氏を制裁対象に指定した。キム氏は高麗人の実業家で、ワイルドベリーズと広告会社Russの合",
+     "url": "https://news.yahoo.co.jp/articles/09a7cfe0e2ec190c6e2e30236daa7c1533344e1f?source=rss",
+     "via": null
+    }
+   ]
+  }
+ ]
+}
