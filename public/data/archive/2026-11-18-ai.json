@@ -1,0 +1,988 @@
+{
+  "date": "2026-11-18",
+  "stream": "ai",
+  "title": "AI日報",
+  "generatedAt": "2026-11-18T00:08:11.754Z",
+  "model": "claude-haiku-5-5",
+  "editorialVersion": 13,
+  "categories": [
+    {
+      "id": "ai",
+      "label": "AI",
+      "desc": "AIモデル・AIサービス・AI企業の動向"
+    },
+    {
+      "id": "it",
+      "label": "IT",
+      "desc": "ソフトウェア開発・ネットサービス・セキュリティ・デバイス・通信（AIが主題のものは除く）"
+    },
+    {
+      "id": "science",
+      "label": "科学",
+      "desc": "研究成果・医療・宇宙・環境・エネルギー技術"
+    }
+  ],
+  "articles": [
+    {
+      "id": "549a77347d5e",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "headline": "OpenAI、GPT-6.2 AstraとSolを発表 高難度業務向けと日常業務向け",
+      "originalTitle": "Introducing GPT-6.2 Astra and Sol",
+      "outlet": "OpenAI",
+      "region": "overseas",
+      "category": "ai",
+      "score": 92,
+      "tier": "must",
+      "pubDate": "2026-11-17T17:45:00.000Z",
+      "body": null,
+      "summary": "OpenAIは、高難度の業務向けの新モデル「GPT-6.2 Astra」と、日常業務向けの効率型モデル「GPT-6.2 Sol」を発表した。両モデルは出力トークン（AIが生成する文字単位）を抑えながら難しい課題で高い成果を出し、利用上限の中でより多くの作業ができるとしている。企業や開発者が大規模に使える価格で高い性能を提供することも目指したという。\n\nAstraは、スライド、表計算、文書を業界の慣行やテンプレートに沿って作成する能力と、コーディングやフロントエンド作成の向上を特徴としている。複数段階の業務を評価する「Agents' Last Exam」では、前モデルのGPT-6 Astraより5.2ポイント高く、コストは3分の1未満だとしている。また、Claude Fable 5.2より5.5ポイント高く、コストは5%だとしている。法務業務を評価するHarvey LAB-AAでは、Claude Fable 5.2の2倍超の合格率だと主張している。\n\nAstraの API価格は、100万トークンあたり入力8ドル、出力40ドル、キャッシュ入力0.40ドルで、前モデルより20%安いという。Solは前モデルGPT-6.1 Solと同じ価格を維持した。Solはコード評価のFrontierCode 2.0で、Astraとの差が0.5ポイント以内で、コストは約5分の1だとしている。OpenAIの社内評価GDPval v2では、Astraが前モデルより6.2ポイント向上し、出力トークンは22%少なかったと説明している。\n\n安全面では、両モデルがサイバーセキュリティで同社の準備態勢枠組み（Preparedness Framework）の「Critical」基準、生物・化学分野で「High」基準に該当すると説明している。サイバー分野では悪用を防ぐため高リスクな支援を制限しており、その結果、脆弱性研究など正当な用途にも制約が及ぶとしている。Astraは、AI研究を加速する能力の「High」基準に達した外部公開モデルとして初めてだという。同社は研究環境の隔離を強め、研究作業を停止できる監視システムを整えたとしている。",
+      "sources": [
+        {
+          "outlet": "OpenAI",
+          "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+          "date": "2026-11-17",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "1b067a2c0ba6",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003275/",
+      "headline": "楽天証券、不正アクセスで最大1125万口座の顧客情報漏えいのおそれ",
+      "originalTitle": "楽天証券に不正アクセス、最大1125万口座のIDなど漏えいか 「テスト環境」の一部情報が流出のおそれ",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "it",
+      "score": 81,
+      "tier": "must",
+      "pubDate": "2026-11-17T10:57:46.000Z",
+      "body": null,
+      "summary": "楽天証券は11月17日、第三者による不正アクセスを受け、最大約1125万口座分の顧客情報が外部に漏えいした可能性があると発表した。対象にはログインIDなどが含まれる。このうち最大約447万口座分では、氏名や住所、年収、金融資産情報なども漏えいした恐れがあるという。\n\n漏えいの可能性があるのは、支店などを識別する部店コード、顧客コード、ログインIDである。最大447万口座分では、これらに加えて生年月日、電話番号、メールアドレス、勤務先や出金先口座の情報、顧客が申告した年収・金融資産、最終ログイン日などが対象となる。退会済みの顧客も含まれる。ログインIDは楽天IDとは異なるという。一方で、パスワードや暗証番号、取引時に使う各種情報の漏えいは確認していない。17日時点で、今回の事案に起因するとみられる不正アクセスや不正取引は見つかっていないという。\n\n同社によると、11月16日に一部システムへの不正アクセスの可能性を検知し、該当箇所へのアクセスを遮断した。その後の調査で、11日にテスト環境のシステムで管理していた情報の一部が外部に漏えいした恐れがあると判明したという。不正アクセスの原因や詳しい経緯は調査中である。\n\n同社は影響を受けた顧客の特定を完了しており、対象者に個別に連絡する方針だ。楽天証券や関係会社を装った不審なメール、SMS、電話、郵送物への注意を呼び掛けている。また、不正アクセスやフィッシング詐欺への対策として、パスキー認証の設定を推奨している。顧客自身が取引や出金を一時的に停止できる機能も案内している。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003275/",
+          "date": "2026-11-17",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "3feac0927710",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+      "headline": "エヌビディア、フアン氏辞任後もオープンソースAI戦略は維持と表明",
+      "originalTitle": "Nvidia says its open source AI strategy remains intact after Jensen Huang's exit",
+      "outlet": "TechCrunch",
+      "region": "overseas",
+      "category": "ai",
+      "score": 79,
+      "tier": "must",
+      "pubDate": "2026-11-17T23:04:35.000Z",
+      "body": null,
+      "summary": "エヌビディアの暫定CEOであるコレット・クレス氏は、火曜日の決算説明会で、オープンソースAIへの取り組みを改めて表明した。ジェンセン・フアン氏の辞任後、初の決算説明会である。クレス氏は、どの国、企業、産業も独自の知能を構築できるよう、活発なオープンモデルのエコシステムを育てると述べた。\n\nクレス氏は、オープンモデルがAIの普及を加速させていると述べ、AIモデルを仲介するOpenRouterの週間トークン量が前年比35倍、直近3か月で3.5倍に増えたと説明した。フアン氏が推進したNemotron（ネモトロン）は、重みを公開したオープンモデル群で、OpenRouterで米国のオープンモデルとして最も使われているという。\n\nエヌビディアは9月に、AIモデルの共有プラットフォームであるHugging Faceを約129億ドルで買収することで合意している。買収が完了すれば、同社史上2番目の規模となる。同プラットフォームは1億1800万人の開発者と20万社が利用しており、フアン氏の辞任後も予定どおり進むとされる。ただし、決算説明会の質疑応答では買収に直接言及されなかった。Hugging FaceのCEOは、フアン氏の辞任を「悲しい日」と表現し、オープンソースAIのために「これまで以上に戦い続ける」と述べた。\n\nフアン氏は先週、交際をめぐる報道を受けて辞任した。報じられた関係には、シンガポールの企業メガスピードの幹部で、中国のスパイだと疑われているアリス・フアン氏との関係が含まれる。直属の部下2人との不倫関係も指摘されている。フアン氏は感謝祭までに議会で証言する予定である。米証券取引委員会（SEC）が、エヌビディアの情報開示が投資家を誤解させたかどうかを調査していると、WSJが報じた。",
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+          "date": "2026-11-17",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "6908e71926e8",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+      "headline": "AmazonとGoogle、上場後のAnthropic株を合計約28%保有へ",
+      "originalTitle": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+      "outlet": "TechCrunch",
+      "region": "overseas",
+      "category": "ai",
+      "score": 74,
+      "tier": "should",
+      "pubDate": "2026-11-17T22:29:05.000Z",
+      "body": null,
+      "summary": "Anthropicは上場（IPO）に伴うAmazonとGoogleとの大型投資契約の詳細を火曜日に公表した。それによると、Amazonの上場後の総株式保有比率は14.7%となる。Amazonは2023年と2024年にAnthropicへ数十億ドルを投資した際、株式に転換できる約束手形を取得しており、その転換価格は投資時期により1株あたり約2.09ドルまたは5.05ドルである。\n\nAmazonは上場に合わせてこの手形の一部を議決権のない種類株に転換し、約15%の持ち分を得る。この種類株は配当を受けられ、売却時に議決権付きのClass A株に転換できるとされる。残りの手形は保有したままで、すべて転換すれば保有比率は23.8%になるという。Googleは手形の転換と上場時の私募により、無議決権株で約13.7%を保有する。\n\nAMD、Broadcom、Google、Micron、Microsoft、Nvidia、TSMC Partnersの各社は、合計260億ドル分の無議決権株を購入することで合意しており、GoogleとNvidiaはそれぞれ100億ドルずつ購入する。記事は、今回の上場で大きな利益を得る投資家は多いが、Amazonはその中でも最大の受益者の一つだと指摘している。これに加えて、Anthropicが今後10年間にAWSのクラウドサービスへ1000億ドル以上を支出すると約束している点も、Amazonにとっては利益となる見込みだという。",
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+          "date": "2026-11-17",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "28509d8a3a74",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+      "headline": "エヌビディア、中国向けH200の販売を終了 黄氏退任後の決算で表明",
+      "originalTitle": "Nvidia is abandoning China after Jensen Huang's ouster",
+      "outlet": "TechCrunch",
+      "region": "overseas",
+      "category": "ai",
+      "score": 71,
+      "tier": "should",
+      "pubDate": "2026-11-17T23:37:48.000Z",
+      "body": null,
+      "summary": "エヌビディアは中国向けの高性能AIチップ「H200」の販売を取りやめると、暫定CEOのコレット・クレス氏が火曜日に明らかにした。これにより、同社は米国による先端半導体の対中輸出禁止の抜け道を利用する取り組みから離脱する。発表は、共同創業者の黄仁勲（ジェンスン・フアン）氏が先週退任して以来、初めて開かれた決算説明会で行われた。同日、同社は国家安全保障政策、輸出管理の順守、世界の貿易リスクを監督する取締役会の委員会を新設したことも明らかにした。\n\nH200の対中販売は、黄氏とトランプ大統領が仲介した取引で、チップは米国経由で出荷され、米政府が25%の関税を徴収する仕組みだった。中国にAIの計算資源を与えることに反対するタカ派は、この抜け道を批判していた。一方で黄氏は、中国市場で米国企業が競争することが重要だと長く主張し、4月のポッドキャストでは、その市場を明け渡すことは米国の技術産業と国にとって不利益だと語っていた。黄氏の退任は、中国へのチップ密輸を調査されている企業のCEOとの私的な関係が一因だとされる。\n\n今回の退任は、中国の顧客に遠隔で提供する海外データセンターへの先端米国チップの供給を禁じる新規則の発表と同時期に起きた。投資銀行のジェフリーズは、この規則により翌年のエヌビディアのデータセンター事業の売上が440億〜620億ドル削減される可能性があると予測した。ただし、クレス氏は次世代のVera Rubinなど先端チップの需要が受注残として積み上がっているため、新規則が売上高に影響することはないと述べた。一方で、長期的にはシンガポール、マレーシア、タイ、インドネシアの顧客を失う可能性もある。\n\n批判派は同社の売上の最大20%が中国関連の需要に由来すると主張している。同社が該当数値の開示を停止する前の2025年には、シンガポール子会社の年間売上高が1040億ドルに達していた。中国はすでにH200の受け取りをほぼ拒否しており、ジョージタウン大学の研究者ジェイコブ・フェルドガイズ氏によると、中国政府は国内チップ産業の需要を生み出したいと考えている。一方で中国の先端AI研究所は、中国への輸出が禁じられているGrace Blackwellチップを海外で利用する方法を見つけており、主要な中国製AIモデルはいずれもGrace Blackwellで学習された形跡があるという。輸出規制弁護士のダン・フィッシャー＝オーウェンズ氏は、新規則の下では大規模データセンターがチップを購入する際、中国の顧客にサービスを提供していないと証明する必要があると指摘した。証明できない場合は他社製チップへの移行が進み、エヌビディアの市場シェアがさらに失われる可能性があると記事は述べている。",
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+          "date": "2026-11-17",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "4d9c0f5d9260",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://calif.io/java4shell/",
+      "headline": "OpenJDKのBase64処理にメモリ破壊の脆弱性、遠隔コード実行に発展",
+      "originalTitle": "Java4Shell: RCE in OpenJDK when processing Base64",
+      "outlet": "calif.io",
+      "region": "overseas",
+      "category": "it",
+      "score": 68,
+      "tier": "should",
+      "pubDate": "2026-11-17T21:11:28.000Z",
+      "body": null,
+      "summary": "calif.ioの研究者Quang Luong氏は、Javaの実装であるOpenJDKに含まれるBase64（バイナリデータを英数字で表す符号化方式）の処理で、メモリ破壊の脆弱性を見つけたと報告している。影響を受けるビルドでは、不正な形式のBase64データを処理すると、割り当て済みのヒープメモリの範囲外に書き込みが起きる。同氏は、ヒープ上のメモリ配置を操作する手法（Heap Feng Shui）を組み合わせることで、これをヒープの情報漏えいと遠隔からのコード実行（RCE）に発展させたとしている。\n\n原因は、JITコンパイラ（実行中にバイトコードをネイティブコードに変換する仕組み）のC2が使うBase64処理（CPUの専用命令で高速化された処理）にある。末尾の「=」によるパディングの計算で出力長が-1または-2にアンダーフローし、出力マスクがすべてのビットを1にしてしまう。そのためAVX-512命令のVMOVDQU8で、本来の範囲を超えて64バイトが書き込まれる。たとえば、64バイトの入力に「=」を付けた65バイトの入力では、50バイトのバッファに対しオフセット48から64バイトが書き込まれる。OpenJDK 17ではトリガーとなる入力が「A」を128個並べて「=」を付けたものになるという。\n\n研究者は、書き込み先を制御した上で別の配列の長さを上書きすることで、固定値の書き込みを任意の値を書き込める線形書き込みへ発展させた。さらに読み出し側の配列の長さも書き換えて、応答にヒープの内容を返させることで、個人情報や秘密鍵、トークンなどが含まれている可能性のある領域を読み取れるようにした。最終的には、コードキャッシュやJVMのフックを書き換えてコードを実行させたとしている。記事は、この攻撃は汎用的なものではなく対象ごとに個別の調整が必要であり、リクエスト本文のバッファリングも汎用的な対策にはならず、Elasticsearchのように完全なリクエストで動く場合は防げないと説明している。\n\n研究者は脆弱性の発見にAIコーディング支援ツールのCodexを用い、攻撃の検証ではAIエージェントに与える情報としてヒープの状態を可視化するツールを作成したと述べている。リモートでの攻撃では、リクエストを分割して送信し、TCPの確認応答を確かめながらメモリ配置を制御した。攻撃はネットワークの遅延やゆらぎに影響されるため、同じリージョンに仮想マシンを借りて公開IPアドレス経由で実施したという。記事掲載のPoCは配列内に収まる範囲で書き込みを行うため安全に実行でき、入力は拒否されるものの出力先の後ろの62バイトがすでに書き換えられることを確認できるとしている。",
+      "sources": [
+        {
+          "outlet": "calif.io",
+          "url": "https://calif.io/java4shell/",
+          "date": "2026-11-17",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": "https://news.ycombinator.com/item?id=50538240",
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "357d085ae06f",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+      "headline": "Google、Geminiのタスク代行を拡充し日本など6か国で無料提供",
+      "originalTitle": "Put Gemini to work for you",
+      "outlet": "Google AI Blog",
+      "region": "overseas",
+      "category": "ai",
+      "score": 67,
+      "tier": "should",
+      "pubDate": "2026-11-17T17:00:00.000Z",
+      "body": null,
+      "summary": "Googleは公式ブログで、AIアシスタントのGeminiがユーザーに代わって電話や支払いなどの作業を行う機能を拡充したと発表した。今回の更新は新モデル「Gemini 4 Hydrogen」を使い、米国、日本、韓国、カナダ、オーストラリア、インドで数億人規模の利用者に無料で提供が始まったとしている。高度な機能は米国から順次展開される。\n\n記事では、メール、カレンダー、パスワード、写真、支払いカード情報などがすでにGoogleのサービス内に安全に保管されていることが利点だとしている。筆者の事例では、車の点検予約を依頼されたGeminiが近隣のディーラー2か所に同時に電話をかけ、保留音にも対応したうえで、カレンダーで空いている時間を確認して予約を入れたという。電話の相手には最初にAIであることを明示し、事業者はいつでも拒否できるとしている。\n\n買い物では、Agent Payments Protocol（AP2）と呼ばれる仕組みを使って購入を代行する。American Express（近日対応）、Mastercard、Visaと提携し、対応カードではデジタルトークンで決済情報を保護するとしている。利用者は支出の上限を設定でき、カードのポイントや購入補償は引き続き得られるという。購入の記録はGoogle Walletに集約され、同ウォレットは本日からiOSにも拡大する。\n\n安全面では、Google Cloudの「Agent Compute Engine」上で、利用者専用に隔離された仮想マシンを使ってタスクを実行するとしている。プロンプトインジェクション（AIに不正な指示を紛れ込ませる攻撃）を検出するフィルターや、Google Safe Browsingによるリンクの制限も組み合わせている。購入ボタンを押す前には確認を求め、信頼する定型作業は「常に許可」に設定できる。一方で、ミスや未完了のタスクは完全には排除できていないとして、利用者にフィードバックを求めている。",
+      "sources": [
+        {
+          "outlet": "Google AI Blog",
+          "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+          "date": "2026-11-17",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "122115e1f3c9",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/",
+      "headline": "Waymo、高速道路での配車を全市場で一時停止 カリフォルニア州の命令受け",
+      "originalTitle": "Waymo suspends freeway rides nationwide after California DMV order",
+      "outlet": "TechCrunch",
+      "region": "overseas",
+      "category": "it",
+      "score": 66,
+      "tier": "should",
+      "pubDate": "2026-11-17T19:49:41.000Z",
+      "body": null,
+      "summary": "Alphabet傘下の自動運転タクシー企業Waymoは、カリフォルニア州自動車局（DMV）が11月11日付で出した運行制限を受け、同州の高速道路で無人運転による配車サービスを行えなくなった。制限の内容は火曜日になって初めて公表され、San Francisco Business Timesが最初に報じた。DMVは州内での自動運転車の試験や展開を規制している機関である。\n\nDMVは、Waymoの車両が2件の事案に関わったと説明している。1件は米国道路101号線のバーリンゲーム付近で、Waymoの車両3台が工事による通行止め区域に進入したものである。もう1件はサンフランシスコの280号線で、カリフォルニア・ハイウェイパトロールの車両が関係する事案である。DMVは、2026年5月18日の類似事案の後に制限と是正措置があったにもかかわらず同様の進入が繰り返されたとして、公共の安全に対する差し迫った危険（imminent hazard）と判断した。制限は、有効な是正措置を示すまで続くとしている。\n\nWaymoの広報担当者は、101号線での件では負傷者や衝突はなかったと説明した。同社は、カリフォルニア州以外の運行地域でも高速道路での運行を一時的に制限し、性能を評価していると述べた。一般道での配車は安全に続けており、週に50万回以上の乗車を提供しているという。同社は州当局と協力して高速道路の運行再開を目指すとしている。\n\nWaymoは2025年末に高速道路での乗車サービスを始め、空港や郊外への移動時間を短縮してきた。サンフランシスコ湾岸地域では、従来は45分以上、場合によっては1時間を超えていた半島部の移動が大きく短くなったという。2026年5月には理由を示さずに高速道路の運行を停止し、SNSでは配車車両が工事区域の交通コーンの間を通過する様子などが投稿されていた。同社は7月に、工事区域での性能を改善したソフトウェアを更新したとして運行を再開していた。",
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/",
+          "date": "2026-11-17",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "f8a376e343c8",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.publickey1.jp/blog/26/aimai_code_2mai_code_2_flash.html",
+      "headline": "マイクロソフト、コーディング向けAIモデル「MAI Code 2」など2種を発表",
+      "originalTitle": "［速報］マイクロソフト、コーディング用AIモデルとして高性能かつ低価格「MAI Code 2」「MAI Code 2 Flash」発表",
+      "outlet": "Publickey",
+      "region": "domestic",
+      "category": "ai",
+      "score": 66,
+      "tier": "should",
+      "pubDate": "2026-11-17T21:48:15.000Z",
+      "body": null,
+      "summary": "マイクロソフトは、年次イベント「Microsoft Ignite 2026」（日本時間11月18日未明開幕）で、同社開発のコーディング用AIモデル「MAI Code 2」と、さらに安価な「MAI Code 2 Flash」を発表した。両モデルは企業での日常的なコーディング作業向けで、競合製品と同等の性能をより安価に提供することを特徴としている。MAI Code 2は同社のフラグシップ（最上位）モデルである。\n\nMAI Code 2は、本番環境向けのコード生成、難しいデバッグ、リポジトリ（ソースコードの保管場所）の推論、ダッシュボードなどUIの構築に優れるとしている。マイクロソフトによると、GitHub Copilotで日常的に見られる企業向けコーディングタスクの4つのベンチマーク平均で、GPT 6.1 Solの98%、Claude Opus 5.5の96%の性能を発揮する。一方でコストはGPT 6.1 Solの40%、Claude Opus 5.5のわずか5%だという。\n\nMAI Code 2 Flashは、コードの解説、コードの一部だけを修正する作業、定型的な修正など、日常的に大量に発生する作業向けに設計されたモデルである。マイクロソフトは、3つのコーディングベンチマークでGPT-6 LunaやClaude Haiku 5.5と同等の性能を発揮し、コストはGPT-6 Lunaの65%、Claude Haiku 5.5の20%程度だとしている。",
+      "sources": [
+        {
+          "outlet": "Publickey",
+          "url": "https://www.publickey1.jp/blog/26/aimai_code_2mai_code_2_flash.html",
+          "date": "2026-11-17",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "b04fce0fd83d",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003257/",
+      "headline": "マーケツール「KARTE」への不正アクセス、利用企業の顧客情報などが漏えい",
+      "originalTitle": "モリサワや「mineo」など会員情報漏えい マーケツール「KARTE」不正アクセス、外部サービス連携用シークレットキーなども",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "it",
+      "score": 64,
+      "tier": "should",
+      "pubDate": "2026-11-17T03:35:13.000Z",
+      "body": null,
+      "summary": "プレイドは11月16日、企業向けマーケティングサービス「KARTE」（カルテ）が13日に不正アクセスを受け、利用企業のアカウント情報、利用企業から預かっていた顧客情報の一部、外部サービスとの連携に使うシークレットキー（認証に用いる秘密の鍵）などが漏えいしたと発表した。KARTEは、企業がWebサイトやアプリの利用者の行動を分析し、メールやLINEメッセージなどを配信するサービスで、650社以上（2024年5月時点）が利用している。\n\n不正アクセスは13日未明に発生した。同社サーバの脆弱性が悪用され、システムやデータベースの接続用認証情報が盗まれて、データが外部に読み出された。盗まれた認証情報で同社アカウントが乗っ取られ、管理画面にも不正アクセスされたという。漏えいが確認された情報は、KARTEのアカウントとして登録されたメールアドレス7万9249件、利用企業が取り込んでいた顧客情報の一部、連携用の認証情報などである。\n\n利用企業への影響も公表されている。阪急阪神ホテルズは会員の氏名や住所など最大33万1586件、モリサワは「Morisawa Fonts」購入者の氏名やメールアドレスなど2万3957件が漏えいしたと発表した。オプテージは「mineo」利用者のメールアドレス、ベルフェイスは「bellSalesAI」利用者の氏名とメールアドレスなどが漏えいした可能性があるとしている。ワールドは「ワールドオンラインストア」などの会員情報の一部が漏えいしたという。オプテージ、ベルフェイス、ワールドの3社は、対象件数を調査中としている。\n\nプレイドは13日朝に不正アクセスを検知し、窃取された認証情報を無効化した。同日昼過ぎにサーバを停止し、KARTEの全サービスを順次停止して、同日午後3時23分ごろまでに封じ込めを完了したという。サービスは停止中で、再開時期は未定である。同社は、外部サービスとの連携を設定している利用企業に対し、連携先で意図しないデータの書き込みや漏えいが起きるおそれがあるとして、認証情報を無効化するよう求めている。連携の影響を受けた件数は調査中である。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003257/",
+          "date": "2026-11-17",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "7465bbc4c963",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
+      "headline": "エヌビディア、第3四半期の売上高は前年同期比103%増の1158億ドル",
+      "originalTitle": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
+      "outlet": "The Verge",
+      "region": "overseas",
+      "category": "ai",
+      "score": 61,
+      "tier": "interest",
+      "pubDate": "2026-11-17T21:40:59.000Z",
+      "body": null,
+      "summary": "エヌビディア（NVIDIA）は第3四半期の決算を発表した。売上高は1158億ドルで前年同期比103%増、データセンター向けの売上高は1076億ドルで110%増となった。エッジコンピューティング（本文では消費者向けゲーミングPC事業や新型ノートPC「RTX Spark」などを含む区分）の売上高は82億ドルで42%増、利益は653億ドルで過去最高を記録したという。売上高は同社が事前に示していた見通しの1080億ドルを上回った。\n\n決算はコレット・クレス暫定CEOが発表した。当初は前CEOのジェンスン・フアン氏の退任の経緯や復帰の可能性には触れなかった。決算説明会の冒頭で取締役会議長のハーヴェイ・ジョーンズ氏は、取締役会としてフアン氏をCEOに復帰させる意図はないと述べ、退任の経緯と進行中の調査については、今回の電話会議では質問を受け付けないとした。\n\n次の第4四半期の売上高は1300億ドルになるとの見通しを示している。クレス氏は決算説明会で「当社の勢いは本物だ」と述べた。",
+      "sources": [
+        {
+          "outlet": "The Verge",
+          "url": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
+          "date": "2026-11-17",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "32299f9a40b2",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003241/",
+      "headline": "AIチャットの会話タイトルが外部トラッカーに漏えい、42サービス中21で確認",
+      "originalTitle": "AIに打ち明けた相談は“広告トラッカー”に筒抜け？ ChatGPT、Claude、Gemini含む42サービスを米大が調査",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "ai",
+      "score": 60,
+      "tier": "interest",
+      "pubDate": "2026-11-17T03:00:00.000Z",
+      "body": null,
+      "summary": "AIチャットサービスに入力した会話内容が、サイトに埋め込まれた広告などの追跡プログラム（トラッカー）を通じて外部企業へ漏えいする実態を調べた研究が報告された。ニューヨーク州立大学ストーニーブルック校の研究者らによる論文で、情報セキュリティ分野の国際会議IEEE S&P 2027に採択されたとしている。調査対象は、ChatGPTやClaude、Geminiなどの汎用AI 25種と、健康・法律・教育などに特化した専門AI 17種の計42サービスである。\n\n調査では、JavaScript（ウェブページを動かすプログラム言語）の動きを詳しく追跡し、どの操作を契機に、ページのどの部分からどの情報が抜き出され、どこへ送られたかを特定した。その結果、42サービスのうち21サービスで、質問内容から自動生成される会話の要約タイトルが外部のトラッカーに送られていた。このうち9サービスでは、ユーザーが入力したプロンプト（指示文）そのものも外部へ送信されていた。会話内容の漏えいが確認されたサービスでは、汎用AIの13種中11種、専門AIの8種中8種で、アカウント登録時のメールアドレスも外部へ送信されていた。\n\n汎用AI 25種では、ブラウザから送信される平均540件の通信のうち、約22％にあたる118件がトラッカー向けだった。送信先の内訳は、Googleが41.8％と最も多く、Microsoft 12.2％、ByteDance 8.6％、Meta 8.3％が続いた。\n\n研究チームの分析では、トラッカー側が特別な手法で侵入しているわけではなく、ページタイトル（HTMLのtitleタグで指定される、ページの題名）を自動で取得する従来からの機能が動いているだけだという。多くのAIチャットは、質問内容を要約した会話タイトルをページタイトルに反映させており、質問の送信時や別の会話への切り替え時に、その要約が外部へ送られるとしている。プロンプト本文については、画面内のテキストを収集する操作録画ツールや、URLにプロンプトが含まれる仕様が経路になっていたという。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003241/",
+          "date": "2026-11-17",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "3e0e7322cd6e",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://techcrunch.com/2026/11/17/apple-services-including-icloud-app-store-and-apple-music-hit-by-outage/",
+      "headline": "Apple、iCloudやApp Storeなど障害 社内アップデート起因と説明",
+      "originalTitle": "Apple services, including iCloud, App Store, Apple Music, and more, hit by outage",
+      "outlet": "TechCrunch",
+      "region": "overseas",
+      "category": "it",
+      "score": 58,
+      "tier": "interest",
+      "pubDate": "2026-11-17T18:55:40.000Z",
+      "body": null,
+      "summary": "Appleのサービスで障害が発生し、iCloud、App Store、Apple Musicなどに影響が出た。同社のシステムステータスページ（サービスの稼働状況を公開するページ）では、iCloudのアカウント・サインイン機能に「すべてのユーザー」向けの問題があり、動作が遅くなるか利用できなくなる可能性があると示された。App Store、AppleCare on Device、Apple Musicにも問題が出ているという。\n\niCloudの障害はアカウントのサインインに影響するため、iPhoneがApple IDとパスワードの入力を求めたり、Appleアカウントを使った他サービスへのサインインが失敗したりすることがあるという。Redditでは新しいiPhoneを有効化できないとの報告もあり、記事はこれも今回の障害と関連していると見られるとしている。\n\nAppleは TechCrunch の取材に対し、障害は社内アップデートによるもので、サイバー攻撃ではないと回答した。同社は「社内アップデートの影響で午前中に一部のシステムに障害が出たが、多くのシステムは復旧した。残りのシステムも可能な限り早く復旧させる」と述べたとしている。その後、Apple School Manager、iCloudメール、iCloud.com、Schoolwork、Volume Purchase Programにも障害が広がったが、米東部時間火曜日の午後6時時点で全て解消したと表示された。\n\n直近の数日間には、マイクロソフトでソフトウェアの連鎖的な不具合によりクラウドシステムが障害を起こし、OutlookやTeamsに影響が出た。Chaseの銀行アプリの一時的な障害や、国家安全保障局（NSA）の内部機密ネットワークの一部障害も起きていた。記事は、これらはいずれもソフトウェアの不具合などの技術的問題とされ、今のところサイバー攻撃が原因とされたものはないとしている。ただし、近年AIを使ったサイバー攻撃が増えていることから、SNS上ではサイバー攻撃を疑う声も出ている。",
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/17/apple-services-including-icloud-app-store-and-apple-music-hit-by-outage/",
+          "date": "2026-11-17",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "1cc34e861f35",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "science",
+      "url": "https://arstechnica.com/features/2026/11/sources-vulcan-launch-anomaly-investigation-is-complex/",
+      "headline": "ULAのVulcan失敗、BE-4エンジンが原因でない可能性も",
+      "originalTitle": "The data is very preliminary, but Vulcan failure may not be due to BE-4 engines",
+      "outlet": "Ars Technica",
+      "region": "overseas",
+      "category": "science",
+      "score": 57,
+      "tier": "interest",
+      "pubDate": "2026-11-17T18:00:51.000Z",
+      "body": null,
+      "summary": "ULAのロケット「Vulcan」の打ち上げ失敗について、連邦航空局（FAA）の監督のもとでULAが調査を進めている。記事は、現時点の情報は予備的なもので、確定的な結論は出せないと断っている。今回はVulcanの5回目の飛行で、2024年1月の初飛行以来、これまでの2回はノズル（噴射口）に問題が起きていた。いずれもロケットは推力の低下や偏りを補って目標の軌道に到達したが、2回目のノズル問題では打ち上げ停止が9カ月に及んだ。\n\n今回の失敗により、Vulcanは少なくとも半年、おそらくそれ以上運用を停止する可能性がある。影響を受けるのは、衛星を搭載して打ち上げを待っている米国宇宙軍と、2027年の打ち上げ計画に十数回以上を組み込んでいたAmazonの衛星網計画「Amazon Leo」である。記事は、米国の打ち上げ能力の不足がさらに悪化すると指摘している。\n\nBlue Originの超重量級ロケット「New Glenn」は、早ければ1月の復帰飛行を目指している。今回の失敗の原因がBE-4エンジン（Blue Originが開発したエンジン）にあった場合、New Glennの復帰も遅れるとされる。Blue Originは直近の火曜日に、改良したBE-4の主酸素バルブが認定試験を完了したと発表し、「改良バルブは今後の飛行に使うエンジンに組み込まれており、残りの機体にも展開している」と述べた。異常の調査は今月中に完了する見通しだという。\n\nNew Glennは、NASAの月探査計画アルテミスと月面拠点計画で重量物の輸送の大部分を担う想定であり、NASAにとっても影響が大きいと記事は指摘している。",
+      "sources": [
+        {
+          "outlet": "Ars Technica",
+          "url": "https://arstechnica.com/features/2026/11/sources-vulcan-launch-anomaly-investigation-is-complex/",
+          "date": "2026-11-17",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "58043437b94b",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
+      "headline": "Optimizely経由の不正コードで178サイト、暗号資産や決済情報を標的に",
+      "originalTitle": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
+      "outlet": "Ars Technica",
+      "region": "overseas",
+      "category": "it",
+      "score": 56,
+      "tier": "interest",
+      "pubDate": "2026-11-17T22:32:16.000Z",
+      "body": null,
+      "summary": "ウェブサイトのパーソナライズ（閲覧者ごとに表示内容を最適化する仕組み）基盤「Optimizely」を利用するサイトで、閲覧者の端末に悪意あるプログラムを送り込む攻撃が見つかった。数百のサイトが影響を受けたとされ、ReportURIが特定したのはCNN、Zoom、BBC、Salesforceなど178サイトである。\n\nOptimizelyが電子署名したJavaScriptが改変され、各顧客のページに読み込まれていた。改変されたコードはcdn.optimizely.comから配信され、そのドメインの有効な証明書で署名されていたという。攻撃は、インストールに成功した端末で暗号資産ウォレットのアドレスを攻撃者のものに差し替え、決済カード情報、Cookie、画面キャプチャを盗むものだった。iPhoneとiPadでは、iOSの脆弱性を悪用する攻撃ツール「Coruna」と「DarkSword」も配信されていた。\n\nReportURIの研究者スコット・ヘルムは、CDNのキャッシュを汚染する攻撃（有害な応答を配信網に保存させる手口）ではなく、Optimizelyの正規のインフラやドメインを悪用したものだと説明している。Optimizely自身のwww.optimizely.comとlogin.optimizely.comのJavaScriptも影響を受けた。ヘルムは、攻撃者が多数の無関係な顧客のプロジェクトに書き込み権限を得た経路は不明だとし、侵害されたシステム、顧客横断でアクセスできる認証情報、その他のいずれかが考えられるとした上で、「Optimizelyが説明すべきことだ」と述べた。\n\nOptimizelyは電子メールによる問い合わせに回答していない。不正なスクリプトはtrack.jsという名前で、4つの構成要素が同時に動作を開始した。端末の種類や、最後に表示されたページでの操作によって、反応は異なったとされる。",
+      "sources": [
+        {
+          "outlet": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
+          "date": "2026-11-17",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "a513c3b2bdea",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
+      "headline": "Google、Geminiの学習と対話履歴を別々に管理できる設定を導入",
+      "originalTitle": "Google makes it easier to use Gemini without training AI on your data",
+      "outlet": "Ars Technica",
+      "region": "overseas",
+      "category": "ai",
+      "score": 55,
+      "tier": "interest",
+      "pubDate": "2026-11-17T16:50:10.000Z",
+      "body": null,
+      "summary": "Googleは、Geminiアプリでチャット履歴の保存とAIの学習への利用を別々に設定できる変更を展開している。これまで学習への利用を止めるには履歴機能を完全にオフにするしかなく、その場合は過去の対話を後から再開できなかった。新しい設定では、履歴を残したまま学習だけを止められるようになる。\n\n新しい設定では「モデルの学習」と「チャット履歴」の切り替えが別々に表示される。履歴は保存期間の上限を引き続き調整できる。学習はオプトアウト方式（利用者が拒否の操作をしない限り学習に使われる方式）で、Geminiの設定内の「アクティビティ」にある切り替えで止められる。Googleアカウントの「データとプライバシー」→「マイアクティビティ」→「その他のアクティビティ」→「Gemini Apps Activity」からも同じメニューに入れる。\n\n今回の変更は今後のやり取りにのみ適用される。既に入力したデータは学習データに含まれたままである。対象には入力内容、Geminiの応答、アップロードしたファイル、ツール呼び出し（Geminiが外部の機能を呼び出す操作の記録）、位置情報、連携アプリのデータが含まれる。Googleは、モデル改善のためにこれらを最長3年間保持する場合があるとしている。個人情報は履歴から除去するよう努めているが、保証はされていないという。",
+      "sources": [
+        {
+          "outlet": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
+          "date": "2026-11-17",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "25f38b8c7119",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.watch.impress.co.jp/docs/news/2157194.html",
+      "headline": "Google Cloud、サイバー防御AIを日本政府や金融機関に提供",
+      "originalTitle": "グーグル、最新サイバー防御AIモデルを日本政府に提供",
+      "outlet": "Impress Watch",
+      "region": "domestic",
+      "category": "ai",
+      "score": 55,
+      "tier": "interest",
+      "pubDate": "2026-11-17T09:53:08.000Z",
+      "body": null,
+      "summary": "Google Cloudは17日、日本政府とサイバーセキュリティの強化などで協力すると発表した。国家サイバー統括室（NCO）などの行政機関、金融機関、重要インフラ事業者に対し、サイバーセキュリティ能力を強化した最新のフロンティアAIモデル（最先端の高性能な大規模AIモデル）「Gemini 4 Carbon for Cyber」と、脆弱性の検知やコード修復を支援する「CodeMender」の早期アクセスを提供する。Google Cloudのトマス・キュリアンCEOは16日、片山さつき財務大臣と会談し、これらの取り組みを説明した。\n\n日本の企業や重要インフラ、行政機関を標的にしたランサムウェア（身代金を要求する不正プログラム）などの高度なサイバー攻撃に対応するため、早期提供を行う。無償の脆弱性診断プログラム「Scan for Good」も提供する。重要な政府機関や地方公共団体などを対象に、AIを活用した「Wiz Red Agent」で外部から脆弱性を診断し、修正方法の案内とあわせて無償で提供する。脅威インテリジェンス（攻撃や脅威に関する分析情報）の共有では、Google Threat Intelligence Group（GTIG）とMandiantが主要省庁との連携を深め、最新の情報を行政機関や重要インフラ企業と共有する。\n\nソブリンクラウド（データの主権や規制要件に厳格に対応したクラウド）の分野では、完全に非インターネット環境でクラウドとAIを提供する「Google Distributed Cloud エアギャップ」の提供を拡大する。国内パートナーのNTTデータが導入から運用まで一貫して支援する体制が整ったとしている。富士通とNECも同製品の販売パートナーに加わる予定である。また、国内でのデータ処理に対応した行政機関向けの「Gemini for Government」を今後提供する。\n\n中小企業向けには、12月9日から2027年3月31日まで、日本国内で従業員50名以下の新規の企業を対象に、Google Workspace（Starter、Standard、Plusの各プラン）とGemini Enterprise Business editionを15%割引で提供する。基本枠を超えた従量課金（PAYG）についても、2027年1月から同様の割引を適用する。このほか、AI、クラウド、サイバーセキュリティ人材の育成と認定資格バウチャーの無償提供でも協力するとしている。",
+      "sources": [
+        {
+          "outlet": "Impress Watch",
+          "url": "https://www.watch.impress.co.jp/docs/news/2157194.html",
+          "date": "2026-11-17",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "d9a047affb02",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+      "headline": "ロンドン拠点のModel ML、2.5億ドルを調達 投資銀行業務をAIで自動化",
+      "originalTitle": "Model ML raises $250M to automate investment banking grunt work",
+      "outlet": "TechCrunch",
+      "region": "overseas",
+      "category": "ai",
+      "score": 54,
+      "tier": "interest",
+      "pubDate": "2026-11-17T19:32:11.000Z",
+      "body": null,
+      "summary": "ロンドンを拠点とするModel MLは、2.5億ドルのシリーズB資金調達を実施し、評価額は15億ドルとなった。同社は、投資銀行やコンサルティングで若手が担ってきた金融モデルの作成、提案資料（ピッチデック）の作成、デューデリジェンス（買収前などの調査）報告書の執筆をAIで自動化する企業である。今回のラウンドはGeneral AtlanticとQED Investorsが共同で主導した。\n\n前回のシリーズAは7500万ドルで、約1年前に発表されていた。創業は3年前で、創業者のChaz EnglanderとArnie Englanderの兄弟はそれ以前に別の2社を共同で立ち上げている。そのうちの一社であるFat Llamaは個人間のレンタルを仲介するマーケットプレイスで、2022年に競合のHygglo（スウェーデン）に4150万ドルで買収された。\n\n同社のAIエージェントは、顧客のシステム、データ、ツールと連携し、ExcelやPowerPointも含めて利用する。案件の全体の文脈を理解し、新たな展開が分析に影響する場合は財務モデルや資料を自動で更新できるとしている。また、オープンソースのモデルで動作するため、最先端の大規模AIモデルの約2%のコストで、より速く結果を出せると主張している。\n\n同分野ではHebbiaやRogoも定型業務の自動化を手がけており、記事によるとHebbiaとRogoは4月に1.6億ドルを20億ドルの評価額で調達した。AnthropicやOpenAIも金融分野の専門家向けのツールを提供している。",
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+          "date": "2026-11-17",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "f48e1ee82ba8",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.publickey1.jp/blog/26/postgresqlazure_horizondb.html",
+      "headline": "マイクロソフト、PostgreSQL互換のAzure HorizonDBを正式リリース",
+      "originalTitle": "［速報］マイクロソフト、PostgreSQL互換のミッションクリティカル向けデータベースサービス「Azure HorizonDB」正式リリース",
+      "outlet": "Publickey",
+      "region": "domestic",
+      "category": "it",
+      "score": 53,
+      "tier": "interest",
+      "pubDate": "2026-11-17T21:45:41.000Z",
+      "body": null,
+      "summary": "マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、PostgreSQL（オープンソースのデータベースソフト）互換のミッションクリティカル向けデータベースサービス「Azure HorizonDB」の正式リリースを発表した。ミッションクリティカルとは、停止が許されない基幹系システムなどでの利用を想定した用途を指す。Azure HorizonDBは、昨年の「Microsoft Ignite 2025」で発表されていたサービスである。\n\nプライマリノードとレプリカノードを合わせて最大3072vCPU（仮想CPUの単位）までスケールアウトでき、ストレージは最大128TBまで自動で拡張する。複数のアベイラビリティゾーンにレプリカを置く構成でも、コミットにかかるレイテンシはミリ秒以下、フェイルオーバー時も5秒以下に抑えるとしている。\n\nデータベース内部をクラウドネイティブなアーキテクチャとしたことで、通常のPostgreSQLと比べて最大8倍のトランザクション性能を発揮するとしている。ベクトル検索や全文検索を実現するPostgreSQLの拡張機能「PgVector」にも対応し、埋め込み検索（文章や画像を数値のベクトルに変換して類似度で探す検索）を効率化する「DiskANN」インデックスも利用できる。\n\n同社はこの派生製品として、サーバレス（利用量に応じて計算資源が自動で割り当てられる方式）のPostgreSQL互換データベース「Fabric HorizonDB」をパブリックプレビューとして発表した。トランザクション処理（OLTP）と分析処理（OLAP）の両方を高速に行えるようにしたという。",
+      "sources": [
+        {
+          "outlet": "Publickey",
+          "url": "https://www.publickey1.jp/blog/26/postgresqlazure_horizondb.html",
+          "date": "2026-11-17",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "8bb6f065f741",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003261/",
+      "headline": "ドコモの3度の通信障害、総務相が「大変遺憾」 根本原因の究明求める",
+      "originalTitle": "ドコモ3度の通信障害「大変遺憾」と総務相 「構造的な課題、洗い出し求める」",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "it",
+      "score": 51,
+      "tier": "interest",
+      "pubDate": "2026-11-17T06:06:05.000Z",
+      "body": null,
+      "summary": "NTTドコモで11月5日、11日、16日の3度にわたり全国規模の通信障害が起きたことを受け、藤井比早之（ふじい ひさゆき）総務相は11月17日の閣議後会見で「短期間で3度の障害が再発したことは大変遺憾」と述べた。通信サービスは国民生活や社会経済活動の重要なインフラとなっていると指摘した。\n\n総務省はドコモに対し、個別の障害の原因究明と再発防止策に加え、一連の障害の関係性を検証して根本原因を究明するよう求めた。さらに、組織としての全体のリスク管理体制を含む構造的な課題の洗い出しを速やかに行うよう強く求めている。総務省は、ドコモの検証結果を踏まえ、関係法令に基づきしかるべき対応を行うとしている。\n\n3度の障害はいずれも、5G専用の設備のみで通信するオプションサービス「5G SA（Standalone）」で発生した。復旧までの時間は、5日が約14時間、11日が約9時間、16日が約6時間だった。原因については、5G SAの契約者を収容する交換機（通信を中継・振り分けする装置）への通信の集中だとしている。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003261/",
+          "date": "2026-11-17",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "e196d9d03143",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.watch.impress.co.jp/docs/news/2157226.html",
+      "headline": "サムスン、Gemini搭載スマートグラスを12月10日に米韓で発売",
+      "originalTitle": "サムスン、約41gのGemini搭載スマートグラス 米韓で395ドルから",
+      "outlet": "Impress Watch",
+      "region": "domestic",
+      "category": "it",
+      "score": 50,
+      "tier": "spare",
+      "pubDate": "2026-11-17T23:00:00.000Z",
+      "body": null,
+      "summary": "サムスンは、GoogleのAI「Gemini」を搭載したスマートグラス「インテリジェントアイウェア」を12月10日に米国と韓国で発売する。Googleと共同開発し、ファッションブランドのGentle MonsterおよびWarby Parkerと協力して全30種類のデザインを展開する。米国では両ブランドの製品を、韓国ではGentle Monsterのみを販売する。米国での価格は395ドル（約62,900円）からで、日本での発売は発表していない。\n\nカメラとマイクで周囲の状況を認識し、GeminiによるAIアシスタント機能をハンズフリーで利用できる。目の前の建物や物体について質問し、会話を続けられるほか、レストランのメニュー翻訳やGoogleマップによる道案内にも対応する。会議中にホワイトボードを撮影してGeminiに要約させ、Samsung Notesに保存することも可能である。通話やメッセージへの返信は音声で操作でき、通知は自動で優先順位付け・グループ化・要約され、重要な通知は読み上げられる。\n\nハードウェアは約1,200万画素のHDRカメラ（3K/30fpsの動画撮影に対応）、オープンイヤー型スピーカー2基、マイク4基を備える。プロセッサはSnapdragon AR1 Gen 1で、Galaxyスマートフォンと連携する場合は処理の一部をスマートフォン側に分担させる分散コンピューティング方式を使う。本体重量は約41gで、モデルによって異なる。バッテリー駆動時間は1回の充電で最大9時間、充電ケースを併用すると最大72時間である。\n\nメモリーは2GB、ストレージは64GB、Wi-Fi 6E、Bluetooth 5.4、IPX4の防滴性能を備える。対応スマートフォンは、One UI 9.0以降のGalaxy S/Zシリーズなど、Android 17以降のGoogle Pixel 7シリーズ、iOS 26.6以降（iPhone 13以降）である。撮影中は外側のLEDが点灯して周囲に知らせ、LEDが覆われているか正常に動作しない場合はカメラによる撮影を無効化する。Geminiが収集した視覚情報はAIモデルの学習や広告のターゲティングには使われず、周囲の人物の顔は回答前に自動で隠される。利用は18歳以上が対象で、端末の有効化やアプリのダウンロードには年齢確認が必要となる。",
+      "sources": [
+        {
+          "outlet": "Impress Watch",
+          "url": "https://www.watch.impress.co.jp/docs/news/2157226.html",
+          "date": "2026-11-17",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "b836340e08ee",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://gigazine.net/news/20261117&",
+      "headline": "太陽光発電施設での羊の放牧、昆虫個体数と農家の経営判断を研究",
+      "originalTitle": "VRAMが数百GBなくてもGPU1基でGLM-5.3-Flashを動かすことができる「Project Maya」",
+      "outlet": "GIGAZINE",
+      "region": "domestic",
+      "category": "ai",
+      "score": 50,
+      "tier": "spare",
+      "pubDate": "2026-11-17T14:00:00.000Z",
+      "body": null,
+      "summary": "コーネル大学の研究者らは、太陽光発電施設で羊を放牧して雑草を除去する手法に関する2つの研究結果を発表した。1つ目は2026年10月に学術誌Environmental Research Lettersに掲載された研究で、太陽光パネル周辺で放牧する羊の頭数と昆虫の個体数との関係を調べたものである。筆頭著者でコーネル大学農学部博士研究員のレアナ・ゾラー氏は、放牧と有益な昆虫の生息地は太陽光発電開発で注目される2つのテーマだが、両者を同じシステムの一部として扱う研究は不足していたと述べている。\n\nゾラー氏らは稼働中の太陽光発電施設で3年間、羊の頭数を変えて雑草の処理状況と昆虫の個体数を比較した。1ヘクタール当たり2頭の羊を放牧した区画では、人為的に雑草を刈り取った区画と比べ、野生のミツバチやテントウムシの個体数が38％増加した。植生管理に最適だった1ヘクタール当たり8頭では、ミツバチの個体数が45％減少したという。共著者のスティーブ・グロドスキー助教は、農家が日々使う具体的な数値として放牧密度に注目したと説明し、人・エネルギー・家畜・植物・昆虫が一体となる生態系の中で、トレードオフと相乗効果を科学的に把握することの意義を強調した。\n\n2つ目の研究は、同大学経営学部のヴィンセント・スロー助教らがUnited Agrivoltaicsと協力して開発した意思決定ツールを扱うものである。2026年9月に学術誌Manufacturing & Service Operations Managementに掲載された論文で詳述されている。このツールはスプレッドシートを用いたモデルで、農家が目標とする羊の群れの規模、コスト、予想収益、施設の植生などを基に、調達と販売の判断を最適化する。United Agrivoltaicsはすでに業務に組み込んでいる。スロー氏は、施設との契約で農家は安定した収入と飼料を得られるため、アメリカの羊農家にとって事業拡大の機会になるとみている。記事作成時点で、アメリカで消費される羊毛・羊肉の約半分は輸入されている。\n\n博士研究員のニコラ・コチェンドルファー氏は、実際に施設で放牧に取り組む立場から、太陽光発電を利用して規模を広げる農家が増えていると述べた。施設での放牧は放牧料を支払うのではなく、放牧によって収入を得られる仕組みであり、その収入を事業拡大や納屋の建設、設備購入、従業員の雇用に充てられるという。",
+      "sources": [
+        {
+          "outlet": "GIGAZINE",
+          "url": "https://gigazine.net/news/20261117&",
+          "date": "2026-11-17",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "590cb0b9c5dd",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "headline": "OpenAIがNATOと欧州の防御機関にサイバー防御向けAIを提供",
+      "originalTitle": "Strengthening NATO and allied cyber defenses with AI",
+      "outlet": "OpenAI",
+      "region": "overseas",
+      "category": "ai",
+      "score": 49,
+      "tier": "spare",
+      "pubDate": "2026-11-17T00:00:00.000Z",
+      "body": null,
+      "summary": "OpenAIは、NATOのコミュニケーション・情報局（NCIA）と協力し、NATOの中核機関に高度なサイバーセキュリティ向けモデルを利用できるようにした。同社は、許可された安全保障業務で信頼された防御担当者に高度なAIを提供するツール「Daybreak」を通じてこの取り組みを進めている。NATOはこの取り組みで、月に最大3000億の入出力トークン（AIが処理するデータの単位）を使用したという。\n\n2026年の演習「Crossed Swords」はNATO協力サイバー防衛センター（CCDCOE）が主催したもので、OpenAIはこれを支援した。新設の訓練では、参加者がサイバー作戦向けのAIエージェントを構築、展開、評価し、技術環境ではDaybreakを使用した。人間の監督を維持することが重視された。NCIAゼネラルマネージャーのディラン・ブラウン博士は、AIによる防御モデルは脆弱性の発見を加速し、機械の速度で新たな脅威を検出すると述べた。今後はトークン消費量や利用傾向を把握し、コスト最適化や調達判断に生かすとしている。OpenAIの国家安全保障政策責任者サーシャ・ベイカー氏は、攻撃者が悪用する前に防御担当者が脆弱性を見つけて修正できるよう支援すると述べた。\n\nNATO以外にも、EUのサイバーセキュリティ機関ENISAや、フランス（ANSSI）、ドイツ、ポーランドの国家サイバー機関にモデルを提供している。ウクライナのデジタル変革省は、民間インフラのサイバー防御を強化するためDaybreakを使用している。ENISAはEU機関で使われるソフトウェアの脆弱性を4件特定し、4件すべての修正を公開した。ENISAとCERT-EUが11月に公表した共同報告では、最先端のAIモデル（フロンティアモデル）とコード開発を支援するツールCodexのセキュリティ用プラグインを用いて27のソフトウェアプロジェクトを検証した。テストされたモデル全体では、保守者が評価した88件の潜在的な問題のうち95％が本物と確認されたとしている。\n\nCERT Polskaは、OpenAIのモデルを使ってMikroTik RouterOSの脆弱性を6件特定し、ベンダーと公開時期を調整した。研究者が作業を指揮し、実際のシステムで結果を検証した。MikroTikが修正を公開し、CERT Polskaはそれが観測された攻撃を防いだことを確認したという。OpenAIは、政府や国家サイバー機関、国際的なパートナーと協力し、防御担当者が弱点を早く見つけて修正できるよう取り組みを続けるとしている。",
+      "sources": [
+        {
+          "outlet": "OpenAI",
+          "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+          "date": "2026-11-17",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "859fe7425ca0",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+      "headline": "Instagramでディープフェイク投稿が広がる、Meta幹部のAI動画も",
+      "originalTitle": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+      "outlet": "The Verge",
+      "region": "overseas",
+      "category": "ai",
+      "score": 48,
+      "tier": "spare",
+      "pubDate": "2026-11-17T21:00:55.000Z",
+      "body": null,
+      "summary": "Instagramではディープフェイクの投稿が多く見られ、最近はMetaの幹部が投稿した動画も話題になっている。11月初め、Metaの最高AI責任者アレクサンダー・ワン氏は、同社の消費者向けAIエージェント「Muse」を宣伝する短い動画を投稿した。AIで生成された動画では、ワン氏、Metaのマーク・ザッカーバーグCEO、OpenAIのサム・アルトマンCEO、Museのマスコット「Jolly」が4人でビデオ通話をしており、アルトマン氏はJollyに似せた毛皮のフード付きスーツ姿で描かれている。\n\n動画のキャプションは「OpenAIの製品戦略について仲間たちが集まったとき」で、AIエージェントの競争とMuseの人気を指している。数年前までは、実在の人物を模したAIコンテンツに対して強い反発や法的措置が示されることもあったが、今ではソーシャルメディアを中心に日常の一部になっている。米中間選挙を前には、政治団体が数百万ドル相当のAI生成広告で対立候補を攻撃した。\n\nワン氏は、Museの宣伝に「反PR（anti-PR）」と呼ばれる手法を多用し、従来型のマーケターを「corposlops」と呼んでいる。主要テック企業の幹部が競合のAI動画を投稿するのは注目に値し、AI生成コンテンツが問題視されているInstagramではなおさら目立つ。10月には、AI生成画像が広まった映画『Pearl』の女優ミア・ゴス氏の代理人が、Instagramが公人の肖像の保護と完全性を重視せず拡散を許したことを「理解しがたい」と批判した。\n\nスカーレット・ヨハンソンなど他の著名人も性的なAI画像の標的になることがあり、Metaは過去に他人になりすまして肖像を使ったアカウントを削除している。Metaは人物を描いたAI動画にはAIであることの表示を義務づけているが、静止画には義務がないため、ゴス氏の画像には表示がなかった。さらにその画像は、Instagramが付与した青い認証バッジを持つファンアカウントが共有していた。Metaの広報担当トレイシー・クレイトン氏は、ワン氏の投稿はAIコンテンツと表示されていると述べ、アルトマン氏もSoraアプリの公開時などに自身の肖像をAI生成に利用できるようにしていたと指摘した。OpenAIはコメントの要請に応じていない。",
+      "sources": [
+        {
+          "outlet": "The Verge",
+          "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+          "date": "2026-11-17",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "abc9fd7680c3",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.theverge.com/tech/1036045/ifixit-teardown-apple-homeview-smart-home-hub",
+      "headline": "Apple HomeView、iFixitの分解で修理の難しさが判明",
+      "originalTitle": "iFixit’s Apple HomeView teardown reveals a device that will be difficult to repair",
+      "outlet": "The Verge",
+      "region": "overseas",
+      "category": "it",
+      "score": 47,
+      "tier": "spare",
+      "pubDate": "2026-11-17T22:25:41.000Z",
+      "body": null,
+      "summary": "修理情報サイトのiFixitは、Appleの新製品HomeViewを分解し、修理の難しさを検証した。同社は、近年のiPadやHomePodより分解しやすいと予想していたが、作業中にコネクタを損傷させ、スピーカーを二つに割り、ロジックボード（機器の中核となる基板）に強い力を加えることになったとしている。\n\n特に困難だったのは、7インチ相当のタブレット部分である。iFixitは、ディスプレイを固定する接着剤が最近分解したどのApple製品よりも強く固着していたとしている。また、アルミの筐体全体を放熱部品として使う設計では、熱を逃がす遮蔽板とロジックボードが熱的に強く結合しており、両者を分離する作業は「非常にリスクの高い作業」だったという。\n\niFixitは、接着剤の多用が工場での組み立てを効率化させた可能性はあるものの、修理は極めて難しくしていると評価している。壁掛け版はテーブル版よりスピーカーユニットが小さいとも報告された。価格はどちらも299ドルだが、壁掛け版は別売りのマウントが必要なため総額は高くなり、iFixitは支払う額に対して性能が低いと感じたとしている。",
+      "sources": [
+        {
+          "outlet": "The Verge",
+          "url": "https://www.theverge.com/tech/1036045/ifixit-teardown-apple-homeview-smart-home-hub",
+          "date": "2026-11-17",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "7255bd7bf56d",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003270/",
+      "headline": "東京都、水道利用者の個人情報871件含むHDD紛失 口座番号の一部も",
+      "originalTitle": "東京都、水道利用者個人情報871件含むHDD紛失 一部に口座番号も 10月に同様事案",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "it",
+      "score": 47,
+      "tier": "spare",
+      "pubDate": "2026-11-17T08:18:24.000Z",
+      "body": null,
+      "summary": "東京都の水道利用者の個人情報871件を含むHDDが紛失したことが報じられた。一部には口座番号も含まれていたとされ、10月にも同様の事案が起きていたという。本文は確認できた範囲で具体的な経緯の記載がないため、詳細は不明である。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003270/",
+          "date": "2026-11-17",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "797d638b0571",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+      "headline": "Quad9、フランスでの公開DNS提供から撤退 遮断命令と罰金受け",
+      "originalTitle": "Quad9's withdrawal from France: A canary in the coal mine",
+      "outlet": "blog.cloudflare.com",
+      "region": "overseas",
+      "category": "it",
+      "score": 46,
+      "tier": "spare",
+      "pubDate": "2026-11-17T22:13:34.000Z",
+      "body": null,
+      "summary": "クラウドフレアは、スイスの非営利財団Quad9がフランスにおける無料の公開DNSリゾルバ（ドメイン名をIPアドレスに変換する名前解決を行うサービス）の提供から撤退すると発表したことについて、問題点を論じた。Quad9は、著作権侵害が疑われるドメインの遮断を怠ったとして、フランスの裁判所から日ごとの罰金を科されており、数か月に及ぶ訴訟の末の撤退である。\n\nQuad9のリゾルバは、政府機関、教育機関、病院、公益事業者など幅広い利用者に使われている。Quad9は利用者を特定できず、個別に通知する手段もないため、利用者はリゾルバが停止して初めて通信できなくなることに気づく可能性があるとしている。セキュリティ機器や温度調整機器が同リゾルバに固定設定されている場合、復旧は難しい恐れもあるという。\n\nクラウドフレアは、DNSでの遮断は効果が乏しいと主張している。利用者は一分足らずで別のリゾルバに切り替えて回避でき、ドメン単位で遮断するため合法なコンテンツも巻き込むうえ、利用者には理由が示されないとしている。また、ドメイン名を解決させない遮断は国境を越えて影響するため、問題がより大きいとも述べている。同社は、欧州で流通する海賊版の多くが欧州内のホスティング事業者に置かれているとの調査を挙げ、対策はそちらに向けるべきだと主張している。\n\nベルギーの裁判所も、クラウドフレア、Google、Ciscoに対して2027年1月初めまでに公開リゾルバでの遮断を始めるよう命じ、従わなければ罰金を科す命令を出している。3社はこの命令を不服として控訴した。Ciscoはこれ以前にもOpenDNSをフランス、ポルトガル、ベルギー（一時的）から撤退させている。クラウドフレアは、ドイツの裁判所では同社とQuad9に有利な判断が出たほか、フランスでは1.1.1.1の遮断を怠ったとする罰金が退けられたと説明している。",
+      "sources": [
+        {
+          "outlet": "blog.cloudflare.com",
+          "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+          "date": "2026-11-17",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": "https://news.ycombinator.com/item?id=50538994",
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "c6c361c53bc4",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "headline": "OpenAI、営業チーム向けの『ChatGPT for Sales』を発表",
+      "originalTitle": "Introducing ChatGPT for Sales",
+      "outlet": "OpenAI",
+      "region": "overseas",
+      "category": "ai",
+      "score": 46,
+      "tier": "spare",
+      "pubDate": "2026-11-17T08:00:00.000Z",
+      "body": null,
+      "summary": "OpenAIは営業チーム向けの新製品「ChatGPT for Sales」を発表した。顧客理解を深め、定型業務の時間を減らし、成約数を増やすことを目的としている。新たに提供される「Sales」プラグインと、30以上の提携先プラグインを含む。プラグインとは、ChatGPTに外部ツールの機能を追加する拡張機能のことである。\n\nSalesプラグインは、取引先の選定から商談準備、フォローアップのメール作成まで、営業の日常業務に使えるワークフローを提供する。CRM（顧客関係管理）のSalesforceやHubSpotなど既存ツールの顧客情報を連携させ、商談の準備や提案書の作成に活用できる。Gong、Otter.ai、Granolaなどの通話記録から顧客の優先事項を把握し、合意した次のアクションを整理することも可能だとしている。\n\n具体的な利用例として、CRMや調査ツールのデータから優先度の高い取引先リストを作る、面談前に取引履歴や過去の通話内容をまとめたブリーフィングを作る、商談の停滞要因を把握する、といった方法を挙げている。Backstoryのシグナルで注意が必要な商談を見つけたり、Docusignなどと連携して見積書や契約書を準備したりすることもできるという。ChatGPT内で常時稼働するエージェント「dot」に、こうした作業を任せることも可能としている。\n\nChatGPT BusinessまたはEnterpriseの管理者は、管理コンソールでSalesプラグインや提携プラグインを利用できるよう設定する。提携プラグインの利用可否は、プラン、地域、ワークスペースの設定によって異なる。OpenAIは、営業業務全体をChatGPTに取り込むことを目指すとしている。",
+      "sources": [
+        {
+          "outlet": "OpenAI",
+          "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+          "date": "2026-11-17",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "8975118590d3",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "science",
+      "url": "https://arxiv.org/abs/2611.09827",
+      "headline": "低軌道核爆発の衛星への影響、モデル計算で約98％が1週間以内に機能停止",
+      "originalTitle": "Effects of a Nuclear Detonation in Low Earth Orbit",
+      "outlet": "arxiv.org",
+      "region": "overseas",
+      "category": "science",
+      "score": 40,
+      "tier": "spare",
+      "pubDate": "2026-11-17T19:46:57.000Z",
+      "body": null,
+      "summary": "13,000基を超える衛星が低軌道（LEO）で運用されており、宇宙空間で核兵器が衛星を標的に使われる懸念が高まっている。arXivに掲載された論文は、1メガトン級の核爆発が低軌道の衛星に与える影響をモデルで計算した。爆発直後のX線バーストに加え、核分裂生成物から放出された電子が地球の磁場に捕らえられ、人工の放射線帯を形成して衛星に繰り返し被ばくを与えるとしている。\n\n高度500キロメートルで南大西洋上空の爆発を想定した中心ケースでは、モデル化された衛星の約98％が1週間以内に機能しなくなる。放射線耐性を3倍に高めても、機能停止の拡大は数日遅れるにとどまり、2週間後でも約97％が機能しないままだという。\n\n機動性を失った衛星が増えるため衝突リスクは大きく高まり、2年以内に約20件の衝突が起きると見込まれている。大気抵抗（ドラッグ）によって機能停止した衛星の多くは低い高度から取り除かれる。一方、代わりに打ち上げられた衛星は、数年にわたり放射線やデブリにさらされる可能性があるとしている。\n\n論文は、単一の核爆発が軌道上のインフラを壊滅させうることを示し、宇宙での核兵器の配備と使用を防ぐ取り組みを支えるものだと位置づけている。",
+      "sources": [
+        {
+          "outlet": "arxiv.org",
+          "url": "https://arxiv.org/abs/2611.09827",
+          "date": "2026-11-17",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": "https://news.ycombinator.com/item?id=50537120",
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "86eb1d31e3b1",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "science",
+      "url": "https://arstechnica.com/space/2026/11/yet-another-satellite-company-is-jockeying-for-a-rocket-but-this-one-makes-sense/",
+      "headline": "フィンランドのICEYE、イタリアのアビオに22億ドル超の買収提案",
+      "originalTitle": "Yet another satellite company is jockeying for a rocket—but this one makes sense",
+      "outlet": "Ars Technica",
+      "region": "overseas",
+      "category": "science",
+      "score": 39,
+      "tier": "spare",
+      "pubDate": "2026-11-17T22:44:46.000Z",
+      "body": null,
+      "summary": "フィンランドの衛星開発企業ICEYEが、イタリアのロケットメーカーであるアビオを22億ドル超で買収する提案を発表した。ICEYEのイタリア子会社が、アビオの株主（防衛大手レオナルドが主導する株主）に対し、現金による任意の公開買付け（TOB）を行う形である。アビオの取締役会は通知を受けて提案を検討中としている。\n\nアビオは、固体燃料を使う小型・中型ロケット「Vega C」を製造している。低軌道へ最大3.3トンを運ぶことができ、2022年以降に8回打ち上げて7回成功した。ICEYEは今回の統合により、衛星と打ち上げの両方を手がける欧州初の垂直統合型企業をつくるとしている。ICEYEの評価額は、6月の資金調達後に120億ドルを超えたという。\n\n背景には打ち上げ手段の確保という課題がある。ICEYEは衛星の多くをSpaceXのFalcon 9の相乗り（ライドシェア）で打ち上げてきたが、SpaceXは2028年以降にこの相乗り提供を終える方針とされる。記事によると、Vega Cの専用打ち上げは約5,500万ドルで、ICEYE規模の衛星の相乗り費用は約70万ドルである。買収によりコストを抑えれば、ICEYEの衛星をVega Cで打ち上げる費用は、相乗り価格の2〜3倍程度になる可能性があるとしている。\n\nただし、Vega Cの主な顧客は欧州宇宙機関（ESA）と欧州各国政府で、商業需要は少ない。ICEYEはNokiaと、2028年から年50機の打ち上げを目指す低軌道衛星網の構築も計画しているが、性能などの詳細は未公表である。記事は欧州の宇宙主権の観点から統合に意義があると評価しつつ、両社の計画にも懐疑的に見る理由があると指摘している。",
+      "sources": [
+        {
+          "outlet": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/11/yet-another-satellite-company-is-jockeying-for-a-rocket-but-this-one-makes-sense/",
+          "date": "2026-11-17",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    }
+  ],
+  "essays": [],
+  "productionNote": {
+    "reachedOutlets": [
+      "OpenAI",
+      "ITmedia NEWS",
+      "TechCrunch",
+      "calif.io",
+      "Google AI Blog",
+      "Publickey",
+      "The Verge",
+      "Ars Technica",
+      "Impress Watch",
+      "GIGAZINE",
+      "blog.cloudflare.com",
+      "arxiv.org"
+    ],
+    "unreachedOutlets": [],
+    "excluded": [
+      {
+        "topic": "国際深掘りが当日に扱った3件",
+        "reason": "実行順により先発の系統を優先"
+      }
+    ],
+    "counts": {
+      "deep": 0,
+      "brief": 30,
+      "essays": 0,
+      "chars": 22741
+    },
+    "text": "候補100件から30件を掲載。本文が取れず不採用2件。"
+  }
+}
