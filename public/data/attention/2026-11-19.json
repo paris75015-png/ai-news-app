@@ -1,0 +1,2718 @@
+{
+ "date": "2026-11-19",
+ "generatedAt": "2026-11-18T23:24:56.161Z",
+ "measured": {
+  "world": 17,
+  "jp": 6
+ },
+ "unreachable": [
+  {
+   "id": "euronews",
+   "name": "Euronews",
+   "error": "HTTP 406"
+  }
+ ],
+ "ranking": [
+  {
+   "id": "s-20261116-16",
+   "title": "トランプ氏訪中、米中露首脳が会談へ",
+   "firstSeen": "2026-11-16",
+   "daysSeen": 4,
+   "history": {
+    "2026-11-16": 14,
+    "2026-11-17": 26,
+    "2026-11-18": 15,
+    "2026-11-19": 34
+   },
+   "peak": 34,
+   "worldScore": 34,
+   "worldCoverage": "9/17",
+   "jpScore": 17,
+   "jpCoverage": "2/6",
+   "gap": 17,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.91,
+     "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
+     "desc": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
+     "url": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.97,
+     "title": "Trump, Xi and Putin Shake Hands as Leaders Gather in China",
+     "desc": "China’s leader, Xi Jinping, earlier hugged President Trump on the tarmac as he arrived for a regional summit in Shenzhen. They are expected to hold a trilateral meeting on Thursday with President Vladimir V. Putin of Russia.",
+     "url": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Crowds gather as Trump arrives in China ahead of talks with Xi and Putin",
+     "desc": "Crowds gathered in Shenzhen, China, to welcome US President Donald Trump as he arrived for the APEC summit",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/crowds-gather-as-trump-arrives-in-china-ahead-of-talks-with-xi-and-putin?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "npr",
+     "name": "NPR",
+     "region": "world",
+     "weight": 0.84,
+     "title": "Trump to meet with Russia's Putin and China's Xi for historic joint meeting",
+     "desc": "President Trump will meet with Russian President Vladimir Putin and Chinese President Xi on Thursday for a historic three-way meeting.",
+     "url": "https://www.npr.org/2026/11/18/nx-s1-6027645/trump-to-meet-with-russias-putin-and-chinas-xi-for-historic-joint-meeting",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Xi welcomes Trump to China ahead of high-stakes Putin meeting",
+     "desc": "President Xi Jinping personally greeted US counterpart Donald Trump on the tarmac at a Chinese airport on Wednesday, with the two leaders briefly hugging ahead of their highly anticipated meeting with Russia's Vladimir Putin. Beijing has indicated the war in Ukraine will not be discussed during the trilateral meeting, but Trump had said the conflict would find its way onto the agenda, something that experts say is likely to please Putin.",
+     "url": "https://www.france24.com/en/video/20261118-xi-welcomes-trump-to-china-ahead-of-high-stakes-putin-meeting",
+     "via": null
+    },
+    {
+     "id": "dw",
+     "name": "Deutsche Welle",
+     "region": "world",
+     "weight": 0.5,
+     "title": "APEC summit: What Trump, Xi and Putin want",
+     "desc": "Trump, Xi and Putin will hold their first trilateral meeting on the sidelines of APEC. With different priorities on trade, Ukraine, Iran and arms control, what does each leader hope to gain?",
+     "url": "https://www.dw.com/en/apec-summit-what-trump-xi-and-putin-want/a-79970462?maca=en-rss-en-world-4025-rdf",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "A tarmac hug with Xi and a handshake with Putin, how Trump began his China visit",
+     "desc": "Handshakes, warm welcomes and carefully staged photo opportunities defined US President Donald Trump’s first day in Shenzhen on Wednesday, as China showcased its diplomatic priorities ahead of a planned three-way summit with Russia. Here are the key moments from the day. Xi’s personal welcome for Trump Chinese President Xi Jinping broke with decades of protocol by personally greeting Trump at Shenzhen Baon Airport. Their handshake quickly turned into a brief hug, while five J-10C fighter jets...",
+     "url": "https://www.scmp.com/news/china/diplomacy/article/3374951/tarmac-hug-xi-and-handshake-putin-how-trump-began-his-china-visit",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump lands in China ahead of historic meeting with Xi and Putin",
+     "desc": "President Trump landed in Shenzhen, China, on Wednesday ahead of his historic meeting with Xi Jinping and Russia&#039;s Vladimir Putin. Tony Dokoupil and Nancy Cordes report.",
+     "url": "https://www.cbsnews.com/video/trump-lands-in-china-ahead-of-historic-meeting-with-xi-and-putin/",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Xi, Putin blast Western 'protectionism' and sanctions as Trump lands in China - Reuters",
+     "desc": "Xi, Putin blast Western 'protectionism' and sanctions as Trump lands in China Reuters",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb21UOHp4X2E2V05LRUhhUjhnSzI5b1NmNDRVQWhCb2RTV3gwQng0N3lKQ2lnV3JrbjB2cTBpSkNObTdwbXowR2d0UEt5NFp5blJtallNRjdFSjNoVDdxNkNXWFI4bmpETEV5TUs2OE16WW1lLTR0NkZCbEdXZF9OVDVycUFYV2p2aklNS3dR?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "米中ロ首脳が初会談へ 大国外交、「ヤルタ」想起",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026111900139&g=int&m=rss",
+     "via": null
+    },
+    {
+     "id": "mainichi",
+     "name": "毎日新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "「礼には礼で」習氏がトランプ氏出迎え 高市首相には大使経験者",
+     "desc": "",
+     "url": "https://mainichi.jp/articles/20261118/k00/00m/030/382000c",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261119-04",
+   "title": "ヘグセス長官、ベネズエラと軍事協力で合意",
+   "firstSeen": "2026-11-19",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-19": 26
+   },
+   "peak": 26,
+   "worldScore": 26,
+   "worldCoverage": "8/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 26,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.91,
+     "title": "Hegseth uses Venezuela visit to boast of Maduro’s capture by US military",
+     "desc": "Defense secretary asserts US dominance on trip that would have seemed ‘impossible, almost unbelievable’ a year ago Pete Hegseth has used his first visit to Venezuela since US special forces abducted its former president, Nicolás Maduro, to boast of the dictator’s capture during what he called “the single most sophisticated military operation in the history of Latin America”. Maduro was controversially seized by Delta Force operatives in the early hours of 3 January, setting in motion an improbable rapprochement between Washington and Venezuela’s anti-imperialist “Chavista” regime, which has ru",
+     "url": "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US Defence Secretary Hegseth reveals military partnership on Venezuela trip",
+     "desc": "Pete Hegseth says the agreement will include joint training and intelligence sharing with the Venezuelan military.",
+     "url": "https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US and Venezuela sign deal to re-establish military ties during Hegseth visit",
+     "desc": "The United States and Venezuela have signed a deal to re-establish military ties, from training to intelligence sharing, US Defence Secretary Pete Hegseth said Wednesday on a visit with the South American nation’s interim leaders. Hegseth said that following the January capture of Venezuelan President Nicolas Maduro by the US military, the country “has gone from our most aggressive regional threat to a compliant security partner”. He also praised the “close cooperation” with interim President...",
+     "url": "https://www.scmp.com/news/world/americas/article/3374965/us-and-venezuela-sign-deal-re-establish-military-ties-during-hegseth-visit",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Hegseth, in Caracas, announces US-Venezuela military partnership agreement",
+     "desc": "He said the cooperation will ramp up joint action against drug trafficking groups.",
+     "url": "https://www.straitstimes.com/world/us-defense-secretary-hegseth-vows-to-boost-venezuela-military-cooperation",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Hegseth, in Caracas, announces US-Venezuela military partnership agreement - Reuters",
+     "desc": "Hegseth, in Caracas, announces US-Venezuela military partnership agreement Reuters",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZV9uT1R6QjFJeHlkYmhUeTdIQ0F0Ync2akZibV9hdmhtNEZMelUzSkk1WlFTNTJUd2NKdC1ILW9rWHZJb3JZemxwT2dwNlc5QjNIYzlNS1kwVkt6aDl5aVl0VFdvRUNPYzBMeXJtMnM4YVJPWjdvSzZ6eWlQNXVFdGdhNkw3YzhpQ0V4Yk11dlFKS21RREIxZVcwUFJxS0xKZ25TMDE1bGtDRUJ2aUp2VVFBVkUtSDU1VXBLNENB?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US and Venezuela sign a deal to reestablish military ties, Hegseth says in visit to Caracas - AP News",
+     "desc": "US and Venezuela sign a deal to reestablish military ties, Hegseth says in visit to Caracas AP News",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONFk1RlZIUXh1dXlFVHVzSlh1YjVibG0wdV81RS1na0Ywc3p5MEhaOXB6YlREV3FFRzJpM1VhMFgzYnNLU3hvaXBXOUh4TkpXa01XYTRzS1o1R0VXcHhzZXc4ZkRZYUIxRVVpRXB6Zm9BRUNMQlE5aGFySVUzR2RpVmpsV1A2UFNSLTRITEZNVG5BdUlZ?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Hegseth Travels to Venezuela for Talks With Interim Government - Bloomberg.com",
+     "desc": "Hegseth Travels to Venezuela for Talks With Interim Government Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaXQwd255YzBDQjFSS3VKY01JUjRMN3JBUW4yTVp5VFZOd1dxbzRGdXU4VVhlQ1dOREszRmJBOGZKdkpjOFVPTXRDamRmWUxCcEM2Yjk3UVhTU0FkeWdzNWxocDF4UEJDSmREV0xEejRpNng4bzRyMm4tY2UzYWtKVWNKZWItVWZwcnJ2SlBOYmJvdUxFQlBwQkVzd3F6NVlGOUJVSVl6djJWd2ZVNk5MVzRvUQ?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US and Venezuela to expand military co-operation to target drug trafficking - Financial Times",
+     "desc": "US and Venezuela to expand military co-operation to target drug trafficking Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNM2lFUjZmVG9QcHNZLU1vcmtCMjJoUFZWNWhuQmgxNDVQa1J5Yk9jbGZoVF81TTNvV0ZsczE2eEJNV0Zya1lsWUFNd0xQSnNpY1hWdzhnOHRNYXVJbGdFaGwxbmhoTUo4d2xVRldQekp5d0tKbV9YeUpKb2VYY0NuNFBmc1o?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261119-10",
+   "title": "GTA6が発売、高評価を受ける",
+   "firstSeen": "2026-11-19",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-19": 26
+   },
+   "peak": 26,
+   "worldScore": 26,
+   "worldCoverage": "7/17",
+   "jpScore": 8,
+   "jpCoverage": "1/6",
+   "gap": 18,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.85,
+     "title": "Grand Theft Auto 6 is a masterpiece, say critics",
+     "desc": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
+     "url": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.65,
+     "title": "GTA 6 bedazzles gamers in Australia with ‘fully lived in, breathable world’",
+     "desc": "Players can renovate houses, fix cars, lift weights and follow the story in Grand Theft Auto VI’s Miami-inspired Vice City Gamers across Australia woke up Thursday morning feeling like Christmas came early, some bleary-eyed from late night sessions on the Playstation, others with grand plans for a weekend foray in Vice City when their day jobs let them loose. Grand Theft Auto VI, more than a decade in the making, is here. And the reviews, mere hours into release, reflect universal acclaim. The game has already vaulted to the top spot on Metacritic’s list of the best games of all time, sitting ",
+     "url": "https://www.theguardian.com/games/2026/nov/19/gta-6-grand-theft-auto-vi-release-launch-australia-first-to-play-game",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.59,
+     "title": "Grand Theft Auto: An American Icon, Born in Britain",
+     "desc": "The game franchise is a cultural juggernaut, played around the world as a violent, immersive ride through American cities. But the series originated in Scotland from a pop culture collage.",
+     "url": "https://www.nytimes.com/2026/11/18/world/europe/grand-theft-auto-america-scotland-global-reaction.html",
+     "via": null
+    },
+    {
+     "id": "abc-au",
+     "name": "ABC Australia",
+     "region": "world",
+     "weight": 0.91,
+     "title": "Grand Theft Auto VI launches to rave reviews and gamer acclaim",
+     "desc": "After years of delays, video game Grand Theft Auto VI has been released, and critics say it lives up to the hype.",
+     "url": "https://www.abc.net.au/news/2026-11-19/gta-vi-smashes-expectations-after-overnight-launch/107401924",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Grand Theft Auto VI draws rave reviews as gamers enter Vice City - Reuters",
+     "desc": "Grand Theft Auto VI draws rave reviews as gamers enter Vice City Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcVVqRHRmV1VIanMwYjl6bHB4R0FTSWZOVFY5RXVYSmtaOVZQMVhXNkoxVjM1NF9ZUUZYa2hneUMxeTBzRC1WTFJQZVJBOTAweVhHOFhfZFJIVmt6cTdHMGxwYnFDUjZaYUZJVGlvV2dOVGFvVWVDY3FaX2VHQWZ4dlhlRGxQdDhETVN5aFA0OG9hOVVHMFBYbHFESkxEY0ZPeUV0a0U3LTFvZFRnWk9oQkhwdTVSbmdGQUZHSk02UzE?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "‘Grand Theft Auto VI’ Becomes the Best-Reviewed Video Game Ever - Bloomberg.com",
+     "desc": "‘Grand Theft Auto VI’ Becomes the Best-Reviewed Video Game Ever Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZTFWY3FxYXQ4OFBjZWdYWHVhN3BwczVMLXNvc2R1N1Y5ek00OFFpcmpvd1pEeWNfVzdOeW1YTG9KZWtHdHlOamtQX19lc2tTbU43RXREbEhlNFQ1QlRsNmNUcWdLWExUcnRsckdpbWdfZ3Z0dWNyQUc2SlR0X2doOFp0V1FxdXdxTzNTR2dkOWswT0JLZXAyMk45bHJFX3NSVW5UQkFqNGhSLWFabTRSUUNXYw?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "‘Bigger, better’ ‘Grand Theft Auto’ set to smash entertainment records - Financial Times",
+     "desc": "‘Bigger, better’ ‘Grand Theft Auto’ set to smash entertainment records Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaWRPdVlXejFYbmxMbFZuTEI3dFZMQXdrQXI5YjhPNzFNOTcxSGFXVUxyRGtaX3kxQTJhclNlWkZvb0VSRGpQVTlnaU1kR21zbktDclVSSWdnaGlkdWZWRVJyNUx0dUpScm00cTNrZFJROEFTUVVSb2FVaEp3UU9qMld6VEE?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "13年ぶり新作ゲーム「GTA6」、予約販売だけで2500億円 異例の熱狂 - 日本経済新聞",
+     "desc": "13年ぶり新作ゲーム「GTA6」、予約販売だけで2500億円 異例の熱狂 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tSDZfQnY2c01jcGM3N0pQVG93ZkdJZ1NSZFdmWVNvb3V3ZW1wSkM0ZTdheVBFR0doM3MzTU9YUnBsT09NdU1PUUVRNE50YTBwXzJ0bTFneXdhVG5uNXN5MzM2Y1pWMzV4Sk5jMA?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261119-05",
+   "title": "イスラエル軍、ガザ中部で地上作戦",
+   "firstSeen": "2026-11-19",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-19": 25
+   },
+   "peak": 25,
+   "worldScore": 25,
+   "worldCoverage": "6/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 25,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.88,
+     "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+     "desc": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
+     "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "What does Israel’s new ground offensive mean for Palestinians in Gaza?",
+     "desc": "Israeli tanks advance beyond the &#039;Yellow Line&#039;, forcing Palestinians to flee again in Gaza.",
+     "url": "https://www.aljazeera.com/news/2026/11/18/what-does-israels-new-ground-offensive-mean-for-palestinians-in-gaza?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.94,
+     "title": "Israeli Tanks Advance Across Gaza Cease-Fire Line in Rare Incursion",
+     "desc": "The Israeli military said it was conducting a limited raid into territory controlled by Hamas to address a threat. The militant group accused Israel of violating the truce.",
+     "url": "https://www.nytimes.com/2026/11/18/world/middleeast/israel-gaza-war-ground-operation.html",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Israeli army launches ground operation in Hamas-controlled area of Gaza",
+     "desc": "The Israeli military said it had launched an operation on Wednesday in a Hamas-controlled area of central Gaza, where an AFP journalist saw Israeli tanks position themselves east of the Nuseirat refugee camp. The rare ground operation comes after inconclusive Israeli elections, with the opposition's Gadi Eisenkot trying to form a government without caretaker prime minister Benjamin Netanyahu, who has built his brand on saying he will ensure Israel's security. FRANCE 24's Daniel Whittington reports.",
+     "url": "https://www.france24.com/en/israeli-army-launches-ground-operation-in-hamas-controlled-area-of-gaza",
+     "via": null
+    },
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 1,
+     "title": "Israeli troops launch ground operation in central Gaza",
+     "desc": "Dozens of displaced Palestinians have fled their tents and shelters in central ‌Gaza after Israel launched a rare ground operation in an area it had left under a ceasefire last year.",
+     "url": "https://news.sky.com/story/israeli-troops-launch-ground-operation-in-central-gaza-13613724",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Israel launches ground operation in central Gaza, dozens flee - Reuters",
+     "desc": "Israel launches ground operation in central Gaza, dozens flee Reuters",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaVdVck4yZnVKU01QQ0Nrd1c2VXRReEloTk1IS0xKWjRkcUdrR3BiTlAyU2dQVm1POVg0MmM5anI0YWlIa0txYms3Sjh6QW9kRjU3bmk0ajlHZ3BZbHM5eHBqazVBbVRvYkt4NENBZ0VuU3NEREFaVGpEOXFyMkdPWEktNE41aUIzY2U3enZDX1dmTTZkQzJPNHh0WktQUV80M2ZTb2o0ZDBYUHR0YmIxRWlB?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261118-04",
+   "title": "米のケシム島攻撃後、イランが湾岸を攻撃",
+   "firstSeen": "2026-11-18",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-18": 15,
+    "2026-11-19": 22
+   },
+   "peak": 22,
+   "worldScore": 22,
+   "worldCoverage": "6/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 22,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.77,
+     "title": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
+     "desc": "Bahrain says it was also attacked by Iran following a US air strike on the Iranian island of Qeshm in the Gulf on Tuesday.",
+     "url": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Kuwait, Bahrain face new Iran attacks after US strike on Qeshm Island",
+     "desc": "Iranian attacks on the Gulf countries draw condemnation from across the region.",
+     "url": "https://www.aljazeera.com/news/2026/11/18/kuwait-bahrain-face-new-iran-attacks-after-us-strike-on-qeshm-island?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US strikes Iranian island after Tehran targets Bahrain",
+     "desc": "The US and Iran exchanged fire on Tuesday, with the US striking an Iranian missile launch site after Iran said it targeted a US military radar system in Bahrain, despite talks between Iran and mediators Oman and Qatar.",
+     "url": "https://www.france24.com/en/video/20261118-us-strikes-iranian-island-after-tehran-targets-bahrain",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "U.S. launches strikes on Iran&#039;s Qeshm Island in Strait of Hormuz",
+     "desc": "The strikes came after Iran launched attacks against U.S. radar systems in Bahrain three times in less than a week.",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-oil-strait-of-hormuz/",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Iran widens Gulf attacks by targeting a US air base in Kuwait and sites in Bahrain - AP News",
+     "desc": "Iran widens Gulf attacks by targeting a US air base in Kuwait and sites in Bahrain AP News",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVkpMQk5Ha1FZNG45Vmt6WWxWeUtMS3lSU0hON0F0b0ItSHlWY0NnUHFyQ1JTWFBPSWViZTFVZHpKNWI3V3R1TjM0b25HWTNEZGZ2Q1ItZG5hdXNGcG03M3FjZlJKNmE5SC1lYTJERmRETERvdGJOUGlsMG9pQjVVU2dEWkJxOEY2eXJYd1RtVmNlN2pIcGlLcHJlaw?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.91,
+     "title": "Iran Fires Missiles and Drones at Gulf Arab States as Peace Talks Falter",
+     "desc": "Kuwait and Bahrain said they were targeted on Wednesday, a sign of how the Middle East is stuck in limbo between peace and full-blown war.",
+     "url": "https://www.nytimes.com/2026/11/18/world/middleeast/iran-attacks-bahrain-kuwait-ships-hormuz.html",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261119-06",
+   "title": "ミャンマーのロヒンギャ虐殺、国際司法裁判所",
+   "firstSeen": "2026-11-19",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-19": 19
+   },
+   "peak": 19,
+   "worldScore": 19,
+   "worldCoverage": "4/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 19,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.94,
+     "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+     "desc": "No state has ever been found guilty by an international court of committing genocide.",
+     "url": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 1,
+     "title": "Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling",
+     "desc": "A ruling against Myanmar could set precedent for court’s judgment on Israel’s actions in Gaza Fears are growing that the US could impose sanctions on judges at the international court of justice, including this year’s Nobel peace prize winner, Navi Pillay , if the court rules on Thursday that the Myanmar government committed genocide against the Rohingya. The ICJ has never found a state responsible for committing genocide, and a significant factor in previous cases has been how to prove “intent” in a crime defined as acts committed with the “intent to destroy, in whole or in part” a national, ",
+     "url": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.74,
+     "title": "What to Know About the Myanmar Genocide Case at the World Court",
+     "desc": "The International Court of Justice is issuing a landmark verdict on whether the state of Myanmar committed genocide.",
+     "url": "https://www.nytimes.com/2026/11/18/world/asia/myanmar-rohingya-muslim-genocide-world-court.html",
+     "via": null
+    },
+    {
+     "id": "dw",
+     "name": "Deutsche Welle",
+     "region": "world",
+     "weight": 0.5,
+     "title": "ICJ to rule on Rohingya genocide case against Myanmar: What to know",
+     "desc": "The ICJ is set to decide whether Myanmar's military operations in Rakhine State a decade ago were carried out with the intent to destroy the country's Rohingya minority, in whole or in part.",
+     "url": "https://www.dw.com/en/icj-to-rule-on-rohingya-genocide-case-against-myanmar-what-to-know/a-79981434?maca=en-rss-en-world-4025-rdf",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261119-08",
+   "title": "アラスカ上院選、民主党のペルトラ氏が勝利",
+   "firstSeen": "2026-11-19",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-19": 19
+   },
+   "peak": 19,
+   "worldScore": 19,
+   "worldCoverage": "5/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 19,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.65,
+     "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
+     "desc": "Confirmation of Mary Peltola's victory caps of the party's rout of the Republicans in the midterms Senate election.",
+     "url": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "npr",
+     "name": "NPR",
+     "region": "world",
+     "weight": 0.92,
+     "title": "Mary Peltola flips Alaska's Senate seat. And, Nvidia won't reinstate Jensen Huang",
+     "desc": "Former Democratic Rep. Mary Peltola has won one of the U.S.' most watched Senate races. And, Nvidia's board says it doesn't plan to reinstate former CEO Jensen Huang despite pressure from his allies.",
+     "url": "https://www.npr.org/2026/11/18/g-s1-154145/up-first-newsletter-mary-peltola-alaska-trump-asia-nvidia-tech-issues-ai",
+     "via": null
+    },
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 0.6,
+     "title": "Democrat defeats Republican in Alaska in final midterms Senate race",
+     "desc": "Democrat Mary Peltola has defeated incumbent Republican Dan Sullivan to complete a sweeping victory for the party in the Senate in the US midterm elections.",
+     "url": "https://news.sky.com/story/democrat-defeats-republican-in-alaska-in-final-midterms-senate-race-13613459",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Democrat Mary Peltola wins in Alaska, securing 56-44 US Senate majority - Reuters",
+     "desc": "Democrat Mary Peltola wins in Alaska, securing 56-44 US Senate majority Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcDhNX2ltb0xDNjBoTzlRcFZtcGl4V0FhOE94dTEyMHZVSDItM1ZMYUR2SW1NZVRpamgzQ2g5cXNrcE1wWG5oZlJDNFBWZ1MxeUhUcWhUSF9qM3Y0RXFiY28zT0xiMXdlbU8xX2JoZkUtLW9WejVlX3p0NGtxT0JUNUh2QldjcU5aYThDNWdNcUxUTVo2dTBKTG16NGZrNGQ1WUR6ejUwUnZxM1U?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Democrat Mary Peltola wins US Senate race in Alaska, beating incumbent Republican Dan Sullivan - AP News",
+     "desc": "Democrat Mary Peltola wins US Senate race in Alaska, beating incumbent Republican Dan Sullivan AP News",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVkFROVltMWlvNVFIRVN4MTZTb1lWM04xUGRtM05odzZYUk9zNWxxZnVKZlluYnVfeG5PX3lYOTZTejdVSEIzS3A5b291STRFeW1seWM1cWJKU2ZoNm1kSHp3MW1Pa1p1bV9ZY2NNZEgyNzhGRnlKa1pMNXFOR3k2bThMWXk5ZHdYTmlrb1RDS19OWVZ2dU9wRDN4dmd1SWpF?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261119-09",
+   "title": "民主党、ジェフリーズ氏を下院議長候補に指名",
+   "firstSeen": "2026-11-19",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-19": 19
+   },
+   "peak": 19,
+   "worldScore": 19,
+   "worldCoverage": "6/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 19,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.71,
+     "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
+     "desc": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January.",
+     "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US Democrats nominate Jeffries to be first Black House speaker",
+     "desc": "Hakeem Jeffries is on the cusp of becoming the first Black speaker of the US House of Representatives after Democrats elected him their leader Wednesday following a sweeping midterm election triumph. Jeffries faced no declared challenger, although opposition from some newly elected progressives had exposed divisions over how Democrats should wield their newfound power. FRANCE 24's Fraser Jackson reports from Washington.",
+     "url": "https://www.france24.com/en/us-democrats-nominate-jeffries-to-be-first-black-house-speaker",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Democrats nominate Jeffries to be first black US House speaker",
+     "desc": "Hakeem Jeffries is on the cusp of becoming the first black speaker of the US House of Representatives after Democrats elected him their leader on Wednesday following a sweeping midterm election triumph. The 56-year-old New Yorker secured 251 votes in a closed-door, secret ballot, with 11 cast against his nomination, according to US media. Jeffries faced no declared challenger, although opposition from some newly elected progressives had exposed divisions over how Democrats should wield their...",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3374962/democrats-nominate-jeffries-be-first-black-us-house-speaker",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Democrats nominate Hakeem Jeffries for next US House speaker",
+     "desc": "The incoming House Democratic Caucus nominated Jeffries in a closed-door, secret-ballot vote.",
+     "url": "https://www.straitstimes.com/world/united-states/democrats-nominate-hakeem-jeffries-for-next-us-house-speaker",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Hakeem Jeffries could become the first Black House speaker after Democratic nomination - AP News",
+     "desc": "Hakeem Jeffries could become the first Black House speaker after Democratic nomination AP News",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMkFKcjYyblpFekN4MnNrTUo1Z0ZIVGkyRTJHSENPZ2N6bEE3QmNPVWVnX1VkRG5xbk1IRzBsM1hkaHgwaWo1NkdQSW9PUzZoS1h5TUFteGhGakcxdVUyaml1SDNCXzNkYkhiSkpQVWFkRjh3d3JOeVlkRGt4X01sazQteW42UGIwMjJCZklydHBVbWYwLThsVUEyRnZ3ckZTZkhrcFdfcENjVG9Rc3dJ?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Jeffries Reelected House Democrat Leader, on Path to Speaker - Bloomberg.com",
+     "desc": "Jeffries Reelected House Democrat Leader, on Path to Speaker Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMnhQbkxjNEotb2dLVnJQWlNhcTNkQXh3cVBkZ3dVcld3R3pCUWU5U3hxZzFlLUFFeHdCd19GRWMxakFuYUhILWZCd2FmREpiQUVrSFVmVGhkT2QwWGpDUW1MejNiZEhBZXFHSF9LakdWaGFOaUVqTXl1NGVzY2NwUHZuUEdTR3FfajFBdlFzRmx4MG02S2Q4Y0RVSHpWSnVxWTN4SlgzY0R0eEV4aDktSQ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261113-28",
+   "title": "エヌビディア、フアン氏復帰せず後任体制へ",
+   "firstSeen": "2026-11-13",
+   "daysSeen": 4,
+   "history": {
+    "2026-11-13": 11,
+    "2026-11-16": 12,
+    "2026-11-18": 30,
+    "2026-11-19": 17
+   },
+   "peak": 30,
+   "worldScore": 17,
+   "worldCoverage": "6/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 17,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.56,
+     "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
+     "desc": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+     "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Nvidia rejects Jensen Huang’s offer to return as CEO despite pressure from Silicon Valley - AP News",
+     "desc": "Nvidia rejects Jensen Huang’s offer to return as CEO despite pressure from Silicon Valley AP News",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObnhLd21OYlROQnV3Z2ZRc29BZlRubWM4T2tVN3d3ektLVUdiMXNSS1dhclFQNVZrUEVrdG5rUHFUY0ozQWJJRjFFVlFvVjJ0SC15eEdoUm1JUEdwY2FZdTgyNmNDQnozOWRXSGJBRlVHaC13M09mZ0U3em9hYkp2V1BFWHJvR2ViRFZGcEk5RE8yTWNwUmM5dlhBMC1oMGYzYzE3TXl5akNYTGlOb2c?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Nvidia Tells Employees That Company Is Moving On From Huang Era - Bloomberg.com",
+     "desc": "Nvidia Tells Employees That Company Is Moving On From Huang Era Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdmJBeTBNRzc2WnpadnRGaVh0cE8zTEhIVGstcmtqZnF0cHh2THdwSHNPYzJ6aXZmbGZiYXZvMzV5WTlpN2c4R0F5dS01R0VjcENMVTZpTXcwWVROTmNlZTJsY3BtcldDZFltVG4zVWhZTTNXZmlkS1ItWXJEVkRyRVNhWkU5NTEyRDdweFNhZk41aGQ1U3hIMGJyMnVyTHhEbXVVYTF2MXZSTXJYRTFFdHFFVG8?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Nvidia's numbers impress but investors fret over CEO succession - Reuters",
+     "desc": "Nvidia's numbers impress but investors fret over CEO succession Reuters",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbldlWEozckRZVFhNcGlyNVhJSkxoQ1E2UFduQ3ZaNHFBT0RKMW12eTNJV1BhNzZVMENXWFk0OWE1Z1RWRlUwMW82a2RhYm9kQjlIcmlUb1dzNVBUU25hVHQ5eEdVckRac3B5cUlFMjZkUUlJUFYyZFdjVW95R1ZiT0JZdnFSM0RvMG8tdkxOY21uNFRuOGRTdFJqMzBySXgtTDQ2T2ZzUDdzb1UxbGtfeA?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Nvidia accelerates pay rises as interim CEO seeks to lift staff morale - Financial Times",
+     "desc": "Nvidia accelerates pay rises as interim CEO seeks to lift staff morale Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaWlyenFXWl9XWkpUNXRHeHFBR0EwbGJJRWRnM191VVhXS1pXb3daQnl2amVEMDVZb3NNM2xyZ2N5MzVfVTgwck0wRFNENXd5SDBYRVV2RFRXdF94MHpmZElBYVFyanlyNWtjWHAxY0tHamxnVFhMM1RtLXFXZGpfeXZ5akI?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "npr",
+     "name": "NPR",
+     "region": "world",
+     "weight": 0.38,
+     "title": "Nvidia needs more than a new CEO. An expert offers a way forward",
+     "desc": "Nvidia needs a new CEO. Keeping its engineers is another story.",
+     "url": "https://www.npr.org/2026/11/18/nx-s1-6044070/nvidia-jensen-huang-ceo-replacement-engineers",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261119-07",
+   "title": "フロリダの牧師、ハイチ大統領暗殺で有罪",
+   "firstSeen": "2026-11-19",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-19": 17
+   },
+   "peak": 17,
+   "worldScore": 17,
+   "worldCoverage": "5/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 17,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.94,
+     "title": "Florida pastor found guilty over 2021 assassination of Haitian president",
+     "desc": "Christian Emmanuel Sanon faces life in prison after conviction on charges arising from killing of Jovenel Moïse A Florida pastor with dual Haitian-American citizenship was convicted on Wednesday of US charges arising from the 2021 assassination of the Haitian president Jovenel Moïse. Christian Emmanuel Sanon was found guilty on charges including conspiring to kill Moïse after a nearly eight-week trial in federal court in Miami. He had faced a total of eight charges including conspiracy to kidnap or kill a person outside the United States. Continue reading...",
+     "url": "https://www.theguardian.com/us-news/2026/nov/18/florida-pastor-guilty-haiti-president-assassination",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US court convicts Florida pastor over plot to assassinate Haiti’s president",
+     "desc": "⁠Christian Emmanuel Sanon, a ⁠US-Haitian pastor accused of conspiring ⁠to assassinate and usurp the Caribbean nation’s last sitting president, has been convicted of all charges linked to the murder by a judge in Miami, the Miami Herald reported on Wednesday. Sanon, 68, could face up to life ‌in prison. Prosecutors say the conspirators had for a time planned to replace President Jovenel Moise – who was shot in his bedroom in 2021 – with Sanon, though he was later sidelined in favour of another...",
+     "url": "https://www.scmp.com/news/world/americas/article/3374968/us-court-convicts-florida-pastor-over-plot-assassinate-haitis-president",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Florida pastor convicted in plot to kill Haitian president",
+     "desc": "A Florida pastor with dual Haitian-American citizenship has been convicted of U.S. charges related to the 2021 assassination of Haitian President Jovenel Moïse.",
+     "url": "https://www.cbsnews.com/news/haitian-president-jovenel-moise-assassination-conviction/",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Miami court convicts US-Haitian pastor over plot to assassinate president",
+     "desc": "PORT-AU-PRINCE, Nov 18 - Christian Emmanuel Sanon, a US-Haitian pastor accused of conspiring to assassinate and usurp the Caribbean nation's last sitting president, has been convicted of all charges linked to the murder by a judge in Miami, the Miami Herald reported on Wednesday.",
+     "url": "https://www.straitstimes.com/world/miami-court-convicts-us-haitian-pastor-over-plot-to-assassinate-president",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Florida pastor convicted of US charges related to assassination of Haitian President Jovenel Moïse - AP News",
+     "desc": "Florida pastor convicted of US charges related to assassination of Haitian President Jovenel Moïse AP News",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPenVGckxZaVBEZ3NVQnpZRkczWEZyeUtaaDRkd0FoT0pfYkdsY21MeVExVmZJR3NTSUJoNnp1TzlSY0pUSWNTQmkySUxKSnJ5UzIzX18yMFl4SGhVQU1Oa0VjR1oxWjJscTVHdnJpMjZEb1lmeDNvSHd0aEZTaFJ3SWktbkVTR3dfdTJVUUFuU0sySnZLNUx5dGNYRVBZcl80b2gydUdR?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261027-01",
+   "title": "アンソロピック、IPO価格を1株83ドルに",
+   "firstSeen": "2026-10-27",
+   "daysSeen": 11,
+   "history": {
+    "2026-10-27": 25,
+    "2026-10-28": 3,
+    "2026-10-31": 3,
+    "2026-11-03": 11,
+    "2026-11-04": 3,
+    "2026-11-11": 14,
+    "2026-11-12": 6,
+    "2026-11-16": 6,
+    "2026-11-17": 3,
+    "2026-11-18": 3,
+    "2026-11-19": 16
+   },
+   "peak": 25,
+   "worldScore": 16,
+   "worldCoverage": "5/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 16,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "abc-au",
+     "name": "ABC Australia",
+     "region": "world",
+     "weight": 0.65,
+     "title": "Live: ASX opens lower as Anthropic IPO beats expectations",
+     "desc": "The Aussie share market opens lower as Anthropic announces its highly anticipated share price on the Nasdaq stock exchange. Follow the day's events and insights from our business reporters on the ABC News live markets blog.",
+     "url": "https://www.abc.net.au/news/2026-11-19/asx-markets-business-news-live-updates-thursday-19-november/107401802",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Anthropic prices blockbuster IPO at $83 a share, source says - Reuters",
+     "desc": "Anthropic prices blockbuster IPO at $83 a share, source says Reuters",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPR3NST2trRTZCZkdmblYtRm5pcldXRUJTVjZkZUJ6bHJYbjFUSUJ6ZGVJNW1SMVg0ZWthVnlfVVRhZnlld192c0pBaUZSUzRZS0xGdFlYRnViSU9RYVhHWXRpVDlULS0tREUzcDhfa0NGSVIzVkFTOXBzeW5JelpBVy1RV2FFWEpwdnFhZnlqUVN0bUxWSXJaTVFzTEQxTDlFVVpkRERxQmplM0V2X3c?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Anthropic reportedly prices its IPO at $83 per share, valuing the AI giant at $1.5 trillion - AP News",
+     "desc": "Anthropic reportedly prices its IPO at $83 per share, valuing the AI giant at $1.5 trillion AP News",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeVVmSzl3dVBhbDdFbTMtTUl2LWVHU1FRb2hvYzJZNWdFU0ZDTmU3NFBVNDVWQXNXQlk2QmkzblN4MUplLWVGc1NheHNRZVpZTHZ1eG9OME53SUNtOExJQzNFSTJpLUw0cWxnSjR4VWlXLWZhZUZsc0dna1J6bmxZTTNBb0l2LUpq?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Anthropic Is Said to Price IPO Above Range at $83 Per Share - Bloomberg.com",
+     "desc": "Anthropic Is Said to Price IPO Above Range at $83 Per Share Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQa3BkQzh0ZFBoUzZmTzU4akxveFYzZ2pZWEM0aklQWU50RlBfaW4yaDNTMWxKbzFmZ1d3QW96ZkVjOC0zOHh6eUhGWHhZbkVqRHdGc09WSnk3ek56UTJzYjZtZXI5cVo5UmlRd1JJUE9Qa29HRXZEN0JZZlFNR01yX2xpYkVGWDNSTVNxeGFCTzNBZ3VDc29BQlV6dzdBdw?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Low-profile VCs set for $100bn windfall from Anthropic IPO - Financial Times",
+     "desc": "Low-profile VCs set for $100bn windfall from Anthropic IPO Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNjRQOFIzcnNkZlVyM19oTEZ4eUVibDU0SVlZM1FEdmdyRkVjVDlnMHVRbEJvYlhXZV9Dd3JHOVoxN2xySzZHY3BfUHZQdXU2N3RMNzZHbWV0UDN2WmRhSTNHVjVYa2E3MVRGUEd4eG5ncWRkVmVkVEpXYzgxOUNPWXdxWW4?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261118-27",
+   "title": "米で相次ぐIT障害、政権は関与を否定",
+   "firstSeen": "2026-11-18",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-18": 6,
+    "2026-11-19": 15
+   },
+   "peak": 15,
+   "worldScore": 15,
+   "worldCoverage": "5/17",
+   "jpScore": 14,
+   "jpCoverage": "1/6",
+   "gap": 1,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.48,
+     "title": "Rubio says US not 'under systemic attack' after series of tech outages",
+     "desc": "Secretary of State Marco Rubio said there was \"zero evidence\" supporting theories online that recent disruptions affecting Microsoft, banks and flights are connected.",
+     "url": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Surge in software patches likely behind recent tech outages, experts say",
+     "desc": "AI tools and large language models have supercharged the discovery of vulnerabilities in software.",
+     "url": "https://www.straitstimes.com/world/united-states/patching-in-the-ai-age-may-underlie-some-of-the-major-tech-outages-experts-say",
+     "via": null
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Iran Hit Key Infrastructure, Isn’t Behind Tech Outages, US Says - Bloomberg.com",
+     "desc": "Iran Hit Key Infrastructure, Isn’t Behind Tech Outages, US Says Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUmlCcUxqYWp0dE5fbDNLSk5CakswN2ZwSUd4LU93aEhBeWI4ZXlrY2dQLVJkZERhQTIxYW1ueDFOWWFXOWcxTmtLSk84OU1XcXdEWWtjc2NEdmlfTHpxYS1iX2g2S2ZxODNIbXhZUGcwUEVOSmdlYWM4a0Zlb1NNSWdXaFJPTmlteUpiV05KMlMtdUJfT1F4Z2I5QVN4MHB5Z3duUlo3dkNFUjhsM1pacg?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US tech outages blamed on rush to fix bugs found by AI - Financial Times",
+     "desc": "US tech outages blamed on rush to fix bugs found by AI Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPamJobDVBWldEQkNIYUwxTThSRmxqVElmaHVRNHZZcDhLUEZmaE85UGtpeXJrRnk3bGxiX1AwcnJjUlByTkcyajNtX05jbjBqY2pzMVRoaUQ5QUxBT1pscDN3YUtqTDUzZ2NwcmcyUFB6ek9wMDV5bnFaV3NlOG4xcXAtUUY?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Classified communications network at the National Security Agency goes down, defense official says - AP News",
+     "desc": "Classified communications network at the National Security Agency goes down, defense official says AP News",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMktLaW5kdHVTN3VMZTk4bGp1WWZZZGVJLXFWa2QxOExBN25NdXNYd0F6RW1wZER4QTFDZHlZaWNpbURDdVk1UFBoT3N2ME5UcnIybFRyb0dsemJJbzNHQlJnd0lTSEs3LVJibVRCQjk1c2xNNFpHSTlia0VhRUNCbktOaWtOQlNhNzBvZURB?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.85,
+     "title": "中国技術崛起の本拠地訪れたトランプ大統領、米国内インフラ障害で面目丸つぶれ(中央日報日本語版)",
+     "desc": "トランプ米大統領が技術覇権競争国である中国を訪問する期間中に自国で発生した相次ぐ核心インフラ網障害で面目を失う立場に置かれることになった。米国メディアは18日、トランプ大統領が中国の先端技術が集約され",
+     "url": "https://news.yahoo.co.jp/articles/8306fe015ba34793bbe4d71b1e3cce487fc74a94?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261117-03",
+   "title": "クリミア橋、ウクライナの攻撃で一部崩落",
+   "firstSeen": "2026-11-17",
+   "daysSeen": 3,
+   "history": {
+    "2026-11-17": 14,
+    "2026-11-18": 23,
+    "2026-11-19": 14
+   },
+   "peak": 23,
+   "worldScore": 14,
+   "worldCoverage": "4/17",
+   "jpScore": 7,
+   "jpCoverage": "1/6",
+   "gap": 7,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.42,
+     "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+     "desc": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
+     "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.88,
+     "title": "Russia Vows to Rebuild Destroyed Crimea Bridge. It Could Take Years.",
+     "desc": "The steel arch that is now gone took about two years to produce, assemble and install. Replacing it will be complicated, if possible at all in wartime.",
+     "url": "https://www.nytimes.com/2026/11/18/world/europe/russia-kerch-strait-crimean-bridge.html",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Why Ukraine keeps trying to bring down Russia's bridge to Crimea",
+     "desc": "A Ukrainian drone and missile strike on Monday night brought down a stretch of the bridge linking the annexed Crimean Peninsula to Russia, potentially crippling a route long used by Moscow to move men and materiel into Crimea and the southern front. Here’s why Kyiv keeps testing its strength against an infrastructure project that has become synonymous with Russian President Vladimir Putin’s 2014 seizure of the peninsula.",
+     "url": "https://www.france24.com/en/europe/20261118-why-ukraine-keeps-trying-to-bring-down-russia-s-bridge-to-crimea",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Ukrainian drones and missiles strike Kerch Bridge that links Russia with Crimea - AP News",
+     "desc": "Ukrainian drones and missiles strike Kerch Bridge that links Russia with Crimea AP News",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN1lMdEV1WEtKYTVkZHVmeDh1cEhybHluUVd1eGRuVHdfMkt6ekpEbXFVWHpMN254eURaczMwUVg4RXBmay14U0l4R3l2bUxBQWl3alU4ajNLbGtSdlBha0JPY2ZBelkxMlJUU3RHNVBKNWpwWS0xOGlEbklYNHBhZHZ2T2lzako2TzlkMk9sQmZzMmF2V3pYYUpjdnVqZzU2ZFFORzUyNEpDYi14?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.39,
+     "title": "ロシア本土と結ぶクリミア橋、車道のアーチと一部区間が崩落 ウクライナが無人機とミサイルで集中打撃(Forbes JAPAN)",
+     "desc": "ウクライナからの報告。1728日目■ウクライナの攻撃でケルチ橋が崩落するウクライナは11月16日から17日にかけての夜、ロシア本土とロシア占領下のウクライナ南部クリミア半島を結ぶケルチ（クリミア）橋を",
+     "url": "https://news.yahoo.co.jp/articles/9d2c98505ac1337822979b4965f851f6b8ebd998?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261119-01",
+   "title": "トランプ氏、プーチン氏と個別会談へ",
+   "firstSeen": "2026-11-19",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-19": 12
+   },
+   "peak": 12,
+   "worldScore": 12,
+   "worldCoverage": "4/17",
+   "jpScore": 33,
+   "jpCoverage": "2/6",
+   "gap": -21,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump and Putin to meet one-on-one in China Thursday",
+     "desc": "US and Russia leaders meet in China amid efforts to resolve Ukraine crisis and enhance post-war security guarantees.",
+     "url": "https://www.aljazeera.com/news/2026/11/18/trump-and-putin-to-meet-one-on-one-in-china-thursday?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Putin and Trump expected to hold bilateral talks at APEC summit - Reuters",
+     "desc": "Putin and Trump expected to hold bilateral talks at APEC summit Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQmphYzlHTmtWY2ttZUFFb0VmdHRaTUtId2RKT1luZE96cXF2ZjFYTDk3WTlVNEZ5Q0hTc0JrSFpLSEwzSV8wblVNOE03R3BXdXU3bnhxUnpvb2FJd2hSMG1uTU9yMmNQLUdtNW5vTmxrSUNyb1REWDlzRl83SUx6QlE2Y09rSGFjY2JTb1JQRXNISTFoWTFRamF5U2VWNGJpM0JEMkhsLUs3VDJCdEVoMzBoZzFjZWgw?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump plans separate talks with Putin alongside their 3-way meeting with Xi in China - AP News",
+     "desc": "Trump plans separate talks with Putin alongside their 3-way meeting with Xi in China AP News",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMGlNb2Jsalc3eGpLNWFROHFOZjhyaWxjTi1LWTAxaUNzMVI2WUpXYVd1REVLaURWajJCMWVoUWxCekhtcTNMS2pxYmljMVZ5aXFHUWxwQk5NZ3JhSHpyYk5BdG5TVzZlUUp6bHVhaUJKRkx2MllHeWViQzhlcVJmRUpIekpNV052VENNZ3l2YlZUamJaNXNPYURsZnVmdEE?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump, Putin Plan to Hold Separate Meeting Thursday in China - Bloomberg.com",
+     "desc": "Trump, Putin Plan to Hold Separate Meeting Thursday in China Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSGFNV0liWTJLOVVSaDEzdHNjakN6NUpfTDhTZXljbU1lQjZtSXlCbHc0dGEydUxRSnlIb2x2cE1iS1ZMTkhZbFJFa3A1UjFhbnRMQ2E0bkFMTnFxbTdManhCbUQ1NXpSNnMxekplZnk5UDBsZUJ0N3lYMHI4WmMxLTFNaGJCVHhXMGtmNnlnczRzZ21fWmxxS04waEtSUmFJWDZfM0ZIQ0xoNGhySS00?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 1,
+     "title": "トランプ氏、プーチン氏と19日に個別会談へ 米特使はドイツでウクライナ協議(CNN.co.jp)",
+     "desc": "（CNN） トランプ米大統領は19日、中国でロシアのプーチン大統領と1対1で会談する。米当局者が確認した。【映像】ロシアの爆撃機、滑走路で炎上両氏が前回対面で会談したのは、2025年8月の米アラスカ州",
+     "url": "https://news.yahoo.co.jp/articles/c41f76406ad9ce0075e090482c9ac8d0e88fe427?source=rss",
+     "via": null
+    },
+    {
+     "id": "yahoo",
+     "name": "Yahoo!ニュース主要",
+     "region": "jp",
+     "weight": 1,
+     "title": "トランプ氏 露大統領と個別会談へ",
+     "desc": "",
+     "url": "https://news.yahoo.co.jp/pickup/6603100?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261118-16",
+   "title": "米、はしか排除国の認定を喪失",
+   "firstSeen": "2026-11-18",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-18": 19,
+    "2026-11-19": 12
+   },
+   "peak": 19,
+   "worldScore": 12,
+   "worldCoverage": "4/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 12,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.39,
+     "title": "US loses measles elimination status after 26 years amid record case numbers",
+     "desc": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
+     "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US loses measles-free status after 26 years in historic setback",
+     "desc": "The US has lost its measles elimination status after 26 years, as its largest outbreak in over three decades continues.",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_us-loses-measles-free-status-after-26-years-181126?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Why are measles cases soaring in the US?",
+     "desc": "The United States has lost its long-held status of having eradicated measles as cases of the dangerous and highly contagious virus soar around the country. It follows accusations by medical experts that US President Donald Trump and his health secretary, noted vaccine skeptic Robert F. Kennedy Jr, have fanned distrust in vaccinations, leading to an decline on the number of children getting inoculated against the disease.",
+     "url": "https://www.france24.com/en/video/20261118-why-are-measles-cases-soaring-in-the-us",
+     "via": null
+    },
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 0.7,
+     "title": "US loses measles-free status amid worst outbreak in 35 years",
+     "desc": "The US has lost its measles-free status after 26 years - for failing to prevent the virus spreading for more than a year.",
+     "url": "https://news.sky.com/story/us-loses-measles-free-status-amid-worst-outbreak-in-35-years-13613526",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261118-09",
+   "title": "トランプ氏訪比、抗議デモ相次ぐ",
+   "firstSeen": "2026-11-18",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-18": 9,
+    "2026-11-19": 12
+   },
+   "peak": 12,
+   "worldScore": 12,
+   "worldCoverage": "4/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 12,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.68,
+     "title": "Hundreds arrested in anti-Trump protests in Philippines amid anger over Iran war and AI pact",
+     "desc": "Organisers say up to 10,000 people could join next round of demonstrations as US president arrives for Asean summit Asean and Apec summits – as it happened Hundreds of people have been arrested in heated demonstrations against Donald Trump in Manila, as the US president arrived in the city for a leaders’ summit. Organisers claimed as many as 10,000 people would be joining protests against Trump in the capital of the Philippines on Tuesday, where he is attending the Association of Southeast Asian Nations (Asean) summit. The crowds were expected to try to march to the summit site. Continue readi",
+     "url": "https://www.theguardian.com/world/2026/nov/17/hundreds-arrested-manila-anti-trump-protests-philippines",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Donald Trump meets ‘longtime friend’ Imelda Marcos during Philippines visit",
+     "desc": "Trump told Philippine President Marcos he knew his parents &#039;very well&#039;.",
+     "url": "https://www.aljazeera.com/news/2026/11/18/donald-trump-meets-longtime-friend-imelda-marcos-during-philippines-visit?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.33,
+     "title": "Fried chicken and a chat with an old friend: How Marcos catered to Trump",
+     "desc": "President Ferdinand R. Marcos Jr. of the Philippines flattered President Trump during his brief visit to Manila. It is unclear what dividends the strategy will yield.",
+     "url": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec/fried-chicken-and-a-chat-with-an-old-friend-how-marcos-catered-to-trump",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump arrives in the Philippines amid protests",
+     "desc": "President Trump arrived in the Philippines on Tuesday for the first leg of his Asia trip. Weijia Jiang reports.",
+     "url": "https://www.cbsnews.com/video/trump-arrives-in-the-philippines-amid-protests/",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261119-23",
+   "title": "イスラム教、2035年に最大宗教へ予測",
+   "firstSeen": "2026-11-19",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-19": 11
+   },
+   "peak": 11,
+   "worldScore": 11,
+   "worldCoverage": "3/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 11,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Pew Research: Islam on track to become world’s largest religion by 2035",
+     "desc": "The report projects steady increases for both Christianity and Islam from 2020 to 2070.",
+     "url": "https://www.aljazeera.com/news/2026/11/18/pew-research-islam-on-track-to-become-worlds-largest-religion-by-2035?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Islam projected to surpass Christianity as world’s largest religion by 2035",
+     "desc": "Islam is expected to surpass Christianity as the world’s largest religion by 2035, according to detailed projections released on Wednesday by the Pew Research Centre. Pew, which has been issuing authoritative reports on religious demography for 25 years, said both Islam and Christianity were growing, but Islam was growing much faster. A key reason, Pew said, was that Muslims tended to have more children than other major religious groups. “It’s the babies,” said Pew senior demographer Conrad...",
+     "url": "https://www.scmp.com/news/world/article/3374959/islam-projected-surpass-christianity-worlds-largest-religion-2035",
+     "via": null
+    },
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 0.8,
+     "title": "Muslims projected to outnumber Christians worldwide by 2035 - with majority in UK non-religious by 2070",
+     "desc": "Islam is expected to surpass Christianity as the world's largest religion by 2035, according to detailed projections released on Wednesday.",
+     "url": "https://news.sky.com/story/muslims-projected-to-outnumber-christians-by-2035-with-majority-in-uk-non-religious-by-2070-13613731",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261109-12",
+   "title": "エヌビディア関連の中国スパイ疑惑、議会も調査",
+   "firstSeen": "2026-11-09",
+   "daysSeen": 7,
+   "history": {
+    "2026-11-09": 14,
+    "2026-11-10": 27,
+    "2026-11-12": 22,
+    "2026-11-13": 28,
+    "2026-11-17": 22,
+    "2026-11-18": 10,
+    "2026-11-19": 10
+   },
+   "peak": 28,
+   "worldScore": 10,
+   "worldCoverage": "3/17",
+   "jpScore": 18,
+   "jpCoverage": "2/6",
+   "gap": -8,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.74,
+     "title": "Jensen Huang to testify before Congress on ‘potential breach of national security’",
+     "desc": "High-stakes hearing comes in wake of resignation from Nvidia after alleged affair with suspected Chinese spy Nvidia’s former CEO Jensen Huang will testify before several congressional committees on 1 December, setting the stage for a high-stakes hearing in the wake of his resignation following an affair with a suspected Chinese spy. Tim Teter, Nvidia’s general counsel, has also agreed to appear for a closed-door transcribed interview the following day, 2 December. Continue reading...",
+     "url": "https://www.theguardian.com/technology/2026/nov/17/jensen-huang-testify-congress-nvidia-affair-spy",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US lawmakers launch probe into Lutnick’s actions amid Nvidia scandal",
+     "desc": "Letter alleges possible conflict of interest in commerce secretary not adding Megaspeed to US trade blacklist.",
+     "url": "https://www.aljazeera.com/economy/2026/11/18/us-lawmakers-launch-probe-into-lutnicks-actions-amid-nvidia-scandal?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Xi welcomes Trump: Does Nvidia scandal upend US-China AI race?",
+     "desc": "You can strike Jensen Huang from the guest list but good luck steering dinner conversation away from the topic in Shenzhen. The co-founder of the AI computing leader was to accompany the US president to the APEC summit before he was undone by revelations of a dalliance with a Chinese national that happened to coincide with a Singapore client's backdoor skirting of sanctions on its powerful H200 chips.",
+     "url": "https://www.france24.com/en/tv-shows/the-debate/20261118-xi-welcomes-trump-does-nvidia-scandal-upend-us-china-ai-race",
+     "via": null
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.59,
+     "title": "エヌビディアのカリスマ会長を籠絡した「中国人女スパイ」の素顔 大学院の同級生は「笑顔を見るだけで心を奪われた」 騒動後は姿をくらます(NEWSポストセブン)",
+     "desc": "いまや日本人の日常生活にも溶け込みつつある生成AI技術。その開発に欠かせないAI半導体の世界シェア約8割を握る米巨大企業「エヌビディア」で、前代未聞の大スキャンダルが持ち上がっている。【写真】昨年5月",
+     "url": "https://news.yahoo.co.jp/articles/033d6ce5887d25d4009521ad5c1ec33d4e95d841?source=rss",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "スパイ疑惑のアリス氏、日本で会社設立 法人介してAI事業と中国報道 - 日本経済新聞",
+     "desc": "スパイ疑惑のアリス氏、日本で会社設立 法人介してAI事業と中国報道 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56VWUwVDRSbUVISlFxaENYNms5REMyNGtzMzR5TkZORWdFak4wemFzNzEtM1hkTEtOTndJa0JVWWY2SGw0RXZDV0Z2QjRKQWRwSkFJZTQ4QkpZczljOC1DNGpPdUFHRkRTeU9kaQ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261118-13",
+   "title": "英王太子夫妻、インド訪問を終える",
+   "firstSeen": "2026-11-18",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-18": 13,
+    "2026-11-19": 10
+   },
+   "peak": 13,
+   "worldScore": 10,
+   "worldCoverage": "2/17",
+   "jpScore": 15,
+   "jpCoverage": "1/6",
+   "gap": -5,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.8,
+     "title": "William and Kate meet PM Modi as they wrap up India tour",
+     "desc": "The meeting in New Delhi was a late addition to the royal couple's India visit, which also included their appearance at the annual Earthshot Prize",
+     "url": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 0.9,
+     "title": "William and Kate meet India's PM as they wrap up royal visit",
+     "desc": "The Prince and Princess of Wales met the prime minister of India on Wednesday to discuss trade and bilateral ‌ties at the end of their three-day visit to the country.",
+     "url": "https://news.sky.com/story/prince-william-and-kate-meet-indias-pm-narendra-modi-as-they-wrap-up-royal-visit-13613699",
+     "via": null
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.91,
+     "title": "キャサリン妃 皇太子運転の“三輪車”で登場!?がん闘病乗り越え4年ぶり夫婦海外公務 インド(ABEMA TIMES)",
+     "desc": "11月17日、インド第二の都市・ムンバイに、この国おなじみの三輪車に乗って現れたのは、イギリスのウィリアム皇太子とキャサリン皇太子妃だ。【映像】2人が三輪車に乗って現れる瞬間 2人は、ウィリアム皇太子",
+     "url": "https://news.yahoo.co.jp/articles/329b1867c4bbc1ce03fc0726229c51b1f1534934?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261119-13",
+   "title": "サンドペーパー問題、カミンズ氏に圧力",
+   "firstSeen": "2026-11-19",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-19": 9
+   },
+   "peak": 9,
+   "worldScore": 9,
+   "worldCoverage": "2/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 9,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.62,
+     "title": "Bancroft sandpaper claims heap pressure on Cummins",
+     "desc": "Cameron Bancroft claims the whole Australia team knew about the 2018 sandpaper plot in explosive revelations that will heap pressure on current captain Pat Cummins.",
+     "url": "https://www.bbc.co.uk/sport/cricket/articles/cmqlqdevgl9ro?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "abc-au",
+     "name": "ABC Australia",
+     "region": "world",
+     "weight": 0.85,
+     "title": "Cummins stands firm despite Bancroft's Sandpapergate allegation",
+     "desc": "Australia Test captain Pat Cummins has responded to Cameron Bancroft's sensational claims that everyone knew about the use of Sandpaper in 2018, in a statement through his manager.",
+     "url": "https://www.abc.net.au/news/2026-11-19/pat-cummins-maintains-position-on-sandpapergate/107402100",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261119-15",
+   "title": "ウクライナ、地下ガスパイプラインで奇襲",
+   "firstSeen": "2026-11-19",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-19": 9
+   },
+   "peak": 9,
+   "worldScore": 9,
+   "worldCoverage": "2/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 9,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 1,
+     "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+     "desc": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
+     "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Ukraine says underground gas pipeline used to mount sneak attack",
+     "desc": "Ukraine says troops spent weeks crawling through an old underground gas pipeline to get behind enemy lines and launch a surprise attack.",
+     "url": "https://www.cbsnews.com/news/russia-ukraine-war-battle-in-underground-gas-pipeline-kupiansk/",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261117-25",
+   "title": "英EU関係の再構築、草案と協議の行方",
+   "firstSeen": "2026-11-17",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-17": 10,
+    "2026-11-19": 9
+   },
+   "peak": 10,
+   "worldScore": 9,
+   "worldCoverage": "3/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 9,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.48,
+     "title": "EU ‘to close door’ to talks on long-term UK ties until Burnham has decided on Brexit",
+     "desc": "Diplomats say piecemeal approach of resets is coming to an end and Europe wants clarity on whether Britain wants to reverse its exit The EU will shut the door to discussions with Andy Burnham about the UK’s longer-term relationship with the bloc until the government has decided whether it wants to proceed with reversing Brexit, diplomats have said. European capitals are also warning they have reached the end of the line for piecemeal “reset” summits with the UK and want the prime minister to focus on his next steps domestically before they proceed. Continue reading...",
+     "url": "https://www.theguardian.com/politics/2026/nov/18/eu-uk-reset-summit-talks-burnham-brexit",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.56,
+     "title": "Undoing Brexit",
+     "desc": "Prime Minister Andy Burnham wants a reset with the European Union. Reversing a decade of separation won’t be easy.",
+     "url": "https://www.nytimes.com/2026/11/18/world/19int-theworld-brexit-trump-xi-putin.html",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Britain, EU drop ‘trusted partnership’ term from summit draft",
+     "desc": "BRUSSELS, Nov 18 - Britain and the European Commission have dropped references to forming a \\\"trusted partnership' in the latest draft of a joint summit statement, implying that talks for the EU to grant Britain special status under the bloc's \\\"Made in Europe\\\" rules are proving difficult.",
+     "url": "https://www.straitstimes.com/world/europe/britain-eu-drop-trusted-partnership-term-from-summit-draft",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261119-02",
+   "title": "高市首相と習主席、APECで短い握手",
+   "firstSeen": "2026-11-19",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-19": 8
+   },
+   "peak": 8,
+   "worldScore": 8,
+   "worldCoverage": "2/17",
+   "jpScore": 37,
+   "jpCoverage": "4/6",
+   "gap": -29,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "中国の習主席が、高市首相と握手した",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026111801169&g=flash&m=rss",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "高市早苗首相と習近平氏が握手、中国・深圳のAPEC首脳会議に合わせ - 日本経済新聞",
+     "desc": "高市早苗首相と習近平氏が握手、中国・深圳のAPEC首脳会議に合わせ 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFZkRYUjhaUkp6RnRDMW4zMmVIQ0duNGFVdHRMeXF3LXJsbE9PTHExZ1JBU2ZpZlN1XzFUUHVmUXpVRzhlWS1Rdlk3N2tJMklXRG5yUnFaQ2d6SVlWem4xWEk5bGt0TzM3RGJZXw?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.71,
+     "title": "1年ぶりの短い握手…習主席・高市首相の首脳会談は見送りか(中央日報日本語版)",
+     "desc": "高市早苗首相と中国の習近平国家主席が18日、約1年ぶりに握手を交わした。両国関係を冷え込ませた「台湾有事介入」発言の余波がまだ収まらない中、中国広東省深圳で開かれたアジア太平洋経済協力会議（APEC）",
+     "url": "https://news.yahoo.co.jp/articles/49e97778b72f257444a121a8fa82a8577a49c38d?source=rss",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Xi greets Takaichi with a smile – but no words – as China-Japan freeze lingers",
+     "desc": "Japanese Prime Minister Sanae Takaichi and Chinese President Xi Jinping had their first in-person interaction in Shenzhen since last autumn, when ties froze due to her controversial remarks on Taiwan. Takaichi shook hands with Xi and his wife, Peng Liyuan, as they posed for greeting photos ahead of the customary Asia-Pacific Economic Cooperation (Apec) “family photo” on Wednesday evening, according to a live feed of a welcome dinner for the Apec gathering. Takaichi, dressed in a fluorescent pink...",
+     "url": "https://www.scmp.com/news/china/diplomacy/article/3374944/xi-greets-takaichi-smile-no-words-china-japan-freeze-lingers",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.82,
+     "title": "Leaders of China and Japan Meet Amid Political Feud",
+     "desc": "Xi Jinping, China’s leader, greeted Sanae Takaichi, Japan’s prime minister, in Shenzhen a year after China began punishing Japan over her comments on Taiwan.",
+     "url": "https://www.nytimes.com/2026/11/18/world/asia/xi-jinping-china-sanae-takaichi-japan.html",
+     "via": null
+    },
+    {
+     "id": "mainichi",
+     "name": "毎日新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "握手交わすも…日本冷遇は一貫 中国、「持久戦」にも備えか",
+     "desc": "",
+     "url": "https://mainichi.jp/articles/20261118/k00/00m/010/334000c",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261118-10",
+   "title": "APEC首脳会議、深圳で開幕",
+   "firstSeen": "2026-11-18",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-18": 13,
+    "2026-11-19": 8
+   },
+   "peak": 13,
+   "worldScore": 8,
+   "worldCoverage": "2/17",
+   "jpScore": 15,
+   "jpCoverage": "2/6",
+   "gap": -7,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.8,
+     "title": "Apec summit as it happened: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’",
+     "desc": "This blog is now closed, you can read more on this story here Yalta became a byword for betrayal. Will Trump, Xi and Putin enact another carve-up? That is the question the Guardian’s diplomatic correspondent Patrick Wintour seeks to address in his piece about the expected, Putin, Trump and Xi, meeting at Apec on Thursday. It is a truism in diplomacy that if you are not around the table, the risk is that you, or your values, are on the menu and about to be carved up. Many excluded from the summit in Shenzhen, principally Ukraine but also eastern Europe and Baltic countries, Taiwan and even Iran",
+     "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Rare hug and roaring flyover set stage for historic firsts at Apec in Shenzhen",
+     "desc": "It was a day of firsts in Shenzhen on Wednesday when Chinese President Xi Jinping personally greeted his American counterpart Donald Trump at the city airport, setting up a historic start to the Apec summit. It was the first time in nearly seven decades that China’s top leader had welcomed a visiting foreign head of state at an airport, and it set the stage for an international event that is likely to lead to a joint declaration by the 21 Apec members on Thursday. Earlier in the day, Xi hosted...",
+     "url": "https://www.scmp.com/news/china/diplomacy/article/3374955/rare-hug-and-roaring-flyover-set-stage-historic-firsts-apec-shenzhen",
+     "via": null
+    },
+    {
+     "id": "mainichi",
+     "name": "毎日新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "自由貿易立て直しは期待できず 思惑に隔たり、形骸化のAPEC合意",
+     "desc": "",
+     "url": "https://mainichi.jp/articles/20261118/k00/00m/030/349000c",
+     "via": null
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.42,
+     "title": "国際秩序の主導権握ろうとする習近平氏、トランプ氏に見せつけるように多国間主義を訴えた(中央日報日本語版)",
+     "desc": "中国の習近平国家主席は18日、同国深圳で開かれたアジア太平洋経済協力（APEC）最高経営責任者（CEO）サミットの基調演説で、新たな国際秩序を主導する中国の役割を強調した。米中ロ首脳が史上初めて顔を合",
+     "url": "https://news.yahoo.co.jp/articles/e19fcb234a1cfaea6173a115f4225f6a2b7d5cf7?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261118-21",
+   "title": "イスラエル議会、カハナ氏が議長に選出",
+   "firstSeen": "2026-11-18",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-18": 14,
+    "2026-11-19": 8
+   },
+   "peak": 14,
+   "worldScore": 8,
+   "worldCoverage": "3/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 8,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.3,
+     "title": "Israeli parliament elects new speaker backed by Netanyahu’s opponents",
+     "desc": "Knesset’s appointment of Matan Kahana marks step towards reversing policies of outgoing government The Israeli parliament elected a new speaker on Tuesday, a key step toward rolling back policies passed by the outgoing government led by the prime minister, Benjamin Netanyahu. The new speaker is Matan Kahana, an ally of Gadi Eisenkot , the party leader currently working to form the next government and replace Netanyahu . Continue reading...",
+     "url": "https://www.theguardian.com/world/2026/nov/17/israeli-parliament-elects-new-knesset-speaker-backed-netanyahus-opponents",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Jerusalem Daily: Chaos in the Knesset as new speaker elected",
+     "desc": "Israel’s army beat a journalist covering a settler attack near Jericho.",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/jerusalem-daily-chaos-in-the-knesset-as-new-speaker-elected?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Israel’s parliament moves to roll back Netanyahu’s divisive legacy",
+     "desc": "Israel’s parliament met under a new speaker from the anti-Benjamin Netanyahu bloc on Wednesday, as opponents of the caretaker prime minister began a legislative offensive to roll back his divisive legacy. In the vote for parliament speaker late on Tuesday, 66 lawmakers out of 120 voted in favour of Matan Kahana, an ally of former military chief Gadi Eisenkot who has until next month to form a government to replace Netanyahu. The speaker is an important office as it sets the timetable for...",
+     "url": "https://www.scmp.com/news/world/middle-east/article/3374954/israels-parliament-moves-roll-back-netanyahus-divisive-legacy",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261119-14",
+   "title": "アイルランド人、斧で米軍機を破壊し起訴",
+   "firstSeen": "2026-11-19",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-19": 8
+   },
+   "peak": 8,
+   "worldScore": 8,
+   "worldCoverage": "3/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 8,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.45,
+     "title": "Irishman charged with destroying US military aircraft with axe",
+     "desc": "The $60m (£45m) plane was destroyed in an hours-long raid by an anti-war protester, according to the FBI.",
+     "url": "https://www.bbc.co.uk/news/articles/cwd01jjl5zzzo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.36,
+     "title": "Irish Man Sabotaged U.S. Military Plane With Ax and Chemicals, Prosecutors Say",
+     "desc": "Daithi O’Corrain sealed himself inside a National Guard C-130 at Ireland’s Shannon Airport in April for hours, causing so much damage that the aircraft was retired from service, prosecutors said.",
+     "url": "https://www.nytimes.com/2026/11/18/world/europe/man-charged-ireland-shannon-us-military-plane.html",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Man with ax destroys $60M U.S. military plane, prosecutors say",
+     "desc": "Daithi O&#039;Corrain, 48, is charged in the U.S. with destruction of U.S. government property in connection with the April incident at Shannon Airport.",
+     "url": "https://www.cbsnews.com/news/us-military-plane-irish-airport/",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261119-11",
+   "title": "イグレシアス氏、性的虐待で捜査開始",
+   "firstSeen": "2026-11-19",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-19": 7
+   },
+   "peak": 7,
+   "worldScore": 7,
+   "worldCoverage": "2/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 7,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.68,
+     "title": "Julio Iglesias facing court investigation over alleged sexual offences",
+     "desc": "The 83-year-old singer is accused of abusing two former employees at Caribbean residences in 2021.",
+     "url": "https://www.bbc.co.uk/news/articles/c6x284pnn4e2o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Spanish court opens sexual abuse probe into Julio Iglesias",
+     "desc": "A Spanish court opened a probe into veteran crooner Julio Iglesias on Wednesday after two women ex-employees filed a complaint against him for alleged sexual abuse, which he denies. The announcement marks a turnaround after a first complaint was shelved on the grounds that Spain had no jurisdiction to try crimes committed in the Bahamas and the Dominican Republic. The women, a domestic worker and a physiotherapist, allege they suffered sexual and other forms of abuse while working at Iglesias’...",
+     "url": "https://www.scmp.com/news/world/europe/article/3374943/spanish-court-opens-sexual-abuse-probe-julio-iglesias",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261119-12",
+   "title": "ズベレフ氏、元交際相手から訴訟の通知",
+   "firstSeen": "2026-11-19",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-19": 7
+   },
+   "peak": 7,
+   "worldScore": 7,
+   "worldCoverage": "2/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 7,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.39,
+     "title": "Alexander Zverev notified of abuse lawsuit by ex-partner during ATP Finals",
+     "desc": "Men’s world No 1 allegedly violated terms of settlement Lawyers say Zverev will ‘defend himself against lawsuit’ Alexander Zverev was officially notified of a lawsuit filed by his former partner during the middle of the season-ending ATP Finals on Wednesday. The latest legal case against the men’s world No 1 brought by the mother of the former couple’s daughter alleges that Zverev violated the terms of an out-of-court settlement between the pair after the woman accused him of assaulting her. The lawsuit brought by Brenda Patea in Germany takes issue with Zverev reportedly saying in an intervie",
+     "url": "https://www.theguardian.com/sport/2026/nov/18/alexander-zverev-abuse-lawsuit-atp-finals-finals-brenda-patea",
+     "via": null
+    },
+    {
+     "id": "abc-au",
+     "name": "ABC Australia",
+     "region": "world",
+     "weight": 0.74,
+     "title": "Alexander Zverev officially notified of lawsuit by ex-partner in abuse case",
+     "desc": "Top-ranked tennis player Alexander Zverev was officially notified of a lawsuit filed by his former partner during the middle of the season-ending ATP Finals.",
+     "url": "https://www.abc.net.au/news/2026-11-19/alexander-zverev-officially-notified-of-lawsuit-by-ex-partner/107401880",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261119-03",
+   "title": "米中露首脳会談と「新ヤルタ」論",
+   "firstSeen": "2026-11-19",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-19": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/17",
+   "jpScore": 8,
+   "jpCoverage": "1/6",
+   "gap": -2,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.45,
+     "title": "The Shadow of Yalta Hangs Over Trump’s Summit in China",
+     "desc": "A 1945 meeting of Churchill, Stalin and Franklin Roosevelt set Europe’s course for decades. Here’s what happened.",
+     "url": "https://www.nytimes.com/2026/11/18/world/asia/trump-xi-putin-summit-yalta.html",
+     "via": null
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Putin’s delusions of a ‘new Yalta’ - Financial Times",
+     "desc": "Putin’s delusions of a ‘new Yalta’ Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNW1zLUdWR1gyT0FidVFFUXktN2lJejJLZU0tcndQX3F3VTFMcWNhWlEtbVhkMkdPOWk0enlJeG1TcEZTNGtCanVWV04zd1Z5bXN6TkhrWVdLZVE4bXJBS2huWm1MN0NKWjl4QVl0WlViMm8zVWRzZzE5STZFNlNjSk1qLTE?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "虚構の「新ヤルタ」が告げる転換点 米中ロを変えた12年と日本の孤立 - 日本経済新聞",
+     "desc": "虚構の「新ヤルタ」が告げる転換点 米中ロを変えた12年と日本の孤立 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXLVl1ZHhVV0NBZEZETHE3LTBMaTlnaklZUVllRGZSa2QwZk5fUWJkWVBYM3lDcHNFYnpETTBjTFBfTjVMd2tHdktGQXpVYmZCdmoydVpHMEZ1a2FWQ1lNMVdNdG5zcXpoaVFYTw?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261119-16",
+   "title": "オデーサへのロシア攻撃、4人死亡",
+   "firstSeen": "2026-11-19",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-19": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Four killed as Russian strikes hit Ukraine’s Odesa",
+     "desc": "At least four people have been killed and thirteen more injured after Russian strikes hit Ukraine’s port city of Odesa.",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/four-killed-as-russian-strikes-hit-ukraines-odesa?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Ukraine says Russian strikes kill four in Odesa",
+     "desc": "Odesa, an important port city on the Black Sea, has been under heavy Russian shelling throughout the war.",
+     "url": "https://www.straitstimes.com/world/europe/ukraine-says-russian-strikes-kill-four-in-odesa",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261119-17",
+   "title": "ロシアの製油量、無人機攻撃で半減",
+   "firstSeen": "2026-11-19",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-19": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "EXCLUSIVE: Drone attacks nearly halve Russia's November oil refining, sources say - Reuters",
+     "desc": "EXCLUSIVE: Drone attacks nearly halve Russia's November oil refining, sources say Reuters",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOWZxREZPaThlNEtsN1Z2V2s3bVpMbkpiOEYyV19nS2paZndRczh0SG5pcURzTmFSMzYyNDlPbDJFRTIwZTBScFpSLUVrMDNtWm9xMndPT1JHdk00WTFNVlZOdGE1LS1TdHJJX0hsMXI4eEV2cEhEVTkzWVp6ZkNxWVdMbl9lS2FqRnl3TWlEbnRDb1NqLU1iYmtvSkxDa19GWEJpckk1bEI3U09TcDdvQ1ViS25jRXZTZ1U5RA?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Russia imports record volumes of petrol as Ukraine strikes refineries - Financial Times",
+     "desc": "Russia imports record volumes of petrol as Ukraine strikes refineries Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdlo1NHhQX2p6Q1J5UXNHTUg3VzJWRVd5UWpROWhVZjRldmpNNnNFeWxKYkVXMGVBeDJZa1pqdnNJYXMwS2hxOFR6ZDhtWnVaSTJaVmlUdFY1dWdqdU16Zmg1RTBMY2F3MXVpZ3dVVmNsUlhsWnhMTlQ5RGJSNlN3YzVHSjI?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261119-18",
+   "title": "イエメン情勢、フーシ派とサウジの対立",
+   "firstSeen": "2026-11-19",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-19": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Yemen: Why the Houthis may besiege Aden rather than storm it",
+     "desc": "Bolstered by their recent military successes, Houthi rebels this week advanced close to the southern port city of Aden, the interim capital of the internationally recognised Yemeni government. Amid territorial ambitions, regional rivalries, and divisions within government forces, the potential fall of this stronghold could permanently alter the balance of power in the country.",
+     "url": "https://www.france24.com/en/middle-east/20261118-yemen-why-the-houthis-may-besiege-aden-rather-than-storm-it",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "EXCLUSIVE: Saudis preparing for Yemen campaign to last well into 2027 - Reuters",
+     "desc": "EXCLUSIVE: Saudis preparing for Yemen campaign to last well into 2027 Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa0txUndxQmRJNU1nMUZSVFc5d29OSDkwSWMyOHB5VC1iVVZwY3IwaEs3VlRkbEtHVGRmazVueE1YSjA4N0N4OElZRVdfM0trQ0dnaVptanRtRWVoWERLMWlUUjlac2ozVlRjMWdqMDQ1ODBOZEtPb2FKVFA0UXJpeGdjck1OMDMzdEhhQ2piTDd4QnFXcm12Vlh2MHVKcXNQUTdJWVZlV1E?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261119-19",
+   "title": "ボイジャー1号、地球から1光日の距離に",
+   "firstSeen": "2026-11-19",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-19": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Voyager 1 reaches one light-day from Earth after 49 years in space",
+     "desc": "NASA’s Voyager 1 has reached a record distance of more than 16 billion miles from Earth, 49 years after its launch.",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/voyager-1-reaches-one-light-day-from-earth-after-49-years-in-space?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Voyager 1 sets distance record of 1 \"light day\" from Earth",
+     "desc": "Voyager 1 and its sister ship Voyager 2 are still beaming back data from interstellar space as they near their 50th anniversary next year.",
+     "url": "https://www.cbsnews.com/news/voyager-1-probe-light-day-earth-father-than-anything/",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261119-24",
+   "title": "北朝鮮の濃縮施設拡張、IAEAが指摘",
+   "firstSeen": "2026-11-19",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-19": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "dw",
+     "name": "Deutsche Welle",
+     "region": "world",
+     "weight": 0.5,
+     "title": "North Korea expanded uranium enrichment plant, says IAEA head",
+     "desc": "IAEA chief Rafael Grossi has said the ongoing expansion of North Korea's uranium enrichment program remains \"a cause for serious concern.\"",
+     "url": "https://www.dw.com/en/north-korea-expanded-uranium-enrichment-plant-says-iaea-head/a-79982758?maca=en-rss-en-world-4025-rdf",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "North Korean enrichment facility extension ‘externally complete’: IAEA",
+     "desc": "A further extension of an enrichment facility in North Korea has been “externally complete” since last month, UN nuclear watchdog head Rafael Grossi has said. Inspectors of the International Atomic Energy Agency (IAEA) have not had access to North Korea since 2009, with the agency relying on satellite imagery and open sources to monitor the country’s nuclear programme. “Since mid-September 2026, a further extension to the original Yongbyon enrichment facility has been under construction with the...",
+     "url": "https://www.scmp.com/news/asia/east-asia/article/3374948/north-korean-enrichment-facility-extension-externally-complete-iaea",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261119-27",
+   "title": "Javaの脆弱性、各国当局が警告",
+   "firstSeen": "2026-11-19",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-19": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Governments warn Java flaw leaves computer systems open to hackers - Reuters",
+     "desc": "Governments warn Java flaw leaves computer systems open to hackers Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRE5uQWVHVHVQV19VTmJrT29QT1lKV0xQQzhUZWp6Wk5aSWZCV3ZKbHNKZ3NBMmlhYzNsT1J6V1AxQjBxR2QzWWk2ODlfaTBEU1JCLXFVWE1adHFQU0M2Rk1fZXhYYzQ5bmczU1lyWHc5WjNFVi1SLXF0NkJSaWlMQUNGdmZfX1ZETWtxZ05UUER6VVpxRDZBaUkzUTZMSGRsWVRacEJkSTUxYkRyeVc2dGJvWUpSNVNPbGc?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US cyber security agency warns over vulnerability in Oracle’s Java - Financial Times",
+     "desc": "US cyber security agency warns over vulnerability in Oracle’s Java Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY21ILXk5ZjRsUTJaVXA1Vk85MlR2OUtQLURDR1NRWXZMcEhtVkRSOWpMNmlPdi1zQTcyZEc1eUNZNGJibzBaWGE1b2F3Rk96QmpqZzhBeUJmRXhJeFYxYWVJMzFvRVNyNEVObFZoM0lqTl9oQWtlMUFkUmV5N2l6dDg5dm8?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261109-19",
+   "title": "COP31交渉、少数国の妨害を批判",
+   "firstSeen": "2026-11-09",
+   "daysSeen": 7,
+   "history": {
+    "2026-11-09": 10,
+    "2026-11-10": 14,
+    "2026-11-11": 8,
+    "2026-11-12": 17,
+    "2026-11-13": 9,
+    "2026-11-16": 6,
+    "2026-11-19": 6
+   },
+   "peak": 17,
+   "worldScore": 6,
+   "worldCoverage": "2/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "At COP31, Vanuatu slams ‘small group of states’ blocking climate progress",
+     "desc": "Vanuatu’s Environment Minister Ralph Regenvanu called for a reform of the COP process.",
+     "url": "https://www.straitstimes.com/world/at-cop31-vanuatu-slams-small-group-of-states-blocking-climate-progress",
+     "via": null
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Saudi Arabia steps up disruption of UN climate talks - Financial Times",
+     "desc": "Saudi Arabia steps up disruption of UN climate talks Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTjk1b3RnYjBhM2w4OE9aUXpHUnh2QUxDdzVHbWJIN3lrWG1Pclotb3NGZ0N3cWs3dUtKSkdOdk1RRk1CS3VoRjZHNWhHTzlzVDdCU0NnX1BsRDU2ZDJOSnZnbzNqa2p3RVhFdjRENUhyWG1tUjRkdkpMWm9NN2czSFJYLUQ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261118-19",
+   "title": "ハイチでエルサルバドル派遣支持のデモ",
+   "firstSeen": "2026-11-18",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-18": 9,
+    "2026-11-19": 6
+   },
+   "peak": 9,
+   "worldScore": 6,
+   "worldCoverage": "2/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "El Salvador’s Bukele says his troops destroyed gang leader’s mansion in Haiti",
+     "desc": "El Salvador’s President Nayib Bukele said on Wednesday that his troops had demolished the lavish home of a prominent gang leader in Haiti known as Jeff. It was not immediately clear if he was killed. Bukele posted a video on social media that begins with old footage of Jeff posing in front of his mansion in the Caribbean country and then cuts to Salvadorean helicopters flying towards it as they fire shot after shot, with big plumes of smoke rising from Jeff’s home. “My gift to the Haitian people...",
+     "url": "https://www.scmp.com/news/world/americas/article/3374964/el-salvadors-bukele-says-his-troops-destroyed-gang-leaders-mansion-haiti",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Thousands demonstrate in Haiti’s capital to praise Bukele and Salvadoran troops fighting gangs - AP News",
+     "desc": "Thousands demonstrate in Haiti’s capital to praise Bukele and Salvadoran troops fighting gangs AP News",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVzROS0ZiZnc1OVhjQWxmMFlwMjNoMFc2ZG1LWFFkYzRjcUVxMnhkU2VXbzNPM1RweDFrVi1oa05aTmNtLVRQcHI3X1VaampFZmN3UzZnU2ZjN3Y4YkRUS210S2MyejJDTWRTdkJwMGlHWDZMMjlhWWVoeXBVdTZmTHlkQU16RzJvc1lVWW5jd0l5Q3NQcFdTWnhKZV9JODMw?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261117-05",
+   "title": "教皇、ペルーで群衆の前に",
+   "firstSeen": "2026-11-17",
+   "daysSeen": 3,
+   "history": {
+    "2026-11-17": 6,
+    "2026-11-18": 5,
+    "2026-11-19": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Pope Leo calls for \"less controversy, less war, less division\"",
+     "desc": "The Catholic Church&#039;s first U.S.-born leader, returning from a major Latin America tour, spoke about American unity, his health, and the prospect of married priests.",
+     "url": "https://www.cbsnews.com/news/pope-leo-less-war-less-us-division-married-priests-debate/",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Pope forgives person who nailed him in the eye with a rosary in Peru - AP News",
+     "desc": "Pope forgives person who nailed him in the eye with a rosary in Peru AP News",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb1FSRnFfb1VQS3k5amVFWTJBVGpsbXl1VGM2SU55RThDUVJTS2d2YVUza3hMc0M4OFAtQml1OXh3bkNGSWpGZzNuY014bG5UMjNtT3lpZ3E4U0FSeDVueFpfbjk1d095S3dOdk0zZWJQRDlGb29aQ1M5S25tNmgxZ2ZrU0Y4akYtUUM1RjFxeHg?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261118-22",
+   "title": "西岸で72歳女性、入植者に射殺",
+   "firstSeen": "2026-11-18",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-18": 7,
+    "2026-11-19": 5
+   },
+   "peak": 7,
+   "worldScore": 5,
+   "worldCoverage": "2/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 5,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.3,
+     "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+     "desc": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
+     "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Israeli settler kills Palestinian grandmother in occupied West Bank",
+     "desc": "A Palestinian grandmother was killed by an Israeli settler in the occupied West Bank.",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-settler-kills-palestinian-grandmother-in-occupied-west-bank?traffic_source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261118-15",
+   "title": "トランプ氏暗殺計画、パキスタン人に禁錮27年",
+   "firstSeen": "2026-11-18",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-18": 6,
+    "2026-11-19": 5
+   },
+   "peak": 6,
+   "worldScore": 5,
+   "worldCoverage": "2/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 5,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Pakistani man sentenced to 27 years for Iran-backed plot to kill Trump",
+     "desc": "Asif Merchant was found guilty in March of trying to hire undercover FBI agents as hitmen to assassinate US officials, including the president.",
+     "url": "https://www.bbc.co.uk/news/articles/cm15ezz8n394o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.33,
+     "title": "Pakistani man sentenced to 27 years in US prison over Trump murder plot",
+     "desc": "Asif Merchant, allegedly linked to Iran, found by court to have sought retribution over Qassem Suleimani death A Pakistani man was sentenced to more than 27 years in prison on Tuesday for plotting to assassinate Donald Trump in retaliation for the US killing of Revolutionary Guards commander Qassem Suleimani, the Department of Justice said. Asif Merchant, who had alleged ties to Iran , sought to hire a hitman to assassinate a politician or a government official in the United States, a Brooklyn court found. Continue reading...",
+     "url": "https://www.theguardian.com/us-news/2026/nov/17/pakistani-man-jailed-trump-murder-plot",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261111-13",
+   "title": "英で逮捕の米兵、米当局の拘束下に",
+   "firstSeen": "2026-11-11",
+   "daysSeen": 4,
+   "history": {
+    "2026-11-11": 32,
+    "2026-11-13": 6,
+    "2026-11-18": 13,
+    "2026-11-19": 5
+   },
+   "peak": 32,
+   "worldScore": 5,
+   "worldCoverage": "2/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 5,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.36,
+     "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+     "desc": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
+     "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "American soldier accused of spying in U.S. custody after U.K. arrest",
+     "desc": "Federal Bureau of Investigation director Kash Patel said that the soldier was \"a potential threat to national security.\"",
+     "url": "https://www.cbsnews.com/news/american-soldier-spying-suspect-russia-united-kingdom-us-custody/",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261117-07",
+   "title": "高市首相、プーチン氏と7年ぶり接触",
+   "firstSeen": "2026-11-17",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-17": 0,
+    "2026-11-19": 3
+   },
+   "peak": 3,
+   "worldScore": 3,
+   "worldCoverage": "1/17",
+   "jpScore": 17,
+   "jpCoverage": "2/6",
+   "gap": -14,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Japan’s Takaichi meets Putin in rare talks amid strained ties with Russia",
+     "desc": "Japanese Prime Minister Sanae Takaichi met Russian President Vladimir Putin on Wednesday, marking a rare high-level contact at a time of deeply strained relations over Moscow’s war in Ukraine and the recent arrest of a Japanese journalist on espionage allegations. The talks, held on the sidelines of the Asia-Pacific Economic Cooperation (Apec) leaders’ summit in the southern Chinese city of Shenzhen, lasted about 30 minutes. It was the first face-to-face encounter between the leaders of the two...",
+     "url": "https://www.scmp.com/news/china/diplomacy/article/3374961/japans-takaichi-meets-putin-rare-talks-amid-strained-ties-russia",
+     "via": null
+    },
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "高市首相、ロシア大統領と意見交換 ７年ぶり直接対話、記者解放要求",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026111900021&g=pol&m=rss",
+     "via": null
+    },
+    {
+     "id": "mainichi",
+     "name": "毎日新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "日露首脳7年ぶり接触、それぞれの狙い 欧州との制裁連携は継続",
+     "desc": "",
+     "url": "https://mainichi.jp/articles/20261118/k00/00m/010/372000c",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261119-22",
+   "title": "EU、ウクライナへ450億ユーロ追加融資案",
+   "firstSeen": "2026-11-19",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-19": 3
+   },
+   "peak": 3,
+   "worldScore": 3,
+   "worldCoverage": "1/17",
+   "jpScore": 8,
+   "jpCoverage": "1/6",
+   "gap": -5,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "guardian",
+     "name": "The Guardian",
+     "region": "world",
+     "weight": 0.5,
+     "title": "EU proposes €45bn loan for Ukraine to avert cash crisis and boost defences",
+     "desc": "Von der Leyen says she wants to give Kyiv ‘strong hand’ in talks and is confident all 27 member states will back idea The EU executive has proposed a €45bn (£37.5bn) loan for Ukraine to help with a looming cash crisis and reinforce its defences, as Russia’s relentless bombardment continues. Announcing the plan to lend Kyiv the money in 2027, the European Commission president, Ursula von der Leyen, said: “We think this is the best way to give Ukraine a strong hand at the negotiating table. And Ukraine only needs to repay once Russia pays for the damage it has caused in Ukraine.” Continue readin",
+     "url": "https://www.theguardian.com/world/2026/nov/18/eu-loan-ukraine-cash-crisis-defences-von-der-leyen-kyiv",
+     "via": null
+    },
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "ＥＵ、ウクライナに７．９兆円追加融資へ ２７年の資金不足穴埋め",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026111900123&g=int&m=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261119-25",
+   "title": "イスラエル高官、米と対イラン作戦を協議",
+   "firstSeen": "2026-11-19",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-19": 3
+   },
+   "peak": 3,
+   "worldScore": 3,
+   "worldCoverage": "1/17",
+   "jpScore": 8,
+   "jpCoverage": "1/6",
+   "gap": -5,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Israeli spy chief lobbied for joint Iran strikes on US visit, sources say",
+     "desc": "JERUSALEM, Nov 18 - The head of Israel's Mossad spy agency, Roman Gofman, advocated for joint US-Israeli strikes on Iran during meetings with US officials last week, according to two people briefed on the visit.",
+     "url": "https://www.straitstimes.com/world/middle-east/israeli-spy-chief-lobbied-for-joint-iran-strikes-on-us-visit-sources-say",
+     "via": null
+    },
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "対イランで対応協議 米イスラエル軍高官が会談",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026111900158&g=int&m=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261119-26",
+   "title": "FOMC議事要旨、追加利上げ適切との見方",
+   "firstSeen": "2026-11-19",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-19": 3
+   },
+   "peak": 3,
+   "worldScore": 3,
+   "worldCoverage": "1/17",
+   "jpScore": 8,
+   "jpCoverage": "1/6",
+   "gap": -5,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Fed Minutes Show Almost All Officials Expect More Rate Hikes - Bloomberg.com",
+     "desc": "Fed Minutes Show Almost All Officials Expect More Rate Hikes Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT3JhS0Q0alA5RWNIWGxURDlLSWhic0NQQmY1MTJkTXlCclZDMWh4Z18xRGdhWXRsdWp2OTJjRExiSHZqRXFqSHU5VFB3WnNSV2hFWnNHdlRmRENzaDBsVGpWeTNGQU5ZRlJ0MzQza2tkUDFDdmxqMVlYNGlnM0dqajdnWVI3eVUxNVhibGhSXzZsQ2gxYlZuTk9MQ1VPUzV3ZWNxQ0NkRlZqOE9DUGpCbA?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "米ＦＯＭＣ要旨、ほぼ全員が「追加利上げが適切」 次回会合で大幅引き締めも",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026111900111&g=int&m=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261118-37",
+   "title": "愛子さま、シンガポールを公式訪問",
+   "firstSeen": "2026-11-18",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-18": 0,
+    "2026-11-19": 0
+   },
+   "peak": 0,
+   "worldScore": 0,
+   "worldCoverage": "0/17",
+   "jpScore": 21,
+   "jpCoverage": "2/6",
+   "gap": -21,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "asahi",
+     "name": "朝日新聞",
+     "region": "jp",
+     "weight": 0.77,
+     "title": "愛子さま、シンガポール大統領と会見 平和な世界築く「パートナー」",
+     "desc": "",
+     "url": "http://www.asahi.com/articles/ASVCK0FSPVCKUQIP008M.html?ref=rss",
+     "via": null
+    },
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "愛子さま、大統領主催昼食会に 和服姿であいさつ―シンガポール",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026111800699&g=pol&m=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261119-20",
+   "title": "熊本県で震度5弱の地震、津波なし",
+   "firstSeen": "2026-11-19",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-19": 0
+   },
+   "peak": 0,
+   "worldScore": 0,
+   "worldCoverage": "0/17",
+   "jpScore": 22,
+   "jpCoverage": "2/6",
+   "gap": -22,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "yahoo",
+     "name": "Yahoo!ニュース主要",
+     "region": "jp",
+     "weight": 0.8,
+     "title": "熊本県で震度5弱 津波の心配なし",
+     "desc": "",
+     "url": "https://news.yahoo.co.jp/pickup/6603094?source=rss",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "熊本県で震度5弱の地震 津波の心配なし - 日本経済新聞",
+     "desc": "熊本県で震度5弱の地震 津波の心配なし 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNeGR6MWpyMGZQcXVxY0ExOGZJMzFoQVJMdjZIM1JtdF8wdUpKMU1wNTg3QldSWkNVRmZxWFZGLWdLQmJvWWx4YnVDb3hFNTlqSnp2RWRuNVA5cmlKQU5zN2h2UlVWNEkzTEQxMQ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261113-30",
+   "title": "防衛費、財務省案に与党から異論",
+   "firstSeen": "2026-11-13",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-13": 0,
+    "2026-11-19": 0
+   },
+   "peak": 0,
+   "worldScore": 0,
+   "worldCoverage": "0/17",
+   "jpScore": 21,
+   "jpCoverage": "2/6",
+   "gap": -21,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "asahi",
+     "name": "朝日新聞",
+     "region": "jp",
+     "weight": 0.33,
+     "title": "防衛費「60兆円前後」で調整も、与党から「足りない」と批判続出",
+     "desc": "",
+     "url": "http://www.asahi.com/articles/ASVCL3JPBVCLUTFK00NM.html?ref=rss",
+     "via": null
+    },
+    {
+     "id": "yahoo",
+     "name": "Yahoo!ニュース主要",
+     "region": "jp",
+     "weight": 0.9,
+     "title": "防衛費財務省案 自民内で異論噴出",
+     "desc": "",
+     "url": "https://news.yahoo.co.jp/pickup/6603099?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261119-21",
+   "title": "政府広報に都市伝説YouTuber起用案",
+   "firstSeen": "2026-11-19",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-19": 0
+   },
+   "peak": 0,
+   "worldScore": 0,
+   "worldCoverage": "0/17",
+   "jpScore": 14,
+   "jpCoverage": "2/6",
+   "gap": -14,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "asahi",
+     "name": "朝日新聞",
+     "region": "jp",
+     "weight": 0.36,
+     "title": "予算1.5億円「陰謀論」ユーチューバー起用 「理解できない」声も",
+     "desc": "",
+     "url": "http://www.asahi.com/articles/ASVCL363PVCLUTFK008M.html?ref=rss",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "政府広報への都市伝説ユーチューバー起用、事業者が提案 官房長官 - 日本経済新聞",
+     "desc": "政府広報への都市伝説ユーチューバー起用、事業者が提案 官房長官 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zNzNEbXR6ZGJ6Qkx2RkotRUVrWUNTWFNEMFh1TDNJRkl4cVRjQ2szSUtobEZpZlVrUjg2MlJ2V0lZSDdoaWJ0VzZCbzJHS29RcnhOTHdhbUc4aW16ZmVOLUN6VUpBS1AzcHd2aw?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  }
+ ]
+}
