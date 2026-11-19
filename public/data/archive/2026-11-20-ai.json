@@ -1,0 +1,984 @@
+{
+  "date": "2026-11-20",
+  "stream": "ai",
+  "title": "AI日報",
+  "generatedAt": "2026-11-19T23:43:46.129Z",
+  "model": "claude-haiku-5-5",
+  "editorialVersion": 13,
+  "categories": [
+    {
+      "id": "ai",
+      "label": "AI",
+      "desc": "AIモデル・AIサービス・AI企業の動向"
+    },
+    {
+      "id": "it",
+      "label": "IT",
+      "desc": "ソフトウェア開発・ネットサービス・セキュリティ・デバイス・通信（AIが主題のものは除く）"
+    },
+    {
+      "id": "science",
+      "label": "科学",
+      "desc": "研究成果・医療・宇宙・環境・エネルギー技術"
+    }
+  ],
+  "articles": [
+    {
+      "id": "1ad879506aad",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003354/",
+      "headline": "AnthropicがNasdaqに上場、調達額813億ドルは過去最大規模",
+      "originalTitle": "AnthropicがNasdaq上場、IPO調達額は史上最大の813億ドル 初値は公開価格を34％上回る",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "ai",
+      "score": 95,
+      "tier": "must",
+      "pubDate": "2026-11-19T21:38:41.000Z",
+      "body": null,
+      "summary": "Anthropicは11月19日（現地時間）に米国のNasdaq市場へ上場し、ティッカーシンボルは「ANT」となった。新規株式公開（IPO）による調達額は公開価格ベースで約813億ドル（約13兆円）で、6月に上場した米SpaceXを上回り過去最大規模となった。公開価格は1株83ドルで、仮条件の70〜78ドルを上回った。株式数も当初予定の8億2500万株から約9億8000万株に拡大した。\n\n初値は111.50ドルと公開価格を約34％上回り、完全希薄化後の時価総額は初値ベースで約2兆ドル（約320兆円）となった。その後は上げ幅を縮め、90ドル台で推移した。同社は2021年に、OpenAI出身のダリオ・アモデイ氏ら7人が共同創業した。2023年第1四半期にClaudeの商用提供を始め、企業向けAIやコーディング支援ツール「Claude Code」を中心に事業を広げてきた。ダニエラ・アモデイ社長によると、米国の売上上位500社（Fortune 500）の半数以上がClaudeを利用しているという。\n\n同社が11月2日に提出した修正目論見書によると、2026年第3四半期（7〜9月期）の売上高は前年同期の約12.3倍となる169億6200万ドルだった。一方、営業損益は5億6700万ドルの赤字で、前四半期の9億7400万ドルの黒字から転じた。同社は主な要因として、AIの処理に使う計算資源の短期的なコスト約50億ドルと、従業員の寄付マッチング制度に関連する費用約20億ドルを挙げている。\n\n上場にあたり、アモデイCEOは公式Xアカウントで長文の声明を公開した。声明では、AIが科学や医療の進歩を大幅に加速させる可能性を強調する一方、悪用、経済的混乱、AIシステムの制御喪失といったリスクにも言及した。「AIシステムが安全で、人間の制御下にあり続けると確信できるまで、必要なだけ時間をかけて学習と展開のペースを調整する」と述べ、ビジネスや政治的な圧力には屈しないとした。同社は株主の利益だけでなく人類の長期的利益も重視する、パブリックベネフィットコーポレーション（PBC）として設立されている。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003354/",
+          "date": "2026-11-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "122be7cf5dd9",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+      "headline": "Claude、ブラックホール物理学の未解決問題2件を解いたとAnthropicが発表",
+      "originalTitle": "Claude solves two open problems in the physics of black holes",
+      "outlet": "anthropic.com",
+      "region": "overseas",
+      "category": "ai",
+      "score": 88,
+      "tier": "must",
+      "pubDate": "2026-11-19T17:30:44.000Z",
+      "body": null,
+      "summary": "Anthropicはブログで、Claudeが理論物理学の未解決問題を2件解いたと発表した。いずれもブラックホールに関わり、一般相対性理論と量子力学を統一する「量子重力」の理論を探る研究の一部である。同社は、どちらの結果も私たちの宇宙を直接説明するものではなく、実用的な応用もないとしている。研究者は2025年8月にClaudeに課題の候補リストを作らせ、課題ごとに分けたエージェントを約6週間、背景で動かして取り組ませたという。\n\n1件目は、重力を含む理論上の宇宙と、重力を含まない量子理論を対応させる「ホログラフィック双対性」を使った研究である。この理論上の宇宙を熱していくと、低温では粒子のガスで満たされ、高温になるとブラックホールが現れる。1983年にホーキングとページが、この切り替えが水の沸騰のように急激に起きる「相転移」であることを示したが、その計算は宇宙が十分大きい場合にしか成り立たなかった。小さい領域の計算は量子側でしか行えず、1999年に相転移の存在が示された後も、急激か滑らかかは2003年に提案された計算でも決着していなかったという。\n\nClaudeは自身の複数のコピーからなる小さな研究グループを動かし、計算のほぼすべてを独立に行って既知の結果と照合したとしている。その結果、相転移は急激であることが示され、両極端の状況で同じ急な切り替えが現れることから、ブラックホールの形成は相対性理論だけでなく量子理論そのものに組み込まれた性質だと示唆するとしている。\n\n2件目は、2次元の空間をもつ単純化した宇宙で、宇宙で最も軽いブラックホールの質量に上限を設定する研究である。「ブートストラップ法」（理論の内部矛盾を示して誤った理論を排除する手法）で上限を下げてきたが、証明済みの上限は数値計算が示す値より大きかった。Claudeは数値結果のパターンを見つけ、他分野の手法を借りて、この手法の最も単純な版での正確な上限を求め、それ以上下げられないことを証明したとしている。ただし正しい理論を特定するものではなく、研究の方向を示す可能性があると記事は述べている。",
+      "sources": [
+        {
+          "outlet": "anthropic.com",
+          "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+          "date": "2026-11-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": "https://news.ycombinator.com/item?id=50563148",
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "631b9274da81",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003325/",
+      "headline": "nginxに認証不要で遠隔からコードを実行される脆弱性、政府も更新を呼び掛け",
+      "originalTitle": "Webサーバソフト「nginx」にリモートコード実行の「緊急」脆弱性、日本政府も更新呼び掛け",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "it",
+      "score": 86,
+      "tier": "must",
+      "pubDate": "2026-11-19T05:11:07.000Z",
+      "body": null,
+      "summary": "米F5は11月18日、Webサーバソフト「nginx」に、認証なしで遠隔から任意のコードを実行される脆弱性が2件見つかったと発表した。深刻度を示す共通指標であるCVSS v4.0では9.2と「緊急」に分類された。F5は修正版を公開し、更新を推奨している。日本政府の国家サイバー統括室も19日に注意喚起し、速やかなアップデートを呼び掛けた。\n\nnginxは世界で最も広く使われているオープンソースのWebサーバソフトで、HTTPSの通信を処理し、トラフィックをアプリケーションやAPIに振り分ける入口として置かれることが多い。脆弱性はHTTP/2（Webの通信規格の一つ）を有効にしたサーバが対象で、悪用されるとコマンドの実行、機密データの窃取、サイトの改ざんやサービス停止のおそれがある。\n\n1件目の「CVE-2026-123633」は、使用中のメモリが誤って解放された後も参照される「use-after-free」と呼ばれる脆弱性である。HTTP/2で受けたリクエストを別のサーバへ転送する構成で、処理できる接続数が上限に近づいた際に特殊な通信を受けると、サーバの停止や任意のコード実行のおそれがある。\n\n2件目の「CVE-2026-123007」は2015年リリースの「nginx 1.9.5」から存在し、HTTP/2の通信量を調整する「フロー制御」の計算処理に問題があるため、メモリの範囲外にアクセスするおそれがある。Wizは、HTTP/2が有効であれば静的ファイルを直接配信するだけのサーバでも攻撃が成立することを確認したとしている。2件はWizを含む複数のセキュリティ企業が独立に見つけてF5に報告したもので、Wizは「Wiz Atlas」で発見し、影響の検証には「Gemini 4 Carbon」と「ChatGPT 5.6 Sol」を使ったという。すぐに修正版へ上げられない場合の一時的な対策として、Wizは HTTP/2 を無効にするよう勧めている。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003325/",
+          "date": "2026-11-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "200c26dcc801",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "science",
+      "url": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
+      "headline": "オーストラリアの研究チーム、ヒトの肝臓を体外で7週間生存させたと発表",
+      "originalTitle": "A human liver has been kept alive outside the body for a record seven weeks",
+      "outlet": "MIT Technology Review",
+      "region": "overseas",
+      "category": "science",
+      "score": 84,
+      "tier": "should",
+      "pubDate": "2026-11-19T12:00:00.000Z",
+      "body": null,
+      "summary": "オーストラリアのシドニーの研究チームは、寄贈されたヒトの肝臓を体外の生命維持装置につなぎ、7週間生かし続けたと主張している。チームを率いたのは外科医で発明者のCarlo Pulitano（カルロ・プリターノ）で、Royal Prince Alfred Hospitalの移植外科医であり、シドニー大学の教授でもある。詳細は正式な論文発表を待つ段階にある。装置は正式名称を「Extended Organ Perfusion System（拡張臓器灌流システム）」といい、自動化されたポンプとセンサーで栄養を与え、血液を供給し、老廃物を取り除く。プリターノは装置を「人工の身体」にたとえている。\n\n体温に近い約37度（常温）の状態で維持した点が特徴である。体外で内臓器を生かした従来の記録は、数年前にスイスで設定された約2週間で、これも肝臓だった。移植用の臓器は通常、氷を入れた容器で数時間しかもたないため、移植先へ急いで運ばれる。過去10年ほどで、温かい液体や冷たい液体を臓器に送り込む「灌流（かんりゅう）」装置の利用が広がり、保存可能な時間が倍になる場合もあるという。\n\nチームによれば、記録を伸ばした鍵は装置の自動化である。今年スイスで行われた会合で、チームは55個のヒトの肝臓を次々に灌流したと説明した。手動調整が必要な装置に比べ、自動装置で扱った肝臓は平均生存時間が約3倍の約4週間に延びたとしている。ただし、論文の正式発表はまだである。オクラホマ大学の移植医Paulo Martins（パウロ・マーティンズ）は、自身が移植する腎臓の約半数が現在は灌流されていると述べた。一方で、この処理は移植費用を10万ドル増やす場合もあるという。\n\n灌流を長く続けることで、臓器が1日ほどでむしろ自己修復し強くなる可能性が示唆されている。2022年にはスイスのチームが、3日間灌流された損傷肝臓の移植に成功したと報告している。ベンチャー企業Apersysの共同創業者でCEOのWaldemar Hoffmann（ヴァルデマール・ホフマン）によると、これは体外で保存された内臓器の移植成功例として最長だという。プリターノが設立したAeternum Life Technologiesは、質の低い肝臓を4日間灌流して移植する試験の計画にも関わるとされる。\n\n一方でHoffmannは、ほぼ2か月間保たれた臓器を移植で使う必要が誰にあるのかは不透明だと述べ、7週間も灌流する目的が問われると指摘している。Martinsは、長期の生命維持は人工子宮、新しい臓器製造、体外での臓器実験などの構想を可能にするかもしれないとしている。プリターノは、長期の機械灌流で新しい臓器を育てられる可能性にも言及した。生体肝移植では提供者の肝臓の半分を切除するが、約2か月後には両方の部分がほぼ元の体積まで再生する。プリターノは肝臓を分割して装置につないだ実験にも取り組んでおり、成功すれば1つの提供肝臓から複数の大きな臓器を作れる可能性があるとしている。",
+      "sources": [
+        {
+          "outlet": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
+          "date": "2026-11-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "1054662f25c3",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+      "headline": "Googleが「Gemini」のMac版にPCを操作させる機能を追加、米国英語から提供",
+      "originalTitle": "Google gives Gemini the ability to use your Mac for you",
+      "outlet": "TechCrunch",
+      "region": "overseas",
+      "category": "ai",
+      "score": 78,
+      "tier": "should",
+      "pubDate": "2026-11-19T18:09:11.000Z",
+      "body": null,
+      "summary": "Googleは、デスクトップ版Geminiアプリのmacos版に「コンピュータ利用」機能を追加すると発表した。AIがユーザーの代わりにタスクを実行し、Macのネイティブアプリを操作したり、ウェブサイトを背景で閲覧したりできるようになる。ユーザーが指示を出すと、チャット上のライブプレビューでエージェントの作業が見え、画面やカーソルは他の作業に使い続けられる。AIが行動する前に、ユーザーは一時停止、停止、承認ができる。\n\n記事によれば、OpenAI、Anthropic、Metaなどの主要なAIモデル企業は、すでにデスクトップアプリでエージェント機能を提供しており、Googleの参入は遅れ気味である。Googleは同じ週に、Geminiの「Tasks」機能の提供範囲拡大も発表している。Tasksでは、AIがウェブサイトへのサインイン、オンライン購入、予約などを支援する。また、9月に発表された「CC」というAIエージェントについても、早期テスターの受け入れを始めたとしている。CCは、メール、カレンダー、チャット、タスクを横断して家族の予定を整理することを目的とする。\n\nGoogleは、フォーム入力、多数のファイルへの同じ作業の繰り返し、特定の条件によるフォルダ分け、オンラインダッシュボードの情報からのスライド作成などが役立つとしている。この機能は当面、米国で英語により提供され、Gemini Mac版アプリとGoogle AI Plus、Pro、Ultraのいずれかの契約が必要である。他の市場や他のプラットフォームへの拡大時期は明らかにされていない。",
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+          "date": "2026-11-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "b15b5aea4b38",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003332/",
+      "headline": "Microsoftの「Agent Framework」を侵害し認証情報を盗む不正版がPyPIで公開",
+      "originalTitle": "Microsoftの「Agent Framework」が侵害され、認証情報を盗む不正版がPyPIで公開",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "it",
+      "score": 77,
+      "tier": "should",
+      "pubDate": "2026-11-19T05:58:26.000Z",
+      "body": null,
+      "summary": "Microsoftが提供するAIエージェント開発用のオープンソースツールキット「Microsoft Agent Framework」のPythonパッケージが侵害され、認証情報を盗む不正なバージョンがPythonの公式パッケージリポジトリ「PyPI」で公開されていた。SocketやStepSecurity、OX Securityなどのセキュリティ企業が報告した。不正版は「1.26.1」と「1.26.2」で、11月17日（協定世界時）に公開され、その後PyPIから削除された。「1.26.0」以前は影響を受けないとされている。\n\nMicrosoft Agent Frameworkは、AIエージェントの開発や複数エージェントの連携に使うSDKである。2025年10月に発表され、2026年4月に正式版1.0が公開された。Pythonと.NETに対応し、後継は「Semantic Kernel」と「AutoGen」である。PyPIでは月間約20万回ダウンロードされている。不正版は、Pythonが起動時に自動で読み込む「.pth」ファイルを悪用し、インストールされた環境でPythonが起動するたびに実行される仕組みだった。開発者がフレームワークを読み込まなくても動作し、正規の「agent-framework-core」1.26.0を引き続き利用していたため、利用者が異常に気付きにくかったという。\n\n不正版は、Azure、AWS、GitHub、Docker、Hugging Face、OpenAIなどのサービスのパスワードやアクセストークンを盗む。環境変数や設定ファイル、同じマシンの他のプロセスから情報を集め、攻撃者が用意した外部のWebサービス「webhook.site」に送信する。Azureのマネージド IDやAzure DevOpsのトークン取得も試みており、クラウド上の他のリソースに攻撃者がアクセスする恐れがあるとされる。1.26.2では、開発の自動化に使われる「GitHub Actions」のトークンも狙う機能が追加されていた。StepSecurityによると、1.26.1は公開約30分後にPyPIによって隔離されたが、攻撃者は約2分後に不正コードを別ファイルに移した1.26.2を公開し、これも約8分後に隔離された。攻撃の経路は分かっておらず、Microsoftからの回答は記事公開時点でなかったという。\n\nGitHub Advisory Databaseは、1.26.1か1.26.2を入れた環境では情報が漏えいしたものとして扱い、アクセス可能な認証情報をすべて再発行するよう求めている。StepSecurityは、pipコマンドを実行するだけでも不正コードが再び動く可能性があるとして、該当環境をネットワークから切り離し、安全が確認されるまでPythonやpipを実行しないよう呼び掛けている。そのうえで、1.26.0に固定してクリーンな環境を再構築するよう勧めている。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003332/",
+          "date": "2026-11-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "6f0f2d869f0f",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+      "headline": "Meta、AI端末「Muse Charm」は300ドルになるとの報道",
+      "originalTitle": "Meta's new Muse Charm device may cost $300",
+      "outlet": "TechCrunch",
+      "region": "overseas",
+      "category": "ai",
+      "score": 76,
+      "tier": "should",
+      "pubDate": "2026-11-19T21:58:06.000Z",
+      "body": null,
+      "summary": "Metaが、今後発売予定のAI端末「Muse Charm」を300ドルで販売する計画だと、The Informationが報じた。Muse Charmは、同社の年次イベント「Connect」で今年披露された、たまごっち風のAIデバイスである。Metaの広報担当者は報道内容を否定せず、「AI端末への関心をうれしく思っている。近く改めて発表する」とコメントした。\n\nMuse Charmは、Metaが提供する自律的に作業を行うAIアシスタント「Muse」を物理的な機器に収めた製品である。キーホルダーほどの大きさで、ポケットに入れて持ち歩くほか、首から下げて身につけることもできる。利用者はそれに話しかけたり、質問したり、指示を出したりできる。記事は、これまでAI端末は振るわなかった例が多く、HumaneのAIピン（Ai Pin）を挙げている。\n\n価格を他製品と比べると、AIスタートアップFriendの端末（AIのキャラクターにテキストや音声で話しかける機器）は250ドルで販売されている。Amazonの新しいウェアラブルAI機器「Bee Frontier」（会話を文字起こしし、タスクを管理する）は定価75ドルで、ブラックフライデーの30%割引で52.49ドルとなっている。Bee Frontierは写真やメールなどのアプリと連携するために年99ドルの有料プランも必要である。記事は、キーホルダーほどの大きさの製品として300ドルは高めだとしつつ、他社の価格帯とは同程度だと指摘している。",
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+          "date": "2026-11-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "a22c687c439c",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+      "headline": "Apple、自社のAIエージェント開発へ技術者を募集 求人票で判明",
+      "originalTitle": "Apple is hiring engineers to build its own AI agent",
+      "outlet": "The Verge",
+      "region": "overseas",
+      "category": "ai",
+      "score": 74,
+      "tier": "should",
+      "pubDate": "2026-11-19T22:31:41.000Z",
+      "body": null,
+      "summary": "Appleが、ウェブの閲覧、複数のアプリをまたいだ作業、コードの作成、外部サービスの呼び出しなどを行う独自のAIエージェントを開発していることが分かった。Bloombergが見つけた求人票によると、同社は agentic AIアシスタント（自律的に複数の作業を進めるAIアシスタント）の開発を主導する技術者を募集している。\n\n記事によると、Appleのこの取り組みはMetaやOpenAI、Anthropic、Googleなどの製品と競合することになる。Meta、ChatGPT、Perplexityは、Macのアプリを通じてコンピュータを操作できる。Googleも、Geminiに同様の操作をさせ始めたという。\n\nAppleは9月に、AIで機能を強化したSiriの提供を始めた。このSiriは、画面に表示されている内容についての質問に答えたり、複数のアプリで操作を行ったりできる。Bloombergの報道によると、Appleは写真アプリで画像を回転・トリミングする機能や、Safariのタブを整理する機能を追加する可能性がある。求人票では、募集する技術者はSiri、UIフレームワーク、Apple Foundation Modelsの各チームと緊密に連携するとされている。求人票には、AIエージェントが複数のアプリ、ブラウザ、コマンドライン、コード、APIにまたがって多段階の作業を計画・実行し、必要に応じて専門のサブエージェントを調整するという構想も記されている。\n\nAppleは今後配信されるiOS 27.3で、開発者がSiriのAI機能を「すべてのアプリ」に組み込めるようにする。これは開発者向けの先行提供（Developer Preview）として提供され、将来的にはSiriがより多くのアプリで作業を行えるようになるとされている。",
+      "sources": [
+        {
+          "outlet": "The Verge",
+          "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+          "date": "2026-11-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "e437b8cc5736",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003310/",
+      "headline": "APIルーターでAIエージェントが乗っ取られる恐れ 428件の調査で判明",
+      "originalTitle": "AIモデルとAIエージェントをつなぐ「APIルーター」に注意？ 428件を調べてわかった乗っ取り手口 暗号資産を盗む例も",
+      "outlet": "ITmedia AI+",
+      "region": "domestic",
+      "category": "ai",
+      "score": 71,
+      "tier": "should",
+      "pubDate": "2026-11-19T03:00:00.000Z",
+      "body": null,
+      "summary": "米カリフォルニア大学サンタバーバラ校などの研究チームは、AIエージェントと外部のAIモデルの間に入る「APIルーター」の危険性を調べた論文「Your Agent Is Mine」を発表した。APIルーターは、Claude CodeやCodexのようなAIエージェントからの要求を、OpenAIやAnthropicなどのAIプロバイダーに振り分けて中継する第三者のサービスである。研究チームは、こうした中継サービスの一部が、AIエージェントの乗っ取りや情報漏えいに悪用されていると指摘している。\n\nAPIルーターが危険なのは、利用者が接続先としてルーターを指定するため、通信の暗号化（TLS）が中継地点で解除されることにある。そのため、AIへの指示、APIキーなどの認証情報、AIからの指示（ツール呼び出し）は運営者から見え、書き換えることもできる。さらに主要なAIプロバイダーのAPIには、返答が改ざんされていないことを確かめるデジタル署名の仕組みがない。\n\n攻撃は大きく2種類ある。1つ目はペイロード注入で、AIが返したコマンドを途中で書き換える。正規のURLを攻撃者のウイルス入りのURLに差し替えたり、「requests」を「reqeusts」のような似た名前の偽パッケージに置き換えたりする。また、最初の50回は正常に動作して信頼を得てから、51回目以降に攻撃する手口や、全自動で作業させる設定（YOLOモード）でRustやGoのプロジェクトのときだけ攻撃する手口も確認された。2つ目はシークレット窃取で、通信内容を書き換えず、通過するデータからAPIキーやAWSのアクセスキー、GitHubのトークン、暗号資産の秘密鍵などを抜き取る。利用者は被害に気付きにくい。\n\n研究チームは有料28個、無料400個の計428個のルーターを調査した。その結果、有料の1個と無料の8個が悪意あるコードを注入しており、うち2個は50回待つなどの回避策を使っていた。無料ルーターのうち17個では、通過させたおとりのAWS認証情報が実際に不正利用された。また、1個のルーターではおとりのイーサリアム秘密鍵から資金が抜き取られた。善良なルーターであっても、流出したAPIキーを使い回していたり、セキュリティの弱い別の中継サーバを経由していたりすると攻撃経路になりうる。さらに研究チームが設置したおとりの中継サーバは、外部の業者に中継ルートへ組み込まれ、440件の開発セッションから99個の認証情報が露出した。研究チームは、中継経路に悪意あるルーターが1個でもあればAIエージェントは乗っ取られるとしている。",
+      "sources": [
+        {
+          "outlet": "ITmedia AI+",
+          "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003310/",
+          "date": "2026-11-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "28e569ea1ae5",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003309/",
+      "headline": "非公式APIサービス「シャドーAPI」の45％超、申告どおりのモデルと判定されず",
+      "originalTitle": "ちまたの“格安GPT”、中身は偽物？ 非公式APIのモデル偽装を調査した結果……",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "ai",
+      "score": 70,
+      "tier": "should",
+      "pubDate": "2026-11-19T03:00:00.000Z",
+      "body": null,
+      "summary": "ドイツのCISPAとカナダのウォータールー大学の研究者らが、LLM（大規模言語モデル）の公式APIを安価に仲介する非公式サービス「シャドーAPI」の実態を調べた論文を発表した。公式APIは高額な利用料金や決済の壁があり、中国やロシアなど特定地域からはアクセスが制限されているため、地域制限なしに公式モデルと同等の性能を安く提供すると謳うシャドーAPIが普及している。\n\n研究チームは国際会議の採択論文とGitHubを調べ、17種類のシャドーAPIが計187本の学術論文で使われていたことを特定した。そのうち約62％（116本）はACL、CVPR、ICLRなどの査読付き国際会議や学術誌に採択されていた。利用する研究者の約8割は、一部の公式APIへのアクセスが制限されている中国の機関に所属していた。一方、17のうち15は身元を検証できない個人が運営しており、すでに4つが運営を停止するなど研究基盤としては不安定だった。\n\n研究チームは人気の高い3つのシャドーAPIを対象に、OpenAI、Google、DeepSeekの計8モデルで数学・科学分野の性能を比較した。推論を要しないタスクでは公式に近いスコアが出た一方、推論モデルでは性能が大きく落ちるサービスがあった。高度な推論を要する数学のベンチマーク（性能を測るためのテスト）であるAIME 2025では、あるサービスでGemini-2.5-proが40.00ポイント、DeepSeek-Reasonerが38.89ポイント精度を落とした。医療分野のベンチマーク（MedQA）では、Gemini-2.5-flashの正解率が公式APIの83.82％から約37％に下がり、検証した3サービスすべてで同様の低下が見られた。\n\n研究チームはAIの応答パターンから指紋（フィンガープリント）を割り出す手法と出力の統計的検定を用い、裏側で動くモデルを調べた。その結果、調査した24の接続先のうち45.83％（11件）が、申告どおりのモデルと判定されなかった。GPT-5やGPT-4o-miniとして販売される接続先の応答が安価なオープンソースモデル（GLM-4-9BやQwen2.5-7B）の指紋と一致する例や、思考モードのあるDeepSeek-Reasonerへのリクエストが思考モードのないDeepSeek-Chatのように振る舞う例があり、論文はモデルのすり替えを示唆している。一方で、指紋が申告どおりと一致したGemini-2.5-flashでも、医療テストで約47ポイント、法律テストで40～43ポイント正解率が落ちるケースがあった。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003309/",
+          "date": "2026-11-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "6900f6014b2a",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+      "headline": "Google、検索のホームページにAIチャットのサイドバーを追加",
+      "originalTitle": "Google is putting AI chats right on the homepage",
+      "outlet": "The Verge",
+      "region": "overseas",
+      "category": "ai",
+      "score": 69,
+      "tier": "interest",
+      "pubDate": "2026-11-19T20:05:06.000Z",
+      "body": null,
+      "summary": "Googleは検索のホームページを更新し、AI検索を組み込もうとしている。Google製品担当副社長のロビー・スタインがXへの投稿で、折りたたみ式のサイドバーを開いてAIチャットを表示し、続けられる様子を示した。\n\nスタインが共有したGIFによると、画面左側に現れる灰色のバーをクリックするとサイドバーが開く。サイドバーには、Googleの検索内でチャットボットのように対話しながら検索できる「AI Mode」で行った検索の一覧が表示され、新しいスレッドを始めたり、スレッドを検索したり、Gemini Notebookと接続したりできる。\n\nホームページは長年、ウェブ検索を始めるための検索バーを一つ置くだけの構成だった。Googleは前年に検索バーへAI Modeボタンを加え、5月には長い質問に対応できるよう検索ボックスを拡張し、AIを使った自動補完も追加していた。\n\nスタインは、「一度で終わらない質問」を抱えて検索に来る人が増えているため、この機能を導入したと説明している。テストでは、このサイドバーが「前に進み、ウェブを探り続けるうえで大きな違いを生んだ」という。新しいホームページは、デスクトップ版で世界規模で展開が始まる。",
+      "sources": [
+        {
+          "outlet": "The Verge",
+          "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+          "date": "2026-11-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "1208f01e00a6",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "science",
+      "url": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
+      "headline": "シラ、パナソニックエナジーと負極材供給で契約 10億ドル超の可能性",
+      "originalTitle": "What a billion-dollar deal says about the US battery market",
+      "outlet": "MIT Technology Review",
+      "region": "overseas",
+      "category": "science",
+      "score": 68,
+      "tier": "interest",
+      "pubDate": "2026-11-19T11:00:00.000Z",
+      "body": null,
+      "summary": "次世代電池向け材料を手がけるシラ（Sila）が、電池大手のパナソニックエナジーとシリコン・カーボン系の負極材（アノード）を供給する契約を結んだ。同社は、この契約が長期的には10億ドルを超える価値になり得るとしている。\n\nシラは2011年創業で、リチウムイオン電池向けにシリコン系の負極材を製造し、単位重量・体積あたりに蓄えられるエネルギー量（エネルギー密度）を高めることを狙いとしている。同社によると、その負極材は現在の負極で使われる黒鉛の5分の1の重さで、体積は半分に抑えられるという。そのため同じ重量・体積でより多くのエネルギーを蓄えられ、電気自動車の航続距離の延長が見込めるほか、従来の方式と比べて出力や充電速度の向上も可能になるとしている。\n\n同社は2022年、バイデン政権下の数十億ドル規模の助成の一部として米国エネルギー省から1億ドルを受け、ワシントン州モーゼスレイクに工場を計画した。工場は2025年9月に稼働を開始しており、共同創業者兼CEOのジーン・ベルディチェフスキーによると、今回の契約で生産量は現状の少なくとも10倍に拡大する。パナソニックは数万トン規模の材料購入を約束しているが、総額と価格は公表されていない。\n\n記事は、電池をめぐる政治の位置づけが変わったと指摘する。電池はかつて気候技術と見なされていたが、最近は企業が脱炭素のメッセージより地政学を前面に出す傾向がある。中国は黒鉛生産の9割以上を握り、米国はトランプ政権の国防総省からシラへ14億ドルの融資を約束するなど、中国依存からの脱却を急いでいる。ベルディチェフスキーは「政治の状況は私たちの周りで、私たちの動機以上に大きく変わったと思う。技術者を動かしているのは実際にはエネルギー効率であり、今もそれが根幹にあると思う」と話している。",
+      "sources": [
+        {
+          "outlet": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
+          "date": "2026-11-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "04fd14ae1a21",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
+      "headline": "Synology、DSMのOAuth APIに重大な脆弱性 一部版は修正版未提供",
+      "originalTitle": "Synology Security Advisory",
+      "outlet": "synology.com",
+      "region": "overseas",
+      "category": "it",
+      "score": 67,
+      "tier": "interest",
+      "pubDate": "2026-11-19T22:13:40.000Z",
+      "body": null,
+      "summary": "Synologyは、同社製NAS向けの基本ソフトDSM（DiskStation Manager）などに影響する脆弱性CVE-2026-120382について、セキュリティ勧告を公開した。この脆弱性はOAuth APIにおけるCWE-88（コマンド内の引数区切り文字の不適切な無害化）に起因し、遠隔の攻撃者が任意のファイルを読み書きしたり、サービス妨害攻撃を行ったりできるとしている。CVSS3の基本値は9.8で、重大度はCriticalとされている。\n\n影響を受けるのはDSM 7.4、7.3、7.2.2、7.2.1、7.1およびBeeStation OS 1.5である。DSM 7.4と7.3については、修正版（7.4.1-90080-2、7.3.2-86009-6以上）を2026年11月20日までに提供する予定とされている。DSM 7.2.2、7.2.1、7.1およびBeeStation OS 1.5は対応作業中と記載されており、修正版の提供時期は示されていない。7.2.2と7.2.1については、7.3.2-86009-6以上へのアップグレードが推奨されている。\n\nAPM 2.0、APM 1.2、DSM Enterprise 1.0、SRM 1.3、SRM 1.2は影響を受けないとしている。回避策として、OAuth Serviceパッケージを無効化することが挙げられている。勧告は2026年11月19日付の初版で、脆弱性はDSM 6.2.4-25556-9、7.1.1-42962-10、7.2.1-69057-14、7.2.2-72806-11、7.3.2-86009-6、7.4.1-90080-2より前のバージョンに影響するとしている。",
+      "sources": [
+        {
+          "outlet": "synology.com",
+          "url": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
+          "date": "2026-11-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": "https://news.ycombinator.com/item?id=50567209",
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "2fefa24a16c2",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "science",
+      "url": "https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/",
+      "headline": "Google、宇宙データセンター衛星を2029年にBlue Originのロケットで打ち上げ",
+      "originalTitle": "Google turns to Blue Origin for a rocket, but its long-term problem remains",
+      "outlet": "Ars Technica",
+      "region": "overseas",
+      "category": "science",
+      "score": 65,
+      "tier": "interest",
+      "pubDate": "2026-11-19T19:52:54.000Z",
+      "body": null,
+      "summary": "Blue Originは木曜日、同社の大型ロケットNew Glennにより、Googleのデータセンター用衛星を2029年に打ち上げると発表した。この打ち上げは、Googleの研究プロジェクトProject Suncatcherの一環である。Googleは約1年前に、宇宙で拡張可能な軌道上データセンターに取り組んでいると明らかにし、同社はこれを「ムーンショット」（大胆な研究開発）と位置づけている。Google の Project Suncatcher シニアディレクターのTravis Bealsは、宇宙で豊富な太陽光を活用してAIインフラを拡大する長期的な取り組みだと述べている。\n\n衛星はそれぞれ、データセンターのラック程度の計算能力を持つとされ、太陽同期軌道に投入される。この軌道では太陽光をほぼ途切れなく受けられるとされる。打ち上げには、New Glennの小型版である7×2型が使われる。同型はこれまでに3回打ち上げを行っている。記事は、今回の打ち上げはAIチップを搭載した衛星をネットワーク化し、宇宙で機械学習の計算を実証する技術実証になるとみている。Googleは衛星の製造企業を明らかにしておらず、記事は衛星の重量を数トン程度と見ている。\n\n記事は、Googleにとってより大きな課題は技術が実現できるかどうかではなく、自前の打ち上げ手段を持たずに2030年代に大規模な軌道上データセンターの構想を進めることが成り立つかどうかだと指摘している。米国の商業大型ロケットの打ち上げ枠は2030年まで埋まりつつあるという。宇宙データセンターの経済性には多くの疑問が残るが、超低コストの大型打ち上げ能力がなければ、地上のデータセンターと経済的に競争できないという点はほぼ一致した見方だとしている。",
+      "sources": [
+        {
+          "outlet": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/",
+          "date": "2026-11-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "b2b7370ed71a",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://arstechnica.com/gadgets/2026/11/google-will-launch-android-app-verification-requirement-globally-in-january-2027/",
+      "headline": "Google、Androidアプリの開発者確認を2027年1月から全地域で義務化",
+      "originalTitle": "Google will launch Android app verification requirement globally in January 2027",
+      "outlet": "Ars Technica",
+      "region": "overseas",
+      "category": "it",
+      "score": 64,
+      "tier": "interest",
+      "pubDate": "2026-11-19T18:00:33.000Z",
+      "body": null,
+      "summary": "Googleは昨年、Androidの開発者確認（developer verification）の導入を発表していた。開発者や利用者から多くの反対があったにもかかわらず、同社は導入を進めている。今秋から一部の国で未登録アプリのインストールをブロックし始めており、2027年1月からすべての地域で導入すると発表した。未登録の開発者には、早めの登録を促している。\n\nPlay ストア以外から配布されるアプリ（サイドロード）も、開発者がGoogleに登録していなければ、確認が有効な地域ではインストールできなくなる。確認には政府発行の身分証の提出と25ドルの手数料が必要である。不正なマルウェアや詐欺的なアプリの配布を難しくする安全対策と位置づけられている。今年9月にはブラジル、インドネシア、シンガポール、タイで先行して導入された。\n\nGoogleによると、Play外のアプリとして既に「数百万」件が登録されており、その登録は世界のAndroidアプリのインストールの99%以上を占めるという。確認サービスは、Google認定端末のうちAndroid 8 Oreo以降で稼働するものに既に展開されている。記事は、中国とロシアを除く世界のほぼすべてのAndroid端末が対象になるとしている。Galaxy Store、Honor、Oppo、Xiaomi、Transsion、Vivoの主要なサードパーティ製ストアも確認の実施で提携しており、確認済みのアプリのみを掲載する。全端末への適用には数か月かかるとされている。",
+      "sources": [
+        {
+          "outlet": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/11/google-will-launch-android-app-verification-requirement-globally-in-january-2027/",
+          "date": "2026-11-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "a2d0889c92df",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "science",
+      "url": "https://arstechnica.com/space/2026/11/to-make-moon-landings-easier-nasa-is-making-life-harder-for-orion/",
+      "headline": "NASA、アルテミスIIIから月面着陸を外し低軌道でのドッキング試験に変更",
+      "originalTitle": "NASA's new Moon plans have a problem: Orion wasn't designed to fly this way",
+      "outlet": "Ars Technica",
+      "region": "overseas",
+      "category": "science",
+      "score": 63,
+      "tier": "interest",
+      "pubDate": "2026-11-19T13:40:02.000Z",
+      "body": null,
+      "summary": "NASAは、アルテミスIIIから月面着陸を外し、低軌道で月着陸機のStarshipとBlue Moonにオリオン宇宙船がランデブー・ドッキングを行う実証ミッションに変更した。目標年は2027年とされ、オリオンと着陸機の各社は圧縮された日程で技術統合作業を完了する必要がある。記事は、Lockheedが2027年夏か秋の打ち上げに向けてNASAと密接に作業を進めていると伝えている。\n\nドッキングには、フックやコネクタ、ピンといった機械的な機能が必要になる。さらに、着陸機のスラスター排気が高温や研磨性を持ち損傷を与える可能性や、オリオンのレーザーシステムがStarshipやBlue Moonの表面での反射を誤って解釈する懸念などがあるという。シャイアマン氏によると、本来は別の時期に段階的に行う予定だった作業が、両機とのドッキング分も含めて今の期間に集中しており、作業は3交代制で、日程には余裕がないとしている。\n\nシャイアマン氏は、チャレンジャー号とコロンビア号の事故の時期にNASAで勤務していた人物である。同氏は、中国との月をめぐる競争におけるアイザックマン氏とNASAの緊急性は支持するとしたうえで、安全に注意を払い、手順を省いたり過度なリスクを取ったりしないことが重要だと述べた。また、地球周辺の軌道上にあるデブリ（宇宙ごみ）のリスクは、月への飛行よりも高くなると指摘している。",
+      "sources": [
+        {
+          "outlet": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/11/to-make-moon-landings-easier-nasa-is-making-life-harder-for-orion/",
+          "date": "2026-11-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "57728669e048",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+      "headline": "Gemini API、ツール検索機能をプレビュー公開 必要時にのみスキーマを読み込み",
+      "originalTitle": "Introducing Tool Retrieval in the Gemini API",
+      "outlet": "Google AI Blog",
+      "region": "overseas",
+      "category": "ai",
+      "score": 62,
+      "tier": "interest",
+      "pubDate": "2026-11-19T18:00:00.000Z",
+      "body": null,
+      "summary": "Googleは、Gemini APIのInteractions APIで「Tool Retrieval（ツール検索）」をプレビュー版として提供開始した。エージェントが数十から数百のツールに接続すると、毎回すべてのツールのパラメータ定義（スキーマ）を送ることで入力トークン数が増え、遅延が生じ、候補が増えるほどツール選択の精度も下がるという。この機能では、ツール全体を待機させておき、現在のタスクに必要なときだけスキーマを読み込む。\n\n利用するには、リクエストに tool_search を追加し、読み込みを後回しにするツールに defer_loading: true を設定する。モデルには各ツールの名前と説明は見えるが、パラメータ定義はコンテキストに含まれない。モデルがツールを名前で要求すると、APIがスキーマを読み込み、同じリクエスト内で関数呼び出しまで完了する。実行の各段階は interaction.steps に記録され、どのツールを検討したかを確認できる。検索はGeminiのサーバー側で行われ、インデックスの構築やホストは不要とされる。リモートのMCPサーバー（外部のツールやデータをAIに接続するための共通規格）にも対応している。\n\n自前のツールレジストリや埋め込み（ベクトル）による検索インデックスを持つ場合は、tool_search を execution に 「client」 を指定し、検索をアプリ側で実行できる。この方法では検索のたびに往復が1回増えるが、ツールを事前に宣言する必要がなく、ユーザーが連携を接続した際に会話の途中で新しいツールを追加できるという。読み込まれたスキーマは会話の後半に追加されるため、プロンプト先頭のキャッシュが会話のターンごとに変わらない点も利点として挙げられている。\n\nツール検索機能自体に追加料金はなく、呼び出すモデルの標準の入力・出力トークン料金が適用される。tool_search を有効にすると小さな固定のトークンが加わり、読み込まれたスキーマは会話の残りの間、入力として課金される。ツール数が多い場合は、読み込まれないスキーマの量が上回るため節約になることが多いとされるが、効果は自社のトラフィックで測定するよう勧めている。対応はGemini 3.6以降のモデルで、Gemini 4のモデルをすべて含む。",
+      "sources": [
+        {
+          "outlet": "Google AI Blog",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+          "date": "2026-11-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "7dd73e3c8a43",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003351/",
+      "headline": "岩見沢市と新得町の委託先PCがマルウェア感染 個人情報漏えいの可能性",
+      "originalTitle": "美少女ゲーム「NIKKE」経由でマルウェア感染 北海道2自治体、委託先が認める",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "it",
+      "score": 61,
+      "tier": "interest",
+      "pubDate": "2026-11-19T11:04:47.000Z",
+      "body": null,
+      "summary": "北海道岩見沢市と新得町は11月18日、業務の再委託先が使用する情報機器がマルウェア「K2F」に感染し、住民の個人情報が漏えいした可能性があると発表した。両自治体から業務を受託していたGIS北海道（札幌市）は19日、取材に対し、人気ゲーム「勝利の女神：NIKKE」のPC版ランチャー（起動用アプリ）が関係していると認めた。再委託先はリムゲート（札幌市）である。\n\nK2Fは、感染したPCを遠隔操作したり、パスワードなどの情報を盗み出したりする機能を持つマルウェアである。NIKKEのPC版では、5日に第三者によるランチャーの改ざんが発覚し、起動するだけでK2Fが送り込まれる恐れがあったと報じられていた。GIS北海道は、リムゲートの担当者が業務用PCでゲームを起動していたかについては回答を差し控えた。\n\n岩見沢市が18日に公表したのは、2022年1月1日時点の固定資産税に関する土地情報で最大1万348筆（所在地、地籍、所有者、評価単価など）と、家屋情報で最大7037棟である。新得町は、住民基本台帳データ6001件と災害時避難行動要支援者データ986件が漏えいした可能性があると発表した。両自治体とも、18日時点で個人情報の外部への漏えいや不正利用は確認していないとしている。\n\nリムゲートが感染の痕跡を発見したのは11月4日で、同社は同日中に対象機器をネットワークから遮断した。9日にGIS北海道へ報告し、GIS北海道が両自治体へ第一報を入れたのは16日だった。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003351/",
+          "date": "2026-11-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "a18d40e53c3a",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
+      "headline": "AI銃検知の誤警報で警察が出動 高校生4人が学区などを提訴",
+      "originalTitle": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
+      "outlet": "Ars Technica",
+      "region": "overseas",
+      "category": "ai",
+      "score": 58,
+      "tier": "interest",
+      "pubDate": "2026-11-19T20:19:28.000Z",
+      "body": null,
+      "summary": "米メリーランド州ボルチモア郡の高校で、2025年10月にAI銃検知システムが、部活後に菓子のドリトスを食べていた黒人男子生徒の一人を銃を持った人物として誤って検知した。学区の職員は約2分で映像を確認し、警報を取り消したが、取り消し通知が届いていなかった校長が警察の出動を要請し、警官が現場に駆けつけた。生徒らは銃を向けられて膝をつかされ、手錠をかけられて身体検査を受けた。銃は見つからず、警官の一人は「AIカメラはばかだ」などと話したとされる。\n\n生徒4人は、警報を出した「Omnilert（オムニラート）」社のシステムを使うボルチモア郡公立学校（BCPS）と、出動した郡警察の警官らを相手取り、憲法上の権利を侵害されたとして訴訟を起こした。原告側は、誤警報時に警察を出動させない手順が整うまで、BCPSによるOmnilertの使用を差し止めるよう裁判所に求めている。訴状によると、生徒らは手錠の跡が残り、強い精神的苦痛を受けたとしている。また、銃があったという根拠のない噂が広がり、評判が傷ついたと主張している。\n\n郡の教育監察官室（OIG）の調査では、Omnilertのシステムに偏り（バイアス）はなかったとされた。一方で、校長が警報の取り消しに気づかず、警察の出動を要請した点について、権限の委任の仕組みが機能しなかったと指摘された。OIGは定期的な研修や通知の管理の徹底などを勧告した。Omnilertは、誤報をなくすため人の確認を前提にしたシステムであると説明し、生徒らに謝罪を表明した。BCPSは訴訟についてコメントを控えている。",
+      "sources": [
+        {
+          "outlet": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
+          "date": "2026-11-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "8bc6b2485176",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.robertpeake.com/archives/104254-ai-came-for-the-coders-understanding-why-tells-us-whos-next.html",
+      "headline": "ロバート・ピーク氏、AIに代替されやすいのは自動採点でき価値に合意がある仕事と論じる",
+      "originalTitle": "AI Came for the Coders. Understanding Why Tells Us Who's Next",
+      "outlet": "robertpeake.com",
+      "region": "overseas",
+      "category": "ai",
+      "score": 56,
+      "tier": "interest",
+      "pubDate": "2026-11-19T17:43:38.000Z",
+      "body": null,
+      "summary": "英国のAI解説者ロバート・ピークによる寄稿は、ソフトウェア技術者の仕事がAIによって変わりつつあることを出発点としている。筆者は、19世紀の大工仕事が機械化されて家具が安く手に入るようになった一方で、手仕事の職人の価値が失われた例を挙げ、知的労働でも同じことが起きうると論じている。\n\n筆者は、AIによる自動化の可否を、作業の成果を機械で自動的に検証（採点）できるかと、その成果の価値について人の間で合意があるかという二つの軸で整理できると主張している。例えばソフトウェアは自動テストで良否が判定でき、価値の合意もあるため自動化されやすいとする。一方で、詩の良し悪しや親の子育ての成果は、機械で採点することも客観的な価値を定めることも難しいとしている。また、商業的な美術や文章制作は、依頼主と報酬という形で価値が定まるため、AIに置き換えられやすいとしている。\n\n筆者は、今後の教育では自動化されにくい能力に重点を置くべきだとし、AIの成果物を人が確認し、結果に責任を持つことを勧めている。寄稿は、自身が考案した実践の方法を「DRIVE」と呼ぶと紹介している。",
+      "sources": [
+        {
+          "outlet": "robertpeake.com",
+          "url": "https://www.robertpeake.com/archives/104254-ai-came-for-the-coders-understanding-why-tells-us-whos-next.html",
+          "date": "2026-11-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": "https://news.ycombinator.com/item?id=50563328",
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "fd729d390eb4",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.itmedia.co.jp/business/articles/2611/20/news041.html",
+      "headline": "英Arm、AIエージェント需要を背景にCPU事業を拡大 自社製チップも投入",
+      "originalTitle": "AI需要で「シェア0→50％」急成長 半導体設計のアーム社が仕掛ける“新ビジネス“の正体は？",
+      "outlet": "ITmedia AI+",
+      "region": "domestic",
+      "category": "ai",
+      "score": 54,
+      "tier": "spare",
+      "pubDate": "2026-11-19T22:00:00.000Z",
+      "body": null,
+      "summary": "英Arm Holdingsは、半導体の回路設計図（IP）を提供する事業を主軸とし、CPUの分野で強みを持つ企業である。同社の横山崇幸日本法人社長によると、AIが対話型から、与えられた仕事を自ら進める「AIエージェント」へ移行しつつあり、その処理の多くがCPU上で行われるため、CPUの重要性が高まっているという。2025年には、主要な大規模クラウド事業者のデータセンターにおけるArmの設計採用シェアが50％に達したとされ、8年前の0％から大きく伸びたと説明している。\n\nAI処理をスマートフォンなどの端末側で完結させる需要にも対応している。Armは2025年9月、スマートフォン向けの設計パッケージ「CSS for Mobile 2」を発表した。従来は部品ごとに設計図を提供していたが、CSSでは複数の設計図を組み合わせ、最適化や動作検証まで済ませた状態で提供し、半導体メーカーの開発期間を短縮できるとしている。新型CPU「C2-Ultra」は、AI計算を効率化する「SME2」技術を備え、端末上の小規模言語モデルの処理速度が最大70％向上すると主張している。\n\nArmは、ロボットや自動車などに組み込むAI「フィジカルAI」にも注力している。2025年には同社の技術を採用した製品が20億個出荷されたとし、2025年の市場規模を約250億ドルと推計している。また、同社は自社でデータセンター向けCPU「AGI CPU」を製造する方針を示した。米OpenAIなどが性能を検証しており、今後数カ月のうちに量産に入る予定だという。横山社長は、既存の半導体メーカーとの競合の懸念については、設計図の提供も継続すると説明している。",
+      "sources": [
+        {
+          "outlet": "ITmedia AI+",
+          "url": "https://www.itmedia.co.jp/business/articles/2611/20/news041.html",
+          "date": "2026-11-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "45584a3597b1",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/",
+      "headline": "米国で相次いだIT障害、サイバー攻撃かどうかを見分ける手順を専門家が解説",
+      "originalTitle": "How to tell a cyberattack from a plain old outage",
+      "outlet": "Ars Technica",
+      "region": "overseas",
+      "category": "it",
+      "score": 53,
+      "tier": "spare",
+      "pubDate": "2026-11-19T11:13:01.000Z",
+      "body": null,
+      "summary": "WIREDの記事は、直近の4営業日に米国で相次いだIT障害を取り上げている。マイクロソフトのExchange障害は数千社のIT業務に影響し、連邦航空局（FAA）のシステム不具合では航空機が全国で運航停止になった。そのほか、JPモルガン・チェースのソフトウェア問題、ユナイテッド航空のシステム不具合、米国家安全保障局（NSA）の機密ネットワーク停止で職員が出勤できない事態も起きた。ただし、これらの障害が互いに関連していることや、ハッカーによるものだと示す証拠は現時点で確認されていない。\n\n記事は、ほとんどのIT障害は悪意によるものではないと指摘する。Cloudflareのマシュー・プリンスCEOは、サイバー攻撃だと思ったが違った例を多く見てきたとし、現在見られるのは「標準的な背景ノイズ」だと述べた。インターネット分析の責任者を務めるInfobloxのダグ・マドリー氏は、1日に最大12件の障害を監視しているが、ハッカーが原因だったのは約千分の一だという。さらにIPinfoのジョアン・トメ氏は、攻撃に見える大規模障害の多くは自ら招いたもので、不適切な更新、設定変更、ケーブル切断、停電などが典型的な原因だとしている。\n\n判断の手順として、記事はまず企業や政府機関の発表、障害状況を示すステータスページ、ネットワーク監視データを確認することを勧めている。監視データの例には、ジョージア工科大学のIODA（インターネット障害の検出・分析サービス）などが挙げられている。ハッカーによる攻撃の場合は、ランサムウェア（身代金を要求する不正プログラム）の犯行グループが犯行を名乗ることがあるが、その主張は誇張や虚偽の場合もあり、2016年にDynが攻撃を受けた例のように声明が出ないこともある。そのため、米国のCISA（サイバーセキュリティ・インフラセキュリティ庁）や民間企業による確認には、数日から数か月かかる場合もあると記事は指摘している。\n\n記事は、原因が特定できない段階では判断を保留し、確かな証拠が出るまで待つことが最善だとしている。障害の継続時間も手がかりになり、トメ氏によると、不具合のある更新を元に戻す作業は数分から数時間で済むが、ランサムウェアは数日から数週間かかることがある。マドリー氏は、現代社会はインターネットサービスに全面的に依存しており、障害を完全になくすことはできないと語る。相次いだ障害も、技術の複雑化を示すものだという見方を示している。",
+      "sources": [
+        {
+          "outlet": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/",
+          "date": "2026-11-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "0b9c0dc10fb7",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.publickey1.jp/blog/26/database_hubai.html",
+      "headline": "マイクロソフト、データベースを一元管理するDatabase Hubを正式リリース",
+      "originalTitle": "マイクロソフト、クラウドやオンプレミスのデータベースを一元管理する「Database Hub」正式リリース。AIエージェントによる運用監視の自動化も",
+      "outlet": "Publickey",
+      "region": "domestic",
+      "category": "it",
+      "score": 52,
+      "tier": "spare",
+      "pubDate": "2026-11-19T15:19:21.000Z",
+      "body": null,
+      "summary": "マイクロソフトは、年次イベント「Microsoft Ignite 2026」（日本時間11月18日未明に開幕）で、データベースを一元管理する「Database Hub in Fabric」の正式リリースを発表した。Database Hubは、同社の統合データ分析基盤「Microsoft Fabric」上で動作し、管理者が権限を持つデータベースを自動的に一覧表示する。対象はAzure SQL、Azure Database for PostgreSQL、Azure Cosmos DB、SQL Serverなどで、クラウドだけでなくオンプレミスや他社クラウドで稼働するデータベースも含まれる。\n\n監視機能では、対象データベースのCPU、メモリ、ストレージの推移をほぼリアルタイムで追跡できる。あわせて、Microsoft Entra認証、監査ログ、顧客管理キーといったセキュリティの状態も把握でき、重要な情報や変化の概要も自動で示される。\n\n同時に、Database Hubに対応する新機能として、AIがデータベースの障害予測や性能監視を行う「Database Agents」のプレビューも発表された。対象はSQL ServerとPostgreSQLで、マイクロソフトが作成したスキルに基づいて継続的に監視する。問題の兆候を検出すると、重要性や影響を説明したうえで修正案を示し、承認を受けた操作を実行する。これにより、障害や性能低下の後に対応する運用から、問題を先回りして防ぐ運用への移行が可能になるとしている。\n\nVisual Studio Code向けには、拡張機能「Database agent in the Microsoft PostgreSQL extension for Visual Studio Code」も発表された。これにより、VS Codeを離れずにエージェント機能を使ってPostgreSQLを運用管理できるという。",
+      "sources": [
+        {
+          "outlet": "Publickey",
+          "url": "https://www.publickey1.jp/blog/26/database_hubai.html",
+          "date": "2026-11-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "6ee0f6e267f0",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://kn.itmedia.co.jp/kn/article/2611/20/2000003331/",
+      "headline": "セールスフォース、社内問い合わせを自動化するAI「Paige」を国内提供",
+      "originalTitle": "SlackやTeamsで情シス問い合わせを自動化 Salesforceの新AI「Paige」とは",
+      "outlet": "ITmedia AI+",
+      "region": "domestic",
+      "category": "ai",
+      "score": 51,
+      "tier": "spare",
+      "pubDate": "2026-11-19T22:00:00.000Z",
+      "body": null,
+      "summary": "セールスフォース・ジャパンは2026年11月18日、AIエージェント製品群「Agentforce」の新ポートフォリオ「Job-Ready Agents」のうち3製品「Piper」「Fin」「Paige」を日本市場で提供開始すると発表した。これらは高付加価値業務向けに用途別に構築済みのAIエージェントで、一から開発せずに導入できるという。\n\nなかでも、情報システム部門（情シス）の運用負荷軽減が期待できる製品として挙げられているのが、IT・人事向けの従業員サービスエージェント「Paige」である。SlackやTeamsでの社内問い合わせ対応を自動化する。",
+      "sources": [
+        {
+          "outlet": "ITmedia AI+",
+          "url": "https://kn.itmedia.co.jp/kn/article/2611/20/2000003331/",
+          "date": "2026-11-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "f45d6fee2d54",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2611/20/news014.html",
+      "headline": "中国のヒト型ロボット量産、焦りが後押しも実用化には課題",
+      "originalTitle": "なぜ中国はヒューマノイドを量産するのか 突き動かす「焦り」と足踏みの正体",
+      "outlet": "ITmedia AI+",
+      "region": "domestic",
+      "category": "ai",
+      "score": 50,
+      "tier": "spare",
+      "pubDate": "2026-11-19T22:00:00.000Z",
+      "body": null,
+      "summary": "ITmedia AI+の記事は、中国がヒト型ロボット（ヒューマノイド）の量産に注力する背景と、実用化を阻む課題を整理したものである。中国ビジネス支援のSUGENAが2026年10月29日に開いたオンラインセミナーで、須毛原勲社長が解説した内容に基づく。2026年上半期の世界出荷台数の97％超を中国メーカーが占めたとする米国の調査会社SAGの推計も紹介されている。\n\n須毛原氏は、中国がロボットに注力する理由として5つを挙げた。EV産業で整ったモーターや電池、磁石などの供給網と技術者を基盤に、人口減少による労働力不足、不動産不況後の新たな成長産業の育成、生成AIの進化による「フィジカルAI」（AIを搭載し実世界で動く技術）への期待、海外展開の4つが続く。政府も2023年11月にヒト型ロボットの発展方針を示し、2026年3月の第15次5カ年計画でフィジカルAIを未来産業に位置付けた。須毛原氏は、開発はスタートアップなどが先行し、政府が後から支援を明確にした面もあるとした。国有企業が率先して買うことで需要が地方にも広がるという。一方、日本は1973年に早稲田大学が世界初のヒト型ロボット「WABOT-1」を開発し、2000年にはホンダが「ASIMO」を発表して先行したが、買い手や資金の不足などから開発を続けられなかったと分析している。\n\n出荷実態については、SAGの集計で2026年上半期の世界出荷が約1万9100台、中国メーカーは前年同期の約3.7倍とされる。IDCの推計では約2万5000台で、中国メーカーの割合は77.9％と、集計対象によって数字に幅がある。AgiBotとUnitreeの2社で世界の約4分の3を占める。ただし、Unitreeの2025年1～9月の用途別売上は研究・教育向けが74％、一般向けが17％、業界応用は9％にとどまる。須毛原氏は「1万9000台売れていることは驚くべきことだが、まだ1万9000台ともいえる」と述べ、工場などで継続的に働く普及はまだ始まったばかりだとした。\n\n実用化の壁としては、電池の持ち、発熱、導入費用に見合う採算、人のそばでの安全性など5つが挙げられた。中国は100以上の応用場面での実証を目標に掲げ、国有企業や大学を買い手として現場を用意しているという。日本企業については、高精度の減速機や軸受、エンコーダーなどの部品に強みがあると指摘し、中国製や米国製ロボットの基幹部品を日本製が担う道を提案した。中国企業との関わり方として、機体の導入、代理店や共同開発、部品調達など6つの選択肢が示され、データの権利や保守、経済安全保障上のリスクは最初の契約で決めるべきだとした。",
+      "sources": [
+        {
+          "outlet": "ITmedia AI+",
+          "url": "https://monoist.itmedia.co.jp/mn/articles/2611/20/news014.html",
+          "date": "2026-11-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "816dbf8dc56f",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.watch.impress.co.jp/docs/news/2157937.html",
+      "headline": "ファミマ、飲料補充ロボットを2027年1月から全国で本格導入",
+      "originalTitle": "ファミマ、飲料補充ロボットを全国で本格導入へ",
+      "outlet": "Impress Watch",
+      "region": "domestic",
+      "category": "ai",
+      "score": 49,
+      "tier": "spare",
+      "pubDate": "2026-11-19T08:19:50.000Z",
+      "body": null,
+      "summary": "ファミリーマートは、飲料補充業務を自動化する「飲料補充ロボット（TX GHOST）」と、バックヤードの在庫を管理する「デジタル在庫棚（スマートシェルフ）」を2027年1月から順次本格導入すると発表した。従業員の負荷軽減と店舗運営の効率化が目的である。\n\nロボットは売場の棚に対して24時間自動で陳列を行い、1日あたり最大約1,800本を陳列できる。店舗の販売実績を独自のAIシステムが分析し、売れ筋商品から優先して陳列することで、機会ロスを減らし売上増加も図る。デジタル在庫棚と組み合わせることで、店舗従業員の飲料補充業務はスマートシェルフへの補充だけになる。同社は、これにより1店舗あたり1日の飲料補充作業時間を約7割削減できるとしている。\n\n飲料冷蔵庫内の補充は従業員の大きな負担だった。ファミリーマートは2020年からTelexistence（TX）と協力して飲料補充ロボットの研究・改良を重ねてきた。先行導入店舗で長期の実証実験を行い、在庫管理・補充業務の効率化と売場補充の自動化にめどがついたとして、全国での本格導入に踏み切る。",
+      "sources": [
+        {
+          "outlet": "Impress Watch",
+          "url": "https://www.watch.impress.co.jp/docs/news/2157937.html",
+          "date": "2026-11-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "6687f7be62c3",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "headline": "OpenAI、性能劣化の調査・修正を自動化する「Performance Factory」を紹介",
+      "originalTitle": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "outlet": "OpenAI",
+      "region": "overseas",
+      "category": "ai",
+      "score": 48,
+      "tier": "spare",
+      "pubDate": "2026-11-19T08:00:00.000Z",
+      "body": null,
+      "summary": "OpenAIは、ChatGPTの性能劣化（regression）の調査と修正を自動化する仕組み「Performance Factory」を構築したと紹介している。クラウド上で動くこの仕組みは、同社のコード作成・調査用AIエージェント「Codex」と自社モデルを使い、性能問題の発見から解消までを自動で進める。エージェントによる開発が急速に進む中で、従来の手作業による性能エンジニアリングでは追いつかなくなったことが背景とされている。\n\n最初に構築されたワークフローは「Regression Workflow」である。性能アラートが発生するとタスクが開かれ、エージェントが遅延の原因を調べて結果をタスクに記録し、修正案を作成する。エンジニアが修正を確認して導入した後、別のエージェントが性能が元の水準に戻ったかを検証する。同社によれば、3か月余りで1,700件以上の調査を追跡し、600件を超える根本原因（root cause）を特定した。1日におよそ17件の自動調査が行われた計算になる。\n\n仕組みは4つの要素からなる。Markdownで書かれた設定とプロンプトでワークフローを定義するタスク管理サービス、次の工程に進められるタスクへエージェントを割り当てる仕組み（dispatch loop）、クラウド上でCodexを実行するAPI、そしてGitHubのレビューコメントやデプロイ完了などをきっかけに待機中の作業を再開させる仕組み（subscriptions）である。\n\n原因の診断では、別のCodexセッションが診断の誤りを探す「敵対的レビュー（adversarial review）」を行う。初期にはエージェントが最初にもっともらしい説明で調査を止め、誤った診断も出ていたという。ある事例では画像ダウンロードのエラーを原因と判断したが、レビュー側が、関連する内部サービスがすでに復旧しているのに画像の失敗が続いている点を指摘し、調査を再開させた。100件の根本原因案を手作業で確認したところ、70％が正確と判定され、30％は追加の検討や因果関係の確定が必要だったとしている。",
+      "sources": [
+        {
+          "outlet": "OpenAI",
+          "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+          "date": "2026-11-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "856f962b1efd",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers/",
+      "headline": "Uber、10歳以上向け配車「Uber Kids」を米国3都市で試験運用",
+      "originalTitle": "Uber tests rides for kids as young as 10, with extra pay for drivers",
+      "outlet": "TechCrunch",
+      "region": "overseas",
+      "category": "it",
+      "score": 44,
+      "tier": "spare",
+      "pubDate": "2026-11-19T21:33:24.000Z",
+      "body": null,
+      "summary": "Uberは、10歳から利用できる配車サービス「Uber Kids」を、テキサス州オースティン、テネシー州ナッシュビル、ウィスコンシン州マディソンの3都市で試験的に始めた。過去数週間、目立たない形で開始されたという。既存の13〜17歳向けサービス「Uber for Teens」を土台にしたもので、保護者が付き添わない子どもの送迎需要があるかを探る狙いがあるとされる。Uberはこれを限定的なパイロット事業と位置づけており、対象都市が広がらない可能性にも言及している。\n\n利用条件は厳格である。注文できるのは保護者または後見人のみで、子どもを家族プロファイルに追加し、安全機能を説明する研修を終える必要がある。乗車地点には保護者が立ち会わなければ乗車が始まらず、降車場所を記したメモを運転手に渡す必要もある。運転手は評価の高い招待制で、手順を説明する教育課程の修了と、保護者がリアルタイムで乗車を確認できるライブ動画配信への同意が求められる。\n\n安全対策として、すべての乗車でPIN認証を行い、録画は暗号化されて運転手は閲覧できないとしている。センサーとGPSデータで、経路の逸脱、予期しない停車、途中終了を検知する仕組みも備える。一方で運転手には報酬の上乗せがあり、通常より1回あたり7ドル多く支払われ、最初のUber Kids乗車では追加で20ドルが支払われる。記事は、若い年齢層への拡大には責任の重い役割を担う運転手をどう確保するかが課題になると指摘している。HopSkipDriveやZumといった既存の子ども向け送迎サービスと競合する可能性もあるという。\n\nUberは2023年に13〜17歳向けのUber for Teensを開始しており、それ以前にも数年間の試験運用を行っていた。その後、全米展開の拡大とともにライブ動画配信機能を追加している。",
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers/",
+          "date": "2026-11-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "191f99a064df",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.theverge.com/news/1037951/instagram-amazon-affiliate-links-influencers-ads",
+      "headline": "Instagramとアマゾンの提携、投稿の広告利用条項にクリエイターが懸念",
+      "originalTitle": "Some creators are skeptical of Instagram’s new affiliate program",
+      "outlet": "The Verge",
+      "region": "overseas",
+      "category": "it",
+      "score": 43,
+      "tier": "spare",
+      "pubDate": "2026-11-19T19:12:30.000Z",
+      "body": null,
+      "summary": "Instagramは、アマゾンのアカウントと連携し、投稿に商品のアフィリエイトリンクを自動で付けられる新機能を発表した。アフィリエイトリンクとは、リンク経由で購入が発生すると紹介者に報酬が入る仕組みのリンクである。リール（Instagramの短尺動画）では最大30件、フィード投稿では最大20件の商品リンクを埋め込める。ただし連携時の許諾内容をめぐり、クリエイターの間で懸念が出ている。\n\n懸念の中心は権利の範囲である。アカウントを連携すると、アマゾンとその出品ブランドは、関連するアフィリエイトリンクを含む「公開コンテンツ」から広告を作成できるとされる。クリエイターは、ブランドがコンテンツを編集し、「推薦文、キャプション、メディア」を広告に使えることにも同意する必要がある。利用条件が不明確だとして、連携前に許諾内容と収益への影響を確認するよう呼びかける声もあった。Instagram責任者アダム・モッセリの投稿には、リーチが減らないか、広告利用時に手数料率は変わらないかといった質問が相次いだという。\n\nInstagram製品マーケティング担当ディレクターのジミー・オキーフは、The Vergeへのメールで、連携してもリーチは下がらないと説明した。アマゾンが投稿を広告としてブースト配信した場合も、アフィリエイト報酬は継続して得られるという。ブーストは設定で停止でき、連携自体も解除できる。広告化を望まない場合は、アカウントを連携せずに商品を手動で追加する方法もある。\n\n背景として、アマゾンは多数のインフルエンサーを抱える大規模な提携プログラムを持ち、商品紹介で生計を立てる人もいる。従来のSNSはリンクの掲載に制約があり、プロフィールのリンクを集約する「リンク・イン・バイオ」ツールが使われてきた。記事は、InstagramやFacebook、YouTubeがTikTok Shopの成功を意識するように、ショッピング機能を増やしてきたと指摘している。その結果、ショッピングとSNSの境界は一層曖昧になっているという。",
+      "sources": [
+        {
+          "outlet": "The Verge",
+          "url": "https://www.theverge.com/news/1037951/instagram-amazon-affiliate-links-influencers-ads",
+          "date": "2026-11-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "983221233ae8",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "science",
+      "url": "https://arstechnica.com/science/2026/11/watching-mouse-fight-club-teaches-the-critters-how-to-fight/",
+      "headline": "戦いを観察したマウスは実戦で有利に　脳活動も戦う個体に近づく",
+      "originalTitle": "Mouse fight club might explain why we like to watch violent things",
+      "outlet": "Ars Technica",
+      "region": "overseas",
+      "category": "science",
+      "score": 42,
+      "tier": "spare",
+      "pubDate": "2026-11-19T14:04:38.000Z",
+      "body": null,
+      "summary": "プリンストン大学の研究チームは、マウスが他個体の戦いを観察すると、その後の戦いで有利になるかを調べ、結果をNature誌に発表した。雄のマウスを戦う個体、観戦する個体、未経験の個体の3群に無作為に分け、8日間にわたり1日3回、各10分の訓練を行った。未経験群はぬいぐるみのマウスと単独で遊び、観戦群は透明な仕切りの向こうの戦いを見て、においや音も感じられる状態に置かれた。\n\n9日目は「ファイトナイト」と呼ばれ、全員が手強い相手と4分間の3ラウンドを戦い、その様子を上から撮影して行動を分析した。脳では、興奮性の神経細胞は活動時に緑、抑制性の神経細胞は赤に光るよう遺伝子操作し、相互に連結した12の脳領域の活動を光ファイバーで同時に追跡した。戦いを起こさせるため、攻撃性の高い系統の自宅ケージに、やや弱くおとなしい系統のマウスを入れる方法がとられた。勝者が自宅にいて体が大きく経験も豊富な条件になっており、研究者は公平ではないことを認めつつ、マウスにとって結果が不確かな状況を作る狙いだったと説明している。\n\n結果、攻撃性の弱い系統であるにもかかわらず、観戦群はファイトナイトで未経験群より有利に戦えた。観戦群と戦う群は、相手に背を向ける時間が短く、攻撃も速く、技の傾向も似ていた。ただし熟練度では戦う群に及ばず、実戦経験の重要性は残るとされる。脳の活動も、観戦群は12の領域すべてで戦う群に近づいた。\n\n研究者の一人イラベドラ＝ガルシアは、戦いを観察すると攻撃行動を頭の中で模倣するだけでなく、誰が危険かを見極めるなど複数のことに同時に注意を向けていると述べた。ファルクナーは、ただ歩くオスを見ても同じ変化は起きないとし、攻撃には特有の注意を引く力があると指摘する。人間への当てはめについては、関連する脳の回路が高度に保存されているとしつつ、一対一の対応は難しいとしている。研究チームは今後、メスが戦うオスを見て配偶者の好みが変わるかを調べ、同様の脳活動の変化を人為的に起こせるかも検証する計画だという。",
+      "sources": [
+        {
+          "outlet": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/11/watching-mouse-fight-club-teaches-the-critters-how-to-fight/",
+          "date": "2026-11-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    }
+  ],
+  "essays": [],
+  "productionNote": {
+    "reachedOutlets": [
+      "ITmedia NEWS",
+      "anthropic.com",
+      "MIT Technology Review",
+      "TechCrunch",
+      "The Verge",
+      "ITmedia AI+",
+      "synology.com",
+      "Ars Technica",
+      "Google AI Blog",
+      "robertpeake.com",
+      "Publickey",
+      "Impress Watch",
+      "OpenAI"
+    ],
+    "unreachedOutlets": [],
+    "excluded": [],
+    "counts": {
+      "deep": 0,
+      "brief": 30,
+      "essays": 0,
+      "chars": 23693
+    },
+    "text": "候補106件から30件を掲載。本文が取れず不採用3件。"
+  }
+}
