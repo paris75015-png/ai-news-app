@@ -1,6 +1,6 @@
 {
- "date": "2026-11-20",
- "generatedAt": "2026-11-19T23:33:55.070Z",
+ "date": "2026-11-23",
+ "generatedAt": "2026-11-22T22:28:53.098Z",
  "model": "claude-haiku-5-5",
  "measured": {
   "world": 18,
@@ -8,408 +8,252 @@
  },
  "articles": [
   {
-   "id": "intl-brief-2026-11-20-s-20261120-02",
+   "id": "intl-brief-2026-11-23-s-20261109-19",
    "stream": "intl",
    "depth": "brief",
    "section": "world",
-   "headline": "米中ロ首脳、深圳で初の3者会談 共同宣言を発表",
-   "originalTitle": "Trump, Xi and Putin Seek to Project Power at Their First Summit",
-   "outlet": "New York Times",
-   "url": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec",
+   "headline": "COP31、主要な気候合意に至らず 化石燃料の扱いで対立",
+   "originalTitle": "COP31 fails to reach major climate deal as talks expose deep divisions",
+   "outlet": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
    "region": "overseas",
    "category": null,
-   "score": 39,
+   "score": 46,
    "tier": "should",
-   "pubDate": "2026-11-19T23:33:55.070Z",
+   "pubDate": "2026-11-22T22:28:53.098Z",
    "body": null,
-   "summary": "米国のトランプ大統領、中国の習近平国家主席、ロシアのプーチン大統領が、深圳で3者による初の首脳会談を行った。APECに合わせて約90分間行われた。3者は共同宣言で「核戦争に勝者はなく、決して戦われてはならない」とうたった。石油の生産・供給の拡大や国連改革への取り組みも盛り込んだ。英ガーディアン紙は、宣言がウクライナやイランの戦争に触れていないと指摘した。ニューヨーク・タイムズ紙は、会談の多くが象徴的なものだったと伝えた。トランプ氏はSNSで会談を高く評価し、金曜日にホワイトハウスで記者会見を開くと明らかにした。",
+   "summary": "トルコ・アンタルヤで開かれた国連気候変動会議COP31は、約200カ国が合意に至らないまま閉幕した。会期は2日延長され、COP史上最長となった。最終案は化石燃料に直接言及していなかったため、EUや太平洋島しょ国などが受け入れを拒否した。途上国からは、富裕国による適応資金の明確な約束がないとの不満も出た。グテーレス事務総長は「深く失望している」と述べ、化石燃料業界の影響力を批判した。主要な政治合意が決裂したのは2009年のコペンハーゲン会議以来とされる。",
    "sources": [
     {
-     "outlet": "New York Times",
-     "url": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec",
-     "date": "2026-11-20",
-     "access": "excerpt",
-     "via": null,
-     "note": "Trump, Xi and Putin Seek to Project Power at Their First Summit"
-    },
-    {
      "outlet": "BBC",
-     "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
-     "date": "2026-11-20",
+     "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-23",
      "access": "body",
      "via": null,
-     "note": "Trump, Putin and Xi release 'peace declaration' after historic meeting"
-    },
-    {
-     "outlet": "The Guardian",
-     "url": "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars",
-     "date": "2026-11-20",
-     "access": "excerpt",
-     "via": null,
-     "note": "China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars"
+     "note": "COP31 fails to reach major climate deal as talks expose deep divisions"
     },
     {
      "outlet": "NPR",
-     "url": "https://www.npr.org/2026/11/18/nx-s1-6040432/trump-xi-and-putin-shenzhen-china-russia-usa",
-     "date": "2026-11-20",
-     "access": "excerpt",
+     "url": "https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment",
+     "date": "2026-11-23",
+     "access": "body",
      "via": null,
-     "note": "Trump, Xi and Putin meet as global alliances hang in the balance"
+     "note": "Climate change talks fall apart in final hours over fossil fuels"
     },
     {
-     "outlet": "Deutsche Welle",
-     "url": "https://www.dw.com/en/xi-jinping-donald-trump-and-vladimir-putin-have-held-trilateral-talks-―-but-what-did-they-achieve/a-79996668?maca=en-rss-en-world-4025-rdf",
-     "date": "2026-11-20",
+     "outlet": "The Guardian",
+     "url": "https://www.theguardian.com/environment/2026/nov/23/cop31-left-chris-bowen-stuck-between-petrostates-and-climate-reality-but-the-failure-to-say-the-f-word-is-not-his-alone",
+     "date": "2026-11-23",
      "access": "excerpt",
      "via": null,
-     "note": "Xi Jinping, Donald Trump and Vladimir Putin have held trilateral talks ― but what did they achieve?"
+     "note": "Cop31 left Chris Bowen stuck between petrostates and climate reality. But the failure to say the f-word is not his alone"
+    },
+    {
+     "outlet": "New York Times",
+     "url": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
+     "date": "2026-11-23",
+     "access": "excerpt",
+     "via": null,
+     "note": "COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels"
+    },
+    {
+     "outlet": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/inside-story/2026/11/22/why-has-the-cop31-climate-summit-failed-to-reach-agreement?traffic_source=rss",
+     "date": "2026-11-23",
+     "access": "excerpt",
+     "via": null,
+     "note": "Why has the COP31 climate summit failed to reach agreement?"
     },
     {
      "outlet": "France 24",
-     "url": "https://www.france24.com/en/tv-shows/the-debate/20261119-three-of-a-kind-xi-hosts-trump-and-putin-as-ukraine-war-grinds-on",
-     "date": "2026-11-20",
+     "url": "https://www.france24.com/en/environment/20261121-latest-cop31-deal-sidesteps-fossil-fuels-amid-growing-divisions",
+     "date": "2026-11-23",
+     "access": "headline",
+     "via": null,
+     "note": "🔴 COP31 ends without deal as EU rejects text for omitting mention of fossil fuels"
+    },
+    {
+     "outlet": "Euronews",
+     "url": "https://www.euronews.com/2026/11/22/cop31-climate-talks-fail-after-eu-and-others-reject-final-deal-proposal",
+     "date": "2026-11-23",
      "access": "excerpt",
      "via": null,
-     "note": "Three of a kind? Xi hosts Trump and Putin as Ukraine war grinds on"
+     "note": "COP31 climate talks fail after EU and others reject final deal proposal"
     },
     {
      "outlet": "South China Morning Post",
-     "url": "https://www.scmp.com/news/china/diplomacy/article/3375130/xi-trump-and-putin-peace-declaration-suggests-summit-more-photo-op",
-     "date": "2026-11-20",
+     "url": "https://www.scmp.com/news/world/article/3375393/cop31-climate-talks-collapse-eu-and-others-reject-deal",
+     "date": "2026-11-23",
      "access": "excerpt",
      "via": null,
-     "note": "Xi, Trump and Putin ‘peace declaration’ suggests summit is more than a photo op"
+     "note": "Cop31 climate talks collapse as EU and others reject deal"
     },
     {
      "outlet": "CBS News",
-     "url": "https://www.cbsnews.com/news/trump-xi-putin-china-apec-summit/",
-     "date": "2026-11-20",
+     "url": "https://www.cbsnews.com/news/un-cop31-climate-conference-ends-no-agreement-fossil-fuel-debate-standstill/",
+     "date": "2026-11-23",
      "access": "excerpt",
      "via": null,
-     "note": "Trump, Xi and Putin sit down for a rare 3-way meeting in China"
+     "note": "U.N. climate summit ends without deal after contentious fossil fuel debate"
+    },
+    {
+     "outlet": "The Straits Times",
+     "url": "https://www.straitstimes.com/world/middle-east/can-climate-diplomacy-build-on-the-collapse-of-cop31",
+     "date": "2026-11-23",
+     "access": "excerpt",
+     "via": null,
+     "note": "Can climate diplomacy build on the collapse of COP31?"
+    },
+    {
+     "outlet": "Reuters",
+     "url": null,
+     "date": "2026-11-23",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Countries react as COP31 climate talks collapse - Reuters"
     },
     {
      "outlet": "Associated Press",
      "url": null,
-     "date": "2026-11-20",
+     "date": "2026-11-23",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "Takeaways from the historic summit between Trump, Xi and Putin - AP News"
+     "note": "Why the failure to reach a major deal at UN climate talks matters as extreme weather worsens - AP News"
     },
     {
      "outlet": "Bloomberg",
      "url": null,
-     "date": "2026-11-20",
+     "date": "2026-11-23",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "Three-Way Summit: Trump, Putin and Xi’s New World Order Has Arrived - Bloomberg.com"
+     "note": "UN Climate Talks Collapse in Acrimony as Nations Reject Deal - Bloomberg.com"
     },
     {
      "outlet": "Financial Times",
      "url": null,
-     "date": "2026-11-20",
+     "date": "2026-11-23",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "Xi, Trump and Putin hail ‘groundbreaking’ meeting - Financial Times"
+     "note": "COP31 climate talks fail after stand-off over fossil fuels - Financial Times"
     }
    ],
-   "continuity": null,
+   "continuity": {
+    "previousDate": "2026-11-09",
+    "previousScore": 46,
+    "note": "8日連続で報じられている"
+   },
    "coverage": {
-    "world": "11/18",
-    "jp": "1/6",
+    "world": "14/18",
+    "jp": "5/6",
     "worldTotal": 18,
     "jpTotal": 6,
-    "daysSeen": 1
+    "daysSeen": 8
    },
    "bodyAvailable": true,
    "discussionUrl": null,
    "summarizedBy": "claude-haiku-5-5"
   },
   {
-   "id": "intl-brief-2026-11-20-s-20261120-01",
+   "id": "intl-brief-2026-11-23-s-20261123-01",
    "stream": "intl",
    "depth": "brief",
    "section": "world",
-   "headline": "ICJ、ミャンマーのロヒンギャ迫害をジェノサイドと認定",
-   "originalTitle": "U.N. Court Rules Myanmar Committed Genocide Against Rohingya",
-   "outlet": "New York Times",
-   "url": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide",
-   "region": "overseas",
-   "category": null,
-   "score": 38,
-   "tier": "should",
-   "pubDate": "2026-11-19T23:33:55.070Z",
-   "body": null,
-   "summary": "国際司法裁判所（ICJ）は木曜、ミャンマーが少数派ロヒンギャに対してジェノサイド（集団殺害）を行ったと判断した。対象は2017年の軍による掃討作戦である。判決は9対6で、軍の作戦は少数派のイスラム教徒を破壊する意図で行われたとした。国家がこの罪で責任を問われたのは、ICJの80年の歴史で初めてだという。裁判所は約1万人が殺害されたと推定した。訴えたのはガンビアで、1948年のジェノサイド条約に基づく。英ガーディアン紙は、ICJの判事に対し米国が制裁を科す可能性への懸念が高まっていると伝えた。",
-   "sources": [
-    {
-     "outlet": "New York Times",
-     "url": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide",
-     "date": "2026-11-20",
-     "access": "excerpt",
-     "via": null,
-     "note": "U.N. Court Rules Myanmar Committed Genocide Against Rohingya"
-    },
-    {
-     "outlet": "NPR",
-     "url": "https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya",
-     "date": "2026-11-20",
-     "access": "body",
-     "via": null,
-     "note": "The U.N.'s top court rules Myanmar committed genocide against the Rohingya"
-    },
-    {
-     "outlet": "BBC",
-     "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
-     "date": "2026-11-20",
-     "access": "excerpt",
-     "via": null,
-     "note": "Myanmar committed genocide against Rohingya minority, top UN court rules"
-    },
-    {
-     "outlet": "The Guardian",
-     "url": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
-     "date": "2026-11-20",
-     "access": "excerpt",
-     "via": null,
-     "note": "Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling"
-    },
-    {
-     "outlet": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/rohingya-genocide-survivor-perpetrators-will-have-to-face?traffic_source=rss",
-     "date": "2026-11-20",
-     "access": "excerpt",
-     "via": null,
-     "note": "Rohingya genocide survivor: ‘perpetrators will have to face consequences’"
-    },
-    {
-     "outlet": "Deutsche Welle",
-     "url": "https://www.dw.com/en/myanmar-committed-genocide-against-rohingya-top-un-court-rules/a-79987898?maca=en-rss-en-world-4025-rdf",
-     "date": "2026-11-20",
-     "access": "excerpt",
-     "via": null,
-     "note": "Myanmar committed genocide against Rohingya, top UN court rules"
-    },
-    {
-     "outlet": "France 24",
-     "url": "https://www.france24.com/en/icj-ruling-on-myanmar-genocide-historic-victory-for-rohingya-landmark-for-international-justice",
-     "date": "2026-11-20",
-     "access": "excerpt",
-     "via": null,
-     "note": "ICJ ruling on Myanmar genocide: ‘Historic victory for Rohingya, landmark for international justice’"
-    },
-    {
-     "outlet": "CBS News",
-     "url": "https://www.cbsnews.com/news/myanmar-genocide-rohingyas-un-top-court/",
-     "date": "2026-11-20",
-     "access": "excerpt",
-     "via": null,
-     "note": "Myanmar committed genocide against Rohingya, U.N. top court rules"
-    },
-    {
-     "outlet": "The Straits Times",
-     "url": "https://www.straitstimes.com/world/myanmar-genocide-ruling-sets-up-court-fight-over-israel-and-gaza",
-     "date": "2026-11-20",
-     "access": "excerpt",
-     "via": null,
-     "note": "Myanmar genocide ruling sets up court fight over Israel and Gaza"
-    },
-    {
-     "outlet": "Associated Press",
-     "url": null,
-     "date": "2026-11-20",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "For the first time, UN’s highest court finds a country responsible for genocide: Myanmar - AP News"
-    }
-   ],
-   "continuity": null,
-   "coverage": {
-    "world": "10/18",
-    "jp": "1/6",
-    "worldTotal": 18,
-    "jpTotal": 6,
-    "daysSeen": 1
-   },
-   "bodyAvailable": true,
-   "discussionUrl": null,
-   "summarizedBy": "claude-haiku-5-5"
-  },
-  {
-   "id": "intl-brief-2026-11-20-s-20261027-01",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "world",
-   "headline": "Anthropic、ナスダックに上場 初値は公開価格比34%高",
-   "originalTitle": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-   "outlet": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+   "headline": "リビアのベンガジ港で露艦爆発、無人艇攻撃の疑い",
+   "originalTitle": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack",
+   "outlet": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
    "region": "overseas",
    "category": null,
    "score": 33,
    "tier": "should",
-   "pubDate": "2026-11-19T23:33:55.070Z",
+   "pubDate": "2026-11-22T22:28:53.098Z",
    "body": null,
-   "summary": "AI企業アンソロピックの株式が木曜、ナスダックで取引を始めた。初値は111.5ドルで、公開価格83ドルより約34%高かった。株価は一時、同社の時価総額を約2兆ドル近くに押し上げた。その後は下落し、一時97ドルまで落ち込んだ。ナスダック総合指数は約2.3%安で引けた。BBCは、評価額が約1.76兆ドルになったと伝えた。AIへの巨額投資に対する懸念が続くなか、同社の上場はAI業界全体の試金石になると報じられている。",
+   "summary": "リビア東部のベンガジ港に停泊していたロシア海軍のコルベット艦が、日曜早朝に爆発を起こした。リビア東部政府によると、同艦は燃料と補給のため寄港中で、無人艇による攻撃を受けたとみられる。ウクライナによる攻撃の疑いが報じられているが、責任を名乗る組織はない。衛星画像では艦が沈没した様子が示された。同じ日には、ロシア関連とされる貨物船も沿岸で攻撃を受けた。ロシア側は現時点でコメントしていない。",
    "sources": [
     {
+     "outlet": "The Guardian",
+     "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
+     "date": "2026-11-23",
+     "access": "body",
+     "via": null,
+     "note": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack"
+    },
+    {
      "outlet": "BBC",
-     "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
-     "date": "2026-11-20",
+     "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-23",
      "access": "body",
      "via": null,
-     "note": "Anthropic becomes one of world's most valuable public companies in stock market debut"
-    },
-    {
-     "outlet": "NPR",
-     "url": "https://www.npr.org/2026/11/19/g-s1-154344/up-first-newsletter-house-democrats-trump-xi-putin-anthropic",
-     "date": "2026-11-20",
-     "access": "body",
-     "via": null,
-     "note": "Anthropic raises more than $100B in IPO. And, Dems nominate Jeffries for House speaker"
-    },
-    {
-     "outlet": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-20/asx-markets-business-live-news-nov-20/107403768",
-     "date": "2026-11-20",
-     "access": "excerpt",
-     "via": null,
-     "note": "Live: Anthropic's record-breaking listing hits Nasdaq, ASX drops"
+     "note": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say"
     },
     {
      "outlet": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/three-arrested-during-anthropic-ipo-protest-outside-nasdaq?traffic_source=rss",
-     "date": "2026-11-20",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/suspected-drone-attack-causes-explosion-on-russian-ship-in-libya?traffic_source=rss",
+     "date": "2026-11-23",
      "access": "excerpt",
      "via": null,
-     "note": "Three arrested during Anthropic IPO protest outside Nasdaq"
+     "note": "Suspected drone attack causes explosion on Russian ship in Libya"
     },
     {
      "outlet": "France 24",
-     "url": "https://www.france24.com/en/tv-shows/business/20261119-anthropic-goes-public-after-blockbuster-ipo-but-fails-to-revive-ai-trade",
-     "date": "2026-11-20",
+     "url": "https://www.france24.com/en/africa/20261122-russian-warship-hit-by-suspected-ukrainian-drone-at-libya-s-benghazi-naval-base",
+     "date": "2026-11-23",
      "access": "excerpt",
      "via": null,
-     "note": "Anthropic goes public after blockbuster IPO but fails to revive AI trade"
+     "note": "Russian warship hit by suspected Ukrainian drone at Benghazi naval base, Libyan officials say"
     },
     {
      "outlet": "Euronews",
-     "url": "https://www.euronews.com/video/2026/11/19/us-protesters-warn-of-ai-bubble-as-anthropic-makes-stock-market-history",
-     "date": "2026-11-20",
+     "url": "https://www.euronews.com/2026/11/22/suspected-drone-strike-hits-russian-ship-at-libyas-benghazi-port-raising-regional-security",
+     "date": "2026-11-23",
      "access": "excerpt",
      "via": null,
-     "note": "US: Protesters warn of AI bubble as Anthropic makes stock market history"
+     "note": "Suspected drone strike hits Russian ship at Libya’s Benghazi port, raising regional security concerns"
+    },
+    {
+     "outlet": "CBS News",
+     "url": "https://www.cbsnews.com/news/russian-warship-struck-suspected-ukrainian-sea-drones-benghazi-naval-base-libya-officials/",
+     "date": "2026-11-23",
+     "access": "excerpt",
+     "via": null,
+     "note": "Russian warship struck by suspected Ukrainian drones at Libya naval base"
+    },
+    {
+     "outlet": "The Straits Times",
+     "url": "https://www.straitstimes.com/world/europe/libyas-eastern-government-suspects-drone-attack-caused-explosion-on-russian-ship-at-benghazi-port",
+     "date": "2026-11-23",
+     "access": "excerpt",
+     "via": null,
+     "note": "Suspected Ukrainian sea drones hit Russian warship at Benghazi naval base, Libyan officials say"
     },
     {
      "outlet": "Reuters",
      "url": null,
-     "date": "2026-11-20",
+     "date": "2026-11-23",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "Who is getting rich from Anthropic's record IPO - Reuters"
+     "note": "Libya's eastern government suspects drone attack caused explosion on Russian ship - Reuters"
     },
     {
      "outlet": "Associated Press",
      "url": null,
-     "date": "2026-11-20",
+     "date": "2026-11-23",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "Anthropic surges in market debut after biggest IPO on record, despite fears that AI is running amok - AP News"
+     "note": "Suspected Ukrainian sea drones hit Russian warship at Benghazi naval base, Libyan officials say - AP News"
     },
     {
      "outlet": "Bloomberg",
      "url": null,
-     "date": "2026-11-20",
+     "date": "2026-11-23",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "Anthropic Pops - Bloomberg.com"
-    },
-    {
-     "outlet": "Financial Times",
-     "url": null,
-     "date": "2026-11-20",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Anthropic shares jump 17% after record Wall Street listing - Financial Times"
-    }
-   ],
-   "continuity": {
-    "previousDate": "2026-10-27",
-    "previousScore": 33,
-    "note": "12日連続で報じられている"
-   },
-   "coverage": {
-    "world": "10/18",
-    "jp": "5/6",
-    "worldTotal": 18,
-    "jpTotal": 6,
-    "daysSeen": 12
-   },
-   "bodyAvailable": true,
-   "discussionUrl": null,
-   "summarizedBy": "claude-haiku-5-5"
-  },
-  {
-   "id": "intl-brief-2026-11-20-s-20261120-05",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "world",
-   "headline": "欧州首脳、対露交渉に応じる用意を表明 ベルリン会合",
-   "originalTitle": "Burnham says Europe 'ready to enter negotiations' to help end Russia's war in Ukraine",
-   "outlet": "Sky News",
-   "url": "https://news.sky.com/story/putin-vows-to-retaliate-as-ukraine-hits-prized-crimea-bridge-for-third-time-in-four-days-13613963",
-   "region": "overseas",
-   "category": null,
-   "score": 19,
-   "tier": "interest",
-   "pubDate": "2026-11-19T23:33:55.070Z",
-   "body": null,
-   "summary": "欧州のウクライナ支援国は、ベルリンでの「有志連合」会合で、ウクライナ戦争を終わらせるための対露交渉に応じる用意があると表明した。英国のバーナム首相は、欧州は「明確で一貫した、団結した交渉方針」を持つと述べた。ドイツのメルツ首相は、ロシアの「最大限の要求」は現実的でないと語った。米国の特使の一人であるトランプ氏の娘婿クシュナー氏もベルリンに来ていた。一方、プーチン氏はこれまで米主導の和平協議で欧州の役割を拒んできた。プーチン氏は記者会見で、欧州の代表をモスクワに招いたと明らかにした。",
-   "sources": [
-    {
-     "outlet": "Sky News",
-     "url": "https://news.sky.com/story/putin-vows-to-retaliate-as-ukraine-hits-prized-crimea-bridge-for-third-time-in-four-days-13613963",
-     "date": "2026-11-20",
-     "access": "excerpt",
-     "via": null,
-     "note": "Burnham says Europe 'ready to enter negotiations' to help end Russia's war in Ukraine"
-    },
-    {
-     "outlet": "BBC",
-     "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
-     "date": "2026-11-20",
-     "access": "body",
-     "via": null,
-     "note": "Europe ready for talks with Russia on ending war in Ukraine, leaders say"
-    },
-    {
-     "outlet": "Deutsche Welle",
-     "url": "https://www.dw.com/en/wadephul-coalition-of-the-willing-talks-in-berlin-send-strong-signal-to-moscow/a-79990664?maca=en-rss-en-world-4025-rdf",
-     "date": "2026-11-20",
-     "access": "excerpt",
-     "via": null,
-     "note": "Wadephul: 'Coalition of the Willing' talks in Berlin send strong signal to Moscow"
-    },
-    {
-     "outlet": "Euronews",
-     "url": "https://www.euronews.com/2026/11/19/europe-tonight-trump-putin-and-xi-hold-talks-as-ukraine-allies-meet-in-berlin",
-     "date": "2026-11-20",
-     "access": "excerpt",
-     "via": null,
-     "note": "Europe Tonight: Trump, Putin and Xi hold talks as Ukraine allies meet in Berlin"
-    },
-    {
-     "outlet": "The Straits Times",
-     "url": "https://www.straitstimes.com/world/europe/europe-expects-to-join-new-ukraine-peace-talks-soon-says-germanys-merz",
-     "date": "2026-11-20",
-     "access": "excerpt",
-     "via": null,
-     "note": "Europe expects to join new Ukraine peace talks soon, says Germany’s Merz"
+     "note": "East Libya Says Blast on Russian Ship Likely Due to Attack - Bloomberg.com"
     }
    ],
    "continuity": null,
    "coverage": {
-    "world": "5/18",
+    "world": "10/18",
     "jp": "1/6",
     "worldTotal": 18,
     "jpTotal": 6,
@@ -420,148 +264,648 @@
    "summarizedBy": "claude-haiku-5-5"
   },
   {
-   "id": "intl-brief-2026-11-20-s-20261120-23",
+   "id": "intl-brief-2026-11-23-s-20261123-07",
    "stream": "intl",
    "depth": "brief",
    "section": "world",
-   "headline": "フーシ派、リヤドのサウジ政府系ファンド本部ビルを攻撃",
-   "originalTitle": "Saudi's tallest skyscraper damaged in Houthi attack",
-   "outlet": "Sky News",
-   "url": "https://news.sky.com/story/saudis-tallest-skyscraper-damaged-in-houthi-attack-13614147",
+   "headline": "FBI指名手配の麻薬組織幹部、メキシコ軍が拘束",
+   "originalTitle": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
+   "outlet": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested",
    "region": "overseas",
    "category": null,
-   "score": 19,
-   "tier": "interest",
-   "pubDate": "2026-11-19T23:33:55.070Z",
+   "score": 30,
+   "tier": "should",
+   "pubDate": "2026-11-22T22:28:53.098Z",
    "body": null,
-   "summary": "イエメンの親イラン武装組織フーシ派が木曜、サウジアラビアの首都リヤドにあるサウジ最高層ビルを攻撃した。ビルには政府系ファンド（PIF）の本部が入っている。サウジ当局によると、複数の階が損傷したがけが人はいない。ニューヨーク・タイムズ紙は空爆と伝え、SCMPは疑わしいミサイル攻撃と報じた。ストレーツ・タイムズは、フーシ派が空港や石油施設、オフィスビルをドローンやミサイルで繰り返し攻撃していると伝えた。",
+   "summary": "メキシコ軍の特殊部隊は、FBIの指名手配リスト上位10人に入っていたフアウスト・イシドロ・メサ・フローレス容疑者を、シナロア州での急襲で拘束した。作戦には米国の情報機関が協力したという。拘束の際には銃撃戦があり、その後の暴力も含めて少なくとも11人が死亡したと伝えられる。容疑者は麻薬密売などの罪で訴えられ、懸賞金は最大500万ドルとされていた。同時に、側近らも逮捕された。",
    "sources": [
     {
-     "outlet": "Sky News",
-     "url": "https://news.sky.com/story/saudis-tallest-skyscraper-damaged-in-houthi-attack-13614147",
-     "date": "2026-11-20",
-     "access": "excerpt",
+     "outlet": "The Guardian",
+     "url": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested",
+     "date": "2026-11-23",
+     "access": "body",
      "via": null,
-     "note": "Saudi's tallest skyscraper damaged in Houthi attack"
+     "note": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid"
     },
     {
      "outlet": "New York Times",
-     "url": "https://www.nytimes.com/2026/11/19/world/middleeast/saudi-pif-riyadh-tower-houthis-attack.html",
-     "date": "2026-11-20",
+     "url": "https://www.nytimes.com/2026/11/21/world/americas/mexico-captures-drug-kingpin.html",
+     "date": "2026-11-23",
      "access": "excerpt",
      "via": null,
-     "note": "Saudi Sovereign Wealth Fund Tower Damaged as Houthis Attack Riyadh"
+     "note": "Drones, Texts and Diversions: How Mexico Captured a Most Wanted Man"
+    },
+    {
+     "outlet": "Sky News",
+     "url": "https://news.sky.com/story/suspected-cartel-leader-el-chapo-isidro-from-fbi-most-wanted-list-captured-in-mexico-13614689",
+     "date": "2026-11-23",
+     "access": "excerpt",
+     "via": null,
+     "note": "At least 11 dead after suspected cartel leader 'El Chapo Isidro' captured in Mexico"
+    },
+    {
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-23",
+     "access": "excerpt",
+     "via": null,
+     "note": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out"
+    },
+    {
+     "outlet": "NPR",
+     "url": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained",
+     "date": "2026-11-23",
+     "access": "excerpt",
+     "via": null,
+     "note": "Cartel leader captured in northern Mexico in a bloody firefight that left 11 dead"
+    },
+    {
+     "outlet": "Deutsche Welle",
+     "url": "https://www.dw.com/en/mexican-special-forces-arrest-drug-kingpin-chapo-isidro/a-80010745?maca=en-rss-en-world-4025-rdf",
+     "date": "2026-11-23",
+     "access": "excerpt",
+     "via": null,
+     "note": "Mexican special forces arrest drug kingpin 'Chapo Isidro'"
+    },
+    {
+     "outlet": "CBS News",
+     "url": "https://www.cbsnews.com/news/mexico-drug-kingpin-arrest-fausto-isidro-meza-flores-sinaloa/",
+     "date": "2026-11-23",
+     "access": "excerpt",
+     "via": null,
+     "note": "Violence breaks out in Mexico after capture of drug kingpin wanted by FBI"
+    },
+    {
+     "outlet": "Associated Press",
+     "url": null,
+     "date": "2026-11-23",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Cartel leader captured in northern Mexico in a bloody firefight that left 11 dead - AP News"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "8/18",
+    "jp": "0/6",
+    "worldTotal": 18,
+    "jpTotal": 6,
+    "daysSeen": 1
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "claude-haiku-5-5"
+  },
+  {
+   "id": "intl-brief-2026-11-23-s-20261123-19",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "world",
+   "headline": "西岸の入植者による放火、野党党首が「ユダヤ人テロ」と非難",
+   "originalTitle": "Israeli opposition leader Gadi Eisenkot calls West Bank arson attacks 'Jewish terrorism'",
+   "outlet": "ABC Australia",
+   "url": "https://www.abc.net.au/news/2026-11-23/israel-gadi-eisenkot-west-bank-arson-attacks/107415280",
+   "region": "overseas",
+   "category": null,
+   "score": 26,
+   "tier": "interest",
+   "pubDate": "2026-11-22T22:28:53.098Z",
+   "body": null,
+   "summary": "ヨルダン川西岸の占領地で、入植者とみられる集団がパレスチナ人の村を襲い、車両や住宅に放火した。少なくとも4村で、車両十数台が燃やされたと伝えられる。現場には「これは最初の復讐だ」というヘブライ語の落書きも見つかった。イスラエルの野党党首アイゼンコット氏は、この放火を「ユダヤ人テロ」と非難した。同氏は極右閣僚の行動が無法状態を招いていると批判し、警察は捜査を開始した。",
+   "sources": [
+    {
+     "outlet": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-23/israel-gadi-eisenkot-west-bank-arson-attacks/107415280",
+     "date": "2026-11-23",
+     "access": "body",
+     "via": null,
+     "note": "Israeli opposition leader Gadi Eisenkot calls West Bank arson attacks 'Jewish terrorism'"
+    },
+    {
+     "outlet": "The Guardian",
+     "url": "https://www.theguardian.com/world/2026/nov/22/netanyahu-rival-condemns-settler-arson-attacks-palestinian-villages-west-bank",
+     "date": "2026-11-23",
+     "access": "body",
+     "via": null,
+     "note": "Netanyahu rival condemns ‘Jewish terrorism’ after settler attacks on Palestinian villages"
+    },
+    {
+     "outlet": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/israeli-settlers-attack-multiple-palestinian-villages-as-pogroms-surge?traffic_source=rss",
+     "date": "2026-11-23",
+     "access": "excerpt",
+     "via": null,
+     "note": "Israeli settlers attack multiple Palestinian villages as pogroms surge"
+    },
+    {
+     "outlet": "France 24",
+     "url": "https://www.france24.com/en/middle-east/20261122-israel-s-eisenkot-slams-jewish-terrorism-after-attacks-by-settlers-in-west-bank",
+     "date": "2026-11-23",
+     "access": "excerpt",
+     "via": null,
+     "note": "Israel’s Eisenkot slams ‘Jewish terrorism’ after attacks by settlers in West Bank"
+    },
+    {
+     "outlet": "Euronews",
+     "url": "https://www.euronews.com/video/2026/11/22/west-bank-four-palestinian-villages-targeted-in-suspected-settler-attacks",
+     "date": "2026-11-23",
+     "access": "excerpt",
+     "via": null,
+     "note": "West Bank: Four Palestinian villages targeted in suspected settler attacks"
     },
     {
      "outlet": "South China Morning Post",
-     "url": "https://www.scmp.com/news/world/middle-east/article/3375108/houthis-hit-riyadhs-tallest-skyscraper-strike-saudi-wealth-fund-hq",
-     "date": "2026-11-20",
+     "url": "https://www.scmp.com/news/world/middle-east/article/3375395/israel-investigates-west-bank-fires-blamed-israeli-settlers",
+     "date": "2026-11-23",
      "access": "excerpt",
      "via": null,
-     "note": "Houthis hit Riyadh’s tallest skyscraper in strike on Saudi wealth fund HQ"
+     "note": "Israel investigates West Bank fires blamed on Israeli settlers"
     },
     {
      "outlet": "The Straits Times",
-     "url": "https://www.straitstimes.com/world/middle-east/houthi-attacks-on-saudi-arabia",
-     "date": "2026-11-20",
+     "url": "https://www.straitstimes.com/world/middle-east/israels-eisenkot-condemns-arson-attacks-by-jewish-settlers-in-west-bank",
+     "date": "2026-11-23",
      "access": "excerpt",
      "via": null,
-     "note": "Houthi attacks on Saudi Arabia"
+     "note": "‘Jewish terrorism’: Israel’s Gadi Eisenkot condemns arson attacks by settlers in West Bank"
     },
     {
      "outlet": "Reuters",
      "url": null,
-     "date": "2026-11-20",
+     "date": "2026-11-23",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "Houthi attacks on Saudi Arabia - Reuters"
+     "note": "Israel's Eisenkot condemns arson attacks by Jewish settlers in West Bank - Reuters"
     },
     {
-     "outlet": "Financial Times",
+     "outlet": "Associated Press",
      "url": null,
-     "date": "2026-11-20",
+     "date": "2026-11-23",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "Houthi air strike hits Saudi sovereign wealth fund headquarters - Financial Times"
+     "note": "Israeli opposition leader condemns suspected settler attacks as 'terrorism,' and other Mideast news - AP News"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "9/18",
+    "jp": "0/6",
+    "worldTotal": 18,
+    "jpTotal": 6,
+    "daysSeen": 1
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "claude-haiku-5-5"
+  },
+  {
+   "id": "intl-brief-2026-11-23-s-20261123-03",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "world",
+   "headline": "米下院選、民主党が258議席 1992年以来最大の過半数",
+   "originalTitle": "Democrats clinch their largest House majority since 1992",
+   "outlet": "ABC Australia",
+   "url": "https://www.abc.net.au/news/2026-11-23/democrats-house-majority-midterm-elections/107415390",
+   "region": "overseas",
+   "category": null,
+   "score": 23,
+   "tier": "interest",
+   "pubDate": "2026-11-22T22:28:53.098Z",
+   "body": null,
+   "summary": "2026年の米中間選挙で、民主党は下院の少なくとも258議席を確保した。共和党は少なくとも173議席となる見通しで、1992年以来最大の過半数となる。最後に決着したノースカロライナ州の選挙では、民主党のチャック・ハバード氏が現職の共和党議員ヴァージニア・フォックス氏を破った。差は330票で、再集計を経て確定した。上院も民主党が握るため、共和党のトランプ大統領との分割政府となる。残る4議席は未確定である。",
+   "sources": [
+    {
+     "outlet": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-23/democrats-house-majority-midterm-elections/107415390",
+     "date": "2026-11-23",
+     "access": "body",
+     "via": null,
+     "note": "Democrats clinch their largest House majority since 1992"
+    },
+    {
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-23",
+     "access": "body",
+     "via": null,
+     "note": "Democrats win largest House majority since 1992 after flipping North Carolina seat"
+    },
+    {
+     "outlet": "France 24",
+     "url": "https://www.france24.com/en/americas/20261122-democrat-hubbard-wins-north-carolina-recount-clinching-historic-house-majority",
+     "date": "2026-11-23",
+     "access": "excerpt",
+     "via": null,
+     "note": "Democrat Hubbard wins North Carolina recount, clinching historic House majority"
+    },
+    {
+     "outlet": "Euronews",
+     "url": "https://www.euronews.com/2026/11/22/midterms-us-democrats-secure-biggest-house-majority-in-decades",
+     "date": "2026-11-23",
+     "access": "excerpt",
+     "via": null,
+     "note": "Midterms: US Democrats secure biggest House majority in decades"
+    },
+    {
+     "outlet": "South China Morning Post",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3375405/us-democrats-clinch-historic-house-majority-least-258-seats-largest-1992",
+     "date": "2026-11-23",
+     "access": "excerpt",
+     "via": null,
+     "note": "US Democrats clinch a historic House majority of at least 258 seats, the largest since 1992"
+    },
+    {
+     "outlet": "The Straits Times",
+     "url": "https://www.straitstimes.com/world/united-states/us-democrats-clinch-a-historic-house-majority-of-at-least-258-seats-the-largest-since-1992",
+     "date": "2026-11-23",
+     "access": "excerpt",
+     "via": null,
+     "note": "US Democrats clinch a historic House majority of at least 258 seats, the largest since 1992"
+    },
+    {
+     "outlet": "Associated Press",
+     "url": null,
+     "date": "2026-11-23",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Democrats clinch a historic House majority of at least 258 seats, the largest since 1992 - AP News"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "7/18",
+    "jp": "1/6",
+    "worldTotal": 18,
+    "jpTotal": 6,
+    "daysSeen": 1
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "claude-haiku-5-5"
+  },
+  {
+   "id": "intl-brief-2026-11-23-s-20261123-11",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "world",
+   "headline": "トランプ氏のプーチン氏「友人」発言、米情報長官が擁護",
+   "originalTitle": "US intelligence chief says he trusts Trump’s description of Putin as ‘my friend’",
+   "outlet": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/22/intelligence-chief-jay-clayton-trump-putin-my-friend",
+   "region": "overseas",
+   "category": null,
+   "score": 20,
+   "tier": "interest",
+   "pubDate": "2026-11-22T22:28:53.098Z",
+   "body": null,
+   "summary": "トランプ米大統領が中国での3者会談後にプーチン露大統領を「友人」と呼んだことについて、クレイトン国家情報長官は日曜、大統領を「完全に信頼している」と述べた。同氏は、この表現は文脈上「完全に適切」だと語った。核保有大国3か国がエスカレートしないことで一致した点を、歴史的だと強調した。一方、ゼレンスキー大統領はプーチン氏を「殺人者」だと非難したと報じられた。トランプ氏は土曜、両氏が握手する写真に「My Friend」と投稿していた。",
+   "sources": [
+    {
+     "outlet": "The Guardian",
+     "url": "https://www.theguardian.com/us-news/2026/nov/22/intelligence-chief-jay-clayton-trump-putin-my-friend",
+     "date": "2026-11-23",
+     "access": "body",
+     "via": null,
+     "note": "US intelligence chief says he trusts Trump’s description of Putin as ‘my friend’"
+    },
+    {
+     "outlet": "South China Morning Post",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3375403/us-intelligence-chief-says-trumps-friend-label-putin-entirely-appropriate",
+     "date": "2026-11-23",
+     "access": "excerpt",
+     "via": null,
+     "note": "US intelligence chief says Trump’s ‘friend’ label for Putin is ‘entirely appropriate’"
+    },
+    {
+     "outlet": "CBS News",
+     "url": "https://www.cbsnews.com/video/trump-defends-putin-after-trilateral-with-xi/",
+     "date": "2026-11-23",
+     "access": "excerpt",
+     "via": null,
+     "note": "Trump defends Putin after trilateral with Xi"
+    },
+    {
+     "outlet": "Times of India",
+     "url": "https://timesofindia.indiatimes.com/world/us/hes-not-americas-friend-in-ukraine-us-intelligence-chief-on-putin-days-after-trumps-praise/articleshow/136079476.cms",
+     "date": "2026-11-23",
+     "access": "headline",
+     "via": null,
+     "note": "'He's not America's friend in Ukraine': US spy chief on Putin days after Trump's praise"
+    },
+    {
+     "outlet": "The Straits Times",
+     "url": "https://www.straitstimes.com/world/united-states/us-intelligence-chief-says-putin-is-not-americas-friend-in-ukraine",
+     "date": "2026-11-23",
+     "access": "excerpt",
+     "via": null,
+     "note": "US intelligence chief says Putin is 'not America's friend in Ukraine'"
+    },
+    {
+     "outlet": "Reuters",
+     "url": null,
+     "date": "2026-11-23",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "US intelligence chief says Putin is 'not America's friend in Ukraine' - Reuters"
+    },
+    {
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-23",
+     "access": "excerpt",
+     "via": null,
+     "note": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "7/18",
+    "jp": "1/6",
+    "worldTotal": 18,
+    "jpTotal": 6,
+    "daysSeen": 1
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "claude-haiku-5-5"
+  },
+  {
+   "id": "intl-brief-2026-11-23-s-20261123-15",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "world",
+   "headline": "キーウ州のロシア攻撃、住宅倒壊で死者と行方不明者",
+   "originalTitle": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+   "outlet": "BBC",
+   "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+   "region": "overseas",
+   "category": null,
+   "score": 19,
+   "tier": "interest",
+   "pubDate": "2026-11-22T22:28:53.098Z",
+   "body": null,
+   "summary": "ウクライナのキーウ州では日曜、ロシアの無人機攻撃により集合住宅が一部倒壊した。当局によると、瓦礫から遺体が回収され、救助隊は生存者の捜索を続けている。死者数は報道によって少なくとも4人から6人と異なる。15人が行方不明とする報道もある。キーウ地域軍政のトカチェンコ氏は、負傷者が少なくとも4人いると述べた。現場付近では、さらなる無人機攻撃の警告が出され、捜索を妨げている。",
+   "sources": [
+    {
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-23",
+     "access": "body",
+     "via": null,
+     "note": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes"
+    },
+    {
+     "outlet": "France 24",
+     "url": "https://www.france24.com/en/russian-strike-kills-2-in-kyiv",
+     "date": "2026-11-23",
+     "access": "excerpt",
+     "via": null,
+     "note": "Russian strike kills 2 in Kyiv"
+    },
+    {
+     "outlet": "Euronews",
+     "url": "https://www.euronews.com/2026/11/22/14-people-missing-after-russian-drone-strike-on-kyiv-region",
+     "date": "2026-11-23",
+     "access": "excerpt",
+     "via": null,
+     "note": "15 people missing after Russian drone strike on Kyiv region"
+    },
+    {
+     "outlet": "South China Morning Post",
+     "url": "https://www.scmp.com/news/world/europe/article/3375401/russian-strikes-kill-6-kyiv-region-ukraine-says",
+     "date": "2026-11-23",
+     "access": "excerpt",
+     "via": null,
+     "note": "Russian strikes kill 6 in Kyiv region, Ukraine says"
+    },
+    {
+     "outlet": "The Straits Times",
+     "url": "https://www.straitstimes.com/world/europe/at-least-14-people-missing-after-russian-drone-hit-building-in-kyiv-region-zelenskiy-says",
+     "date": "2026-11-23",
+     "access": "excerpt",
+     "via": null,
+     "note": "At least 4 killed in Russian drone attacks on Kyiv region, officials say"
+    },
+    {
+     "outlet": "Reuters",
+     "url": null,
+     "date": "2026-11-23",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "At least 4 killed in Russian drone attacks on Kyiv region, officials say - Reuters"
     }
    ],
    "continuity": null,
    "coverage": {
     "world": "6/18",
-    "jp": "1/6",
+    "jp": "0/6",
     "worldTotal": 18,
     "jpTotal": 6,
     "daysSeen": 1
    },
-   "bodyAvailable": false,
+   "bodyAvailable": true,
    "discussionUrl": null,
    "summarizedBy": "claude-haiku-5-5"
   },
   {
-   "id": "intl-brief-2026-11-20-s-20261117-03",
+   "id": "intl-brief-2026-11-23-s-20261123-02",
    "stream": "intl",
    "depth": "brief",
    "section": "world",
-   "headline": "プーチン氏、クリミア橋攻撃への報復を予告",
-   "originalTitle": "After Bridge Attack, Putin Says He Will ‘Not Be Negotiating’ Ukraine Cease-Fire",
-   "outlet": "New York Times",
-   "url": "https://www.nytimes.com/2026/11/19/world/europe/putin-shenzhen-crimea-bridge.html",
+   "headline": "バルト海でドローン攻撃の露貨物船、フィンランド領海から曳航",
+   "originalTitle": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
+   "outlet": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
    "region": "overseas",
    "category": null,
-   "score": 18,
+   "score": 16,
    "tier": "interest",
-   "pubDate": "2026-11-19T23:33:55.070Z",
+   "pubDate": "2026-11-22T22:28:53.098Z",
    "body": null,
-   "summary": "ロシアのプーチン大統領は、ウクライナによるクリミア橋への攻撃に対し、ロシアの報復はウクライナの攻撃より「はるかに痛みを伴う」ものになると述べた。橋は木曜早朝、今週3度目の攻撃を受けた。火曜の攻撃では中央の道路部分が壊れ、一部が水中に崩れ落ちて道路の通行ができなくなった。ストレーツ・タイムズによると、3度目の攻撃では鉄道の運行も止まった。プーチン氏は、ウクライナとの限定的な停戦交渉にも応じないと述べた。",
+   "summary": "フィンランド湾東部で土曜、ロシアの貨物船シュパルタII号が、ドローン2機による攻撃を受けて火災を起こした。同船は制御を失ってフィンランド領海に漂流し、乗員16人は避難した。フィンランド国防軍は、ウクライナによる攻撃の可能性が高いとみている。ウクライナ側はコメントしていない。日曜になり、ロシアの救難船が同船の曳航を始め、フィンランド領海の外へ移された。同船は米国とウクライナから制裁対象になっている。",
    "sources": [
     {
-     "outlet": "New York Times",
-     "url": "https://www.nytimes.com/2026/11/19/world/europe/putin-shenzhen-crimea-bridge.html",
-     "date": "2026-11-20",
-     "access": "excerpt",
-     "via": null,
-     "note": "After Bridge Attack, Putin Says He Will ‘Not Be Negotiating’ Ukraine Cease-Fire"
-    },
-    {
      "outlet": "BBC",
-     "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
-     "date": "2026-11-20",
+     "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-23",
      "access": "body",
      "via": null,
-     "note": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge"
+     "note": "Russia-bound ship towed away after it was attacked in Gulf of Finland"
     },
     {
-     "outlet": "CBS News",
-     "url": "https://www.cbsnews.com/news/putin-russia-ukraine-bridge-strike/",
-     "date": "2026-11-20",
-     "access": "excerpt",
+     "outlet": "Euronews",
+     "url": "https://www.euronews.com/2026/11/22/finland-confirms-russia-is-towing-drone-hit-cargo-ship-after-baltic-sea-attack",
+     "date": "2026-11-23",
+     "access": "body",
      "via": null,
-     "note": "Putin says Russia won&#039;t negotiate with Ukraine after bridge strike"
+     "note": "Finland confirms Russia is towing drone-hit cargo ship after Baltic Sea attack"
     },
     {
-     "outlet": "The Straits Times",
-     "url": "https://www.straitstimes.com/world/europe/a-third-ukrainian-strike-in-4-days-halts-rail-traffic-on-russias-kerch-bridge-to-crimea",
-     "date": "2026-11-20",
+     "outlet": "South China Morning Post",
+     "url": "https://www.scmp.com/news/world/russia-central-asia/article/3375406/russia-starts-towing-its-ship-hit-drones-baltic-finland-says",
+     "date": "2026-11-23",
      "access": "excerpt",
      "via": null,
-     "note": "A third Ukrainian strike in 4 days halts rail traffic on Russia’s Kerch Bridge to Crimea"
+     "note": "Russia starts towing its ship hit by drones in Baltic, Finland says"
     },
     {
      "outlet": "Reuters",
      "url": null,
-     "date": "2026-11-20",
+     "date": "2026-11-23",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "Putin rules out Black Sea, energy truce after Crimea bridge strike - Reuters"
+     "note": "Russia starts towing ship hit by drones in Baltic, Finland says - Reuters"
+    },
+    {
+     "outlet": "Financial Times",
+     "url": null,
+     "date": "2026-11-23",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Sanctioned Russian vessel attacked by drones near Finland - Financial Times"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "5/18",
+    "jp": "0/6",
+    "worldTotal": 18,
+    "jpTotal": 6,
+    "daysSeen": 1
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "claude-haiku-5-5"
+  },
+  {
+   "id": "intl-brief-2026-11-23-s-20261123-04",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "world",
+   "headline": "トランプ氏、シューマー氏が上院の多数党リーダーなら協働は困難と",
+   "originalTitle": "Trump sees difficulties ahead if Chuck Schumer leads Senate",
+   "outlet": "South China Morning Post",
+   "url": "https://www.scmp.com/news/world/united-states-canada/article/3375396/trump-sees-difficulties-ahead-if-chuck-schumer-leads-senate",
+   "region": "overseas",
+   "category": null,
+   "score": 14,
+   "tier": "interest",
+   "pubDate": "2026-11-22T22:28:53.098Z",
+   "body": null,
+   "summary": "トランプ米大統領は日曜、民主党のチャック・シューマー上院議員が上院多数党院内総務になった場合、協働は「非常に難しい」と投稿した。大統領は、同氏を過去に最悪のリーダーの一人だと評し、再び失敗すると書いた。民主党は中間選挙で上院も制し、2027年から両院の主導権を握る。ただし同党内では、若い反主流派議員から指導部の刷新を求める声がある。シューマー氏は、指導部を続ける票は確保していると述べている。秘密投票は12月に予定されている。",
+   "sources": [
+    {
+     "outlet": "South China Morning Post",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3375396/trump-sees-difficulties-ahead-if-chuck-schumer-leads-senate",
+     "date": "2026-11-23",
+     "access": "excerpt",
+     "via": null,
+     "note": "Trump sees difficulties ahead if Chuck Schumer leads Senate"
+    },
+    {
+     "outlet": "The Straits Times",
+     "url": "https://www.straitstimes.com/world/united-states/trump-sees-difficulties-ahead-if-schumer-leads-senate",
+     "date": "2026-11-23",
+     "access": "body",
+     "via": null,
+     "note": "Trump sees difficulties ahead if Schumer leads Senate"
+    },
+    {
+     "outlet": "Reuters",
+     "url": null,
+     "date": "2026-11-23",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Trump sees difficulties ahead if Schumer leads Senate - Reuters"
+    },
+    {
+     "outlet": "Associated Press",
+     "url": null,
+     "date": "2026-11-23",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Democrats who swept into the Senate promised change. A leadership vote is testing them early - AP News"
+    },
+    {
+     "outlet": "Bloomberg",
+     "url": null,
+     "date": "2026-11-23",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Van Hollen Says He Has Momentum in Bid to Lead Senate Democrats - Bloomberg.com"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "5/18",
+    "jp": "0/6",
+    "worldTotal": 18,
+    "jpTotal": 6,
+    "daysSeen": 1
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "claude-haiku-5-5"
+  },
+  {
+   "id": "intl-brief-2026-11-23-s-20261117-25",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "world",
+   "headline": "英EU、食品の物理検査撤廃などで合意 2028年3月発効へ",
+   "originalTitle": "UK-EU food deal hailed by British firms: ‘We’re pretty aligned anyway’",
+   "outlet": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/nov/22/uk-eu-food-sps-deal-brexit-checks",
+   "region": "overseas",
+   "category": null,
+   "score": 12,
+   "tier": "interest",
+   "pubDate": "2026-11-22T22:28:53.098Z",
+   "body": null,
+   "summary": "英国とEUは、食品・植物・動物製品の物理検査をほぼ撤廃する衛生植物検疫（SPS）協定で合意した。英国は一部のEU規則に従う見返りとなる。協定は2028年3月1日に発効する予定である。英国の食品業界は概ね歓迎しているが、発効までの時間に不満もある。授業料に関するEU学生向けの合意はまだない。ミリバンド外相は、授業料の合意がなくても、食品、エネルギー、青年の移動の3協定は適用されると述べた。",
+   "sources": [
+    {
+     "outlet": "The Guardian",
+     "url": "https://www.theguardian.com/business/2026/nov/22/uk-eu-food-sps-deal-brexit-checks",
+     "date": "2026-11-23",
+     "access": "body",
+     "via": null,
+     "note": "UK-EU food deal hailed by British firms: ‘We’re pretty aligned anyway’"
+    },
+    {
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-23",
+     "access": "body",
+     "via": null,
+     "note": "Deal with EU not dependent on tuition fees agreement, Miliband says"
+    },
+    {
+     "outlet": "France 24",
+     "url": "https://www.france24.com/en/tv-shows/spotlight/20261122-burnham-brejoin-the-ghosts-of-brexit",
+     "date": "2026-11-23",
+     "access": "excerpt",
+     "via": null,
+     "note": "Burnham, 'Brejoin' & the Ghosts of Brexit"
+    },
+    {
+     "outlet": "Financial Times",
+     "url": null,
+     "date": "2026-11-23",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Andy Burnham seeks quick tuition fees deal with the EU - Financial Times"
     }
    ],
    "continuity": {
     "previousDate": "2026-11-17",
-    "previousScore": 23,
+    "previousScore": 12,
     "note": "4日連続で報じられている"
    },
    "coverage": {
-    "world": "5/18",
+    "world": "4/18",
     "jp": "0/6",
     "worldTotal": 18,
     "jpTotal": 6,
@@ -572,347 +916,165 @@
    "summarizedBy": "claude-haiku-5-5"
   },
   {
-   "id": "intl-brief-2026-11-20-s-20261120-08",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "world",
-   "headline": "キーウのオランダ・オーストリア大使館、攻撃で損傷",
-   "originalTitle": "Dutch and Austrian Embassies Are Damaged as Russian Drones Swarm Kyiv",
-   "outlet": "New York Times",
-   "url": "https://www.nytimes.com/2026/11/19/world/europe/ukraine-dutch-embassy.html",
-   "region": "overseas",
-   "category": null,
-   "score": 15,
-   "tier": "interest",
-   "pubDate": "2026-11-19T23:33:55.070Z",
-   "body": null,
-   "summary": "ウクライナの首都キーウでは木曜、ロシアによる日中の攻撃が相次ぎ、1人が死亡した。歴史的な大聖堂も損傷した。オランダとオーストリアの大使館も損傷した。両国の外相によると、大使館の敷地では誰もけがをしていない。EUの大使は、泊まっているホテルの真上でドローンが爆発したと語った。オランダ政府は、キーウの大使館の被害を受けてロシア大使を召喚した。",
-   "sources": [
-    {
-     "outlet": "New York Times",
-     "url": "https://www.nytimes.com/2026/11/19/world/europe/ukraine-dutch-embassy.html",
-     "date": "2026-11-20",
-     "access": "excerpt",
-     "via": null,
-     "note": "Dutch and Austrian Embassies Are Damaged as Russian Drones Swarm Kyiv"
-    },
-    {
-     "outlet": "France 24",
-     "url": "https://www.france24.com/en/russian-strikes-on-kyiv-kill-one-damage-dutch-and-austrian-embassies",
-     "date": "2026-11-20",
-     "access": "excerpt",
-     "via": null,
-     "note": "Russian strikes on Kyiv kill one, damage Dutch and Austrian embassies"
-    },
-    {
-     "outlet": "Euronews",
-     "url": "https://www.euronews.com/video/2026/11/20/ukraine-russian-strikes-damage-austrian-and-dutch-embassies-in-kyiv",
-     "date": "2026-11-20",
-     "access": "excerpt",
-     "via": null,
-     "note": "Ukraine: Russian strikes damage Austrian and Dutch embassies in Kyiv"
-    },
-    {
-     "outlet": "The Straits Times",
-     "url": "https://www.straitstimes.com/world/europe/netherlands-summons-russian-ambassador-as-kyiv-embassy-hit",
-     "date": "2026-11-20",
-     "access": "excerpt",
-     "via": null,
-     "note": "Netherlands summons Russian ambassador as Kyiv embassy hit"
-    },
-    {
-     "outlet": "Reuters",
-     "url": null,
-     "date": "2026-11-20",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Netherlands summons Russian ambassador as Kyiv embassy hit - Reuters"
-    }
-   ],
-   "continuity": null,
-   "coverage": {
-    "world": "5/18",
-    "jp": "0/6",
-    "worldTotal": 18,
-    "jpTotal": 6,
-    "daysSeen": 1
-   },
-   "bodyAvailable": false,
-   "discussionUrl": null,
-   "summarizedBy": "claude-haiku-5-5"
-  },
-  {
-   "id": "intl-brief-2026-11-20-s-20261120-17",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "world",
-   "headline": "米フロリダの牧師、ハイチ大統領暗殺への関与で有罪",
-   "originalTitle": "Florida pastor found guilty over 2021 assassination of Haitian president",
-   "outlet": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/18/florida-pastor-guilty-haiti-president-assassination",
-   "region": "overseas",
-   "category": null,
-   "score": 14,
-   "tier": "interest",
-   "pubDate": "2026-11-19T23:33:55.070Z",
-   "body": null,
-   "summary": "米連邦地裁（フロリダ州マイアミ）は、2021年のハイチのモイーズ大統領暗殺に関わった罪で、米国・ハイチの二重国籍を持つクリスチャン・サノン牧師に有罪を言い渡した。8つの罪状すべてで有罪となった。検察は、サノン被告が殺害計画の立案や資金集めに関与したと主張していた。サノン被告は無実を主張し、控訴する意向だという。量刑は終身刑まで科される可能性がある。ハイチは大統領暗殺以来、指導者不在の状態が続いている。",
-   "sources": [
-    {
-     "outlet": "The Guardian",
-     "url": "https://www.theguardian.com/us-news/2026/nov/18/florida-pastor-guilty-haiti-president-assassination",
-     "date": "2026-11-20",
-     "access": "body",
-     "via": null,
-     "note": "Florida pastor found guilty over 2021 assassination of Haitian president"
-    },
-    {
-     "outlet": "BBC",
-     "url": "https://www.bbc.co.uk/news/articles/cm702q0lg50po?at_medium=RSS&at_campaign=rss",
-     "date": "2026-11-20",
-     "access": "body",
-     "via": null,
-     "note": "Florida pastor found guilty over role in assassination of Haitian president"
-    },
-    {
-     "outlet": "CBS News",
-     "url": "https://www.cbsnews.com/news/haitian-president-jovenel-moise-assassination-conviction/",
-     "date": "2026-11-20",
-     "access": "excerpt",
-     "via": null,
-     "note": "Florida pastor convicted in plot to kill Haitian president"
-    },
-    {
-     "outlet": "Associated Press",
-     "url": null,
-     "date": "2026-11-20",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Florida pastor convicted of US charges related to assassination of Haitian President Jovenel Moïse - AP News"
-    }
-   ],
-   "continuity": null,
-   "coverage": {
-    "world": "4/18",
-    "jp": "0/6",
-    "worldTotal": 18,
-    "jpTotal": 6,
-    "daysSeen": 1
-   },
-   "bodyAvailable": true,
-   "discussionUrl": null,
-   "summarizedBy": "claude-haiku-5-5"
-  },
-  {
-   "id": "intl-brief-2026-11-20-s-20261120-14",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "world",
-   "headline": "NASAのボイジャー1号、地球から1光日の距離で交信",
-   "originalTitle": "NASA's Voyager 1 phones home from record one light-day away, 49 years after launch",
-   "outlet": "France 24",
-   "url": "https://www.france24.com/en/nasa-voyager-1-phones-home-from-record-one-light-day-away-49-years-after-launch",
-   "region": "overseas",
-   "category": null,
-   "score": 11,
-   "tier": "interest",
-   "pubDate": "2026-11-19T23:33:55.070Z",
-   "body": null,
-   "summary": "NASAの探査機ボイジャー1号が、地球から1光日（260億キロメートル超）の距離から交信した。人工物がこれほど遠くに到達したのは初めてだとフランス24は伝えた。管制チームは探査機からの信号を受信した。ボイジャー1号は打ち上げから約半世紀が経ち、星間空間からデータを送り続けている。姉妹機のボイジャー2号も来年で50周年を迎え、なおデータを送っているとCBSニュースは報じた。",
-   "sources": [
-    {
-     "outlet": "France 24",
-     "url": "https://www.france24.com/en/nasa-voyager-1-phones-home-from-record-one-light-day-away-49-years-after-launch",
-     "date": "2026-11-20",
-     "access": "excerpt",
-     "via": null,
-     "note": "NASA's Voyager 1 phones home from record one light-day away, 49 years after launch"
-    },
-    {
-     "outlet": "South China Morning Post",
-     "url": "https://www.scmp.com/news/world/united-states-canada/article/3375126/nasas-voyager-1-phones-home-awe-inspiring-1-light-day-away",
-     "date": "2026-11-20",
-     "access": "excerpt",
-     "via": null,
-     "note": "Nasa’s Voyager 1 phones home from an awe-inspiring 1 light-day away"
-    },
-    {
-     "outlet": "CBS News",
-     "url": "https://www.cbsnews.com/news/voyager-1-probe-light-day-earth-father-than-anything/",
-     "date": "2026-11-20",
-     "access": "excerpt",
-     "via": null,
-     "note": "Voyager 1 sets distance record of 1 \"light day\" from Earth"
-    },
-    {
-     "outlet": "Associated Press",
-     "url": null,
-     "date": "2026-11-20",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "NASA’s Voyager 1 phones home from an awe-inspiring one light-day away - AP News"
-    }
-   ],
-   "continuity": null,
-   "coverage": {
-    "world": "4/18",
-    "jp": "0/6",
-    "worldTotal": 18,
-    "jpTotal": 6,
-    "daysSeen": 1
-   },
-   "bodyAvailable": false,
-   "discussionUrl": null,
-   "summarizedBy": "claude-haiku-5-5"
-  },
-  {
-   "id": "intl-brief-2026-11-20-s-20261120-19",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "world",
-   "headline": "米国とベネズエラ、軍事協力協定に署名",
-   "originalTitle": "Hegseth uses Venezuela visit to boast of Maduro’s capture by US military",
-   "outlet": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military",
-   "region": "overseas",
-   "category": null,
-   "score": 11,
-   "tier": "interest",
-   "pubDate": "2026-11-19T23:33:55.070Z",
-   "body": null,
-   "summary": "米国のヘグセス国防長官は水曜、カラカスを訪問し、ベネズエラのロドリゲス暫定政権と軍事協力協定に署名した。米軍が今年1月にマドゥロ前大統領を拘束してから1年足らずで、両国は軍事関係を再開した。ヘグセス氏は、ベネズエラは「地域で最も攻撃的な脅威から、協力的な安全保障パートナーになった」と述べた。BBCによると、協定の詳細はほとんど公表されていない。両国の軍事協力は2005年にチャベス氏が打ち切っていた。ガーディアン紙は、マドゥロ氏の側近が米国の支持を受けて依然として権力を握っていると指摘した。",
-   "sources": [
-    {
-     "outlet": "The Guardian",
-     "url": "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military",
-     "date": "2026-11-20",
-     "access": "body",
-     "via": null,
-     "note": "Hegseth uses Venezuela visit to boast of Maduro’s capture by US military"
-    },
-    {
-     "outlet": "BBC",
-     "url": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss",
-     "date": "2026-11-20",
-     "access": "body",
-     "via": null,
-     "note": "Venezuela signs military deal with US less than a year after Maduro's removal"
-    },
-    {
-     "outlet": "Associated Press",
-     "url": null,
-     "date": "2026-11-20",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "US and Venezuela sign a deal to reestablish military ties, Hegseth says in visit to Caracas - AP News"
-    }
-   ],
-   "continuity": null,
-   "coverage": {
-    "world": "3/18",
-    "jp": "0/6",
-    "worldTotal": 18,
-    "jpTotal": 6,
-    "daysSeen": 1
-   },
-   "bodyAvailable": true,
-   "discussionUrl": null,
-   "summarizedBy": "claude-haiku-5-5"
-  },
-  {
-   "id": "intl-brief-2026-11-20-s-20261120-33",
+   "id": "intl-brief-2026-11-23-s-20261123-12",
    "stream": "intl",
    "depth": "brief",
    "section": "gap",
-   "headline": "EU委員会、AIを使ったサイバー攻撃を受けたと確認",
-   "originalTitle": "EU reveals it suffered 'AI-powered' cyber attack",
-   "outlet": "Sky News",
-   "url": "https://news.sky.com/story/eu-reveals-it-suffered-ai-powered-cyber-attack-13613970",
+   "headline": "Anthropic研究者、AI使い「リーマン予想を証明」と発表",
+   "originalTitle": "Anthropic researcher uses AI to solve math's greatest riddle",
+   "outlet": "Deutsche Welle",
+   "url": "https://www.dw.com/en/anthropic-researcher-uses-ai-to-solve-math-s-greatest-riddle/a-80008428?maca=en-rss-en-world-4025-rdf",
+   "region": "overseas",
+   "category": null,
+   "score": 10,
+   "tier": "interest",
+   "pubDate": "2026-11-22T22:28:53.098Z",
+   "body": null,
+   "summary": "AI企業Anthropicの技術スタッフで数学者のレヴェント・アルポゲ氏は、同社のAI「Claude」と協力してリーマン予想の証明を見つけたと、ウェブサイトで発表した。金曜に公表された。証明はまだ他の数学者による検証を経ていない。同氏によると、AIとの協働で生成された数学的資料は25万ページを超える。クレイ数学研究所のブリッドソン所長は、歴史的な重要性を持つ発表だと述べた。リーマン予想はミレニアム懸賞問題の一つで、解決者には100万ドルが贈られる。",
+   "sources": [
+    {
+     "outlet": "Deutsche Welle",
+     "url": "https://www.dw.com/en/anthropic-researcher-uses-ai-to-solve-math-s-greatest-riddle/a-80008428?maca=en-rss-en-world-4025-rdf",
+     "date": "2026-11-23",
+     "access": "body",
+     "via": null,
+     "note": "Anthropic researcher uses AI to solve math's greatest riddle"
+    },
+    {
+     "outlet": "France 24",
+     "url": "https://www.france24.com/en/tv-shows/tech-24/20261122-it-can-take-years-why-the-ai-riemann-proof-is-far-from-settled",
+     "date": "2026-11-23",
+     "access": "excerpt",
+     "via": null,
+     "note": "\"It can take years\": Why the AI Riemann proof is far from settled"
+    },
+    {
+     "outlet": "South China Morning Post",
+     "url": "https://www.scmp.com/news/china/science/article/3375386/has-ai-solved-riemann-hypothesis-claim-makes-waves-200th-birthday-event-china",
+     "date": "2026-11-23",
+     "access": "excerpt",
+     "via": null,
+     "note": "Has AI solved the Riemann hypothesis? Claim makes waves at 200th birthday event in China"
+    },
+    {
+     "outlet": "NPR",
+     "url": "https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai",
+     "date": "2026-11-23",
+     "access": "excerpt",
+     "via": null,
+     "note": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "4/18",
+    "jp": "0/6",
+    "worldTotal": 18,
+    "jpTotal": 6,
+    "daysSeen": 1
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "claude-haiku-5-5"
+  },
+  {
+   "id": "intl-brief-2026-11-23-s-20261117-08",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "gap",
+   "headline": "米株が急落し調整局面入り、AI関連株の売りが拡大",
+   "originalTitle": "Live: Wall Street crashes to correction territory and ASX set to fall",
+   "outlet": "ABC Australia",
+   "url": "https://www.abc.net.au/news/2026-11-23/asx-markets-business-live-news-november-23/107414602",
    "region": "overseas",
    "category": null,
    "score": 9,
    "tier": "interest",
-   "pubDate": "2026-11-19T23:33:55.070Z",
+   "pubDate": "2026-11-22T22:28:53.098Z",
    "body": null,
-   "summary": "欧州委員会は木曜、AIツールを使ったサイバー攻撃を受けたと認めた。報道官は「AIが生成したサイバーキャンペーン」だと述べたが、攻撃の詳細や犯人は明らかにしなかった。EUがAIを使った攻撃を公に明らかにしたのは初めて。攻撃は10月22日に検知された。ポリティコによると、複数のシステムが10日間混乱し、大量の個人データが流出した可能性があるという。報道官は、委員会の職員全体に関わるデータ流出の証拠はないとした。スカイニュースは、一部のデジタルツールが今も使えない状態だと伝えた。",
+   "summary": "米株式市場では金曜、S&P500種株価指数が3.7%安、ナスダック総合指数が5.3%安となった。S&P500は週間で8.6%下落し、10月の高値から約12%安となった。AI関連株を中心に売りが広がり、ナスダックは年初を下回る水準になった。欧州株や新興国株も下落し、MSCIの世界株指数は週間で8.1%安と、2020年初め以来の大きな下げとなった。新規株式公開したAI企業Anthropicの株価も金曜に9%下落した。",
    "sources": [
     {
-     "outlet": "Sky News",
-     "url": "https://news.sky.com/story/eu-reveals-it-suffered-ai-powered-cyber-attack-13613970",
-     "date": "2026-11-20",
-     "access": "excerpt",
-     "via": null,
-     "note": "EU reveals it suffered 'AI-powered' cyber attack"
-    },
-    {
-     "outlet": "Deutsche Welle",
-     "url": "https://www.dw.com/en/eu-commission-confirms-it-was-targeted-in-cyberattack-using-ai-tools/a-79993016?maca=en-rss-en-world-4025-rdf",
-     "date": "2026-11-20",
+     "outlet": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-23/asx-markets-business-live-news-november-23/107414602",
+     "date": "2026-11-23",
      "access": "body",
      "via": null,
-     "note": "EU Commission confirms it was targeted in cyberattack using AI tools"
-    },
-    {
-     "outlet": "Associated Press",
-     "url": null,
-     "date": "2026-11-20",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "A cyberattack using artificial intelligence targeted the EU in October, official says - AP News"
-    }
-   ],
-   "continuity": null,
-   "coverage": {
-    "world": "3/18",
-    "jp": "0/6",
-    "worldTotal": 18,
-    "jpTotal": 6,
-    "daysSeen": 1
-   },
-   "bodyAvailable": true,
-   "discussionUrl": null,
-   "summarizedBy": "claude-haiku-5-5"
-  },
-  {
-   "id": "intl-brief-2026-11-20-s-20261120-10",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "gap",
-   "headline": "米政府、中国向けAI半導体約88万個の輸出を承認",
-   "originalTitle": "US signed off on sales of nearly 900,000 AI chips to China in six months",
-   "outlet": "Al Jazeera",
-   "url": "https://www.aljazeera.com/economy/2026/11/19/us-signed-off-on-sales-of-nearly-900000-ai-chips-to-china-in-six-months?traffic_source=rss",
-   "region": "overseas",
-   "category": null,
-   "score": 8,
-   "tier": "interest",
-   "pubDate": "2026-11-19T23:33:55.070Z",
-   "body": null,
-   "summary": "米下院外交委員会は木曜、トランプ政権が中国向けのAI半導体約88万個の輸出を承認していたと発表した。期間は2025年12月から2026年5月まで。対象はエヌビディアとAMDの製品である。内訳はアリババ7万5000個、テンセント15万個、バイドゥ4万3000個、BYD4000個。いずれも国防総省が中国軍とのつながりを疑う企業としてリストに挙げている。企業側は期間中に計340万個の輸出許可を求めていた。実際に中国へ出荷されたかは明らかでない。",
-   "sources": [
-    {
-     "outlet": "Al Jazeera",
-     "url": "https://www.aljazeera.com/economy/2026/11/19/us-signed-off-on-sales-of-nearly-900000-ai-chips-to-china-in-six-months?traffic_source=rss",
-     "date": "2026-11-20",
-     "access": "body",
-     "via": null,
-     "note": "US signed off on sales of nearly 900,000 AI chips to China in six months"
-    },
-    {
-     "outlet": "The Straits Times",
-     "url": "https://www.straitstimes.com/world/united-states/us-signed-off-on-sales-of-nearly-900000-ai-chips-to-china-in-six-months-committee-says",
-     "date": "2026-11-20",
-     "access": "body",
-     "via": null,
-     "note": "US signed off on sales of nearly 900,000 AI chips to China in six months, committee says"
+     "note": "Live: Wall Street crashes to correction territory and ASX set to fall"
     },
     {
      "outlet": "Reuters",
      "url": null,
-     "date": "2026-11-20",
+     "date": "2026-11-23",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "US signed off on sales of nearly 900,000 AI chips to China in six months, House committee says - Reuters"
+     "note": "Correction or deeper reckoning? Investors seek signs US stock selling will abate - Reuters"
+    },
+    {
+     "outlet": "Bloomberg",
+     "url": null,
+     "date": "2026-11-23",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Investors Brave Stock Market ‘Fragility’ as AI Trade Falters - Bloomberg.com"
+    }
+   ],
+   "continuity": {
+    "previousDate": "2026-11-17",
+    "previousScore": 9,
+    "note": "3日連続で報じられている"
+   },
+   "coverage": {
+    "world": "3/18",
+    "jp": "0/6",
+    "worldTotal": 18,
+    "jpTotal": 6,
+    "daysSeen": 3
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "claude-haiku-5-5"
+  },
+  {
+   "id": "intl-brief-2026-11-23-s-20261123-30",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "gap",
+   "headline": "スペイン総選挙、世論調査で国民党が社会労働党を上回る",
+   "originalTitle": "On the Trail With Spain’s Prime Minister, as He Tries to Pull Out a Win",
+   "outlet": "New York Times",
+   "url": "https://www.nytimes.com/2026/11/21/world/europe/spain-sanchez-interview-election-basketball.html",
+   "region": "overseas",
+   "category": null,
+   "score": 9,
+   "tier": "interest",
+   "pubDate": "2026-11-22T22:28:53.098Z",
+   "body": null,
+   "summary": "11月29日投票のスペイン総選挙を1週間後に控え、日曜に発表された4つの世論調査はいずれも、フェイホー党首率いる国民党（PP）が首位だと示した。サンチェス首相の社会労働党（PSOE）との差は調査により異なる。極右のVoxと合わせると、PPとVoxで190〜210議席となる推計が多い。過半数は176議席である。PSOEは98〜119議席と見込まれる。ニューヨーク・タイムズは、サンチェス氏が政権を失う見通しだと報じている。",
+   "sources": [
+    {
+     "outlet": "New York Times",
+     "url": "https://www.nytimes.com/2026/11/21/world/europe/spain-sanchez-interview-election-basketball.html",
+     "date": "2026-11-23",
+     "access": "excerpt",
+     "via": null,
+     "note": "On the Trail With Spain’s Prime Minister, as He Tries to Pull Out a Win"
+    },
+    {
+     "outlet": "Euronews",
+     "url": "https://www.euronews.com/2026/11/22/polls-put-spains-pp-ahead-of-psoe-a-week-before-29-november-election",
+     "date": "2026-11-23",
+     "access": "body",
+     "via": null,
+     "note": "Polls put Spain's PP ahead of PSOE a week before 29 November election"
+    },
+    {
+     "outlet": "Financial Times",
+     "url": null,
+     "date": "2026-11-23",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "The ‘austere’ conservative poised to lead Spain with the far right - Financial Times"
     }
    ],
    "continuity": null,
@@ -928,45 +1090,45 @@
    "summarizedBy": "claude-haiku-5-5"
   },
   {
-   "id": "intl-brief-2026-11-20-s-20261120-07",
+   "id": "intl-brief-2026-11-23-s-20261123-10",
    "stream": "intl",
    "depth": "brief",
    "section": "gap",
-   "headline": "マクロン氏、ウクライナのNATO加盟問題の再検討を主張",
-   "originalTitle": "Macron urges Ukraine's allies to 'reopen the question' of NATO membership",
-   "outlet": "France 24",
-   "url": "https://www.france24.com/en/europe/20261119-macron-urges-ukraine-allies-reopen-question-nato-membership",
+   "headline": "デンマーク、露による暗殺未遂を発表 露国防武官を追放",
+   "originalTitle": "Denmark says Russia behind plot to kill U.S.-Ukrainian citizen on its soil",
+   "outlet": "CBS News",
+   "url": "https://www.cbsnews.com/news/denmark-accuses-russia-assassination-plot-against-us-ukrainian-citizen/",
    "region": "overseas",
    "category": null,
    "score": 8,
    "tier": "interest",
-   "pubDate": "2026-11-19T23:33:55.070Z",
+   "pubDate": "2026-11-22T22:28:53.098Z",
    "body": null,
-   "summary": "フランスのマクロン大統領は木曜、ベルリンでの有志連合会合後、ウクライナのNATO加盟について「問題を再び開く」必要があると主張した。ロシアの立場が極端であることを踏まえた発言だ。加盟問題は2022年初めに棚上げされたが、当時とは「全く異なる」状況だとも述べた。また、ウクライナの同盟国に対し、必要な防空システムの供与を急ぐよう求めた。ゼレンスキー大統領は、米国の交渉担当者が東部ドンバス地域からの撤退と引き換えにNATO加盟を示唆したと明らかにした。",
+   "summary": "デンマーク情報機関PETは、ロシア情報機関が計画したとされる米国とウクライナの市民への暗殺未遂を阻止したと発表した。標的は、ラッパーのキーヴストーナー（本名アルバート・ヴァシリエフ）だとデンマーク報道機関が伝えた。9月のコンサートに向かう途中、コペンハーゲン北部で3人が車内で拘束され、銃器やナイフが見つかったという。2人が殺人未遂などの罪で起訴され、無罪を主張している。デンマーク政府はロシアの国防武官を国外退去させる。在デンマーク・ロシア大使館は、主張は根拠がないと否定した。",
    "sources": [
     {
-     "outlet": "France 24",
-     "url": "https://www.france24.com/en/europe/20261119-macron-urges-ukraine-allies-reopen-question-nato-membership",
-     "date": "2026-11-20",
-     "access": "excerpt",
-     "via": null,
-     "note": "Macron urges Ukraine's allies to 'reopen the question' of NATO membership"
-    },
-    {
-     "outlet": "Euronews",
-     "url": "https://www.euronews.com/2026/11/19/macron-backs-reopening-the-question-of-ukraines-nato-accession",
-     "date": "2026-11-20",
+     "outlet": "CBS News",
+     "url": "https://www.cbsnews.com/news/denmark-accuses-russia-assassination-plot-against-us-ukrainian-citizen/",
+     "date": "2026-11-23",
      "access": "body",
      "via": null,
-     "note": "Macron backs reopening 'the question' of Ukraine's NATO accession"
+     "note": "Denmark says Russia behind plot to kill U.S.-Ukrainian citizen on its soil"
     },
     {
-     "outlet": "The Straits Times",
-     "url": "https://www.straitstimes.com/world/europe/ukraines-nato-membership-is-relevant-for-european-security-macron-says",
-     "date": "2026-11-20",
+     "outlet": "Associated Press",
+     "url": null,
+     "date": "2026-11-23",
      "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Poland says Russia allegedly twice tried to kill a Ukrainian American rapper - AP News"
+    },
+    {
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-23",
+     "access": "body",
      "via": null,
-     "note": "Ukraine's NATO membership is relevant for European security, Macron says"
+     "note": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper"
     }
    ],
    "continuity": null,
@@ -982,88 +1144,50 @@
    "summarizedBy": "claude-haiku-5-5"
   },
   {
-   "id": "intl-brief-2026-11-20-s-20261120-40",
+   "id": "intl-brief-2026-11-23-s-20261123-23",
    "stream": "intl",
    "depth": "brief",
    "section": "gap",
-   "headline": "デンマーク議会、米・グリーンランドの安保協定を承認",
-   "originalTitle": "Greenland Pulls Closer to the U.S. — by an Hour",
-   "outlet": "New York Times",
-   "url": "https://www.nytimes.com/2026/11/19/world/europe/greenland-time-zone-change-us.html",
+   "headline": "ドイツ軍、リトアニアで自爆型ドローンとAI標的システムを試験",
+   "originalTitle": "Germany tests Kamikaze drones and AI targeting technology in Lithuania",
+   "outlet": "Euronews",
+   "url": "https://www.euronews.com/2026/11/22/germany-tests-kamikaze-drones-and-ai-targeting-technology-in-lithuania",
    "region": "overseas",
    "category": null,
-   "score": 7,
+   "score": 8,
    "tier": "interest",
-   "pubDate": "2026-11-19T23:33:55.070Z",
+   "pubDate": "2026-11-22T22:28:53.098Z",
    "body": null,
-   "summary": "デンマーク議会は木曜、米国・グリーンランドとの3者による北極圏・北大西洋の安全保障協定を109対0で可決した。協定は米国の基地を増やす道を開く。トランプ氏はグリーンランドの支配や米国への編入を求めてきており、その圧力の中での合意となった。協定は正式な条約ではないため、米上院の承認は不要である。発効は、デンマークとグリーンランドが外交文書で米国に通知した時点からとなる。一方、グリーンランドの議会は、同島の時間帯を1時間変更してデンマークより米国に近づける案を可決した。",
+   "summary": "ドイツ連邦軍は、リトアニアのルドニンカイ演習場で、自爆型ドローン（徘徊型弾薬）とAIを使った標的選定ツールの試験を始めた。ドローンはヘルシング社とシュターク社の製品で、装甲車両などを標的とする。試験は多国籍演習「自由の盾」の一環で、NATO8カ国から約3800人が参加している。試験の弾頭は不活性で、実弾は使われていない。ドイツは2027年末までに5000人規模の装甲旅団をリトアニアに常駐させる予定である。",
    "sources": [
-    {
-     "outlet": "New York Times",
-     "url": "https://www.nytimes.com/2026/11/19/world/europe/greenland-time-zone-change-us.html",
-     "date": "2026-11-20",
-     "access": "excerpt",
-     "via": null,
-     "note": "Greenland Pulls Closer to the U.S. — by an Hour"
-    },
-    {
-     "outlet": "CBS News",
-     "url": "https://www.cbsnews.com/news/greenland-security-deal-us-denmark-danish-lawmakers/",
-     "date": "2026-11-20",
-     "access": "body",
-     "via": null,
-     "note": "Danish lawmakers OK Greenland security deal with U.S."
-    }
-   ],
-   "continuity": null,
-   "coverage": {
-    "world": "2/18",
-    "jp": "0/6",
-    "worldTotal": 18,
-    "jpTotal": 6,
-    "daysSeen": 1
-   },
-   "bodyAvailable": true,
-   "discussionUrl": null,
-   "summarizedBy": "claude-haiku-5-5"
-  },
-  {
-   "id": "intl-brief-2026-11-20-s-20261120-18",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "gap",
-   "headline": "セネガル沖で移民船転覆、数十人が行方不明",
-   "originalTitle": "Dozens missing after boat carrying migrants sinks off Senegal's coast",
-   "outlet": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
-   "region": "overseas",
-   "category": null,
-   "score": 7,
-   "tier": "interest",
-   "pubDate": "2026-11-19T23:33:55.070Z",
-   "body": null,
-   "summary": "セネガル沖の大西洋で、移民ら50〜100人を乗せたとされる船が転覆し、数十人が行方不明になっている。BBCは遺体4体が回収されたと伝え、ユーロニュースは少なくとも1人が死亡したと報じた。船は首都ダカール南方のイェンヌ村付近に打ち上げられ、捜索が続いている。乗船者はスペインを目指していたとされる。ユーロニュースによると、11月前半だけで1万1000人以上がスペイン領カナリア諸島に到達している。2週間弱前にもセネガル沖で39人が死亡する移民船の事故が起きていた。",
-   "sources": [
-    {
-     "outlet": "BBC",
-     "url": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
-     "date": "2026-11-20",
-     "access": "body",
-     "via": null,
-     "note": "Dozens missing after boat carrying migrants sinks off Senegal's coast"
-    },
     {
      "outlet": "Euronews",
-     "url": "https://www.euronews.com/2026/11/19/at-least-one-dead-and-dozens-missing-after-migrant-boat-capsizes-off-senegal-en-route-to-s",
-     "date": "2026-11-20",
+     "url": "https://www.euronews.com/2026/11/22/germany-tests-kamikaze-drones-and-ai-targeting-technology-in-lithuania",
+     "date": "2026-11-23",
      "access": "body",
      "via": null,
-     "note": "At least one dead and dozens missing after migrant boat capsizes off Senegal en route to Spain"
+     "note": "Germany tests Kamikaze drones and AI targeting technology in Lithuania"
+    },
+    {
+     "outlet": "The Straits Times",
+     "url": "https://www.straitstimes.com/world/europe/german-army-starts-testing-kamikaze-drones-and-ai-targeting-tool-in-lithuania",
+     "date": "2026-11-23",
+     "access": "body",
+     "via": null,
+     "note": "German army starts testing kamikaze drones and AI targeting tool in Lithuania"
+    },
+    {
+     "outlet": "Reuters",
+     "url": null,
+     "date": "2026-11-23",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "German army starts testing kamikaze drones and AI targeting tool in Lithuania - Reuters"
     }
    ],
    "continuity": null,
    "coverage": {
-    "world": "2/18",
+    "world": "3/18",
     "jp": "0/6",
     "worldTotal": 18,
     "jpTotal": 6,

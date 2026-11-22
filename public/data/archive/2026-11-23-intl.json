@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-23",
+  "stream": "intl",
+  "title": "国際深掘り",
+  "generatedAt": "2026-11-23T07:00:00+09:00",
+  "model": "claude-sonnet-5-5",
+  "editorialVersion": 3,
+  "articles": [],
+  "essays": [],
+  "productionNote": {
+    "reachedOutlets": ["South China Morning Post", "The Straits Times"],
+    "unreachedOutlets": ["Reuters", "Financial Times", "Bloomberg"],
+    "excluded": [
+      {
+        "topic": "ベッセント財務長官、エヌビディアに社外CEOを要求（s-20261116-14）",
+        "reason": "本文を読めた2媒体（SCMP、Straits Times）は、どちらもReuters配信の同一記事。独立した本文は1媒体で、方針により見送り。Reuters・FT・Bloombergは見出しのみ"
+      }
+    ],
+    "counts": { "deep": 0, "brief": 0, "essays": 0, "chars": 0 },
+    "text": "本日の資料は1件。資料上の本文は2件だが、同じ通信社の同一記事のため独立した本文は1媒体と数える。各社の見え方は比較できないので、深掘りは書かなかった。"
+  }
+}

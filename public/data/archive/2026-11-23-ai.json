@@ -1,0 +1,980 @@
+{
+  "date": "2026-11-23",
+  "stream": "ai",
+  "title": "AI日報",
+  "generatedAt": "2026-11-22T22:40:27.400Z",
+  "model": "claude-haiku-5-5",
+  "editorialVersion": 13,
+  "categories": [
+    {
+      "id": "ai",
+      "label": "AI",
+      "desc": "AIモデル・AIサービス・AI企業の動向"
+    },
+    {
+      "id": "it",
+      "label": "IT",
+      "desc": "ソフトウェア開発・ネットサービス・セキュリティ・デバイス・通信（AIが主題のものは除く）"
+    },
+    {
+      "id": "science",
+      "label": "科学",
+      "desc": "研究成果・医療・宇宙・環境・エネルギー技術"
+    }
+  ],
+  "articles": [
+    {
+      "id": "7affad66a74b",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.itmedia.co.jp/news/article/2611/22/2000003388/",
+      "headline": "Anthropicの数学者がClaudeと共同でリーマン予想の証明を主張",
+      "originalTitle": "Anthropicの数学者、「Claude」と共同で「リーマン予想」を証明したと主張 Leanコミュニティが「正しい」と認定",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "ai",
+      "score": 96,
+      "tier": "must",
+      "pubDate": "2026-11-21T23:21:31.000Z",
+      "body": null,
+      "summary": "米Anthropicの数学者レベント・アルポーゲ氏は11月20日（現地時間）、自身のWebサイトで声明を発表し、同社のAI「Claude」と共同で数学の未解決問題「リーマン予想」の証明を見つけたと考えているとした。証明は証明支援系「Lean」（証明の各ステップが論理的に正しいかをコンピュータで機械的に検査できる仕組み）で記述した形式証明として公開された。Leanの開発者や利用者のコミュニティは21日、この証明が正しいと認定する共同声明を出した。\n\nリーマン予想は1859年にリーマンが提唱した予想で、リーマンゼータ関数のゼロ点（自明でないもの）がすべて1本の直線上にあると主張する。整数論で最も重要な未解決問題の一つとされ、米クレイ数学研究所のミレニアム懸賞問題にも含まれる。ミレニアム懸賞問題で解決されたのはポアンカレ予想のみである。アルポーゲ氏は、今回の手法がリーマン予想を拡張した一般化リーマン予想も解決するとしている。声明によると、10月6日以降に証明の鍵となるアイデアが次々に見つかり、11月16日に一般化リーマン予想の証明に到達したという。\n\n数学者が読める形の論文はまだ公開されていない。アルポーゲ氏によると証明は非常に長く、Leanのコードから生成した詳細な文書は25万ページを超えたという。外部の確認として、MITの数学者アンドリュー・サザーランド氏が公開コードを独自にコンパイルし、エラーなく完了したことを確認した。Leanの数学ライブラリ「Mathlib」のコミュニティによる共同声明では、証明は1700万行に及び、数十人がコンパイルを再現したとされる。ただし、新しい考え方を数学者が理解し説明していく作業はこれからとされる。\n\n過去の発表との違いとして、Anthropicは8月に未公開のClaudeによる成果として、直線上にあるゼロ点の割合の下限を41.6％から67.2％に引き上げたと発表していたが、リーマン予想そのものの証明ではなかった。10月には米OpenAIが、リーマン予想を弱めた準リーマン予想の証明を含む社内AIの成果を公開している。今回はリーマン予想そのものの証明を主張している点で異なる。Scientific Americanは、発表がAnthropicの株式上場の翌日だったことに触れており、アルポーゲ氏は発表時期について皮肉な見方があり得ることを認めた上で、そうした見方は誤りだとしている。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2611/22/2000003388/",
+          "date": "2026-11-21",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "01449c61c8b8",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "headline": "METR、AIの能力評価を更新 判断を要する課題では人間に届かず",
+      "originalTitle": "The most misunderstood graph in AI just got a major update",
+      "outlet": "MIT Technology Review",
+      "region": "overseas",
+      "category": "ai",
+      "score": 91,
+      "tier": "must",
+      "pubDate": "2026-11-20T18:15:15.000Z",
+      "body": null,
+      "summary": "AI評価機関METRが、AIの時間幅（人間が完了するのに要する時間で測った課題の長さ）を示すグラフを更新した報告書を公表した。報告書によると、一部の能力は指数関数的な向上を続けている一方、判断を要する課題ではモデルの性能がコーディングほど高くない。元のグラフは、フロンティアモデルが成功できる課題の長さが4か月ごとに倍増することを示し広く共有されたが、指標が複雑なため誤解も多かったという。\n\n更新版では、人間が数百時間かかると推定される長い課題や、より自由度の高い課題が追加された。自動で成否を判定できる検証可能な課題（コーディングや数学など）ではAIの進歩が目立つが、研究の方向性を選ぶような成否の判定が難しい課題への応用は限られている。今回の報告書では、人間の完了時間の多くが実測ではなく推定値である。また哲学的議論を採点する課題では評価者が1人だけで、モデルはその人物との一致度で判定されたという。\n\nAI研究開発の自動化に関連しうる課題として、METR自身の研究に使える評価を設計させる課題が含まれた。その結果、AIが設計した評価のうち、METRの従業員が研究に有用と判断したものは一つもなかった。哲学的議論の採点課題でも、モデルは人間の性能を下回った。報告書は、この課題がAI研究開発の自動化とどの程度関係するかについて、従業員の間で意見が分かれていると記している。一方、最新モデルの一部（Opus 5.5など）は評価設計課題で「基準をわずかに上回る（borderline above the bar）」と評価され、1年前はすべてのモデルが「基準を明らかに下回る」に分類されていた。\n\n専門家の見方として、コンピュータ科学者のサヤシュ・カプール氏は、自由度の高い課題へ評価を広げた点を前向きに評価しつつ、判断を伴う課題の評価にはまだ多くの作業が必要だとしている。ボストン大学のナウン・キム氏は、改善が現時点について何かを示すとしながらも、今後どう外挿すべきかはまだ分からないと述べた。METRのマット・パッツ氏は、検証が難しい課題は研究も定量化も難しく、明確な傾向を確立できるとは考えていないという見解を示した。",
+      "sources": [
+        {
+          "outlet": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+          "date": "2026-11-20",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "96b9dea10e48",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.watch.impress.co.jp/docs/news/2158411.html",
+      "headline": "KARTEの情報漏えい調査が完了 サービス再開は2027年1月中旬目標",
+      "originalTitle": "影響広がる「KARTE」情報漏えいの調査が完了 27年1月中旬再開目指す",
+      "outlet": "Impress Watch",
+      "region": "domestic",
+      "category": "it",
+      "score": 89,
+      "tier": "must",
+      "pubDate": "2026-11-20T14:21:00.000Z",
+      "body": null,
+      "summary": "顧客体験プラットフォーム「KARTE」を提供するプレイドは20日、不正アクセスによる情報漏えいの調査を完了し、結果を発表した。KARTEは、Webサイトやアプリでの顧客分析や情報配信などに使われ、企業が保有する顧客情報を連携して利用する仕組みである。13日に不正アクセスが発生し、KARTEは全サービスの提供を停止した。丸井グループや三井住友銀行などは、顧客情報の漏えいの可能性を公表している。\n\n不正アクセスは、第三者が複数の経路に断続的に攻撃を試み、公開経路の一部の内部処理の脆弱性を悪用したものとされる。一部のデータが不正に取得され、その認証情報を使ってKARTEの管理画面に不正アクセスされた。漏えいの可能性があるデータは主に4分類である。KARTEに連携された企業のデータが570社分、エンドユーザーの解析データ（サイト閲覧やボタンクリックの記録など）が487社分、処理の高速化のため一時的に保持されるキャッシュデータが最大409社分（推定）、外部サービス連携に使う鍵やパスワードなどの認証情報が754社分である。現在KARTEと契約していない企業の情報も含まれる。\n\nプレイドによると、契約終了後に本来削除されるべき情報が、人的オペレーションと管理の不備により保管されていたという。残っている情報は、サービス再開に向けた検証のため記録を保全しており、検証後に速やかに削除して通知するとしている。詳細データは11月24日から順次、対象企業に提供する予定である。段階的な再開目標は2027年1月中旬とし、第三者機関による検証も実施する。サービス停止期間中の利用料金は請求しないことも決定した。\n\n丸井グループは、マルイウェブチャネルの利用者などで氏名、性別、生年月日、メールアドレス、顧客管理番号など約883万件が対象になったとしている。エポスカードの利用者（退会者を含む）では、顧客管理番号と性別が約850万件漏えいし、うち約6万件は氏名、年齢、年収、キャッシング限度額も漏えいした可能性があるという。カード番号や暗証番号などの決済情報は確認されていない。三井住友銀行は最大約1,400万件の情報漏えいの可能性を発表した。対象は生年月日、年齢帯、性別、電話番号の登録有無を示す値、顧客へのお知らせの要否を判定するフラグで、連絡先や個人を特定できる情報は含まれないとしている。",
+      "sources": [
+        {
+          "outlet": "Impress Watch",
+          "url": "https://www.watch.impress.co.jp/docs/news/2158411.html",
+          "date": "2026-11-20",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "1a73b3726a9e",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://kn.itmedia.co.jp/kn/article/2611/23/2000003393/",
+      "headline": "メルカリ、AI委託先への不正アクセスで3796人分の情報流出の可能性",
+      "originalTitle": "メルカリの情報流出、AI委託先で何が起きた？ 確認された2つの攻撃",
+      "outlet": "ITmedia AI+",
+      "region": "domestic",
+      "category": "ai",
+      "score": 87,
+      "tier": "should",
+      "pubDate": "2026-11-22T21:00:00.000Z",
+      "body": null,
+      "summary": "メルカリは、業務で利用する「Notion AI」の委託先であるFireworks AI（以下、Fireworks）への不正アクセスにより、従業員が入力した内容やAIの回答記録の一部が外部に流出した可能性があると発表した。Notion AIは情報共有ツールNotionに組み込まれたAI機能である。対象は顧客1522人分、取引先の担当者571人分、採用応募者169人分で、さらに派遣社員と業務委託先、退職者1534人分が含まれ、合計は3796人分となる。\n\nFireworksは2026年11月17日、同年10月に発生したセキュリティインシデントについて、2件の異なる事案があったと公表した。一つは外部クラウド事業者への侵害を足掛かりに、開発環境から本番システムの一部にアクセスされた事案である。もう一つは窃取された認証情報と、サービスの脆弱性（セキュリティ上の弱点）を悪用した不正アクセスである。\n\n本文には、流出した情報の具体的な内容や、メルカリおよびFireworksが今後どのように対応するかは書かれていない。",
+      "sources": [
+        {
+          "outlet": "ITmedia AI+",
+          "url": "https://kn.itmedia.co.jp/kn/article/2611/23/2000003393/",
+          "date": "2026-11-22",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "0011ae0145f0",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "science",
+      "url": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
+      "headline": "体外で肝臓7週間生存の報告、Anthropic上場なども伝える技術ニュース",
+      "originalTitle": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
+      "outlet": "MIT Technology Review",
+      "region": "overseas",
+      "category": "science",
+      "score": 84,
+      "tier": "should",
+      "pubDate": "2026-11-19T13:10:00.000Z",
+      "body": null,
+      "summary": "オーストラリアの研究者らは、提供を受けた人の肝臓を自動ポンプとセンサーを備えた装置につなぎ、体外で7週間生存させたと主張している。従来の記録は約2週間だった。装置は栄養と血液を供給し、老廃物を取り除く仕組みである。研究者らは、この手法が臓器の修復や再生などの生体医工学に新たな可能性をもたらすとしている。\n\n電池分野では、Silaが電池大手Panasonic Energyと、電池の負極に使うシリコン・カーボン系の材料を供給する契約を結んだ。契約は10億ドル以上に相当する可能性があるとされる。Silaの工場はトランプ政権の国防総省による14億ドルの融資を受けており、業界がエネルギー転換よりも地政学に関心を移していることがうかがえると伝えている。\n\nAI関連では、Anthropicが810億ドルを調達した新規株式公開（IPO）が、これまでで最大規模とされる。ブルームバーグの報道を引き、SpaceXを上回る株式市場デビューになったと伝えている。また、中国が米国の輸出規制を回避するため、AIを用いた兵器向けのNvidia製半導体を求めていると報じられている。\n\nこのほか、欧州委員会へのサイバー攻撃で職員の個人データが流出した可能性があること、ウクライナがスターリンクを使わずに中継ドローンを使ってプーチン氏の橋を攻撃したことが紹介されている。中国では、脳に埋め込む装置「NEO」が、臨床試験の枠を超えて使える世界初の侵襲型脳コンピューター・インターフェースとして3月に承認された。",
+      "sources": [
+        {
+          "outlet": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
+          "date": "2026-11-19",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "8d54d4add32f",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "headline": "Signal、AIによる画面情報の取得を防ぐためスクリーンショットを制限",
+      "originalTitle": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "outlet": "TechCrunch",
+      "region": "overseas",
+      "category": "it",
+      "score": 81,
+      "tier": "should",
+      "pubDate": "2026-11-21T21:37:10.000Z",
+      "body": null,
+      "summary": "Signalは、安全なメッセージアプリ内でスクリーンショットを撮る機能を制限すると発表した。プレジデントのメレディス・ウィテカーは、この対応を、OSにエージェント型AIが組み込まれることがもたらす「存続に関わる脅威」への対策だと説明している。エージェント型AIとは、利用者に代わって操作や情報収集を行うAIを指す。\n\nウィテカーは、AIエージェントが画面上の情報を「スキャン」できるようになることで、WindowsやAndroid、macOS/iOSはSignalが独自にプライバシーを保証する能力を損なうと主張している。AI機能のためにデータが取得・保存され、OSレベルのAIエージェントが使う任意のデータベースやサーバーにアクセス可能になると述べ、取得後はSignalの管理の及ばないところに置かれ、会話の参加者全員のプライバシーが危うくなるとしている。\n\nSignalはこれまで、Windowsアプリでスクリーンショットを既定でブロックしていたが、今回AndroidとiOSでも同様の制限を加える。利用者は設定を無効にできるが、ウィテカーはそれがSignalのプライバシーの保証を損なうと述べている。また、この対策は「不完全」であり、AIエージェントがアプリのデータにアクセスする別の巧妙な方法には対応していないことも認めている。",
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+          "date": "2026-11-21",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "3ea993db7e3c",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
+      "headline": "OpenAI、敵対的蒸留への防御策を公表 推論過程の抽出攻撃の成功率を大幅に低下",
+      "originalTitle": "Combatting adversarial distillation",
+      "outlet": "OpenAI",
+      "region": "overseas",
+      "category": "ai",
+      "score": 80,
+      "tier": "should",
+      "pubDate": "2026-11-20T10:00:00.000Z",
+      "body": null,
+      "summary": "OpenAIは、他社が無断でモデルの出力を利用して能力を複製する「敵対的蒸留」を検知・阻止する取り組みと、その防御策を公表した。蒸留とは、あるモデルの出力や推論過程などを別のモデルの学習に使う技術である。悪意ある主体がこれを使うと、元モデルの安全対策を引き継がないモデルに、サイバーセキュリティや生物学などの二重利用分野の能力が移るおそれがあると説明している。同社は特に、回答を作る途中で内部に生成される中間ステップ「思考の連鎖（chain-of-thought）」を、保護された推論として抽出されないよう重視している。\n\n防御は、個々のリクエストに対する対策と、組織的な攻撃を見つけるキャンペーン単位の対策の二層で構成される。前者では、抽出の試みを認識して拒否する学習、入力と出力を判定する分類器（classifier）、API側の制御を組み合わせる。後者では、リクエストやアカウントの傾向から協調的な抽出の試みを見つけ、関係するアカウント群に措置を取る。さらに、GPT-6.2 AstraとGPT-6.2 Solでは、保護された推論を生成元の会話履歴に紐付け、過去のメッセージが書き換えられた場合はそれ以降の推論を破棄する仕組みを導入した。\n\n社内の適応型評価は、攻撃者役の自動化AIが応答に応じて手法を変えながら攻撃を試みる試験である。その結果、前の質問に対する推論を取り出す攻撃の成功率は、元の安全対策を備えたGPT-6 Astraでは54.0%だったが、更新後のGPT-6.2 Astraでは0.2%に下がった。現在の質問に対する攻撃でも22.9%から0.9%に低下したという。また、今年は複数の無断蒸留キャンペーンを確認し、毎週の対応で数千から数万のアカウントに措置を取っており、この夏にその規模が大きく増えたとしている。\n\nサイバー分野の内部研究では、通常ユーザーに見える最終回答や推論の要約で学習させたモデルと、推論の詳細な過程まで学習させたモデルを比較した。詳細な過程で学習したモデルは、教師あり微調整の後に全般的に高い成績を示した。強化学習の後も、最大の推論予算では上回ったが、低い予算では要約で学習したモデルの方が高かったという。国家安全保障の面では、2月にDeepSeekが米国のフロンティアモデルを蒸留しようとしていたことを示す活動を米議会に報告したほか、9月には推論の抽出キャンペーンを阻止し、その中心的な活動をKimiの開発元であるMoonshot AIと関係する個人に帰属させたとしている。",
+      "sources": [
+        {
+          "outlet": "OpenAI",
+          "url": "https://openai.com/index/combatting-adversarial-distillation",
+          "date": "2026-11-20",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "99727b65c290",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "headline": "研究者が200万件の偽の機密情報を送信、AI経由で漏えいの実態が判明",
+      "originalTitle": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+      "outlet": "Ars Technica",
+      "region": "overseas",
+      "category": "ai",
+      "score": 79,
+      "tier": "should",
+      "pubDate": "2026-11-20T20:59:08.000Z",
+      "body": null,
+      "summary": "研究者のHD・ムーア（セキュリティ企業Dragosの最高研究責任者）は、AIサービスの経路に約200万件のプロンプトを送り、それぞれに固有の追跡用の偽機密情報（「カナリア」と呼ばれる目印）を1つずつ埋め込んだ。OpenRouterやVercelなどの「AIルーター」（AIゲートウェイとも呼ばれる）は、プロンプトを受け取って価格や適性を基準に推論エンジンへ振り分ける仲介役である。カナリアにより、情報が漏えいした際にどの経路が関与したかを特定できる仕組みとなっている。\n\n偽機密情報は、AWSのアクセスキー、SSHなどのパスワード、URL、DNS名、プライベートなgitリポジトリの参照などで、いずれも過去に使われたことがなかった。プロンプトは経路の各地点で復号されるため、仲介者がそれを記録し得る。その結果、少なくとも3社のAIプロバイダーが攻撃者に侵入されてプロンプトが盗まれたこと、仲介業者がプロンプトを記録して認証情報を使う第三者に渡していたこと、ZDR（ゼロデータ保持）や「データ収集なし」の設定が守られていなかったことが判明した。\n\n最も深刻なのは、3社のホスティング事業者が侵害された件である。1社を侵害した攻撃者は数百件のAWSキーを再利用し、盗まれた囮のキーはAWSのAPI呼び出しで数万回使われた。攻撃者はS3バケットやシークレット管理の仕組みを探り、AWS Bedrockのモデルを有効化したり、IAMユーザーを追加して侵入を維持しようとした。ムーアは、ほぼ同時に同じ貸しサーバーから認証情報が使われた2社の侵害は、同一の攻撃者によるものとみている。\n\n一部の仲介業者は低価格を提示してプロンプトを集め、ログを取って認証情報を盗んでいた。中国のAI研究所のシステムは、7月から10月に同研究所のモデルに送られたプロンプトの半分以上から秘密のURLを取得し、ZDRや「データ収集なし」と指定された要求の約3分の2も含まれていた。さらに、米国のホスティング事業者が再販する同じモデルでも同様の動きが確認されたという。なお、OpenRouterは11月21日、報告を受けた潜在的な漏えいは中国拠点のモデル提供者MiniMaxへの送信に関わるとして顧客に通知し、同社のMiniMaxのモデルのエンドポイントから「Zero Data Retention」の表示を削除したとしている。",
+      "sources": [
+        {
+          "outlet": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+          "date": "2026-11-20",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "d495639af483",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003381/",
+      "headline": "デジタル庁、政府共通のファイル共有サービスで漏えいの可能性 7月30日からアクセス",
+      "originalTitle": "デジ庁、政府機関向けファイル共有サービスで漏えいか 7月末から第三者がアクセス",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "it",
+      "score": 78,
+      "tier": "should",
+      "pubDate": "2026-11-20T12:18:07.000Z",
+      "body": null,
+      "summary": "デジタル庁は11月20日、同庁が運用する政府共通の業務環境「ガバメントソリューションサービス」（GSS）のファイル共有サービスで、取り扱ったファイルの一部が外部に漏えいした可能性があると発表した。同庁は11月12日に、正規の共有相手以外の者がファイルにアクセスした可能性を検知し、同日にサービスを停止した。現時点までの調査では、7月30日から11月12日までの間にアクセスがあったことが確認されたという。\n\nこのサービスはGSSを利用する政府機関などに提供され、職員同士や事業者など組織外の関係者との間で会議資料などを共有するために使われている。漏えいした可能性のあるファイルには個人情報が含まれることも想定されるため、同庁は個人情報保護委員会に報告した。現時点で、個人情報の二次被害は確認されていない。\n\n同庁は、アクセス期間の詳細を含めて警察などと連携し、外部の専門事業者の協力も得ながら調査を進めている。GSSを巡っては、9月にも外部からの不正アクセスにより府省庁などの職員らの個人情報約24万6000件が漏えいした可能性があると発表していた。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003381/",
+          "date": "2026-11-20",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "2600ba480195",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "science",
+      "url": "https://theconversation.com/weight-loss-drugs-could-free-up-an-area-of-farmland-larger-than-italy-new-study-291114",
+      "headline": "GLP-1薬の普及で農地解放と死者減少の可能性、研究が試算",
+      "originalTitle": "GLP-1 drugs could have a surprisingly large environmental payoff",
+      "outlet": "theconversation.com",
+      "region": "overseas",
+      "category": "science",
+      "score": 69,
+      "tier": "should",
+      "pubDate": "2026-11-22T21:07:11.000Z",
+      "body": null,
+      "summary": "食欲を抑える体重減少薬GLP-1（オゼンピックやウェゴビーなど）は、服用者の体重だけでなく世界の食料システムにも大きな影響を与え、農地を大きく解放する可能性があるとする研究が示された。研究チームは計算機シミュレーションを用いて、利用が高所得国に集中する場合から世界的に広く利用される場合までのシナリオを検討した。\n\n肥満の成人に広く使われた場合、カロリー摂取の減少によって2050年までに年間最大660万人の死亡を防ぎ、最大3200万ヘクタールの農地を他の用途に回せると試算している。この面積はイタリアの国土よりやや広い。さらに食事を健康的なものへ移行することを組み合わせると、年間最大700万人の死亡を防ぎ、約4600万ヘクタールの農地が利用可能になるという。\n\n食料システムは国を越えてつながっているため、薬の利用者による需要の減少は農業、貿易、食品価格に波及し、薬を使っていない人にも影響しうると指摘している。例えば食品価格が下がると、非利用者の消費が増えて効果の一部が相殺される可能性があるという。研究チームは、肥満を個人の意志の問題とみる「生活習慣病」の見方では不十分で、手頃で健康的な食品が入手しやすくなるなど食環境の変化が必要だと主張している。\n\n一方で、研究結果は肥満の人に減量の責任があるという意味ではないと明記されている。著者らは、GLP-1薬は肥満対策で重要な役割を果たすものの、食環境の問題を見過ごさせる技術的な解決策にしてはならず、薬と健康的な食事の普及、農業政策を組み合わせることが望ましいと述べている。",
+      "sources": [
+        {
+          "outlet": "theconversation.com",
+          "url": "https://theconversation.com/weight-loss-drugs-could-free-up-an-area-of-farmland-larger-than-italy-new-study-291114",
+          "date": "2026-11-22",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": "https://news.ycombinator.com/item?id=50603906",
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "3d1b399678b2",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.itmedia.co.jp/business/articles/2611/20/news024.html",
+      "headline": "日立、米子会社2社を統合したHitachi Digitalを2027年4月に発足",
+      "originalTitle": "日立が「フィジカルAI」で狙う“5年で事業規模2倍”の勝算 3.5万人の新会社トップが語る「戦略の2本柱」とは？",
+      "outlet": "ITmedia AI+",
+      "region": "domestic",
+      "category": "ai",
+      "score": 68,
+      "tier": "interest",
+      "pubDate": "2026-11-20T02:15:00.000Z",
+      "body": null,
+      "summary": "日立製作所は、米国子会社のGlobalLogicとHitachi Digital Servicesの2社を統合し、2027年4月にデジタルサービス企業「Hitachi Digital」を発足させる。10月28日の2026年度第2四半期決算と同時に発表された。CEO兼チェアマンに就任するアナンド・ビルジェ氏は、統合後の事業を加速させる考えを示し、「2026年度がリセットであれば、2027年度は加速していく」と述べた。\n\nHitachi Digitalは27カ国に約3万5000人の従業員を抱え、顧客は880社以上に上る。クラウド、データ、AIを使って顧客の事業成果につなげる支援を担い、その中核が「FDE（Forward Deployed Engineers）」と呼ばれるチームである。FDEは顧客の現場に入り込み、業界の業務を理解したうえでシステムの刷新やAI導入を支援するエンジニアやコンサルタントのチームで、約1000人を占める。ビルジェ氏は、今後1年でFDEを3倍の3000人に増やす考えを示した。\n\n7～9月期の売上収益は前年同期比15%増の2兆9044億円だった。海外ITサービスのシナジー売上は46%増となった一方、単独売上の合計は前年並みにとどまり、通期では1桁台前半の成長にとどまる見通しだという。その要因として、AIの活用でエンジニアリング業務の効率が上がり縮小すること、また売上の9割を占める上位200～300社に事業を集中し、小規模案件から撤退していることを挙げた。\n\nフィジカルAIは、現場の機器やシステムが自ら判断して動く自律化を指し、日立は2026年を「フィジカルAI元年」と位置付けている。米国では調剤薬局で小型ロボットが薬を充填しているほか、自動車分野ではNVIDIAやMicrosoftとデジタルツインを構築してサプライチェーンを効率化し、電力会社には需給管理の技術を提供しているという。ビルジェ氏は、2030年度に世界で圧倒的なプレーヤーになれるとの自信を示し、今後5年で事業規模を2倍にする考えを語った。",
+      "sources": [
+        {
+          "outlet": "ITmedia AI+",
+          "url": "https://www.itmedia.co.jp/business/articles/2611/20/news024.html",
+          "date": "2026-11-20",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "c4b0222f29f2",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+      "headline": "Metaが2030年のネットゼロ目標を再検討、AIデータセンターで排出量が急増",
+      "originalTitle": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+      "outlet": "Ars Technica",
+      "region": "overseas",
+      "category": "ai",
+      "score": 66,
+      "tier": "interest",
+      "pubDate": "2026-11-20T21:47:10.000Z",
+      "body": null,
+      "summary": "Metaは2026年版サステナビリティ報告書（2026年11月19日付）で、2030年のネットゼロ（実質排出ゼロ）目標を含むタイムラインや中間目標を再評価していることを明らかにした。報告書は「長期的な野心は変わっていないが、事業環境は変わった」としており、AIインフラの需要が「ほとんどの予測を上回るペースで増えている」ことを理由に挙げている。序文はデータセンター担当バイスプレジデントのレイチェル・ピーターソン氏と、ネットゼロ・サステナビリティ担当グローバル責任者のブレア・スウェーデン氏が執筆した。\n\n報告書によると、同社の温室効果ガス総排出量は2024年の1560万トン（CO2換算）から2025年には2170万トン超へ急増した。増加率は他のビッグテック各社を上回る過去最大水準だという。同社は増加の多くを、データセンターのサーバーなどの資本財によるものとしている。排出量は米アイダホ州全体にほぼ相当し、ハワイ州やメイン州、サウスダコタ州、ニューハンプシャー州を上回る規模だとされる。\n\nアマゾン、グーグル、マイクロソフトは現時点で当初のサステナビリティ目標を維持しており、Metaの表明は公の場での重要な認識とみなされている。各社はAIデータセンターの急速な建設と目標の両立に課題を抱えている。再生可能エネルギーへの投資を進めている一方で、天然ガスを燃やして発電するデータセンターの建設を依然として進めている点も指摘されている。",
+      "sources": [
+        {
+          "outlet": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+          "date": "2026-11-20",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "78c2b15f8b0e",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage",
+      "headline": "デルタ航空、アトランタ発着の全便に大幅遅延 重量計算システムの不具合",
+      "originalTitle": "Delta flights in and out of Atlanta delayed due to system outage",
+      "outlet": "The Verge",
+      "region": "overseas",
+      "category": "it",
+      "score": 64,
+      "tier": "interest",
+      "pubDate": "2026-11-22T19:51:46.000Z",
+      "body": null,
+      "summary": "デルタ航空のアトランタ発着の全便で、機体の重量と重心を計算するシステムの不具合による大幅な遅延が、日曜日に発生している。アトランタのハーツフィールド・ジャクソン空港は、デルタ航空の最大のハブ空港であり、世界でも特に混雑する空港の一つである。現時点で影響を受けているのはデルタ航空のみだが、遅延が積み重なれば他の空港や航空会社にも波及する可能性があると記事は指摘している。\n\nニューヨーク・タイムズの報道を引用した記事によると、このシステムは機体の総重量（機体本体、燃料、乗客、手荷物を含む）を計算する。パイロットは、重心の位置と重量の配分が均等かどうかを、このシステムのデータで確認できる。これらは安全な運航を確保するための重要なデータである。\n\n今回の障害は、1週間前に連邦航空局（FAA）の障害で全米の離陸停止措置が取られ、数千便が欠航した事態の直後に起きた。デルタ航空は日曜日の声明で、自動化の復旧作業を続けながら、手作業による代替手順を使って安全に便を出発させていると説明した。",
+      "sources": [
+        {
+          "outlet": "The Verge",
+          "url": "https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage",
+          "date": "2026-11-22",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "00b6ba683659",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "science",
+      "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003374/",
+      "headline": "H3ロケット、JAXAから三菱重工へ打ち上げ移管 来年1月の11号機から",
+      "originalTitle": "H3ロケット打ち上げ、JAXAから三菱重工に移管 来年1月の11号機から",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "science",
+      "score": 64,
+      "tier": "interest",
+      "pubDate": "2026-11-20T08:09:25.000Z",
+      "body": null,
+      "summary": "JAXAは2026年11月20日、日本の基幹ロケットであるH3ロケットのうち「22形態」の打ち上げを、段階的に三菱重工業へ移管すると発表した。2027年1月11日に打ち上げ予定の11号機は、三菱重工が打ち上げを担う。\n\n11号機は、政府の情報収集衛星「光学時間軸多様化1号機」を搭載する。22形態は、液体水素と液体酸素を使うロケットエンジン「LE-9エンジン Type1A」2基と、固体燃料の補助ブースタ「SRB-3」2本を備える構成で、メインエンジン2基と補助ブースター2本の形態である。\n\nJAXAはまず、LE-9エンジン Type1Aを用いる22形態を三菱重工に移す。残りの「24形態」「30形態」や、開発中の「LE-9エンジン Type2」を用いる打ち上げも、段階的に民間へ移行する計画である。三菱重工は4号機から「打上げ輸送サービス」を提供し、打ち上げの実務を担ってきた。一方、法律上の「打上げ実施者」はJAXAだったが、11号機以降は三菱重工が打上げ実施者も担う。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003374/",
+          "date": "2026-11-20",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "de5cd1a6d51d",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://openai.com/index/perplexity-and-intelligence",
+      "headline": "OpenAI、言語モデルの指標パープレキシティを業界共通の指標にすべきと提案",
+      "originalTitle": "Perplexity and Intelligence",
+      "outlet": "OpenAI",
+      "region": "overseas",
+      "category": "ai",
+      "score": 63,
+      "tier": "interest",
+      "pubDate": "2026-11-22T00:00:00.000Z",
+      "body": null,
+      "summary": "OpenAIは、AIモデルの事前学習の進捗を測る指標であるパープレキシティ（次のトークンをどれだけ正確に予測できるかを示す値で、低いほど予測が正確）を、開発企業どうしで比較できる共通指標にすべきだとするブログ記事を公開した。同社は自社モデルの内部のパープレキシティの計測値も公表した。競合に自社の位置を明確に示すことになるが、業界全体で共通の安全対策を確立する緊急性がそれを上回ると判断したとしている。\n\n記事によると、現在のAIは大規模な計算資源で大量のデータを使い、次のトークンを予測させる事前学習で基礎能力を作り、その後プロンプトや微調整、強化学習などで能力を引き出して作られている。この基礎能力の進歩はパープレキシティで測られてきたとしている。GPT-2は一貫した段落を安定して生成できたモデルとして挙げられ、GPT-3は数例を示すだけで課題を学ぶ文脈内学習を可能にしたとされる。GPT-3.5は対数パープレキシティ（主要な評価データセット上で約0.99）で流暢な会話を可能にし、最初のChatGPTの基盤となった。GPT-4は約0.91で、段階的に考えさせて推論を進める手法（chain-of-thought）を有効に使えるようになった。\n\n対数パープレキシティが0.8を下回ると、サイバーセキュリティや数学で変革的な能力が現れたという。記事は、これらの能力が事前には明らかでなかったと強調し、AIが自らの開発に参加する影響も重要だと主張している。対数パープレキシティ約0.76のモデルでは、数学の未解決問題に次々と解答を示したとし、事前学習の研究でも2027年にも同様の基礎的な進歩が連続して現れる可能性があるとしている。\n\n記事は、フロンティアモデルを開発する企業が評価の共通規範、安全性の論拠に対するレッドチーム（攻撃側の立場で安全性を検証すること）、透明性の基準を共同で定めるよう提案している。さらに、パープレキシティなどに基づく共通の上限を設け、AIの挙動を理解し監視する能力が一定の水準に達するまで各社がそれを超えないよう約束する案を示している。一方で、評価データや学習データの違いにより企業間の比較が難しい点、実際のタスクと直接結びつかない点、連鎖思考のような事前学習以外の進歩を反映しない点などの課題を挙げている。",
+      "sources": [
+        {
+          "outlet": "OpenAI",
+          "url": "https://openai.com/index/perplexity-and-intelligence",
+          "date": "2026-11-22",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "4cfb9a03ab85",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2611/20/2000003353/",
+      "headline": "Google Cloud日本法人、外部ツール経由のAntigravity規約は個人向けが対象と説明",
+      "originalTitle": "Antigravityを他社AIから操作すると「垢BAN」？ 注意点をGoogle Cloud日本法人に聞いた",
+      "outlet": "ITmedia AI+",
+      "region": "domestic",
+      "category": "ai",
+      "score": 62,
+      "tier": "interest",
+      "pubDate": "2026-11-20T08:04:35.000Z",
+      "body": null,
+      "summary": "Googleの追加利用規約第6条は、サードパーティのソフトウェアやツールを使ってAntigravityにアクセスすることを契約違反とし、Antigravityアカウントおよび/またはGemini CLIアカウントの停止または終了の理由となる場合があると定めている。例としてOpenClawをAntigravity OAuthとともに使う行為が挙げられている。画面を使わずに起動できる（ヘッドレス）「agy -p」コマンドなどの利用で「Googleアカウント全体が停止されるのでは」という懸念が広がり、有志のXユーザーによる状況の整理投稿は表示回数が49万回に達した。Googleは公式FAQで、理由を「正規の製品ユーザーのエクスペリエンスを著しく低下させる」ためとしている。\n\nグーグル・クラウド・ジャパンによると、この規約は個人向けユーザーを対象とし、FAQの「正規の製品ユーザー」は主に法人向けプランのユーザーを指す。個人向けの無料プランや比較的安価な「Google AI Pro」プランで、サードパーティツール経由の不正利用や過剰利用が起きるとシステム全体の処理能力が圧迫され、法人ユーザーの体験を著しく損なう恐れがあると説明した。同社は個人向けのコンシューマー版でサードパーティ経由のアクセスを控えるよう注意を促している。一方、Google DeepMindでAntigravityの開発を担当するヴァルン・モハン氏は、Xで日本のユーザーに対し「Googleアカウントに影響することはない」と発言している。\n\n法人向けプランには別の利用規約が適用され、コンシューマー向け規約に基づくアカウント停止は発生しないとされる。ただし無制限に許容されるわけではなく、Google Cloud規約と組織管理者のポリシーの範囲内で利用することが前提だという。守るべき点として、公式のAPI、SDK、CLI、IDE拡張機能などを組織管理の認証と正規の課金体系で利用すること、料金発生や使用量制限の回避、サービスの再販、リバースエンジニアリング、認証機構の改変・回避、不正アクセスを目的とした利用を行わないことを挙げた。違反が確認された場合でも、原則として組織管理者への通知と是正要請の手続きがあり、停止となった際には理由を通知する義務があるという。また、Googleは他社のコーディングエージェントなどからGeminiを利用する場合、Gemini EnterpriseやGoogle AI Studioで発行したAPIキーを使うよう勧めている。",
+      "sources": [
+        {
+          "outlet": "ITmedia AI+",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2611/20/2000003353/",
+          "date": "2026-11-20",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "f4784c304003",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://openai.com/index/introducing-medchembench",
+      "headline": "OpenAI、医薬化学の推論を測るベンチマーク「MedChemBench」を発表",
+      "originalTitle": "Can AI help scientists identify promising drug candidates?",
+      "outlet": "OpenAI",
+      "region": "overseas",
+      "category": "ai",
+      "score": 61,
+      "tier": "interest",
+      "pubDate": "2026-11-20T00:00:00.000Z",
+      "body": null,
+      "summary": "OpenAIは、医薬化学の研究で用いられる推論課題に基づいてAIモデルを評価するベンチマーク「MedChemBench」を発表した。分子の構造と実験結果を結びつけて結果を説明できるか、化合物を比較できるか、性質を予測できるかを測る。ベンチマークは公表された研究論文と特許から作られた99の問題で構成され、117の論文・特許と761の分子構造を含む。医薬品開発では、ある性質を改善すると別の性質が悪化することがある。例えば標的タンパク質への作用は強くても、体内で吸収されにくかったり速く分解されたりする化合物がある。こうしたトレードオフをAIが扱えるかが評価の焦点となる。\n\n最も高い推論設定（xhigh）では、GPT-6.2 Astraが獲得可能な点数の84.5%を得た。同じ設定でGPT-6 Astraは83.3%、GPT-6.1 Solは82.0%、GPT-5.6 Solは58.2%だった。GPT-6 Astraは分子構造の再構築と実験結果の説明に強みを示した一方、化合物の選択と数値の予測では得点が低かった。分子構造の項目ではxhighでGPT-6 Astraが95.4%を得たが、化合物の選択と数値予測の得点は約半分にとどまった。\n\n問題の一例は、がん創薬の研究対象であるタンパク質PRMT5の阻害薬を扱う。モデルは先行実験の結果を基に、3つの化合物について細胞内でPRMT5をどれだけ阻害するか、細胞の膜をどれだけ通過しやすいか、肝臓の酵素によってどれだけ速く分解されるかを予測する。後に示された実験結果では、化合物23は細胞内でより低い濃度でPRMT5を阻害し、化合物24は細胞膜を通過しやすく、分解も遅かった。また分子構造の再現では、18原子の環を保つ問題でGPT-6 Astraが10回すべてで正しく再構築した一方、GPT-5.6 Solと GPT-5.6 Lunaは10回すべてで失敗したという。\n\nOpenAIは、この結果から新薬を発見できるか、実験室での判断を改善できるかは確立できないとしている。公開資料を学習済みの可能性は排除できず、各回答はツール、フィードバック、新たな実験を使わない単一の試行だった。ベンチマークは実際の創薬ではなく過去の証拠に基づく推論を評価するもので、モデルの進歩と残る課題を示すものだという。",
+      "sources": [
+        {
+          "outlet": "OpenAI",
+          "url": "https://openai.com/index/introducing-medchembench",
+          "date": "2026-11-20",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "d15c45643214",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://openai.com/business/customer-stories/hebbia",
+      "headline": "Hebbia、GPT-6 Astraで金融調査の出典特定と資料作成が向上したと説明",
+      "originalTitle": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "outlet": "OpenAI",
+      "region": "overseas",
+      "category": "ai",
+      "score": 60,
+      "tier": "interest",
+      "pubDate": "2026-11-20T00:00:00.000Z",
+      "body": null,
+      "summary": "銀行員は買収を提案する前に、財務諸表、顧客契約、経営陣の資料などを読み解く必要がある。Hebbiaの製品「Matrix」は、こうした文書を集めて分析し、回答を根拠となる元の文書に結びつける。Hebbiaは、OpenAIのGPT-6 Astraを使い、質問に必要な出典の特定と、銀行員の指示に沿ったプレゼン資料の作成という2つの工程を検証した。\n\nHebbiaの想定例では、産業向けソフトウェア企業の買収を検討するため、約2,000ファイルを調べる。顧客の集中度、契約条件、解約率などを引用元のセルで確認し、同業他社の開示資料やニュースを加えて案件の仮説をまとめる。GPT-6 Astraは回答の根拠となる文書やセルを選び、社内テンプレートに沿ったPowerPoint形式のスライドを作成する。Hebbiaの試験では、求められる種類の出典を引用する点で、比較した他モデルの最良の結果を13.6ポイント上回った。引用された抜粋の99.5%が質問に関連していたという。\n\n資料の品質についても、Hebbiaの試験でGPT-6 Astraは適用される資料要件の97.9%を満たし、最良の代替モデルを14.4ポイント上回った。指示への従いと資料の体裁の両方で1位になったという。Hebbiaの担当者によれば、従来は資料の見栄えに優れても指示への従いが弱いモデルや、その逆のモデルが多かった。試験は2026年8月から9月に、事前公開版のモデルを使い、各モデルに同じ金融調査の事例と採点基準を適用して行われた。採点基準は専門家が作成するか、元の資料に照らして監査した。\n\nHebbiaは、銀行員が資料の書式を整えたり出典を確認したりする時間を減らし、案件の評価により多くの時間を使えるようにすることを目指している。同社のKavita Anand氏（Member of Technical Staff, Product）は、より完成度の高い初稿が得られれば、徹夜で行っていた作業が数分の確認に置き換わり得ると述べた。将来的には、バックグラウンドで情報を監視し、金融のプロフェッショナルが検討すべき兆候を知らせるエージェントの役割にも期待を示している。",
+      "sources": [
+        {
+          "outlet": "OpenAI",
+          "url": "https://openai.com/business/customer-stories/hebbia",
+          "date": "2026-11-20",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "51cbc0040f44",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "science",
+      "url": "https://arstechnica.com/science/2026/11/astronomers-watched-a-star-spiral-to-its-death-inside-a-giant-companion/",
+      "headline": "アンドロメダ銀河で巨星が伴星を飲み込み爆発する過程を観測",
+      "originalTitle": "Watching as a giant star swallowed its neighbor and exploded",
+      "outlet": "Ars Technica",
+      "region": "overseas",
+      "category": "science",
+      "score": 60,
+      "tier": "interest",
+      "pubDate": "2026-11-20T20:41:17.000Z",
+      "body": null,
+      "summary": "アンドロメダ銀河で、太陽の約7倍の質量を持つ巨星が約10年かけて小さな伴星を徐々に飲み込み、2025年10月の爆発で終わる過程が観測された。コロンビア大学のヴィラジ・カランベルカー氏らの研究チームがNature誌に発表した。この過程は共通外層（共通エンベロープ）進化と呼ばれ、1970年代に近接連星の形成を説明する仮説として提唱されたが、実際の観測例はなかった。年老いた星が膨張して伴星を外層で包むと、伴星は摩擦で軌道のエネルギーを失い、内側へ螺旋状に落ちていく。\n\n研究チームはアンドロメダで明るさが変化する星を探す中で候補天体「AT 2025abao」を見つけ、パロマー天文台の広視野赤外線望遠鏡WINTERとNASAの赤外線観測ミッションNEOWISEのデータを用いた。1989年の写真乾板を含む約12の観測データから履歴を再構成すると、2018年から2025年初めにかけて可視光の明るさは2〜3倍に増えていた。伴星は巨星より約1万8000倍暗く直接見えないため、放出された塵の量から質量を約0.7太陽質量と推定した。2025年7月にはNASAの宇宙望遠鏡SPHERExが、巨星が太陽の約860倍の大きさに膨張し塵に包まれている姿を捉えた。\n\n2025年10月には約25日間で明るさが約100倍になり、ピーク時は太陽150万個分に達した。研究チームは、伴星が急速に内側へ落ちて中心核に衝突し、その衝撃で爆発が起きたと説明している。最後の落下で伴星が放出したエネルギーの約1%しか光にならず、大半は外層の約10分の1を、重力を振り切る速度の約10倍で吹き飛ばすことに使われた。増光は星の合体に伴う増光現象である発光赤色新星に似ていたが、既知の例は若い星に限られるため、年老いた巨星で起きた点が特異だとしている。\n\n爆発で生じた塵が内部を覆い隠しているため、二つの星が合体したか生き残ったかはまだ確定できない。カランベルカー氏は、螺旋運動で放出されたガスが公転面に集まり、爆発の物質が極方向へ広がったことで、死にゆく星の周りに見られる砂時計型の星雲を説明できると主張している。研究チームは今後数年から数十年にわたり観測を続ける方針である。将来はヴェラ・ルービン天文台とナンシー・グレース・ローマン宇宙望遠鏡により、約5000万光年以内の天の川に似た約100の銀河で同様の現象が年に数件見つかるとの見通しだという。",
+      "sources": [
+        {
+          "outlet": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/11/astronomers-watched-a-star-spiral-to-its-death-inside-a-giant-companion/",
+          "date": "2026-11-20",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "716c53fa8fce",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "headline": "OpenAI首席科学者、AI開発の制限基準に「パープレキシティ」を提案",
+      "originalTitle": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "outlet": "TechCrunch",
+      "region": "overseas",
+      "category": "ai",
+      "score": 58,
+      "tier": "interest",
+      "pubDate": "2026-11-22T21:14:07.000Z",
+      "body": null,
+      "summary": "OpenAIのヤクブ・パチョツキ首席科学者が、AI開発の制限を検討するブログ記事を公開した。記事は、言語モデルの性能を示す指標「パープレキシティ（perplexity）」を制限の基準に使う案を示している。背景には、元OpenAIとAnthropicの研究者が両社を「われわれの命を賭けてギャンブルをしている」と批判したことや、Anthropicの新規株式公開（IPO）の申請書類で、この技術が社会に「壊滅的または存亡に関わるリスク」を与えうると示唆されたことがある。\n\nAnthropicのダリオ・アモデイCEOは、AI開発の速度を調整する計画「pace the frontier」を公表した。この計画はOpenAIのサム・アルトマンCEOやSpaceXのイーロン・マスクCEOに支持されているとみられる。アモデイ氏は、各社が「共通の安全基準」と「管理されていないAI進歩の速度制限」に合意することを求めている。速度を制限するには、まず速度の測り方を決める必要がある。パチョツキ氏の記事をアルトマン氏は「OpenAIがここしばらく公表した中で最も重要なもの」と評しており、記事は測定基準としてパープレキシティを挙げている。同名の検索サービス企業とは別物で、言語モデルが次のトークン（文章を分割した単位）をどれだけ正確に予測できるかを平均で測り、値が低いほど予測が正確であることを示す。\n\nパチョツキ氏は、個別タスクでの応用性能を測る「下流能力」のベンチマークは技術の進歩で急速に陳腐化する一方、パープレキシティは有用な指標であり続けると主張している。記事によると、OpenAIのモデルのパープレキシティは GPT-3.5 以降低下しており、GPT-4の約0.91の段階で思考の連鎖を使った推論を活用できるようになった。さらに損失（loss）が0.8を下回ると、サイバーセキュリティや数学などの分野で変革的な能力が現れたとしている。\n\nパチョツキ氏は、パープレキシティを「汎用知能の共通ベンチマーク」とし、各社がそれを基準に共通の上限を定めることを提案している。AIの振る舞いを理解し監視する能力が「具体的な節目」に達するまで、各社が一定の閾値を超えないと約束する構想である。",
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+          "date": "2026-11-22",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "03187c116733",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2611/20/2000003372/",
+      "headline": "Meta、AIエージェント「Muse」専用メールアドレスを無料ユーザーにも提供",
+      "originalTitle": "「Muse」専用メアド、無料で作成可能に AIが送受信を代理",
+      "outlet": "ITmedia AI+",
+      "region": "domestic",
+      "category": "ai",
+      "score": 57,
+      "tier": "spare",
+      "pubDate": "2026-11-20T07:52:48.000Z",
+      "body": null,
+      "summary": "Metaは11月20日（日本時間）、AIエージェント（利用者に代わって作業を行うAI）「Muse」専用のメールアドレスを、無料ユーザーを含む全ユーザーが取得できるようになったと発表した。Museにメールの送受信を任せることができ、レストランの予約や複数人の予定調整などに使えるとしている。\n\n作成はサービスにログインし、アバターをタップして「メール」タブに移動するか、Museに直接話しかけて行う。メールアドレスと差出人名を決められるほか、別のメールアドレスを認証すると、そのアドレスからMuseにメールで指示を出せるようになる。\n\nMetaは、Museが予期しない行動を取る場合があるとして、動作を監視し必要に応じて介入するよう注意を促している。Museは9月に発表されたサービスで、日本では10月に提供が始まった。専用メールアドレスは当初、有料ユーザー向けに展開されていた。",
+      "sources": [
+        {
+          "outlet": "ITmedia AI+",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2611/20/2000003372/",
+          "date": "2026-11-20",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "0f50037c76f2",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+      "headline": "テレビやカメラなど、AIでガジェットを改造する動きが広がる",
+      "originalTitle": "The vibe-coding revolution is coming to all the gadgets",
+      "outlet": "The Verge",
+      "region": "overseas",
+      "category": "it",
+      "score": 56,
+      "tier": "spare",
+      "pubDate": "2026-11-22T13:00:00.000Z",
+      "body": null,
+      "summary": "The Vergeのニュースレター「The Stepback」は、AIを使ってガジェットのソフトウェアを改造する動きを取り上げている。記事によると、AIに自然言語で指示してコードを書かせる手法（vibe coding）を機器の改造に応用した「vibe-hacking」が、テレビ、カメラ、音楽機材などに広がっている。記事で挙げられたClaude Codeは米Anthropicが提供するAIコーディング支援ツール、CodexはOpenAIのコード生成ツールである。\n\nきっかけはインドの開発者Gathin Tの体験である。Xiaomi製Android TVの広告や操作画面に不満を持った彼は、Claude Codeに指示し、権限設定とUSBデバッグモードの有効化によって、同じWi-Fiに接続したテレビを操作できるようにした。約1時間半で画面の広告を消し、入力切替を簡単にしたという。その成果をXに投稿して話題になり、改造手順を支援するツールCleanYourTVを立ち上げ、ソフトウェア公開サイトGitHubで人気のリポジトリになった。\n\n記事は、この手法が広がる理由として、多くの機器がAndroidを搭載していることや、隠れたAPI（ソフトウェア同士をつなぐ接続口）やウェブ上にあるファームウェア（機器に組み込まれた基本ソフト）をAIに解析させられることを挙げている。カメラでは定番のファームウェア改造「Magic Lantern」に加え、AIで新たな録画機能や色味を追加する動きがある。音楽機材では安価なM-Vave FM-1向けに、メーカー自身がオープンソースのファームウェアを公開した。ゲーム分野では、Take-Twoの人工知能部門の責任者を務めていたLuke Dickenが、Kotakuの取材で、より強力なDRM（デジタル著作権管理）や配信型への移行が進むとの見方を示したという。\n\n一方で、リスクも指摘されている。ファームウェアを改造すると、機器の保証が無効になることが多く、メーカーのサポートも受けにくい。Fuji X WeeklyのRitchie Roeschは「いつ、どれだけのカメラが永久に使えなくなるかの問題だ」と述べたと記事は引用している。記事は、Gathinがバックアップを取り、外部のLinux環境などのサンドボックスで試すよう勧めている点も伝えている。比較的安全な選択肢として、無線通信機能を備えた小型マイコンモジュールESP32を使った専用機器も広がっており、Metaが「Muse Gadgets」プログラムでこの種の製品の展開を進めていると記事は伝えている。",
+      "sources": [
+        {
+          "outlet": "The Verge",
+          "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+          "date": "2026-11-22",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "3a6032c14ad0",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "science",
+      "url": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
+      "headline": "ウクライナのStarshield機能制限、議会がSpaceXに説明要求",
+      "originalTitle": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
+      "outlet": "Ars Technica",
+      "region": "overseas",
+      "category": "science",
+      "score": 55,
+      "tier": "spare",
+      "pubDate": "2026-11-20T22:16:51.000Z",
+      "body": null,
+      "summary": "SpaceXがウクライナで提供する政府向けの衛星サービス「Starshield」について、性能を制限した判断が誰によるものかが米議会で問題になっている。Ars Technicaによると、マスク氏、SpaceX、国防総省（ペンタゴン）、ホワイトハウスが関与したとする説が報じられている。Himes氏はマスク氏に宛てた書簡で、2026年10月のStarshieldサービスの変更内容と理由、その変更がSpaceXの独自判断か、米政府当局者の指示によるものかを説明するよう求めた。\n\nマスク氏は、Starshieldへのアクセスは米政府当局が管理していると述べる一方、商用のStarlinkの戦争での利用を制限する権利を擁護している。Himes氏は書簡で、ウクライナでのサービス制限への質問に満足のいく答えが得られるまで、SpaceXが開発し政府が所有するシステムへの資金授権を支持し続けることは難しいと記している。民主党は、中間選挙での勝利を受けて来年1月から下院と上院を支配する見通しで、調査にとどまらず行動を取ろうとしている。選択肢には、機密情報の説明会や文書の要求、歳出予算を通じた国防総省などへの資金制限があり、一部の共和党議員も同様の懸念を示している。\n\n背景として、米宇宙軍は今年、ミサイル防衛構想「ゴールデンドーム」を支える宇宙データネットワーク基盤の開発をSpaceXに22億9000万ドルの契約で発注した。SpaceXは米国家偵察局（NRO）向けの情報収集衛星の開発も手がけており、これらが議会の監視対象になる可能性があると記事は伝えている。記事は、他社が代替できない能力を持つSpaceXとの関係を政府が断つ可能性は低いとする一方、民主党が従来は政府の領分だった地政学的紛争へのマスク氏の影響力を制限する方向で本気であるとみている。",
+      "sources": [
+        {
+          "outlet": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
+          "date": "2026-11-20",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "80c508e366c6",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2611/21/news003.html",
+      "headline": "AI投資で成果を出す企業は増員も見込む　IDC調査が通説と異なる結果",
+      "originalTitle": "AIで成果を出す企業ほど「人を増やす」？ “通説”を否定する調査結果をIDCが発表",
+      "outlet": "ITmedia AI+",
+      "region": "domestic",
+      "category": "ai",
+      "score": 52,
+      "tier": "spare",
+      "pubDate": "2026-11-21T00:00:00.000Z",
+      "body": null,
+      "summary": "AIの普及で企業の人員や、それに伴うソフトウェアの利用者数が減るという通説があるが、調査会社IDCはこれと食い違う結果を2026年11月17日（現地時間）に公式ブログで公表した。IDCは、AI投資で50％以上のROI（投資収益率）を得ていると回答した組織を「リーダー」と呼び、AIに最も精通している企業と位置付けている。\n\n2026年5月に実施された「Worldwide Future of Work Survey」によると、リーダーの過半数が今後18カ月で自組織の人員が増えると見込んでいる。ROIの水準で分類した3つの組織区分はいずれも一部の人員を削減しているが、リーダーは削減と並行して増員も見込み、その割合は他の区分を上回る。エントリーレベル（初級職）で増員を見込む割合は、リーダーが68％、ROIがまだプラスになっていない「ラガード」が40％、中間の「アチーバー」が51％だった。中間管理職ではリーダーが63％、ラガードが39％、上級管理職ではリーダーが59％、ラガードが36％だった。\n\nリーダーでも人員の削減を見込む割合はどの階層でも12％以下で、中間管理職と上級管理職では3％にとどまる。IDCは、人員の削減と増員は二者択一ではなく、新たに生まれた役割や職責に投資を移す動きの表れだと説明している。同社のレポート「Economic Impact of AI: 2026 Edition」も、AIが主に置き換えるのは労働者ではなく仕事だと結論づけているという。ただし、レイオフの実施や、AIの影響を受けやすい職種でエントリーレベルの採用が減っていることはIDCも認めている。\n\nIDCはIT部門に3つの対応を勧めている。仕事の割り当てを調整する「ワークロードオーケストレーション」の責任者を1人決めること、常勤従業員、外部人材、AIエージェントの3種類の労働力を横断して管理できるかでベンダーを評価すること、AIを前提にした働き方を継続的に見直すことである。AI活用を推進する専門組織CoE（Center of Excellence）が全面稼働していると回答した割合はリーダーが63％、ラガードが15％だった。ガードレール（AIエージェントの動作範囲を制限する仕組み）を設けた上で完全自律稼働させている割合は、リーダーが33％、ラガードが20％で、IDCはガバナンスが先で自律性はその後に続くとしている。",
+      "sources": [
+        {
+          "outlet": "ITmedia AI+",
+          "url": "https://www.itmedia.co.jp/enterprise/articles/2611/21/news003.html",
+          "date": "2026-11-21",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "438851d05313",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "science",
+      "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003362/",
+      "headline": "奈良文化財研究所、地中レーダーや3次元計測・AIで発掘調査の効率化を検討",
+      "originalTitle": "掘らずに地中レーダー探査、AI分析も 奈良文化財研究所が挑む次世代のサイバー考古学",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "science",
+      "score": 52,
+      "tier": "spare",
+      "pubDate": "2026-11-20T03:01:06.000Z",
+      "body": null,
+      "summary": "奈良文化財研究所（奈文研、奈良市）は、少子高齢化や人件費の高騰を背景に発掘調査の方法の見直しを進めている。今春、所内に「フィールドワーク・イノベーション・プロジェクトチーム」を発足させ、3次元計測や人工知能（AI）などの次世代型調査手法の活用を検討している。手法を確立したうえで全国に発信する方針である。\n\n奈文研によると、広さ約1000平方メートルの発掘現場では調査担当者3人程度と作業員10人以上が必要で、作業員は主に民間会社から派遣される。その人件費は十数年前の1.5倍以上になったという。文化庁のまとめでは、各自治体の専門職員は二十数年前の計7000人程度から、近年は約5500人に減っている。\n\n同プロジェクトの「次世代型遺跡調査WG」は、掘らずに遺構を確認する手法の開発に取り組んでいる。9月には、大嘗祭に関わる木簡群が出土した現場近くで地中レーダー探査を実施した。遺構図についても、従来の手描きから撮影・解析による3次元モデルでの記録に移し、情報を余すところなく後世に引き継げるとしている。\n\n奈文研の芝康次郎・考古第二研究室長は、3次元化は情報を可視化するが柱穴同士の組み合わせなどの解釈はできないとして、効率化だけでなく活用のためにどのような記録が適切かを検証する必要があると話している。奈良大の渡辺晃宏教授は、基本は人が遺跡をどう見て表現するかにあり、技術を人から人へ継承することが大事だと述べた。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003362/",
+          "date": "2026-11-20",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "08360187a8fd",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.theverge.com/tech/1038879/off-broadway-love-me-auracast",
+      "headline": "一人芝居「Love Me」、Auracastを使った音響演出で聴覚と自己を描く",
+      "originalTitle": "‘The show is starting soon. Please turn on your headphones.’",
+      "outlet": "The Verge",
+      "region": "overseas",
+      "category": "it",
+      "score": 50,
+      "tier": "spare",
+      "pubDate": "2026-11-22T14:00:00.000Z",
+      "body": null,
+      "summary": "ニューヨーク・ソーホーのSoHo Playhouseで上演された一人芝居「Love Me」は、観客にワイヤード型のヘッドホンを配り、途中から装着させる演出を採用している。作はスタンドアップコメディアンで元『Saturday Night Live』の脚本家ドリュー・マイケルによるもので、演出はプラシャント・ヴェンカタラマヌジャムが務めた。作品は、マイケルの聴覚障害と自己発見を軸に、五つの章で人間関係を描いている。\n\n音響は、Bluetoothを基にして近くの多数の機器に高音質の音声を配信できる技術「Auracast」によって実現している。サウンドデザイナーのダニエル・クルーガーは、劇場のスピーカーとヘッドホンを組み合わせ、耳鳴りや聴力検査の音を場面の合間に挿入した。意図的にこもらせた音と明瞭な音を使い分け、マイケルの聞こえ方を観客に感じさせる構成になっている。\n\nマイケルの内心の独白は、ヘッドホンでは常に明瞭に聞こえる。記事は、聴覚障害をめぐる感情的な場面でヘッドホンを外す演出を特に印象的な瞬間として挙げている。マイケルは、聴覚の喪失を悲劇や欠如とみなす見方に疑問を示し、「問題なのは聴覚障害そのものではなく、それを否定することだ」と話したという。\n\n制作は聴覚障害者の演劇を支援するDeaf West Theatreとの協働によるもので、補聴器や人工内耳向けの配信や字幕付きiPadも用意されている。マイケルは、補聴器技術とろう者としての文化的アイデンティティは対立しているとしたうえで、「技術に反対しているわけではなく、技術とろう者のアイデンティティは分断ではなく結びつくべきだ」と述べている。",
+      "sources": [
+        {
+          "outlet": "The Verge",
+          "url": "https://www.theverge.com/tech/1038879/off-broadway-love-me-auracast",
+          "date": "2026-11-22",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "80b7141652e0",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.watch.impress.co.jp/docs/news/2158347.html",
+      "headline": "TikTok、AI生成の画像・動画を確認する機能と肖像検出機能を提供開始",
+      "originalTitle": "TikTok、画像・動画のAI生成チェック機能を公開 肖像検出も",
+      "outlet": "Impress Watch",
+      "region": "domestic",
+      "category": "ai",
+      "score": 50,
+      "tier": "spare",
+      "pubDate": "2026-11-20T23:30:00.000Z",
+      "body": null,
+      "summary": "TikTokは20日、AI生成コンテンツの透明性と管理を高める二つの新機能を発表した。一つは「透明性確認」機能で、画像や動画をアップロードすると、TikTokのAI作成機能で生成・編集されたものかを確認できる。TikTokアカウントがなくても利用でき、透明性センターからアクセスできる。\n\n判定には、作成履歴などを記録する「コンテンツクレデンシャル」と、TikTok独自の不可視ウォーターマーク技術「VeraDura」を用いる。不可視ウォーターマークは、目に見えない形で埋め込まれる透かしのことである。\n\nもう一つは「肖像検出」機能で、対象となるクリエイターや公人が、自身の肖像を無断で使用した可能性のあるAI生成コンテンツをTikTok上で検出し報告できる。オプトイン型で、政府機関や政治家、政党のアカウントも対象に含まれ、グローバル展開も始まった。利用には第三者パートナーを通じた本人確認と登録が必要で、該当するコンテンツが検出されると通知が届く。該当コンテンツはセーフティチームに直接報告でき、コミュニティガイドラインに違反していれば削除される。\n\nTikTokは、収集するデータを最小限に抑え、本人確認に使った身分証明資料は継続して保持しないとしている。また、これまでにAI生成動画に累計50億本以上のラベルを付与してきたとし、「トピックを管理」機能では「おすすめ」フィードに表示されるAI生成コンテンツの量を調整できるとしている。",
+      "sources": [
+        {
+          "outlet": "Impress Watch",
+          "url": "https://www.watch.impress.co.jp/docs/news/2158347.html",
+          "date": "2026-11-20",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "d0dcdd27eae2",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003369/",
+      "headline": "ドンキのAI社員「近藤あい」が23日正式デビュー 販促POPや動画に登場へ",
+      "originalTitle": "ドンキのAI社員「近藤あい」が正式デビュー 販促POPや動画で活躍へ 運営元「すでに裏に20人ぐらいいる」",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "ai",
+      "score": 49,
+      "tier": "spare",
+      "pubDate": "2026-11-20T06:11:05.000Z",
+      "body": null,
+      "summary": "パン・パシフィック・インターナショナルホールディングス（PPIH）は11月19日、生成AI（文章や画像、動画などを作り出すAI）で制作したAI社員「近藤あい」を11月23日に正式デビューさせると発表した。同日に東京・品川で開催した新商品展示会では、入り口のディスプレイに近藤あいが登場し、来場者を出迎えた。近藤あいは、ドン・キホーテの公式キャラクター「ドンコ」をイメージした、ピンク色の髪とポニーテールが特徴のAIキャラクターで、宣伝担当・公式アンバサダーとして店頭の販促POP（商品の近くに置く販促物）や商品紹介動画、SNSに登場する。7月から試験的な運用を進め、11月23日の勤労感謝の日に正式デビューする。\n\nAI社員を採用する背景には、販促物の制作をめぐる課題がある。手書きPOPを外部のライターに依頼すると完成まで1カ月ほどかかることもあり、有名人を広告に起用すると高額な費用や不祥事のリスクを伴う。近藤あいであれば新商品の紹介動画などを素早く制作でき、タレントの起用に伴う費用やリスクも抑えられるため、販促を「安く、早く」展開できることが導入の大きな狙いだという。一方、広報課の土門辰将氏によると、店頭のPOPやポスターには生成AIをあまり使っていない。土門氏は「ポップにAIを使うと、“うちっぽさ”が薄れてしまう」と話している。\n\n近藤あいの開発には約1年半がかかり、プロデューサー兼マネージャーの長谷部洋平氏によると、制作はアパレル向けにAIファッションモデルを手がけるAI model（東京都港区）が担当した。顔やスタイルには独自の生成AIシステムを使い、動きには動画生成AIの「Seedance」など複数の他社技術を組み合わせたという。性格や仕草、言葉遣いも細かく設定され、「TikTokやSNSをよく見ているが、クレジットカードを持っておらず、リアル店舗で買い物をする10代の女子」を主な対象として研究が重ねられた。PPIHは約40人の社内チームも関わり、若い女性社員の意見も取り入れたとしている。\n\n長谷部氏は「第2の近藤あい」の構想について、「実はすでに裏に20人ぐらいいる」と明かした。ただし、すぐに全員をデビューさせるわけではなく、役員との協議で、まずは1人を育てる方針になったという。現在は近藤あいの活動に注力しており、今後は他のキャラクターも展開していきたい考えである。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003369/",
+          "date": "2026-11-20",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "9c5b1806d47e",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://kn.itmedia.co.jp/kn/article/2611/21/2000003385/",
+      "headline": "AI導入相談でChatGPTの割合が低下、CopilotとGeminiが上回る",
+      "originalTitle": "企業はAIをどう選ぶようになった？ ChatGPT、Copilot、Geminiの勢力図",
+      "outlet": "ITmedia AI+",
+      "region": "domestic",
+      "category": "ai",
+      "score": 46,
+      "tier": "spare",
+      "pubDate": "2026-11-21T05:22:15.000Z",
+      "body": null,
+      "summary": "企業が業務で利用するAIサービスの顔ぶれが変わりつつある。AI導入に関する新規相談を集計した調査によると、2025年に66%だった「ChatGPT」（OpenAIの対話型AI）の割合は、2026年には28%に低下した。一方、「Microsoft Copilot」（マイクロソフトのAIアシスタント）と「Gemini」（グーグルの生成AI）がそれぞれ35%で上回った。記事は、個別のAIサービスを選ぶだけでなく、既存の業務環境に組み込まれたAIを利用する動きも広がっているとしている。\n\nAI導入が停滞する理由では、「使いこなせる人・推進役がいない」が34%で最多となった。記事は、ツールの選択肢が広がる中で、導入を推進する人材や組織体制の整備が課題になっているとしている。\n\n調査は、生成AIの導入コンサルティングなどを提供する東京大学発のAIベンチャー企業AIworkerが行った。2025年5月から2026年11月上旬にかけて受けた新規相談のうち、録画と文字起こしの記録が残る会議を対象に、各会議の冒頭15分を「Claude」（AIモデル）で分類し、その結果をプログラムで集計した。分類できなかった相談は集計対象から除外された。集計は同社に寄せられた相談に基づくもので、日本企業全体の傾向を示すものではない。",
+      "sources": [
+        {
+          "outlet": "ITmedia AI+",
+          "url": "https://kn.itmedia.co.jp/kn/article/2611/21/2000003385/",
+          "date": "2026-11-21",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "265c68ec3a4c",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+      "headline": "『The Binding of Isaac: Repentance Plus』、AI生成の音楽を削除",
+      "originalTitle": "Binding of Isaac developer removes AI music from Repentance Plus",
+      "outlet": "The Verge",
+      "region": "overseas",
+      "category": "it",
+      "score": 45,
+      "tier": "spare",
+      "pubDate": "2026-11-22T17:25:20.000Z",
+      "body": null,
+      "summary": "ゲーム『The Binding of Isaac: Repentance Plus』では、一部でAI生成の音楽が使われていたことが判明し、Steam上で低評価が集中した。Reddit利用者のShweetsStuffが、GTA（グランド・セフト・オート）風のパートで使われていた楽曲を見つけた。音声ファイルには音楽生成AIサービス「Suno」のメタデータが含まれ、Suno上の楽曲と結び付いていたという。制作者のエドマンド・マクミレン氏はXで謝罪し、GTAのパロディ部分で生成AIの音楽が使われていたことは「まったく知らなかった」と主張している。\n\nValveは開発者に対し、開発過程で生成AIをどのように、いつ使ったかを開示するよう求めている。開発元のNicalisは、AI音楽についてどこにも言及していないように見えるという。一方で、Nicalisは発覚から数時間以内にXで、アップデートによって問題の音楽ファイルを削除したと公表した。Steamの評価は依然として「圧倒的に不評」のままで、回復していない。\n\n記事は、マクミレン氏がゲーム開発でのAI利用に批判的で、2024年のTikTok動画ではAIを「uninspired and bland（独創性がなく味気ない）」と評していたことを挙げている。そのため、Xでは同氏に好意的な見方をする声もあると伝えている。",
+      "sources": [
+        {
+          "outlet": "The Verge",
+          "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+          "date": "2026-11-22",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    }
+  ],
+  "essays": [],
+  "productionNote": {
+    "reachedOutlets": [
+      "ITmedia NEWS",
+      "MIT Technology Review",
+      "Impress Watch",
+      "ITmedia AI+",
+      "TechCrunch",
+      "OpenAI",
+      "Ars Technica",
+      "theconversation.com",
+      "The Verge"
+    ],
+    "unreachedOutlets": [],
+    "excluded": [],
+    "counts": {
+      "deep": 0,
+      "brief": 30,
+      "essays": 0,
+      "chars": 23124
+    },
+    "text": "候補87件から30件を掲載。本文が取れず不採用1件。"
+  }
+}
