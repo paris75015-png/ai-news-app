@@ -11,7 +11,7 @@
 | **国際深掘り** | 数日続いた話題を、複数媒体の本文を比べて読み解く | Claude Sonnet 5.5 |
 | **AI日報** | AI・IT・科学技術を広く30件 | Claude Haiku 5.5 |
 
-3系統とも、平日 06:24（日本時間）に Claude の定期実行が起動する1本のワークフロー [`.github/workflows/daily.yml`](.github/workflows/daily.yml) が、上から順に作って公開する。
+3系統とも、平日 02:07（日本時間）に始まる1本のワークフロー [`.github/workflows/daily.yml`](.github/workflows/daily.yml) が、上から順に作って公開する。
 AI は Claude の定額プランの枠で動く（API の課金はない）。2026-10-31 までは Gemini・Groq の無料枠と claude.ai の定期実行を時刻でつないでいたが、
 混雑と時刻のずれで欠号が続いたため、1本にまとめた。
 
@@ -30,7 +30,7 @@ AI日報は国際深掘りの当日分（`public/data/intl.json`）を読み、�
 | 世界の注目度の媒体・採点・資料づくり | `pipeline/attention/` |
 | AI日報の採点基準・カテゴリー・掲載件数・使用モデル | `pipeline/editorial.js` |
 | AI日報の取得元サイト | `pipeline/sources.js` |
-| 実行時刻 | 平日 06:24 JST に Claude の定期実行が `[run]` 付きの空の commit を push して起動。予備は `.github/workflows/daily.yml` の `cron`（UTC表記。06:37 JST = `37 21 * * 0-4`）で、本日分があれば何もしない |
+| 実行時刻 | `.github/workflows/daily.yml` の `cron`（UTC表記。平日 02:07 JST = `7 17 * * 0-4`） |
 | 国際深掘りへの指示 | `pipeline/intl-prompt.md` |
 | データの形 | `src/article.js` |
 
