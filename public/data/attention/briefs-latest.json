@@ -1,97 +1,73 @@
 {
- "date": "2026-11-24",
- "generatedAt": "2026-11-24T03:19:28.511Z",
+ "date": "2026-11-25",
+ "generatedAt": "2026-11-24T21:27:57.344Z",
  "model": "claude-haiku-5-5",
  "measured": {
-  "world": 16,
+  "world": 17,
   "jp": 6
  },
  "articles": [
   {
-   "id": "intl-brief-2026-11-24-s-20261113-28",
+   "id": "intl-brief-2026-11-25-s-20261113-28",
    "stream": "intl",
    "depth": "brief",
    "section": "world",
-   "headline": "エヌビディア、ファン氏のCEO復帰を発表",
-   "originalTitle": "Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal'",
-   "outlet": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+   "headline": "エヌビディアのファン氏CEO復帰、トランプ氏が関与と主張",
+   "originalTitle": "For China, Jensen Huang’s Return to Nvidia Is a Mixed Blessing",
+   "outlet": "New York Times",
+   "url": "https://www.nytimes.com/2026/11/24/world/asia/jensen-huang-nvidia-china.html",
    "region": "overseas",
    "category": null,
-   "score": 38,
+   "score": 33,
    "tier": "should",
-   "pubDate": "2026-11-24T03:19:28.511Z",
+   "pubDate": "2026-11-24T21:27:57.344Z",
    "body": null,
-   "summary": "米半導体大手エヌビディアの取締役会は、ジェンスン・ファン氏をCEOに復帰させると発表した。ファン氏は、別の従業員との不倫疑惑を受けて11月12日に辞任していた。トランプ米大統領は「私が取引をまとめた」と述べ、復帰への関与を強調した。報道では、復帰発表後にエヌビディアの時価総額は約1兆ドル増えたとされる。一方、米議会では共和・民主両党の議員から批判が出ており、調査を求める声も上がっている。",
+   "summary": "米エヌビディアは、取締役会がジェンスン・ファン氏のCEO復帰を決めたと発表した。辞任からわずか2週間後の復帰で、株価は30%超急騰した。トランプ大統領は、復帰の交渉を自分が主導したと主張している。ファン氏は中国へのAI半導体販売を強く推してきた人物で、中国では歓迎の反応が出たと報じられている。一方、共和党の対中強硬派は、政権と同社の関係について民主党とともに調査を求めている。",
    "sources": [
     {
-     "outlet": "BBC",
-     "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
-     "date": "2026-11-24",
+     "outlet": "New York Times",
+     "url": "https://www.nytimes.com/2026/11/24/world/asia/jensen-huang-nvidia-china.html",
+     "date": "2026-11-25",
+     "access": "excerpt",
+     "via": null,
+     "note": "For China, Jensen Huang’s Return to Nvidia Is a Mixed Blessing"
+    },
+    {
+     "outlet": "NPR",
+     "url": "https://www.npr.org/2026/11/24/g-s1-155227/up-first-newsletter-nvidia-jensen-huang-trump-ukraine-russia-jimmy-gomez",
+     "date": "2026-11-25",
      "access": "body",
      "via": null,
-     "note": "Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal'"
+     "note": "Jensen Huang returns to Nvidia. And, Rep. Gomez resigns amid alleged sexual misconduct"
     },
     {
-     "outlet": "New York Times",
-     "url": "https://www.nytimes.com/2026/11/23/world/jensen-huang-return-nvidia-ukraine.html",
-     "date": "2026-11-24",
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-25",
      "access": "excerpt",
      "via": null,
-     "note": "The Return of Jensen Huang"
-    },
-    {
-     "outlet": "Al Jazeera",
-     "url": "https://www.aljazeera.com/economy/2026/11/23/what-nvidias-jensen-huangs-return-means-for-washington-and-wall-street?traffic_source=rss",
-     "date": "2026-11-24",
-     "access": "excerpt",
-     "via": null,
-     "note": "What Nvidia’s Jensen Huang’s return means for Washington and Wall Street?"
-    },
-    {
-     "outlet": "France 24",
-     "url": "https://www.france24.com/en/tv-shows/business/20261123-jensen-huang-reinstated-as-nvidia-ceo",
-     "date": "2026-11-24",
-     "access": "excerpt",
-     "via": null,
-     "note": "Jensen Huang reinstated as Nvidia CEO"
+     "note": "What Jensen Huang's return teaches China's Xi about Trump"
     },
     {
      "outlet": "South China Morning Post",
-     "url": "https://www.scmp.com/tech/tech-war/article/3375539/jensen-huang-returns-nvidia-applause-staff-no-trademark-leather-jacket-sight",
-     "date": "2026-11-24",
+     "url": "https://www.scmp.com/news/china/diplomacy/article/3375631/how-jensen-huangs-nvidia-return-could-deepen-us-rift-over-china-chip-curbs",
+     "date": "2026-11-25",
      "access": "excerpt",
      "via": null,
-     "note": "Jensen Huang returns to Nvidia to applause from staff, no trademark leather jacket in sight"
-    },
-    {
-     "outlet": "Times of India",
-     "url": "https://timesofindia.indiatimes.com/business/international-business/going-to-be-a-better-ceo-second-time-around-jensen-huang-returns-to-nvidia-hq-amid-applause-and-cheers-watch/articleshow/136114108.cms",
-     "date": "2026-11-24",
-     "access": "excerpt",
-     "via": null,
-     "note": "'Going to be a better CEO second time around': Jensen Huang returns to Nvidia HQ amid applause and cheers; watch"
-    },
-    {
-     "outlet": "The Straits Times",
-     "url": "https://www.straitstimes.com/world/united-states/nvidias-board-was-no-match-for-trump-or-jensen-huangs-backers",
-     "date": "2026-11-24",
-     "access": "excerpt",
-     "via": null,
-     "note": "Nvidia’s board was no match for Trump or Jensen Huang’s backers"
+     "note": "How Jensen Huang’s Nvidia return could deepen US rift over China chip curbs"
     },
     {
      "outlet": "Reuters",
      "url": null,
-     "date": "2026-11-24",
+     "date": "2026-11-25",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "At AI speed, Nvidia's Jensen Huang finds exoneration - Reuters"
+     "note": "Nvidia's Huang returns to cheers in China, but political hurdles mount - Reuters"
     },
     {
      "outlet": "Associated Press",
      "url": null,
-     "date": "2026-11-24",
+     "date": "2026-11-25",
      "access": "excerpt",
      "via": "Google ニュース",
      "note": "Nvidia board reinstates Jensen Huang as CEO just days after rejecting his offer to return - AP News"
@@ -99,243 +75,115 @@
     {
      "outlet": "Bloomberg",
      "url": null,
-     "date": "2026-11-24",
+     "date": "2026-11-25",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "Nvidia’s Board Was No Match for Trump or Jensen Huang’s Backers - Bloomberg.com"
+     "note": "Nvidia’s Huang to Host All-Hands Meeting After Return - Bloomberg.com"
     },
     {
      "outlet": "Financial Times",
      "url": null,
-     "date": "2026-11-24",
+     "date": "2026-11-25",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "Jensen Huang’s return is a triumph of money over morals - Financial Times"
+     "note": "Jensen Huang says he still does not believe in succession planning - Financial Times"
+    },
+    {
+     "outlet": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-25/republicans-challenge-trump-over-huang-nvidia-return/107423590",
+     "date": "2026-11-25",
+     "access": "excerpt",
+     "via": null,
+     "note": "Republican China hawks challenge Trump over Huang's Nvidia return"
     }
    ],
    "continuity": {
     "previousDate": "2026-11-13",
     "previousScore": 38,
-    "note": "6日連続で報じられている"
+    "note": "7日連続で報じられている"
    },
    "coverage": {
-    "world": "11/16",
-    "jp": "5/6",
-    "worldTotal": 16,
+    "world": "9/17",
+    "jp": "3/6",
+    "worldTotal": 17,
     "jpTotal": 6,
-    "daysSeen": 6
+    "daysSeen": 7
    },
    "bodyAvailable": true,
    "discussionUrl": null,
    "summarizedBy": "claude-haiku-5-5"
   },
   {
-   "id": "intl-brief-2026-11-24-s-20261110-05",
+   "id": "intl-brief-2026-11-25-s-20261125-04",
    "stream": "intl",
    "depth": "brief",
    "section": "world",
-   "headline": "米、シンガポール企業Megaspeedを輸出規制リストに追加",
-   "originalTitle": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
-   "outlet": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+   "headline": "中国、上海市党委書記の陳吉寧氏を調査対象に",
+   "originalTitle": "China Investigates Chen Jining, Shanghai’s Party Leader, as Xi’s Purges Expand",
+   "outlet": "New York Times",
+   "url": "https://www.nytimes.com/2026/11/24/world/asia/shanghai-party-leader-investigation-china-xi.html",
    "region": "overseas",
    "category": null,
-   "score": 22,
+   "score": 19,
    "tier": "interest",
-   "pubDate": "2026-11-24T03:19:28.511Z",
+   "pubDate": "2026-11-24T21:27:57.344Z",
    "body": null,
-   "summary": "米商務省は、シンガポールのAI関連企業Megaspeedを輸出規制の対象リストに追加すると発表した。同社はデータセンターの開発を主な事業としている。同社の元幹部が、エヌビディアのファン氏と交際しながら中国のスパイとして働いていたとの疑惑が報じられている。中国政府はスパイ容疑を否定した。商務省は、同社が米国製のAIチップを中国に流している疑いについて約2年間調べていたとしている。米企業が同社へ製品を出荷するには、輸出許可が必要になる。",
+   "summary": "中国政府は、上海市共産党委員会書記の陳吉寧氏の調査を始めた。国営放送CCTVが火曜日に報じた。陳氏は党政治局員で、政治局員の失脚は2025年以降で4人目となる。陳氏は技術官僚出身で、習近平指導部の将来の指導者候補と見られていた。ニューヨーク・タイムズは、急な失脚だったと伝えた。FTは、習氏が粛清を強めるなかで上海の有力な党トップが失脚したと報じた。",
    "sources": [
     {
-     "outlet": "BBC",
-     "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
-     "date": "2026-11-24",
-     "access": "body",
-     "via": null,
-     "note": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal"
-    },
-    {
-     "outlet": "Al Jazeera",
-     "url": "https://www.aljazeera.com/economy/2026/11/24/us-adds-megaspeed-firm-at-centre-of-nvidia-scandal-to-export-control-list?traffic_source=rss",
-     "date": "2026-11-24",
-     "access": "body",
-     "via": null,
-     "note": "US adds Megaspeed, firm at centre of Nvidia scandal, to export control list"
-    },
-    {
-     "outlet": "Times of India",
-     "url": "https://timesofindia.indiatimes.com/world/rest-of-world/we-will-not-be-abused-singapore-pm-wong-warns-firms-as-megaspeed-probe-continues/articleshow/136117544.cms",
-     "date": "2026-11-24",
-     "access": "headline",
-     "via": null,
-     "note": "'We will not be abused': Singapore PM Wong warns firms as Megaspeed probe continues"
-    },
-    {
-     "outlet": "The Straits Times",
-     "url": "https://www.straitstimes.com/world/united-states/us-blacklists-megaspeed-chip-firm-linked-to-nvidia-scandal",
-     "date": "2026-11-24",
+     "outlet": "New York Times",
+     "url": "https://www.nytimes.com/2026/11/24/world/asia/shanghai-party-leader-investigation-china-xi.html",
+     "date": "2026-11-25",
      "access": "excerpt",
      "via": null,
-     "note": "US blacklists S’pore-based chip firm Megaspeed linked to Nvidia scandal"
+     "note": "China Investigates Chen Jining, Shanghai’s Party Leader, as Xi’s Purges Expand"
     },
-    {
-     "outlet": "Reuters",
-     "url": null,
-     "date": "2026-11-24",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "US blacklists Megaspeed cloud company linked to Nvidia scandal - Reuters"
-    },
-    {
-     "outlet": "Bloomberg",
-     "url": null,
-     "date": "2026-11-24",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "US Blacklists Megaspeed After Nvidia Spy Scandal - Bloomberg.com"
-    }
-   ],
-   "continuity": {
-    "previousDate": "2026-11-10",
-    "previousScore": 26,
-    "note": "5日連続で報じられている"
-   },
-   "coverage": {
-    "world": "6/16",
-    "jp": "2/6",
-    "worldTotal": 16,
-    "jpTotal": 6,
-    "daysSeen": 5
-   },
-   "bodyAvailable": true,
-   "discussionUrl": null,
-   "summarizedBy": "claude-haiku-5-5"
-  },
-  {
-   "id": "intl-brief-2026-11-24-s-20261124-05",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "world",
-   "headline": "ペリコさん、出版社を提訴へ 本の宣伝に裸の写真",
-   "originalTitle": "Pelicot 'humiliated' after nude photos used to promote book",
-   "outlet": "Sky News",
-   "url": "https://news.sky.com/story/gisele-pelicot-deeply-shocked-after-nude-photos-used-to-promote-book-13615849",
-   "region": "overseas",
-   "category": null,
-   "score": 18,
-   "tier": "interest",
-   "pubDate": "2026-11-24T03:19:28.511Z",
-   "body": null,
-   "summary": "フランスのジゼル・ペリコさんは、書籍の宣伝のために自身の裸の写真が報道機関に送られたとして、出版社と著者を提訴する意向を示した。ペリコさんは「再び屈辱を受けた」と語った。写真は元夫が撮影したものだとフランスのメディアは報じている。出版社のティンバッド社は謝罪し、この本の増刷と宣伝を取りやめると発表した。同社は、性的暴行の画像や動画は送っていないと説明している。",
-   "sources": [
-    {
-     "outlet": "Sky News",
-     "url": "https://news.sky.com/story/gisele-pelicot-deeply-shocked-after-nude-photos-used-to-promote-book-13615849",
-     "date": "2026-11-24",
-     "access": "excerpt",
-     "via": null,
-     "note": "Pelicot 'humiliated' after nude photos used to promote book"
-    },
-    {
-     "outlet": "BBC",
-     "url": "https://www.bbc.co.uk/news/articles/cm3eg502nxw2o?at_medium=RSS&at_campaign=rss",
-     "date": "2026-11-24",
-     "access": "body",
-     "via": null,
-     "note": "Gisèle Pelicot 'humiliated' after nude photos sent to media to promote book"
-    },
-    {
-     "outlet": "France 24",
-     "url": "https://www.france24.com/en/france/20261123-deeply-shocked-gis%C3%A8le-pelicot-sue-publisher-nude-photos-used-book-campaign",
-     "date": "2026-11-24",
-     "access": "excerpt",
-     "via": null,
-     "note": "'Deeply shocked': Gisèle Pelicot to sue publisher after nude photos used in book campaign"
-    },
-    {
-     "outlet": "The Straits Times",
-     "url": "https://www.straitstimes.com/world/europe/gisele-pelicot-shocked-after-publisher-uses-nude-images-in-book-campaign",
-     "date": "2026-11-24",
-     "access": "excerpt",
-     "via": null,
-     "note": "Gisele Pelicot ‘shocked’ after publisher uses nude images in book campaign"
-    }
-   ],
-   "continuity": null,
-   "coverage": {
-    "world": "4/16",
-    "jp": "0/6",
-    "worldTotal": 16,
-    "jpTotal": 6,
-    "daysSeen": 1
-   },
-   "bodyAvailable": true,
-   "discussionUrl": null,
-   "summarizedBy": "claude-haiku-5-5"
-  },
-  {
-   "id": "intl-brief-2026-11-24-s-20261124-01",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "world",
-   "headline": "エヌビディア首脳復帰受け、日韓株が急伸",
-   "originalTitle": "Jensen Huang’s Nvidia return buoys South Korea, Japan stocks",
-   "outlet": "South China Morning Post",
-   "url": "https://www.scmp.com/news/asia/east-asia/article/3375547/jensen-huangs-nvidia-return-buoys-south-korea-japan-stocks",
-   "region": "overseas",
-   "category": null,
-   "score": 16,
-   "tier": "interest",
-   "pubDate": "2026-11-24T03:19:28.511Z",
-   "body": null,
-   "summary": "火曜日の取引開始直後、日本と韓国の株価が大きく上昇した。米国株の大幅高に連動した動きで、ファン氏のエヌビディアCEO復帰を受けてAI関連の取引が再び活発になった。韓国の指標であるコスピは、338.61ポイント高で取引が始まった。米国株は先週の急落の半分ほどを取り戻した。フィナンシャル・タイムズは、エヌビディアの時価総額が約1兆ドル増えたと伝えている。",
-   "sources": [
     {
      "outlet": "South China Morning Post",
-     "url": "https://www.scmp.com/news/asia/east-asia/article/3375547/jensen-huangs-nvidia-return-buoys-south-korea-japan-stocks",
-     "date": "2026-11-24",
+     "url": "https://www.scmp.com/news/china/politics/article/3375640/shanghai-party-chief-faces-corruption-probe",
+     "date": "2026-11-25",
      "access": "excerpt",
      "via": null,
-     "note": "Jensen Huang’s Nvidia return buoys South Korea, Japan stocks"
+     "note": "Shanghai Communist Party chief Chen Jining placed under investigation"
     },
     {
      "outlet": "Reuters",
      "url": null,
-     "date": "2026-11-24",
+     "date": "2026-11-25",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "Asian stocks rally as Huang's Nvidia return revives AI trade - Reuters"
+     "note": "China probes Shanghai party boss Chen Jining, marking fourth Politburo member to fall since 2025 - Reuters"
     },
     {
      "outlet": "Associated Press",
      "url": null,
-     "date": "2026-11-24",
+     "date": "2026-11-25",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "US stocks surge and recover half of last week’s plunge after Jensen Huang returns as Nvidia’s CEO - AP News"
+     "note": "China investigates Politburo member and Shanghai party chief Chen Jining - AP News"
     },
     {
      "outlet": "Bloomberg",
      "url": null,
-     "date": "2026-11-24",
+     "date": "2026-11-25",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "Asian Stocks to Rally as Huang’s Return Revives AI: Markets Wrap - Bloomberg.com"
+     "note": "China Probes Fourth Politburo Member in Major Leadership Shakeup - Bloomberg.com"
     },
     {
      "outlet": "Financial Times",
      "url": null,
-     "date": "2026-11-24",
+     "date": "2026-11-25",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "Nvidia adds nearly $1tn to market value after it reinstates Jensen Huang - Financial Times"
+     "note": "Shanghai’s powerful Communist Party boss toppled as Xi Jinping escalates purge - Financial Times"
     }
    ],
    "continuity": null,
    "coverage": {
-    "world": "5/16",
+    "world": "6/17",
     "jp": "4/6",
-    "worldTotal": 16,
+    "worldTotal": 17,
     "jpTotal": 6,
     "daysSeen": 1
    },
@@ -344,110 +192,88 @@
    "summarizedBy": "claude-haiku-5-5"
   },
   {
-   "id": "intl-brief-2026-11-24-s-20261124-07",
+   "id": "intl-brief-2026-11-25-s-20261123-01",
    "stream": "intl",
    "depth": "brief",
    "section": "world",
-   "headline": "ヒジャブ未着用で歌った歌手らに鞭打ち刑",
-   "originalTitle": "Iranian authorities flog singer who performed without hijab, lawyers say",
-   "outlet": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&at_campaign=rss",
+   "headline": "ウクライナ大統領、リビア沖の露艦攻撃を自国の行為と認める",
+   "originalTitle": "Is Libya a new front in the Ukraine war?",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/inside-story/2026/11/24/is-libya-a-new-front-in-the-ukraine-war?traffic_source=rss",
    "region": "overseas",
    "category": null,
-   "score": 11,
+   "score": 18,
    "tier": "interest",
-   "pubDate": "2026-11-24T03:19:28.511Z",
+   "pubDate": "2026-11-24T21:27:57.344Z",
    "body": null,
-   "summary": "イランで、ヒジャブを着けずに公演した歌手パルストー・アフマディさんら計5人が、コム市で各74回の鞭打ち刑を受けた。弁護士によると、刑は月曜日に執行された。2024年12月に公開された映像をめぐり、わいせつな内容の公表として6月に有罪判決が出ていた。判決では2年間の出国と芸術活動の禁止も言い渡された。国際的な人権団体や西側諸国は、鞭打ちは拷問にあたると批判している。イラン政府は、西側の人権問題を指摘して批判を退けている。",
+   "summary": "ゼレンスキー大統領は、リビア沖でロシアの軍艦を沈めたと主張し、攻撃を自国が行ったと明らかにした。ロシアの制裁対象の貨物船も損傷したという。標的は、リビアのベンガジ港に停泊していた露艦と沖合の貨物船とされる。ロイターは、ウクライナ側がこの攻撃を自衛だと主張していると伝えた。ユーロニュースは、イタリアが内戦再燃への懸念から警戒していると報じた。アルジャジーラは、紛争がリビアに広がる恐れを指摘している。",
    "sources": [
     {
-     "outlet": "BBC",
-     "url": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&at_campaign=rss",
-     "date": "2026-11-24",
+     "outlet": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/inside-story/2026/11/24/is-libya-a-new-front-in-the-ukraine-war?traffic_source=rss",
+     "date": "2026-11-25",
      "access": "body",
      "via": null,
-     "note": "Iranian authorities flog singer who performed without hijab, lawyers say"
+     "note": "Is Libya a new front in the Ukraine war?"
     },
     {
-     "outlet": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/23/iran-flogs-singer-parastoo-ahmadi-for-performing-without-headscarf?traffic_source=rss",
-     "date": "2026-11-24",
-     "access": "body",
+     "outlet": "Euronews",
+     "url": "https://www.euronews.com/2026/11/24/italy-watches-worryingly-as-ukraine-strikes-russian-boats-in-libya",
+     "date": "2026-11-25",
+     "access": "excerpt",
      "via": null,
-     "note": "Iran flogs singer Parastoo Ahmadi for performing without headscarf"
+     "note": "Italy watches worryingly as Ukraine strikes Russian boats in Libya"
+    },
+    {
+     "outlet": "CBS News",
+     "url": "https://www.cbsnews.com/news/ukraine-zelenskyy-2-russian-ships-libya/",
+     "date": "2026-11-25",
+     "access": "excerpt",
+     "via": null,
+     "note": "Zelenskyy says Ukraine sank Russian warship off Libya&#039;s coast"
     },
     {
      "outlet": "Reuters",
      "url": null,
-     "date": "2026-11-24",
+     "date": "2026-11-25",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "Iran carries out flogging of singer and her team, Iranian website says - Reuters"
-    }
-   ],
-   "continuity": null,
-   "coverage": {
-    "world": "3/16",
-    "jp": "0/6",
-    "worldTotal": 16,
-    "jpTotal": 6,
-    "daysSeen": 1
-   },
-   "bodyAvailable": true,
-   "discussionUrl": null,
-   "summarizedBy": "claude-haiku-5-5"
-  },
-  {
-   "id": "intl-brief-2026-11-24-s-20261120-01",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "world",
-   "headline": "英国、ミャンマー軍幹部らに制裁 ジェノサイド認定受け",
-   "originalTitle": "UK sanctions top Myanmar military leaders after Rohingya genocide ruling",
-   "outlet": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/c6wy4ng1rznxo?at_medium=RSS&at_campaign=rss",
-   "region": "overseas",
-   "category": null,
-   "score": 11,
-   "tier": "interest",
-   "pubDate": "2026-11-24T03:19:28.511Z",
-   "body": null,
-   "summary": "英国は、ミャンマー軍の幹部5人に制裁を科すと発表した。国際司法裁判所（ICJ）がミャンマーによるロヒンギャへのジェノサイドを認定したことを受けた措置である。英国は、ミン・アウン・フライン大統領を2021年にすでに制裁対象としていた。ミリバンド外相は、2017年の軍事作戦当時に軍トップだった同大統領が多くの残虐行為に直接責任を負うと述べた。英国はまた、ミャンマーへの航空燃料の供給を止める新法を導入する方針を示した。",
-   "sources": [
+     "note": "Ukraine says attack on Russian ships in Libya was self-defence - Reuters"
+    },
+    {
+     "outlet": "Associated Press",
+     "url": null,
+     "date": "2026-11-25",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "A Russian strike on Ukraine kills 2 and wounds 48 as Kyiv explains its attack in Libya - AP News"
+    },
     {
      "outlet": "BBC",
-     "url": "https://www.bbc.co.uk/news/articles/c6wy4ng1rznxo?at_medium=RSS&at_campaign=rss",
-     "date": "2026-11-24",
-     "access": "body",
-     "via": null,
-     "note": "UK sanctions top Myanmar military leaders after Rohingya genocide ruling"
-    },
-    {
-     "outlet": "South China Morning Post",
-     "url": "https://www.scmp.com/news/world/europe/article/3375529/uk-sanctions-myanmar-president-military-figures-after-genocide-ruling",
-     "date": "2026-11-24",
+     "url": "https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-25",
      "access": "excerpt",
      "via": null,
-     "note": "UK sanctions Myanmar’s Min Aung Hlaing over genocide ruling; giving Rohingya aid, money"
+     "note": "Ukraine shares video of strikes on Russian ships off Libya"
     },
     {
-     "outlet": "New York Times",
-     "url": "https://www.nytimes.com/2026/11/22/world/genocide-myanmar-un-climate-talks.html",
-     "date": "2026-11-24",
+     "outlet": "NPR",
+     "url": "https://www.npr.org/2026/11/23/g-s1-155017/ukraine-attack-russian-warship-libya",
+     "date": "2026-11-25",
      "access": "excerpt",
      "via": null,
-     "note": "A Landmark Genocide Ruling"
+     "note": "Zelenskyy hails Ukraine's attack on a Russian warship docked at a naval base in Libya"
     }
    ],
    "continuity": {
-    "previousDate": "2026-11-20",
-    "previousScore": 38,
+    "previousDate": "2026-11-23",
+    "previousScore": 33,
     "note": "3日連続で報じられている"
    },
    "coverage": {
-    "world": "3/16",
-    "jp": "0/6",
-    "worldTotal": 16,
+    "world": "7/17",
+    "jp": "2/6",
+    "worldTotal": 17,
     "jpTotal": 6,
     "daysSeen": 3
    },
@@ -456,52 +282,304 @@
    "summarizedBy": "claude-haiku-5-5"
   },
   {
-   "id": "intl-brief-2026-11-24-s-20261124-23",
+   "id": "intl-brief-2026-11-25-s-20261125-05",
    "stream": "intl",
    "depth": "brief",
    "section": "world",
-   "headline": "カナダ首相、トランプ氏の物まね芸人と晩餐会で共演",
-   "originalTitle": "Comedian impersonates Trump's dance moves, mocks trade talks at Canada press dinner",
+   "headline": "ファーウェイ、米陪審が有罪評価 恐喝共謀は無罪",
+   "originalTitle": "US court convicts Huawei for deceiving banks about Iran dealings",
+   "outlet": "ABC Australia",
+   "url": "https://www.abc.net.au/news/2026-11-25/huawei-convicted-us-trial-deception-trade-secrets/107423640",
+   "region": "overseas",
+   "category": null,
+   "score": 17,
+   "tier": "interest",
+   "pubDate": "2026-11-24T21:27:57.344Z",
+   "body": null,
+   "summary": "ブルックリンの連邦地裁の陪審は、中国通信大手ファーウェイに対し、起訴された12件中10件で有罪と評価した。有罪は、銀行詐欺や企業秘密窃盗の共謀などに関するものとされる。一方、組織的な犯罪行為を問う恐喝共謀罪は無罪となった。起訴は2019年に発表され、審理は約2か月に及んだ。ファーウェイは、主張には事実の根拠がないと反発し、必要な法的措置を取る方針を示した。",
+   "sources": [
+    {
+     "outlet": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-25/huawei-convicted-us-trial-deception-trade-secrets/107423640",
+     "date": "2026-11-25",
+     "access": "body",
+     "via": null,
+     "note": "US court convicts Huawei for deceiving banks about Iran dealings"
+    },
+    {
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-25",
+     "access": "body",
+     "via": null,
+     "note": "Huawei found guilty of stealing trade secrets but acquitted of racketeering"
+    },
+    {
+     "outlet": "South China Morning Post",
+     "url": "https://www.scmp.com/news/us/article/3375673/huawei-guilty-10-12-counts-after-2-month-battle-us-courtroom",
+     "date": "2026-11-25",
+     "access": "excerpt",
+     "via": null,
+     "note": "Huawei guilty on 10 of 12 counts after months-long battle in US courtroom"
+    },
+    {
+     "outlet": "The Straits Times",
+     "url": "https://www.straitstimes.com/world/united-states/chinas-huawei-convicted-at-us-criminal-trial-stemming-from-iran-business",
+     "date": "2026-11-25",
+     "access": "excerpt",
+     "via": null,
+     "note": "China’s Huawei convicted at US criminal trial stemming from Iran business"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "4/17",
+    "jp": "0/6",
+    "worldTotal": 17,
+    "jpTotal": 6,
+    "daysSeen": 1
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "claude-haiku-5-5"
+  },
+  {
+   "id": "intl-brief-2026-11-25-s-20261125-07",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "world",
+   "headline": "フランシスコ教皇の私的日記、悪魔との遭遇を記す",
+   "originalTitle": "Pope Francis' diary reveals claims he saw the devil three times",
    "outlet": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/cr930y92dyx4o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cm78270l4z7no?at_medium=RSS&at_campaign=rss",
+   "region": "overseas",
+   "category": null,
+   "score": 17,
+   "tier": "interest",
+   "pubDate": "2026-11-24T21:27:57.344Z",
+   "body": null,
+   "summary": "ローマ教皇フランシスコの私的日記の抜粋が、新著『The Private Diary of Pope Francis』で公表された。日記には、教皇が生前に悪魔を3度見たという記述がある。ミサ中の聖歌隊席での出来事なども書かれている。2018年のチリ訪問を悔いる記述もある。日記は1992年から2024年に書かれたもので、2021〜2022年には深い霊的危機を経験したとも記されている。フランシスコ教皇は2025年に死去した。",
+   "sources": [
+    {
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cm78270l4z7no?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-25",
+     "access": "body",
+     "via": null,
+     "note": "Pope Francis' diary reveals claims he saw the devil three times"
+    },
+    {
+     "outlet": "New York Times",
+     "url": "https://www.nytimes.com/2026/11/24/world/europe/pope-francis-diary.html",
+     "date": "2026-11-25",
+     "access": "excerpt",
+     "via": null,
+     "note": "Pope Francis Diary Excerpts Published in New Book"
+    },
+    {
+     "outlet": "Euronews",
+     "url": "https://www.euronews.com/2026/11/24/pope-francis-private-notes-reveal-visions-of-the-devil-and-a-plan-to-allow-married-men-to-",
+     "date": "2026-11-25",
+     "access": "excerpt",
+     "via": null,
+     "note": "Pope Francis' private notes reveal visions of the devil and a plan to allow married men to be priests"
+    },
+    {
+     "outlet": "CBS News",
+     "url": "https://www.cbsnews.com/news/pope-francis-devil-gates-of-hell-visions-diary/",
+     "date": "2026-11-25",
+     "access": "excerpt",
+     "via": null,
+     "note": "Pope Francis had visions of devil, \"gates of hell,\" diary reveals"
+    },
+    {
+     "outlet": "Associated Press",
+     "url": null,
+     "date": "2026-11-25",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Pope Francis' private diary describes a profound spiritual crisis and encounters with the devil - AP News"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "5/17",
+    "jp": "0/6",
+    "worldTotal": 17,
+    "jpTotal": 6,
+    "daysSeen": 1
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "claude-haiku-5-5"
+  },
+  {
+   "id": "intl-brief-2026-11-25-s-20261117-08",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "world",
+   "headline": "米株、エヌビディア急騰後にAI株が売られ反落",
+   "originalTitle": "Live: Wall Street retreats again as AI stocks dumped, ASX set to fall",
+   "outlet": "ABC Australia",
+   "url": "https://www.abc.net.au/news/2026-11-25/asx-markets-business-live-news/107423208",
+   "region": "overseas",
+   "category": null,
+   "score": 13,
+   "tier": "interest",
+   "pubDate": "2026-11-24T21:27:57.344Z",
+   "body": null,
+   "summary": "米株式市場では、エヌビディア株の急騰で月曜に上昇した相場が、AI関連株の売りで反落した。アンソロピックの株価は新規株式公開の価格を下回ったと報じられた。ABCはナスダックの下落を伝えた。ニューヨーク・タイムズは、株価が数日間にわたり大きく振れていると報じた。ブルームバーグは、新たな関税案も浮上したと伝えた。",
+   "sources": [
+    {
+     "outlet": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-25/asx-markets-business-live-news/107423208",
+     "date": "2026-11-25",
+     "access": "body",
+     "via": null,
+     "note": "Live: Wall Street retreats again as AI stocks dumped, ASX set to fall"
+    },
+    {
+     "outlet": "New York Times",
+     "url": "https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html",
+     "date": "2026-11-25",
+     "access": "excerpt",
+     "via": null,
+     "note": "Stock Markets Slip as Nvidia and A.I. Stocks Erase Some of Monday’s Rally"
+    },
+    {
+     "outlet": "Associated Press",
+     "url": null,
+     "date": "2026-11-25",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "US stocks surge and recover half of last week’s plunge after Jensen Huang returns as Nvidia’s CEO - AP News"
+    },
+    {
+     "outlet": "Bloomberg",
+     "url": null,
+     "date": "2026-11-25",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Nasdaq 100 Tumbles as Nvidia Euphoria Fades, New Tariffs Floated - Bloomberg.com"
+    }
+   ],
+   "continuity": {
+    "previousDate": "2026-11-17",
+    "previousScore": 13,
+    "note": "4日連続で報じられている"
+   },
+   "coverage": {
+    "world": "4/17",
+    "jp": "0/6",
+    "worldTotal": 17,
+    "jpTotal": 6,
+    "daysSeen": 4
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "claude-haiku-5-5"
+  },
+  {
+   "id": "intl-brief-2026-11-25-s-20261125-13",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "world",
+   "headline": "イラク首相、クルド地域の油田・国境検問所を連邦管理へ",
+   "originalTitle": "Iraq’s Prime Minister Aims to Wrest More Power from Kurdistan Region",
+   "outlet": "New York Times",
+   "url": "https://www.nytimes.com/2026/11/24/world/middleeast/iraq-prime-minister-kurdistan-control.html",
+   "region": "overseas",
+   "category": null,
+   "score": 12,
+   "tier": "interest",
+   "pubDate": "2026-11-24T21:27:57.344Z",
+   "body": null,
+   "summary": "イラクのアリ・アル・ザイディ首相は、クルド自治区内の油田と国境検問所を連邦当局の管理下に置くよう命じた。石油密輸の取り締まりを強めるなかでの措置とされる。石油省には油田の管理が指示された。ニューヨーク・タイムズは、首相が親イラン民兵組織への象徴的な勝利を収めた後、クルド地域の国境や石油資源への統制を強めていると伝えた。ストレーツ・タイムズは両者の争いの経緯を解説している。",
+   "sources": [
+    {
+     "outlet": "New York Times",
+     "url": "https://www.nytimes.com/2026/11/24/world/middleeast/iraq-prime-minister-kurdistan-control.html",
+     "date": "2026-11-25",
+     "access": "excerpt",
+     "via": null,
+     "note": "Iraq’s Prime Minister Aims to Wrest More Power from Kurdistan Region"
+    },
+    {
+     "outlet": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/iraq-targets-oil-smugglers-orders-kurdish-oilfield-takeover?traffic_source=rss",
+     "date": "2026-11-25",
+     "access": "body",
+     "via": null,
+     "note": "Iraq targets oil smugglers, orders Kurdish oilfield takeover"
+    },
+    {
+     "outlet": "The Straits Times",
+     "url": "https://www.straitstimes.com/world/europe/explainer-what-are-the-disputes-between-iraqs-federal-government-and-kurdistan-region",
+     "date": "2026-11-25",
+     "access": "excerpt",
+     "via": null,
+     "note": "Explainer-What are the disputes between Iraq's federal government and Kurdistan region?"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "3/17",
+    "jp": "0/6",
+    "worldTotal": 17,
+    "jpTotal": 6,
+    "daysSeen": 1
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "claude-haiku-5-5"
+  },
+  {
+   "id": "intl-brief-2026-11-25-s-20261125-11",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "world",
+   "headline": "独報道、ロシアが核弾頭付き衛星の打ち上げを計画か",
+   "originalTitle": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+   "outlet": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
    "region": "overseas",
    "category": null,
    "score": 11,
    "tier": "interest",
-   "pubDate": "2026-11-24T03:19:28.511Z",
+   "pubDate": "2026-11-24T21:27:57.344Z",
    "body": null,
-   "summary": "カナダのカーニー首相は、オタワの報道関係者向け晩餐会で、トランプ米大統領の物まね芸人を舞台に呼んだ。芸人は、米中間選挙で共和党が議会の主導権を失ったことや、米国の報道官人事などを風刺した。貿易交渉についても「素晴らしい合意ができる。障害は私だけだ、私は頭がおかしいから」と冗談を言った。ケベック独立派の野党党首は、トランプ氏を挑発するのは傲慢で愚かだと批判した。両国は関税をめぐって対立しており、通商交渉は8月に決裂していた。",
+   "summary": "ドイツの複数メディアは、ロシアが核弾頭を搭載した衛星を60日以内に打ち上げる計画だと報じた。報道は匿名の独軍・情報機関筋に基づく。衛星は「スプートニクS」と呼ばれ、他国の通信・観測衛星を妨害または破壊する恐れがあるとされる。NATOのルッテ事務総長は、宇宙領域の脅威にも防衛で対応すると述べた。ロシア側は、根拠のない主張だとして否定している。",
    "sources": [
     {
      "outlet": "BBC",
-     "url": "https://www.bbc.co.uk/news/articles/cr930y92dyx4o?at_medium=RSS&at_campaign=rss",
-     "date": "2026-11-24",
+     "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-25",
      "access": "body",
      "via": null,
-     "note": "Comedian impersonates Trump's dance moves, mocks trade talks at Canada press dinner"
+     "note": "Nato chief vows defence against space threat after Russian nuclear satellite reports"
     },
     {
-     "outlet": "The Straits Times",
-     "url": "https://www.straitstimes.com/world/canada-pm-brings-trump-impersonator-on-stage-during-press-gala",
-     "date": "2026-11-24",
+     "outlet": "Deutsche Welle",
+     "url": "https://www.dw.com/en/what-happens-if-a-nuclear-weapon-explodes-in-space/a-80025827?maca=en-rss-en-world-4025-rdf",
+     "date": "2026-11-25",
      "access": "body",
      "via": null,
-     "note": "Canada PM brings Trump impersonator on stage during press gala"
+     "note": "What happens if a nuclear weapon explodes in space?"
     },
     {
-     "outlet": "Associated Press",
-     "url": null,
-     "date": "2026-11-24",
+     "outlet": "France 24",
+     "url": "https://www.france24.com/en/russian-nuclear-satellites-plan-foolhardy-expert-says",
+     "date": "2026-11-25",
      "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Canada’s prime minister roasts Trump with help from a Trump impersonator - AP News"
+     "via": null,
+     "note": "Russian nuclear satellites plan 'foolhardy', expert says"
     }
    ],
    "continuity": null,
    "coverage": {
-    "world": "3/16",
+    "world": "3/17",
     "jp": "0/6",
-    "worldTotal": 16,
+    "worldTotal": 17,
     "jpTotal": 6,
     "daysSeen": 1
    },
@@ -510,52 +588,52 @@
    "summarizedBy": "claude-haiku-5-5"
   },
   {
-   "id": "intl-brief-2026-11-24-s-20261124-03",
+   "id": "intl-brief-2026-11-25-s-20261125-15",
    "stream": "intl",
    "depth": "brief",
    "section": "world",
-   "headline": "米財務省、イランの「影の銀行」網に二十数件の制裁",
-   "originalTitle": "US escalates sanctions on Iran, targets ‘shadow banking’ networks",
-   "outlet": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/23/us-escalates-sanctions-on-iran-targets-shadow-banking-networks?traffic_source=rss",
+   "headline": "ガザの空爆でハマスの治安部門トップが死亡",
+   "originalTitle": "Israeli air strike kills Hamas internal security chief in Gaza",
+   "outlet": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
    "region": "overseas",
    "category": null,
-   "score": 9,
+   "score": 11,
    "tier": "interest",
-   "pubDate": "2026-11-24T03:19:28.511Z",
+   "pubDate": "2026-11-24T21:27:57.344Z",
    "body": null,
-   "summary": "米国とイランの戦争をめぐる外交努力が続くなか、米財務省はイランの国際的な金融活動を妨げるとして、両替所や関連会社など二十数件に制裁を科した。対象は、イラン中央銀行が監督する金融網の関係先である。対象企業には、ドバイに拠点を置く企業が少なくとも8社含まれる。財務省の調査では、2025年1月から2026年8月までにこの網に関連する取引額は147億ドルに上るという。ベッセント財務長官は、制裁対象の金融網を「破綻した体制の最後の金融上の命綱」だと述べた。",
+   "summary": "ガザ地区でイスラエルの空爆があり、ハマスの内部治安部門トップのナイーム・アブ・ナヘル氏が殺害された。ハマス系の内務省などによると、計7人が死亡した。アブ・ナヘル氏は9月に就任したばかりで、前任者は特殊部隊の急襲で拘束されていた。ネタニヤフ首相とカッツ国防相は、同氏を「排除した」と発表した。SCMPは、昨年から停戦が続くなかでの攻撃だと伝えた。",
    "sources": [
     {
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-25",
+     "access": "body",
+     "via": null,
+     "note": "Israeli air strike kills Hamas internal security chief in Gaza"
+    },
+    {
      "outlet": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/23/us-escalates-sanctions-on-iran-targets-shadow-banking-networks?traffic_source=rss",
-     "date": "2026-11-24",
-     "access": "body",
-     "via": null,
-     "note": "US escalates sanctions on Iran, targets ‘shadow banking’ networks"
-    },
-    {
-     "outlet": "The Straits Times",
-     "url": "https://www.straitstimes.com/world/middle-east/us-imposes-sanctions-on-dozens-linked-to-irans-shadow-banking-networks",
-     "date": "2026-11-24",
-     "access": "body",
-     "via": null,
-     "note": "US sanctions alleged Iran ‘shadow-banking’ networks"
-    },
-    {
-     "outlet": "Reuters",
-     "url": null,
-     "date": "2026-11-24",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/senior-hamas-security-official-killed-in-israeli-drone-strikes?traffic_source=rss",
+     "date": "2026-11-25",
      "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "US imposes sanctions on dozens linked to Iran's shadow banking networks - Reuters"
+     "via": null,
+     "note": "Senior Hamas security official killed in Israeli drone strikes"
+    },
+    {
+     "outlet": "South China Morning Post",
+     "url": "https://www.scmp.com/news/world/middle-east/article/3375657/hamas-security-chief-killed-israeli-air-strike-gaza-city",
+     "date": "2026-11-25",
+     "access": "excerpt",
+     "via": null,
+     "note": "Hamas security chief killed in Israeli air strike on Gaza City"
     }
    ],
    "continuity": null,
    "coverage": {
-    "world": "3/16",
+    "world": "3/17",
     "jp": "0/6",
-    "worldTotal": 16,
+    "worldTotal": 17,
     "jpTotal": 6,
     "daysSeen": 1
    },
@@ -564,52 +642,52 @@
    "summarizedBy": "claude-haiku-5-5"
   },
   {
-   "id": "intl-brief-2026-11-24-s-20261124-04",
+   "id": "intl-brief-2026-11-25-s-20261125-22",
    "stream": "intl",
    "depth": "brief",
-   "section": "world",
-   "headline": "トランプ氏、アイオワ州での爆薬爆破を延期",
-   "originalTitle": "Trump postpones US Army plan to detonate toxic explosives in Iowa",
-   "outlet": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/trump-postpones-us-army-plan-to-detonate-toxic-explosives-in-iowa?traffic_source=rss",
+   "section": "gap",
+   "headline": "中国BYD、INEOS仏工場の買収を協議",
+   "originalTitle": "China's BYD in talks to buy French car factory from Ineos Automotive - Reuters",
+   "outlet": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMTVFdHUtZkhnUVF2LW9BQW1HWXUtSnFvUmFaOFN0TkY1RWtqZUx3bTBjY2p2ck5wNGpLT003cnF5dW9zQWRhX0lmcjBMS2dUc2ctdU44YW8wazA3NzkyX1M4SUhkdy1LNlc0bnJRVm1ySTVtUlRnMFJqaEJvR0tqX0w5T0dmdEdadDNfNW91dW16REg2R1BTaHhxODZET2hoSEhVemJRWGdkd0U4OW40QXJxbzRYc1ByX0RHZHpjWQ?oc=5",
    "region": "overseas",
    "category": null,
    "score": 9,
    "tier": "interest",
-   "pubDate": "2026-11-24T03:19:28.511Z",
+   "pubDate": "2026-11-24T21:27:57.344Z",
    "body": null,
-   "summary": "トランプ米大統領は、米陸軍がアイオワ州で計画していた、約5トンのアジ化鉛の爆破をさらに延期したと報じられている。アジ化鉛は有毒とされる爆薬である。ロイター通信も、大統領が爆破を一時停止するよう命じたと伝えた。一方、AP通信は連邦控訴裁が劣化した爆弾用材料の爆破に道を開く判断を示したと報じており、報道の内容には食い違いがある。",
+   "summary": "中国の自動車大手BYDが、ジム・ラトクリフ氏率いるINEOSの自動車部門から、フランスの工場を買収する協議に入ったと報じられた。ロイター、ブルームバーグ、FTが伝えた。FTによると、INEOSは米国での生産体制の変更に絡めて、仏工場の売却を協議している。",
    "sources": [
-    {
-     "outlet": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/trump-postpones-us-army-plan-to-detonate-toxic-explosives-in-iowa?traffic_source=rss",
-     "date": "2026-11-24",
-     "access": "excerpt",
-     "via": null,
-     "note": "Trump postpones US Army plan to detonate toxic explosives in Iowa"
-    },
     {
      "outlet": "Reuters",
      "url": null,
-     "date": "2026-11-24",
+     "date": "2026-11-25",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "Trump orders US Army to pause detonation of lead explosives in Iowa - Reuters"
+     "note": "China's BYD in talks to buy French car factory from Ineos Automotive - Reuters"
     },
     {
-     "outlet": "Associated Press",
+     "outlet": "Bloomberg",
      "url": null,
-     "date": "2026-11-24",
+     "date": "2026-11-25",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "Federal appeals court clears way for US Army to detonate degraded bomb-making material in Iowa - AP News"
+     "note": "BYD in Talks to Buy Ratcliffe’s Ineos Auto Factory in France - Bloomberg.com"
+    },
+    {
+     "outlet": "Financial Times",
+     "url": null,
+     "date": "2026-11-25",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Jim Ratcliffe’s Ineos in talks to sell French car plant to BYD in US production shift - Financial Times"
     }
    ],
    "continuity": null,
    "coverage": {
-    "world": "3/16",
+    "world": "3/17",
     "jp": "0/6",
-    "worldTotal": 16,
+    "worldTotal": 17,
     "jpTotal": 6,
     "daysSeen": 1
    },
@@ -618,290 +696,140 @@
    "summarizedBy": "claude-haiku-5-5"
   },
   {
-   "id": "intl-brief-2026-11-24-s-20261124-06",
+   "id": "intl-brief-2026-11-25-s-20261125-23",
    "stream": "intl",
    "depth": "brief",
-   "section": "world",
-   "headline": "トランプ氏、死刑拡大の大統領令に署名 知事の減刑を批判",
-   "originalTitle": "Trump calls to ‘expedite’ US federal executions, blasts Gavin Newsom",
-   "outlet": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/24/trump-calls-to-expedite-us-federal-executions-blasts-gavin-newsom?traffic_source=rss",
+   "section": "gap",
+   "headline": "地雷被害、2025年は5年来の高水準 ミャンマーとシリアで増加",
+   "originalTitle": "Land mine casualties soar in Syria, two years after war",
+   "outlet": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
    "region": "overseas",
    "category": null,
-   "score": 9,
+   "score": 8,
    "tier": "interest",
-   "pubDate": "2026-11-24T03:19:28.511Z",
+   "pubDate": "2026-11-24T21:27:57.344Z",
    "body": null,
-   "summary": "トランプ米大統領は司法省で演説し、子どもが被害者となる殺人や強姦、人身売買の事件で死刑を求めるよう命じる大統領令に署名した。連邦死刑囚の執行を早めるよう司法長官に求める内容も含む。演説では、カリフォルニア州のニューサム知事が死刑囚548人の刑を減刑したことを批判した。ニューサム知事は、恩赦が商売になっていると非難し、大統領の恩赦権について連邦レベルの改革を求めた。",
+   "summary": "対人地雷禁止国際キャンペーンの報告書によると、2025年の地雷・不発弾による犠牲者は6929人で、5年来の高水準となった。市民が84%を占め、半数が子どもだった。最多はミャンマーの1891人で、3年連続で首位となった。シリアは1602人と前年から50%超増えた。報告書は、戦闘終結後に帰還した住民が被害に遭っていると指摘している。",
    "sources": [
     {
-     "outlet": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/24/trump-calls-to-expedite-us-federal-executions-blasts-gavin-newsom?traffic_source=rss",
-     "date": "2026-11-24",
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-25",
      "access": "body",
      "via": null,
-     "note": "Trump calls to ‘expedite’ US federal executions, blasts Gavin Newsom"
+     "note": "Land mine casualties soar in Syria, two years after war"
     },
     {
-     "outlet": "Times of India",
-     "url": "https://timesofindia.indiatimes.com/world/us/justice-is-not-for-sale-california-governor-newsom-demands-federal-reforms-to-limit-presidential-pardon-powers/articleshow/136117990.cms",
-     "date": "2026-11-24",
+     "outlet": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/24/global-landmine-casualties-hit-a-five-year-high-driven-by-myanmar-syria?traffic_source=rss",
+     "date": "2026-11-25",
      "access": "body",
      "via": null,
-     "note": "‘Justice is not for sale’: Newsom demands federal reforms to limit presidential pardon powers"
+     "note": "Global landmine casualties hit a five-year high, driven by Myanmar, Syria"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "2/17",
+    "jp": "0/6",
+    "worldTotal": 17,
+    "jpTotal": 6,
+    "daysSeen": 1
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "claude-haiku-5-5"
+  },
+  {
+   "id": "intl-brief-2026-11-25-s-20261125-12",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "gap",
+   "headline": "バングラ元首相ハシナ氏、12月16日の帰国を表明",
+   "originalTitle": "Bangladesh's ex-PM Sheikh Hasina says she plans to return on 16 December",
+   "outlet": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/c60rk1yj07xeo?at_medium=RSS&at_campaign=rss",
+   "region": "overseas",
+   "category": null,
+   "score": 6,
+   "tier": "interest",
+   "pubDate": "2026-11-24T21:27:57.344Z",
+   "body": null,
+   "summary": "バングラデシュの元首相シェイク・ハシナ氏が、12月16日に帰国する意向を示した。2024年8月からインドで亡命生活を送っている。ハシナ氏側は、政府に自分をダッカへ搬送するよう求めている。同国のカビール外務担当相は、手錠をかけて連れ戻すことになると反発した。ハシナ氏は昨年、欠席裁判で死刑判決を受けたが、容疑を否認している。",
+   "sources": [
+    {
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/c60rk1yj07xeo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-25",
+     "access": "body",
+     "via": null,
+     "note": "Bangladesh's ex-PM Sheikh Hasina says she plans to return on 16 December"
     },
+    {
+     "outlet": "Associated Press",
+     "url": null,
+     "date": "2026-11-25",
+     "access": "excerpt",
+     "via": "Google ニュース",
+     "note": "Bangladesh’s ousted leader Hasina plans to return home from exile on Dec 16 - AP News"
+    }
+   ],
+   "continuity": null,
+   "coverage": {
+    "world": "2/17",
+    "jp": "0/6",
+    "worldTotal": 17,
+    "jpTotal": 6,
+    "daysSeen": 1
+   },
+   "bodyAvailable": true,
+   "discussionUrl": null,
+   "summarizedBy": "claude-haiku-5-5"
+  },
+  {
+   "id": "intl-brief-2026-11-25-s-20261125-03",
+   "stream": "intl",
+   "depth": "brief",
+   "section": "gap",
+   "headline": "ベネズエラ、2400億ドルの債務を公表 債務再編に向けて",
+   "originalTitle": "Venezuela moves toward possible debt restructuring with release of economic framework - Reuters",
+   "outlet": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOakxRRS1xODNKVEMzdlowcjUzd2g4amNoV0JSSzdQc0JEUXg1WWxSbGxOaGhYWDZWSlQzeldBelpvUnpXb3g3bHdMUWd4NWhiZFJRZnEtSWU4TDBXS0Q1Q21CWE9QUkxkT2YxYVI5MzlJNkVJS3FRZ3NuMG90Y0JBMFNKRGEtOEhlOUktTVJwU2hoSHVVVW56NXI0ZlZIOHo3TGt0UTc3VnA4VlV5MGZoTmlfS05qQlpQcWpiUWNtSjI?oc=5",
+   "region": "overseas",
+   "category": null,
+   "score": 6,
+   "tier": "interest",
+   "pubDate": "2026-11-24T21:27:57.344Z",
+   "body": null,
+   "summary": "ベネズエラ政府は、約2400億ドルに上る債務の全体像を示す経済の枠組みを公表した。史上例のない規模とされる債務再編を前にした発表である。ロイターは、債務再編の可能性に向けた動きだと伝えた。FTは、歴史的な再編に先立つ債務規模の開示だと報じた。",
+   "sources": [
     {
      "outlet": "Reuters",
      "url": null,
-     "date": "2026-11-24",
+     "date": "2026-11-25",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "Trump criticizes Governor Newsom for commuting California death sentences - Reuters"
-    }
-   ],
-   "continuity": null,
-   "coverage": {
-    "world": "3/16",
-    "jp": "0/6",
-    "worldTotal": 16,
-    "jpTotal": 6,
-    "daysSeen": 1
-   },
-   "bodyAvailable": true,
-   "discussionUrl": null,
-   "summarizedBy": "claude-haiku-5-5"
-  },
-  {
-   "id": "intl-brief-2026-11-24-s-20261123-24",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "gap",
-   "headline": "NATO、ポーランドへ早期警戒機を派遣へ ミサイル着弾受け",
-   "originalTitle": "Russian incursions into NATO territory are increasing",
-   "outlet": "NPR",
-   "url": "https://www.npr.org/2026/11/23/nx-s1-6051013/russian-incursions-into-nato-territory-are-increasing",
-   "region": "overseas",
-   "category": null,
-   "score": 9,
-   "tier": "interest",
-   "pubDate": "2026-11-24T03:19:28.511Z",
-   "body": null,
-   "summary": "ロシアの巡航ミサイル3発が金曜日、ポーランド南東部の農村部に着弾した。けが人はいなかった。ポーランドのトゥスク首相は、これを「意図的な挑発」と非難している。NATOのルッテ事務総長はドイツで、東欧の加盟国を安心させる姿勢を示した。ロイター通信は、NATOが早期警戒システムを積んだ航空機をポーランドに派遣すると伝えた。着弾は、ロシアによるウクライナへの大規模な空爆の最中に起きたとされる。",
-   "sources": [
-    {
-     "outlet": "NPR",
-     "url": "https://www.npr.org/2026/11/23/nx-s1-6051013/russian-incursions-into-nato-territory-are-increasing",
-     "date": "2026-11-24",
-     "access": "body",
-     "via": null,
-     "note": "Russian incursions into NATO territory are increasing"
+     "note": "Venezuela moves toward possible debt restructuring with release of economic framework - Reuters"
     },
     {
-     "outlet": "Reuters",
+     "outlet": "Financial Times",
      "url": null,
-     "date": "2026-11-24",
+     "date": "2026-11-25",
      "access": "excerpt",
      "via": "Google ニュース",
-     "note": "NATO to send early-warning system aircraft to Poland after missiles incident - Reuters"
-    }
-   ],
-   "continuity": {
-    "previousDate": "2026-11-23",
-    "previousScore": 9,
-    "note": "2日連続で報じられている"
-   },
-   "coverage": {
-    "world": "2/16",
-    "jp": "0/6",
-    "worldTotal": 16,
-    "jpTotal": 6,
-    "daysSeen": 2
-   },
-   "bodyAvailable": true,
-   "discussionUrl": null,
-   "summarizedBy": "claude-haiku-5-5"
-  },
-  {
-   "id": "intl-brief-2026-11-24-s-20261124-19",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "gap",
-   "headline": "EU、対ロ制裁案 60銀行をSWIFTから除外へ",
-   "originalTitle": "EU plans sports ban in sweeping new Russia sanctions proposal",
-   "outlet": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/23/eu-plans-sports-ban-in-sweeping-new-russia-sanctions-proposal?traffic_source=rss",
-   "region": "overseas",
-   "category": null,
-   "score": 6,
-   "tier": "interest",
-   "pubDate": "2026-11-24T03:19:28.511Z",
-   "body": null,
-   "summary": "欧州委員会のフォン・デア・ライエン委員長は、ロシアへの第22次制裁パッケージを提案した。提案には、60行の銀行を国際決済網SWIFTから除外する内容が含まれる。暗号資産（仮想通貨）を使った制裁逃れへの対策も盛り込まれた。ロシアのチームや個人選手が国旗の下でEU域内の大会に出場することも禁じる。ウクライナ侵攻から約5年となる中で、経済的圧力を維持することが狙いだという。",
-   "sources": [
-    {
-     "outlet": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/23/eu-plans-sports-ban-in-sweeping-new-russia-sanctions-proposal?traffic_source=rss",
-     "date": "2026-11-24",
-     "access": "body",
-     "via": null,
-     "note": "EU plans sports ban in sweeping new Russia sanctions proposal"
-    },
-    {
-     "outlet": "South China Morning Post",
-     "url": "https://www.scmp.com/news/world/europe/article/3375530/eu-moves-ban-russian-flags-sports-events-under-new-sanctions",
-     "date": "2026-11-24",
-     "access": "excerpt",
-     "via": null,
-     "note": "EU proposes banning Russian flags at sports events under new sanctions"
+     "note": "Venezuela unveils $240bn debt pile ahead of historic restructuring - Financial Times"
     }
    ],
    "continuity": null,
    "coverage": {
-    "world": "2/16",
+    "world": "2/17",
     "jp": "0/6",
-    "worldTotal": 16,
+    "worldTotal": 17,
     "jpTotal": 6,
     "daysSeen": 1
    },
-   "bodyAvailable": true,
-   "discussionUrl": null,
-   "summarizedBy": "claude-haiku-5-5"
-  },
-  {
-   "id": "intl-brief-2026-11-24-s-20261124-18",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "gap",
-   "headline": "国連事務総長、AIの国際的枠組みを1年以内に求める",
-   "originalTitle": "UN chief calls for world to agree on AI oversight within a year",
-   "outlet": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/24/un-chief-calls-for-world-to-agree-on-ai-oversight-within-a-year?traffic_source=rss",
-   "region": "overseas",
-   "category": null,
-   "score": 6,
-   "tier": "interest",
-   "pubDate": "2026-11-24T03:19:28.511Z",
-   "body": null,
-   "summary": "グテレス国連事務総長は、バルバドスでのAI安全サミットで、加盟国に1年以内にAIリスク管理の多国間枠組みをつくるよう求めた。独立した信頼性の高い監視を伴う、原則に基づく枠組みにすべきだとした。グテレス氏の任期は12月に終わる。国連や国際金融、貿易の制度も現実に合わせて改革する必要があると訴えた。AIをめぐっては、米国と中国が主導権争いを続けている。",
-   "sources": [
-    {
-     "outlet": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/24/un-chief-calls-for-world-to-agree-on-ai-oversight-within-a-year?traffic_source=rss",
-     "date": "2026-11-24",
-     "access": "body",
-     "via": null,
-     "note": "UN chief calls for world to agree on AI oversight within a year"
-    },
-    {
-     "outlet": "France 24",
-     "url": "https://www.france24.com/en/americas/20261123-un-chief-antonio-guterres-calls-for-global-ai-safety-framework-within-a-year",
-     "date": "2026-11-24",
-     "access": "excerpt",
-     "via": null,
-     "note": "'Maintain control': UN chief calls for creation of global AI safety framework within a year"
-    }
-   ],
-   "continuity": null,
-   "coverage": {
-    "world": "2/16",
-    "jp": "0/6",
-    "worldTotal": 16,
-    "jpTotal": 6,
-    "daysSeen": 1
-   },
-   "bodyAvailable": true,
-   "discussionUrl": null,
-   "summarizedBy": "claude-haiku-5-5"
-  },
-  {
-   "id": "intl-brief-2026-11-24-s-20261124-20",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "gap",
-   "headline": "トランプ氏、中国が追加で250機のボーイング購入と予想",
-   "originalTitle": "Trump says he expects China to buy another 250 Boeing planes",
-   "outlet": "The Straits Times",
-   "url": "https://www.straitstimes.com/world/united-states/trump-says-he-expects-china-to-buy-another-250-boeing-planes",
-   "region": "overseas",
-   "category": null,
-   "score": 6,
-   "tier": "interest",
-   "pubDate": "2026-11-24T03:19:28.511Z",
-   "body": null,
-   "summary": "トランプ米大統領は、中国がボーイング機を追加で250機購入すると見込んでいると述べた。ボーイングのオートバーグCEOは10月、5月に示された購入計画について、確定注文ではなく関心の表明にすぎないと述べていた。ボーイングの株価は一時4.6%上昇した。中国は5月の首脳会談で最大500機を購入するとの見方もあったが、詳細は明らかになっていない。",
-   "sources": [
-    {
-     "outlet": "The Straits Times",
-     "url": "https://www.straitstimes.com/world/united-states/trump-says-he-expects-china-to-buy-another-250-boeing-planes",
-     "date": "2026-11-24",
-     "access": "body",
-     "via": null,
-     "note": "Trump says he expects China to buy another 250 Boeing planes"
-    },
-    {
-     "outlet": "Reuters",
-     "url": null,
-     "date": "2026-11-24",
-     "access": "excerpt",
-     "via": "Google ニュース",
-     "note": "Trump thinks China will buy another 250 Boeing airplanes - Reuters"
-    }
-   ],
-   "continuity": null,
-   "coverage": {
-    "world": "2/16",
-    "jp": "0/6",
-    "worldTotal": 16,
-    "jpTotal": 6,
-    "daysSeen": 1
-   },
-   "bodyAvailable": true,
-   "discussionUrl": null,
-   "summarizedBy": "claude-haiku-5-5"
-  },
-  {
-   "id": "intl-brief-2026-11-24-s-20261124-12",
-   "stream": "intl",
-   "depth": "brief",
-   "section": "gap",
-   "headline": "バージニア・オレゴン州、SpaceXをGrok問題で提訴",
-   "originalTitle": "US states sue SpaceX over Grok AI’s creation of child sexual abuse material",
-   "outlet": "Al Jazeera",
-   "url": "https://www.aljazeera.com/economy/2026/11/23/us-states-sue-spacex-over-grok-ais-creation-of-child-sexual-abuse-material?traffic_source=rss",
-   "region": "overseas",
-   "category": null,
-   "score": 6,
-   "tier": "interest",
-   "pubDate": "2026-11-24T03:19:28.511Z",
-   "body": null,
-   "summary": "米バージニア州とオレゴン州の司法長官は、イーロン・マスク氏の企業SpaceXを州裁判所に提訴した。訴えは、AIチャットボット「Grok」が性的な画像を生成できる機能を、安全対策を欠いたまま提供したと主張している。同社は「スパイシーモード」を宣伝したとされる。両州は損害賠償や制裁金などを求めている。州が提訴したのは今回が初めてだという。",
-   "sources": [
-    {
-     "outlet": "Al Jazeera",
-     "url": "https://www.aljazeera.com/economy/2026/11/23/us-states-sue-spacex-over-grok-ais-creation-of-child-sexual-abuse-material?traffic_source=rss",
-     "date": "2026-11-24",
-     "access": "body",
-     "via": null,
-     "note": "US states sue SpaceX over Grok AI’s creation of child sexual abuse material"
-    },
-    {
-     "outlet": "South China Morning Post",
-     "url": "https://www.scmp.com/news/world/united-states-canada/article/3375532/us-states-sue-musk-companies-over-flood-sexualised-images-made-ai-chatbot-grok",
-     "date": "2026-11-24",
-     "access": "excerpt",
-     "via": null,
-     "note": "US states sue Musk companies over sexualised images made with Grok"
-    }
-   ],
-   "continuity": null,
-   "coverage": {
-    "world": "2/16",
-    "jp": "0/6",
-    "worldTotal": 16,
-    "jpTotal": 6,
-    "daysSeen": 1
-   },
-   "bodyAvailable": true,
+   "bodyAvailable": false,
    "discussionUrl": null,
    "summarizedBy": "claude-haiku-5-5"
   }
