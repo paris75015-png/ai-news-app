@@ -1,22 +1,402 @@
 {
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "stream": "intl",
   "title": "国際深掘り",
-  "generatedAt": "2026-11-23T07:00:00+09:00",
+  "generatedAt": "2026-11-24T07:00:00+09:00",
   "model": "claude-sonnet-5-5",
   "editorialVersion": 3,
-  "articles": [],
+  "articles": [
+    {
+      "id": "intl-2026-11-24-s-20261123-01",
+      "stream": "intl",
+      "depth": "deep",
+      "section": "followup",
+      "headline": "ベンガジのロシア艦攻撃、ウクライナが関与を表明",
+      "originalTitle": "リビアの港でロシア軍艦が爆発、ドローン攻撃の疑い",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
+      "region": "overseas",
+      "category": null,
+      "score": 26,
+      "tier": "interest",
+      "pubDate": "2026-11-24T07:00:00+09:00",
+      "body": [
+        {
+          "label": "経過",
+          "text": "11月22日（日）未明、リビア東部ベンガジの海軍基地で、ロシア海軍のコルベット「メルクーリー」が爆発した。給油と補給のために寄港していた艦である。リビア東部の当局者は、ウクライナの無人艇による攻撃の疑いがあると説明した。\n\n初日は、犯行声明がなかった。国連リビア支援団は「独立した透明な調査」を求めた。翌23日に、ゼレンスキー大統領が自国の作戦だと表明した。無人艇7隻を使い、コルベットを沈めたという。\n\n世界の注目度は、初日の33から26に下がった。一方、BBCとFrance 24の見出しは、戦争がどこまで広がるかを問う形になった。"
+        },
+        {
+          "label": "各社の見え方",
+          "text": "BBCは、この攻撃を戦争の拡大として読む。モスクワから約2,000マイル離れた港でも安全ではなかった、と書き出す。攻撃を「大胆で成功した」ものと評し、ロシアが「危険なエスカレーション」と呼んだことも伝える。ただし、拡大はすでに起きていたと答え、フィンランド湾の貨物船への攻撃などを並べた。\n\nガーディアンは、初日の記事で「ウクライナの無人艇攻撃の疑い」と見出しに付けた。誰も犯行を主張していない点を明記し、衛星画像で艦の沈没を確認したと書く。力点は危険と拠点の価値にある。別の大陸の民間人や港に影響しうる拡大だとし、ロシアにとってはシリアの基地を失った後の地中海の拠点だと説明した。\n\nユーロニュースは、断定を避けた。ウクライナの関与を示す証拠は公表されていない、と初日の記事に書く。当初の弾薬庫の火災という報道が、艦上の爆発に訂正された経緯も記した。リビア東部政府がロシアと共同調査をする方針も伝える。\n\nAP通信の記事を載せたNPR、CBS、ストレーツ・タイムズは、リビア当局者の説明を軸にする。当局者によれば、無人艇4隻以上が迎撃され、2隻が艦に命中した。ウクライナ保安庁（SBU）は、無人艇を母船から放ったと説明し、「ロシア海軍とその兵站に安全な航路はない」と述べた。\n\nCBSは、ロシア側の反応を足した。ペスコフ報道官は、フィンランド湾での別の攻撃を念頭に「テロ活動の拡大は非常に危険な傾向だ」と述べた。リビアの件では、NPRによると、国防省が適切と判断すれば説明するとだけ答えた。\n\nFrance 24は、討論番組の紹介文しか読めていない。標的として正当か、アフリカへの影響はどうか、という問いを立てている。NYTは抜粋だけで、見出しは「ウクライナの海軍ドローンの到達力」を掲げる。どちらも、全体の論調は言えない。"
+        },
+        {
+          "label": "論点ごとの比較",
+          "text": "沈んだかどうかで、表現が割れた。ゼレンスキー氏は「沈めた」と述べ、ガーディアンも衛星画像から沈没と書く。リビア東部の当局者はAPに「大きく損傷した」と語り、ユーロニュースも「広範な損傷」と書く。\n\n貨物船の名前も違う。ゼレンスキー氏とCBS、NPRは「アンガラ」、ガーディアンは「アスカロン」と書く。ストレーツ・タイムズは、マルタ船籍の商船とだけ伝える。同じ船かどうかは、資料からは断定できない。\n\n距離の物差しも違う。NPRとCBSは前線から約2,400キロとする。BBCはモスクワから約2,000マイル、ガーディアンはウクライナ南部から1,000マイル超とする。基準点が異なるため、数字は並べて比べられない。\n\n負傷者は、ユーロニュースが「死傷者の報告なし」とした。APは、当局者の話として少なくとも10人が負傷したと伝える。"
+        },
+        {
+          "label": "視点の差",
+          "text": "見出しだけの媒体にも差がある。ロイターとブルームバーグは、リビア東部政府の見立てを主語に置く。AP通信の翌日の見出しは、ゼレンスキー氏の称賛を主語にする。これは見出しの言葉の違いとしてだけ言える。\n\n本文では、BBCが評価、ガーディアンが危険、ユーロニュースが事実の未確定を前に出した。なぜ差が出たのかは、資料からは断定できない。\n\nここは推測。初日と2日目の差は、情報源の差によるとみられる。2日目に当事者が名乗り出たため、各社が「疑い」から「作戦」へ書き方を変えた可能性が高い。"
+        }
+      ],
+      "summary": null,
+      "sources": [
+        {
+          "outlet": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-24",
+          "access": "body",
+          "via": null,
+          "note": "SBUと軍が連携した攻撃を戦争の拡大として論じ、国連リビア支援団の懸念を伝えた"
+        },
+        {
+          "outlet": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
+          "date": "2026-11-23",
+          "access": "body",
+          "via": null,
+          "note": "初日に犯行主張なしと明記し、衛星画像で沈没を確認と報じた"
+        },
+        {
+          "outlet": "Euronews",
+          "url": "https://www.euronews.com/2026/11/22/suspected-drone-strike-hits-russian-ship-at-libyas-benghazi-port-raising-regional-security",
+          "date": "2026-11-23",
+          "access": "body",
+          "via": null,
+          "note": "ウクライナの関与を示す証拠は公表されていないと書き、東部政府の共同調査方針を伝えた（本文は末尾が欠落）"
+        },
+        {
+          "outlet": "Associated Press",
+          "url": "https://www.npr.org/2026/11/23/g-s1-155017/ukraine-attack-russian-warship-libya",
+          "date": "2026-11-24",
+          "access": "body",
+          "via": "NPR",
+          "note": "ゼレンスキー氏の表明、リビア当局者の説明（2隻命中、10人以上負傷）、SBUの説明を伝えた"
+        },
+        {
+          "outlet": "CBS News",
+          "url": "https://www.cbsnews.com/news/ukraine-zelenskyy-2-russian-ships-libya/",
+          "date": "2026-11-24",
+          "access": "body",
+          "via": null,
+          "note": "AP配信を基にペスコフ報道官のフィンランド湾の件への発言を加えた"
+        },
+        {
+          "outlet": "Associated Press",
+          "url": "https://www.straitstimes.com/world/europe/libyas-eastern-government-suspects-drone-attack-caused-explosion-on-russian-ship-at-benghazi-port",
+          "date": "2026-11-23",
+          "access": "body",
+          "via": "The Straits Times",
+          "note": "初日にリビア東部当局者が語った内容を伝えた"
+        },
+        {
+          "outlet": "France 24",
+          "url": "https://www.france24.com/en/tv-shows/the-debate/20261123-how-far-will-ukraine-war-spread-kyiv-targets-russian-vessels-in-libya",
+          "date": "2026-11-24",
+          "access": "body",
+          "via": null,
+          "note": "読めたのは討論番組の紹介文のみ。標的の正当性と戦争の波及を問う"
+        },
+        {
+          "outlet": "New York Times",
+          "url": "https://www.nytimes.com/2026/11/23/world/europe/ukraine-libya-russian-ships.html",
+          "date": "2026-11-24",
+          "access": "excerpt",
+          "via": null,
+          "note": "ゼレンスキー氏が、特殊部隊が関与した攻撃でコルベットを沈めたと述べたと抜粋にある"
+        },
+        {
+          "outlet": "Reuters",
+          "url": null,
+          "date": "2026-11-23",
+          "access": "headline",
+          "via": null,
+          "note": "見出しの主語はリビア東部政府"
+        },
+        {
+          "outlet": "Bloomberg",
+          "url": null,
+          "date": "2026-11-23",
+          "access": "headline",
+          "via": null,
+          "note": "見出しは「東リビア、艦上の爆発は攻撃の可能性が高いと説明」"
+        }
+      ],
+      "continuity": {
+        "previousDate": "2026-11-23",
+        "previousScore": 33,
+        "note": "初日は犯行主体が不明な爆発だった。2日目にウクライナ大統領が自国の作戦と表明し、リビア・国連・ロシアの反応が出て、話題の性格が変わった。"
+      },
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-sonnet-5-5",
+      "coverage": {
+        "world": "6/16",
+        "jp": "1/6",
+        "daysSeen": 2
+      }
+    },
+    {
+      "id": "intl-2026-11-24-s-20261123-03",
+      "stream": "intl",
+      "depth": "deep",
+      "section": "followup",
+      "headline": "米下院、民主党が1992年並みの258議席",
+      "originalTitle": "米下院、民主党が1992年以来の大勝",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
+      "region": "overseas",
+      "category": null,
+      "score": 12,
+      "tier": "interest",
+      "pubDate": "2026-11-24T07:00:00+09:00",
+      "body": [
+        {
+          "label": "経過",
+          "text": "米中間選挙の下院で、民主党が11月22日（日）に258議席に達した。ノースカロライナ州第5区で、民主党のチャック・ハバード氏が共和党のバージニア・フォックス下院議員を破った。差は330票で、再集計を経て決まった。\n\n258は、クリントン氏が当選した1992年と並ぶ数である。未確定は4議席で、ミネソタとテネシーに1議席ずつ、ルイジアナに2議席ある。ルイジアナの2議席は、12月12日の決選投票で決まる。\n\n上院は、民主党が56議席で全選挙区が決着した。世界の注目度は、初日の23から12へ下がった。24日付のアルジャジーラは、勝った後の動きを解説する記事を出した。"
+        },
+        {
+          "label": "各社の見え方",
+          "text": "BBCは、一つの選挙区の決着から書き起こした。ハバード氏は2年前に9ポイント差で敗れていた。当選後は「国民は変化を望んだ」と語り、トランプ氏の責任を問う姿勢を示した。未確定のテネシー第4区とミネソタ第1区は、いずれも数百票以内の差だと数える。トランプ大統領とバンス副大統領が、イラン戦争によるインフレを敗因とみる発言をしたことも伝える。\n\nAP通信の記事を載せたFrance 24、SCMP、ABC、ストレーツ・タイムズは、規模と圧力を前に出す。議席の増加は44で、2018年の40を上回る。ジェフリーズ氏は、民主党議員が数十人造反しても法案を通せる、と書く。\n\n同じ記事は、党内の声を並べる。クロウ議員は「プレッシャーを感じて当然だ」と述べた。オカシオコルテス議員は「変化への負託」と呼び、穏健派のスオッジ議員は、時間の75%を物価対策に使うべきだと語った。ホワイトハウスは、調査が「明白な犯罪行為」になりうると警告した。\n\nアルジャジーラは、解説記事として書く。有権者の不満として、生活費、米イスラエルのイラン戦争、強硬な移民摘発、汚職を挙げる。テキサスやミシシッピなど共和党優勢の州でも勝ったと記した。党内では、戦争を止める手段への期待を穏健派が抑えている、と進歩派が批判している。\n\nアルジャジーラは、ジェフリーズ氏が24日に、エヌビディアの調査を「迅速で徹底的」に行うと述べたことも伝える。トランプ氏の動きも追う。選挙から1週間以内に、ミラー氏を首席補佐官に指名した。そこから、方針転換の兆しはほとんどないと読む。\n\nNPRは、朝のニュースレターの一項目として得票に注目した。下院選の得票は民主党56%、共和党42%で、差の14ポイントは50年で最大だという。ユーロニュースは、APの内容を短くまとめ、共和党は最大177議席と書く。"
+        },
+        {
+          "label": "論点ごとの比較",
+          "text": "大勝の物差しが違う。BBCとAPは、258議席が1992年以来だと言う。NPRは、得票率の差14ポイントが50年で最大だと言う。議席と得票は別の尺度である。\n\n共和党の議席数も、書き方が分かれた。BBC、AP、アルジャジーラは「173議席以上」、ユーロニュースは「177議席以下」と書く。435から258を引くと177になる。未確定の4議席の扱いの違いと読める。\n\n敗因の挙げ方も違う。APは高い物価、イラン戦争、汚職の3つを挙げ、アルジャジーラは移民摘発を加える。BBCは、トランプ氏とバンス氏がイラン戦争のインフレを敗因とみたと伝える。\n\n次の一手でも差がある。APは、メディケイド削減の撤回と、失効した医療保険の税額控除の復活を挙げる。アルジャジーラは、富裕層の減税の見直し、イラン戦争の終結、エヌビディアの調査を加える。"
+        },
+        {
+          "label": "視点の差",
+          "text": "アルジャジーラだけが、イラン戦争の終結を民主党の課題として扱った。AP系とBBCの本文は、戦争を有権者の不満の理由として挙げるにとどまる。\n\nNPRは議席ではなく得票で書き、BBCは一つの接戦区を描いた。各社がなぜその切り口を選んだのかは、資料からは断定できない。\n\nここは推測。アルジャジーラが戦争を厚く書くのは、読者の関心が中東にあるためかもしれない。"
+        }
+      ],
+      "summary": null,
+      "sources": [
+        {
+          "outlet": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-23",
+          "access": "body",
+          "via": null,
+          "note": "ハバード氏がフォックス氏に330票差で勝ったこと、残る接戦区、トランプ氏とバンス氏のインフレ発言を伝えた"
+        },
+        {
+          "outlet": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/24/what-could-democrats-do-with-their-expanding-congressional-majority?traffic_source=rss",
+          "date": "2026-11-24",
+          "access": "body",
+          "via": null,
+          "note": "勝利後の動きの解説。イラン戦争の終結、エヌビディアの調査、ミラー氏の人事を扱う"
+        },
+        {
+          "outlet": "NPR",
+          "url": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31",
+          "date": "2026-11-24",
+          "access": "body",
+          "via": null,
+          "note": "下院選の得票は民主56%、共和42%で、差14ポイントは50年で最大と伝えた"
+        },
+        {
+          "outlet": "Associated Press",
+          "url": "https://www.france24.com/en/americas/20261122-democrat-hubbard-wins-north-carolina-recount-clinching-historic-house-majority",
+          "date": "2026-11-23",
+          "access": "body",
+          "via": "France 24",
+          "note": "44議席増、1992年と並ぶ258議席、党内の声、ホワイトハウスの警告を伝えた"
+        },
+        {
+          "outlet": "Associated Press",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3375405/us-democrats-clinch-historic-house-majority-least-258-seats-largest-1992",
+          "date": "2026-11-23",
+          "access": "body",
+          "via": "South China Morning Post",
+          "note": "同じAP記事"
+        },
+        {
+          "outlet": "Associated Press",
+          "url": "https://www.abc.net.au/news/2026-11-23/democrats-house-majority-midterm-elections/107415390",
+          "date": "2026-11-23",
+          "access": "body",
+          "via": "ABC Australia",
+          "note": "同じAP記事"
+        },
+        {
+          "outlet": "Associated Press",
+          "url": "https://www.straitstimes.com/world/united-states/us-democrats-clinch-a-historic-house-majority-of-at-least-258-seats-the-largest-since-1992",
+          "date": "2026-11-23",
+          "access": "body",
+          "via": "The Straits Times",
+          "note": "同じAP記事"
+        },
+        {
+          "outlet": "Euronews",
+          "url": "https://www.euronews.com/2026/11/22/midterms-us-democrats-secure-biggest-house-majority-in-decades",
+          "date": "2026-11-23",
+          "access": "body",
+          "via": null,
+          "note": "APの内容を短くまとめ、共和党は最大177議席と書いた"
+        }
+      ],
+      "continuity": {
+        "previousDate": "2026-11-23",
+        "previousScore": 23,
+        "note": "初日は258議席への到達と数字の確定が中心だった。2日目は、議席の確定後に民主党が何をするか、トランプ氏とホワイトハウスがどう応じるかへ焦点が移った。"
+      },
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-sonnet-5-5",
+      "coverage": {
+        "world": "3/16",
+        "jp": "0/6",
+        "daysSeen": 2
+      }
+    },
+    {
+      "id": "intl-2026-11-24-s-20261123-07",
+      "stream": "intl",
+      "depth": "deep",
+      "section": "followup",
+      "headline": "麻薬王拘束に米無人機の支援、メキシコが説明",
+      "originalTitle": "メキシコで麻薬組織幹部を拘束、銃撃戦で死者",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+      "region": "overseas",
+      "category": null,
+      "score": 12,
+      "tier": "interest",
+      "pubDate": "2026-11-24T07:00:00+09:00",
+      "body": [
+        {
+          "label": "経過",
+          "text": "11月20日（金）夜、メキシコ北西部シナロア州のグアサベで、特殊部隊が麻薬組織の幹部を拘束した。ファウスト・イシドロ・メサ・フローレス容疑者で、通称「チャポ・イシドロ」である。米連邦捜査局（FBI）の最重要指名手配10人に入っていた。\n\n作戦の最中に銃撃戦が起き、国防省は兵士4人と襲撃者7人が死亡したと発表した。組織側は、路上で車を燃やして封鎖した。メキシコ政府は、米国の情報支援があったと説明した。\n\n23日（月）には、米国が無人偵察機を飛ばして支援していたと、メキシコ当局が明らかにした。世界の注目度は、初日の30から12へ下がった。続報の中心は、米国の関与の中身に移った。"
+        },
+        {
+          "label": "各社の見え方",
+          "text": "BBCは、事実の整理に徹した。容疑者を含む8人を拘束し、うち3人をメキシコ市へ移送したと書く。通称「グアサベ・カルテル」の指導者で、1990年代から活動しながら、目立たずに逃れてきた人物だという。米国が引き渡しを求めている点と、米領事館が住民に屋内待機を促した点も載せた。\n\nガーディアンは、現場の混乱を描く。野球の試合中に観客が銃撃から逃げ、車が燃えたと伝える。ナンバー2とされる人物と、資金担当とされる人物も拘束されたと書く。土曜には暴力がほぼ収まった、という州当局の説明も載せた。\n\nドイツのDWは、トランプ大統領がメキシコ領内での軍事行動も警告してきた点を置く。グアサベの映像は未確認だと断り、報復の暴力は拘束の後に起きたようだと慎重に書く。\n\nNPR（AP配信）は、住民の声を厚く入れる。地元記者は「街のあちこちで戦闘が起きた」と語り、消防士は人々が店に身を潜めたと話した。治安アナリストのサウセド氏は、これは米国の圧力の産物で、組織の網は無傷のままだと指摘する。\n\nCBS（AFP配信）は、米政府側の発言を並べる。駐メキシコ大使は「戦略的な情報共有」が作戦を可能にしたと述べた。ブランチ司法長官は、国土安全保障タスクフォースを含む省庁横断の取り組みだと投稿した。米司法省は、容疑者をシナロア・カルテルの幹部と呼んだ。\n\nロイター（ストレーツ・タイムズ掲載）は、解説に徹する。狙いは「キングピン戦略」で、指導者を捕らえて組織を弱める手法だという。2008年以降の逮捕と殺害のたびに、後継争いが起きてきた歴史を並べた。\n\n月曜のFrance 24（AP配信）は、米国の無人機に焦点を移す。国防相は、3か月の情報共有の末に、直前の週に米国の偵察飛行を許可したと述べた。シェインバウム大統領は、米軍の地上での活動は認めていないと強調した。"
+        },
+        {
+          "label": "論点ごとの比較",
+          "text": "死者の数は、日付で変わった。BBCやDWは、初日に11人（兵士4人、襲撃者7人）と書く。月曜の国防相の発言を伝えるCBSは、容疑者16人と兵士4人とする。France 24は、グアサベで計20人が死亡したと書く。\n\n拘束の数も食い違う。BBCは本人を含む8人、ガーディアンも8人（メキシコ市に3人、クリアカンに5人）とする。CBSは日曜に別の8人を拘束としたが、France 24は本人と組織の16人と書く。数え方の違いか増加かは、資料からは断定できない。\n\n組織の呼び方も分かれる。米司法省はシナロア・カルテルの幹部とし、メキシコ国防省はベルトラン・レイバ組織の指導者とする。ロイターは、同組織がシナロアの元同盟で、後に最大級の敵になったと書く。\n\n米国の関与は、日を追って具体的になった。初日は「情報の連携」とだけ説明された。月曜に、無人偵察機の飛行がメキシコの許可の下で行われたと明かされた。"
+        },
+        {
+          "label": "視点の差",
+          "text": "米国側は、自国の支援を前面に出した。大使と司法長官の発言は、いずれも協力の成果を強調する。メキシコ側は、自国軍の能力を強調し、米軍の地上活動を否定した。\n\nNPRとFrance 24（ともにAP）、ロイターは、いずれも「キングピン戦略」の限界を指摘する。拘束を成果として伝えつつ、後継争いによる暴力の拡大を警告する点が共通する。\n\nここは推測。米国が無人機の詳細に答えなかったのは、作戦の機微のためかもしれない。メキシコ側が許可の手続きを強調するのは、主権をめぐる国内の批判を意識したものかもしれない。"
+        }
+      ],
+      "summary": null,
+      "sources": [
+        {
+          "outlet": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-23",
+          "access": "body",
+          "via": null,
+          "note": "容疑者を含む8人の拘束、死者11人、米国の引き渡し要求、米領事館の警戒を伝えた"
+        },
+        {
+          "outlet": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested",
+          "date": "2026-11-23",
+          "access": "body",
+          "via": null,
+          "note": "野球場での混乱、ナンバー2らの拘束、土曜に暴力が収まったという州当局の説明を伝えた"
+        },
+        {
+          "outlet": "Deutsche Welle",
+          "url": "https://www.dw.com/en/mexican-special-forces-arrest-drug-kingpin-chapo-isidro/a-80010745?maca=en-rss-en-world-4025-rdf",
+          "date": "2026-11-23",
+          "access": "body",
+          "via": null,
+          "note": "トランプ氏の軍事行動の警告と、未確認映像だという断りを伝えた"
+        },
+        {
+          "outlet": "Associated Press",
+          "url": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained",
+          "date": "2026-11-23",
+          "access": "body",
+          "via": "NPR",
+          "note": "住民の証言と、治安アナリストの「米国の圧力の産物」という指摘を伝えた"
+        },
+        {
+          "outlet": "AFP",
+          "url": "https://www.cbsnews.com/news/chapo-isidro-capture-violence-arrests-mexico/",
+          "date": "2026-11-24",
+          "access": "body",
+          "via": "CBS News",
+          "note": "米大使と司法長官の発言、司法省の呼称、日曜の8人拘束を伝えた"
+        },
+        {
+          "outlet": "Reuters",
+          "url": "https://www.straitstimes.com/world/explainer-mexico-nabs-yet-another-top-drug-lord-but-history-of-kingpin-strategy-mixed",
+          "date": "2026-11-24",
+          "access": "body",
+          "via": "The Straits Times",
+          "note": "キングピン戦略の歴史と、シナロアの後継争いを解説した"
+        },
+        {
+          "outlet": "Associated Press",
+          "url": "https://www.france24.com/en/americas/20261124-us-flew-surveillance-drone-over-mexico-to-help-capture-top-drug-lord",
+          "date": "2026-11-24",
+          "access": "body",
+          "via": "France 24",
+          "note": "米無人偵察機の飛行、死者20人、組織の16人の拘束、シェインバウム大統領の説明を伝えた"
+        },
+        {
+          "outlet": "New York Times",
+          "url": "https://www.nytimes.com/2026/11/22/world/americas/mexico-us-cartel-arrests.html",
+          "date": "2026-11-24",
+          "access": "excerpt",
+          "via": null,
+          "note": "抜粋は、メキシコが麻薬戦争で新たな段階に入りうるという専門家の見方を示す"
+        },
+        {
+          "outlet": "Sky News",
+          "url": "https://news.sky.com/story/suspected-cartel-leader-el-chapo-isidro-from-fbi-most-wanted-list-captured-in-mexico-13614689",
+          "date": "2026-11-23",
+          "access": "excerpt",
+          "via": null,
+          "note": "抜粋は、少なくとも11人が死亡したと伝える"
+        }
+      ],
+      "continuity": {
+        "previousDate": "2026-11-23",
+        "previousScore": 30,
+        "note": "初日は拘束と銃撃戦の速報だった。2日目以降は、米国の無人偵察機の関与、死者の増加、キングピン戦略の評価へ焦点が移った。"
+      },
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-sonnet-5-5",
+      "coverage": {
+        "world": "4/16",
+        "jp": "0/6",
+        "daysSeen": 2
+      }
+    }
+  ],
   "essays": [],
   "productionNote": {
-    "reachedOutlets": ["South China Morning Post", "The Straits Times"],
-    "unreachedOutlets": ["Reuters", "Financial Times", "Bloomberg"],
-    "excluded": [
-      {
-        "topic": "ベッセント財務長官、エヌビディアに社外CEOを要求（s-20261116-14）",
-        "reason": "本文を読めた2媒体（SCMP、Straits Times）は、どちらもReuters配信の同一記事。独立した本文は1媒体で、方針により見送り。Reuters・FT・Bloombergは見出しのみ"
-      }
+    "reachedOutlets": [
+      "BBC",
+      "The Guardian",
+      "Euronews",
+      "Associated Press",
+      "CBS News",
+      "France 24",
+      "Al Jazeera",
+      "NPR",
+      "Deutsche Welle",
+      "AFP",
+      "Reuters"
     ],
-    "counts": { "deep": 0, "brief": 0, "essays": 0, "chars": 0 },
-    "text": "本日の資料は1件。資料上の本文は2件だが、同じ通信社の同一記事のため独立した本文は1媒体と数える。各社の見え方は比較できないので、深掘りは書かなかった。"
+    "unreachedOutlets": [
+      "Bloomberg",
+      "Sky News",
+      "New York Times"
+    ],
+    "excluded": [],
+    "counts": {
+      "deep": 3,
+      "brief": 0,
+      "essays": 0,
+      "chars": 4862
+    },
+    "text": "資料は3件、すべて書いた。リビア：独立した本文はBBC、ガーディアン、ユーロニュース、AP系（NPR・CBS・ストレーツ・タイムズ）の4。France 24は番組紹介文のみ。NYTは抜粋、アルジャジーラ・ロイター・ブルームバーグは見出しのみ。米下院：BBC、アルジャジーラ、NPR、AP系（France 24・SCMP・ABC・ストレーツ・タイムズ）の4。ユーロニュースはAPの要約に近く別に数えない。メキシコ：AP系（NPR・France 24）、AFP（CBS）、ロイター（ストレーツ・タイムズ）、BBC、ガーディアン、DWの6。NYTとSkyは抜粋のみ。いずれも日本が当事者ではなく、日本との関わりの節は置かなかった。"
   }
 }

@@ -1,0 +1,992 @@
+{
+  "date": "2026-11-24",
+  "stream": "ai",
+  "title": "AI日報",
+  "generatedAt": "2026-11-24T03:34:30.433Z",
+  "model": "claude-haiku-5-5",
+  "editorialVersion": 13,
+  "categories": [
+    {
+      "id": "ai",
+      "label": "AI",
+      "desc": "AIモデル・AIサービス・AI企業の動向"
+    },
+    {
+      "id": "it",
+      "label": "IT",
+      "desc": "ソフトウェア開発・ネットサービス・セキュリティ・デバイス・通信（AIが主題のものは除く）"
+    },
+    {
+      "id": "science",
+      "label": "科学",
+      "desc": "研究成果・医療・宇宙・環境・エネルギー技術"
+    }
+  ],
+  "articles": [
+    {
+      "id": "53567ab9d28c",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.itmedia.co.jp/news/article/2611/24/2000003398/",
+      "headline": "CrowdStrike、Zscalerの買収で最終合意 企業価値は約439億ドル",
+      "originalTitle": "CrowdStrike、Zscalerを約439億ドルで買収へ 狙いはAIエージェントの安全確保",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "it",
+      "score": 90,
+      "tier": "must",
+      "pubDate": "2026-11-23T22:20:30.000Z",
+      "body": null,
+      "summary": "CrowdStrikeは11月23日（現地時間）、Zscalerを買収することで最終合意したと発表した。買収は全額株式交換で行い、Zscalerの企業価値は約439億ドル（約7兆円）としている。両社の取締役会は全会一致で承認しており、取引の完了はCrowdStrikeの2028会計年度（2027年2月〜2028年1月）の後半になる見込みである。\n\nCrowdStrikeは、PCやサーバなどの端末、クラウド上のサーバ、ID、データを、端末に導入する1つの軽量なエージェントで守るクラウド型セキュリティ基盤「Falcon」を提供している。2024年7月には、Falconのエージェントの更新に不具合があり、世界中のWindows端末が起動できなくなる障害が起きた。最近はAnthropicのAI防御プロジェクト「Project Glasswing」に参加するなど、AIを使ったセキュリティにも取り組んでいる。\n\nZscalerはネットワークのセキュリティを専門とする企業で、主力の「Zero Trust Exchange」は利用者や端末とアプリの間の通信をクラウド上で中継し、検査する。200カ所以上の拠点で1日7500億件を超えるトランザクションを処理し、直近四半期の年間経常収益は39億ドルだった。両社はもともと提携関係にあり、2000社を超える共通顧客を抱え、16の製品連携を実現してきた。買収完了後は、Zscalerの製品をFalconに組み込み、顧客はライセンス体系「Falcon Flex」の1つの契約でZscaler製品も利用できるようになる。\n\n買収の大きな狙いはAIエージェントの保護で、CrowdStrikeのジョージ・カーツCEOは「かつてセキュリティとは攻撃者を締め出すことだった。今は、AIを受け入れるために安全性が必要だ」とコメントした。同氏によると、企業からは自社のAIエージェントがどこにいて、何をして、どのデータに触れ、ネットワーク上のどこに向かっているのか分からないという声が上がっており、端末とクラウドはFalcon Guardianが、ネットワーク上はZscalerが対応するとしている。Zscalerの創業者でCEOのジェイ・チョードリー氏は引き続き同社を率い、CrowdStrikeの取締役にも就任する。統合後の年間経常収益は100億ドルを超える見込みで、CrowdStrikeは買収完了から30カ月以内に年間約10億ドルの売上シナジー、18〜24カ月以内に年間5億ドルのコスト削減を見込んでいる。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2611/24/2000003398/",
+          "date": "2026-11-23",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "e09aa9a8dd80",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
+      "headline": "ジェンスン・フアン氏、エヌビディアのCEOと取締役会議長に復帰",
+      "originalTitle": "Jensen Huang reinstated as Nvidia CEO, board chair",
+      "outlet": "Ars Technica",
+      "region": "overseas",
+      "category": "ai",
+      "score": 84,
+      "tier": "must",
+      "pubDate": "2026-11-23T15:46:18.000Z",
+      "body": null,
+      "summary": "エヌビディアのジェンスン・フアン氏がCEOと取締役会議長に復帰することが発表された。同氏は1993年の創業時から同社に関わっており、GPUが暗号資産のマイニング、続いてAI企業に採用されたことで、同社は10月のピーク時に世界で最も価値のある企業となった。株価は辞任発表以降約25％、ピークからは約50％下落していたが、復帰発表直後の早朝取引では約30％上昇した。\n\nフアン氏の復帰は、約3年前にOpenAIのサム・アルトマン氏が解任された後、約2週間で復帰した経緯と似ているとされる。今回は従業員ではなく、アルトマン氏、OpenAI社長のグレッグ・ブロックマン氏、xAIのイーロン・マスク氏、Anduril社のパーマー・ラッキー氏ら業界の有力者が、辞任後に相次いで支持を表明した。\n\nエヌビディアの取締役会は声明で、独立した弁護士を起用し、独立取締役による委員会を設けて、同社が「外国の諜報活動」と呼ぶフアン氏への標的化を調査していると明らかにした。あわせて、貿易コンプライアンスと国家安全保障上のリスクを監督する国家安全保障・輸出管理委員会を設置し、新たな最高コンプライアンス責任者を採用中としている。\n\nトランプ氏はCNBCに対し、徹底的な調査を行った結果、フアン氏は無関係な出来事に関して判断に問題があったことが示されたと述べた。また、天才的な人材は守らなければならず、そうした人材は多くないとも語った。",
+      "sources": [
+        {
+          "outlet": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
+          "date": "2026-11-23",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "6a7990e1ad10",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+      "headline": "Amazon、Decartの技術とチームを取得で合意 報道では約75億ドル",
+      "originalTitle": "Amazon snaps up Decart's AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+      "outlet": "TechCrunch",
+      "region": "overseas",
+      "category": "ai",
+      "score": 82,
+      "tier": "must",
+      "pubDate": "2026-11-23T17:14:23.000Z",
+      "body": null,
+      "summary": "Amazonは、イスラエルのAIスタートアップDecartの相当部分を買収することで合意した。ブルームバーグの報道によると買収額は75億ドルで、Amazonのブログ投稿では、Decartの最適化技術「Decart Optimization Stack（DOS）」の技術に加え、創業チーム、AI研究者とエンジニアのチームを取得するとしている。\n\nDecartは、インタラクティブでリアルタイムのワールドモデル（環境の動きを予測・生成するAIモデル）や、AI動画生成ツールで知られ、最新作は「Oasis 3」である。同社の強みはDOSで、エヌビディア、Amazon、Googleのハードウェア上でAIモデルを効率的に動かすソフトウェアである。\n\nAmazonの基盤AIモデル、カスタムシリコン、量子コンピューティング担当の上級副社長ピーター・デサンティス氏は、「AIの飛躍はすべて、チップから得られる性能をより多く引き出すことから始まる」と述べた。より効率的な計算は、学習や強化学習の改善、推論の高速化、顧客にとって低コストで高性能なモデルにつながるとしている。\n\nAmazonは自社データセンターでAI学習向けチップ「Trainium」を使ってきたが、エヌビディア製品の対抗馬として顧客への販売を準備している。DOSによって、顧客がこれまで業界標準とされてきたエヌビディアのチップではなく、Amazonのチップで処理を実行しやすくなる可能性がある。DecartとAmazonは、取材のコメント要請に即座に応じなかった。",
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+          "date": "2026-11-23",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "27065c561fbc",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "headline": "Anthropic、コードの審査から承認までを担う「Claude Ship」を発表",
+      "originalTitle": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "outlet": "TechCrunch",
+      "region": "overseas",
+      "category": "ai",
+      "score": 78,
+      "tier": "should",
+      "pubDate": "2026-11-23T22:05:50.000Z",
+      "body": null,
+      "summary": "Anthropicは、AIエージェントがコードの審査・修正・承認を自動で行う「Claude Ship」を月曜日に発表した。これまでClaudeは主にコードを書く役割を担ってきたが、今回は開発チームが変更を公開してよいかを判断する段階まで任せる点が特徴である。記事は、AIのコーディングエージェントが大量のコードを生成するようになり、変更の確認と承認が開発の滞りになっていると説明している。\n\nClaude Shipは複数の機能で構成される。Code Reviewは一般提供（GA）されており、提案された変更を検査して問題を特定する。PR Steward（ベータ版）は、PR（プルリクエスト：コードの変更取り込みを依頼する単位）で失敗したCI（継続的インテグレーション：自動テストやビルドの検査）、マージ競合（同じ箇所の変更が衝突すること）、Code Reviewの指摘などに対応し、プッシュのたびに変更内容と必要な場合の巻き戻し方法をコメントする。Claude Approvals（ベータ版）は、リポジトリ内のファイルとして書かれた承認ポリシーに基づいて変更を承認する。ポリシーは自然言語で記述でき、Code Reviewの結果や同社の分類器（データを種類ごとに振り分けるモデル）などを判断材料にできる。\n\nベータ版のため、Anthropicは承認機能をまず観察のみのモードで動かすことを勧めている。1つのリポジトリから始めたり、月ごとの利用上限を設定したりして管理を強めることもできる。実行場所、レビュー設定（例：Quick、Standard、Deep）、人間の判断に回す変更の範囲はチームが決められるという。提供対象はGitHub上のリポジトリを使うClaude TeamおよびEnterpriseプランで、展開が始まっている。",
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+          "date": "2026-11-23",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "c5903c8754bb",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+      "headline": "Google検索、Walletなどとの連携で個人向けの回答を強化",
+      "originalTitle": "A more tailored Google Search that’s uniquely yours",
+      "outlet": "Google AI Blog",
+      "region": "overseas",
+      "category": "ai",
+      "score": 72,
+      "tier": "should",
+      "pubDate": "2026-11-23T17:00:00.000Z",
+      "body": null,
+      "summary": "Googleは11月23日、Google検索のAIモードで、連携したアプリの情報を回答に反映させる「Personal Intelligence」の対象を広げると発表した。Google Walletの連携は本日から順次展開が始まり、DriveとGeminiアプリの連携は数週間以内に対応する予定である。すでにGmail、カレンダー、写真は連携できるようになっている。\n\nWalletを連携すると、支出の推移を踏まえた財務目標の整理や、日常の支出を減らす具体的な方法の提案を受けられるという。クレジットカードの還元率の高い分野、旅行特典、ポイントの使い方も、Walletに登録したカードを基に最適化できると説明している。ただし、AIモードはアカウントの情報を読み取るだけで、資金の移動・管理・投資はできないとされている。Driveとの連携では、文書、スプレッドシート、PDFに散らばった情報をまとめて考慮し、税の申告時期に向けた準備計画などを提示できるという。\n\n今後数週間で、GeminiアプリとAIモードの間で文脈を共有できるようになる。Geminiアプリで検討した内容をAIモードが引き継ぎ、その逆も可能になるとしている。連携の設定は「検索のパーソナライズ」から「接続済みアプリ」を開いて選ぶ。\n\n連携はいつでも開始・停止でき、AIモードが使用している文脈は回答下の「パーソナライズ」アイコンから確認できるようになる予定である。回答の修正も自然言語で指示でき、「もう菜食主義ではない」と伝える例が示されている。AI Overviews（検索結果の上部にAIが要約を表示する機能）とAIモードでは、直近の検索内容に応じた回答も表示される。旅行計画の途中から新しい検索を始めても、続きから再開できるという。",
+      "sources": [
+        {
+          "outlet": "Google AI Blog",
+          "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+          "date": "2026-11-23",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "5d7720922390",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing",
+      "headline": "独自エンジンのブラウザ「Ladybird」がmacOSとLinux向けにアルファ版を公開",
+      "originalTitle": "Ladybird, the first new browser engine in years, is now available to test",
+      "outlet": "The Verge",
+      "region": "overseas",
+      "category": "it",
+      "score": 71,
+      "tier": "should",
+      "pubDate": "2026-11-23T22:38:09.000Z",
+      "body": null,
+      "summary": "独立系ウェブブラウザ「Ladybird」のアルファ版が、macOSとLinux向けに公開された。開発者のAndreas Klingが月曜日に発表した。ゼロから作られたレンダリングエンジン（Webページを表示する中核部分）を持ち、4年以上の開発を経ての公開である。主要ブラウザが使うエンジンは現在Gecko、WebKit、Blinkの3種類に集約されており、全く新しいエンジンを持つブラウザが登場するのは数年ぶりだとしている。\n\n既存エンジンの系譜を見ると、GeckoはNetscape 6（2000年）に登場し、現在はMozilla Firefoxで使われている。WebKitは2003年にSafariで採用されたもので、KDEのKHTMLを派生させたものである。その後、Googleが支援するChromiumプロジェクトがWebKitからBlinkを派生させ、現在はGoogle Chrome、Microsoft Edge、Operaなどで使われている。\n\nLadybirdは非営利団体が支援しており、同団体は「独立性があり、高速で安全で、利用者のプライバシーを尊重し、オープンなウェブを育てるブラウザ」を目標に掲げている。開発は当初C++のプロジェクトの一部として始まったが、その後AIを使ってコードをRust（メモリ安全性を重視するプログラミング言語）へ移植している。Klingは発表で、アルファ版のブラウザは「控えめだが機能する」ものであり、アルファ段階では一部のWebサイトが動作しないと述べた。Windows版は「後の段階」で提供される予定である。",
+      "sources": [
+        {
+          "outlet": "The Verge",
+          "url": "https://www.theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing",
+          "date": "2026-11-23",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "3fd64dd78204",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.publickey1.jp/blog/26/postgresql_19repackio.html",
+      "headline": "PostgreSQL 19が正式リリース　並列Autovacuumやノンブロッキングの再編成が可能に",
+      "originalTitle": "PostgreSQL 19正式リリース。ノンブロッキングなREPACKやI/Oワーカーのオートスケールなど新機能",
+      "outlet": "Publickey",
+      "region": "domestic",
+      "category": "it",
+      "score": 70,
+      "tier": "should",
+      "pubDate": "2026-11-23T15:45:37.000Z",
+      "body": null,
+      "summary": "オープンソースのリレーショナルデータベース「PostgreSQL」の最新版「PostgreSQL 19」の正式版がリリースされた。例年9月か10月に行われてきたメジャーバージョンアップだが、今年は9月下旬に公開されたβ4で多数のバグによる新機能の取り下げが発生したため、慎重を期して正式版は11月に延期されていた。\n\n新機能の一つ目は、Autovacuumの高速化である。Autovacuumは、データの削除や更新で不要になったテーブルやインデックスの領域を回収して再利用可能にするVacuum処理を自動で実行する仕組みで、PostgreSQL 19ではパラレルワーカーを使って並列に処理するようになった。これにより、負荷の高いワークロードでも処理が追いつくようになったと説明されている。また新しいスコアリングシステムにより、処理するテーブルの優先度もより適切に決められるようになった。\n\nテーブルやインデックスを再編成して不要な領域を解消する「REPACK」コマンドには、「REPACK (CONCURRENTLY)」が導入された。稼働中のままほかの処理を妨げずに実行できるノンブロッキングな処理である。このほか、I/Oワーカーの最小値と最大値を設定すると、その範囲で自動的に増減する仕組みや、外部キーの検査性能の改善（テストではバルクインサートが約2倍高速）、クエリプランナーの実行計画に利用者がアドバイスを与えられる拡張機能「pg_plan_advice」も提供される。詳細は公式のPress Kitで確認できる。",
+      "sources": [
+        {
+          "outlet": "Publickey",
+          "url": "https://www.publickey1.jp/blog/26/postgresql_19repackio.html",
+          "date": "2026-11-23",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "1d0c151fefed",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://openai.com/index/introducing-shirudo",
+      "headline": "OpenAIとシスコ、Linuxを停止せずに攻撃を防ぐオープンソースのShirudoを公開",
+      "originalTitle": "OpenAI and Cisco introduce Shirudo",
+      "outlet": "OpenAI",
+      "region": "overseas",
+      "category": "ai",
+      "score": 66,
+      "tier": "should",
+      "pubDate": "2026-11-23T21:20:00.000Z",
+      "body": null,
+      "summary": "OpenAIとシスコは、パッチを適用する間にLinuxシステムを守るためのオープンソースのランタイム「Shirudo」を公開した。Shirudoは「盾」を意味する日本語名である。パッチの検証と適用には数日から数週間かかることがあり、その間に脆弱性を突く攻撃から稼働中のサービスを守ることは難しい。攻撃と正当なリクエストが同じLinuxの操作を使う場合、その操作を全面的に止めるとサービス停止につながるためである。\n\nShirudoは、脆弱性を突く動作だけを止めて正当なリクエストは通す一時的な防御策「シールド」をテストし、運用者が承認すればサービスを止めずに配備できる仕組みとして設計されている。技術的にはeBPF（OS内の特定の箇所で小さなプログラムを実行できるLinuxの技術）を使い、不審な動きの観察や、稼働中のシステムへの的を絞った防御を行う。シールドは署名され、読み込み前に検証される。さらにTPM（Trusted Platform Module）を使い、防御策の読み込みや削除の記録を検証可能な形で残すとしている。\n\n管理された試験では、Codexで生成したシールドが、稼働中のElasticsearchに対するJava4Shellの攻撃を再起動なしで遮断したと報告されている。このシールドは、Javaの Base64デコーダに入力チェックを加えるものだった。Shirudoは、恒久的なパッチを準備する間の一時的な防御を目的としており、ソースコードはBSD 2-Clauseライセンス（BPFプログラムはBSDとGPLのデュアルライセンス）で公開されている。",
+      "sources": [
+        {
+          "outlet": "OpenAI",
+          "url": "https://openai.com/index/introducing-shirudo",
+          "date": "2026-11-23",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "02839082ff9f",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+      "headline": "哲学者ネーゲル氏、AnthropicのAI意識に関する見解に反対を表明",
+      "originalTitle": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+      "outlet": "MIT Technology Review",
+      "region": "overseas",
+      "category": "ai",
+      "score": 65,
+      "tier": "should",
+      "pubDate": "2026-11-23T17:36:08.000Z",
+      "body": null,
+      "summary": "AnthropicはIPOを前に、AIが意識や感覚を持つ可能性を投資家向けのリスク要因として挙げた。同社はAIモデルの感覚や道徳的地位を重く見ており、その扱いを守るため、競合よりも多くのルールや制限を採用する可能性があるとしている。現在のAIが意識を持つかは断定できず、能力が高まるほど可能性も高まるため、将来は道徳的に保護すべき存在になりうると備える必要がある、という論理である。\n\nこうした見解に対し、意識研究で知られる哲学者トマス・ネーゲルが異を唱えた。ネーゲルは1974年の論文「コウモリであるとはどういうことか」で知られる人物で、今回はWiredのインタビューで、AnthropicなどのAIモデルの福祉を気にする人々を「完全に愚かだ」と批判した。ネーゲルの見解では、脳の情報処理をAIでそのまま再現しても、脳が経験していることを再現したことにはならず、生物の神経と計算機の回路という物理的な違いを無視すべきではない。SNS上では、その断定に批判する声も、生命であることが意識の前提だという趣旨だと擁護する声もあった。\n\n記事の筆者は、言語を扱えるAIだけが意識を持つ候補と見なされやすい点に疑問を投げかけている。CUNY大学院の博士課程の学生ベン・グロスは、「なぜ対話できるモデルは意識を持ち、顔を認識したり画像を生成したり車を運転したりするモデルは持たないと考えるのか」と問いかけた。記事は、意識は言語よりも身体に関わる連続的な内的経験に根ざしているのではないかという視点も示している。AIが道徳的地位を持つなら、Anthropicの事業モデルにも影響が及ぶという筆者の指摘も記されている。",
+      "sources": [
+        {
+          "outlet": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+          "date": "2026-11-23",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "d5878f2f15b7",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
+      "headline": "メールサーバーStalwart 1.2.0、Exchange互換のプロトコルに対応",
+      "originalTitle": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+      "outlet": "stalw.art",
+      "region": "overseas",
+      "category": "it",
+      "score": 62,
+      "tier": "should",
+      "pubDate": "2026-11-23T22:32:29.000Z",
+      "body": null,
+      "summary": "オープンソースのメールサーバーStalwartは、バージョン1.2.0（2026年11月23日公表）でMicrosoft Exchangeの代替として使える（drop-in replacement）ようになったとしている。今回の版では、Exchangeのクライアント向けプロトコルを実装し、Outlook、Apple Mail、スマートフォンのメールアプリなどが、Exchangeサーバーと同じ要領で接続できるとしている。メール、予定表、連絡先、タスク、メモを一つのアカウントで扱える。Exchange対応はオープンソース版（Community edition、AGPLライセンス）に含まれる。\n\n記事は、オンプレミス版Exchangeの現状として、Exchange 2016と2019が2025年10月14日にサポートを終えたことを挙げる。有償の延長セキュリティ更新も2026年10月に終了したとする報道があるという。新しいOutlook for Windowsはオンプレミス版Exchangeのアカウントに対応しておらず、Exchange OnlineではEWS（Exchange Web Services）が2026年10月から停止され、2027年4月に完全に終了する予定だとしている。\n\n記事は、米国のクラウドにメールを預けると、CLOUD Act（米国当局が米国の事業者に対し、データの保存場所を問わず提出を求められる法律）の対象になり得るとして、データ主権の観点から自社運用を望む組織があると論じている。従来の移行の障壁はサーバーよりもクライアントだったとする。標準のIMAPやCalDAVに移行すると、利用者はメールソフトの変更か、予定表や連絡先が同期しないOutlookの制限モードを強いられていたという。Stalwartでは、管理者がメールボックスを移しDNSを向け替えれば、利用者は今までのOutlookを使い続けられるとしている。\n\n対応プロトコルは、MAPI over HTTP、EWS（Exchange 2010 SP2から2016相当のスキーマ）、Exchange ActiveSync 14.1と16.1、Autodiscoverで、JMAPやWebUIと同じHTTPSポートで提供される。一方、パブリックフォルダ、アーカイブメールボックス、モバイルデバイス管理、RPC over HTTP、NTLMやKerberosによる認証には対応しない。記事は新しいOutlookについても、Microsoftのクラウド経由で動くため自前のサーバーでは使わないよう勧めている。Exchange関連のコードは約20万行で、exchange Cargo featureで分離され、既定では無効になっているとしている。",
+      "sources": [
+        {
+          "outlet": "stalw.art",
+          "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
+          "date": "2026-11-23",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": "https://news.ycombinator.com/item?id=50620349",
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "15ace50ba57d",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.itmedia.co.jp/news/article/2611/23/2000003395/",
+      "headline": "Microsoft To Do、2027年6月に提供終了 法人はPlanner、個人は代替なし",
+      "originalTitle": "「Microsoft To Do」、2027年6月にアプリ提供終了 法人向けは「Planner」へ移行、個人向けは代替なし",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "it",
+      "score": 60,
+      "tier": "interest",
+      "pubDate": "2026-11-23T03:12:33.000Z",
+      "body": null,
+      "summary": "米Microsoftは2026年11月18日（現地時間）、タスク管理アプリ「Microsoft To Do」の提供を2027年6月30日に終了すると公式サポートページで発表した。対象はWeb版、Windows版、Mac版、iOS版、Android版の全アプリで、職場・学校アカウントと個人のMicrosoftアカウントの両方が含まれる。To Doは、2015年に買収したWunderlistの開発チームが手掛け、2017年に提供を始めたアプリである。タスクはExchange Onlineに保存されるため、Outlookのタスクにも表示される。\n\n職場・学校アカウントには、後継として「Microsoft Planner」が案内されている。個人のタスクもPlannerで管理する形になり、刷新された「マイタスク」機能は2026年12月から順次提供される予定だという。一方、Microsoft 365 PersonalやFamilyを含む個人アカウントではPlannerを使えず、Microsoftは残したいタスクやリストを選んで他のタスク管理アプリに移ることを勧めている。\n\nTo Doのタスクやリストは、自動ではPlannerに移行されない。既存のタスクは2027年6月30日までPlanner上で閲覧・管理できるが、それ以降はアクセスできなくなる。Microsoftはアプリ終了前にデータをエクスポートする手段を用意するとしているが、方法はまだ公開されていない。エクスポートしても、Plannerや他のアプリに取り込めるとは限らないという。Plannerにはネイティブのアプリを出す予定がなく、共有リストのメンバーや権限は引き継がれず、Outlookの分類項目との同期もできない。\n\nTo Doの基盤となるサービスやAPI、同期機能は、アプリとは別の時期に終了する。時期は改めて発表するとしている。Outlookの「タスク」機能はTo Doとは別物で、今後も利用できる。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2611/23/2000003395/",
+          "date": "2026-11-23",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "7e689a2455fd",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "science",
+      "url": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
+      "headline": "Claudeが発見したとする論文、あらゆる体でVPとVNPは異なると主張",
+      "originalTitle": "VP ≠ VNP over Every Field",
+      "outlet": "github.com",
+      "region": "overseas",
+      "category": "science",
+      "score": 58,
+      "tier": "interest",
+      "pubDate": "2026-11-23T22:09:10.000Z",
+      "body": null,
+      "summary": "このGitHubリポジトリは、あらゆる体（field）において、VP（多項式の族を多項式サイズの算術回路で計算できる集合）がVNP（総和で表せる多項式の族の集合）の真部分集合であり、VNPはVPの閉包に含まれないと主張している。根拠として、ハミルトン閉路多項式とパーマネント（標数2以外の体）について、十分大きいmに対して回路のゲート数がm^(c(log m)^(1/3))を超える必要があるとし、近似回路についても同様だとしている。ただし、P対NP問題は解決しないと明記されている。\n\n論文と証明は、Claude（Anthropic）の内部研究用モデルが発見したとされ、AIモデルによって書かれたものである。証明はLean 4による形式化も付されている。主張の記述はMathlibのみを読み込むStatement.leanにあり、論文の付録Qに定理の対応表が示されている。ただし、人間の数学者による証明の確認は行われていないと明記されている。\n\nリポジトリは研究成果物として公開されており、保守や外部からの貢献は受け付けていない。検証手順として、elanを導入したうえでlakeによるビルドと、PrintAxiomsによる公理の確認が示されている。CIでは、Comparatorと別実装のカーネルnanodaによる再検査が行われるとしている。ライセンスはApache 2.0である。",
+      "sources": [
+        {
+          "outlet": "github.com",
+          "url": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
+          "date": "2026-11-23",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": "https://news.ycombinator.com/item?id=50620102",
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "485decdaf481",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative",
+      "headline": "検索サービスのKagiがメールサービス「Kagi Mail」の公開ベータを開始",
+      "originalTitle": "Google alternative Kagi launches an email service",
+      "outlet": "The Verge",
+      "region": "overseas",
+      "category": "it",
+      "score": 56,
+      "tier": "interest",
+      "pubDate": "2026-11-24T00:02:52.000Z",
+      "body": null,
+      "summary": "検索サービスのKagiが、メールサービス「Kagi Mail」の公開ベータ版を発表した。Kagiはすでに有料のGoogle検索の代替サービスと、Chromeに対抗するブラウザ「Orion」を提供しており、今回はGmailに対抗するサービスに参入した形である。Kagiは本サービスについて、「監視なし、広告なし、オープンな標準、ロックイン（特定サービスへの囲い込み）なし」を掲げている。\n\n利用者は@kagimail.comのアドレスを取得でき、エイリアス（別名アドレス）とドメインは無制限に使える。ストレージは50GBで、カレンダーを内蔵する。ロードマップでは、連絡先とアドレス帳を2027年第1四半期、ネイティブのモバイルアプリを2027年第3四半期に提供する予定である。\n\n料金は60日間の無料トライアルの後、年99ドルである。月額25ドルの「Kagi Ultimate」サブスクリプションの一部としても利用できる。Kagiは既存のFastmailやTutaの取り組みを評価していると述べたうえで、「技術は仕事をしたら、利用者の邪魔をしないべきだ」として自社で開発した理由を説明している。",
+      "sources": [
+        {
+          "outlet": "The Verge",
+          "url": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative",
+          "date": "2026-11-24",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "8f20e5199f55",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://arxiv.org/abs/2602.20031",
+      "headline": "大規模言語モデルが、事前に注入された概念を検知できるとする研究",
+      "originalTitle": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
+      "outlet": "arxiv.org",
+      "region": "overseas",
+      "category": "ai",
+      "score": 55,
+      "tier": "interest",
+      "pubDate": "2026-11-23T22:29:48.000Z",
+      "body": null,
+      "summary": "Qwen 32Bモデルを対象にした研究で、モデルが文脈の前の部分に注入された概念を検知でき、どの概念が注入されたかも特定できると報告されている。研究者らは、この能力を潜在的な内省能力と位置づけ、潜在的推論や安全性に影響があるとしている。\n\nモデルは生成した出力では注入を否定する一方、ロジットレンズ分析（中間層の表現を語彙空間に投影して調べる手法）では、残差ストリーム（各層を通して受け渡される内部表現）に検知の信号が見られ、最終層ではその信号が弱まるという。また、AIの内省の仕組みに関する正確な情報をプロンプトで与えると、注入の検知感度が0.3%から39.9%へ大きく上がり、誤検知の増加は0.6%にとどまったとしている。\n\n注入された9つの概念と回答された概念の相互情報量は、0.61ビットから1.05ビットに上昇したとしており、一般的なノイズによる説明を退けられると主張している。論文は28ページ、図17点で、ICML 2026への投稿と、ワークショップ版のICLR 2026への投稿が示されている。v1は2026年2月23日、v3は同年11月7日に公開された。",
+      "sources": [
+        {
+          "outlet": "arxiv.org",
+          "url": "https://arxiv.org/abs/2602.20031",
+          "date": "2026-11-23",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": "https://news.ycombinator.com/item?id=50620328",
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "9c079ad7f691",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
+      "headline": "METRの最新報告、AIは判断を要する課題でコーディングより苦手",
+      "originalTitle": "The Download: AI’s judgment problem and carbon removal’s crop threat",
+      "outlet": "MIT Technology Review",
+      "region": "overseas",
+      "category": "ai",
+      "score": 52,
+      "tier": "interest",
+      "pubDate": "2026-11-23T13:10:00.000Z",
+      "body": null,
+      "summary": "MIT Technology Reviewの週刊ニュースレター「The Download」は、AI評価に取り組む非営利団体METRが、多数の課題でモデルを試験した時間軸（タイムホライズン）グラフを更新したと伝えている。報告によると、一部の能力は指数関数的に向上している一方、判断を要する課題はコーディングほど得意ではない。新版では、AI評価の設計や哲学的な議論の採点といった自由度の高い課題が加えられ、モデルはこれらに苦戦したという。研究開発の自動化に重要となる可能性がある。\n\n同ニュースレターは、岩石を使った炭素除去が作物の生育を妨げるおそれも取り上げている。GoogleやMicrosoftなどは、砕いた岩石を農地にまく「岩石風化促進」の技術を手がける新興企業に、数億ドル規模を投資しているという。ただし新たな研究は、農地にどれだけ岩石を加えると収量が減り始めるかについて重大な疑問を投げかけており、炭素除去の潜在量は従来の推計より大幅に小さい可能性があるとしている。\n\nそのほかの記事では、Claudeがリーマン予想（素数の分布に関する未解決の数学問題）の証明に使われたとの報道があり、2つのグループが独立に証明を検証したと伝えられている。また、COP31の気候交渉は化石燃料を巡る対立で決裂したとされ、ロシア、米国、イスラエルが殺傷型ロボット（自律型致死兵器）の国際ルールづくりを停滞させたとの報道も紹介されている。",
+      "sources": [
+        {
+          "outlet": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
+          "date": "2026-11-23",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "55dd39720b4f",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "science",
+      "url": "https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidate-was-losing-hope-then-came-a-potential-signal-will-it-be-enough-to-energize-the-struggling-field-180989923/",
+      "headline": "米国の検出器が暗黒物質候補WIMPの兆候を報告、発見には至らず",
+      "originalTitle": "The search for a top dark matter candidate",
+      "outlet": "smithsonianmag.com",
+      "region": "overseas",
+      "category": "science",
+      "score": 48,
+      "tier": "interest",
+      "pubDate": "2026-11-23T23:12:40.000Z",
+      "body": null,
+      "summary": "2026年9月、米国サウスダコタ州のLUX-ZEPLIN（LZ）実験が、暗黒物質の有力候補であるWIMP（弱く相互作用する大質量粒子）の兆候とみられる単一のデータ点を含むプレプリント（査読前の論文）を公表した。WIMPは1980年代に理論上提案された粒子で、通常の物質とほとんど相互作用せずに通過するとされる。宇宙の物質の約85％を占めるとされる暗黒物質の正体は依然不明で、WIMPの直接検出は長年の目標となってきた。LZは現在、世界最大のWIMP検出器とされる。\n\n今回のデータ点は予想される背景事象を上回ったが、発見と呼ぶには不十分である。この信号は、より高いエネルギーでの衝突を探索する手法に切り替えたことで得られたとされる。信号は、重い暗黒物質粒子が従来の想定とは異なる形で物質と衝突する可能性を示唆しているという。ただし既知の背景事象では説明できず、これまで知られていない種類の背景事象である可能性も残る。LZのリチャード・ゲイツケル氏らは、残りのデータの解析を続けつつ、外部からの意見を求めている。\n\n一方、イタリアのグラン・サッソ国立研究所にあるXENONnT実験は、過去2年分のデータから同様の信号を探しており、数か月以内に論文を公表する方針だという。技術コーディネーターのマルチェロ・メッシーナ氏は、当初は1件のデータだけでは懐疑的だったとしつつ、今回の結果が発見への重要な一歩になりうるとの見方を示した。WIMPの探索は今回の結果を機に勢いを取り戻したとされるが、研究費の確保など課題も残っている。",
+      "sources": [
+        {
+          "outlet": "smithsonianmag.com",
+          "url": "https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidate-was-losing-hope-then-came-a-potential-signal-will-it-be-enough-to-energize-the-struggling-field-180989923/",
+          "date": "2026-11-23",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": "https://news.ycombinator.com/item?id=50620831",
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "dc02d0ba7ca7",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "science",
+      "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
+      "headline": "岩石散布によるCO2除去、過剰投入で減収の恐れと研究が指摘",
+      "originalTitle": "Why using rocks for carbon removal could eventually reduce crop growth",
+      "outlet": "MIT Technology Review",
+      "region": "overseas",
+      "category": "science",
+      "score": 47,
+      "tier": "interest",
+      "pubDate": "2026-11-23T11:00:00.000Z",
+      "body": null,
+      "summary": "米サンフランシスコの非営利団体CarbonPlanの研究者らは、農地に砕いた岩石をまいて大気中の二酸化炭素（CO2）を回収する「強化岩石風化（ERW）」について、2件のプレプリント論文（未査読）を公表した。ERWは、雨水が溶かした弱い酸によって岩石が風化し、そこに含まれるカルシウムなどが海へ運ばれて炭素を閉じ込める自然の過程を、人為的に加速させる手法である。グーグルやマイクロソフトなどの企業も、この手法に数億ドル規模の投資を約束している。\n\n論文は、岩石を過剰に加えると土壌が次第にアルカリ性へ傾き、微量栄養素の欠乏や病害への弱さなどを招いて作物の収量が落ちる恐れがあると指摘する。こうした影響を抑えると、ERWによる除去量の上限は年約6億トン程度に抑えられるという。一方、一部の影響力のあるモデルは年30億〜80億トンの除去が可能としており、その差は大きい。筆頭著者のタイラー・クークラ氏は、これらのモデルが「非常に楽観的な前提」に立っていると述べた。\n\n企業の投資は拡大している。グーグルはブラジル南部の稲作農家と、2040年までに100万トンの炭素除去を目指す契約を結んだ。企業連合のFrontierは、同手法の事前購入に1億2100万ドルを充てている。独立したデータを提供する公益法人CDR.fyiによれば、企業がERWに約束した支出額は約6億7000万ドルで、平均単価は1トン当たり約350ドルとされる。\n\n除去量の算定をめぐっては論争もある。Lithos Carbonは1ヘクタール当たり年8.3トンの除去を主張したが、CarbonPlanは、この数値が過去の公表実験の約9割を上回ると指摘した。これに対し、同社のメアリー・ヤップ最高経営責任者は、通常より多くの量を散布した圃場での結果だと説明し、CarbonPlanが事前に連絡せずブログで公表したことを批判している。",
+      "sources": [
+        {
+          "outlet": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
+          "date": "2026-11-23",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "24d1023009ca",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2611/24/2000003382/",
+      "headline": "日立、社会インフラ向けフィジカルAIの資源制約に知能基盤モデルで挑む",
+      "originalTitle": "眠る「200兆円市場」、フィジカルAIを阻む「資源不足」 日立は独自技術で突破口探る",
+      "outlet": "ITmedia AI+",
+      "region": "domestic",
+      "category": "ai",
+      "score": 46,
+      "tier": "interest",
+      "pubDate": "2026-11-23T23:00:00.000Z",
+      "body": null,
+      "summary": "日立製作所の小倉孝裕氏は2026年11月17日の研究開発イベントで、社会インフラ向けフィジカルAIの潜在市場が2030年に約1.3兆ドル（約200兆円）に達するとの試算を示した。一方で、データセンターの電力需要の急増、労働力不足、設備の老朽化といった資源制約が市場の成長を阻んでいると指摘した。日立はこの試算で、市場が年平均成長率（CAGR）9.5％で拡大すると見込んでいる。\n\n日立が2025年11月に発表した社会インフラ向けの知能基盤モデル「IWIM（Integrated World Infrastructure Model）」は、物理法則に基づく物理モデルと熟練者のノウハウを扱う知識モデルを、AIエージェントが目的に応じて組み合わせて使う仕組みである。データセンターでは、AI処理と冷却を一体で制御し、熱の推移を物理モデルで捉えて処理を分散させる。研究所で実機のGPUを使って検証したところ、GPUの速度低下が続く時間は従来の約10分から約30秒に縮まり、電力量当たりのAI処理量は20％向上したという。\n\n講演のデモでは、豪雨で太陽光発電の出力が急減し都内の送電線が容量を超えると予測される場面を想定した。電力系統側とデータセンター側のAIエージェントが協調し、他拠点への処理の移動や自家発電の活用によって過負荷を解消したという。鮫嶋茂稔CTOは、用途ごとに閉じた制御ではなく、全体で必要に応じて連携できることに価値があると説明した。IWIMの活用事例の多くは検証や実証の段階だが、一部では現場への適用も始まっているとしている。",
+      "sources": [
+        {
+          "outlet": "ITmedia AI+",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2611/24/2000003382/",
+          "date": "2026-11-23",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "d6fe9f887c60",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2611/24/news024.html",
+      "headline": "ロックウェル、AIエージェントを束ねる新製品FT Conductorを紹介",
+      "originalTitle": "ロックウェルがAIで狙う工程革新 各エージェントを“指揮”する新製品とは",
+      "outlet": "ITmedia AI+",
+      "region": "domestic",
+      "category": "ai",
+      "score": 45,
+      "tier": "interest",
+      "pubDate": "2026-11-23T22:00:00.000Z",
+      "body": null,
+      "summary": "米FA大手のロックウェル オートメーションは、買収などを通じてソフトウェア領域に注力し、OT（制御技術）とIT、AI（人工知能）を融合させた製造業の姿を描こうとしている。同社の年次イベント「Automation Fair 2026」（2026年11月16〜19日、米国ボストン）で、ロックウェル オートメーション ジャパンの矢田智巳社長とエグゼクティブ・アドバイザーの岩井一郎氏がMONOistの取材に答えた。矢田氏は、同社の核となるメッセージを「自動化（Automation）から自律化（Autonomy）へ」と説明した。\n\n矢田氏は、人は工程単位の最適化はできても全工程を見渡した全体最適は難しいとし、工程をデジタルでつないでAIに作業を任せ、人はビジョンや方向性を考える仕事に移るべきだとしている。自律化は数年前から提唱してきたが、近年のLLM（大規模言語モデル）の進化で実現性が高まったという。背景には、米国の深刻な人手不足や国際競争の激化があるとした。フィジカルAIについては、単一のロボットではなく、設備全体からエッジ（現場側の機器）、クラウドまでの各レイヤーにAIを組み込み、人と設備とAIを統合した運用全体を指すと説明した。\n\n注目製品として挙げたのが「FactoryTalk Conductor」（FT Conductor）である。設計、運用、保守、安全などで使われる各AIエージェントを束ねる“親玉”として、それぞれを連携させて指揮する位置付けだ。NVIDIAとの協業で自然言語処理（NLP）を強化し、「安全はこの規格に基づくように」といった自然言語の指示から、それに合った設計や運用を構築できるという。MES（製造実行システム）とも連携し、製品を変える際には工程の組み換えや使用設備まで提示するとしている。AIが安全に組み合わせて使う基盤として、長年蓄積した制御プログラムのライブラリなど「Trusted Contents」を挙げた。\n\nソフトウェア定義型自動化では、PLCやエッジサーバ、ロボットコントローラーからMESや保全管理システムまで、アプリケーションをコンテナ化する計画が進んでいるという。パートナーやSIerが工程用プログラムを売買できる「マーケットプレース」構想もある。日本と欧米の違いについて岩井氏は、日本の顧客はAIの誤判断による事故を懸念し、現場の一部にAIを適用する傾向が強いと述べた。一方で米国は、信頼できるデータを整えてシステム全体でAIを活用しようとするとした。また、日本では30年にわたる投資抑制で設備が老朽化しており、「何もしないリスク」を理解してもらう必要があると訴えた。",
+      "sources": [
+        {
+          "outlet": "ITmedia AI+",
+          "url": "https://monoist.itmedia.co.jp/mn/articles/2611/24/news024.html",
+          "date": "2026-11-23",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "13c2af13fd22",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2611/24/news023.html",
+      "headline": "AI利用を拡大するIT部門の4割、2028年までに重要サービスの中断と予測",
+      "originalTitle": "2028年までに「サービス中断」に見舞われるIT部門の共通点は？ Gartner予測",
+      "outlet": "ITmedia AI+",
+      "region": "domestic",
+      "category": "it",
+      "score": 44,
+      "tier": "interest",
+      "pubDate": "2026-11-23T23:00:00.000Z",
+      "body": null,
+      "summary": "Gartnerは2026年11月16日（現地時間）、AIの利用を拡大するI&O（インフラストラクチャとオペレーション）組織、つまりインフラと運用を担うIT部門の40％が、2028年までに事業に不可欠なサービスの中断に見舞われるとの予測を発表した。同社が2026年6〜7月に米国と英国のI&Oリーダー298人を対象に実施した調査では、過去12カ月間にAIエージェントに関連するインシデントを1件以上経験した組織は95％に上った。一方で、I&Oリーダーの70％は自組織のAIエージェントが安全な範囲内で稼働していると考えている。\n\nGartnerは、サービス中断に見舞われる組織の条件として、AIガバナンスの不備を挙げている。調査では、自組織のガバナンスが不十分だと答えたI&Oリーダーが57％、既存のITリスク管理ツールが完全に時代遅れだと答えた回答者が55％だった。AIエージェントの暴走やロジックの無限ループを止める自動サーキットブレーカー（異常時に処理を遮断する仕組み）を導入しているのは15％にとどまった。Gartnerのネイサン・ヒル氏は、ポリシー制御、権限モデル、オブザーバビリティ（稼働状況の観測）、監査機能を含むガバナンスの確立が重要だと指摘し、運用の準備状況には大きなギャップがあると述べた。\n\nヒル氏は、I&Oリーダーは稼働中のAIエージェントを直ちに棚卸しし、すべてを非人間アイデンティティーとして分類すべきだとしている。「AIエージェントは単なる自動化スクリプトではない」とも述べた。Gartnerは、CIOやAIリーダーと協力してI&O向けのAIガバナンスフレームワークを策定し、実行時の動的な制御を中心に据えるよう推奨している。\n\n挙げられた7つの柱は、全エージェントを一元的なレジストリで追跡するアイデンティティー、誤動作を減速させる安全機構のガードレール、推論過程を追跡するオブザーバビリティ、モデルの使い分けや支出上限でコストを管理するAgentic FinOps、影響の大きい操作に人間の承認を求めるエスカレーション、暴走したエージェントを隔離する封じ込め、コンテキストポイズニングや情報漏えいを防ぐデータ境界である。ヒル氏は、依存が高まるほど停止の余地は小さくなるため、コストが高くても稼働を続けるべき重要なエージェントを特定する必要があるとしている。",
+      "sources": [
+        {
+          "outlet": "ITmedia AI+",
+          "url": "https://www.itmedia.co.jp/enterprise/articles/2611/24/news023.html",
+          "date": "2026-11-23",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "eca24540e663",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.theverge.com/games/1040966/arion-kurtaj-gta-vi-leaks-sentenced-released",
+      "headline": "GTA VI流出に関与したハッカー、懲役7年の判決を受け釈放",
+      "originalTitle": "The hacker behind early GTA VI leaks has been sentenced — and released",
+      "outlet": "The Verge",
+      "region": "overseas",
+      "category": "it",
+      "score": 43,
+      "tier": "spare",
+      "pubDate": "2026-11-23T23:25:01.000Z",
+      "body": null,
+      "summary": "英BBCの報道によると、ロックスター・ゲームズへの不正アクセスなどに関与したアリオン・クルタジ被告が、懲役7年の判決を受けたものの、ライセンス付きで釈放された。被告は先週、ロックスター・ゲームズやUber、Revolutなどへのハッキングの罪を認めていた。\n\n被告は2022年に、ロックスター・ゲームズから流出させたGTA VIの動画90本を公開した。これは正式発売の数年前のことだった。被告は自閉症のため病院に入院したこともあり、判決前には刑務所に収容された経験もあった。Sky Newsによると、裁判官は「あなたは明らかに非常に才能のある若者だ」と述べ、「残りの人生を刑務所への出入りで浪費してはならない」と諭した。BBCによれば、被告は5年間の重大犯罪防止命令（英国で一定期間の行動制限を課す命令）により、TelegramとDiscordを利用できない。\n\nGTA VIは先週発売され、好意的なレビューを得ている。開発元のロックスター・ゲームズは、発売初日の売上が37億9000万ドルだったと発表した。",
+      "sources": [
+        {
+          "outlet": "The Verge",
+          "url": "https://www.theverge.com/games/1040966/arion-kurtaj-gta-vi-leaks-sentenced-released",
+          "date": "2026-11-23",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "3f6e6e0248b4",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "science",
+      "url": "https://arstechnica.com/space/2026/11/russia-will-launch-a-routine-iss-supply-mission-tomorrow-apparently-its-a-big-secret/",
+      "headline": "NASA、ISS向けロシア補給船の打ち上げ情報を示さず",
+      "originalTitle": "Russia will launch a routine ISS supply mission tomorrow—apparently, it's a big secret",
+      "outlet": "Ars Technica",
+      "region": "overseas",
+      "category": "science",
+      "score": 42,
+      "tier": "spare",
+      "pubDate": "2026-11-23T20:34:51.000Z",
+      "body": null,
+      "summary": "月曜日に行われたNASAの記者会見で、Space News記者のJeff Foust氏がISSへ向かうロシアの補給船「プログレス」の打ち上げについて確認を求めたが、NASAの運用統合責任者Gaurang Patel氏は、同機に関する質問はロスコスモスに直接問い合わせるよう求めた。記事によれば、プログレスMS-36は翌火曜日の協定世界時10時13分（米東部時間5時13分）に打ち上げられる予定である。ISSはNASAが協力して運用している宇宙ステーションである。\n\nNASAは従来、バイコヌール宇宙基地からのプログレスの打ち上げを毎回テレビ中継してきた。今年9月にも生中継を行い、ロスコスモスから打ち上げの詳細が提供され次第、放送予定を更新すると案内していた。しかし今回はNASAの放送予定表に該当する情報はなく、記事はNASAが打ち上げの有無すら確認しなかった点を指摘している。記事は、ロスコスモスは通常西側の報道機関に回答しないとも述べている。\n\n記事は、この方針はロスコスモスが主導した可能性が高いと推測している。現地の情報源によると、ロスコスモスは打ち上げ準備を従来のように宣伝していないという。宇宙分野の記者Anatoly Zak氏は、ロスコスモスがここ数か月で全ての打ち上げ関連の報道を大幅に減らしたとしている。また、ロスコスモスの公式Telegramチャンネルにも今回の打ち上げへの言及はないという。",
+      "sources": [
+        {
+          "outlet": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/11/russia-will-launch-a-routine-iss-supply-mission-tomorrow-apparently-its-a-big-secret/",
+          "date": "2026-11-23",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "95fbdaa0144c",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.publickey1.jp/blog/26/dhhomarchy_457applewebms_office.html",
+      "headline": "DHH氏開発のLinux OS「Omarchy 4.5」正式版、フローティングウィンドウに対応",
+      "originalTitle": "DHH氏が開発する「Omarchy 4.5」リリース。一般的なマルチウィンドウをサポート。最速7秒で導入、Appleシリコン対応、Webアプリ版MS Office用ランチャーなど新機能",
+      "outlet": "Publickey",
+      "region": "domestic",
+      "category": "it",
+      "score": 41,
+      "tier": "spare",
+      "pubDate": "2026-11-23T15:49:45.000Z",
+      "body": null,
+      "summary": "Ruby on Railsの作者であるDHH氏が主導して開発を進めるデスクトップ向けLinux OS「Omarchy」の最新版「Omarchy 4.5」（別名Omarchy Quattro RS）の正式版がリリースされた。Omarchyは、DHH氏が提唱する「Omacom（Omakase Computing：おまかせコンピューティング）」の考え方に基づき、同氏が選んだ統一的な機能や外観を備えている。インストールは数分で完了し、Claude、Codex、Copilot、Gemini、Grokなど23種類のAIエージェントを標準で統合している。\n\nAIエージェントはOmarchyが用意するスキルファイルを読み込むことで、ショートカットや操作方法を案内するだけでなく、設定の変更まで行うという。テーマやプラグインを作成させることもでき、AIを使って自分の好みに合わせてOSを変更・拡張できるとしている。\n\n今回の最大の新機能は、従来のタイル型ウィンドウに加え、WindowsやmacOSなどで一般的なフローティング型のマルチウィンドウに切り替えられるようになったことである。画面下にはドックが表示され、ピン留めしたアプリと起動中のアプリが並ぶ。Web版のExcel、Word、PowerPoint、Outlook、Teams、OneDriveを専用ウィンドウと起動アイコンを持つアプリとして設定できる機能も加わった。対応ハードウェアも広がり、M1からM3を搭載するAppleシリコンMacでmacOSとのデュアルブートが可能になったほか、DGX Sparkデスクトップや、Nvidia N1Xチップを搭載したArm系ノートPCにも対応した。Snapdragonを搭載したArmマシンへの対応も近日中に予定されている。インストール方式も刷新され、約940個のパッケージを一つずつ入れる方式から、ビルド済みのルートイメージを展開してからマシンごとのパッケージを追加する「F1インストーラー」に変わった。これによりどのマシンでも時間がおよそ半分になったとしており、AMDプロセッサ搭載ノートPCでは7秒で完了した例が紹介されている。",
+      "sources": [
+        {
+          "outlet": "Publickey",
+          "url": "https://www.publickey1.jp/blog/26/dhhomarchy_457applewebms_office.html",
+          "date": "2026-11-23",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "956a058c400b",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "science",
+      "url": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
+      "headline": "脳や意識を永続させる試みを巡る討論の内容をMIT Technology Reviewが紹介",
+      "originalTitle": "The Download: inside the quest to make our minds immortal",
+      "outlet": "MIT Technology Review",
+      "region": "overseas",
+      "category": "science",
+      "score": 40,
+      "tier": "spare",
+      "pubDate": "2026-11-20T13:10:00.000Z",
+      "body": null,
+      "summary": "MIT Technology Reviewのニュースレター「The Download」（2026年11月20日付）は、同誌の円卓討論会で議論された「認知的な不死」を目指す取り組みを主な話題として取り上げている。頭部移植、脳の冷凍保存、意識を持つソフトウェアのアバターなど、自己を保存しようとする科学者たちの試みが紹介された。討論にはシニア編集者のAntonio Regalado氏と科学編集者のMary Beth Griggs氏が参加し、Regalado氏は一部懐疑的でありながら、一部では感嘆したと述べている。\n\n記事によると、米政府による1億9000万ドル規模の代替脳組織開発プログラムは、表向きには脳卒中の治療を目的としているが、Regalado氏は実際には永遠の命を目指す野心の隠れ蓑だと評している。大規模言語モデルによって、実在の人物に近い振る舞いをするAIの複製を作ることも可能になりつつあるという。また、脳を医療による死の12分以内に保存すると主張する企業Nectomeについても紹介されている。さらに、Regalado氏は「自分が本当に自分であると主張できる根拠があるのか確信がない」と述べたとされる。\n\n同ニュースレターでは、他の話題も紹介されている。トランプ氏がサイバー担当責任者を解任し、後任にペンタゴン職員のKirsten Davies氏が就任するとNBC Newsが報じたという。米国が中国向けに約90万個近いAIチップの販売を承認したという報道や、米上院がエネルギー事業の手続きを迅速化する法案を可決したという報道も挙げられている。台湾は、選挙を前に中国がThreadsを使って世論を操作しようとしているとし、約2700のアカウントをMetaに通知したと述べたとされる。",
+      "sources": [
+        {
+          "outlet": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
+          "date": "2026-11-20",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "11694face939",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.watch.impress.co.jp/docs/news/2153983.html",
+      "headline": "Rokid、75gのARグラス「Rokid Max 2」を日本で本格展開 69,800円",
+      "originalTitle": "Rokid、75gのARグラス「Rokid Max 2」を本格展開 69800円",
+      "outlet": "Impress Watch",
+      "region": "domestic",
+      "category": "it",
+      "score": 40,
+      "tier": "spare",
+      "pubDate": "2026-11-23T00:00:00.000Z",
+      "body": null,
+      "summary": "Rokidは、ARグラス（現実の視界に映像を重ねて表示する眼鏡型端末）「Rokid Max 2」の日本市場での本格展開を開始した。2025年6月からAmazonで販売してきた製品で、新たに公式オンラインストアでも販売を始めた。価格は69,800円で、カラーはNight BlackとDawn Silverの2色を用意する。\n\nスマートフォンやPC、ゲーム機などに接続し、6m先に215インチ相当の仮想画面を表示できる。重量は75gで、前モデル「Rokid Max」からデザインを刷新し、装着感を向上させたという。ディスプレイにはソニー製のMicro-OLED（小型の有機ELパネル）を採用し、視野角は50度、最大輝度は600nit、解像度は片眼あたり1,920×1,080ドット、リフレッシュレートは最大120Hzとしている。\n\n視度（レンズの度数）の調整機能は0〜-6.00Dの範囲に対応する。範囲外の度数は対応レンズを使うことで視力に合わせた調整ができるという。対応機器はNintendo Switch、Steam Deck、Xbox、PlayStation 5などのゲーム機のほか、MacBook、iPad、iPhone、一部のAndroidスマートフォンなどである。3Dコンテンツに加え、iPhoneなどで撮影した空間写真や空間ビデオの表示にも対応する。\n\n光漏れを抑える設計により、周囲から画面を見られにくくしている。レンズカバーを使えば外光を遮断できる。音声面では、HD指向性スピーカーを2基、ノイズキャンセリングマイクを2基搭載する。",
+      "sources": [
+        {
+          "outlet": "Impress Watch",
+          "url": "https://www.watch.impress.co.jp/docs/news/2153983.html",
+          "date": "2026-11-23",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "5c9b1d976c48",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2611/24/news040.html",
+      "headline": "パナソニックHD、ガラス型ペロブスカイト太陽電池の量産を前倒し",
+      "originalTitle": "パナソニックHDが描くフィジカルAIの未来、研究開発と現場実装を両輪に",
+      "outlet": "ITmedia AI+",
+      "region": "domestic",
+      "category": "ai",
+      "score": 39,
+      "tier": "spare",
+      "pubDate": "2026-11-24T00:00:00.000Z",
+      "body": null,
+      "summary": "パナソニックホールディングス（パナソニックHD）は2026年11月11日に「Technology Day」を開催し、技術未来ビジョンの進捗とフィジカルAI（物理的な機器を動かすAI）への取り組み方針を説明した。技術未来ビジョンは2024年7月に約10年ぶりに示された長期の技術開発の方向性で、「エネルギー・資源がめぐる」「生きがいがめぐる」「思いやりがめぐる」の3つを基本コンセプトとしている。\n\nガラス型ペロブスカイト太陽電池は、ガラスが使われる箇所で発電できる太陽電池である。2026年9月に先行量産品の出荷を始め、2029年4月に本格量産を開始する計画だ。当初2030年度としていた時期を1年前倒しし、滋賀県長浜市で整備中の量産技術開発拠点「長浜拠点」で量産する。\n\n3D積層装置は、チップレット（1つの大規模チップの機能を小さなチップに分け、複数を1つのパッケージに集積する方式）を3次元に積層するための装置である。歩留まりと高集積化の両立が期待されるという。製造には前工程と後工程の両方の技術が必要で、同社はこの両方に知見があるとしている。ベルギーのimec、台湾のITRIと連携し、次の標準工程としての定着を目指す。小川立夫執行役員グループCTOは、実現すればデータセンターのチップ消費電力を大きく下げられると語った。\n\nフィジカルAIでは、2027年4月に大阪府門真市に産官学の共創拠点「マニュファクチャリングコモンズ（KMC）」を設立する方針だ。自社だけでは難しいため、他社や大学、自治体を呼び込み、参照用の設計（リファレンス）作りやハードウェアの評価を行えるようにするという。京都大学や大阪大学などの関西の主要大学がすでに参加を決めている。2026年10月には「AI・ロボティクス研究開発本部」を設立した。3D空間認識技術では、3D空間の入力情報量を10分の1に圧縮できるとしている。",
+      "sources": [
+        {
+          "outlet": "ITmedia AI+",
+          "url": "https://monoist.itmedia.co.jp/mn/articles/2611/24/news040.html",
+          "date": "2026-11-24",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "7d89f844fb82",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://cobalt27.dev/",
+      "headline": "Cobalt、GraphQLを手書きせずに使えるTypeScript向けの仕組みを紹介",
+      "originalTitle": "The Power of GraphQL, Without GraphQL",
+      "outlet": "cobalt27.dev",
+      "region": "overseas",
+      "category": "it",
+      "score": 38,
+      "tier": "spare",
+      "pubDate": "2026-11-24T00:03:59.000Z",
+      "body": null,
+      "summary": "Cobaltは、GraphQLを手動で記述せずに利用できるとするフレームワーク（ソフトウェア開発の基盤）を紹介するページである。GraphQLはクライアントが必要なデータ項目を指定して問い合わせる仕組みで、Cobaltはこれを拡張しつつ、tRPC（TypeScriptでクライアントとサーバーの型を共有する仕組み）に近い開発速度を得られるとしている。\n\n従来は多数のエンドポイント（APIの接続先）の管理が負担になり、必要以上に大きなJSONを取得する過剰取得も起きるという。Cobaltでは1つのエンドポイントにまとめ、クライアントが必要なデータを指定する方式を取る。250KBという大きなペイロード（送受信されるデータ本体）の例を示し、必要なデータだけを取得できると説明している。\n\n型定義を別々に書く必要をなくし、TypeScriptのコードそのものをスキーマ（データの構造定義）とする点も特徴とする。クライアント側のコード生成工程は不要で、SDK（開発キット）を通じて型付きで呼び出せるという。AI（大規模言語モデル）が扱う文脈量について、一般的なアプリは45ファイル・約11.2kトークン、Cobaltのアプリは13ファイル・約3.4kトークンとの例を挙げている。\n\nSDKでは sdk.query.user({ id }) のように呼び出すと、バックエンドの定義に基づいて補完が効くとしている。通常はオブジェクト全体が返るが、必要なフィールドだけを指定して取得することもできる。",
+      "sources": [
+        {
+          "outlet": "cobalt27.dev",
+          "url": "https://cobalt27.dev/",
+          "date": "2026-11-24",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": "https://news.ycombinator.com/item?id=50621466",
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "258148fd1ab0",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://viktorkrapivin.com/blog/nano5g-priv-prvd",
+      "headline": "iPod nano 5Gで脆弱性を利用し、Rockboxをパソコン不要で起動",
+      "originalTitle": "Freeing the iPod Nano 5G",
+      "outlet": "viktorkrapivin.com",
+      "region": "overseas",
+      "category": "it",
+      "score": 38,
+      "tier": "spare",
+      "pubDate": "2026-11-23T23:03:13.000Z",
+      "body": null,
+      "summary": "viktorkrapivin.comの記事は、iPod nano 5GでRockboxを、設置後はパソコンもボタン操作も要らずに起動する仕組みを作ったと報告している。Rockboxは音楽プレーヤー向けのオープンソースのファームウェアである。以前CUB3Dは、フォントを悪用する攻撃「ipod_sun」で第6・第7世代のnanoに任意コードを実行できることを示しており、筆者はこれを第5世代に応用した。第7世代では既存の攻撃を完全に接続不要（untethered）にする方法も見つけたとし、第6世代も同様の可能性があるとしている。\n\nipod_sunは、ファームウェア内のディスクモード用とOS用のエントリを入れ替えてリソースの署名検証を回避し、フォントに含まれるFreeType（フォント描画ライブラリ）の脆弱性（CVE-2010-1797）を突いて任意コードを実行する。ただし再起動のたびにボタン操作でディスクモードを選ぶ必要があった。筆者は通常の起動経路で検証を回避する方法も見つけた。NAND上のプライベート領域にあるFirmwareStatusのビット1を立てると、リソースの署名検証が省略されるという。このレコードは端末固有の認証タグで保護されているため、作成には対象端末でのコード実行が必要だとしている。\n\n筆者は古いフレームワークのemCOREを拡張し、第5世代用のNANDドライバ、NANDを論理セクタとして扱うフラッシュ変換層（FTL）、ハードウェアAESへのアクセスを組み込んだ。これを使ってプライベート領域のレコードと改変したフォントを書き込み、再起動後も残るようにした。フォントに収められるペイロードは27,874バイトが上限で、最適化と未使用部分の削除により収めたという。制御を受け取ったアセンブリのスタブが割り込みやDMAなどの状態を整理し、本体のローダーがウォッチドッグを止めてNANDを読み取る。FAT32領域の/.rockbox/rockbox.ipodを読み込み、Rockboxに制御を渡すとしている。",
+      "sources": [
+        {
+          "outlet": "viktorkrapivin.com",
+          "url": "https://viktorkrapivin.com/blog/nano5g-priv-prvd",
+          "date": "2026-11-23",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": "https://news.ycombinator.com/item?id=50620721",
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "afbf4ed7c77a",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+      "headline": "バージニア州とオレゴン州、Grokの性的画像生成問題でSpaceXを提訴",
+      "originalTitle": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "outlet": "Ars Technica",
+      "region": "overseas",
+      "category": "ai",
+      "score": 38,
+      "tier": "spare",
+      "pubDate": "2026-11-23T21:30:44.000Z",
+      "body": null,
+      "summary": "バージニア州とオレゴン州は、Grokが実在する人物の写真を性的に加工した画像や、児童性的虐待画像（CSAM）、非同意の性的画像（NCII）を今も生成していると主張し、SpaceXを提訴した。両州は州としてSpaceXを提訴した初めての例である。SpaceXは2026年2月にxAIを買収しており、Grokの「スパイシーモード」機能の展開を巡る問題を引き継いだ形になる。Grokは、X上で利用できるAIチャットボットである。\n\n訴状によると、Grokの初期の安全対策は不十分で、依頼されていない裸の画像が生成されることもあった。xAIは後に謝罪し、追加の安全対策を導入したと説明したが、州側はその説明は誤解を招くものだと主張している。Virginia州の調査では、モデレーションは「一貫性がなく効果的でない」と結論づけられた。チャットボットが利用者に検閲を回避する方法を助言したり、回避用のプロンプト作成に応じたりした例もあるという。Muskは1月に、Grokが実在の人物のヌード画像を生成することはないと述べたが、州側は同様の加工が実在する人物の写真にも行われていると主張している。\n\n全米行方不明・被搾取児童センター（NCMEC）は議会に対し、xAIがCyberTiplineに提出したGrok生成のCSAM報告の90%超が「行き止まり」だったと報告した。xAIが当初、捜査に必要な位置情報などの利用者情報を提供しなかったためとされる。州側は、Grok関連のCSAM報告の平均件数が2025年12月から2026年1月に88%、1月から6月にはさらに66%増えたと主張している。\n\nVirginia州の訴状では、約640万件のXアカウントが州内の位置情報と関連付けられ、Grokアプリは州内のIPアドレスの利用者により98万6624回ダウンロードされたと推計している。両州は、違反ごとに数千規模の民事制裁金と、Grokを安全だと宣伝して得た不当利益の吐き出しを求めている。SpaceXのX Safetyは、児童への性的搾取にゼロトレランスの方針を取り、不正利用者のアカウント措置や法執行機関への通報を行っていると説明している。",
+      "sources": [
+        {
+          "outlet": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+          "date": "2026-11-23",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "9878cf4af372",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2611/24/2000003396/",
+      "headline": "Zenken、インド在住のAI人材を日本企業の開発に参加させるサービス開始",
+      "originalTitle": "国内で採れないAI人材、インドで確保 “日本に呼ばない”開発ラボをZenkenが始めた理由",
+      "outlet": "ITmedia AI+",
+      "region": "domestic",
+      "category": "ai",
+      "score": 37,
+      "tier": "spare",
+      "pubDate": "2026-11-24T01:00:00.000Z",
+      "body": null,
+      "summary": "ITmedia AI+の記事によると、人材サービスのZenkenは2026年8月、エンジニアがインドに住んだまま日本企業の開発に加わるサービス「ZenNxt Labs」を始めた。同社は2019年にインドのベンガルールに現地法人を設け、新卒のインド人材を日本企業に紹介してきた。きっかけは、インドに開発拠点を設けたい顧客からの相談である。生成AIの普及で求められる人材が変わった一方、国内では採用が難しくなっているという。\n\n同社が求めるのは、経験15年超で、AIを使って1人で3、4人分の成果を出せる人材である。ここでいうAI人材は、AIそのものを開発する人ではなく、AIを使って開発の生産性を高める人を指す。日本では年収1500万～2000万円を提示しても採れないとしている。候補者は、AI・機械学習やLLM（大規模言語モデル）開発などの実務経験があり、英語で自律的に開発を進められる人が対象で、インドの現地法人に常駐する元CTOとの面談を含む3段階で絞り込む。\n\n料金は年間1300万～1600万円で、Zenkenのサービス料を含む。契約は業務委託で、最短4カ月でチームを立ち上げられ、原則1年ごとに更新する。候補者を引き抜くには現在の年収に2～3割の上乗せが必要だという。この層は新卒と違って来日を望まず、家族や介護などの事情を抱える世代だとされる。自社プロダクトを開発する企業の出身者が狙いである。\n\n新卒紹介も引き続き主力である。来日する場合は入社前に日本語を教えている。日立系企業への紹介では、5期連続で採用し、4年間で18人が入社したが、病気で帰国した1人を除き全員が働き続けているという。同社は2026年度中に10社への導入を目指している。2026年7月の日印首脳会談ではAI分野の協力に関する共同声明が出され、同社は経済産業省と意見交換したとしている。",
+      "sources": [
+        {
+          "outlet": "ITmedia AI+",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2611/24/2000003396/",
+          "date": "2026-11-24",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    }
+  ],
+  "essays": [],
+  "productionNote": {
+    "reachedOutlets": [
+      "ITmedia NEWS",
+      "Ars Technica",
+      "TechCrunch",
+      "Google AI Blog",
+      "The Verge",
+      "Publickey",
+      "OpenAI",
+      "MIT Technology Review",
+      "stalw.art",
+      "github.com",
+      "arxiv.org",
+      "smithsonianmag.com",
+      "ITmedia AI+",
+      "Impress Watch",
+      "cobalt27.dev",
+      "viktorkrapivin.com"
+    ],
+    "unreachedOutlets": [],
+    "excluded": [
+      {
+        "topic": "国際深掘りが当日に扱った3件",
+        "reason": "実行順により先発の系統を優先"
+      }
+    ],
+    "counts": {
+      "deep": 0,
+      "brief": 30,
+      "essays": 0,
+      "chars": 22133
+    },
+    "text": "候補83件から30件を掲載。本文が取れず不採用1件。"
+  }
+}

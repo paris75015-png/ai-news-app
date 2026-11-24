@@ -1,0 +1,2135 @@
+{
+ "date": "2026-11-24",
+ "generatedAt": "2026-11-24T03:19:28.511Z",
+ "measured": {
+  "world": 16,
+  "jp": 6
+ },
+ "unreachable": [
+  {
+   "id": "guardian",
+   "name": "The Guardian",
+   "error": "HTTP 403"
+  },
+  {
+   "id": "euronews",
+   "name": "Euronews",
+   "error": "HTTP 406"
+  }
+ ],
+ "ranking": [
+  {
+   "id": "s-20261113-28",
+   "title": "フアン氏、エヌビディアのCEOに電撃復帰",
+   "firstSeen": "2026-11-13",
+   "daysSeen": 6,
+   "history": {
+    "2026-11-13": 11,
+    "2026-11-16": 12,
+    "2026-11-18": 30,
+    "2026-11-19": 17,
+    "2026-11-20": 3,
+    "2026-11-24": 38
+   },
+   "peak": 38,
+   "worldScore": 38,
+   "worldCoverage": "11/16",
+   "jpScore": 48,
+   "jpCoverage": "5/6",
+   "gap": -10,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 1,
+     "title": "Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal'",
+     "desc": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+     "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "What Nvidia’s Jensen Huang’s return means for Washington and Wall Street?",
+     "desc": "Trump claims credit for Huang&#039;s return, raising concerns over federal government meddling in corporate board decisions.",
+     "url": "https://www.aljazeera.com/economy/2026/11/23/what-nvidias-jensen-huangs-return-means-for-washington-and-wall-street?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.63,
+     "title": "The Return of Jensen Huang",
+     "desc": "The Nvidia C.E.O. is back, President Trump is celebrating and markets are rallying.",
+     "url": "https://www.nytimes.com/2026/11/23/world/jensen-huang-return-nvidia-ukraine.html",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Jensen Huang reinstated as Nvidia CEO",
+     "desc": "In a stunning U-turn, Nvidia's board has reinstated Jensen Huang as the company's President and CEO. The announcement came just days after the board rejected a petition calling for the tech titan's return. US President Donald Trump said had personally got in touch with the board to advocate for his return. Nvidia's stock surged 32%, adding nearly $1 trillion to its market cap while the rest of Wall Street also rallied.",
+     "url": "https://www.france24.com/en/tv-shows/business/20261123-jensen-huang-reinstated-as-nvidia-ceo",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Jensen Huang returns to Nvidia to applause from staff, no trademark leather jacket in sight",
+     "desc": "When Jensen Huang walked back into Nvidia’s headquarters in Santa Clara on Monday – without his trademark black leather jacket – the applause from cheering staff momentarily drowned out nearly two weeks of corporate turmoil. “I’m going to be a better CEO the second time around,” Huang told the crowd, joking that he would need the IT department to set him up with a computer on his first day back. The emotional homecoming marked a stunning reversal just 11 days after Huang’s abrupt resignation...",
+     "url": "https://www.scmp.com/tech/tech-war/article/3375539/jensen-huang-returns-nvidia-applause-staff-no-trademark-leather-jacket-sight",
+     "via": null
+    },
+    {
+     "id": "toi",
+     "name": "Times of India",
+     "region": "world",
+     "weight": 0.5,
+     "title": "'Going to be a better CEO second time around': Jensen Huang returns to Nvidia HQ amid applause and cheers; watch",
+     "desc": "Jensen Huang returned to Nvidia as CEO after an independent investigation into his alleged extramarital affairs. His reinstatement followed a unanimous decision from Nvidia's board, satisfied with his transparency regarding the issues. Notably, Nvidia's stock surged dramatically, increasing by over 31% in a single day. Meanwhile, the Senate Banking Committee has scheduled a hearing for Huang on December 3.",
+     "url": "https://timesofindia.indiatimes.com/business/international-business/going-to-be-a-better-ceo-second-time-around-jensen-huang-returns-to-nvidia-hq-amid-applause-and-cheers-watch/articleshow/136114108.cms",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Nvidia’s board was no match for Trump or Jensen Huang’s backers",
+     "desc": "US President Donald Trump reportedly dialled into an Nvidia board meeting to argue for Huang’s return.",
+     "url": "https://www.straitstimes.com/world/united-states/nvidias-board-was-no-match-for-trump-or-jensen-huangs-backers",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "At AI speed, Nvidia's Jensen Huang finds exoneration - Reuters",
+     "desc": "At AI speed, Nvidia's Jensen Huang finds exoneration Reuters",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRlhOYUV1dThCM2pOcWh3OGZpMXdEckVSTTRWRU5jTlBNX01jcnpFSnljTU1qYWhrQS0zZzBWUHE2dmZoaFprbmN3MzYyUW9xRDhGRnZkX29PWkVTNEtLWnJnMTc1WW81T01QR1ppTUNkR3hSZGF4bm84RkF2QWd3cEFSR29IOFVLWFloLUFZbVluY1ZyUnQ2akRmMnp6Vk42cTRES2ZB?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Nvidia board reinstates Jensen Huang as CEO just days after rejecting his offer to return - AP News",
+     "desc": "Nvidia board reinstates Jensen Huang as CEO just days after rejecting his offer to return AP News",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbUdPNnFZNXVRRHJqeGNYX0ptRk1oUW85OHlueHM2aW5teGxVWmViTWdKOGVTTVBYdWNVTjA3M2d4NUFfQ1Fac2g2ZzVZZ0hMdnZ6V1RQdFRmdWNfZlFzNnRYNmR0YWsxUjFIaTNYR2c5V3RQUHdVVUx4X1loaHF6dEcyNF9fQQ?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Nvidia’s Board Was No Match for Trump or Jensen Huang’s Backers - Bloomberg.com",
+     "desc": "Nvidia’s Board Was No Match for Trump or Jensen Huang’s Backers Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVVVzOFdOb2NreWVDbnpLSXNfYkEycmtjbVJkZTZHUjdhSkZXWDB3bXdJWE1xdWR1UE9SSHhYakRBcVllWFQxcUJIZTIxU0pxS3lDTmpCWW5NZE1WbWdHR3VNUXJaWlJSYmlJV0RQNHRveGxyNXo2RWNPVjctVFpjT21nRVJJSHRseDRzQlFWZEkyNDI0WUNaQlNQY2NMZnhrc1Z5NjVGX3RXdmFZSTVvYjJWMFM?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Jensen Huang’s return is a triumph of money over morals - Financial Times",
+     "desc": "Jensen Huang’s return is a triumph of money over morals Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSjFSYnpXTDZyTE1mc2F5ZURBb1JWVDdrNWRrMldiRWpBWlp1eGZJaWdtY1FTdWFLS2d5Vkg2aWtMRmVhdnNVcld2Z1hiV2drZFZTd0o4SnlGYUdreVJ3LVh3dWYxZnJ4cGJ6T1ozLW9VbmtWTEltNDA1dk90RU5URElfTHc?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "asahi",
+     "name": "朝日新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "エヌビディアのフアン氏電撃復帰 トランプ政権の「確証」が後押しか",
+     "desc": "",
+     "url": "http://www.asahi.com/articles/ASVCR76P4VCRSFVU1TPM.html?ref=rss",
+     "via": null
+    },
+    {
+     "id": "mainichi",
+     "name": "毎日新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "フアン氏のエヌビディアCEO復帰 トランプ氏「疑い晴れた」",
+     "desc": "",
+     "url": "https://mainichi.jp/articles/20261124/k00/00m/020/003000c",
+     "via": null
+    },
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "フアン氏、ＣＥＯ電撃復帰 トランプ氏が介入―米エヌビディア",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026112300537&g=int&m=rss",
+     "via": null
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.85,
+     "title": "トランプ氏、フアン氏復帰に介入 エヌビディアに異例の説得(共同通信)",
+     "desc": "【ワシントン共同】トランプ米大統領は23日、半導体大手エヌビディア最高経営責任者（CEO）へのジェンスン・フアン氏の復帰に関し「私の介入がとても重要だった。取締役会を説得した」とCNBCテレビで明らか",
+     "url": "https://news.yahoo.co.jp/articles/29689da1d22df26c202800cfd32c677f8aedf352?source=rss",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "NVIDIAファン氏復帰、圧力に屈した取締役会 くすぶる再追及の火種 - 日本経済新聞",
+     "desc": "NVIDIAファン氏復帰、圧力に屈した取締役会 くすぶる再追及の火種 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40TEhjNm9PdEF0S2wxMHhxbjZlNHFzbEhNLTQxcmFLTTFSXzJOblVOZTNXWFZtR25LalJyZE4zd0hvSDJPYWNPTHdhdDRaYl9xOHhicVhpaDZiSmx6Tmg4RnV6UmdwRHNtQzVYTw?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261123-01",
+   "title": "リビアの港でロシア艦攻撃、ウクライナ発表",
+   "firstSeen": "2026-11-23",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-23": 33,
+    "2026-11-24": 26
+   },
+   "peak": 33,
+   "worldScore": 26,
+   "worldCoverage": "6/16",
+   "jpScore": 9,
+   "jpCoverage": "1/6",
+   "gap": 17,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.93,
+     "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
+     "desc": "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner.",
+     "url": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.88,
+     "title": "Ukraine Attack Off Coast of Libya Shows Reach of Its Naval Drones",
+     "desc": "President Volodymyr Zelensky said that Ukrainian drones had sunk a corvette and hit a dry cargo vessel, in attacks that involved special operations forces.",
+     "url": "https://www.nytimes.com/2026/11/23/world/europe/ukraine-libya-russian-ships.html",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "How far will Ukraine war spread? Kyiv targets Russian vessels in Libya",
+     "desc": "Talk about spillover. In the Libyan port of Benghazi, Ukraine claiming responsibility for the sinkings first of a Russian warship and then a cargo vessel. That’s on top of the sanctioned ship struck in the Baltic Sea that’s since strayed into Finland’s waters. Legitimate targets?",
+     "url": "https://www.france24.com/en/tv-shows/the-debate/20261123-how-far-will-ukraine-war-spread-kyiv-targets-russian-vessels-in-libya",
+     "via": null
+    },
+    {
+     "id": "npr",
+     "name": "NPR",
+     "region": "world",
+     "weight": 0.77,
+     "title": "Zelenskyy hails Ukraine's attack on a Russian warship docked at a naval base in Libya",
+     "desc": "Ukraine carried out an attack on a Russian warship moored at a port in Libya, President Volodymyr Zelenskyy said, claiming that sea drones sank the navy vessel in a surprise assault.",
+     "url": "https://www.npr.org/2026/11/23/g-s1-155017/ukraine-attack-russian-warship-libya",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Zelenskyy says Ukraine sank Russian warship off Libya&#039;s coast",
+     "desc": "Ukrainian President Volodymyr Zelenskyy said his country was behind attacks that sank a Russian warship and damaged a sanctioned cargo vessel off Libya.",
+     "url": "https://www.cbsnews.com/news/ukraine-zelenskyy-2-russian-ships-libya/",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Zelenskyy hails Ukraine’s attack on a Russian warship docked at a naval base in Libya - AP News",
+     "desc": "Zelenskyy hails Ukraine’s attack on a Russian warship docked at a naval base in Libya AP News",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR1VjenRaWHFSYy04RXNZOGtGZ21ldWg3a1B4WVp3dk1OY2pPZ2pRcXFCLTk0YnJjalVEMnBqV2M2UnpCSENVWVNPVDhEZXhNQTdPZnlPWDJhNXR5VThOTVdKT2JRYmJfOW9hTzdqRUdMakNOUEFHVmdwWnNNOEx6ZmFiRVc5Z1JyZE5nNHFwODlkTkp5aHRVNUZxZVo2aDR0TnN6U2VRTlE?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.56,
+     "title": "リビア沖でロシア海軍の新鋭艦を撃沈…ゼレンスキーが攻撃映像を公開、地中海にまで広がる戦火(ニューズウィーク日本版)",
+     "desc": "ウクライナのゼレンスキー大統領は11月23日、ロシア海軍の艦艇をリビア沖で撃沈したとSNSで発表し、攻撃時の状況を捉えたとする映像を公開した。【映像】ロシア海軍の新鋭艦をリビア沖で撃沈…ゼレンスキー大",
+     "url": "https://news.yahoo.co.jp/articles/bce04ae453d4cf982e16cc1580b0d189b5614f35?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261109-19",
+   "title": "COP31、成果文書なしで交渉決裂",
+   "firstSeen": "2026-11-09",
+   "daysSeen": 9,
+   "history": {
+    "2026-11-09": 10,
+    "2026-11-10": 14,
+    "2026-11-11": 8,
+    "2026-11-12": 17,
+    "2026-11-13": 9,
+    "2026-11-16": 6,
+    "2026-11-19": 6,
+    "2026-11-23": 46,
+    "2026-11-24": 23
+   },
+   "peak": 46,
+   "worldScore": 23,
+   "worldCoverage": "7/16",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 23,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.76,
+     "title": "What failure of COP31 reveals about a divided world",
+     "desc": "Interests of oil-producing countries, a US boycott and a dispute over finance may have torpedoed climate talks.",
+     "url": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.6,
+     "title": "COP31 Climate Talks Broke Down. Now What?",
+     "desc": "With big diplomatic efforts faltering, smaller pacts, local leaders and booming clean energy take center stage.",
+     "url": "https://www.nytimes.com/2026/11/23/climate/cop31-collapse-what-next.html",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Africa disappointed with COP31 outcome",
+     "desc": "In tonight's edition, the COP31 climate summit in Turkey has failed to reach an agreement, exposing deep divisions over fossil fuels and climate finance. Also, DR Congo's Félix Tshisekedi and Kenya's William Ruto agree to restore relations and boost regional cooperation. And determined to help their children, parents in a South African township have transformed a discarded shipping container into a sensory room.",
+     "url": "https://www.france24.com/en/africa-disappointed-with-cop31-outcome",
+     "via": null
+    },
+    {
+     "id": "npr",
+     "name": "NPR",
+     "region": "world",
+     "weight": 0.3,
+     "title": "Climate change talks fall apart in final hours over fossil fuels",
+     "desc": "Some 200 countries gathered in Antalya, Turkey, for COP31, the annual climate negotiations. Countries failed to reach an agreement over fossil fuels - the primary driver of global warming.",
+     "url": "https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "U.N. climate summit ends without deal after contentious fossil fuel debate",
+     "desc": "COP31, the latest installment of the United Nations&#039; annual climate conference, ended Sunday without a final agreement after days of contentious talks collapsed.",
+     "url": "https://www.cbsnews.com/news/un-cop31-climate-conference-ends-no-agreement-fossil-fuel-debate-standstill/",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Here's what's next after climate talks collapse: Reform, individual action, hope and more heat - AP News",
+     "desc": "Here's what's next after climate talks collapse: Reform, individual action, hope and more heat AP News",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSkgxb1RybllUajJ3QTQtNDl5bF9XaWhQejJWQTRlMVd5SmZyb29lcXpxTVp1VE0xQTl1Y19pS0pZcjZtQzZjRXpWaERLUmpQSF9oa2xkUlpNTzBJcDdncHdwRk5nY3MycW13dU1XYUx2U0x0cks4NjNYdjRNNktWYlJhT3NUc0VEVm5iN2h3MnoxaG43dGdic2FlV1BCekRpZ2l5UTZR?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "The COP failure the world needed - Financial Times",
+     "desc": "The COP failure the world needed Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQkFNRWJzc1o3bElTUWJ5RE9xd3FQRllId0N6bW5BVkpOVkY3U2I5dGxXNkxnLU0tQTlBU0FJUlh1aVFJQ1FMRmZvMVJJdzM5d1pCNDNMbF9TRXdDSkx5RkRFQjlVZXRhd0hOZmd6SnRiWWVBTHFXSkxCc0hBUkY1T1JJWDM?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261110-05",
+   "title": "米、Megaspeedを禁輸対象に追加 エヌビディア疑惑",
+   "firstSeen": "2026-11-10",
+   "daysSeen": 5,
+   "history": {
+    "2026-11-10": 6,
+    "2026-11-16": 26,
+    "2026-11-17": 11,
+    "2026-11-18": 16,
+    "2026-11-24": 22
+   },
+   "peak": 26,
+   "worldScore": 22,
+   "worldCoverage": "6/16",
+   "jpScore": 17,
+   "jpCoverage": "2/6",
+   "gap": 5,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.96,
+     "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+     "desc": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
+     "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US adds Megaspeed, firm at centre of Nvidia scandal, to export control list",
+     "desc": "Bureau of Security and Industry adds Singapore-based firm and six other entities to export control list.",
+     "url": "https://www.aljazeera.com/economy/2026/11/24/us-adds-megaspeed-firm-at-centre-of-nvidia-scandal-to-export-control-list?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "toi",
+     "name": "Times of India",
+     "region": "world",
+     "weight": 0.5,
+     "title": "'We will not be abused': Singapore PM Wong warns firms as Megaspeed probe continues",
+     "desc": "",
+     "url": "https://timesofindia.indiatimes.com/world/rest-of-world/we-will-not-be-abused-singapore-pm-wong-warns-firms-as-megaspeed-probe-continues/articleshow/136117544.cms",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US blacklists S’pore-based chip firm Megaspeed linked to Nvidia scandal",
+     "desc": "US companies cannot ship goods, software and technology to companies on ​the entity list without a licence.",
+     "url": "https://www.straitstimes.com/world/united-states/us-blacklists-megaspeed-chip-firm-linked-to-nvidia-scandal",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US blacklists Megaspeed cloud company linked to Nvidia scandal - Reuters",
+     "desc": "US blacklists Megaspeed cloud company linked to Nvidia scandal Reuters",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ3ZUR1ZCZXpLTkNjVFA5cm1ueHd6VjlHUzZSZWUtNE40NndKNFNWQVJqV3k4WHA5SU5BQTBvWmw5dlN3S1RZZHQ5WG5LRGhWMDFxUk83RjdGV0dqWUtjU3c4RlVkdkFBVlhfbXdiVm1WWW44dEtpUXY0Yjk0ZndBN2w3MURmNkVJLUlvM3ZpSmRfV3RTeUJYNHQtS29HaUFwejF2SlVtR2lpY0NqX3BYMg?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US Blacklists Megaspeed After Nvidia Spy Scandal - Bloomberg.com",
+     "desc": "US Blacklists Megaspeed After Nvidia Spy Scandal Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOU0NhYVBxRGtULUZHQ0ZIbURNYzV5M3g1TTBqVXFwTjRfNlloOGZjODFVLXFoMWIzRFU3Q1lCbV9lZTl2Q1pEQ2c4TzRrc19ET25wTjZTY0NjT0l6UzZhN1ZjY3BqUHNEcS1VQXNLSlRqWEk3X2Zyc2tYemp6ck01TzRaT3dUdnFNMU9VNG1rc0ttWHYxZlc1cm9YTE1JSWlMc0NfSG5YSndzeFdMX2VrVmx6Zw?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "疑惑企業に輸出規制適用 エヌビディア半導体巡り―米商務省",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026112400272&g=int&m=rss",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "NVIDIAスパイ疑惑、米商務省がメガスピード社を禁輸対象に追加 - 日本経済新聞",
+     "desc": "NVIDIAスパイ疑惑、米商務省がメガスピード社を禁輸対象に追加 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JcWxZSmp5SXkwR1NWYUt3TURSQUo3bmlEMTdicmxTaUpKbE9fVlJnYVplUUxpVmRQaFFmTTN5TGd5OHduMlBJX1NBSjI1UGUwV29pcGo0UDg4SkJiQU9QNG9lcXlOaWZFTWI3bw?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261124-05",
+   "title": "ペリコ氏の裸写真、書籍販促に使用される",
+   "firstSeen": "2026-11-24",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-24": 18
+   },
+   "peak": 18,
+   "worldScore": 18,
+   "worldCoverage": "4/16",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 18,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.86,
+     "title": "Gisèle Pelicot 'humiliated' after nude photos sent to media to promote book",
+     "desc": "The publisher of an essay on coercive control apologises for \"an unfortunate and inappropriate communication\".",
+     "url": "https://www.bbc.co.uk/news/articles/cm3eg502nxw2o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "'Deeply shocked': Gisèle Pelicot to sue publisher after nude photos used in book campaign",
+     "desc": "French feminist icon Gisèle Pelicot, who became a worldwide symbol against sexual violence during the 2024 rape trials against her husband and dozens of other men, said Monday she will take legal action after nude images of her were sent out without her permission to publicise a psychoanalyst's book on coercive control.",
+     "url": "https://www.france24.com/en/france/20261123-deeply-shocked-gis%C3%A8le-pelicot-sue-publisher-nude-photos-used-book-campaign",
+     "via": null
+    },
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 1,
+     "title": "Pelicot 'humiliated' after nude photos used to promote book",
+     "desc": "Gisele Pelicot has said she is \"deeply shocked\" and \"humiliated\" after nude images of her were sent to the media without her consent to promote a new book about coercive control.",
+     "url": "https://news.sky.com/story/gisele-pelicot-deeply-shocked-after-nude-photos-used-to-promote-book-13615849",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Gisele Pelicot ‘shocked’ after publisher uses nude images in book campaign",
+     "desc": "Pelicot said she would pursue legal action against Tinbad publishing house and the author.",
+     "url": "https://www.straitstimes.com/world/europe/gisele-pelicot-shocked-after-publisher-uses-nude-images-in-book-campaign",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261124-01",
+   "title": "エヌビディア復帰で米株・日本株が急騰",
+   "firstSeen": "2026-11-24",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-24": 16
+   },
+   "peak": 16,
+   "worldScore": 16,
+   "worldCoverage": "5/16",
+   "jpScore": 41,
+   "jpCoverage": "4/6",
+   "gap": -25,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Jensen Huang’s Nvidia return buoys South Korea, Japan stocks",
+     "desc": "Japanese and South Korean stocks surged in early trade on Tuesday, tracking big gains on Wall Street after the shock reinstatement of Nvidia CEO Jensen Huang. The benchmark Kospi was up 338.61 points, or 7.19 per cent, at 5,047.15 on Tuesday morning after gains triggered a five-minute “sidecar” curb on programme trading. Japan’s Nikkei 225 was up 3.88 per cent at 58,623.73 points. In overnight trade, shares of Nvidia rose more than 30 per cent on Huang’s reinstatement as CEO in a stunning...",
+     "url": "https://www.scmp.com/news/asia/east-asia/article/3375547/jensen-huangs-nvidia-return-buoys-south-korea-japan-stocks",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Asian stocks rally as Huang's Nvidia return revives AI trade - Reuters",
+     "desc": "Asian stocks rally as Huang's Nvidia return revives AI trade Reuters",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVGQ3cVhHXzJBLXEybDVWX21xeWcxbUVEOHA1ZV9IU0lacEM2a3dKbmFLSGk2Y1MwLXk0OVFzWV8yT1JNQ3FnX3hWNGxidEZvbDZwTl8tdjNoUDV6MU45ZnJSa3lSMnZJNXdwWk5VRUFOYzJlTk11TmZaS1hocXhPVUE4bw?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US stocks surge and recover half of last week’s plunge after Jensen Huang returns as Nvidia’s CEO - AP News",
+     "desc": "US stocks surge and recover half of last week’s plunge after Jensen Huang returns as Nvidia’s CEO AP News",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNF9ZLU84V2VPZHBHcGx0V3p5TVVoV21zbUYyQWFOWU96ZjBmcExvQ1lpVmtFRzl5RVpXdFg3TGhUM3ZHM282MkdnMVgxZ2lwUTRkcm9KaWlHMEcyZ3R6amZIM25vMFRRM0l1OXNxMFFSQVVnR3hzY3BNb1NyUWwxa2hLMndRMkpVZ2l2X0N2Z3JFcmRVMzRMZldCbzlEZkpGZjNmTVJZdw?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Asian Stocks to Rally as Huang’s Return Revives AI: Markets Wrap - Bloomberg.com",
+     "desc": "Asian Stocks to Rally as Huang’s Return Revives AI: Markets Wrap Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVVBVLTBQYkhINGhEXzM0b3k1ZjV2b25YWmVNMzFuVl9EbkhNWlV1OUtGVVk4YTRLV01lMFZXRGpDLURZVkVJZy15MkZQNUZxYnRhQV9pLXFRQl9EaHlzemVJTmFUQ1VhTUxNUXd0bGxwZm4yLUJMVXdPeHJ2OWdDSkFOTml2a3NRM3VWcThHWGpJVDNi?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Nvidia adds nearly $1tn to market value after it reinstates Jensen Huang - Financial Times",
+     "desc": "Nvidia adds nearly $1tn to market value after it reinstates Jensen Huang Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOY0VMY3VZRlBrNGs0bElpa1NJSEZtREllUzFhaGFRTWVNYXN0eVA3Y0hFMjdrRUtyekZnQ3RDRTVLdTNTNWlSRHdXMkRVeXFEX2tvczJxUVRVYjhRX0hSR0FabmJwMlBrZEhNeHBCS3kxcHladGtoQlFkOW5TMG81Y3RGODk?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "asahi",
+     "name": "朝日新聞",
+     "region": "jp",
+     "weight": 0.53,
+     "title": "日経平均が反発、5万9000円台 エヌビディアCEO復帰が追い風",
+     "desc": "",
+     "url": "http://www.asahi.com/articles/ASVCS02DLVCSULFA002M.html?ref=rss",
+     "via": null
+    },
+    {
+     "id": "mainichi",
+     "name": "毎日新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "日経平均が大幅反発 一時5万9000円台、AI関連で買い戻し",
+     "desc": "",
+     "url": "https://mainichi.jp/articles/20261124/k00/00m/020/029000c",
+     "via": null
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.94,
+     "title": "ジェンスン・フアン氏の電撃復帰で…1日で122億ドル失った空売り勢力(中央日報日本語版)",
+     "desc": "エヌビディアのジェンスン・フアン最高経営責任者（CEO）復帰を受けエヌビディアの株価が急騰し、空売り投資家が1日で122億ドル（約2兆円）を超える含み損を抱えたと推定される。ロイター通信が金融情報分析",
+     "url": "https://news.yahoo.co.jp/articles/811ae61f1d68d91ae950e598f8914f8f268bb7c5?source=rss",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "米ナスダック総合、一時7%急騰 NVIDIAがファン氏CEO復帰で3割高 - 日本経済新聞",
+     "desc": "米ナスダック総合、一時7%急騰 NVIDIAがファン氏CEO復帰で3割高 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Pcm1KT0d5SFRLRW5wcklweWgzS3JyRnVBVklnR2h6VDd2RVdGWDJDamZVVDlfUVdjRnY2eU5OZ1FYRFZYZFhvLWhINWtyMmVtYkxuZm1LdllyMGc2SHlMNVRTS3dIQ2F2VFJlTw?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261123-03",
+   "title": "米下院、民主党が1992年以来の大勝",
+   "firstSeen": "2026-11-23",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-23": 23,
+    "2026-11-24": 12
+   },
+   "peak": 23,
+   "worldScore": 12,
+   "worldCoverage": "3/16",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 12,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "What could Democrats do with their expanding congressional majority?",
+     "desc": "The Democratic Party is debating how best to use its large margin of victory in the US midterm elections.",
+     "url": "https://www.aljazeera.com/news/2026/11/24/what-could-democrats-do-with-their-expanding-congressional-majority?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "npr",
+     "name": "NPR",
+     "region": "world",
+     "weight": 0.88,
+     "title": "Democrats win House by largest margin in 50 years. And, COP31 ends with no deal",
+     "desc": "Democrats have currently flipped 47 House seats and could flip 49 total. And, climate change talks at COP31 ran two days longer than expected, becoming the longest conference in the summit's history.",
+     "url": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Democrats clinch a historic House majority of at least 258 seats, the largest since 1992 - AP News",
+     "desc": "Democrats clinch a historic House majority of at least 258 seats, the largest since 1992 AP News",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN0ZaSUxXY2RGTWZBcXdNRjV0eWhIZUdfWjFBSmI1OHBGZy1qRWFpNnJxZDJVOC14dVFGZGdSS3NfeFNsQm1IcmJIWGs4M0l5alZQZVhDek80S1lnQ3plUkRrbm9uaE44RWtNMTBDTWRLUmdGLWVVUDRJZ1J5TmR4QU5vWW5qT2NvOHB3dklzcFZ2ZFltMy1SYVdJQnNRZFBiaURJN2t0bjExaE0?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261123-07",
+   "title": "メキシコで麻薬王を拘束、米が監視ドローン支援",
+   "firstSeen": "2026-11-23",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-23": 30,
+    "2026-11-24": 12
+   },
+   "peak": 30,
+   "worldScore": 12,
+   "worldCoverage": "4/16",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 12,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.45,
+     "title": "Is Mexico Stepping Up in the War on Drugs?",
+     "desc": "With several powerful drug kingpins recently taken down by Mexican forces, some experts see what may be a new chapter beginning in Mexico.",
+     "url": "https://www.nytimes.com/2026/11/22/world/americas/mexico-us-cartel-arrests.html",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US flew surveillance drone over Mexico to help capture top drug lord",
+     "desc": "Mexican officials say the United States flew a surveillance drone over Mexican territory to help locate and capture one of the country's most wanted drug traffickers. The operation led to the arrest of Fausto Isidro Meza Flores, known as 'El Chapo Isidro'.",
+     "url": "https://www.france24.com/en/americas/20261124-us-flew-surveillance-drone-over-mexico-to-help-capture-top-drug-lord",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Capture of drug lord on FBI&#039;s most wanted list leads to more arrests",
+     "desc": "Fausto Isidro Meza Flores, alias \"Chapo Isidro,\" was captured in Sinaloa during a special forces raid in coordination with U.S. intelligence.",
+     "url": "https://www.cbsnews.com/news/chapo-isidro-capture-violence-arrests-mexico/",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Explainer-Mexico nabs yet another top drug lord, but history of 'Kingpin Strategy' mixed",
+     "desc": "MONTERREY, Mexico, Nov 23 - Mexico notched yet another victory in its intensifying anti-cartel war after elite soldiers nabbed one of the country's most wanted suspected narcos, Fausto Isidro Meza Flores, known as Chapo Isidro, with intelligence help from Washington.",
+     "url": "https://www.straitstimes.com/world/explainer-mexico-nabs-yet-another-top-drug-lord-but-history-of-kingpin-strategy-mixed",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261124-07",
+   "title": "イラン、ヘアスカーフなしで歌った歌手を鞭打ち",
+   "firstSeen": "2026-11-24",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-24": 11
+   },
+   "peak": 11,
+   "worldScore": 11,
+   "worldCoverage": "3/16",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 11,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.72,
+     "title": "Iranian authorities flog singer who performed without hijab, lawyers say",
+     "desc": "Parastoo Ahmadi, three musicians and a producer were reportedly given 74 lashes in Qom.",
+     "url": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Iran flogs singer Parastoo Ahmadi for performing without headscarf",
+     "desc": "Ahmadi and four production team members also face two-year bans on travel and artistic activity.",
+     "url": "https://www.aljazeera.com/news/2026/11/23/iran-flogs-singer-parastoo-ahmadi-for-performing-without-headscarf?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Iran carries out flogging of singer and her team, Iranian website says - Reuters",
+     "desc": "Iran carries out flogging of singer and her team, Iranian website says Reuters",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaTdQZHhWWEpadDE4WGc0WkR4ZW5Ud3pHQ3dKS2xaUGtMdGNnd0JKRC1sNk1qUUt4MG9UUGJlRU91NlJiVHhHNFVZWWluTjJpMWVmNkwtNTYzN0g5cFZVNVg4ZWFCYTRaQlNQWTU0djI4bTZBUnBWNmVIWjF3ZEFfYVp3UVJEdml1c0xEVkxSYzh1UlNNU3BiaG53Z2ctRExWLXVMNENwdjVPNEoxZ25vX2FvUjZGNmk2eGZjeGRR?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261120-01",
+   "title": "英、ミャンマー軍幹部に制裁 ロヒンギャ判決受け",
+   "firstSeen": "2026-11-20",
+   "daysSeen": 3,
+   "history": {
+    "2026-11-20": 38,
+    "2026-11-23": 3,
+    "2026-11-24": 11
+   },
+   "peak": 38,
+   "worldScore": 11,
+   "worldCoverage": "3/16",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 11,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.79,
+     "title": "UK sanctions top Myanmar military leaders after Rohingya genocide ruling",
+     "desc": "The UK is joined by several other nations in recognising an ICJ ruling that Myanmar carried out genocide.",
+     "url": "https://www.bbc.co.uk/news/articles/c6wy4ng1rznxo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.42,
+     "title": "A Landmark Genocide Ruling",
+     "desc": "A U.N. court’s decision against Myanmar sets a precedent in international law with important implications for a similar case over Israel’s actions in Gaza.",
+     "url": "https://www.nytimes.com/2026/11/22/world/genocide-myanmar-un-climate-talks.html",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "UK sanctions Myanmar’s Min Aung Hlaing over genocide ruling; giving Rohingya aid, money",
+     "desc": "Britain ⁠on Monday announced sanctions against five ‌people under its Myanmar and global human rights sanctions ⁠regimes, including senior ‌members of the nation’s military. The ‌sanctions were announced ⁠after ⁠the ‌International Court of Justice (ICJ) ruled last ‌week ‌ruled that ‌Myanmar had committed state-sponsored ⁠genocide against the ⁠Muslim Rohingya minority population in ‌2017. Foreign Secretary Ed Miliband said restrictions would be placed on President Min Aung Hlaing and four other...",
+     "url": "https://www.scmp.com/news/world/europe/article/3375529/uk-sanctions-myanmar-president-military-figures-after-genocide-ruling",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261124-23",
+   "title": "報道夕食会で物まね芸人がトランプ氏を風刺",
+   "firstSeen": "2026-11-24",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-24": 11
+   },
+   "peak": 11,
+   "worldScore": 11,
+   "worldCoverage": "3/16",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 11,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.69,
+     "title": "Comedian impersonates Trump's dance moves, mocks trade talks at Canada press dinner",
+     "desc": "The impersonator, Canadian comedian Mark Critch, poked fun at the US president's search for a new press secretary and US-Canada trade talks.",
+     "url": "https://www.bbc.co.uk/news/articles/cr930y92dyx4o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Canada PM brings Trump impersonator on stage during press gala",
+     "desc": "Comedian Mark McKinney made an appearance as Carney, as did Trump impersonator Mark Critch.",
+     "url": "https://www.straitstimes.com/world/canada-pm-brings-trump-impersonator-on-stage-during-press-gala",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Canada’s prime minister roasts Trump with help from a Trump impersonator - AP News",
+     "desc": "Canada’s prime minister roasts Trump with help from a Trump impersonator AP News",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbVBSdVR0MVl4SXNwek45X0pNSVBzbnlYYmxKeHk4VlhTYjJvcGt6WWRlQW9XV2ZhZS1ab29VaDhKUUc0NEUzdVhfajRNbUFSdFdCYVdiRHNBVllVRFdXd1QxM2l0X3IzakV2ektHbFNkZFI2d3RUQXAyY2NLTXk2TkJtWGdiak5ZVUF4RnVzaFRyX2M3UmtDcU5Fdnl5S21Ienc?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261124-03",
+   "title": "米、イランの「影の銀行」網に制裁",
+   "firstSeen": "2026-11-24",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-24": 9
+   },
+   "peak": 9,
+   "worldScore": 9,
+   "worldCoverage": "3/16",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 9,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US escalates sanctions on Iran, targets ‘shadow banking’ networks",
+     "desc": "US Treasury sanctions over two dozen Iranian entities, citing efforts to disrupt Tehran&#039;s global financial activities.",
+     "url": "https://www.aljazeera.com/news/2026/11/23/us-escalates-sanctions-on-iran-targets-shadow-banking-networks?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US sanctions alleged Iran ‘shadow-banking’ networks",
+     "desc": "The potential networks continue to be connected across continents, most prominently in the UAE, Hong Kong and Singapore, the US Treasury said.",
+     "url": "https://www.straitstimes.com/world/middle-east/us-imposes-sanctions-on-dozens-linked-to-irans-shadow-banking-networks",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US imposes sanctions on dozens linked to Iran's shadow banking networks - Reuters",
+     "desc": "US imposes sanctions on dozens linked to Iran's shadow banking networks Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxON2NaMVlXcGRFQ3BpRFVieGtVRzR4bXFtTXRTRnpSV3JmNzY1REhheG5xNlV5MlptZ1lIM1BQWUhGcTBZNWpHckdxZG1kWUZoZUdxSnRneHJhVzBpUzg0ZGpXQ1lQblItbHg5WXpNUXBqbHpWZ0NqZzdQZEdhNTZKbDZXaHNydXhYM05hd2YtY1lvU0JkVnJBQ3diRVNDV210Z0pZdm5mRnMtUEk4TTNkOXNDMGpvbmpD?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261124-04",
+   "title": "米陸軍、アイオワでの爆薬爆破計画を延期",
+   "firstSeen": "2026-11-24",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-24": 9
+   },
+   "peak": 9,
+   "worldScore": 9,
+   "worldCoverage": "3/16",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 9,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump postpones US Army plan to detonate toxic explosives in Iowa",
+     "desc": "President Trump has further postponed the US Army’s planned detonation of nearly five tonnes of lead azide in Iowa.",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/trump-postpones-us-army-plan-to-detonate-toxic-explosives-in-iowa?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump orders US Army to pause detonation of lead explosives in Iowa - Reuters",
+     "desc": "Trump orders US Army to pause detonation of lead explosives in Iowa Reuters",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVFFFcW1iUGhkYkV4U1hiY3lnTjAxMVlSQk9FLWllSHVkSm9OaGlFUlU3bHZtekNidThUWFBLOXVtUjJwa0p4NWhnT3dNSjA4UGRUQ1hZTlFKV1J5Z2c5dzRYRmpNMDREZTZCdC1ZSnozVnpwR3dXX0h2Q0JYNG1CdjdvUVBoNGtaNXZReGpWNnNrdzcwcXVNQVV4TkJZUzg?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Federal appeals court clears way for US Army to detonate degraded bomb-making material in Iowa - AP News",
+     "desc": "Federal appeals court clears way for US Army to detonate degraded bomb-making material in Iowa AP News",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYnFzVFZqMjBjY2Y1cll0UUxLU2VQMktTZDQ5QmFpaENUUzBXeHJJRS1nQUtpLUdhYVFVbnUxaGI1d1lWc0lwSUM1MWVNcGY0MlVEY3dDbFRXbGxMX3BvRzMzYnFhcTZFUG1xcTh6bDRlQVNhR1JlVmxxVEJ6S2xCZjZxRDgtcGFZWndwUUJ3RkdGLWFDakE?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261124-06",
+   "title": "トランプ氏、ニューサム知事の死刑減刑を批判",
+   "firstSeen": "2026-11-24",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-24": 9
+   },
+   "peak": 9,
+   "worldScore": 9,
+   "worldCoverage": "3/16",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 9,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump calls to ‘expedite’ US federal executions, blasts Gavin Newsom",
+     "desc": "The US president used his podium to attack the California governor for a decision to commute 548 death sentences.",
+     "url": "https://www.aljazeera.com/news/2026/11/24/trump-calls-to-expedite-us-federal-executions-blasts-gavin-newsom?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "toi",
+     "name": "Times of India",
+     "region": "world",
+     "weight": 0.5,
+     "title": "‘Justice is not for sale’: Newsom demands federal reforms to limit presidential pardon powers",
+     "desc": "California Governor Gavin Newsom has accused US President Donald Trump of turning presidential pardons into a business, alleging that wealthy allies and politically connected individuals have benefited from clemency. He called for sweeping federal reforms to limit presidential pardon powers. His remarks came after Trump criticised Newsom for granting clemency to 548 inmates on California's former death row.",
+     "url": "https://timesofindia.indiatimes.com/world/us/justice-is-not-for-sale-california-governor-newsom-demands-federal-reforms-to-limit-presidential-pardon-powers/articleshow/136117990.cms",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump criticizes Governor Newsom for commuting California death sentences - Reuters",
+     "desc": "Trump criticizes Governor Newsom for commuting California death sentences Reuters",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbGxaOWZ5OU45Qk5pWkpJYzRKeFQ2SzRRQkxMcnNFMlZQR3JwLTF5RV9WR2IxT2JyVzdnd0daQWdma1JCTjRuTWZDZUtieWgxazB6eGN2WjlmTHNNaW5VMnFwZkh1MjVvaGh4OE92ZmQ0cUtJOGNzVUszMHZRY3NhVkVEaXJqTml5UFVxaHN6aE5NMGhPVjIwa0RFMHF1UEZFM3A1MVZpYw?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261124-08",
+   "title": "露軍機が韓国の防空圏に入り、韓国が警告",
+   "firstSeen": "2026-11-24",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-24": 9
+   },
+   "peak": 9,
+   "worldScore": 9,
+   "worldCoverage": "3/16",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 9,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "South Korea briefly scrambles fighter jets, issues warning after Russia aircraft fly off coast - Reuters",
+     "desc": "South Korea briefly scrambles fighter jets, issues warning after Russia aircraft fly off coast Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVnMyeTNTLWNPT1JoWVRGdTZmb2hnVi1USk9WNldKUVNfVWkzRk5RSjI5UlVIYkprbnEtOFplWGdpd2JoWmtZeEVZQTF6TGJJU0tEZXhsYVVNaHl1OVlfOF9sc3lHUUdzNXBpeHNqUTF0ZXY2VTcxbHEwbHluRF9sR3N0WnR1T3R1cmRKa1FDSnpOeGJwVVIyN0NhYmF4QmlyZHZjT2JNXzB4ZlY1cTJRNVZtTTluY3lYbmd0TEtlXzA3WUZwTVk3Uw?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "South Korea says several Russian aircraft flew into its air defense zone - AP News",
+     "desc": "South Korea says several Russian aircraft flew into its air defense zone AP News",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSS12cWZyNHNoNWpmOTNnVWhuWWQwSmY1SDU5SjR5YXdxOWJtakJSVGl1RlZlZ09tbDdEUWVXTVc4dHhmN3RnVzFVRDVQSnR5UnBoTjNMOXJqLWxPUWJpSGdTZDQ2VldRVGd2LWN5bEZuYmoxQVdPcnNxemZGQXNya2p3RkpBVlFhWDlvYzJSWmtuZXFXSWxLYkRxSGpRSTJINjlCRFNpR3BDU1lpTVpJ?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "South Korea Briefly Issues Air Raid Warning Over Russian Plane - Bloomberg.com",
+     "desc": "South Korea Briefly Issues Air Raid Warning Over Russian Plane Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPenFyUGVQejJJUkVBTGFNcjJTZ0Qtb2JGbGpDemhMMXZ2dVk2N0NCWGNaRDRoVHBxSkRRSm5lbFdSbWloMU8xQmdrajE2UU5VRGlnU2tyRVRDS1BBM0EzOXRnOVRPbV84SWNlZGlHbmhmcDlPb1k2UlJGWkdUcUN4TjU3QVZYRi0yVHI1SDE4cVZwcU5pMzVBNHlNMmtOU0tNT1ZNNXRCSVlTWE5PS1R0b2REdw?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261124-09",
+   "title": "船舶へのサイバー攻撃、イラン関与を米が調査",
+   "firstSeen": "2026-11-24",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-24": 9
+   },
+   "peak": 9,
+   "worldScore": 9,
+   "worldCoverage": "3/16",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 9,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "toi",
+     "name": "Times of India",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US probes Iran, Russia link after 50 vessels face cyberattack: Report",
+     "desc": "Washington is investigating Iran's potential involvement in numerous cyberattacks against energy tankers carrying hazardous materials. This probe includes incidents where vessels received bomb threats alleging possible explosions. The investigation comes amid concerns that the conflict may expand beyond the Middle East into cyber operations. Iran's Islamic Revolutionary Guard Corps reported three tankers caught fire after hitting naval mines in the Strait of Hormuz.",
+     "url": "https://timesofindia.indiatimes.com/world/middle-east/us-probes-iran-russia-link-after-50-vessels-face-cyberattack-report/articleshow/136117793.cms",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US eyes Iran as possible culprit in dozens of new cyberattacks against ships, WSJ reports",
+     "desc": "Nov 23 - The United States is investigating Iran's potential involvement in dozens of cyberattacks against energy tankers amid concerns that Tehran is widening the war with cyber operations and terror plots against Americans far from the Middle East, the Wall Street Journal reported on Monday.",
+     "url": "https://www.straitstimes.com/world/europe/us-eyes-iran-as-possible-culprit-in-dozens-of-new-cyberattacks-against-ships-wsj-reports",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US eyes Iran as possible culprit in dozens of new cyberattacks against ships, WSJ reports - Reuters",
+     "desc": "US eyes Iran as possible culprit in dozens of new cyberattacks against ships, WSJ reports Reuters",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVjR1WG9RTVdfSTNnS1RTOWcwVlhpeGMtaUdMZGVIU1I0ZWt1ZlhtQ2F1ODJZOEwxVzB2ZHBYNDIxMkEtdjdMY1Z2X050QjY2VjYwR1VmTDZSbWxiQTNwZ09nZTRHYzdweXEzajYxcnZxTUp3eWdSdEtvX2RMTllnY205N3VoTlJnTEQtOEYySEVHNDZMa0p5bHdPWG9KTUw1Zzg3VnZuVEVGV3czanhjQUJxdDNqTXFvMXlZT1k4bmlQYkJfYXUya0lsbzRoUQ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261123-24",
+   "title": "露ミサイルのポーランド飛来受け、NATOが早期警戒機派遣",
+   "firstSeen": "2026-11-23",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-23": 6,
+    "2026-11-24": 9
+   },
+   "peak": 9,
+   "worldScore": 9,
+   "worldCoverage": "2/16",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 9,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "npr",
+     "name": "NPR",
+     "region": "world",
+     "weight": 1,
+     "title": "Russian incursions into NATO territory are increasing",
+     "desc": "NATO Secretary General Mark Rutte is seeking to reassure the alliance's eastern European members after three Russian cruise missiles landed in Poland on Friday.",
+     "url": "https://www.npr.org/2026/11/23/nx-s1-6051013/russian-incursions-into-nato-territory-are-increasing",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "NATO to send early-warning system aircraft to Poland after missiles incident - Reuters",
+     "desc": "NATO to send early-warning system aircraft to Poland after missiles incident Reuters",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNEhFQnBrZnZEa0dZclBpTkZMV3BBNS1tN3NjeGhINDZKcllFTERwWnR6NlpzM0Q0WTZkbGM3SXpVWGZ2bGFFaW4xV2M4T3BIUE1VUkxMX19wa0RwM0JaTDBEM3l4R1ROZlVwSjE1LWVUYnp6SU40WjMyeFlFZjlJYjV0ZE9LVTZkR0pIblp0cXdzeE5fLTNhbkR3QVFfa3pDU2M4blFEMlI4dm5XUTRDUExwTUpyLXJxU0ZiRjBZcFhQWVBFQ294SllhMld3UQ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261123-14",
+   "title": "インドネシア菓子工場火災、24人死亡",
+   "firstSeen": "2026-11-23",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-23": 18,
+    "2026-11-24": 9
+   },
+   "peak": 18,
+   "worldScore": 9,
+   "worldCoverage": "2/16",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 9,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.85,
+     "title": "24 Killed After Fire Rips Through Candy Factory in Indonesia",
+     "desc": "Hundreds of people were at the compound when a blaze broke out on Saturday and then raged for hours.",
+     "url": "https://www.nytimes.com/2026/11/23/world/asia/indonesia-factory-fire.html",
+     "via": null
+    },
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 0.53,
+     "title": "Deadly fire at confectionery factory kills 24 as rescuers search for dozens still missing",
+     "desc": "A deadly fire that tore through a confectionery factory in Indonesia has claimed the lives of 24 people, with 34 others still missing.",
+     "url": "https://news.sky.com/story/deadly-fire-at-confectionery-factory-in-indonesia-kills-24-as-rescuers-search-for-dozens-still-missing-13615577",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261124-24",
+   "title": "オックスファム、ガザは「有毒な荒れ地」と指摘",
+   "firstSeen": "2026-11-24",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-24": 9
+   },
+   "peak": 9,
+   "worldScore": 9,
+   "worldCoverage": "2/16",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 9,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.82,
+     "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
+     "desc": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions.",
+     "url": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "abc-au",
+     "name": "ABC Australia",
+     "region": "world",
+     "weight": 0.62,
+     "title": "Israel's bombardment has turned Gaza into 'toxic wasteland'",
+     "desc": "New research suggests more than 99 per cent of the Gaza Strip shows signs of contamination from Israeli attacks.",
+     "url": "https://www.abc.net.au/news/2026-11-24/israel-s-bombardment-turns-gaza-into-toxic-wasteland/107419898",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261124-02",
+   "title": "ゼレンスキー氏、ロシアの新たな攻撃計画を警告",
+   "firstSeen": "2026-11-24",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-24": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/16",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Zelensky says intelligence shows Russia planning new strikes on Ukraine",
+     "desc": "Russian forces have been subjecting Kyiv and other cities to virtually continuous air attacks since September.",
+     "url": "https://www.straitstimes.com/world/europe/zelenskiy-says-intelligence-shows-russia-planning-new-strikes-on-ukraine",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Zelenskiy says intelligence shows Russia planning new strikes on Ukraine - Reuters",
+     "desc": "Zelenskiy says intelligence shows Russia planning new strikes on Ukraine Reuters",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUEtCdFptTFlUZFVRQTdNbV9MZTBUM1AwRXFBVlptR2RoZ0h4S1RVUEgtVTJLSzhTTVBVZVRSU1YxMlhVQzBNZEh2MmM1UlI2MUNLQ3kzN2JpY1I5dERzQlBoc1hHel9QaU9qOWltdEdScE96OHJfUXVkX1ZLaXpJVDdDSUoxX0ZkMXBVMUFwaTUtMzlYQUVPSUgxLWZSQ0pXSzZmUExIWERRNi10X1JFaw?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261124-10",
+   "title": "プリンストン大の中国人研究員、ICEが拘束",
+   "firstSeen": "2026-11-24",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-24": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/16",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US says detained Princeton PhD student from China overstayed visa in 2016",
+     "desc": "The US Department of Homeland Security (DHS) has said a Chinese PhD student at Princeton University in New Jersey, detained by immigration authorities last week, overstayed her authorised period of stay in the country in 2016. A DHS spokesperson told the South China Morning Post on Monday that US Immigration and Customs Enforcement (ICE) carried out a “targeted immigration enforcement operation” at Ronald Reagan National Airport in Washington on November 19 to arrest Eva Yi Xie. Xie was admitted...",
+     "url": "https://www.scmp.com/news/china/diplomacy/article/3375533/us-says-detained-princeton-phd-student-china-overstayed-visa-2016",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Chinese neuroscientist at Princeton is held by ICE after detention at Washington airport - AP News",
+     "desc": "Chinese neuroscientist at Princeton is held by ICE after detention at Washington airport AP News",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObVdMZDlteGtHYVhFZERUMlRkNEFRM2pVcHJzRzVsTzFrMlVyenFzQ2JXeVl0dTBOVlZFYzNkMU83Z25iTXN0S3c3V0ZjNEoxV3dscE05M2hPaEk0V18wZm54MWxWUUtFY1p6d19yZktaS25KTFBTNHBtb0VXWWczZGJuUFRQbXVUaDJvUDZLbzFMOEQyZ0k5dHoyQ2VqTEFjVFphQ0tvQQ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261124-11",
+   "title": "イスタンブールでメスライオンの捜索続く",
+   "firstSeen": "2026-11-24",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-24": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/16",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Turkish police hunting for lioness stalking Istanbul",
+     "desc": "Questions being asked about big cat&#039;s origins, with suspicion falling on the country&#039;s growing role in animal smuggling.",
+     "url": "https://www.aljazeera.com/news/2026/11/23/turkish-police-hunting-for-lioness-stalking-istanbul?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Search on for lioness seen roaming Istanbul&#039;s outskirts",
+     "desc": "Police and animal welfare teams in Istanbul are searching for a lioness seen prowling the city&#039;s outskirts, Turkish officials say.",
+     "url": "https://www.cbsnews.com/news/lioness-istanbul-turkey-outskirts-search/",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261123-15",
+   "title": "キーウ近郊へのロシア攻撃、死者と行方不明",
+   "firstSeen": "2026-11-23",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-23": 19,
+    "2026-11-24": 6
+   },
+   "peak": 19,
+   "worldScore": 6,
+   "worldCoverage": "2/16",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.48,
+     "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+     "desc": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
+     "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Russian attack near Ukraine’s capital strikes apartment building, killing 3 and burying others - AP News",
+     "desc": "Russian attack near Ukraine’s capital strikes apartment building, killing 3 and burying others AP News",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV0dYbG15VGlQaUxBOGJXQkhMem1ZTEJVSWE3QkJHT0FaaVo3Tk5iai1LcHd0NEVPRm1EYldUR1pHNENaa3dYTmpfOUpsVHJnTGtXa2VvRXNLaHc0bjNBZWNXTVowT3FWRTk0MzgtNXktN2hUNFhnUlVYSjFXRVBNNUt5bDcyNXMyb3pQV2pCbWphUGItclFzeDVKV1pTT0xUQzVZQ2xrVUZ0UWtoZEo0?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261124-12",
+   "title": "米州、Grokの性的画像巡りマスク氏企業を提訴",
+   "firstSeen": "2026-11-24",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-24": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/16",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US states sue SpaceX over Grok AI’s creation of child sexual abuse material",
+     "desc": "Virginia and Oregon filed separate lawsuits on Monday, accusing the company of promoting Grok&#039;s &#039;spicy mode&#039;.",
+     "url": "https://www.aljazeera.com/economy/2026/11/23/us-states-sue-spacex-over-grok-ais-creation-of-child-sexual-abuse-material?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US states sue Musk companies over sexualised images made with Grok",
+     "desc": "Elon Musk’s businesses harmed consumers by avoiding safeguards when they designed and launched an artificial intelligence chatbot capable of creating sexualised images, two Democratic attorneys general argued in lawsuits filed on Monday. The choices that went into building Grok led to a proliferation of child sexual abuse material and other nonconsensual intimate imagery on the companies’ platforms, the lawsuits said. The companies prioritised their business model over the safety of millions of...",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3375532/us-states-sue-musk-companies-over-flood-sexualised-images-made-ai-chatbot-grok",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261120-27",
+   "title": "高市首相と習主席、APECで握手のみ 会談見送り",
+   "firstSeen": "2026-11-20",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-20": 3,
+    "2026-11-24": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/16",
+   "jpScore": 13,
+   "jpCoverage": "2/6",
+   "gap": -7,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "dw",
+     "name": "Deutsche Welle",
+     "region": "world",
+     "weight": 0.5,
+     "title": "After Japan's APEC snub, what's next for its China ties?",
+     "desc": "Japan has long-running concerns over Chinese military expansionism, and Beijing has bristled at Sanae Takaichi's comments on Taiwan. The frosty ties were on full display at the APEC summit.",
+     "url": "https://www.dw.com/en/after-japan-s-apec-snub-what-s-next-for-its-china-ties/a-80020823?maca=en-rss-en-world-4025-rdf",
+     "via": null
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Japan’s Takaichi isolated on world stage - Financial Times",
+     "desc": "Japan’s Takaichi isolated on world stage Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNU81ZWJ1bnNkV01tOE1aWmR4MnVUTDVuTWxXSXdKV2d2d0JsNF9tOWhyc0JKaUE5SWpleFdsUVN0NXlReml5ODBKbnExZE9JbTVPd1hvWHFFRTItYXhKdDFSUkl1aDh4Y3pUaEl1Z0dLZ2JsUWJVSENTdFQ5ckhsQ2s2OXE?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "asahi",
+     "name": "朝日新聞",
+     "region": "jp",
+     "weight": 0.3,
+     "title": "中国が狙うのは「高市政権の孤立」 識者が見る「握手と冷遇」の意味",
+     "desc": "",
+     "url": "http://www.asahi.com/articles/ASVCP1T6FVCPUTFK01KM.html?ref=rss",
+     "via": null
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.45,
+     "title": "儀典上の冷遇【萬物相】(朝鮮日報日本語版)",
+     "desc": "欧州連合（EU）は、常任議長と欧州委員長による二重リーダーシップ体制だ。国家に例えれば大統領が2人いるようなもので、このため首脳会談の際、相手国は1人、EUは2人が出席するという見慣れない光景が生じる",
+     "url": "https://news.yahoo.co.jp/articles/55fe94e0ce96e7f9bcadf111070ec051d1e583fe?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261124-16",
+   "title": "クラウドストライク、ゼットスケーラーを440億ドルで買収",
+   "firstSeen": "2026-11-24",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-24": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/16",
+   "jpScore": 8,
+   "jpCoverage": "1/6",
+   "gap": -2,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "CrowdStrike to acquire Zscaler in a $44 billion deal that would create a cybersecurity giant - AP News",
+     "desc": "CrowdStrike to acquire Zscaler in a $44 billion deal that would create a cybersecurity giant AP News",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQekFodWNTV2dTaVZ6VDJScmUybjJ3QXRURFJjeVNtQVBmOEJkYUZTNnFlMnNKalRWdFdXOWVwTjg1TFU3THJIOU9hSXNtSXZCczVaT0xDYnNKUEJUYXFXbVpTUkhTNWRFb3VIa1RDcHdOMzB4ZVV4cTZ6STBQZ2RWLWNPT2U1RGRHYjIxNEZ1QlFXQXZJMDhJeHdDLUFUc2tSUjJoejc1dGhzTWtkUS1Hb3V1V1hKbXplV3J2Zw?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "CrowdStrike to buy Zscaler in $44bn deal as cyber threats mount - Financial Times",
+     "desc": "CrowdStrike to buy Zscaler in $44bn deal as cyber threats mount Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaXRqYWdBS2lmTXl0cGRSN0lSa1JjMTBKNzlLSktkUXBQaW9idWU1b3hSc0kwUExtMV9SODYzSHU4REJWakg5cDc3X01jU2ctMUdRV0w1eHRBUXh0NjlQUDB6MXVwb09lVUZZdUNBNEhpLWw2V2hPSXF1QlAteEpFSEQ2bFU?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "クラウドストライク、ゼットスケーラー7兆円買収 サイバー2強統合 - 日本経済新聞",
+     "desc": "クラウドストライク、ゼットスケーラー7兆円買収 サイバー2強統合 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IZjBMc0xLdnRuXy1XbjRGMVR0Zko3VHdqZnBJbTVDYUNTR1FQWk82TnNrcmJsTXF5eEpqRFVSeWRIMjhtY1haUkpBVWhqNnlWWmdnZ2NuZVJJVWVlMGNDd1JPSkIxS3RWTWZPeg?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261124-17",
+   "title": "アップル、レッド色のHomePod miniなどを発売へ",
+   "firstSeen": "2026-11-24",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-24": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/16",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Apple prepares to launch red HomePod Mini and AirPods Max",
+     "desc": "The products come on or around Dec 1, designated as World AIDS Day, tied to the (Red) organisation’s 20th anniversary.",
+     "url": "https://www.straitstimes.com/world/apple-prepares-to-launch-red-homepod-mini-and-airpods-max",
+     "via": null
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Apple Prepares to Launch Product(Red) HomePod Mini and AirPods Max - Bloomberg.com",
+     "desc": "Apple Prepares to Launch Product(Red) HomePod Mini and AirPods Max Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcE9KcUxjdGR3cENNM1Y2eDJDbldBWHdSaHpHNUdFQklINkg5NUdLRS1uSmd3aUswa3FFSjV5RTBwaUtoWmQ0X1NhSWNTcW90N1JvTjROU2o3YjVob0d4STloekZxckVqS0pESlRlNUt5QU8wQTVaSzgzMDhJSk5JWG5hSFE4cUIyaUQ5QnpXTERjZXRlb2xRS1VTUlVEbEFzdGJDQWcyY3VEekswU3RBMllwazZ6TDRSeGxzQTZyVDJSdUVReUdsTQ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261124-18",
+   "title": "国連事務総長、AI監視の国際枠組みを1年内に要請",
+   "firstSeen": "2026-11-24",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-24": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/16",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "UN chief calls for world to agree on AI oversight within a year",
+     "desc": "Secretary-General Antonio Guterres has become increasingly vocal about AI as end of term nears.",
+     "url": "https://www.aljazeera.com/news/2026/11/24/un-chief-calls-for-world-to-agree-on-ai-oversight-within-a-year?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "'Maintain control': UN chief calls for creation of global AI safety framework within a year",
+     "desc": "UN chief Antonio Guterres on Monday urged countries to agree on the creation of a global framework for managing the dangers posed by artificial intelligence within one year. Speaking at a summit in Barbados, he warned that taming the technology is vital if humanity is to stay in charge of its own future.",
+     "url": "https://www.france24.com/en/americas/20261123-un-chief-antonio-guterres-calls-for-global-ai-safety-framework-within-a-year",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261124-19",
+   "title": "EU、対露制裁案にスポーツ禁止を盛り込む",
+   "firstSeen": "2026-11-24",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-24": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/16",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "EU plans sports ban in sweeping new Russia sanctions proposal",
+     "desc": "Proposed sanctions aim to curb Russian crypto financing and &#039;propaganda&#039; in sports.",
+     "url": "https://www.aljazeera.com/news/2026/11/23/eu-plans-sports-ban-in-sweeping-new-russia-sanctions-proposal?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "EU proposes banning Russian flags at sports events under new sanctions",
+     "desc": "European Commission President Ursula von der Leyen has announced a proposal for the next sanctions package over Russia’s war against Ukraine that would ban Russian teams and individual athletes from competing under the Russian flag at events in the EU in the future. The plan also includes banning the display of official Russian symbols and restricting financial flows from Russian sponsors to sports and cultural associations based in Europe. Russian nationals would also no longer be allowed to...",
+     "url": "https://www.scmp.com/news/world/europe/article/3375530/eu-moves-ban-russian-flags-sports-events-under-new-sanctions",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261124-20",
+   "title": "トランプ氏、中国がボーイング250機購入と発言",
+   "firstSeen": "2026-11-24",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-24": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/16",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump says he expects China to buy another 250 Boeing planes",
+     "desc": "Boeing has become a favourite tool for Trump to leverage US corporate power in return for diplomatic wins.",
+     "url": "https://www.straitstimes.com/world/united-states/trump-says-he-expects-china-to-buy-another-250-boeing-planes",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump thinks China will buy another 250 Boeing airplanes - Reuters",
+     "desc": "Trump thinks China will buy another 250 Boeing airplanes Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVTRDX1g3YlY5UEgxMzJ3OTdhU0VUdU1ubmRRXzZwaDVibmRycVllN2hQSUhyeEFfNWpwc1VWQ1hKR3NSeTVmZHpSQ1hLeW5pUFpoNW15MGljX1BXUkdRX0hxeEdUMzkyNFVFYzlpb2ZNN09IN1FDXzIxblBEVjgtS3hlNTZRcnRWN2ZQOW8tYmtKeXlwTDI0bW9rSXpJZ2cxcU9wazcyMGZ1RFFaM01SRUd3QkYwN000dVFJ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261124-21",
+   "title": "バンス副大統領のベネズエラ石油契約、上院が調査",
+   "firstSeen": "2026-11-24",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-24": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/16",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "J.D. Vance’s ties to prized Venezuelan oil contract under investigation by US Senate panel",
+     "desc": "A meeting between Vance and a Vitol trader allegedly took place a week before the US invaded Venezuela in January.",
+     "url": "https://www.straitstimes.com/world/united-states/jd-vances-ties-to-prized-venezuelan-oil-contract-under-investigation-by-us-senate-panel",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "EXCLUSIVE: JD Vance's ties to prized Venezuelan oil contract under investigation by US Senate panel - Reuters",
+     "desc": "EXCLUSIVE: JD Vance's ties to prized Venezuelan oil contract under investigation by US Senate panel Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcXNHRzZxSXRIbENTdUYwdUh0eTZHWTJBb1diaGRXYm8tTTBRWTFRTk9Lc3FsbW1kb1g5QTg0eXZEbHdHNFVyWUl2ZzhxNDloajNfeDUyV0dKVVQ2QjA3UUU2S3NoaXZ1OUVhMGMtamxNMFpTTFhxT2NUTUNJTDl6TlVJSFNTWENydE1sUWNiM1o3SzIySUVTV1JUbzE2TVI5YktHb1AzZlZIUnJsR2lYLVp2RzhpTDdHbzZUVmZmRTAzYjFZejZWbkRR?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261124-22",
+   "title": "ウィリアムズ総裁、利上げの可能性に言及",
+   "firstSeen": "2026-11-24",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-24": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/16",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Fed's Williams says inflation still too high, signals more rate hikes possible - Reuters",
+     "desc": "Fed's Williams says inflation still too high, signals more rate hikes possible Reuters",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNa3lvbHFTMGFKUm9paUJYVzFoQzd1QnQtSzAtTlZmSlFyRW5Sc1hic3p2MVV0VWVrYjFkNDdQZlFTUWMzZGFueG5yMTVMcGhLWUxwQi16Ujk5b2ppMVRWTGowaHlMZDQ4Z19xbWpCQTRFVzFHSHhxeW9kbG80OTVtSEZsb3REX29FRFFPR0xzTnFjYXh6?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Fed’s Williams Says Officials Must Act ‘Over Time’ On Inflation - Bloomberg.com",
+     "desc": "Fed’s Williams Says Officials Must Act ‘Over Time’ On Inflation Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPd2hFTElab1BSaGQzN2hEczFEakZGaGV3TW00N2laRU0zb3prdDc4am9uR3MwOGtucDNsRU9UT0d6eG5aZjYzcnpIUXRnOGJ0eFhuX0pCRnoyLXJCMEJnMnMtd01xVXd0MVItSVVPUWZ3QzE3UGdTNVVFWkZiUkxoNW9BcG94WnNnQ21FejZnQUs1Nm9HdFMyeUxlazZEY2hOSUhFaFl5dWNUdG5HdDBDM3ZR?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261123-28",
+   "title": "キャサリン妃、がん闘病を振り返る映像を公開",
+   "firstSeen": "2026-11-23",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-23": 10,
+    "2026-11-24": 5
+   },
+   "peak": 10,
+   "worldScore": 5,
+   "worldCoverage": "2/16",
+   "jpScore": 13,
+   "jpCoverage": "1/6",
+   "gap": -8,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.3,
+     "title": "Catherine, Princess of Wales, Documents Life With Cancer in BBC Film",
+     "desc": "“Cancer does change you,” Catherine, who is in remission, says in a trailer for the film. It will be released this month.",
+     "url": "https://www.nytimes.com/2026/11/21/world/europe/princess-kate-bbc-cancer-film.html",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Kate Middleton on cancer journey: \"We&#039;re not meant to carry life&#039;s challenges alone\"",
+     "desc": "The Princess of Wales, Kate Middleton, opened up about her cancer battle in a new documentary. Leigh Kiniry has more details from London.",
+     "url": "https://www.cbsnews.com/video/kate-middleton-cancer-journey-not-meant-carry-lifes-challenges-alone/",
+     "via": null
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.77,
+     "title": "キャサリン妃、がん闘病を経て新たなドキュメンタリーを発表…「診断後の人生」をテーマに込めた思い(ニューズウィーク日本版)",
+     "desc": "「がんは人を変える（Cancer does change you）」雄大な自然の風景とともに、そんな言葉が映し出される。【映像】「がんは人を変える」…キャサリン妃が発表した新たなドキュメンタリー『He",
+     "url": "https://news.yahoo.co.jp/articles/0ccafdac93829d37f50b1ee329bf63430454a67a?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261123-08",
+   "title": "ブルガリ創業家のパオロ氏死去、89歳",
+   "firstSeen": "2026-11-23",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-23": 6,
+    "2026-11-24": 4
+   },
+   "peak": 6,
+   "worldScore": 4,
+   "worldCoverage": "1/16",
+   "jpScore": 8,
+   "jpCoverage": "1/6",
+   "gap": -4,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.57,
+     "title": "Paolo Bulgari, Heir of Italian Jewelry Dynasty, Dies at 89",
+     "desc": "As the chairman of his family’s company, Mr. Bulgari embraced maximalist aesthetics that recalled ancient Rome. After the 2008 financial crisis, he steered the sale of the business to LVMH.",
+     "url": "https://www.nytimes.com/2026/11/23/style/paolo-bulgari-dead.html",
+     "via": null
+    },
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "パオロ・ブルガリ氏死去、８９歳 世界的宝飾ブランドに―伊",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026112400391&g=int&m=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261123-13",
+   "title": "韓国、AIを使った試験不正の処罰強化へ",
+   "firstSeen": "2026-11-23",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-23": 17,
+    "2026-11-24": 3
+   },
+   "peak": 17,
+   "worldScore": 3,
+   "worldCoverage": "1/16",
+   "jpScore": 8,
+   "jpCoverage": "1/6",
+   "gap": -5,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "South Korean minister says he is too old to tackle AI exam cheating - Financial Times",
+     "desc": "South Korean minister says he is too old to tackle AI exam cheating Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdkk2Vnd1bHlNbDRWcHU0VldMd3hVYmpybVpfY2d4RE9tZmlEVDVCSlFENlNnQ0FmUzgwNnh2cnVSVzBZLVhPXzNtT3dOd0xNbXA5eDB1TUJ6UWlhVW90dGY0SmtTak1MUlEzR3ZtdWZEOUxQU3M4QWJBNEk0RDNBOExDVC0?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "李大統領 試験での不正行為は「重大犯罪」＝処罰強化へ(聯合ニュース)",
+     "desc": "【ソウル聯合ニュース】韓国の李在明（イ・ジェミョン）大統領は24日の閣議で、各種試験で人工知能（AI）などを悪用した不正行為への懸念が高まっていることについて、「あらゆる試験での不正行為は誠実に努力し",
+     "url": "https://news.yahoo.co.jp/articles/1cebb42a001aba33fa762df9857bfc3c8eccaa7a?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261124-15",
+   "title": "アームのハースCEO、長期関与を表明",
+   "firstSeen": "2026-11-24",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-24": 3
+   },
+   "peak": 3,
+   "worldScore": 3,
+   "worldCoverage": "1/16",
+   "jpScore": 8,
+   "jpCoverage": "1/6",
+   "gap": -5,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Rene Haas affirms his ‘long-term commitment’ to Arm after Nvidia approach - Financial Times",
+     "desc": "Rene Haas affirms his ‘long-term commitment’ to Arm after Nvidia approach Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04dkZwQjNvRlBzV0xfbDhfT0Z3dWVUcEJWYjdNZmJpd1lVZ2Fsa2NsaW9rM2EwR0RFM3ZGN1ZJT3JJRVNNSkdZU0k1NDI3bGxFYWxhTFRjZ2FNTnh2RXNCWW1NRm1tTTR4T09kQV9uazE?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "アームCEOが長期契約、ソフトバンクG副会長に 一時NVIDIA後継説 - 日本経済新聞",
+     "desc": "アームCEOが長期契約、ソフトバンクG副会長に 一時NVIDIA後継説 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yUUs1eGVXeVRkbmJSMUdSSlJraHFTV3ZPVmE5V2Y4eXBmcUhmOE40VjlnMEFFLW1MU29LTThLd2hQeDRsLVpMRUN3VUdPaWEtWUN3UFM0SGp1ZnhvbTFvVlJsbmxCTkpOSjhxNA?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261123-34",
+   "title": "関文科相に問責決議案、政治資金パーティー問題",
+   "firstSeen": "2026-11-23",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-23": 3,
+    "2026-11-24": 0
+   },
+   "peak": 3,
+   "worldScore": 0,
+   "worldCoverage": "0/16",
+   "jpScore": 40,
+   "jpCoverage": "4/6",
+   "gap": -40,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "asahi",
+     "name": "朝日新聞",
+     "region": "jp",
+     "weight": 0.42,
+     "title": "野党、関文科相への問責決議案提出で一致 与党にも続投は厳しい見方",
+     "desc": "",
+     "url": "http://www.asahi.com/articles/ASVCS0P72VCSUTFK005M.html?ref=rss",
+     "via": null
+    },
+    {
+     "id": "mainichi",
+     "name": "毎日新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "萩生田氏「法的問題ないが、説明を」 文科相パーティー問題で",
+     "desc": "",
+     "url": "https://mainichi.jp/articles/20261124/k00/00m/010/035000c",
+     "via": null
+    },
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "野党、文科相問責案提出へ パーティー問題受け",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026112400408&g=pol&m=rss",
+     "via": null
+    },
+    {
+     "id": "yahoo",
+     "name": "Yahoo!ニュース主要",
+     "region": "jp",
+     "weight": 1,
+     "title": "野党 文科相への問責案提出で一致",
+     "desc": "",
+     "url": "https://news.yahoo.co.jp/pickup/6603783?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261124-13",
+   "title": "都心の中古マンション価格、13年ぶり前年割れ",
+   "firstSeen": "2026-11-24",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-24": 0
+   },
+   "peak": 0,
+   "worldScore": 0,
+   "worldCoverage": "0/16",
+   "jpScore": 18,
+   "jpCoverage": "2/6",
+   "gap": -18,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "asahi",
+     "name": "朝日新聞",
+     "region": "jp",
+     "weight": 0.56,
+     "title": "都心の中古マンション「下落局面まで秒読み」、13年ぶり前年割れ",
+     "desc": "",
+     "url": "http://www.asahi.com/articles/ASVCM35LFVCMULFA00LM.html?ref=rss",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "都心の中古マンション価格、13年半ぶり前年割れ 金利上昇で退潮 - 日本経済新聞",
+     "desc": "都心の中古マンション価格、13年半ぶり前年割れ 金利上昇で退潮 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wNjNYejMwWFlnZVNpTVRDUzVHQXpPWDJPMzV2UUtTY3Fwc1VXQnd6QmJ3OWtGUFZUV3pVOG90YVdydjlHVUpGQjhiQzhyeWJYcGttQm40ekQ5MG9YTnhMVV9wS3lLT010NFU5aQ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261124-14",
+   "title": "EU、EV優遇から日本製を除外 政府が懸念",
+   "firstSeen": "2026-11-24",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-24": 0
+   },
+   "peak": 0,
+   "worldScore": 0,
+   "worldCoverage": "0/16",
+   "jpScore": 17,
+   "jpCoverage": "2/6",
+   "gap": -17,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "mainichi",
+     "name": "毎日新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "官房長官「不利益生じる可能性」 日本製EVの優遇除外に懸念",
+     "desc": "",
+     "url": "https://mainichi.jp/articles/20261124/k00/00m/010/037000c",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "EUのEV優遇、修正案でも日本製を除外 26年末に向け官民で見直し要求 - 日本経済新聞",
+     "desc": "EUのEV優遇、修正案でも日本製を除外 26年末に向け官民で見直し要求 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42MGhoUGZuZDBSc1dzWWZPSDFyS19rdUVUWXZoVXJFT1V2WkVWaENFcmVXeDdZd3VFdGJYSXZ2VmpYOXA5TG9oZUR1b3lFTzR2X0ZxOXFRUEd4VnEzZGdLOVdyMk9oVFhwX3h1OA?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261109-11",
+   "title": "立憲、消費減税の対案に非課税世帯5万円給付",
+   "firstSeen": "2026-11-09",
+   "daysSeen": 4,
+   "history": {
+    "2026-11-09": 0,
+    "2026-11-12": 0,
+    "2026-11-17": 0,
+    "2026-11-24": 0
+   },
+   "peak": 0,
+   "worldScore": 0,
+   "worldCoverage": "0/16",
+   "jpScore": 22,
+   "jpCoverage": "2/6",
+   "gap": -22,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "立民、消費減税の対案提出 非課税世帯に５万円",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026112400346&g=pol&m=rss",
+     "via": null
+    },
+    {
+     "id": "yahoo",
+     "name": "Yahoo!ニュース主要",
+     "region": "jp",
+     "weight": 0.8,
+     "title": "立憲 最大5万円給付案を参院提出",
+     "desc": "",
+     "url": "https://news.yahoo.co.jp/pickup/6603770?source=rss",
+     "via": null
+    }
+   ]
+  }
+ ]
+}
