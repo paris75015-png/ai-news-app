@@ -110,7 +110,7 @@ jobs:
             --disallowedTools "WebFetch" "WebSearch" \
             --output-format json --no-session-persistence \
             < pipeline/intl-prompt.md > intl-result.json
-          python3 -c "import json;d=json.load(open('intl-result.json'));u=d.get('usage',{});print('[sonnet]', 'エラー' if d.get('is_error') else '完了', '出力', u.get('output_tokens'), 'トークン'); print(str(d.get('result'))[:1500])"
+          python3 -c "import json;d=json.load(open('intl-result.json'));u=d.get('usage',{});print('[sonnet]', 'エラー' if d.get('is_error') else '完了', '出力', u.get('output_tokens'), 'トークン'); print('[sonnet] 合計', json.dumps({k:u.get(k) for k in ('input_tokens','cache_creation_input_tokens','cache_read_input_tokens','output_tokens')}|{'turns':d.get('num_turns'),'apiCostUsd':d.get('total_cost_usd')})); print(str(d.get('result'))[:1500])"
           # 書けたかを機械的に確かめる（「資料はあるのに出ていない」を見逃さない）
           node -e "
             const fs=require('fs'); const d=JSON.parse(fs.readFileSync('public/data/intl.json','utf8'));
@@ -145,13 +145,27 @@ jobs:
           path: dist
       - id: deployment
         if: always()
+        continue-on-error: true
+        uses: actions/deploy-pages@v5
+      # 公開は、直前に上げたファイルが見つからないと言われて失敗することがある（11/23 に発生）。少し待って1回だけやり直す
+      - name: 公開のやり直し（待機）
+        if: always() && steps.deployment.outcome == 'failure'
+        run: sleep 45
+      - id: deployment_retry
+        if: always() && steps.deployment.outcome == 'failure'
         uses: actions/deploy-pages@v5
 
       - name: 結果の確認（失敗があれば通知メールが届くよう、実行全体を失敗にする）
         if: always() && steps.gate.outputs.run == 'true'
         run: |
-          echo "世界の注目度: ${{ steps.attention.outcome }} / 短信: ${{ steps.briefs.outcome }} / 国際深掘り: ${{ steps.intl.outcome }} / AI日報: ${{ steps.ai.outcome }}"
+          echo "世界の注目度: ${{ steps.attention.outcome }} / 短信: ${{ steps.briefs.outcome }} / 国際深掘り: ${{ steps.intl.outcome }} / AI日報: ${{ steps.ai.outcome }} / 公開: ${{ steps.deployment.outcome }} ${{ steps.deployment_retry.outcome }}"
           for o in "${{ steps.attention.outcome }}" "${{ steps.briefs.outcome }}" "${{ steps.intl.outcome }}" "${{ steps.ai.outcome }}"; do
             [ "$o" = "failure" ] && { echo "::error::失敗した処理がある。上のログを確認する"; exit 1; }
           done
           echo "すべて完了"
+
+      - name: 公開の確認（やり直しても公開できなければ失敗にする）
+        if: always() && steps.deployment.outcome == 'failure' && steps.deployment_retry.outcome != 'success'
+        run: |
+          echo "::error::公開ページの更新に失敗した。記事は保存済みなので、Actions 画面の Re-run で公開だけやり直せる"
+          exit 1
