@@ -10,9 +10,10 @@ name: 毎朝のニュース
 
 on:
   schedule:
-    # 平日 02:07（日本時間）。GitHub の定時実行は数時間遅れることがあるので、朝の通勤前に間に合うよう早めにしている
-    # 17:07 UTC + 9時間 = 翌日 02:07 JST。UTC では日〜木に当たる
-    - cron: '7 17 * * 0-4'
+    # 予備。ふだんは Claude の定期実行（平日 06:24 JST）が [run] 付きの空の commit を push して起動する。
+    # GitHub の定時実行は数時間遅れたり抜けたりするため、その保険として残している。
+    # 21:37 UTC + 9時間 = 06:37 JST。UTC では日〜木に当たる。本日分がすでにあれば、ニュース処理はしない
+    - cron: '37 21 * * 0-4'
   workflow_dispatch:        # Actions 画面の「Run workflow」で手動実行できる
   push:
     branches: [main]        # コードを更新したときは、ニュース処理なしで公開ページだけ作り直す。
@@ -42,6 +43,21 @@ jobs:
       GEMINI_API_KEY: unused                     # 各処理の起動時の確認を通すだけ。Gemini は呼ばれない
     steps:
       - uses: actions/checkout@v7
+
+      - name: ニュース処理を行うかの判定
+        id: gate
+        run: |
+          RUN="$RUN_NEWS"
+          # 予備の定時実行は、Claude の定期実行がすでに本日分を作っていれば何もしない
+          if [ "$RUN" = "true" ] && [ "${{ github.event_name }}" = "schedule" ]; then
+            DATE="$(TZ=Asia/Tokyo date +%F)"
+            git fetch -q origin main
+            if git cat-file -e "origin/main:public/data/archive/$DATE-ai.json" 2>/dev/null; then
+              echo "本日分（$DATE）は公開済み。予備の定時実行なのでニュース処理は行わない"
+              RUN=false
+            fi
+          fi
+          echo "run=$RUN" >> "$GITHUB_OUTPUT"
       - uses: actions/setup-node@v7
         with:
           node-version: 22
@@ -49,7 +65,7 @@ jobs:
       - run: npm ci
 
       - name: Claude の準備と認証の確認
-        if: env.RUN_NEWS == 'true'
+        if: steps.gate.outputs.run == 'true'
         env:
           CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
         run: |
@@ -65,7 +81,7 @@ jobs:
 
       - name: 1. 世界の注目度（見出し → 話題 → 資料）
         id: attention
-        if: env.RUN_NEWS == 'true'
+        if: steps.gate.outputs.run == 'true'
         continue-on-error: true
         run: |
           node pipeline/attention/fetch.mjs
@@ -74,13 +90,13 @@ jobs:
 
       - name: 1b. 世界の注目度（短信）
         id: briefs
-        if: env.RUN_NEWS == 'true' && steps.attention.outcome == 'success'
+        if: steps.gate.outputs.run == 'true' && steps.attention.outcome == 'success'
         continue-on-error: true
         run: node pipeline/attention/briefs.mjs
 
       - name: 2. 国際深掘り（Sonnet が資料を読んで書く）
         id: intl
-        if: env.RUN_NEWS == 'true' && steps.attention.outcome == 'success'
+        if: steps.gate.outputs.run == 'true' && steps.attention.outcome == 'success'
         continue-on-error: true
         run: |
           DATE="$(TZ=Asia/Tokyo date +%F)"
@@ -104,12 +120,12 @@ jobs:
 
       - name: 3. AI日報
         id: ai
-        if: env.RUN_NEWS == 'true'
+        if: steps.gate.outputs.run == 'true'
         continue-on-error: true
         run: npm run news
 
       - name: 保存（途中で失敗しても、できた分は保存する）
-        if: always() && env.RUN_NEWS == 'true'
+        if: always() && steps.gate.outputs.run == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -132,7 +148,7 @@ jobs:
         uses: actions/deploy-pages@v5
 
       - name: 結果の確認（失敗があれば通知メールが届くよう、実行全体を失敗にする）
-        if: always() && env.RUN_NEWS == 'true'
+        if: always() && steps.gate.outputs.run == 'true'
         run: |
           echo "世界の注目度: ${{ steps.attention.outcome }} / 短信: ${{ steps.briefs.outcome }} / 国際深掘り: ${{ steps.intl.outcome }} / AI日報: ${{ steps.ai.outcome }}"
           for o in "${{ steps.attention.outcome }}" "${{ steps.briefs.outcome }}" "${{ steps.intl.outcome }}" "${{ steps.ai.outcome }}"; do

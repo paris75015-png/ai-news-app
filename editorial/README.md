@@ -25,7 +25,7 @@ AI日報        AI・IT・科学技術。広く浅く、当日の動きを一覧
 
 ## 実行順
 
-平日 02:07 JST に、1本のワークフロー（`.github/workflows/daily.yml`）が次を**順番に**行う。前の処理が終わってから次が始まる。
+平日 06:24 JST に Claude の定期実行が起動し（予備として GitHub の定時実行 06:37）、1本のワークフロー（`.github/workflows/daily.yml`）が次を**順番に**行う。前の処理が終わってから次が始まる。
 
 ```
 1. 世界の注目度  → public/data/attention/（順位表・短信）、data/dossiers/（深掘りの資料）
