@@ -12,6 +12,7 @@
  */
 
 import { spawn } from 'node:child_process';
+import fs from 'node:fs';
 import { GoogleGenAI, ApiError } from '@google/genai';
 import { TEMPERATURE } from './editorial.js';
 
@@ -21,7 +22,10 @@ const CLAUDE_MODEL = process.env.CLAUDE_MODEL || 'claude-haiku-5-5';
 export const claudeUsage = { calls: 0, failures: 0, inputTokens: 0, outputTokens: 0, cacheReadTokens: 0, ms: 0 };
 if (USE_CLAUDE) {
   // 実行の最後に、呼び出し回数・失敗・トークン数を1行で残す（定額枠に収まっているかを見るため）
-  process.on('exit', () => console.log(`[claude] 合計 ${JSON.stringify({ model: CLAUDE_MODEL, ...claudeUsage })}`));
+  process.on('exit', () => {
+    console.log(`[claude] 合計 ${JSON.stringify({ model: CLAUDE_MODEL, ...claudeUsage })}`);
+    if (claudeUsage.calls > 0) appendUsageRow(claudeUsage);
+  });
 }
 
 const MIN_INTERVAL_MS = 8000; // 無料枠の毎分リクエスト上限に余裕を持たせる
@@ -174,4 +178,24 @@ function isNetworkError(e) {
 
 function sleep(ms) {
   return new Promise(r => setTimeout(r, ms));
+}
+
+/**
+ * 毎日のトークン使用量を data/usage.csv に1行ずつ残す（定額枠の使い具合を後から見返すため）。
+ * 国際深掘り（Sonnet）の行は .github/workflows/daily.yml が書く。列は USAGE_HEADER のとおり。
+ */
+const USAGE_FILE = new URL('../data/usage.csv', import.meta.url);
+export const USAGE_HEADER = '日付,処理,モデル,呼び出し回数,入力,キャッシュ作成,キャッシュ読込,出力,秒,備考\n';
+const STEP_LABELS = { 'rank.mjs': '世界の注目度（話題）', 'briefs.mjs': '短信', 'build.mjs': 'AI日報' };
+function appendUsageRow(u) {
+  try {
+    const date = new Date(Date.now() + 9 * 3600e3).toISOString().slice(0, 10); // 日本時間の日付
+    const script = (process.argv[1] || '').split('/').pop();
+    const step = STEP_LABELS[script] || script;
+    if (!fs.existsSync(USAGE_FILE)) fs.writeFileSync(USAGE_FILE, USAGE_HEADER);
+    const row = [date, step, CLAUDE_MODEL, u.calls, u.inputTokens, '', u.cacheReadTokens, u.outputTokens, Math.round(u.ms / 1000), u.failures ? `失敗${u.failures}回` : ''];
+    fs.appendFileSync(USAGE_FILE, row.join(',') + '\n');
+  } catch (e) {
+    console.log('[usage] 記録できなかった', e.message);
+  }
 }

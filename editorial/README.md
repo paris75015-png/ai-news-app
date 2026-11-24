@@ -62,3 +62,11 @@ AI日報        AI・IT・科学技術。広く浅く、当日の動きを一覧
 
 編集方針を変えたら、各方針の冒頭にある `editorialVersion` を1つ上げる。
 生成された JSON に記録されるので、後から「いつの方針で作った紙面か」を追える。
+
+## トークン使用量の記録
+
+毎朝の実行で使った Claude のトークン数を、処理ごとに [`data/usage.csv`](../data/usage.csv) へ1行ずつ残す（2026-11-25 から自動。10/31〜11/24 分は Actions の実行記録から復元）。
+Haiku の行は `pipeline/gemini.js`、国際深掘り（Sonnet）の行は `.github/workflows/daily.yml` が書く。
+起動役の Claude の定期実行（Haiku、空の commit を1つ送るだけ）の分は含まない。
+
+モデルの方針：トークンを節約する。収集・採点・要約は Haiku、深掘りは Sonnet で足りる。それ以上のモデルは使わない。
