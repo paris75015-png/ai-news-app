@@ -1,0 +1,2672 @@
+{
+ "date": "2026-11-26",
+ "generatedAt": "2026-11-25T21:28:43.960Z",
+ "measured": {
+  "world": 17,
+  "jp": 6
+ },
+ "unreachable": [
+  {
+   "id": "guardian",
+   "name": "The Guardian",
+   "error": "HTTP 403"
+  }
+ ],
+ "ranking": [
+  {
+   "id": "s-20261126-01",
+   "title": "米、中国や日本など多数国に新関税案",
+   "firstSeen": "2026-11-26",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-26": 34
+   },
+   "peak": 34,
+   "worldScore": 34,
+   "worldCoverage": "10/17",
+   "jpScore": 53,
+   "jpCoverage": "5/6",
+   "gap": -19,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 1,
+     "title": "US announces new tariffs on host of countries including China",
+     "desc": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+     "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "World reacts to Trump’s new tariffs as US stocks tumble",
+     "desc": "The new levies come after an eight-month investigation launched by the United States Trade Representative.",
+     "url": "https://www.aljazeera.com/economy/2026/11/25/world-reacts-to-trumps-new-tariffs-as-us-stocks-tumble?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "EU says 'strongly' rejects premise of new US tariffs",
+     "desc": "The EU said Wednesday that it rejected the premise of new tariffs on its exports proposed by the United States and expected Washington to stick by a deal struck with Brussels last year. The US unveiled proposed tariffs on 14 economies including the European Union and China, after a months-long probe into alleged excess production. FRANCE 24's Dave Keating reports from Brussels.",
+     "url": "https://www.france24.com/en/eu-says-strongly-rejects-premise-of-new-us-tariffs",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Europe Tonight: Trump unveils new tariffs amid Russian nuclear space threat",
+     "desc": "Trump unveils new tariff proposals after a Supreme Court ruling, NATO pledges defense against space threats amid satellite reports, Serbia skips the Brussels summit, and Zelenskyy and Magyar signal a thaw with volleyball diplomacy.",
+     "url": "https://www.euronews.com/2026/11/25/europe-tonight-trump-unveils-new-tariffs-amid-russian-nuclear-space-threat",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US proposes new tariffs on China a week after Trump-Xi summit",
+     "desc": "The United States has proposed additional tariffs on 14 economies, including China, just a week after Chinese President Xi Jinping’s meeting with his US counterpart Donald Trump in the southern Chinese city of Shenzhen. The new tariffs proposed on Wednesday over excess industrial capacity would add to existing 10 or 12.5 per cent duties imposed in July over forced labour, bringing total levies on targeted economies to between 15 and 20 per cent. China faces tariffs of up to 20 per cent, while...",
+     "url": "https://www.scmp.com/news/china/diplomacy/article/3375801/us-proposes-new-20-tariffs-china-week-after-trump-xi-summit",
+     "via": null
+    },
+    {
+     "id": "abc-au",
+     "name": "ABC Australia",
+     "region": "world",
+     "weight": 0.82,
+     "title": "Live: ASX to open higher after US tariff announcement",
+     "desc": "The Australian share market is set to open higher as the US president announces more tariffs on 14 trading partners. Follow the day's events and insights from our business reporters on the ABC News live markets blog.",
+     "url": "https://www.abc.net.au/news/2026-11-26/asx-markets-business-news-live-updates-thursday-26-november/107428134",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US proposes surprise new tariffs on Brazil imports, including 10% duty on aircraft",
+     "desc": "WASHINGTON, Nov 25 - The United States proposed adding new tariffs on goods from Brazil on Wednesday, including a 10% duty on finished aircraft, saying Brasilia had failed to rectify what Washington calls \\\"unreasonable\\\" trade practices.",
+     "url": "https://www.straitstimes.com/world/us-proposes-surprise-new-tariffs-on-brazil-imports-including-10-duty-on-aircraft",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Trump unveils new tariffs over excess industrial capacity, undeterred by midterms defeat - Reuters",
+     "desc": "Trump unveils new tariffs over excess industrial capacity, undeterred by midterms defeat Reuters",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcjZ1MUw5RG5fdk0tUjNTRFNIRzl5amR0VklFSzdTOUlUS2hxNWk5aV9xcm5VWmQtZGRkdXVKMWZ3Um5qZHluSFp4MGNIdHNETlZPck1RcmJmUC1oZHFtWFdYT29PbkdjUU1IbjQyWE9GRFJZdXFwTVFRMEtDcl81bXpDS3RHSHNka3VSbGlHNmNFV09uMTE1aExBRVkxUldZUmpwX3hYdGduS1BJcW1QRlY4ZjdyYkZyWTI0dVBB?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US Targets China, EU With New Tariffs Citing Overcapacity - Bloomberg",
+     "desc": "US Targets China, EU With New Tariffs Citing Overcapacity Bloomberg",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOWM5Vm8yZ0dtNTRyRFIxYjc0R3ZZMEwxeGNsT0dUWXV6STNtU2VXN0tkY1ROZHdWVkpwWHF3NXpQMk16SS1TU2VwVUJSSUtpek9FcHVmNE80eTBjNzFqdHVIa2NHSUp1WHBXRWZDMEFKUHJfNVB5cHZGT0JCUng0cktmRXowWVd4T0JyZ1RzQW5ubTk0OUZHSE11aDE0SkJjZENuelpNOGExSXMyc2dDNDNB?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Donald Trump announces raft of new tariffs on major economies - Financial Times",
+     "desc": "Donald Trump announces raft of new tariffs on major economies Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZHc3TDUxWVRLbmRUa1hzMWJseUNEMUQzOUtfajgxMVFlM2NoWDNyRlZYWUVfZEgwbWctWm5FakVubjdZT25mcUtzU3JfcjVQcVFDUXFtWEdISDJuSFdUZGQ3VG1wODYtZzFJT0NpZV8xLUxoMFlLbThuN3VZUGhrNTJXek0?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "mainichi",
+     "name": "毎日新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "日本製品、最大15％まで上乗せも？トランプ米政権の新関税措置",
+     "desc": "",
+     "url": "https://mainichi.jp/articles/20261125/k00/00m/030/351000c",
+     "via": null
+    },
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "米、対日１５％関税へ 過剰生産、中国は２０％",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026112501247&g=int&m=rss",
+     "via": null
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.65,
+     "title": "アメリカが14の国と地域に新関税 日本は15％上限(テレビ朝日系（ANN）)",
+     "desc": "アメリカ通商代表部＝USTRは日本や中国など14の国と地域に新たな関税措置を導入する案を発表しました。日本は最大15％が上限となります。 新たな関税は通商法301条に基づく措置で、日本や中国、EU（ヨ",
+     "url": "https://news.yahoo.co.jp/articles/e0fb200fd9c96092025d2309d73683c49c5d56db?source=rss",
+     "via": null
+    },
+    {
+     "id": "yahoo",
+     "name": "Yahoo!ニュース主要",
+     "region": "jp",
+     "weight": 1,
+     "title": "米 日中やEUなどに新関税を提案",
+     "desc": "",
+     "url": "https://news.yahoo.co.jp/pickup/6603990?source=rss",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "トランプ政権が追加関税案 日本15%上限、対米投資履行しなければ20% - 日本経済新聞",
+     "desc": "トランプ政権が追加関税案 日本15%上限、対米投資履行しなければ20% 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40WVh5dnNFV21zMjM1X3dZaHRpY1JVNnFDV3NUSU9abUtzZF8zWE5udU43cHJCLVFlS1ZsWVhhazY4N2NQTmh6b3Vsb3MzVFE4THViT2NreXo0QldKb0tCOG5SZVltRlVoeEtIZA?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261124-04",
+   "title": "米陸軍、アイオワで有毒爆薬を爆破処理",
+   "firstSeen": "2026-11-24",
+   "daysSeen": 3,
+   "history": {
+    "2026-11-24": 9,
+    "2026-11-25": 6,
+    "2026-11-26": 31
+   },
+   "peak": 31,
+   "worldScore": 31,
+   "worldCoverage": "9/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 31,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.85,
+     "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+     "desc": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.",
+     "url": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US Army declares Iowa lead azide detonation ‘tremendously successful’",
+     "desc": "Army hails Iowa&#039;s lead azide disposal operation as some experts warn of potentially hidden toxins.",
+     "url": "https://www.aljazeera.com/news/2026/11/25/us-army-declares-iowa-lead-azide-detonation-tremendously-successful?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Iowa: Toxic dust fears as US Army blows up 10,000 pounds of explosives",
+     "desc": "An enormous explosion rang out across rural Iowa Tuesday as the US military carried out the controlled detonation of some 10,000 pounds of lead azide. US officials say the material, which was once used as a detonator in munitions, had become unstable and was at risk at risk of spontaneous explosion. But the risk of a toxic cloud of lead dust spreading out from the blast zone has caused public safety fears among locals.",
+     "url": "https://www.france24.com/en/video/20261125-iowa-toxic-dust-fears-as-us-army-blows-up-10-000-pounds-of-explosives",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US Army detonates toxic explosives in Iowa despite contamination fears",
+     "desc": "The controlled explosion of five tonnes of hazardous material has raised concerns over lead pollution and its potential impact on public health and the environment.",
+     "url": "https://www.euronews.com/2026/11/25/us-army-detonates-toxic-explosives-in-iowa-despite-contamination-fears",
+     "via": null
+    },
+    {
+     "id": "npr",
+     "name": "NPR",
+     "region": "world",
+     "weight": 0.92,
+     "title": "Army to detonate tons of lead azide after delays. And, Abrego Garcia leaves U.S.",
+     "desc": "Authorities have evacuated a 5-mile radius to prepare to dispose of thousands of pounds of lead azide. And, after a nearly two-year legal battle, Kilmar Abrego Garcia's has voluntarily left the U.S.",
+     "url": "https://www.npr.org/2026/11/25/g-s1-155493/up-first-newsletter-iowa-detonation-kilmar-abrego-garcia-nvidia-jensen-huang",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US Army detonates lead-based explosives in Iowa despite fears of toxic dust",
+     "desc": "The US government on Wednesday ⁠conducted its planned detonation of an ageing stockpile of lead-based explosives at a US Army munitions depot, as residents of an adjacent tiny Iowa farm town hunkered down in their homes to avoid any toxic dust emitted from the blast. The Environmental Protection Agency said its teams of emission monitors reported detecting zero levels of airborne lead in the surrounding region immediately after the explosion. The detonation followed days of public rancour and...",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3375808/us-army-carries-out-controlled-blast-unstable-lead-azide-iowa-town",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US Army declares success in detonation of lead-based explosives stockpile in Iowa - Reuters",
+     "desc": "US Army declares success in detonation of lead-based explosives stockpile in Iowa Reuters",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV3JaTmxlVEkyOG9FXzM3d0dwUEdpV0ZwZk1FUUdZNG45Q0xYMWxaMndSZXNib0NXdDNNN1p3UzI5MnJBRTVhdll0Rm1EamNoMUpYRHg2R2JrcFlqTXFpdE9PeTgtVWktV3YzY012TDMtclByVHpIQnFucGhJbl9CZVlCMXNBb2pLRkxveWhIVEN0eEtUampuVkNRTzhBV1NPVWRnWEswMHlVbjhkeUZSeWVR?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Army to detonate US stockpile of bomb-making chemicals in Iowa the day before Thanksgiving - AP News",
+     "desc": "Army to detonate US stockpile of bomb-making chemicals in Iowa the day before Thanksgiving AP News",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRkhUQ2g4MktLbDJLbVNZT3RFbXQ4NFZtcUJmVTZLb0lMYXV1dDZ6V0tfWVZxUlBnSkhPYTBtNWo3Q2ZzcEJRSWJZTmlqSFR5UnN3RVd2VXo5VTBPRmU3TXVTWENBNWpDV0lkRVdVVVlONUVlRkx2UTN2dDhOQUhja21BWWlXMjFzTEJmcHFFRXRmbHJ0ZDU2QXh3V2IzZw?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Army Detonates Hazardous Material in Iowa Despite Outcry - Bloomberg",
+     "desc": "Army Detonates Hazardous Material in Iowa Despite Outcry Bloomberg",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbndRWVVtNzVDM1p5QnRBVDk3RTg2TDJpbFllaDd2YUE0ZURzdllsN1lwUDRPSHNQMmlUdnI3MGVCVjV2a0hNVXI2MjJhTjZBTWFXUzNDQXk3bkRyU3lDQ0VNamsyeU5TQUJrTVB2VXZXbzJaNk9pRUtYUGl2UmU3cW9ZRldubVluYTFFMVlvN1lHdW1TX1J2al9FODhCaGgyQW82T092OGRKTEE?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261126-07",
+   "title": "カイロ近郊で燃料タンカー炎上、30人死亡",
+   "firstSeen": "2026-11-26",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-26": 26
+   },
+   "peak": 26,
+   "worldScore": 26,
+   "worldCoverage": "8/17",
+   "jpScore": 12,
+   "jpCoverage": "1/6",
+   "gap": 14,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Dozens killed in Egypt vehicle fire",
+     "desc": "At least 30 have been ⁠killed and ⁠15 injured when a vehicle carrying ‌petroleum products caught fire in Egypt.",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/aje-onl-nf_dozens-killed-in-egypt-vehicle-fire-251126?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "At least 30 killed in highway fire in Cairo district",
+     "desc": "A truck carrying fuel reportedly overturned on a busy highway, setting vehicles ablaze and prompting a major emergency response. Authorities warned that the death toll could rise.",
+     "url": "https://www.euronews.com/2026/11/25/at-least-30-killed-in-highway-fire-in-cairo-district",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Massive blaze kills at least 30 in Cairo, Egypt, after fuel truck overturns",
+     "desc": "A fire erupted in Egypt’s capital on Wednesday, killing at least 30 people, according to the health ministry, after a fuel truck reportedly overturned on a packed highway. Footage shot by passers-by showed a massive blaze and huge clouds of smoke rising from the site in Cairo’s densely populated Al-Waraq neighbourhood in Imbaba district. State media reported that the fire broke out when a truck loaded with fuel overturned on a crowded highway. The health ministry said 39 ambulances were sent to...",
+     "url": "https://www.scmp.com/news/world/middle-east/article/3375814/massive-blaze-kills-least-30-cairo-egypt-after-fuel-truck-overturns",
+     "via": null
+    },
+    {
+     "id": "abc-au",
+     "name": "ABC Australia",
+     "region": "world",
+     "weight": 0.94,
+     "title": "Fuel tanker crash on major Cairo highway kills at least 30",
+     "desc": "There are fears the death toll could rise after the crash, which also injured dozens of people and left cars and motorcycles charred.",
+     "url": "https://www.abc.net.au/news/2026-11-26/egypt-deadly-fuel-tanker-crash-cairo-highway/107428222",
+     "via": null
+    },
+    {
+     "id": "toi",
+     "name": "Times of India",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Egypt highway inferno kills 30 after fuel tanker overturns",
+     "desc": "A harrowing event unfolded in Giza's Al-Warraq district when a vehicle turned over and burst into flames. Tragically, over 30 individuals perished, while another 15 suffered injuries. Emergency services quickly arrived at the scene to extinguish the blaze and offer medical assistance. The incident took place on a major ring road in Greater Cairo, raising renewed concerns about the pressing issues of road safety in Egypt.",
+     "url": "https://timesofindia.indiatimes.com/world/rest-of-world/30-killed-15-injured-in-deadly-blaze-on-cairo-ring-road-after-fuel-vehicle-overturns/articleshow/136171820.cms",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "At least 30 killed in blaze after vehicle overturns in Egypt, health ministry says",
+     "desc": "A vehicle carrying petroleum products overturned and caught fire on a major ring road in Cairo.",
+     "url": "https://www.straitstimes.com/world/middle-east/at-least-30-killed-in-blaze-after-vehicle-overturns-in-egypt-health-ministry-says",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "At least 30 killed in blaze after vehicle overturns in Egypt, health ministry says - Reuters",
+     "desc": "At least 30 killed in blaze after vehicle overturns in Egypt, health ministry says Reuters",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQek1Ma05abHVBcXY5WHhUQWpvTUJKZl82T0xDWjVqc2dqdDRvdnMtNFFRLUhHdFgtU3d4eEFnd3UycFdxMTF5d3N2U010UGRuR3NPU2VHQzYzeGd1dndCSlVPWjJkeUZGZUpzcXQyM3h4aXZHRGl4eS1kV3NUVjhfYVYyZExXVnVMQmoxWGV4TUYzRFNCZHQ1YnNWMFJ3QzZweUY0SXFDeko3YnFILURaUmVvNGVqd1RkMFlfZEhB?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Fuel tanker crash ignites a massive fire on a highway surrounding Cairo, killing at least 30 people - AP News",
+     "desc": "Fuel tanker crash ignites a massive fire on a highway surrounding Cairo, killing at least 30 people AP News",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaEhpcnZZbkFLdDdZb1VrR2laRkJMMUxDYi1FZHZPOUo0LVpBdl9wUUlXMG1Ealh0eHJOU0o3Q0JSOFU4LXVlcWgyUDd6bDVLa2ZNWGY2aWVId0pnYlNNaHkzSkw2YzdEN3dMN0hGUzNZRktJekRLQWZIbmk5d2lrTElCeXZSV1IxUi0yamFWZzJsUQ?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.71,
+     "title": "エジプトで複数台が絡む炎上事故 タンクローリーが運転操作誤り横転…30人以上死亡(テレビ朝日系（ANN）)",
+     "desc": "エジプトの高速道路でタンクローリーが横転して炎上し、複数台が絡む事故になりました。これまでに少なくとも30人が死亡しています。 エジプトの地元メディアによりますと25日の夜、ギザ地区の高速道路で複数台",
+     "url": "https://news.yahoo.co.jp/articles/f568114e9721551e96a2ce44e28a139bc0942dd7?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261126-02",
+   "title": "米株急落、AI関連株とハイテク株が売られる",
+   "firstSeen": "2026-11-26",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-26": 21
+   },
+   "peak": 21,
+   "worldScore": 21,
+   "worldCoverage": "6/17",
+   "jpScore": 17,
+   "jpCoverage": "2/6",
+   "gap": 4,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.91,
+     "title": "US stocks fall further as fears over AI intensify",
+     "desc": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
+     "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "abc-au",
+     "name": "ABC Australia",
+     "region": "world",
+     "weight": 0.68,
+     "title": "US stocks tumble as AI rout and Trump tariffs rattle markets",
+     "desc": "Chip makers lead US stock market falls, with Nvidia declining 8.7 per cent and the broader Philadelphia Semiconductor Index losing 7.3 per cent.",
+     "url": "https://www.abc.net.au/news/2026-11-26/nasdaq-ai-tariffs-rattle-markets/107428016",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Volatility-weary investors hammered as tariff mayhem adds to tech pain - Reuters",
+     "desc": "Volatility-weary investors hammered as tariff mayhem adds to tech pain Reuters",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZGd2TDZySmQ2VXE4QUhfUG1OOGU3S3l4eWVDMGFKLWNVRlp1dE1zYnNmOUNYTGpQeGZtS3RrWC11R0x0aEo2YnBsU2Y1NTEwT2V2eF9fQmhfLXc1ekFmajRGUWg0NVZheFBtUy15RWd6NkpsZzFSZTY1M1FIYjI5b2htVWVYemdvRDQyTUFQbw?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Wall street recovers most early losses as pullback in AI stocks eases - AP News",
+     "desc": "Wall street recovers most early losses as pullback in AI stocks eases AP News",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdVFZQmxpUGVXLUtXYzR6ZzYzX0Njd0I2bzBVbkJMb2JhcDJkRHJnVGV5eC1Ma0o2djdvZUhROXVpYjRzbTVQUGliYlRINU1kdnJVOXpRd21KdlJYcFQySlR5aWRCc0ZLMjZESjdYOWlrZEpiR0owcTRILVhqNVZZeGtweUNoM21XQndPZEl4Ym1OeTQ?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Goldman Strategist Says It’s Too Early to Buy the AI Selloff - Bloomberg",
+     "desc": "Goldman Strategist Says It’s Too Early to Buy the AI Selloff Bloomberg",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUTFsUHJaN0E0aXNKOXhvVWF5c01DVFJieW4yaEJfa1ZvMlFQSWs2UXNZWTEwRlFCcTFnOXJwY08ybWk0X0drZk1aWm1hbWl5LVhvNFZ3Wjd3RjhuU21qRHJmWGVfLURkaDRIUUVsaXg4bzM5UWpMUFFycmdXcWFSaFhVUzJjSHl0T1B6d0YwajN0dTJIZ0Rldk1FS2xWOFM3X3ZvRlJkdHVXRWRWWWRQTw?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US stocks endure volatile session as AI trade remains under pressure - Financial Times",
+     "desc": "US stocks endure volatile session as AI trade remains under pressure Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSU4xMm9XeS02RlVfRHptOVoyRXNfa2cxRmxISXhnOFBrVnYtSk94bnVDWklKQzVhODdtbEViRThXVkdIYWw4aUpLME9fc3cxQ01WZ0ZTejdGTXJZdnNESmxlRl9Tb2ZEaElSRExXTWs3Ymg5QmxjZVdZNDdnT3ZNSWV3bDE?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "ＮＹ株、一時１０００ドル超安 ハイテク売りで大幅反落",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026112600001&g=int&m=rss",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "NYダウ一時上昇に転じる、消費関連株に買い AI関連売りは続く - 日本経済新聞",
+     "desc": "NYダウ一時上昇に転じる、消費関連株に買い AI関連売りは続く 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqWjlHNlVzU3ZadFA1VHpRU0ktbG5FYjJEelpYM1dxNEtVYlZEWWVOYlZZR256bjE1ZE04dUlTUWNqSFJuZzN3WWM1MDYydHBTdkRfdGQwUDhITXhZX0dLSFVaeUpqWExZUTBFZw?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261126-05",
+   "title": "ネタニヤフ氏の汚職裁判、起訴取り下げ勧告",
+   "firstSeen": "2026-11-26",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-26": 20
+   },
+   "peak": 20,
+   "worldScore": 20,
+   "worldCoverage": "5/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 20,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.94,
+     "title": "Israeli judges recommend dropping most serious charges against Netanyahu",
+     "desc": "The Israeli PM says his trial should end after judges said there was little chance of conviction in one of three cases.",
+     "url": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Netanyahu says corruption trial ‘must end’ as court suggests dropping case",
+     "desc": "The judges&#039; recommendations came as Israel&#039;s longest-serving prime minister fights for his political survival.",
+     "url": "https://www.aljazeera.com/news/2026/11/25/netanyahu-says-corruption-trial-must-end-as-court-suggests-dropping-case?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.97,
+     "title": "Judges in Israel Suggest Dropping Key Corruption Case Against Netanyahu",
+     "desc": "Prime Minister Benjamin Netanyahu is accused of bribery, fraud and breach of trust in a long-running trial that has divided the country. He denies all wrongdoing.",
+     "url": "https://www.nytimes.com/2026/11/25/world/middleeast/judges-israel-corruption-case-netanyahu.html",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "In boost for Netanyahu, judges question corruption trial charges",
+     "desc": "Judges in the long-running corruption trial of Israeli caretaker Prime Minister Benjamin Netanyahu handed his defence a major boost on Wednesday in recommending the prosecution drop one of the cases in which he is accused of bribery. The recommendations, which came as Israel's longest-serving prime minister fights for his political survival, were immediately cheered by Netanyahu's right-wing allies who demanded the trial be brought to an end. FRANCE 24's Noga Tarnopolsky reports from Jerusalem.",
+     "url": "https://www.france24.com/en/in-boost-for-netanyahu-judges-question-corruption-trial-charges",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Israeli judges recommend prosecutors drop one bribery case against Netanyahu",
+     "desc": "JERUSALEM, Nov 25 - Israeli judges on Wednesday recommended that prosecutors drop one of three long-running cases against Israeli Prime Minister Benjamin Netanyahu and reconsider another alleging he granted favours in exchange for positive media coverage.",
+     "url": "https://www.straitstimes.com/world/middle-east/israeli-judges-recommend-prosecutors-drop-one-bribery-case-against-netanyahu",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261124-01",
+   "title": "フアンCEO復帰を巡り政府判断に疑問",
+   "firstSeen": "2026-11-24",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-24": 16,
+    "2026-11-26": 19
+   },
+   "peak": 19,
+   "worldScore": 19,
+   "worldCoverage": "6/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 19,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.39,
+     "title": "Trump's rescue of Nvidia's Huang brings political risks",
+     "desc": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.",
+     "url": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Huang's return fails to dispel doubts as Nvidia shares drop",
+     "desc": "A rally sparked by Jensen Huang's return as Nvidia's chief executive faded on Tuesday, with the company's shares falling as doubts persisted over the probes he faces and the fate of the AI investment boom. After vaulting more than 30 percent on Monday following Huang's shock comeback, Nvidia fell almost six percent Tuesday. Huang resigned on November 12 over extramarital affairs, including one with a suspected Chinese spy.",
+     "url": "https://www.france24.com/en/video/20261125-huang-s-return-fails-to-dispel-doubts-as-nvidia-shares-drop",
+     "via": null
+    },
+    {
+     "id": "npr",
+     "name": "NPR",
+     "region": "world",
+     "weight": 0.84,
+     "title": "Republican wants FBI and CIA answers before questioning Nvidia chief",
+     "desc": "\"The public is rightly concerned,\" says the Republican lawmaker, who wants to know what the FBI and CIA knew about potential national security threats and whether Jensen Huang was warned.",
+     "url": "https://www.npr.org/2026/11/25/nx-s1-6052417/nvidia-jensen-huang-reaction-republicans-congress-investigation",
+     "via": null
+    },
+    {
+     "id": "scmp",
+     "name": "South China Morning Post",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US finds no evidence China told Alice Huang to spy on Nvidia’s Jensen Huang, report says",
+     "desc": "US ⁠officials found no evidence ⁠that tech executive Alice Huang was directed by Beijing to spy on Nvidia CEO Jensen Huang, The Wall Street Journal reported on Wednesday, citing people familiar with a classified briefing. The briefing ‌comes after US President Donald Trump cleared the way for Jensen Huang’s reinstatement earlier this week, assuring Nvidia that its CEO posed no national-security threat. The controversy began with concerns over Alice Huang’s alleged Chinese intelligence links and...",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3375812/us-finds-no-evidence-china-told-tech-exec-spy-nvidias-jensen-huang-report-says",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US Justice Department did not open probe into Jensen Huang before reinstatement, sources say",
+     "desc": "US President Donald Trump pushed for the return of Huang as Nvidia chief executive.",
+     "url": "https://www.straitstimes.com/world/united-states/us-justice-department-did-not-open-probe-into-jensen-huang-before-reinstatement-sources-say",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "How the Trump administration determined Jensen Huang is not a national security threat - Reuters",
+     "desc": "How the Trump administration determined Jensen Huang is not a national security threat Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ0IzSk1IWkpMeGFmZWlDR2RseE11U3ZSbXlIOGdQalJyOS1rakJjUUxYZDYwd2ZYZERTQTdNNTQzR1dVMmRwVU1KNmhxc2ZtOXhwczJJckVxT0dUSHJnZEJpUnp0MXVVX1VqSElzQkJLc25neHJEZEYzZ0R5LXdnb01hNGZaTFFrbEc3c1haRVZpUUFldnRZY3NqVmlSRGVNVEloQ1Q2Q29VQzlRSWxtSUdnVHNIUGVwZ2VuekdHS1I1UQ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261126-04",
+   "title": "米、SpaceXに衛星100万基の計画を承認",
+   "firstSeen": "2026-11-26",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-26": 19
+   },
+   "peak": 19,
+   "worldScore": 19,
+   "worldCoverage": "6/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 19,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US grants SpaceX approval for 1 million space data centres",
+     "desc": "Elon Musk hails FCC&#039;s approval of SpaceX&#039;s Starmind project as &#039;a great asset to America and the world.&#039;",
+     "url": "https://www.aljazeera.com/news/2026/11/25/us-grants-spacex-approval-for-1-million-space-data-centres?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 0.82,
+     "title": "US authorises SpaceX to deploy 1m satellites to space",
+     "desc": "The US' Federal Communications Commission is authorising SpaceX to send a million satellites for data centres in space, the agency said.",
+     "url": "https://news.sky.com/story/us-authorises-elon-musks-spacex-to-deploy-1m-satellites-to-space-13616493",
+     "via": null
+    },
+    {
+     "id": "abc-au",
+     "name": "ABC Australia",
+     "region": "world",
+     "weight": 0.48,
+     "title": "US approves Musk's plan for space-based data centres",
+     "desc": "Elon Musk's company says solar-powered satellites in orbit could help power the next generation of AI.",
+     "url": "https://www.abc.net.au/news/2026-11-26/musk-spacex-datacentres-fcc/107428024",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US clears SpaceX to launch up to one million orbital data centre satellites",
+     "desc": "Projects for orbiting data centres have multiplied since 2025.",
+     "url": "https://www.straitstimes.com/world/united-states/us-clears-spacex-to-launch-up-to-one-million-orbital-data-centre-satellites",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US authorizes SpaceX to deploy 1 million satellites for data centers in space - Reuters",
+     "desc": "US authorizes SpaceX to deploy 1 million satellites for data centers in space Reuters",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVk5uRnprd285MEw5V2prcHR6bXljVGN4cUZuOHA4eHJUZkFzOVFnS1QtYnZaal8yYUYxa0t1cW84WjVzQWpub0czSGxUblh3STB6WnZxcThWZUxNRDk2emliZ0tfTmk5U3YxY3FZRXdEYWNyb2VMTmlkZE5RNWZHOS12OWdjSkpNdzhGU0Z4NWo3VmpSZHNXWGNJZUFpZjl2T2xuUkRKRXBpOTFqVFdFLXFvV0xHd1czWDFKbFU3OWFGU21B?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "SpaceX Receives Government Approval to Launch Space Data Centers - Bloomberg",
+     "desc": "SpaceX Receives Government Approval to Launch Space Data Centers Bloomberg",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMVVHT0RrcFA5ZTBDVVhtcHdtNEdyTWswVGdocnhkX0JGYXljVEtWSGppeHNRSHRPUFBPZTBfLXpSeXVrM2RsdmJ0bnJlcFlmNkFiNUxqWDQtblFzcjdVSDNiRThEbEdtRzlSOW9URDYxYUZPMDlFZ0h0Zk1RSUN4YWE4Tk9CV1E2ekdQODVHSktDMXdKejdJNzl4cEUyVUlnQnItaE1XRkgwRVdrT05FYUY5dU4zZw?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261125-09",
+   "title": "コロンビアのスーパー人質事件、全員救出",
+   "firstSeen": "2026-11-25",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-25": 15,
+    "2026-11-26": 18
+   },
+   "peak": 18,
+   "worldScore": 18,
+   "worldCoverage": "5/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 18,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.68,
+     "title": "Colombian police storm supermarket to free 76 held hostage for 17 hours",
+     "desc": "One gunman was killed after what the country's president described as a robbery of a cash-laden armoured car gone wrong.",
+     "url": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Colombian forces rescue all hostages after supermarket siege",
+     "desc": "All hostages have been rescued by Colombian forces after a 17-hour siege in Cartagena supermarket.",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/colombian-forces-rescue-all-hostages-after-supermarket-siege?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Colombia: Security forces rescue hostages in supermarket siege",
+     "desc": "Some 25 people being held hostage by gunmen in a supermarket in Cartagena, Colombia, were freed Tuesday after security forces stormed the building. One assailant was killed during the operation but no hostages were injured.",
+     "url": "https://www.france24.com/en/video/20261125-colombia-security-forces-rescue-hostages-in-supermarket-siege",
+     "via": null
+    },
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 0.91,
+     "title": "Colombian police storm supermarket, freeing hostages and killing gunman",
+     "desc": "Colombian police have stormed a supermarket and freed at least 20 people who were being held hostage, killing one of the gunmen.",
+     "url": "https://news.sky.com/story/armed-men-take-at-least-25-hostages-in-supermarket-in-colombia-tourist-hotspot-13616139",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Security forces storm scene, end Colombia supermarket siege",
+     "desc": "Security forces stormed a supermarket in the Colombian city of Cartagena, ending a day-long siege, with the nation&#039;s president saying all hostages were rescued and one captor was killed.",
+     "url": "https://www.cbsnews.com/news/colombia-supermarket-siege-ends-security-forces-storm-scene/",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261126-23",
+   "title": "DART衝突の小惑星、クレーターの画像公開",
+   "firstSeen": "2026-11-26",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-26": 17
+   },
+   "peak": 17,
+   "worldScore": 17,
+   "worldCoverage": "4/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 17,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.97,
+     "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
+     "desc": "The asteroid's surface was transformed after a spacecraft was deliberately crashed into it four years ago",
+     "url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "ESA releases first images showing 'complete chaos' on asteroid smashed by NASA probe",
+     "desc": "The European Space Agency's first images of the asteroid deliberately smashed by NASA's Dart mission show a huge impact zone with hundreds of rocks drifting near the surface. Is this how we should defend our planet?",
+     "url": "https://www.euronews.com/2026/11/25/esa-releases-first-images-showing-complete-chaos-on-asteroid-smashed-by-nasa-probe",
+     "via": null
+    },
+    {
+     "id": "abc-au",
+     "name": "ABC Australia",
+     "region": "world",
+     "weight": 0.85,
+     "title": "New photos reveal stadium-sized crater in asteroid knocked off course by NASA",
+     "desc": "A spacecraft observing the asteroid will approach within 13km of it next month, obtaining increasingly higher-resolution images.",
+     "url": "https://www.abc.net.au/news/2026-11-26/new-photos-of-struck-asteroid-dimorphos/107428078",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "New images reveal crater on asteroid struck by DART spacecraft - Reuters",
+     "desc": "New images reveal crater on asteroid struck by DART spacecraft Reuters",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTHhhREtSNUtyVllDZ0FDZ3JvSFQxemJRYXdkNXNYXzk3MkgzaGVUVExOaHVZYm0tcGFQdEdWZERObmZzVzFBNFRxXzRENFFudzYxY3d6ZHBqdmhLdll0SEw4YkRrRFdhYUpNNm9xUnZ6WkR3NzdrNHhfRVZYeG8ycFpQajNPRlBWSWhwLWhXVXpLV1NfVWNJeVI5LXNMYnhBMXFoOXZR?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261126-18",
+   "title": "北朝鮮、スイス外交官の退去と事務所閉鎖を要求",
+   "firstSeen": "2026-11-26",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-26": 15
+   },
+   "peak": 15,
+   "worldScore": 15,
+   "worldCoverage": "4/17",
+   "jpScore": 10,
+   "jpCoverage": "1/6",
+   "gap": 5,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.82,
+     "title": "North Korea expels Swiss diplomat in sanctions row",
+     "desc": "Swiss officials said relations would be kept through North Korea's embassy in Bern, and its own embassy in Beijing.",
+     "url": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Switzerland forced to close office in North Korea over sanctions feud",
+     "desc": "The closure came after North Korea condemned Switzerland for adding a children’s camp to its sanctions list.",
+     "url": "https://www.aljazeera.com/news/2026/11/25/switzerland-regrets-closure-of-north-korea-office-over-sanctions-feud?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.74,
+     "title": "North Korea Kicks Out Swiss Diplomats in Spat Linked to Ukraine War",
+     "desc": "The move followed Switzerland’s decision to impose sanctions on an international youth camp in North Korea, which is accused of hosting Ukrainian children for indoctrination.",
+     "url": "https://www.nytimes.com/2026/11/25/world/asia/north-korea-switzerland-diplomats.html",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "North Korea demands closure of Switzerland's new diplomatic office and orders diplomat to leave - AP News",
+     "desc": "North Korea demands closure of Switzerland's new diplomatic office and orders diplomat to leave AP News",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZTdpZ0R2cVZWaFVhX1RSUUlfQkluQ0l3ejVuR3hUNG1vV2pKYW4ydU9aY2IwOU9tSFdJdkJUZTBTLTJYVlNMT0o4TlEzWnRUaVhBYk8xR0gwX3EwUjFsdWhmbEpoVWJOWHFyWWRWU0F0Mm9ZQ2RQUTFfTUtsbHhIVnNYcTdFQzlPaHNsWUhZd2s3R3RYZHhVdVBMeHN1dU1ZSzJJNG56azk2RTA?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.59,
+     "title": "北朝鮮外交拠点代表を戻すとスイス(共同通信)",
+     "desc": "【ジュネーブ共同】北朝鮮が平壌にあるスイスの外交拠点事務所の閉鎖を求めたことを巡り、スイス外務省は25日の声明で、事務所の代表を中国・北京の大使館に戻す手続きを進めているとした。",
+     "url": "https://news.yahoo.co.jp/articles/2f108a4e49a9c3724e353beb4d91e0f533fb95cd?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261126-08",
+   "title": "ミシシッピ沖で墜落、6人死亡",
+   "firstSeen": "2026-11-26",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-26": 12
+   },
+   "peak": 12,
+   "worldScore": 12,
+   "worldCoverage": "3/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 12,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.56,
+     "title": "Two children among six dead after plane crash off Mississippi coast",
+     "desc": "Divers found the bodies of three adult, one teenager aged 16, and two boys, aged 12 and 10, in the wreckage.",
+     "url": "https://www.bbc.co.uk/news/articles/c6z74l1017zpo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 1,
+     "title": "Two children among six dead in plane crash",
+     "desc": "Divers have found the bodies of six people, including two children, after a plane crashed off the coast of Mississippi on Tuesday, according to the US Coast Guard.",
+     "url": "https://news.sky.com/story/divers-find-bodies-of-six-people-including-two-children-after-us-plane-crash-13616273",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Plane crash off the coast of Mississippi kills extended family of 6 on fishing trip - AP News",
+     "desc": "Plane crash off the coast of Mississippi kills extended family of 6 on fishing trip AP News",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeEh3VHJBUW9yQzVjTncwWGNBRkN2U0wtbkJxWHpkU2JXSmE2Ukc2Q25aUXZ3ZVVsN2lPd1JUTnE4ZUNxTDNIMXEwRXJZV01ZVGVwaERxdXdjMTZjWGQxaVpXSTBIWEtoTDNhZXdBcW5ESVdvUGhiLVpXYUFUMHRJQkVWZmNDM29CUS04cUx3?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261126-15",
+   "title": "ポーランド、ウクライナ国境に飛行禁止空域案",
+   "firstSeen": "2026-11-26",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-26": 12
+   },
+   "peak": 12,
+   "worldScore": 12,
+   "worldCoverage": "4/17",
+   "jpScore": 15,
+   "jpCoverage": "1/6",
+   "gap": -3,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Poland says will create no-fly zone at Ukraine border after repeated airspace violations",
+     "desc": "Poland will soon create a no-fly zone near the Ukrainian border, a deputy defence minister announced on Wednesday, after several incursions into its airspace it blamed on Russia. Poland backs Ukraine as it fights off Russia's near five-year invasion and has repeatedly accused Moscow of seeking to target Kyiv's supporters with drone incursions and other methods. The no-fly zone is intended to allow Polish forces to quickly identify any Russian military aircraft and shoot them down if necessary. FRANCE 24's Selina Sykes reports.",
+     "url": "https://www.france24.com/en/poland-says-will-create-no-fly-zone-at-ukraine-border-after-repeated-airspace-violations",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Poland will create no-fly zone at Ukraine border: Official",
+     "desc": "It will allow Polish forces to quickly identify any Russian military aircraft and shoot them down if necessary.",
+     "url": "https://www.straitstimes.com/world/europe/poland-will-create-no-fly-zone-at-ukraine-border-official",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Polish defence official calls for regional border no-fly zones - Reuters",
+     "desc": "Polish defence official calls for regional border no-fly zones Reuters",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUmw1Z0s5cGRwRDQ5NDRBY3JzQ2x2a0dXUlFUNXdkRFNqd0VhMFJvdnVDUExHUVVZNC10Yzd1OFJoZmlXT2I4MVppSFQ1RHA1SjB1Z2ZRUzZuN2FKNG1vejBFdlpGWlJBQmgwYnhDSzVlVGplNVQ1NmhHU0E1Ui1uQlU5UjFvcXZRc0x0Wklwa1B1eGxTbTBFdlNKNUpSS3NwV3hJTEFnQlJNU3FWOHBidTJzMDA0cVZ3aWxrZ0NB?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Poland Asks NATO to Shoot Down Russian Missiles Over Ukraine - Bloomberg",
+     "desc": "Poland Asks NATO to Shoot Down Russian Missiles Over Ukraine Bloomberg",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcHAyQjdxSFM5NzJ2MjljeVFRZlZMZUdFNVR0Sy0taTE5N0V2aXJ2ODRuckdvSENDeVN0ZWRhX3FMMTd4Sm82ZDRCelhQMWl2dU9ZS0FSUXJraWpKbUJ5bXRzUl8xdWlNRmtGYzA4eHVUM3VRUnd4aTNmeUNJTU83Q2laYzlEdEJFcXMtVkc4OWg3b1F3MWZ4V0tZMy1zcjhyeXFnQnpnZlh1N0dCUy16eg?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.88,
+     "title": "ウクライナ上空で撃墜は「自衛」 ロシア攻撃巡り、ポーランド外相(共同通信)",
+     "desc": "【ベルリン共同】ポーランドのシコルスキ外相は25日、ロシアによるウクライナ攻撃を巡り、ポーランドの国境に飛来するミサイルや無人機をウクライナ上空で撃墜することは「自衛行為だ」と主張し、北大西洋条約機構",
+     "url": "https://news.yahoo.co.jp/articles/cf0bde773a8cbe991ebd8182857ddeed93cf6d66?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261125-24",
+   "title": "ロシア軍の死者数、流出データで推計",
+   "firstSeen": "2026-11-25",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-25": 5,
+    "2026-11-26": 11
+   },
+   "peak": 11,
+   "worldScore": 11,
+   "worldCoverage": "3/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 11,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.8,
+     "title": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
+     "desc": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
+     "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Russian casualties in Ukraine war: New reports suggest death toll as high as 700,000",
+     "desc": "New analysis of leaked Russian government data suggests some 700,000 Russian soldiers have died in the war against Ukraine. Independent Russian media outlets have updated their estimates of Moscow's military casualties after Belarusian and Ukrainian hackers obtained figures from the Russian statistics agency.",
+     "url": "https://www.france24.com/en/video/20261125-russian-casualties-in-ukraine-war-new-reports-suggest-death-toll-as-high-as-700-000",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Leaked data shows 490,000 Russian forces have died in Ukraine war",
+     "desc": "Russian government data obtained by pro-Ukraine hackers and analyzed by the BBC indicates that Russia has lost at least 490,334 soldiers during its war on Ukraine.",
+     "url": "https://www.cbsnews.com/news/russia-ukraine-war-russian-soldier-death-toll-data-leak/",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261126-12",
+   "title": "トーマス・マークル氏、児童性虐待画像で起訴",
+   "firstSeen": "2026-11-26",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-26": 11
+   },
+   "peak": 11,
+   "worldScore": 11,
+   "worldCoverage": "3/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 11,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.59,
+     "title": "Thomas Markle charged in US for possessing child sex abuse images",
+     "desc": "The FBI arrested Markle on 6 November after a search of a storage unit he had allegedly rented in Los Angeles uncovered the abuse material.",
+     "url": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.48,
+     "title": "Thomas Markle Indicted in US on Charges of Possession of Child Sexual Abuse Materials",
+     "desc": "Mr. Markle, 82, was indicted by a grand jury in Los Angeles and is expected to be arraigned in the coming weeks, prosecutors said.",
+     "url": "https://www.nytimes.com/2026/11/24/world/europe/thomas-markle-indicted.html",
+     "via": null
+    },
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 0.74,
+     "title": "Thomas Markle formally charged over child sexual abuse material",
+     "desc": "Thomas Markle has been formally charged on two counts of possessing child sexual abuse material in Los Angeles.",
+     "url": "https://news.sky.com/story/thomas-markle-formally-charged-in-us-over-possessing-child-sexual-abuse-material-13616074",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261125-16",
+   "title": "英皇太子夫妻の別荘に侵入、2人逮捕",
+   "firstSeen": "2026-11-25",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-25": 17,
+    "2026-11-26": 10
+   },
+   "peak": 17,
+   "worldScore": 10,
+   "worldCoverage": "3/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 10,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.65,
+     "title": "2 Men Charged After Break-In at Prince William and Kate’s Country Home",
+     "desc": "Prosecutors said the two men, who appeared in court on Wednesday, had climbed a drainpipe to break into the royals’ country retreat in Norfolk.",
+     "url": "https://www.nytimes.com/2026/11/25/world/europe/prince-william-kate-home-break-in-charged.html",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Two men charged over burglary at William and Catherine's home",
+     "desc": "Prosecutors allege the suspects climbed a drainpipe to access a dressing room, stealing six pairs of cufflinks and a clock. Neither entered a plea and both remain in custody.",
+     "url": "https://www.euronews.com/2026/11/25/two-men-charged-over-burglary-at-william-and-catherines-home",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Prince William and Kate&#039;s country home broken into, 2 arrested",
+     "desc": "Two men were arrested over a suspected burglary at the U.K. royal family&#039;s Sandringham Estate, the country residence of Prince William and Catherine, police said.",
+     "url": "https://www.cbsnews.com/news/prince-william-kate-country-home-broken-into-british-media/",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261027-01",
+   "title": "アンソロピック株、上場後に下落",
+   "firstSeen": "2026-10-27",
+   "daysSeen": 15,
+   "history": {
+    "2026-10-27": 25,
+    "2026-10-28": 3,
+    "2026-10-31": 3,
+    "2026-11-03": 11,
+    "2026-11-04": 3,
+    "2026-11-11": 14,
+    "2026-11-12": 6,
+    "2026-11-16": 6,
+    "2026-11-17": 3,
+    "2026-11-18": 3,
+    "2026-11-19": 16,
+    "2026-11-20": 33,
+    "2026-11-23": 6,
+    "2026-11-25": 9,
+    "2026-11-26": 9
+   },
+   "peak": 33,
+   "worldScore": 9,
+   "worldCoverage": "3/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 9,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Anthropic's slide tests Wall Street's lofty bets on future AI profits - Reuters",
+     "desc": "Anthropic's slide tests Wall Street's lofty bets on future AI profits Reuters",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZE1sRHlKd3Y1aUpqaUVpeFQ3QjFmX191blVmM1gyS0hidW81RjFjSXJjQndnODAwQU9qb3VkYkJfZ3ppYzdBQ1J5cTRUaDMzamxvZVNsYzB6RUpiVzd2RlhxV2hKaDRjTFdhamRKZ3g3MXZDY1c5c3NMalpmc09aQ3JnNGEyQTR5NG85OW9VTEE1NW9md1VKdFYxeTlnbWNjd25UcjVwamhDX1pIaXc?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Anthropic’s Post-IPO Struggles Contrast With SpaceX’s Early Days - Bloomberg",
+     "desc": "Anthropic’s Post-IPO Struggles Contrast With SpaceX’s Early Days Bloomberg",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNnA5YTMwSWRSUnZxYzBTbDFmd1FXejBuclc1ODdIOERNaGdTZG1iSWVUUm1kMGV6VG02YUp0RG9RRGJUOGhtWW5lOWk5N2ptSUVQMmp2ZXRPdVVLOXdQUjhaRWpfWEp3NXIyZHJDSmx1WnJZWXR2LXBEY1ctQnBjVVczc2ttMEhxSUxNazJGT09yQ3BiS0Q0Y0llRENGeERqQ29VWE1FZFdJQ2hxZFpvTzI1b1Vmdw?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "‘Anflopic’ bodes badly for OpenAI’s IPO prospects - Financial Times",
+     "desc": "‘Anflopic’ bodes badly for OpenAI’s IPO prospects Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE50NlZWWFBEUFhLNUI4T2JlTENLd01UNjA0VVZUNVVGUTktV1N2UlllSUtCTUNQSGxwRV8zTVJ2UldOeG1jaS1jMzZKSkFpLXlNTUxRcGM4VjJTeGwyNW5GamktSllBRV9Id2tselNkcTg?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261126-10",
+   "title": "中国、パキスタン人飛行士を乗せ宇宙船打ち上げ",
+   "firstSeen": "2026-11-26",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-26": 9
+   },
+   "peak": 9,
+   "worldScore": 9,
+   "worldCoverage": "3/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 9,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.48,
+     "title": "Moment Chinese space mission lifts off with first Pakistan astronaut aboard",
+     "desc": "China launched its Shenzhou-24 space mission to bring three astronauts to its Tiangong space station.",
+     "url": "https://www.bbc.co.uk/news/videos/cmz74l0yzzvyo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "China launches first foreign astronaut to its space station",
+     "desc": "China has launched the Shenzhou 24 spacecraft with three astronauts, sending the first foreign crew member to its space station.",
+     "url": "https://www.cbsnews.com/news/china-launches-shenzhou-24-spacecraft/",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "China launches Shenzhou 24 spacecraft carrying 2 Chinese and 1 Pakistani astronaut - AP News",
+     "desc": "China launches Shenzhou 24 spacecraft carrying 2 Chinese and 1 Pakistani astronaut AP News",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR3M0QnJvdnFlSmxYai1OZWNwd0pYOFVKa2t3UDZhLXZkcXVkcmNOZHU2ZEVCQk1HX0liM2ZVb3piZDFiaE5SSkY2MWdZeFNmOVhTWkM3RDdqSHYySDNkSTNwcExoemNqTWtoLWNQV1VDNXota0w3Ym1FLUZxOXFPZnB3UlllbEJySmhJ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261126-13",
+   "title": "誤送還されたエルサルバドル人、スペインへ",
+   "firstSeen": "2026-11-26",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-26": 9
+   },
+   "peak": 9,
+   "worldScore": 9,
+   "worldCoverage": "3/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 9,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Migrant wrongly deported by Trump leaves US for Spain",
+     "desc": "Kilmar Abrego Garcia has arrived in Spain with his wife after a 20-month legal battle with the Trump administration.",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/migrant-wrongly-deported-by-trump-leaves-us-for-spain?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Wrongly deported Salvadoran arrives in Spain after US legal battle",
+     "desc": "The Salvadoran, deported \"by mistake\" to a prison in El Salvador in 2025, has brought an end to 20 months of litigation in the United States, with Madrid as the first stop in what his lawyers describe as a temporary stay abroad.",
+     "url": "https://www.euronews.com/2026/11/25/wrongly-deported-salvadoran-arrives-in-spain-after-us-legal-battle",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Ábrego García, a Salvadoran mistakenly deported by US, goes to Spain but hopes to return after Trump - AP News",
+     "desc": "Ábrego García, a Salvadoran mistakenly deported by US, goes to Spain but hopes to return after Trump AP News",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTUg0MWh1LW9tMEdseW5mY3VPeXM3TTByTVljMmR6ZjBiU3EwWE9FbWhndnRyT2xmMXV1MF9jM003RHZpWEJIODdUNFU5ZkFzRmRnVTlyU2l4OFBycWp4bDlrUjdYdzJHVEI3YkZMWWFmX09kSndiQVFCLUNHSkNIVHRQMElaLTgtSzdLM2U4Y3Zjc2g3OXJXcHlmTHVvb0FDRk82X1RTQWFEUQ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261126-20",
+   "title": "ルクオイル海外資産、ボーリー氏へ売却合意",
+   "firstSeen": "2026-11-26",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-26": 9
+   },
+   "peak": 9,
+   "worldScore": 9,
+   "worldCoverage": "3/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 9,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.56,
+     "title": "Lukoil to Sell Foreign Assets, but Not to Kushner and Witkoff Associates",
+     "desc": "Valuable properties belonging to the Russian energy giant will be sold to an American-led consortium. But Middle Eastern business contacts of the two Trump envoys pulled out because of political winds.",
+     "url": "https://www.nytimes.com/2026/11/25/us/politics/lukoil-deal.html",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "EXCLUSIVE: Boehly signs US-backed share swap deal to buy Lukoil global assets - Reuters",
+     "desc": "EXCLUSIVE: Boehly signs US-backed share swap deal to buy Lukoil global assets Reuters",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM05VWXNudnhTWW1BY2VFUHpZRzdNSjU4TG1Ob3NYZTRKM0tNUWNGQmxyNEp6NW0yTEJWaTZabF9UNW9CUUZTclBhaGpnQmZ6WVRZTVhqS3dpOTBsZEtaOGZnMzFPQlR5MDRpZThJNmU0cXc5Q0trMDNhdWtxVjV4V1lMYzYyR1RHU0lBNDdWZDlzOWxBN1J1Wm0xWlJkNEVMaVNXUXdQcTRuUHlvczlnMTd1VGRWQQ?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Billionaire financier Todd Boehly strikes deal for Lukoil assets - Financial Times",
+     "desc": "Billionaire financier Todd Boehly strikes deal for Lukoil assets Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRk1rajBxbTdzLU5PcUFwRjV0WHRkdjIzVEVnRzlOVksza1BVQTZCR1RXMl9MLTZ6OFdYQXVpSmRSUVFnUHlmcDY4ajRGWUtuUXBObGllMFRBV3JLWDROSnVrNlVaT3U5Y2RVWVgtT2pycEpDamdURTBKRjZvenpxaU0tXzg?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261126-34",
+   "title": "米とエクアドル、共同軍事作戦を見直し",
+   "firstSeen": "2026-11-26",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-26": 9
+   },
+   "peak": 9,
+   "worldScore": 9,
+   "worldCoverage": "3/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 9,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Ecuador and US review joint military operations, official says",
+     "desc": "Joint military efforts have been paused as the US investigates a lethal operation carried out by Ecuador.",
+     "url": "https://www.aljazeera.com/news/2026/11/25/ecuador-and-us-review-joint-military-operations-official-says?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.45,
+     "title": "Trump Administration Pauses Joint Operations With Ecuador",
+     "desc": "The administration has halted military operations while it investigates an operation by Ecuadorean forces that killed an accused gang leader.",
+     "url": "https://www.nytimes.com/2026/11/24/world/americas/ecuador-us-military-operations-trump.html",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Ecuador minister says talks with US focused on reviewing operations in the country",
+     "desc": "QUITO, Nov 25 - A conversation last week with US Secretary of Defense Pete Hegseth focused on reviewing operations in Ecuador, determining next steps and identifying what the country requires for specific operations, Ecuador's interior minister, John Reimberg, said in a radio interview on Wednesday.",
+     "url": "https://www.straitstimes.com/world/ecuador-minister-says-talks-with-us-focused-on-reviewing-operations-in-the-country",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261126-09",
+   "title": "南ア大統領、弾劾調査の差し止めに勝訴",
+   "firstSeen": "2026-11-26",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-26": 8
+   },
+   "peak": 8,
+   "worldScore": 8,
+   "worldCoverage": "2/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 8,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.5,
+     "title": "South Africa's Ramaphosa wins court battle over impeachment threat",
+     "desc": "The break-in happened in 2020, when thieves allegedly stole bundles of US dollar bills hidden inside a sofa at the farm.",
+     "url": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.91,
+     "title": "South African President Wins Reprieve From ‘Farmgate’ Impeachment Investigation",
+     "desc": "A court threw out a report suggesting that Cyril Ramaphosa may have tried to conceal the theft of more than half a million dollars of U.S. currency.",
+     "url": "https://www.nytimes.com/2026/11/25/world/africa/south-africa-ramaphosa-farmgate.html",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261123-01",
+   "title": "リビア軍、無人機攻撃に報復を表明",
+   "firstSeen": "2026-11-23",
+   "daysSeen": 4,
+   "history": {
+    "2026-11-23": 33,
+    "2026-11-24": 26,
+    "2026-11-25": 18,
+    "2026-11-26": 8
+   },
+   "peak": 33,
+   "worldScore": 8,
+   "worldCoverage": "2/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 8,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.82,
+     "title": "Libyan Forces Threaten Retaliation Over Ukraine’s Attack on Russian Ships",
+     "desc": "The Ukrainian drone strike off Libya’s coast killed two Libyan naval officers, according to the forces controlling the country’s east.",
+     "url": "https://www.nytimes.com/2026/11/25/world/middleeast/libya-ukraine-russia-haftar.html",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Libyan army vows retaliation after 2 naval officers die of wounds from Ukrainian drone attack - AP News",
+     "desc": "Libyan army vows retaliation after 2 naval officers die of wounds from Ukrainian drone attack AP News",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYlhQMFFISGFSRC1TVkJtS2FtWXl1anZubHJfTnY1VzdiaG5fV2J3MGlWZk84RWUtQUQtRG1DR3Z2b2swWjdacE8zRG1xcHFHN0p3Q25GX3dMTHByRTBnSGl6dHBkcDQxZHF3VF8tMmVLVG5jRm50aGtndHBhWEFaUkFaaVJoZkp1aW8zMDFpVlZlODhqeXhwVG1TV0VNd2Frb2ZsUmg1R0wyb2VxclNscVVRMzc?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261125-14",
+   "title": "フーシ派がアデン進攻、防衛線で迎撃",
+   "firstSeen": "2026-11-25",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-25": 6,
+    "2026-11-26": 8
+   },
+   "peak": 8,
+   "worldScore": 8,
+   "worldCoverage": "2/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 8,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.85,
+     "title": "Defending Aden, Yemen’s Holdout Against the Houthis",
+     "desc": "The war in Iran has reignited Yemen’s decade-old civil war. Saudi-backed troops are scrambling to defend against advancing Houthi fighters as the wounded are taken to the port city of Aden, the government’s provisional capital.",
+     "url": "https://www.nytimes.com/video/world/middleeast/100000011300541/defending-aden-yemens-holdout-against-the-houthis.html",
+     "via": null
+    },
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Houthi rebels close in on Aden, Yemeni forces dig in behind fortified line",
+     "desc": "Iran-backed Houthi rebels have advanced to within about 60 kilometers of the seat of Yemen’s internationally recognized government in the southern city of Aden, but the forces fighting them have set up a fortified line to defend the city, a military official said Tuesday. The Houthis' advance toward Aden has come after forces allied with the government withdrew from areas on the Bab el-Mandeb Strait, allowing the Houthis to consolidate their grip on territory around the crucial waterway.",
+     "url": "https://www.france24.com/en/video/20261125-houthi-rebels-close-in-on-aden-yemeni-forces-dig-in-behind-fortified-line",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261125-05",
+   "title": "ファーウェイに有罪評決、企業秘密窃取など",
+   "firstSeen": "2026-11-25",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-25": 17,
+    "2026-11-26": 7
+   },
+   "peak": 17,
+   "worldScore": 7,
+   "worldCoverage": "2/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 7,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.65,
+     "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
+     "desc": "The verdict follows a months-long trial in New York.",
+     "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 0.56,
+     "title": "Huawei guilty of plotting to steal trade secrets and bank fraud",
+     "desc": "Chinese tech giant Huawei, has been found guilty of conspiracy to steal trade secrets and bank fraud after a landmark trial in the US.",
+     "url": "https://news.sky.com/story/chinese-tech-giant-guilty-of-plotting-to-steal-trade-secrets-and-bank-fraud-13616130",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261126-11",
+   "title": "ISS搭乗のカナダ人飛行士の妻が女児出産",
+   "firstSeen": "2026-11-26",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-26": 7
+   },
+   "peak": 7,
+   "worldScore": 7,
+   "worldCoverage": "2/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 7,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.62,
+     "title": "Canadian astronaut welcomes baby girl from space station",
+     "desc": "Joshua Kutryk, currently on his first space mission, is just the fourth astronaut in history to miss the birth of a child while aboard the International Space Station.",
+     "url": "https://www.bbc.co.uk/news/articles/ckx283y8wwwgo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Canadian astronaut&#039;s wife gives birth with husband aboard ISS",
+     "desc": "The wife of Canadian astronaut Joshua Kutryk, who is currently aboard the International Space Station, gave birth to the couple&#039;s third child, Canadian officials announced.",
+     "url": "https://www.cbsnews.com/news/wife-canadian-astronaut-international-space-station-gives-birth-joshua-kutryk/",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261125-04",
+   "title": "上海市トップの陳吉寧氏、党が調査",
+   "firstSeen": "2026-11-25",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-25": 19,
+    "2026-11-26": 7
+   },
+   "peak": 19,
+   "worldScore": 7,
+   "worldCoverage": "2/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 7,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "npr",
+     "name": "NPR",
+     "region": "world",
+     "weight": 0.69,
+     "title": "China investigates Politburo member and Shanghai party chief Chen Jining",
+     "desc": "The Politburo member is the latest senior official targeted in President Xi Jinping's long-running anti-corruption campaign, which has shown no signs of letting up in scope or depth.",
+     "url": "https://www.npr.org/2026/11/25/nx-s1-6053801/china-investigation-politburo-shanghai-party",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "China investigates Politburo member and Shanghai party chief Chen Jining - AP News",
+     "desc": "China investigates Politburo member and Shanghai party chief Chen Jining AP News",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMG44bXNIbVRoRkdsc1FsaEg0ajBQekRydkVTeDZTbWN0TnBCSWZ1MFQxTzMxc2p0VWFTQzBQRWhHdUVrQUItOC1FNGlVQlZkeVRQWjFRRTZUTkFUeHIyWkRIOXIzbktKZk5HdGxNWGFTSldPN1p3QUtFSEM2dUJHYmRXN0g4UVAzSW9rTkZGOTd3cmZJYU1VdEJJNFE?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261126-14",
+   "title": "ウクライナ、ロシアの空軍基地を攻撃し5機損傷",
+   "firstSeen": "2026-11-26",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-26": 7
+   },
+   "peak": 7,
+   "worldScore": 7,
+   "worldCoverage": "2/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 7,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.74,
+     "title": "Five Russian military jets hit in airfield strike, says Ukraine",
+     "desc": "The Savasleyka airfield hosts aircraft used by Russia to launch hypersonic missiles and glide bombs at Ukraine.",
+     "url": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Ukraine says it struck a major Russian air base, damaging five planes - Reuters",
+     "desc": "Ukraine says it struck a major Russian air base, damaging five planes Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZm1PXzlrNXY0LXdObV93VWg5QnMzNk1rby1CSHNiMHYtcVpvYUpteDBGWi1GQS1tNjU4VTV6MmVBTXpxY3I2NTdfbzVvVTdBWS1LeVBMeGpCMkdUTDVpWE1nNzRld3NBbUtYRlRoTlhPLWp4ZjdsMmRCRUdycERtcVRDNGk5UjNxR3RRUTN3V2QyU1VDT29acWEtc096cjVkS0xtN0V2dURHTmUyM0ZIbnRvcndIRUZrRnBBWmlDNDRRSng1OHdFWg?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261126-17",
+   "title": "ソロモン諸島、豪と安全保障条約に署名",
+   "firstSeen": "2026-11-26",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-26": 7
+   },
+   "peak": 7,
+   "worldScore": 7,
+   "worldCoverage": "2/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 7,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.71,
+     "title": "Solomon Islands Enters Security Treaty With Australia, in a Blow to China",
+     "desc": "A 2022 Solomon Islands agreement with China had raised concerns it would enable Beijing to establish a military presence on the Pacific island. The new accord precludes such bases.",
+     "url": "https://www.nytimes.com/2026/11/24/world/asia/solomon-islands-security-treaty-australia-china.html",
+     "via": null
+    },
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Solomon Islands signs treaty with Australia that checks China's influence in the South Pacific - AP News",
+     "desc": "Solomon Islands signs treaty with Australia that checks China's influence in the South Pacific AP News",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRnFmRmJkLVRidmctZElBTjI3YzQ0OVNIZmRNZ1I2Q0NTNXM3TlpERXdYejNQVzA1blN6c0VTbjJsZXZ1U1NJYTdGQTJhOV8wQTFBVEtyTXRobGxYdldFQmtLNjU3S0tfREhCaXpBVVJYT1FhWC1EU0MzRll1ME1OSDNDZXZhV1FpOXEyNVROak14dFo4d2pTQzMxR3JoUWk3MjZib1dxekNfdHc?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261126-24",
+   "title": "ユーロスター職員のストで仏英間の列車停止",
+   "firstSeen": "2026-11-26",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-26": 7
+   },
+   "peak": 7,
+   "worldScore": 7,
+   "worldCoverage": "2/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 7,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Unannounced strike by Eurostar staff halts Paris-London trains",
+     "desc": "The rail operator has advised customers to postpone their journeys and has warned that more disruption on other routes is possible.",
+     "url": "https://www.euronews.com/2026/11/25/unannounced-strike-by-eurostar-staff-halts-paris-london-trains",
+     "via": null
+    },
+    {
+     "id": "sky",
+     "name": "Sky News",
+     "region": "world",
+     "weight": 0.65,
+     "title": "Eurostar trains cancelled and delayed over 'unannounced strike action'",
+     "desc": "Several Eurostar trains have been cancelled or delayed due to \"unannounced strike action\", the company said.",
+     "url": "https://news.sky.com/story/eurostar-trains-cancelled-and-delayed-over-unannounced-strike-action-13616317",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261126-03",
+   "title": "エヌビディア、企業統治リスクで格付け警告",
+   "firstSeen": "2026-11-26",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-26": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/17",
+   "jpScore": 13,
+   "jpCoverage": "1/6",
+   "gap": -7,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "S&P Global places Nvidia rating on 'CreditWatch Negative' on rising management and governance risks - Reuters",
+     "desc": "S&P Global places Nvidia rating on 'CreditWatch Negative' on rising management and governance risks Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQamtqRVI0MHhzRTB5Tk1wMDNXRGhEYi1zVzFJT3hBMFNzUmt1RWptQnpTNWR1QTllclluaW50Z0tmSWVIbW5DWXJoaVJlblRoN2puUGFjbEtkOTZ6VUk5ZGEtLU9vYnJOMm53Tm5Idzg0dzNJSlRXVEI1b2xIQ1BBaVVuQmthNFlremtLRnNFY2RWdjNGcHNPV3ZrQ2JOTGhNMTdKbWpfWGtRMjBEekpJS0lmejFMSUxUakFYS1FvUnVxckk?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "bloomberg",
+     "name": "Bloomberg",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Nvidia at Risk of Rating Cut by S&P Over Governance Concerns - Bloomberg",
+     "desc": "Nvidia at Risk of Rating Cut by S&P Over Governance Concerns Bloomberg",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOODhZc1ZaTjRJWFV2emVDd3pSLXljRGVsRXRaSGVTalU5TzFGRVNKdkYweHI5WkdnRGlRZ1c2Z2RuaHZrX1h4dlZzTXFxbkVRdnR4VUp6eFI4YWxmQ21FZUdwMWhlUHI0Q21TSGpxc2trdjFKd1Y0UW9SRTUxdVhFRkt1RVh2R0JuZDFRZG9JTDJRYzlHN1lSVHoxQUJUVU04V1JFSG1rM1pUZjFvQW00em1VWXQ4UQ?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "yahoo",
+     "name": "Yahoo!ニュース主要",
+     "region": "jp",
+     "weight": 0.8,
+     "title": "フアン氏の復帰 企業統治に批判",
+     "desc": "",
+     "url": "https://news.yahoo.co.jp/pickup/6603991?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261126-06",
+   "title": "イスラエル、10月7日攻撃の調査委設置へ前進",
+   "firstSeen": "2026-11-26",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-26": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Israeli lawmakers advance Bill for Oct 7 attack commission inquiry",
+     "desc": "The Bill will head to a committee in Israel’s Parliament and have to pass through three further readings before becoming law.",
+     "url": "https://www.straitstimes.com/world/middle-east/israeli-lawmakers-advance-bill-for-oct-7-attack-commission-inquiry",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Israeli opposition advances October 7 attack probe opposed by Netanyahu - Reuters",
+     "desc": "Israeli opposition advances October 7 attack probe opposed by Netanyahu Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNS3ZLT2liQ2xsLWEzM3YtbnJRaVNINFJXTXhVQ2J2cXJiSjhNX0tUTE9HckFYYzhxTG45d1lYSXRZYlVsVjA1Ym9nQVlwbThQWHFZZmU5akpONHlXYkJZR3RPUmY4bEsxWFBQMWNBbVVGTURYTG9zQ2cwYVY1WTJmQ1UyUzRvbVY5d1hEejM4c011SDV4dDBMdzdkSHhaak9SQXNIZHdzU01Sa0tDdHk3YmJHY213cmZqOXpvOHNkb0o0R3c?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261126-16",
+   "title": "露当局、冬季のインフラへの無人機攻撃を警告",
+   "firstSeen": "2026-11-26",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-26": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Russian government official warns of Ukrainian drone attacks on utility infrastructure this winter",
+     "desc": "MOSCOW, Nov 25 - Preparations for potential Ukrainian drone attacks on Russian utility infrastructure this winter, particularly in regions near the border, are a top priority for the government, Deputy Prime Minister Marat Khusnullin said on Wednesday.",
+     "url": "https://www.straitstimes.com/world/europe/russian-government-official-warns-of-ukrainian-drone-attacks-on-utility-infrastructure-this-winter",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Russian government official warns of Ukrainian drone attacks on utility infrastructure this winter - Reuters",
+     "desc": "Russian government official warns of Ukrainian drone attacks on utility infrastructure this winter Reuters",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWjNMRXE5WTZCS3ZELXItUXNCbjVVTU5NeVFxNHNZdG1kYnRNSGs1dzRYVlY1TWE0UTBYem8yRTBoNEtoS21uQ1NTSjhJejNDYW5PUHQ3RDVaV2tRZTM0Q2FmY3JZZkhpYXRzUXdqUTc0WHZJNGhncUltbGpPcEFoOUdxNk1LeEtOV0xqT0ZvTnJGLUQzVURmekZneEdkcG1DLXlIWEh6ZGF3blpGVmlvNkN1LUI2QzB1X2xQeXdNaw?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261125-11",
+   "title": "ロシアの核衛星打ち上げ報道、NATOが警戒",
+   "firstSeen": "2026-11-25",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-25": 11,
+    "2026-11-26": 6
+   },
+   "peak": 11,
+   "worldScore": 6,
+   "worldCoverage": "2/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "dw",
+     "name": "Deutsche Welle",
+     "region": "world",
+     "weight": 0.5,
+     "title": "What happens if a nuclear weapon explodes in space?",
+     "desc": "Earth's atmosphere offers protection from a nuclear blast in space, but satellites are more exposed. We explain how radiation could damage them, why the effects can linger and what protection is possible.",
+     "url": "https://www.dw.com/en/what-happens-if-a-nuclear-weapon-explodes-in-space/a-80025827?maca=en-rss-en-world-4025-rdf",
+     "via": null
+    },
+    {
+     "id": "euronews",
+     "name": "Euronews",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Europe Tonight: Russia reportedly prepares nuclear satellite launch",
+     "desc": "Jamie Shea, former NATO spokesperson joined Euronews' new evening show Europe Tonight to discuss how Satellite systems could be affected and what would it mean for the world.",
+     "url": "https://www.euronews.com/2026/11/25/europe-tonight-russia-reportedly-prepares-nuclear-satellite-launch",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261126-19",
+   "title": "数十か国、露に催涙剤の使用停止を要求",
+   "firstSeen": "2026-11-26",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-26": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Dozens of countries call on Russia to halt alleged use of riot agent in Ukraine war",
+     "desc": "Riot-control agents such as CS, a form of tear gas, are banned in warfare.",
+     "url": "https://www.straitstimes.com/world/europe/dozens-of-countries-call-on-russia-to-halt-alleged-use-of-riot-agent-in-ukraine-war",
+     "via": null
+    },
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Dozens of countries call on Russia to halt alleged use of riot agent in Ukraine war - Reuters",
+     "desc": "Dozens of countries call on Russia to halt alleged use of riot agent in Ukraine war Reuters",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNVFLRmpLV05rVWloZTZ2X1V3M3dsRVE2U1ZhZHloWElnNkpMN1hSanhjV0RzMnU2QnNqcmxpZmphVjhobS1PMG05NUx1cWh6MUVsbkdCd05OWE45MFhzS2gwRWYxNWVFLWZRdGNpdTdLbHN1YVNWSU5ITVlqVEt1RmpSOVpFZkk2dFRHRjkxa1pRQ1RIQkRrVjh3aVdmcFNEajJhYk96QnJaV1lWRk13?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261126-21",
+   "title": "ティヌブ大統領、反乱地域の平和を約束",
+   "firstSeen": "2026-11-26",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-26": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Nigeria’s Tinubu pledges to bring peace to rebellion-hit border region",
+     "desc": "Tinubu is under pressure to convince voters that military operations in the country&#039;s northeast will deliver security.",
+     "url": "https://www.aljazeera.com/news/2026/11/25/nigerias-tinubu-pledges-to-bring-peace-to-insurgency-hit-northeast-region?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Nigeria's Tinubu vows to bring peace to insurgency-hit region",
+     "desc": "MAIDUGURI, Nigeria, Nov 25 - Nigerian President Bola Tinubu on Wednesday promised supporters in the northeastern city of Maiduguri he would restore peace to their insurgency-hit region, as an election looms in January in which security is a major concern for voters.",
+     "url": "https://www.straitstimes.com/world/nigerias-tinubu-vows-to-bring-peace-to-insurgency-hit-region",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261126-25",
+   "title": "仏海軍、麻薬密輸の疑いで半潜水艇を拿捕",
+   "firstSeen": "2026-11-26",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-26": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "\"Narco sub\" seized in Atlantic but no drugs found on board",
+     "desc": "The operation was carried out in cooperation with the Colombian navy and the U.S. Joint Interagency Task Force South.",
+     "url": "https://www.cbsnews.com/news/narco-sub-intercepted-france-no-drugs-on-board/",
+     "via": null
+    },
+    {
+     "id": "straits",
+     "name": "The Straits Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "France’s navy intercepts semi-submersible suspected of drug trafficking",
+     "desc": "No drugs were found, but two crew members were arrested.",
+     "url": "https://www.straitstimes.com/world/europe/frances-navy-intercepts-semi-submersible-suspected-of-drug-trafficking",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261126-33",
+   "title": "香料大手、EUから5億ユーロ超の制裁金",
+   "firstSeen": "2026-11-26",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-26": 6
+   },
+   "peak": 6,
+   "worldScore": 6,
+   "worldCoverage": "2/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Global fragrance makers hit with nearly $517 million EU fine for taking part in cartel - Reuters",
+     "desc": "Global fragrance makers hit with nearly $517 million EU fine for taking part in cartel Reuters",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNXdKc0Fib1ktQzJ1Umx4VE9DTjFjWHhQa3czVlJ6YVlTUVBxNG5IY2p5T3pGbVpkTDRXLV9GTWk5YXB3dHBUWTUyRVpVb1VPLTBfV1p2QUFjNnZqeFBWbE4zckpScDFnY2NtTzNQVVpadTdFcWZWMDNiM2RfVzZCZ3V1YVh3ZmhtbENaVGJvSG9yUFdZU0MySDA3LWZDNEt2U3BSY01RcExfT0lwWjdCMzlLNUZ5Mi1KdkYzaEpn?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "ft",
+     "name": "Financial Times",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Fragrance makers fined more than €500mn over Unilever price-fixing cartel - Financial Times",
+     "desc": "Fragrance makers fined more than €500mn over Unilever price-fixing cartel Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYW5LZE1xeU1Hd1FSSFVXeWhTMlhuLS14UVFKR3duM29Eb3Z0ODhWZExOallfS3Y2UjdCVUZDanc0MDV3Y2l6Y0RsbnQwMDU1cGpMT1pBVUdQRVM0SFJtSWdqbFdCNlpIX2tiR3dVdjhoRGxQUXA0UFZNQ3ZRS25mVFFwaXY?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261126-22",
+   "title": "台湾の選挙前、AI偽動画の拡散",
+   "firstSeen": "2026-11-26",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-26": 5
+   },
+   "peak": 5,
+   "worldScore": 5,
+   "worldCoverage": "2/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 5,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.33,
+     "title": "Is China behind a wave of AI fake videos targeting Taiwan?",
+     "desc": "The network attacked key figures in the ruling DPP, including President Lai and mayoral candidate Shen.",
+     "url": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "dw",
+     "name": "Deutsche Welle",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Fact check: Deepfakes and 'US abandons Taiwan' claims spread ahead of vote",
+     "desc": "Ahead of local elections, Taiwan is seeing a surge in AI-generated attacks on mayoral candidate Puma Shen, alongside disinformation portraying the US as abandoning the island.",
+     "url": "https://www.dw.com/en/fact-check-deepfakes-and-us-abandons-taiwan-claims-spread-ahead-of-vote/a-80004834?maca=en-rss-en-world-4025-rdf",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261125-13",
+   "title": "イラク最高裁、クルド地域の油田接収を容認",
+   "firstSeen": "2026-11-25",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-25": 12,
+    "2026-11-26": 5
+   },
+   "peak": 12,
+   "worldScore": 5,
+   "worldCoverage": "2/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 5,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "aljazeera",
+     "name": "Al Jazeera",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Iraq’s top court rules government can take over Kurdish borders, oil fields",
+     "desc": "The ruling comes a day after Kurdish authorities accused Baghdad of an &#039;assault&#039; on the region&#039;s constitutional rights.",
+     "url": "https://www.aljazeera.com/news/2026/11/25/iraqs-top-court-rules-government-can-take-over-kurdish-borders-oil-fields?traffic_source=rss",
+     "via": null
+    },
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.36,
+     "title": "Iraq’s Prime Minister Aims to Wrest More Power From Kurdistan Region",
+     "desc": "Ali al-Zaidi, who just scored a symbolic victory against a powerful Iran-backed militia, has now moved to assert control over Kurdish border crossings and oil resources.",
+     "url": "https://www.nytimes.com/2026/11/24/world/middleeast/iraq-prime-minister-kurdistan-control.html",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261123-07",
+   "title": "メキシコで麻薬組織幹部拘束、米関与も",
+   "firstSeen": "2026-11-23",
+   "daysSeen": 4,
+   "history": {
+    "2026-11-23": 30,
+    "2026-11-24": 12,
+    "2026-11-25": 6,
+    "2026-11-26": 5
+   },
+   "peak": 30,
+   "worldScore": 5,
+   "worldCoverage": "2/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 5,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.42,
+     "title": "Watch: Moment troops raid home and capture Mexican drug lord",
+     "desc": "Newly-released bodycam footage shows the moment troops detained 'El Chapo Isidro', who had managed to evade capture for years.",
+     "url": "https://www.bbc.co.uk/news/videos/cm62p9y3y04qo?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "cbs",
+     "name": "CBS News",
+     "region": "world",
+     "weight": 0.5,
+     "title": "New details emerge about U.S. involvement in drug lord&#039;s capture",
+     "desc": "The U.S. has sought to line up allies across Latin America to allow U.S. forces to operate in their territories, with mixed responses from across the region.",
+     "url": "https://www.cbsnews.com/news/chapo-isidro-arrest-us-drone-mexico-help-capture-drug-lord/",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261126-32",
+   "title": "シドニー警官による二重殺人事件の経緯",
+   "firstSeen": "2026-11-26",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-26": 4
+   },
+   "peak": 4,
+   "worldScore": 4,
+   "worldCoverage": "2/17",
+   "jpScore": 0,
+   "jpCoverage": "0/6",
+   "gap": 4,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "bbc",
+     "name": "BBC",
+     "region": "world",
+     "weight": 0.3,
+     "title": "Lies, a disguise and surfboard bags: How a jealous Sydney policeman tried to cover up double murder",
+     "desc": "Beau Lamarre was on Wednesday found guilty of murdering his ex Jesse Baird, and Baird's new partner Luke Davies.",
+     "url": "https://www.bbc.co.uk/news/articles/cmrrg749d02do?at_medium=RSS&at_campaign=rss",
+     "via": null
+    },
+    {
+     "id": "abc-au",
+     "name": "ABC Australia",
+     "region": "world",
+     "weight": 0.3,
+     "title": "Red flags exhibited by Beau Lamarre-Condon in lead-up to double murder",
+     "desc": "The double murder trial of Beau Lamarre-Condon not only exposed him as a callous killer, but someone who was controlling when he stalked and \"petrified\" a former partner.",
+     "url": "https://www.abc.net.au/news/2026-11-26/beau-lamarre-condon-domestic-violence-red-flags-double-murder/107329010",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261126-28",
+   "title": "米10月の物価、インフレ根強く",
+   "firstSeen": "2026-11-26",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-26": 3
+   },
+   "peak": 3,
+   "worldScore": 3,
+   "worldCoverage": "1/17",
+   "jpScore": 20,
+   "jpCoverage": "2/6",
+   "gap": -17,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "ap",
+     "name": "Associated Press",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed - AP News",
+     "desc": "Inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed AP News",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWjFKVU92YjgtRlZKS1BWWTFDYWthODExQ0VMLXJ0OHY5T2tzamlmemN0akZCS0RKaGR4MGRlamtQbzFzUUsxWURPRHVqZWMtd3VnOHFldzdPYnVEcVNNZDBJLTIxMHFlOUE2ZjAza2UxZkFmbG55N04wSS1hR1JUcWNyNXVaaGFkUUFNc0JRekpqZTUzR0JWMzJwdmxKMmVWS3JXeQ?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "米物価、前年比３．８％上昇 インフレ根強く―１０月",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026112501225&g=int&m=rss",
+     "via": null
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.68,
+     "title": "米10月PCE物価指数 3カ月連続で伸び拡大 インフレ再加速 FRB利上げ観測強まる(テレビ朝日系（ANN）)",
+     "desc": "アメリカの10月のPCE（個人消費支出物価指数）は、前の年の同じ月と比べて3.8％上昇しました。伸び率は3カ月連続で前の月から拡大しました。 アメリカ商務省が25日に発表した10月のPCE物価指数は市",
+     "url": "https://news.yahoo.co.jp/articles/d0229d648fb68eafa9f937fe5f4d09133cf86dff?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261126-29",
+   "title": "米7〜9月期GDP、4.3%増に上方修正",
+   "firstSeen": "2026-11-26",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-26": 3
+   },
+   "peak": 3,
+   "worldScore": 3,
+   "worldCoverage": "1/17",
+   "jpScore": 17,
+   "jpCoverage": "2/6",
+   "gap": -14,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "reuters",
+     "name": "Reuters",
+     "region": "world",
+     "weight": 0.5,
+     "title": "US third-quarter GDP growth revised sharply higher - Reuters",
+     "desc": "US third-quarter GDP growth revised sharply higher Reuters",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONjZ1Y2k2ZHFiNlFJRV9fUWVWNXk5R0puemhyQTF6X2xiV0NTblNua3dFVTlQWE1keGQ0TDVMdHNSUHZlYURmbUE3cVZpRDlLdDRiSXNRTTYzZEpXcjViSGd2SV83emptZFRrUWtTczl4b3ItMVdBOEpNOHFSOVFWN096T083eV9KaWVCbXgwczlLLVl1VHNRNGZ0clRZS3NFXzRwQnVR?oc=5",
+     "via": "googlenews"
+    },
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "米ＧＤＰ、４．３％増に上方修正 ＡＩブーム寄与―７～９月期",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026112501230&g=int&m=rss",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "7〜9月の米GDP改定値、実質4.3%増へ上方修正 3年ぶり高成長 - 日本経済新聞",
+     "desc": "7〜9月の米GDP改定値、実質4.3%増へ上方修正 3年ぶり高成長 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JQ0hZRHJXSFZQLXBvd1Vkbkl3NXMxSWxUNEdiQjlLZEhEb29mUzlBWUdVWEh0UWFkejNyMHd2WnFzT0FJekMtVkxmLVFUUmdNRG96UktwQ3lOeGtSNWdyWWdpLURpZjJZU2oyMQ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261126-31",
+   "title": "カタルーニャ独立派指導者、12月に帰国へ",
+   "firstSeen": "2026-11-26",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-26": 3
+   },
+   "peak": 3,
+   "worldScore": 3,
+   "worldCoverage": "1/17",
+   "jpScore": 17,
+   "jpCoverage": "1/6",
+   "gap": -14,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "france24",
+     "name": "France 24",
+     "region": "world",
+     "weight": 0.5,
+     "title": "Top Spanish court closes case against Catalan separatist leader",
+     "desc": "Spain's Supreme Court has applied a controversial amnesty law to former Catalan separatist leader Carles Puigdemont, closing criminal proceedings against him over his role in the region's failed 2017 independence bid. The ruling, which comes ahead of a snap general election on Sunday, marks the final step in the implementation of the amnesty law, passed by parliament in 2024.",
+     "url": "https://www.france24.com/en/video/20261125-top-spanish-court-closes-case-against-catalan-separatist-leader",
+     "via": null
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 1,
+     "title": "独立運動指導者、12月帰国へ スペインカタルーニャ州、恩赦で(共同通信)",
+     "desc": "【マドリード共同】スペイン北東部カタルーニャ州で独立の是非を問う住民投票を強行した後、ベルギーに逃れたプチデモン元州首相は25日、ブリュッセルで記者会見し、12月12日にスペインに帰国すると発表した。",
+     "url": "https://news.yahoo.co.jp/articles/4a9838547e2f16038f0286a3656aacf5cc8eb9c7?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261124-11",
+   "title": "イスタンブールでライオン目撃、捜索続く",
+   "firstSeen": "2026-11-24",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-24": 6,
+    "2026-11-26": 2
+   },
+   "peak": 6,
+   "worldScore": 2,
+   "worldCoverage": "1/17",
+   "jpScore": 8,
+   "jpCoverage": "1/6",
+   "gap": -6,
+   "japan": false,
+   "outlets": [
+    {
+     "id": "nyt",
+     "name": "New York Times",
+     "region": "world",
+     "weight": 0.3,
+     "title": "A Lion on the Loose Near Istanbul? Not So Fast.",
+     "desc": "Blurry surveillance footage spurred a frantic search — until the Turkish authorities said it was unclear whether the animal was the feline.",
+     "url": "https://www.nytimes.com/2026/11/24/world/middleeast/turkey-istanbul-lion.html",
+     "via": null
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.45,
+     "title": "トルコ最大の都市イスタンブールにライオン出現か…監視カメラが捉えた姿に当局が捜索開始(ニューズウィーク日本版)",
+     "desc": "トルコのイスタンブールで、雌ライオンとみられる動物が目撃され、当局が捕獲作業を進めている。【映像】イスタンブールの森林地帯に出現した雌ライオンとみられる動物目撃情報が寄せられたのは、イスタンブール北部",
+     "url": "https://news.yahoo.co.jp/articles/6bd31b2324c0b398e9c05bd548fa1d81857d3764?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261126-26",
+   "title": "福岡県の駐輪場で刺殺、関与の男を確保",
+   "firstSeen": "2026-11-26",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-26": 0
+   },
+   "peak": 0,
+   "worldScore": 0,
+   "worldCoverage": "0/17",
+   "jpScore": 44,
+   "jpCoverage": "4/6",
+   "gap": -44,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "asahi",
+     "name": "朝日新聞",
+     "region": "jp",
+     "weight": 0.91,
+     "title": "駅の駐輪場で男性刺殺、関与した疑いのある男の身柄を確保 福岡県警",
+     "desc": "",
+     "url": "http://www.asahi.com/articles/ASVCT3PSBVCTTIPE01GM.html?ref=rss",
+     "via": null
+    },
+    {
+     "id": "mainichi",
+     "name": "毎日新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "暴行事件の通報から約3時間後に容疑者発見 福岡・刺殺も関与か",
+     "desc": "",
+     "url": "https://mainichi.jp/articles/20261125/k00/00m/040/329000c",
+     "via": null
+    },
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "駐輪場で刺され７０歳男性死亡 直前に駅員暴行、容疑で男逮捕―福岡県警",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026112500741&g=soc&m=rss",
+     "via": null
+    },
+    {
+     "id": "yahoo",
+     "name": "Yahoo!ニュース主要",
+     "region": "jp",
+     "weight": 0.7,
+     "title": "福岡刺殺 確保の男を別容疑で逮捕",
+     "desc": "",
+     "url": "https://news.yahoo.co.jp/pickup/6603982?source=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261113-30",
+   "title": "防衛費の大幅増額、政府と与党の対応",
+   "firstSeen": "2026-11-13",
+   "daysSeen": 3,
+   "history": {
+    "2026-11-13": 0,
+    "2026-11-19": 0,
+    "2026-11-26": 0
+   },
+   "peak": 0,
+   "worldScore": 0,
+   "worldCoverage": "0/17",
+   "jpScore": 24,
+   "jpCoverage": "3/6",
+   "gap": -24,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "asahi",
+     "name": "朝日新聞",
+     "region": "jp",
+     "weight": 0.42,
+     "title": "「防衛族」怒りの矛先が首相官邸に 防衛費の大幅増額、期待裏切られ",
+     "desc": "",
+     "url": "http://www.asahi.com/articles/ASVCT45NZVCTUTFK01CM.html?ref=rss",
+     "via": null
+    },
+    {
+     "id": "mainichi",
+     "name": "毎日新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "トランプ政権,高市政権の行方:高すぎる米国の期待値…防衛費で「トランプ政権への説明」難題に",
+     "desc": "",
+     "url": "https://mainichi.jp/articles/20261124/k00/00m/030/253000c",
+     "via": null
+    },
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "防衛費、大幅増の要求続出 自民「国守れるか」",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026112501052&g=pol&m=rss",
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "s-20261126-27",
+   "title": "安保3文書改定、政府が防衛・経済安保の案示す",
+   "firstSeen": "2026-11-26",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-26": 0
+   },
+   "peak": 0,
+   "worldScore": 0,
+   "worldCoverage": "0/17",
+   "jpScore": 37,
+   "jpCoverage": "4/6",
+   "gap": -37,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "asahi",
+     "name": "朝日新聞",
+     "region": "jp",
+     "weight": 0.33,
+     "title": "安保3文書、敵基地攻撃担う対艦ミサイル導入へ 自民会合で政府示す",
+     "desc": "",
+     "url": "http://www.asahi.com/articles/ASVCT337XVCTUTFK00RM.html?ref=rss",
+     "via": null
+    },
+    {
+     "id": "mainichi",
+     "name": "毎日新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "政府、経済安保の概要案を自民に提示 安保3文書改定巡り",
+     "desc": "",
+     "url": "https://mainichi.jp/articles/20261125/k00/00m/010/303000c",
+     "via": null
+    },
+    {
+     "id": "yahoo",
+     "name": "Yahoo!ニュース主要",
+     "region": "jp",
+     "weight": 0.9,
+     "title": "3文書 防衛力整備計画の指針判明",
+     "desc": "",
+     "url": "https://news.yahoo.co.jp/pickup/6603985?source=rss",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "半導体や先端部品、企業に安定調達の計画義務づけ 経済安保で政府検討 - 日本経済新聞",
+     "desc": "半導体や先端部品、企業に安定調達の計画義務づけ 経済安保で政府検討 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hU21hZkg5YkNrOWd2QmZVOTV4UVI1ejlDVW9lSk1qaHZpRWdUeXk0bU1yM2wwOGZXQVFJREJiYWlsRnlaN3dXM0FQN2NCeDhMbndCYW9OX0RNSkRkNWtFaXFETXF1OTRydk5LVA?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261126-30",
+   "title": "大阪・海遊館でラッコ9年ぶり展示へ",
+   "firstSeen": "2026-11-26",
+   "daysSeen": 1,
+   "history": {
+    "2026-11-26": 0
+   },
+   "peak": 0,
+   "worldScore": 0,
+   "worldCoverage": "0/17",
+   "jpScore": 17,
+   "jpCoverage": "2/6",
+   "gap": -17,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "mainichi",
+     "name": "毎日新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "ラッコ4頭を展示へ 大阪・海遊館で9年ぶり 12月7日から",
+     "desc": "",
+     "url": "https://mainichi.jp/articles/20261125/k00/00m/310/298000c",
+     "via": null
+    },
+    {
+     "id": "nikkei",
+     "name": "日本経済新聞",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "大阪・海遊館にラッコ9年ぶり復活 子ども4頭、12月7日から展示 - 日本経済新聞",
+     "desc": "大阪・海遊館にラッコ9年ぶり復活 子ども4頭、12月7日から展示 日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tTEVBa2xKaWpqYURza1RMUzFvT1RMeXBQaWFmM05jVTlxbXB1T1NLOC05cE9sLW40VDJSZ1dCMXZqQUZxZmlJU1ZmT195aGZud19UMkt3d2JDNUZMNUQ2Mk1fTzVIY0hJWThfbQ?oc=5",
+     "via": "googlenews"
+    }
+   ]
+  },
+  {
+   "id": "s-20261125-27",
+   "title": "茂木外相、ICC赤根所長と会談 支援継続伝達",
+   "firstSeen": "2026-11-25",
+   "daysSeen": 2,
+   "history": {
+    "2026-11-25": 5,
+    "2026-11-26": 0
+   },
+   "peak": 5,
+   "worldScore": 0,
+   "worldCoverage": "0/17",
+   "jpScore": 19,
+   "jpCoverage": "2/6",
+   "gap": -19,
+   "japan": true,
+   "outlets": [
+    {
+     "id": "jiji",
+     "name": "時事通信",
+     "region": "jp",
+     "weight": 0.5,
+     "title": "茂木外相、赤根所長と会談 ＩＣＣ支援継続を伝達",
+     "desc": "",
+     "url": "https://www.jiji.com/jc/article?k=2026112501044&g=pol&m=rss",
+     "via": null
+    },
+    {
+     "id": "yahoo-world",
+     "name": "Yahoo!ニュース 国際",
+     "region": "jp",
+     "weight": 0.62,
+     "title": "米中ロによる“名指し非難”かつてない“制裁”「それでもICC死守」赤根所長に聞く(テレビ朝日系（ANN）)",
+     "desc": "アメリカからの制裁に加え、米中ロの首脳から名指しで批判されるなど、かつてない逆風にさらされているICC（国際刑事裁判所）。トップとして率いるのが、赤根智子所長です。一時帰国中の赤根所長にインタビューを",
+     "url": "https://news.yahoo.co.jp/articles/0ab45401607ed5777c674a40fdf23481f83cb66f?source=rss",
+     "via": null
+    }
+   ]
+  }
+ ]
+}
