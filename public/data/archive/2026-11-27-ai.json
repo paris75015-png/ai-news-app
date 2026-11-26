@@ -1,0 +1,924 @@
+{
+  "date": "2026-11-27",
+  "stream": "ai",
+  "title": "AI日報",
+  "generatedAt": "2026-11-26T21:42:23.862Z",
+  "model": "claude-haiku-5-5",
+  "editorialVersion": 13,
+  "categories": [
+    {
+      "id": "ai",
+      "label": "AI",
+      "desc": "AIモデル・AIサービス・AI企業の動向"
+    },
+    {
+      "id": "it",
+      "label": "IT",
+      "desc": "ソフトウェア開発・ネットサービス・セキュリティ・デバイス・通信（AIが主題のものは除く）"
+    },
+    {
+      "id": "science",
+      "label": "科学",
+      "desc": "研究成果・医療・宇宙・環境・エネルギー技術"
+    }
+  ],
+  "articles": [
+    {
+      "id": "94305b427e5a",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "headline": "Nvidia、マレーシアなど東南アジア4カ国向けサーバー出荷を一時停止",
+      "originalTitle": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "outlet": "TechCrunch",
+      "region": "overseas",
+      "category": "ai",
+      "score": 93,
+      "tier": "must",
+      "pubDate": "2026-11-26T20:03:54.000Z",
+      "body": null,
+      "summary": "WSJの報道によると、Nvidiaは製造パートナーのDellやSuper Microに対し、マレーシア、シンガポール、タイ、インドネシア向けのサーバー出荷を、期間を明示せずに一時停止するよう伝えた。これは、各地域のパートナーが米国の輸出規制を満たしているかを確認するためとされる。輸出規制とは、先端半導体などの輸出条件を国が定める制度のことである。\n\n背景として、中国企業がこれら4カ国のデータセンターから遠隔でNvidiaのチップを利用してきたことがある。米商務省は今月初めにこの抜け穴を閉じたが、同紙によると、その対応は渋々だったという。シンクタンクのInstitute for Progressは、こうした遠隔データセンターが中国のAI計算能力の約24%を供給していると推計している。",
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+          "date": "2026-11-26",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "7e5006b87a97",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003446/",
+      "headline": "AIの進化で脆弱性の発見が急増、2026年は10万件超と2025年の2倍以上",
+      "originalTitle": "脆弱性の発見数、1年で2倍超 Microsoft製品も月100件から1000件超に……AIで一変",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "it",
+      "score": 76,
+      "tier": "must",
+      "pubDate": "2026-11-26T05:04:44.000Z",
+      "body": null,
+      "summary": "Microsoftが2026年11月の月例セキュリティ更新で修正した脆弱性は計1093件で、うち63件が最も深刻度の高い「緊急」に分類された。更新の中のOutlookのなりすましの脆弱性は、公開時点で悪用が確認されていた。Microsoftは2026年に入って修正した脆弱性が5100件を超えたとしており、Krebs On Securityによると、1年前は月平均100件前後だった。Microsoftはこの増加について、AIの進化により大量の脆弱性を発見し修正できるようになったと説明しているという。\n\n英Registerによれば、2026年に入ってCVE（共通脆弱性識別子）が割り当てられた脆弱性は、全ベンダー合計で11月13日時点に10万件を超え、2025年の年間合計の2倍以上にあたる。セキュリティ企業VulnCheckの専門家は、10万件は多く聞こえるが、数年後には「たった10万件だった頃を覚えているか」と言われるだろうと予測している。\n\n攻撃までの時間も短くなっている。CrowdStrikeによると、2026年1月から6月に確認された、検証用プログラムコードを悪用した攻撃のうち88%が、そのコードの公開から48時間以内に発生していた。VulnCheckは、米Copeland製の冷蔵・冷凍設備管理システムの脆弱性情報を公開したところ、数分で攻撃の兆候をとらえたとしている。欧州のスーパーで大量の食品が廃棄される事態を招いたサイバー攻撃も、この種の脆弱性を悪用したものだった。\n\nただし、2026年にCVEが割り当てられた10万件余りのうち、実際の攻撃に使われたのは一部にすぎない。VulnCheckが独自に作成する「悪用が確認された脆弱性（KEV）」リストには1425件、米CISAが管理するKEVリストには298件が掲載されている（11月18日時点）。Ivantiの専門家クリス・ゲッテル氏は、インターネット接続機器やリモートアクセスツールなどの露出を迅速に特定し、実際に悪用されている少数の脆弱性に集中して対応し、残りは通常のパッチ適用サイクルで対応すべきだと助言している。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003446/",
+          "date": "2026-11-26",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "8aa61543f70b",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2611/26/2000003483/",
+      "headline": "Anthropicの「Claude Duet」、日本でも研究プレビューを開始",
+      "originalTitle": "「Claude Duet」日本でも開始 AnthropicのAIエージェント、研究プレビューを米国外に拡大",
+      "outlet": "ITmedia AI+",
+      "region": "domestic",
+      "category": "ai",
+      "score": 70,
+      "tier": "must",
+      "pubDate": "2026-11-26T05:09:57.000Z",
+      "body": null,
+      "summary": "AnthropicのAIエージェント「Claude Duet」の研究プレビュー版が、日本時間の11月26日から日本でも利用可能になった。研究プレビューとは正式公開前の試験的な提供のことである。事前にウェイトリスト（順番待ちの登録リスト）に登録していたPro、Max、Ultraのユーザーに招待が届き始めており、日本のユーザーから招待を受けたとの報告が相次いでいる。米国では10月21日（現地時間）にウェイトリスト制で提供を始めていた。\n\nClaude Duetは、Claudeが能動的に動くエージェントとして機能するアプリで、iOS／AndroidアプリとWebの「claude.ai」に対応する。仮想マシン上に専用のWebブラウザを持つため、ユーザーのPCやスマートフォンの電源が入っていなくても作業を続ける。GmailやSlack、カレンダーなど連携したアカウントを定期的に確認し、見逃したメッセージへの返信や予定の準備を手伝うとされる。\n\n同社のカラン・アフジャ氏は、日本時間の11月25日にXで、研究プレビューを日本、インド、ブラジル、インドネシアに拡大すると発表した。Teamプランでも、管理者がClaude Duetを有効にできるよう順次対応する。\n\n研究プレビュー期間中、Proユーザーには利用上限のリセットが3回、MaxとUltraのユーザーには1回提供される。リセットは設定の「使用状況」から確認でき、未使用のリセット権は12月15日に失効する。",
+      "sources": [
+        {
+          "outlet": "ITmedia AI+",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2611/26/2000003483/",
+          "date": "2026-11-26",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "3e56a8e6d42a",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "science",
+      "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+      "headline": "ESA探査機ヘラ、DART衝突の跡に巨大クレーターと岩塊群を確認",
+      "originalTitle": "European spacecraft finds chaotic scene after asteroid deflection experiment",
+      "outlet": "Ars Technica",
+      "region": "overseas",
+      "category": "science",
+      "score": 68,
+      "tier": "should",
+      "pubDate": "2026-11-25T22:36:45.000Z",
+      "body": null,
+      "summary": "欧州宇宙機関（ESA）の探査機ヘラが、小惑星ディモルフォス周辺で撮影した初期の画像を公開した。ディモルフォスは、より大きな小惑星ディディモスを周回する小惑星である。ヘラは、NASAの小惑星衝突実験探査機DART（二重小惑星軌道変更試験）がディモルフォスに衝突した後の状況を確かめるために派遣された。\n\nDARTは2022年9月に秒速約6.14キロメートルでディモルフォスに衝突し、約100億ジュールのエネルギーを放出した。この衝突でディモルフォスの約12時間の公転周期は約33分短縮され、事前の最も保守的な予測の25倍に達したと報告されている。一方、衝突後の詳しい様子は遠方の望遠鏡や小型衛星の観測に限られていた。ヘラの画像では、直径約151メートルのディモルフォスとほぼ同じ大きさのクレーターが、スタジアムほどの規模で刻まれていた。\n\nヘラの観測では、数百個の岩塊が二つの小惑星の周囲を動いていることも分かった。研究者は、DARTの衝突で飛び散った岩のほか、ディモルフォスの形成時に残った岩である可能性も挙げている。ただし確証はまだ得られていない。ヘラの主任研究者パトリック・ミシェルは、小惑星の重力が小さいため衝突時の反応が事前の予測と異なったと説明し、この理解が進めば惑星防衛の突破口になると述べている。\n\nヘラは今後半年かけて両小惑星にさらに近づき、詳細な観測を行う予定である。1月には小型衛星2機のミラニ（Milani）とユヴェンタス（Juventas）を放出し、ディモルフォスへの着陸を試みる計画だ。岩塊の存在は航行の障害になるが、小惑星の重力が弱いため探査機と岩塊の相対速度は秒速約12センチメートルと遅く、高速衝突の危険はないとされている。",
+      "sources": [
+        {
+          "outlet": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+          "date": "2026-11-25",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "3351794e6a63",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "science",
+      "url": "https://www.technologyreview.com/2026/11/26/1149923/the-next-generation-of-bionic-hands-is-here-and-they-can-feel/",
+      "headline": "圧力を感じ取れる義手、ユタ大の臨床試験で患者が初めて自宅使用",
+      "originalTitle": "The next generation of bionic hands is here—and they can feel",
+      "outlet": "MIT Technology Review",
+      "region": "overseas",
+      "category": "science",
+      "score": 68,
+      "tier": "should",
+      "pubDate": "2026-11-26T09:59:00.000Z",
+      "body": null,
+      "summary": "ユタ大学の臨床試験に参加するアヴィ・デイビッドソンが、圧力を感じ取れる電子制御式の義手を自宅で使い始めた。この義手は「LUKE（ルーク）アーム」と呼ばれる義手の一部で、腕の神経に接続して動きを操作し、加えている圧力の情報を受け取れる。デイビッドソンは、この実験的装置の移植を受けた9人目であり、自宅で単独で使う初めての参加者である。\n\nデイビッドソンは2009年、16歳のときに電柱に登って感電し、転落した。全身の37%に熱傷を負い、脊椎を約50か所で骨折し、脊髄も切断されたという。その後、左手は壊疽により切断された。今回の装置は、腕の神経に直接接続する点で、これまで使ってきた義手と大きく異なる。手術では、腕の3本の神経それぞれに100本の針を備えた電極アレイを圧縮空気銃で打ち込んだという。\n\n研究チームは、神経の電気信号を義手の手や手首の動きに変換する訓練を行った。動きの指示は約5分で済んだが、感覚を返す方向は電極を一つずつ刺激して本人の反応を確かめながら調整するため、約3日かかったという。デイビッドソンは7月10日から自宅で義手を使っており、文字を書くのに数分かかっていたのが数秒でできるようになったと話している。\n\n一方で、失った手があるように感じる幻肢痛と思われる痛みや、義手の手首のこわばりが生じることもあるという。研究者は、義手には腱がないため、手首を伸ばすと楽になる理由は分からないとしている。臨床試験は少なくとも1年間の予定で、2027年1月末に期間が終わる。研究チームは、より大規模な試験を計画し、保険の対象にするためFDA（米国食品医薬品局）の承認も目指している。",
+      "sources": [
+        {
+          "outlet": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/26/1149923/the-next-generation-of-bionic-hands-is-here-and-they-can-feel/",
+          "date": "2026-11-26",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "a3d3358b43e6",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003460/",
+      "headline": "GitHubの隠しAI指示文、悪意ある攻撃は全体の2%と研究が報告",
+      "originalTitle": "GitHubに「人には見えない隠し文字」 小型AIの操作狙うものも……1億4500万件を調査",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "ai",
+      "score": 66,
+      "tier": "should",
+      "pubDate": "2026-11-26T03:00:00.000Z",
+      "body": null,
+      "summary": "イスラエルのセキュリティ企業Radwareとテクニオン・イスラエル工科大学の研究者らは、GitHub上の投稿に隠されたAI向けの指示文を調べた論文を発表した。GitHubでは、AIエージェントがIssueの分類やプルリクエストのレビューを自律的に行っている。AIは一般ユーザーが書いた文章をそのまま読むため、外部の文章に悪意ある命令を紛れ込ませてAIを操る「間接的プロンプトインジェクション」の危険が指摘されている。\n\n研究チームは、約1億4500万件のGitHub上の投稿とREADMEを分析し、HTMLコメントなど画面に表示されずAIには届く隠しテキストを2281件見つけた。内訳は、開発チームが自社のAIエージェントへ指示を出したり、AI同士の役割を調整したりする連携メモが67%、出力設定が16%、AIの編集範囲を制限する行動制限が15%だった。全体の98%は攻撃目的ではなかった。\n\n残りの2%、43件は悪意ある攻撃だった。攻撃のうち44%は、マイクロソフトやグーグル、オープンAIなど大手ベンダーのリポジトリを狙っており、最も多い目的は環境変数や認証トークンなどの認証情報の窃取であった。攻撃の21%は実在するツール名や出力項目名を指定しており、研究チームは、攻撃者が事前にワークフローの定義を読み込んでいたことがうかがえるとしている。\n\n研究チームによると、5種類のAIモデルによる再現実験では4つが攻撃指示に一度も従わなかった。一方、大量のIssueを処理する際に選ばれやすい小型・高速モデル（gpt-5.6-luna）は、43件中8件（19%）で指示に従い不正な操作を試みた。隠しテキストの出現率は2026年6月から9月の4カ月で約5倍に増えており、研究チームは、公開スレッド上では誰でも同じ記号を書き込める点を問題視している。対策として、外部の投稿を読むAIの権限を最小限にして秘密情報から隔離すること、投稿者の属性で隠しテキストを選別することを推奨している。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003460/",
+          "date": "2026-11-26",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "922e5e0a078b",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2611/26/2000003494/",
+      "headline": "Googleが新AIモデル「Gemini 4 Neon」の利用例を公開 スキーシミュレーターなど",
+      "originalTitle": "「Gemini 4 Neon」が実際の標高データからスキーシミュレーターを開発――Google公式が勧める利用例まとめ",
+      "outlet": "ITmedia AI+",
+      "region": "domestic",
+      "category": "ai",
+      "score": 64,
+      "tier": "should",
+      "pubDate": "2026-11-26T09:00:00.000Z",
+      "body": null,
+      "summary": "Googleは2026年11月18日（現地時間）に発表したAIモデル「Gemini 4 Neon」（以下、Neon）の利用例を公式ブログで公開した。Neonは、難度の高い長期プロジェクト向けの「Gemini 4 Carbon」と、高速な日常作業向けの「Gemini 4 Hydrogen」の中間に位置づけられるモデルとされる。一部性能について、米Anthropicの最上位モデル「Claude Fable 5.2」と同等とする第三者評価もあるという。\n\nGoogleが示した利用例は、エージェント性能と開発能力を中心に5つである。ブログでは、Googleの複数エージェントを統制する機能「/swarm」を使い、3DCGソフト「Blender」を操作して3Dシーンを制作した例が紹介されている。また、実際の標高データとカスタムシェーダー、物理演算を用いて、仏アルプスのモンブランを滑走するスキーシミュレーターを開発した例もある。さらに、古写真をもとに1936年の数学者アラン・チューリングの研究室を3Dで再現したデモも示された。\n\nスプレッドシートを使った例では、10万セルのシートで写真を再現した。画像の埋め込みや「Google Apps Script」を使わず、輪郭や奥行きを数式で計算し、光の当たり方を変えられるようにしたという。ゲーム開発では、複数ステージの2人用ゲームを構築し、ブラウザ内でエージェント自身が2人目のプレイヤーとして参加するデモも示された。\n\n日常利用としては、光熱費の明細を調べて料金が急増した原因を探る例や、複数の領収書や書類を照合して返金交渉の準備をする例が挙げられている。Googleは、こうした複数ステップにわたる処理を大規模モデルより効率的に処理できると主張している。Neonは有料プラン「Google AI」のPro・Ultra加入者向けに「Gemini」アプリやAntigravityで提供される。API料金は100万トークンあたり入力3ドル、出力15ドルで、Carbonの標準価格より25％安いとされる。性能評価を手掛ける米Artificial Analysisは、コーディング性能で同水準のClaude Fable 5.2と比べ、タスク当たりの平均コストが半分以下に収まるとしている。",
+      "sources": [
+        {
+          "outlet": "ITmedia AI+",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2611/26/2000003494/",
+          "date": "2026-11-26",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "ebd99d31f440",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2611/26/2000003490/",
+      "headline": "マネーフォワードが家計データを外部AIに連携する狙いと安全策 Muse・ChatGPT対応",
+      "originalTitle": "家計データをなぜ「Muse」「ChatGPT」に渡すのか？ マネーフォワードに聞いた狙いと安全策",
+      "outlet": "ITmedia AI+",
+      "region": "domestic",
+      "category": "ai",
+      "score": 61,
+      "tier": "should",
+      "pubDate": "2026-11-26T06:09:25.000Z",
+      "body": null,
+      "summary": "マネーフォワードは、家計簿アプリ「マネーフォワード ME」の家計・資産情報を、Metaのパーソナルエージェント「Muse」と、OpenAIのChatGPTに提供している。Museへの連携は10月26日に始まり、新規接続数は毎日順調に増えているという。Museは利用者が実現したいことを伝えると、方法を考えて計画を立て、必要な作業を能動的に進めるAIである。支払いや購入など重要な操作の前には利用者に承認を求める。\n\n同社は、AIに自社サービスの機能で勝つことより、データを活かすことが生き残りにつながると判断したとしている。マネーフォワードホームの末澤慶海氏は、個人の家計相談を自社のチャット機能で作る案も検討したが、ChatGPTやGeminiと同じ水準の回答品質を出すのは難しいと説明したという。連携には、AIが外部サービスを呼び出すための共通規格「MCP」（Model Context Protocol）を使う。MuseやChatGPT向けに個別の機能を作っているわけではなく、渡すデータは共通である。\n\n安全面では、マネーフォワードはMCPを誰でも使える形で公開しておらず、AIからの書き換えや金融取引もできないようにしている。提供する情報は利用者が許可した範囲に限られ、連携はいつでも解除できるという。Metaは、Museでの会話内容や専用の仮想マシン内のデータが広告システムに共有されることはなく、広告のパーソナライズにも使われないと説明している。一方で、Museが利用者に代わってショッピングサイトを訪問した場合、表示される広告に間接的な影響が出る可能性があるとも認めている。\n\n記事は、今後の焦点はデータの書き込み権限にあると指摘する。末澤氏によれば、操作履歴の記録や利用者の承認を取る仕組みを合わせて設計する必要があるという。データ流出や誤動作で被害が出た場合の責任と補償について、Metaは社内で確認中としている。マネーフォワード MEの無料プランは4口座まで連携できるが、AI連携ユーザーは口座を増やすため有料プレミアム会員になる傾向があるとされる。",
+      "sources": [
+        {
+          "outlet": "ITmedia AI+",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2611/26/2000003490/",
+          "date": "2026-11-26",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "25927c0f40db",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/",
+      "headline": "NVIDIAのCEO交代騒動 中国スパイ疑惑は未確定のまま",
+      "originalTitle": "Is Alice Huang a spy or not?",
+      "outlet": "TechCrunch",
+      "region": "overseas",
+      "category": "ai",
+      "score": 60,
+      "tier": "should",
+      "pubDate": "2026-11-26T20:00:00.000Z",
+      "body": null,
+      "summary": "NVIDIAのジェンスン・フアンCEOが11月12日に辞任したのは、データセンター企業Megaspeedの元幹部アリス・ファン氏との関係を認めたためである。その後、フアン氏は今週月曜日に復帰した。報道では、アリス・ファン氏が中国の国家安全部（MSS）の職員と接触していたとされるが、中国のスパイだという主張は、公的に示された証拠によっては裏付けられていない。\n\nこの疑惑は、2026年3月に作成され、国務長官マルコ・ルビオの監督下で、5月のトランプ大統領の訪中前にホワイトハウス関係者に回覧された機密メモに端を発するという。ニューヨーク・タイムズ紙は10月29日に最初の報道を出し、メモの存在は11月8日に初めて報じられた。ウォール・ストリート・ジャーナル紙によると、メモはアリス・ファン氏がスパイだと断定していなかったが、CNNは、メモが彼女を中国の情報工作員と結論づけていたと報じている。\n\nニューヨーク・タイムズ紙は、アリス・ファン氏が2025年春から今年秋まで、MSSの職員と連絡を取っていたと報じた。この期間はフアン氏との関係と重なる。中国政府はこの疑惑を中傷だと主張しており、Megaspeedは、ファン氏が2025年8月に同社を去り、事業は正当なものだとしている。\n\nトランプ政権の高官は、スパイ疑惑やNVIDIAがスパイ活動や外国の影響を受けたという見方をほぼ否定している。司法長官トッド・ブランシェ氏は火曜日、「NVIDIAが良き企業市民である以外に言うことはない」と述べた。同日、トランプ大統領は、フアン氏への恩赦は選択肢の一つだが、必要とは思わないと語った。政府の情報機関高官は、MSSがアリス・ファン氏にフアン氏との関係を指示したことを示す実際の証拠はないと議会に伝えたとされる。ただし、これらの発言はアリス・ファン氏がスパイでなかったことを必ずしも証明するものではない。\n\n記事は、これらの情報の多くが匿名の政府関係者によるもので、実際に何が起きたかは依然として不明確だと指摘する。主な疑問として、なぜ1年以上の監視が続いた段階でフアン氏に警告されなかったのか、彼女がどのような情報を渡したのか、そして疑惑がどのように公表されたのかが挙げられている。記事は、情報の漏えいが最も可能性が高いとしつつ、誰が漏えいしたかは明らかでないと述べる。フアン氏は来週、上院銀行委員会に出席する予定である。",
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/",
+          "date": "2026-11-26",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "abca0f7100ad",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "science",
+      "url": "https://arstechnica.com/science/2026/11/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming/",
+      "headline": "泥炭地の排水による温室効果は人為的変化の約2.7％と試算 研究",
+      "originalTitle": "Draining peatlands is responsible for a few percent of our global warming",
+      "outlet": "Ars Technica",
+      "region": "overseas",
+      "category": "science",
+      "score": 60,
+      "tier": "should",
+      "pubDate": "2026-11-26T12:15:42.000Z",
+      "body": null,
+      "summary": "Nature誌（2026年）に掲載されたYu氏らの研究は、泥炭地の土地利用変化によるCO2とメタンの排出が地球の温暖化にどの程度寄与しているかを試算した。泥炭地は枯れた植物が堆積してできた湿地で、大量の炭素を蓄えている。2020年時点で、CO2排出による影響は地球のエネルギー収支（温室効果の強さ）を1平方メートルあたり約+83ミリワット押し上げ、メタン排出の減少による影響は約−9ミリワットだった。合計は+73ミリワットで、人間活動による地球のエネルギー収支の変化全体の2.7％に当たり、誤差を考慮すると1.8〜3.6％とされる。別の見方では、泥炭地に埋蔵されていた炭素のうち約4％が現在大気中にあるという。\n\n地域別では、CO2の排出の半分以上が欧州由来で、東南アジアが4分の1近く、北米は14％だった。東南アジアからの寄与はここ数十年で大きく増えており、時期の傾向も地域によって異なる。\n\n研究チームは2100年までモデルを延長して計算した。2020年以降も泥炭地の水位を一定に保った場合、影響は73ミリワットから138ミリワットへとほぼ倍増する。水位の回復を一定程度進めれば増加は抑えられ、積極的に回復させた場合には2020年時点を若干下回るまで縮小するという。一方で、1800年時点の景観に戻すことは現実的ではないため、排出は長期間続くと記事は指摘している。",
+      "sources": [
+        {
+          "outlet": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/11/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming/",
+          "date": "2026-11-26",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "7f5e7948d744",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003480/",
+      "headline": "KDDI、米Xとデータ利活用で包括契約 通信品質の改善や法人向けサービスに",
+      "originalTitle": "KDDI、Xのデータ利用で包括契約 通信品質向上や法人向けサービスに活用へ",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "it",
+      "score": 58,
+      "tier": "interest",
+      "pubDate": "2026-11-26T05:11:44.000Z",
+      "body": null,
+      "summary": "KDDIは11月26日、SNS「X」の米Xと、Xのデータ利活用に関する包括的なパートナーシップ契約を13日付で締結したと発表した。Xのリアルタイムデータと、KDDIが保有する人流や属性などのデータを組み合わせて多角的に分析し、通信品質の改善などに生かす。\n\n分析の知見とKDDIのAI基盤を活用し、マーケティングやカスタマーサポートなどの業務で使う法人向け解析サービスを2027年以降に提供する予定だ。auサービスと連携した新たな顧客体験やサービスの創出にも取り組むとしている。データは個人を特定できない形で利用し、KDDIが保有するデータ資産をXに提供することはなく、Xのアカウントと顧客情報を個人単位で結び付けることもないという。データクリーンルーム（データを安全に共同分析するための環境）などを用いて、セキュリティ対策とアクセス制御を講じるとしている。\n\nKDDIは2021年に米SpaceXと協業を始め、2026年8月には次世代衛星「Starlink Mobile V2」のサービス提供契約をアジアで初めて締結するなど、衛星通信分野で連携を深めてきた。今回の契約により、連携領域を衛星通信からデータ活用へ広げる。X Developer Platform責任者のハイム・バトゥリ氏は「日本はXにとって最も重要な市場のひとつ」とコメントした。\n\nKDDI事業創造本部長の長谷川渡氏は、Xに集まる人々の声とKDDIのさまざまなデータ、分析知見、AI基盤を掛け合わせることで、生活者や社会の変化をより深く捉え、ネットワークやサービスの価値向上を図るとコメントしている。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003480/",
+          "date": "2026-11-26",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "6b51dc4656c1",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003484/",
+      "headline": "アディーレ法律事務所、問い合わせ者の個人情報約1828件漏えい 委託先に不正アクセス",
+      "originalTitle": "アディーレ法律事務所、個人情報約1828件漏えい 氏名や問い合わせ内容など……委託先「メール商人」に不正アクセス",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "it",
+      "score": 57,
+      "tier": "interest",
+      "pubDate": "2026-11-26T05:31:18.000Z",
+      "body": null,
+      "summary": "弁護士法人アディーレ法律事務所は11月25日、Webサイトの問い合わせフォームから連絡した人の個人情報約1828件が外部に漏えいしたと発表した。委託先のイー・エム・ズィーが提供するメール配信サービス「メール商人」が第三者による不正アクセスを受けたことが原因だという。\n\n対象は2023年1月1日から2026年11月11日までに、法律相談や取材・出演などの問い合わせ、法教育教材の申し込みなどのフォームから連絡した人である。漏えいしたのは、氏名、メールアドレス、電話番号、都道府県、性別、生年月日、法人名・業種・担当者名、学校名・自治体名、問い合わせ内容、連絡に関する希望などで、フォームの時期や種類によって入力内容は異なる。クレジットカード情報と銀行口座情報は含まれないとしている。事務所のシステムへの不正アクセスは確認していないという。\n\nメール商人のサーバには11月12日に不正アクセスがあり、保存していた情報の一部が外部に持ち出された。事務所は同日、イー・エム・ズィーの公表で事態を把握し、同サービスを使っていた問い合わせフォームを停止したうえで、同社に調査と報告を求めた。11月25日に漏えいの事実と情報の範囲が判明した。\n\n事務所は対象者へ順次個別に連絡する。また、事務所や弁護士を名乗る不審なメール、SMS、電話が届くおそれがあるとして、心当たりのない連絡ではURLへのアクセス、添付ファイルの開封、個人情報やパスワードの入力、金銭の支払いをしないよう呼び掛けている。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003484/",
+          "date": "2026-11-26",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "a6d1b90b555c",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.publickey1.jp/blog/26/post_310.html",
+      "headline": "さくらのクラウド、新ネットワーク基盤を発表 東京リージョンに第三ゾーン新設",
+      "originalTitle": "さくらのクラウド、新ネットワーク基盤、新データベースサービスなど投入。東京リージョン第三ゾーン新設も発表",
+      "outlet": "Publickey",
+      "region": "domestic",
+      "category": "it",
+      "score": 56,
+      "tier": "interest",
+      "pubDate": "2026-11-26T15:47:22.000Z",
+      "body": null,
+      "summary": "さくらインターネットは11月25日と26日の2日間、大規模イベント「SAKURA DEKIRU Conference 2026」で、さくらのクラウドの新機能を発表した。東京リージョンに3番目となる第三ゾーンを新設するほか、新しいネットワーク基盤「ネットワークスイート」やデータベースサービスを投入する。現在、石狩リージョンは3ゾーン、東京リージョンは2ゾーンを備えており、新設後は両リージョンとも3ゾーンになる。\n\n従来のさくらのクラウドのネットワークは、スイッチやルータなどの物理機器をそのまま仮想化したもので、オンプレミスの設計・構築を模したものだった。ネットワークスイートでは物理機器を意識せず、サブネットによる論理ネットワークを中心に設計できる。クラウド側でサブネットを設計すると、サーバ起動時にDHCP（IPアドレスを自動で割り当てる仕組み）によって各サーバにIPアドレスが設定されるため、サーバOSでの個別設定が不要になる。ネットワークスイートの機能は11月26日から利用可能となった。\n\nこのほか、SSL/TLS証明書（通信の暗号化に使う電子証明書）を一括管理して自動更新し、ロードバランサーに自動設定する証明書管理サービスが発表された。閉域網内でHTTPS終端とL7ロードバランシングを行う「ロードバランサーアプライアンス（L7LBプラン）」も提供される。データベーススイートではマネージドDB基盤を一新し、バックアップやバージョンアップの管理機能を統合する。初期提供はMySQLで、翌年度にPostgreSQLへの対応を予定している。\n\n支援面では、専任担当者が問い合わせ履歴の分析やコスト最適化などを継続的に提案する「エンタープライズサポート」と、3カ月から6カ月の期間を定めてシステム設計や構築、他環境からの移行を直接支援する「プロフェッショナルサービス」の開始も発表された。",
+      "sources": [
+        {
+          "outlet": "Publickey",
+          "url": "https://www.publickey1.jp/blog/26/post_310.html",
+          "date": "2026-11-26",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "93138fbb4db2",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+      "headline": "ランサムウェア復旧業者RansomwareHelpのCTO、電信詐欺で起訴",
+      "originalTitle": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
+      "outlet": "krebsonsecurity.com",
+      "region": "overseas",
+      "category": "it",
+      "score": 55,
+      "tier": "interest",
+      "pubDate": "2026-11-26T17:47:45.000Z",
+      "body": null,
+      "summary": "フロリダ州の企業RansomwareHelpの最高技術責任者（CTO）兼共同創業者であるフアン・リカルド・パラシオ・エスコバル（52）が、電信詐欺（wire fraud）の罪で起訴された。同社は、ランサムウェア（データを暗号化して身代金を要求する不正プログラム）で失われたデータを「高度な暗号技術」で100%復元すると宣伝し、身代金は払わないよう呼びかけていた。しかし起訴状によると、同社は攻撃者に復号鍵（暗号化されたデータを元に戻す鍵）の代金を支払い、実際には行っていない作業を上乗せして被害者に請求していたとされる。\n\n連邦捜査局（FBI）は、被害者とランサムウェア集団を装うおとり捜査を行った。捜査官が偽の身代金要求文を送ると、同社は攻撃者との交渉や身代金の支払いは行わない方針を返信した。ところがパラシオ被告は、FBIが運営する架空の集団に接触して復号ツールの最安値を求め、FBI側は0.2ビットコイン（当時約1万3000ドル）を提示したという。その後、被告は診断料2750ドルと復号料1万3260ドルの計1万6010ドルを被害者役に請求したが、攻撃者への支払いは約6000ドル相当で合意していたとされる。\n\n2024年には、LockBitに感染した会計事務所がRansomwareHelpに診断料を支払った事例もある。ソテリアの共同創業者ポール・アイメによると、同社は43万8880ドルの復旧料金を提示し、遠隔操作ソフトによる無制限のアクセスを求めていた。アイメ氏は、その目的の一つは攻撃者が残した身代金要求メモを削除することだったとみている。チャット記録では、同社が被害者に知られないようLockBitと秘密裏に交渉していたことも示されている。事務所は最終的に別の専門企業を通じて支払いを行い、RansomwareHelpが請求しようとした額の半分で済んだという。\n\n同種の事案は相次いでいる。10月初めには、カナダのサイバーセキュリティ企業Cybersteward（サイバースチュワード）の幹部エドワード・ドゥブロフスキー（54）が起訴されたが、事件は非公開となっている。同じ頃、モンスタークラウドのCEOゾハル・ピンハシ（50）が、身代金を払わずに解決すると顧客に請求したとして電信詐欺と共謀の罪で起訴された。起訴文書によると、同被告は顧客に秘密で攻撃者に800万ドルを支払い、顧客からは1900万ドルを受け取ったとされる。",
+      "sources": [
+        {
+          "outlet": "krebsonsecurity.com",
+          "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+          "date": "2026-11-26",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": "https://news.ycombinator.com/item?id=50657645",
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "f502fd176544",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.watch.impress.co.jp/docs/news/2159451.html",
+      "headline": "DeepL、音声翻訳AI「Aure v2」発表 翻訳開始遅延の中央値50%減",
+      "originalTitle": "DeepL、より自然なAI音声翻訳「Aure v2」 翻訳の遅延を50%削減",
+      "outlet": "Impress Watch",
+      "region": "domestic",
+      "category": "ai",
+      "score": 55,
+      "tier": "interest",
+      "pubDate": "2026-11-26T06:00:00.000Z",
+      "body": null,
+      "summary": "DeepLは26日、イベント「Unmute Tokyo 26」で音声AIモデル「Aure v2」を発表した。DeepL Voice（DeepLの音声翻訳機能）の利用者向けに提供を開始し、前モデル「Aure」と比べて翻訳開始までの遅延の中央値を50%削減したとしている。Aureは、話者の声の特徴を保ったまま、会話中のトーンや感情、強調、話すペースの変化を翻訳音声にリアルタイムで反映するモデルである。\n\n従来のモデルは会話冒頭の話者の声をもとに翻訳音声を生成していたが、Aureは翻訳後の言葉と元の音声の両方から、何を話しているか、どのように話しているかを継続的に分析する。Aure v2では、音声から音声へ直接翻訳するエンドツーエンド型（途中の工程を分けず1つのモデルで処理する方式）のアーキテクチャを新たに導入した。従来は文字起こし、翻訳、音声生成をそれぞれ別のモデルが順に行っていたが、これを1つのプロセスに統合して遅延を大幅に減らした。\n\nまた、強化学習（試行の評価に基づいて振る舞いを学習させる手法）によって翻訳を開始するタイミングを最適化した。早く始めすぎると文脈を捉えきれず精度が落ち、遅すぎると会話のテンポが損なわれる。そこで正確かつ素早く開始された翻訳を評価する仕組みを取り入れ、必要な文脈が得られたタイミングをモデル自身が判断できるようにしたという。\n\n社内ベンチマークでは、英語から日本語への翻訳で、Googleの「Gemini 3.5 Live Translate」と比べて翻訳エラーを32%減らし、テストした10の言語ペアすべてで競合システムを上回ったとしている。Aure v2は現時点で日本語、英語、ドイツ語、フランス語、スペイン語、韓国語の6言語に対応し、「DeepL Voice for Online Meetings」「DeepL Voice for In-Person Conversations」「DeepL API for Voice」で利用できる。対応言語では追加の設定なしで自動的に適用される。",
+      "sources": [
+        {
+          "outlet": "Impress Watch",
+          "url": "https://www.watch.impress.co.jp/docs/news/2159451.html",
+          "date": "2026-11-26",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "6f937299d9db",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/",
+      "headline": "バックアップ大手Backblaze、新プライバシーポリシーで広告パートナーとの情報共有を明記",
+      "originalTitle": "Backblaze explains why it's sharing customer information with advertisers",
+      "outlet": "Ars Technica",
+      "region": "overseas",
+      "category": "it",
+      "score": 54,
+      "tier": "interest",
+      "pubDate": "2026-11-25T18:38:29.000Z",
+      "body": null,
+      "summary": "バックアップおよびクラウドストレージ事業者のBackblazeは、12月1日に施行される新しいプライバシーポリシーで、広告・マーケティングパートナーを含む第三者と共有してきた個人情報の種類を示した。現行ポリシーは、利用者が提供する情報に加え、使用しているソフトウェアやOS、IPアドレス、リクエストの日時などを自動的に収集するとしている。一方で、利用者の同意なしに住所やメールアドレスを他社のマーケティング目的で提供することはないと定めており、広告主への言及はない。\n\n新ポリシーの表には、2025年12月1日以降に収集し、第三者と共有してきたとする情報が並ぶ。識別子（氏名、住所、IPアドレス、メールアドレスなど）、購入や利用の履歴などの商取引情報、端末の物理的な位置を特定できる位置情報、通話録音などの音声・映像の監視データが含まれる。\n\nこれに対しBackblazeの広報担当者は、通話録音などの監視データを標的型広告のために販売・共有しておらず、広告・マーケティングパートナーにも開示していないと述べたとしている。記事は、この記載について一部の利用者から懸念が出ていると伝えている。",
+      "sources": [
+        {
+          "outlet": "Ars Technica",
+          "url": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/",
+          "date": "2026-11-25",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "9ab1d867793f",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/",
+      "headline": "Xが13〜17歳のアカウントに保護者向け機能を導入 初期設定は保護モード",
+      "originalTitle": "X finally gets parental controls after 20 years",
+      "outlet": "TechCrunch",
+      "region": "overseas",
+      "category": "it",
+      "score": 50,
+      "tier": "interest",
+      "pubDate": "2026-11-26T19:31:50.000Z",
+      "body": null,
+      "summary": "旧TwitterのソーシャルネットワークであるXは、20年の運営を経て、13〜17歳のアカウントを保護者が管理できる機能を導入した。対象アカウントは初期設定で「保護モード」になり、センシティブな内容が表示されず、ターゲティング広告も配信されない。十代の利用者も、自分のアカウントにどのような制限がかけられているかを確認できる。保護者は十代の非公開メッセージを読むことや、検索・閲覧履歴の確認、十代になりすまして投稿することはできない。\n\n保護者は、週ごとの利用時間の確認、1日の利用時間の上限設定、新規フォロワーの承認要求、フィードの推奨や動画を既にフォローしているアカウントに限定する設定、特定の単語のフィルタリング、センシティブなメディアの非表示、DMを送れる相手の指定、十代がやり取りしている相手の確認が可能である。\n\n記事は、この機能の導入が、数か月前にXのAIチャットボットを使って子どもや女性の性的な画像が生成されることを防ぐ仕組みが不十分だとして批判を受けたことを背景にしていると伝えている。また同サービスには、児童の性的虐待を含む素材、誤情報、AIボット、ポルノ投稿が長く見られると指摘している。2024年の調査では、ゲンアルファ世代（2010年代以降に生まれた世代）の子どもの約3分の1がXのアカウントを持つとされる。\n\nXの安全担当の責任者であるマイケル・オヘアリヒー氏はブログ記事で、保護者には実用的なツールが、十代には成長の余地が必要だと述べた。家庭に合ったルールを設定できる一方、十代がアカウントの主導権を保ち、すべての変更を確認できる点が重要だとしている。",
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/",
+          "date": "2026-11-26",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "fc3f6c861a53",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
+      "headline": "Google、トレーダー申告の開発者の住所・電話番号を2027年3月から公開へ",
+      "originalTitle": "Android app developers will soon have to share their address publicly",
+      "outlet": "The Verge",
+      "region": "overseas",
+      "category": "it",
+      "score": 48,
+      "tier": "interest",
+      "pubDate": "2026-11-26T17:06:24.000Z",
+      "body": null,
+      "summary": "Googleは、来年から多くの独立系Androidアプリ開発者に電話番号と住所の公開を求めると発表した。これはEUのデジタルサービス法（DSA）に対応するための措置だが、Googleは連絡先を世界中で公開するとしている。開発者は2027年2月1日までに、英国およびEU法上の「トレーダー」（事業者）に当たるかどうかを申告する必要がある。\n\nGoogleによると、アプリから収入を得ている場合は、特にその収入が定期的または大量であればトレーダーに該当する。趣味や非営利のアプリ、英国・欧州で公開していないアプリは対象外となる。トレーダーと申告した場合、2027年3月1日から電話番号と住所が公開される。Googleは支払いプロフィールの住所として私書箱を認めていないため、事務所を持たない個人開発者は、自宅住所をネット上に公開するか、事業所住所を提供する登録代理人サービスなどに料金を払う必要がある。\n\nThe Elecの取材に応じた開発者は、この規則に対応するため個人用の事務所を借りることを検討しているという。記事は、私書箱が認められない理由と連絡先を世界的に公開する理由についてGoogleに確認を求めたが、本文の時点では回答は示されていない。一方、Appleも同様の規制の対象だが、連絡先の表示は関係する欧州諸国に限定している。さらに、私書箱を認め、本住所と結びつく領収書などを提出すれば利用できるとしている。",
+      "sources": [
+        {
+          "outlet": "The Verge",
+          "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
+          "date": "2026-11-26",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "b9e148451245",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2611/26/2000003495/",
+      "headline": "GPT-6.2の使用量を実際より少なく計算 修正後Astraは上限に40％早く到達",
+      "originalTitle": "GPT-6.2の使用量「誤って割引されていた」 修正後はAstraで上限に40％早く達する見込み",
+      "outlet": "ITmedia AI+",
+      "region": "domestic",
+      "category": "ai",
+      "score": 48,
+      "tier": "interest",
+      "pubDate": "2026-11-26T07:43:35.000Z",
+      "body": null,
+      "summary": "米OpenAIのプロダクト責任者ティボー・ソティオ氏（通称Tibo）は11月25日（現地時間）、17日にリリースしたAIモデル「GPT-6.2 Astra」（以下、6.2 Astra）と「GPT-6.2 Sol」（以下、6.2 Sol）の使用量が実際より少なく計算されていたことを、Xで明らかにした。誤りは既に修正されており、修正前と比べると利用上限に達するまでの期間が、6.2 Astraでは40％、6.2 Solでは25％短くなるという。\n\nTibo氏は今回の誤りに対する「ささやかなお詫び」として、有料プランの利用者に利用枠のリセット権を1回分付与するとしている。6.2 Astraは難度の高い専門業務向けの最上位モデル、6.2 Solは「GPT-6.1 Sol」の後継となる日常業務向けのモデルと位置づけられている。\n\n両モデルとも、難しいタスクにおいて前世代モデルより少ない出力トークン（AIが文章を処理・生成する際の最小単位）で、より良い結果を出せると主張している。",
+      "sources": [
+        {
+          "outlet": "ITmedia AI+",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2611/26/2000003495/",
+          "date": "2026-11-26",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "fd8e54a23e22",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2611/26/2000003470/",
+      "headline": "Obsidian、AIエージェント向けスキル集をオープンソースで公開",
+      "originalTitle": "Obsidian公式の「エージェント向け」スキル集が登場 Vault操作法とファイル形式をひとまとめに",
+      "outlet": "ITmedia AI+",
+      "region": "domestic",
+      "category": "ai",
+      "score": 46,
+      "tier": "interest",
+      "pubDate": "2026-11-26T08:06:20.000Z",
+      "body": null,
+      "summary": "マークダウンエディタ「Obsidian」の開発チームは11月26日（日本時間）、エージェント向けの「コネクタ」機能を発表した。エージェント（AIが自律的に作業を進める仕組み）に、Obsidianのファイル保管庫「Vault」内の操作方法、Webページからマークダウン形式（見出しや強調を記号で書く軽量な書式）のテキストを抽出する方法、ファイル形式などを指示するスキル集を、オープンソースで公開した。\n\nスキル集を使うと、米OpenAIの「ChatGPT」や「dots」、米Anthropicの「Claude」、米Googleの「Google Antigravity」、米SpaceXAIの「Grok Bot」、米Metaの「Muse」など、あらゆるAIエージェントにObsidianを接続できると開発チームは説明している。\n\n利用にはObsidianのデスクトップアプリで「Obsidian CLI」（文字によるコマンドで操作する仕組み）を有効にしておく必要がある。インストールは、公式ドキュメントに沿って各エージェントのCLIツール経由で行うか、WebやデスクトップアプリのChatGPT・Claudeのプラグインディレクトリから画面操作で行える。\n\n今回のスキル集はローカルのVaultを操作するためのもので、クラウド上でVaultを操作する機能ではないと記事は述べている。公式ドキュメントでは、クラウドで動作するMuseにVaultを操作させる場合はMetaのクラウドにVaultを同期する必要があると説明されており、この方法はMuseの項目にのみ記載されているという。",
+      "sources": [
+        {
+          "outlet": "ITmedia AI+",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2611/26/2000003470/",
+          "date": "2026-11-26",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "79d027e2e048",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/",
+      "headline": "AIが米国の公文書開示制度に負荷 請求者の見分けが困難に",
+      "originalTitle": "The Download: AI swamping open records, and firefighting for permafrost",
+      "outlet": "MIT Technology Review",
+      "region": "overseas",
+      "category": "ai",
+      "score": 44,
+      "tier": "spare",
+      "pubDate": "2026-11-25T13:10:00.000Z",
+      "body": null,
+      "summary": "MIT Technology Reviewのニュースレター「The Download」（2026年11月25日付）は、まずAIが米国の公文書開示制度に負荷をかけていると伝えている。ベンチャー企業の支援を受けた新興企業が1億ドル以上を調達し、数千の行政機関からデータを集めてAIで「シグナル」と呼ばれる分析情報に変換し、企業が政府に売り込む材料として提供しているという。\n\n一方で、チャットボットによって個人が公文書の開示請求を出しやすくなった。行政機関は、請求者が市民かチャットボットか、あるいは営業目的の案件なのかを判別しにくくなっている。一部の州では請求を拒否しやすくする法律が成立しつつあり、行政の透明性を下げるおそれがあると記事は指摘している。\n\n記事はまた、ハッカーがAIツールを使って米国の情報機関に侵入したと報じられたことも紹介している。使われたのは「Artex」というツールで、もともとサイバー防御のために設計されたものだという。情報源の一部は中国の関与を示唆しており、当局者は流出したのは機密ではないデータだと説明している。\n\nこのほか、中国のHuawei（ファーウェイ）が米国の企業秘密を盗んだとされた裁判で、12件の罪状のうち10件（銀行詐欺を含む）で有罪評決を受けたことが紹介されている。一方で、より重い組織的犯罪の罪状は退けられた。また、Metaの社内関係者が、同社のAIによる投稿審査の誤りが危険な結果を招いており、政治的に広範な影響を及ぼしかねないと警告しているという。",
+      "sources": [
+        {
+          "outlet": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/",
+          "date": "2026-11-25",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "ab48f4b06252",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "ai",
+      "url": "https://www.itmedia.co.jp/business/articles/2611/26/news033.html",
+      "headline": "旅行会社の価値は人間の接客と信頼にあると業界シンポで議論",
+      "originalTitle": "旅行会社に残る価値は？ 生成AIに「旅の相談」が当たり前の今、業界の生存戦略",
+      "outlet": "ITmedia AI+",
+      "region": "domestic",
+      "category": "ai",
+      "score": 41,
+      "tier": "spare",
+      "pubDate": "2026-11-26T03:00:00.000Z",
+      "body": null,
+      "summary": "生成AIがホテル検索から予約、決済までを自律的にこなす「AIエージェント」の利用が注目されるなか、旅行会社の存在意義が問われていると伝えている。円安や燃油高で日本人の海外旅行はコロナ禍前の水準に戻りきらず、価格競争や団体ツアーの時代は終わり、一人ひとりの好みに合わせた高付加価値な旅が求められているという。日本旅行業協会（JATA）が旅行博「ツーリズムEXPOジャパン」で主催したシンポジウムでは、旅行メディア、食のデータ分析企業、IT大手、大手旅行会社の4人が登壇した。\n\nトラベルボイスの鶴本浩司社長CEOは、2022年から生成AIを旅行計画や予約の支援に使う動きが見られ、2024年には自律的に行動して旅行予約まで完了できる「エージェンティックAI」が登場したと紹介した。生成AIは何度も質問しないと動かないのに対し、AIエージェントは最小限の指示で自律的に動き、ゴールまで支援すると説明した。AIの役割については「代替」「効率化」「利益貢献」「新体験」の4つを挙げた。\n\n一方で、人間にしかできない価値として、鶴本氏は顧客の気持ちをくみ取り感動を共有する接客を挙げた。味香り戦略研究所の早坂浩史取締役副社長COOは、AIは「おいしい」という情報を処理できても味わった経験を持たないため、何をおいしいと感じ、どう伝えるかは人間の役割だと述べた。観光庁の統計によると、訪日前のインバウンドが最も期待することのトップは「日本食を食べること」だという。\n\n日鉄ソリューションズの籏野いづみ氏は、AIの提案をそのまま採用せず、利用者が自分の知識や感覚をもとに選び修正する力が必要だと述べた。「ハワイに行きたい」という言葉の裏にある本音や背景はAIには分からないため、旅行会社が納得感のある情報を伝える価値があるとした。東武トップツアーズの篠原俊成未来共創ラボ部長は、営業部門では生成AIサービスのGeminiの利用率が高い一方、専門職や管理部門では利用が伸び悩んでいると報告した。シンポジウムでは、AIで生まれた時間を信頼関係や付加価値の創造に振り向けられるかどうかが会社間の差になり、人間とAIは分担して協働する存在だとする結論が示された。",
+      "sources": [
+        {
+          "outlet": "ITmedia AI+",
+          "url": "https://www.itmedia.co.jp/business/articles/2611/26/news033.html",
+          "date": "2026-11-26",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "6dfaa295d3a7",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003474/",
+      "headline": "PayPay、マネーライト現金化サービスに関与を否定し利用停止を警告",
+      "originalTitle": "「PayPayマネーライト現金化」サービス、PayPay「当社は関与していない」「絶対に利用しないで」",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "it",
+      "score": 40,
+      "tier": "spare",
+      "pubDate": "2026-11-26T02:27:43.000Z",
+      "body": null,
+      "summary": "PayPayは11月26日、25日に他社が発表した「PayPayマネーライト」の現金化をうたうサービスについて、「当社は一切関与していない」「絶対に利用しないで」と呼び掛けた。PayPayマネーライトは、クレジットカードなどからチャージできる電子マネーで、現金化はできない。\n\n同社は、現金化を目的に第三者へ譲渡する行為は利用規約違反であり、PayPay残高の利用停止やアカウント閉鎖などの措置を講じる場合があると警告している。マネーライトは「PayPayカード」「PayPayクレジット」「ソフトバンク・ワイモバイルまとめて支払い」などでチャージした残高で、買い物や他のユーザーへの送金に使えるが、銀行口座への出金はできず、本人確認前でも利用できるという。\n\n現金化サービスを発表した事業者名はPayPayが明らかにしていないが、11月25日に電子ギフト券のオンライン買取サービス運営企業が、マネーライトの買取受付を始めたと発表していた。利用者がPayPayアプリから送ったマネーライトを確認し、買取代金を本人名義の銀行口座へ振り込む仕組みで、買取率は93％（1万円分で9300円）、受付額は1万円以上（初回は5万円まで）としている。\n\n発表文では、PayPayマネーは換金を目的とした残高の利用や商業目的の個人間送金が禁止されていると利用規約にも言及した。また、本サービスの利用でPayPayアカウントが制限される可能性があるが、当社はこの制限について補償できないと明言していた。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003474/",
+          "date": "2026-11-26",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "beb051c1619f",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.watch.impress.co.jp/docs/news/2159540.html",
+      "headline": "ダークパターン被害は年2.4〜3.2兆円、協会がAI診断ツールを開発",
+      "originalTitle": "ダークパターン被害は年最大3.2兆円 相次ぐ漏えいによる二次被害に警鐘",
+      "outlet": "Impress Watch",
+      "region": "domestic",
+      "category": "it",
+      "score": 40,
+      "tier": "spare",
+      "pubDate": "2026-11-26T07:17:43.000Z",
+      "body": null,
+      "summary": "ダークパターン対策協会は26日、相次ぐ個人情報漏えいを背景に、ダークパターンを悪用した二次被害への注意を呼び掛けた。あわせて、2027年春をめどに企業が自社Webサイトのダークパターンを診断できるAIツールを開発していることを明らかにした。ダークパターンとは、Webサイトやアプリで消費者が意図しない購入や契約、個人情報の提供などに誘導する表示や仕組みを指す。\n\n同協会が8月に発表した調査では、国内の消費者被害額は年間約2.4兆～3.2兆円と推計され、国内BtoC-EC（消費者向け電子商取引）市場の約1割に相当するという。推計額の最大値は2024年の調査から約2倍に拡大した。金銭被害の8割以上は、「知らない間に定期購入になっていた」「やめようとしても解約しにくい」という2つの手口を組み合わせたものだとしている。\n\n個人情報漏えいによる二次被害について、協会の小川晋平代表理事は、流出した情報を使ったフィッシングメールで偽サイトに誘導し、さらなる情報を詐取する恐れを指摘した。SBI証券をかたるメールは、不正アクセスを理由にパスキーの登録期限を11月20日に前倒しすると通知し、偽のログイン画面でIDやパスワードを詐取する手口だったという。小川氏は「急かされたら、怪しいと思え」と注意を促し、メール内のリンクは直接開かず公式サイトやアプリから確認することが重要だとした。\n\n消費者庁の加来芳郎取引対策課長は、9月10日公表の中間取りまとめをもとに規制強化を検討していると説明した。対象には虚偽の口コミや在庫情報、威圧的な文章などが含まれ、支払総額や定期購入の条件を分けて表示することの禁止、解約を妨害する画面構成への規制などが議論されている。また、協会は2025年10月に、ダークパターンを用いないWebサイトを審査する「NDD（Non-Deceptive Design）認定制度」を開始し、制度開始から1年で3社が認定を取得したと明らかにした。",
+      "sources": [
+        {
+          "outlet": "Impress Watch",
+          "url": "https://www.watch.impress.co.jp/docs/news/2159540.html",
+          "date": "2026-11-26",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "763beeeea5ab",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003472/",
+      "headline": "都の育児支援のQUOカードPayに不具合、委託先の不正アクセスとの関係を調査",
+      "originalTitle": "都が育児支援で配った「QUOカードPay」が「使えない」「残高減っている」……委託先への不正アクセスが関係か",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "it",
+      "score": 38,
+      "tier": "spare",
+      "pubDate": "2026-11-26T01:32:28.000Z",
+      "body": null,
+      "summary": "東京都は11月25日、出産・子育て応援事業「赤ちゃんファースト」のポイント交換サイトで交換したデジタル商品券「QUOカードPay」が使えない、残高が減るといった事象が起きていると発表した。同サイトは17日から一時閉鎖している。\n\n同サイトを運営する委託事業者のリンベルは、公式オンラインストアが不正アクセスを受けたことを公表している。赤ちゃんファーストとこの不正アクセスの関係は明らかになっておらず、リンベルが影響を調査している。赤ちゃんファーストは、都内の新生児の保護者に13万円分のポイントを提供し、育児用品や家電、デジタル商品券などと交換できる都の支援策である。\n\n対象は2025年12月1日以降にデジタルコードを取得した「東京都子育て支援専用 QUOカードPay」の1000円、2000円、5000円分である。都によると、この問題はQUOカードPay発行企業のシステムに起因するものではない。QUOアプリに保存済みのものや使用済みのものに影響はなく、個人情報の不正閲覧・漏えいや、QUOカードPay以外のデジタルギフトへの影響は現時点で確認されていない。\n\nリンベルは、利用できなくなった金額分のデジタルコードを再発行する。対象者には11月25日以降、サイトに登録したメールアドレスへ個別に連絡する。サイトは原因や影響範囲の詳細調査と改善策を経て、安全性が認められた段階で都と協議して再開する。閉鎖中に有効期限を迎えるポイントは期限が延長される。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003472/",
+          "date": "2026-11-26",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "91b0d57339c9",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://github.com/gary23w/f-ck_data_brokers",
+      "headline": "データブローカーに削除請求を自動送付するPythonツール「fuck_data_brokers.py」",
+      "originalTitle": "Show HN: Fuck_data_brokers.py",
+      "outlet": "github.com",
+      "region": "overseas",
+      "category": "it",
+      "score": 35,
+      "tier": "spare",
+      "pubDate": "2026-11-26T18:37:21.000Z",
+      "body": null,
+      "summary": "記事は、個人情報を収集して第三者に販売する事業者（データブローカー）に対し、利用者の情報の削除やオプトアウト（販売・共有の停止）を求める文書を自動作成して送付するPythonスクリプト「fuck_data_brokers.py」を紹介している。作者はHacker Newsへの投稿として公開しており、外部ライブラリを使わず無料で利用できるとしている。\n\n処理の流れは、米国で登録義務のある600社以上のデータブローカーの一覧を取得し、利用者の居住地の法律を引用した削除請求書を作成するというものである。利用者が提供するのは名前、メールアドレス、都市の3項目のみで、住所や生年月日、身分証は送らないとしている。送付は利用者自身のメールから行うか、ブラウザで開ける送信ページを使う方式が用意されている。\n\n事業者から返信があった場合は本文を貼り付けると、ツールが回答案を作成する。応じない事業者には期限付きの最終通知を送り、その後は居住地の規制当局への苦情申し立て方法を案内する。身分証の提出を求められた場合は提出を断ったうえで手続きを続ける機能もあるが、CAPTCHA（人間かどうかを判定する認証）の突破やリンクのクリックは行わないとしている。\n\n作者は、AIアシスタントが外部ツールを利用するための規格であるMCP（Model Context Protocol）に対応させ、AIを通じて操作する方法も示している。また、作者が手がけるとする有料の代行サービス「Agent Garrett」も案内しているが、無料のツールでも同様の手続きができるとしている。",
+      "sources": [
+        {
+          "outlet": "github.com",
+          "url": "https://github.com/gary23w/f-ck_data_brokers",
+          "date": "2026-11-26",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": "https://news.ycombinator.com/item?id=50658191",
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "9ca28a7fecf2",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://github.com/antonpictures/youtube-punisher",
+      "headline": "広告再生時にYouTubeを自動再読み込みするChrome拡張「YouTube Ad Punisher」",
+      "originalTitle": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+      "outlet": "github.com",
+      "region": "overseas",
+      "category": "it",
+      "score": 33,
+      "tier": "spare",
+      "pubDate": "2026-11-26T17:36:47.000Z",
+      "body": null,
+      "summary": "GitHubで公開されたChrome拡張機能「YouTube Ad Punisher」は、YouTubeで広告が再生されるとページを自動で再読み込みし、再生位置を保ったまま広告を回避するとしている。作者は、再読み込みを1〜2回繰り返すと広告枠が空になり、動画が広告なしで再生されると説明している。\n\n仕組みは、広告を検出して再生時刻を記録し、ページを再読み込みしたうえで同じ時刻に戻すというものである。再読み込みを3回試しても広告が消えない場合は、広告のない別サイト（yout-ube.com）へ転送する予備手段を備えるとしている。再読み込みが連続しないよう、3秒のクールダウンを設けているという。\n\n広告主、再生時間、スキップ表示などの履歴を端末内に保存し、JSONまたはCSVで書き出せる。データは外部に送信されないとしている。対応ブラウザはChrome、Brave、Edge、Operaで、Safariは実験的な回避策にとどまり動作は確実ではないと明記している。\n\n作者は、YouTubeのクラス名の変更により広告を検出できなくなる可能性があると制限を挙げている。広告ブロッカーのuBlock Originとの併用も勧めており、ライセンスはMITである。",
+      "sources": [
+        {
+          "outlet": "github.com",
+          "url": "https://github.com/antonpictures/youtube-punisher",
+          "date": "2026-11-26",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": "https://news.ycombinator.com/item?id=50657530",
+      "summarizedBy": "claude-haiku-5-5"
+    },
+    {
+      "id": "a9d62a8629f2",
+      "stream": "ai",
+      "depth": "brief",
+      "section": "it",
+      "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003492/",
+      "headline": "東急テクノシステム、運転シミュレーター搭載のマイクロバス「ライドライブ」を開発",
+      "originalTitle": "鉄道運転シミュレーターをマイクロバスに搭載「ライドライブ」 東急テクノシステムが開発",
+      "outlet": "ITmedia NEWS",
+      "region": "domestic",
+      "category": "it",
+      "score": 32,
+      "tier": "spare",
+      "pubDate": "2026-11-26T06:34:12.000Z",
+      "body": null,
+      "summary": "東急電鉄グループの東急テクノシステムは11月26日、マイクロバスに鉄道の運転シミュレーターを搭載した移動式の「RideLIVE（ライドライブ）」を開発し、2027年11月から販売すると発表した。鉄道事業者や教育機関、イベントでの活用を想定している。\n\n車内には鉄道車両の運転台が再現されており、運転士の視点でリアルな運転体験ができる。マイクロバスは自走できるため、鉄道事業者や教育機関の拠点を巡回して訓練を行うことや、イベント、アミューズメント施設での利用が想定されている。従来の鉄道運転シミュレーターは施設固定型が主流で、設置場所や運用に制約があり利用機会を広げることが課題だったという。運転台のほか、客室空間も再現されており、東急電鉄の車両で実際に使われていた座席が置かれる。窓を模した大型液晶画面には、シミュレーターと連動した車窓の風景を映し出すこともできる。\n\n開発には東急電鉄が協力しており、シミュレーターでは東急大井町線の全線を運転できる。車体には東急電鉄の電車をイメージしたラッピングを施す予定である。販売価格は未定である。2027年2月に車両のお披露目と体験イベントを行い、同年11月から受注生産とレンタルの受け付けを始める予定だという。同年11月末には幕張メッセ（千葉市美浜区）で開催される鉄道技術展への出展も予定している。",
+      "sources": [
+        {
+          "outlet": "ITmedia NEWS",
+          "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003492/",
+          "date": "2026-11-26",
+          "access": "body",
+          "via": null,
+          "note": null
+        }
+      ],
+      "continuity": null,
+      "bodyAvailable": true,
+      "discussionUrl": null,
+      "summarizedBy": "claude-haiku-5-5"
+    }
+  ],
+  "essays": [],
+  "productionNote": {
+    "reachedOutlets": [
+      "TechCrunch",
+      "ITmedia NEWS",
+      "ITmedia AI+",
+      "Ars Technica",
+      "MIT Technology Review",
+      "Publickey",
+      "krebsonsecurity.com",
+      "Impress Watch",
+      "The Verge",
+      "github.com"
+    ],
+    "unreachedOutlets": [],
+    "excluded": [
+      {
+        "topic": "国際深掘りが当日に扱った3件",
+        "reason": "実行順により先発の系統を優先"
+      }
+    ],
+    "counts": {
+      "deep": 0,
+      "brief": 28,
+      "essays": 0,
+      "chars": 19723
+    },
+    "text": "候補97件から28件を掲載。本文が取れず不採用2件。"
+  }
+}
